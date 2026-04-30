@@ -78,6 +78,21 @@ export interface ProductRecord {
 
 export type ProductDatabase = Record<string, ProductRecord>
 
+export interface NavHub {
+  label: string
+  slug: string
+}
+
+export interface NavCategory {
+  label: string
+  slug: string
+  hubs: NavHub[]
+}
+
+export interface NavConfig {
+  categories: NavCategory[]
+}
+
 // ── Loaders (run at build time) ───────────────────────────────────────────────
 
 function loadYaml<T>(relativePath: string): T {
@@ -88,6 +103,7 @@ function loadYaml<T>(relativePath: string): T {
 let _siteConfig: SiteConfig | null = null
 let _persona: PersonaConfig | null = null
 let _products: ProductDatabase | null = null
+let _nav: NavConfig | null = null
 
 export function getSiteConfig(): SiteConfig {
   if (!_siteConfig) _siteConfig = loadYaml<SiteConfig>('site.config.yaml')
@@ -105,6 +121,11 @@ export function getPersona(): PersonaConfig {
 export function getProducts(): ProductDatabase {
   if (!_products) _products = loadYaml<ProductDatabase>('content/products/products.yaml')
   return _products
+}
+
+export function getNav(): NavConfig {
+  if (!_nav) _nav = loadYaml<NavConfig>('config/navigation.yaml')
+  return _nav
 }
 
 // ── Affiliate URL generation (build-time only) ────────────────────────────────

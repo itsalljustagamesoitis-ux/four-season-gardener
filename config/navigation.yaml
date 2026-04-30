@@ -1,0 +1,57 @@
+# Site navigation — categories and their hubs
+# Each category maps to a /category-slug/ page
+# Each hub maps to a /hub-slug/ page under that category
+# Add/remove hubs here without touching any code
+
+categories:
+  - label: "Outdoor Furniture"
+    slug: "outdoor-furniture"
+    hubs:
+      - label: "Garden Seating"
+        slug: "garden-seating"
+      - label: "Garden Tables"
+        slug: "garden-tables"
+      - label: "Sun Loungers"
+        slug: "sun-loungers"
+      - label: "Storage & Sheds"
+        slug: "storage-sheds"
+
+  - label: "Garden Tools"
+    slug: "garden-tools"
+    hubs:
+      - label: "Pruning & Cutting"
+        slug: "pruning-cutting"
+      - label: "Digging & Planting"
+        slug: "digging-planting"
+      - label: "Watering"
+        slug: "watering"
+      - label: "Lawn Care"
+        slug: "lawn-care"
+
+  - label: "Lawn Mowers"
+    slug: "lawn-mowers"
+    hubs:
+      - label: "Battery Mowers"
+        slug: "battery-mowers"
+      - label: "Robotic Mowers"
+        slug: "robotic-mowers"
+      - label: "Petrol Mowers"
+        slug: "petrol-mowers"
+      - label: "Mower Accessories"
+        slug: "mower-accessories"
+
+  - label: "Raised Beds"
+    slug: "raised-beds"
+    hubs:
+      - label: "Raised Bed Kits"
+        slug: "raised-bed-kits"
+      - label: "Soil & Compost"
+        slug: "soil-compost"
+      - label: "Grow Bags"
+        slug: "grow-bags"
+      - label: "Cold Frames"
+        slug: "cold-frames"
+
+  - label: "All Reviews"
+    slug: "reviews"
+    hubs: []
