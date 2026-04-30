@@ -31,6 +31,7 @@ const ArticleSchema = z.object({
   target_keyword: z.string(),
   related_articles: z.array(z.string()).default([]),
   products: z.array(ProductRefSchema).default([]),
+  tags: z.array(z.string()).default([]),
   disclosure_required: z.boolean().default(true),
   noindex: z.boolean().default(false),
   // Comparison-type only

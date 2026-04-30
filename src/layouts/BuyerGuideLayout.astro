@@ -4,18 +4,21 @@ import { resolveProduct, getSiteConfig } from '../lib/config'
 import BaseLayout from './BaseLayout.astro'
 import Byline from '../components/Byline.astro'
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import QuickPicks from '../components/QuickPicks.astro'
 import ProductCard from '../components/ProductCard.astro'
-import TrustBlock from '../components/TrustBlock.astro'
+import AuthorBio from '../components/AuthorBio.astro'
+import PrevNext from '../components/PrevNext.astro'
 import RelatedArticles from '../components/RelatedArticles.astro'
-import EmailCapture from '../components/EmailCapture.astro'
 import Breadcrumb from '../components/Breadcrumb.astro'
 import SchemaMarkup from '../components/SchemaMarkup.astro'
 
 interface Props {
   article: CollectionEntry<'articles'>
+  prev?: { slug: string; title: string } | null
+  next?: { slug: string; title: string } | null
 }
 
-const { article } = Astro.props
+const { article, prev, next } = Astro.props
 const { data } = article
 const cfg = getSiteConfig()
 
@@ -37,48 +40,33 @@ const resolvedProducts = data.products
 >
   <SchemaMarkup article={article} url={url} slot="head" />
 
-  <article class="article-page article-page--guide">
+  <article class="article-page">
     <Breadcrumb crumbs={[
       { label: data.category, href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
-      { label: data.hub, href: `/${data.hub.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.hub, href: `/${data.hub}/` },
       { label: data.title },
     ]} />
 
-    <header class="article-page__header">
-      <h1>{data.title}</h1>
-      <Byline date={data.date} updated={data.updated} />
-      {data.disclosure_required && <AffiliateDisclosure compact />}
-    </header>
+    <span class="article-eyebrow">{data.hub.replace(/-/g, ' ')}</span>
+    <h1>{data.title}</h1>
+    <Byline date={data.date} updated={data.updated} />
+    {data.disclosure_required && <AffiliateDisclosure />}
 
-    <img
-      src={heroUrl}
-      alt={data.hero_image_alt ?? data.title}
-      class="article-page__hero"
-      width="900"
-      height="500"
-      fetchpriority="high"
-      decoding="async"
-    />
+    <img src={heroUrl} alt={data.hero_image_alt ?? data.title} class="article-page__hero" width="900" height="500" fetchpriority="high" decoding="async" />
 
-    <div class="article-page__content">
-      <slot />
-    </div>
+    {resolvedProducts.length > 0 && <QuickPicks products={resolvedProducts} />}
+
+    <div class="article-page__content"><slot /></div>
 
     {resolvedProducts.length > 0 && (
       <aside class="article-page__picks">
         <h2>Our Top Picks</h2>
-        {resolvedProducts.map(product => (
-          <ProductCard product={product} showRole />
-        ))}
+        {resolvedProducts.map(product => <ProductCard product={product} showRole />)}
       </aside>
     )}
 
-    <EmailCapture />
-
-    <TrustBlock />
-
-    {data.related_articles.length > 0 && (
-      <RelatedArticles slugs={data.related_articles} />
-    )}
+    <AuthorBio />
+    {data.related_articles.length > 0 && <RelatedArticles slugs={data.related_articles} />}
+    <PrevNext prev={prev} next={next} />
   </article>
 </BaseLayout>

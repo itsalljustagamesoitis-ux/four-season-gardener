@@ -4,19 +4,20 @@ import { resolveProduct, getSiteConfig } from '../lib/config'
 import BaseLayout from './BaseLayout.astro'
 import Byline from '../components/Byline.astro'
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
-import ProductCard from '../components/ProductCard.astro'
 import ProsConsBox from '../components/ProsConsBox.astro'
-import TrustBlock from '../components/TrustBlock.astro'
+import AuthorBio from '../components/AuthorBio.astro'
+import PrevNext from '../components/PrevNext.astro'
 import RelatedArticles from '../components/RelatedArticles.astro'
-import EmailCapture from '../components/EmailCapture.astro'
 import Breadcrumb from '../components/Breadcrumb.astro'
 import SchemaMarkup from '../components/SchemaMarkup.astro'
 
 interface Props {
   article: CollectionEntry<'articles'>
+  prev?: { slug: string; title: string } | null
+  next?: { slug: string; title: string } | null
 }
 
-const { article } = Astro.props
+const { article, prev, next } = Astro.props
 const { data } = article
 const cfg = getSiteConfig()
 
@@ -25,6 +26,7 @@ const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
 
 const primaryRef = data.products[0]
 const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
+const imageUrl = primary?.image.startsWith('http') ? primary.image : primary ? `${cfg.images.base_url}/${primary.image}` : null
 ---
 
 <BaseLayout
@@ -40,15 +42,15 @@ const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
   <article class="article-page">
     <Breadcrumb crumbs={[
       { label: data.category, href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
-      { label: data.hub, href: `/${data.hub.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.hub, href: `/${data.hub}/` },
       { label: data.title },
     ]} />
 
-    <header class="article-page__header">
-      <h1>{data.title}</h1>
-      <Byline date={data.date} updated={data.updated} />
-      {data.disclosure_required && <AffiliateDisclosure compact />}
-    </header>
+    <span class="article-eyebrow">{data.hub.replace(/-/g, ' ')}</span>
+    <h1>{data.title}</h1>
+    <Byline date={data.date} updated={data.updated} />
+
+    {data.disclosure_required && <AffiliateDisclosure />}
 
     <img
       src={heroUrl}
@@ -62,27 +64,17 @@ const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
 
     {primary && (
       <div class="verdict-box">
-        <div class="verdict-box__header">
-          <strong>Our Verdict</strong>
-        </div>
+        <div class="verdict-box__header">Our Verdict</div>
         <div class="verdict-box__body">
           <div class="verdict-box__product">
-            <img
-              src={primary.image.startsWith('http') ? primary.image : `${cfg.images.base_url}/${primary.image}`}
-              alt={primary.name}
-              width="120"
-              height="90"
-              loading="lazy"
-            />
+            {imageUrl && (
+              <img src={imageUrl} alt={primary.name} width="120" height="90" loading="lazy" />
+            )}
             <div>
               <strong>{primary.brand} {primary.name}</strong>
+              <p style="font-size:0.875rem;color:var(--color-text-muted);margin:0.25rem 0 0.75rem;">{primary.pros[0]}</p>
               {primary.affiliate_url && (
-                <a
-                  href={primary.affiliate_url}
-                  class="btn btn--primary"
-                  rel="nofollow sponsored"
-                  target="_blank"
-                >
+                <a href={primary.affiliate_url} class="btn btn--primary" rel="nofollow sponsored" target="_blank">
                   Check Price
                 </a>
               )}
@@ -104,12 +96,12 @@ const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
       />
     )}
 
-    <EmailCapture compact />
-
-    <TrustBlock />
+    <AuthorBio />
 
     {data.related_articles.length > 0 && (
       <RelatedArticles slugs={data.related_articles} />
     )}
+
+    <PrevNext prev={prev} next={next} />
   </article>
 </BaseLayout>

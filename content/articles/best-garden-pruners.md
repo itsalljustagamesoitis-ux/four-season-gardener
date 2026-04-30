@@ -6,7 +6,7 @@ date: 2025-03-15
 updated: 2025-09-01
 author: maggie
 category: Garden Tools
-hub: pruning-tools
+hub: pruning-cutting
 hero_image: placeholder-hero.svg
 hero_image_alt: "Three pairs of bypass pruners laid out on a wooden potting bench"
 description: "After testing seven pairs across two growing seasons, here are the pruners worth buying — and the ones to skip entirely."
@@ -31,6 +31,7 @@ products:
       - "No replacement parts — when it's done, it's done"
 related_articles:
   - best-garden-hoes
+tags: [pruners, hand-tools, bypass-pruners]
 noindex: false
 ---
 

@@ -5,7 +5,7 @@ type: review
 date: 2025-04-10
 author: maggie
 category: Garden Tools
-hub: pruning-tools
+hub: pruning-cutting
 hero_image: placeholder-hero.svg
 hero_image_alt: "Felco 2 bypass pruner on a worn wooden workbench with rose clippings"
 description: "I've used the same pair of Felco 2 pruners for eleven years. Here's what holds up, what doesn't, and whether the price is justified."
@@ -25,6 +25,7 @@ products:
       - "Replacement parts need to be ordered separately (not stocked at most garden centres)"
 related_articles:
   - best-garden-pruners
+tags: [pruners, felco, hand-tools]
 noindex: false
 ---
 
