@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getSiteConfig } from '../lib/config'
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Contact — ${cfg.site.brand_name}`}
+  description="Get in touch with Four Season Gardener."
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:600px;">
+    <h1>Contact</h1>
+    <p>For questions about reviews, corrections, or partnership enquiries, email us at:</p>
+    <p><strong><a href="mailto:hello@fourseasongardener.com">hello@fourseasongardener.com</a></strong></p>
+    <p style="margin-top:2rem;color:var(--color-text-muted);font-size:0.9rem;">We read every email but can't reply to all of them. For product pitches: we don't accept products in exchange for reviews.</p>
+  </div>
+</BaseLayout>

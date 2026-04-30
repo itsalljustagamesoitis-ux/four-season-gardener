@@ -3,64 +3,43 @@ import { getSiteConfig } from '../lib/config'
 
 const cfg = getSiteConfig()
 const year = new Date().getFullYear()
-
-const cols = [
-  {
-    heading: 'Categories',
-    links: [
-      { label: 'Outdoor Furniture', href: '/outdoor-furniture/' },
-      { label: 'Garden Tools', href: '/garden-tools/' },
-      { label: 'Lawn Mowers', href: '/lawn-mowers/' },
-      { label: 'Raised Beds', href: '/raised-beds/' },
-    ],
-  },
-  {
-    heading: 'About',
-    links: [
-      { label: 'About Maggie', href: '/about/' },
-      { label: 'How We Test', href: '/how-we-test/' },
-      { label: 'All Reviews', href: '/reviews/' },
-    ],
-  },
-  {
-    heading: 'Legal',
-    links: [
-      { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
-      { label: 'Privacy Policy', href: '/privacy-policy/' },
-      { label: 'Contact', href: '/contact/' },
-    ],
-  },
-]
 ---
 
 <footer class="site-footer">
-  <div class="container">
-    <div class="site-footer__grid">
-      <div class="site-footer__brand">
-        <img
-          src={cfg.visual.logo_paths.footer_svg}
-          alt={cfg.site.brand_name}
-          width="160"
-          height="36"
-          loading="lazy"
-        />
-        <p>{cfg.site.tagline}</p>
+  <div class="container--wide">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <p class="footer-brand__name">{cfg.site.brand_name}</p>
+        <p class="footer-brand__tagline">{cfg.site.tagline}</p>
       </div>
-      {cols.map(col => (
-        <div class="site-footer__col">
-          <h3>{col.heading}</h3>
-          <ul>
-            {col.links.map(link => (
-              <li><a href={link.href}>{link.label}</a></li>
-            ))}
-          </ul>
-        </div>
-      ))}
+      <div class="footer-links">
+        <h4>Categories</h4>
+        <ul>
+          <li><a href="/outdoor-furniture/">Outdoor Furniture</a></li>
+          <li><a href="/garden-tools/">Garden Tools</a></li>
+          <li><a href="/lawn-mowers/">Lawn Mowers</a></li>
+          <li><a href="/raised-beds/">Raised Beds</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h4>About</h4>
+        <ul>
+          <li><a href="/about/">About Maggie</a></li>
+          <li><a href="/how-we-test/">How We Test</a></li>
+          <li><a href="/reviews/">All Reviews</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
     </div>
-    <div class="site-footer__bottom">
-      <p>
-        &copy; {year} {cfg.site.brand_name}. As an Amazon Associate and Awin publisher, we earn from qualifying purchases.
-      </p>
+    <div class="footer-bottom">
+      <p>&copy; {year} {cfg.site.brand_name}. As an Amazon Associate and Awin publisher, we earn from qualifying purchases.</p>
     </div>
   </div>
 </footer>

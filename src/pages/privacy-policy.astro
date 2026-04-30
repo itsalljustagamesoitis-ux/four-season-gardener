@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getSiteConfig } from '../lib/config'
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Privacy Policy — ${cfg.site.brand_name}`}
+  description="Privacy policy for Four Season Gardener."
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
+    <h1>Privacy Policy</h1>
+    <p><em>Last updated: May 2025</em></p>
+    <h2>What we collect</h2>
+    <p>If you subscribe to our newsletter, we collect your email address. We use this only to send you gardening tips and updates. We never sell or share your email address.</p>
+    <h2>Analytics</h2>
+    <p>We may use analytics tools to understand how visitors use this site. This data is anonymised and used only to improve the site.</p>
+    <h2>Cookies</h2>
+    <p>This site uses minimal cookies. Analytics may set cookies to distinguish repeat visits. Affiliate networks (Amazon, Awin) may set cookies when you click through to purchase.</p>
+    <h2>Your rights</h2>
+    <p>You can request deletion of your data at any time by emailing <a href="mailto:hello@fourseasongardener.com">hello@fourseasongardener.com</a>.</p>
+    <h2>Contact</h2>
+    <p>Questions about this policy: <a href="mailto:hello@fourseasongardener.com">hello@fourseasongardener.com</a></p>
+  </div>
+</BaseLayout>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#e8f0e0"/>
+  <rect y="350" width="900" height="150" fill="#c5d9a8"/>
+  <circle cx="150" cy="200" r="80" fill="#4a7a28" opacity="0.3"/>
+  <circle cx="750" cy="180" r="100" fill="#4a7a28" opacity="0.25"/>
+  <rect x="380" y="180" width="140" height="200" rx="8" fill="#8B4513" opacity="0.4"/>
+  <ellipse cx="450" cy="170" rx="90" ry="60" fill="#3a6a1a" opacity="0.5"/>
+  <text x="450" y="460" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#2D5016" opacity="0.5">Four Season Gardener</text>
+</svg>

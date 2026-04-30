@@ -8,18 +8,18 @@ interface Props {
 
 const {
   headline = 'Seasonal gardening tips, straight to your inbox',
-  subtext = 'No fluff — just Maggie\'s honest takes on what to plant, prune, and buy each season.',
+  subtext = "No fluff — just Maggie's honest takes on what to plant, prune, and buy each season.",
   buttonText = 'Get the tips',
   compact = false,
 } = Astro.props
 ---
 
-<div class={`email-capture ${compact ? 'email-capture--compact' : ''}`}>
-  <div class="email-capture__inner">
-    {!compact && <h3 class="email-capture__headline">{headline}</h3>}
-    {!compact && <p class="email-capture__subtext">{subtext}</p>}
-    {compact && <p class="email-capture__headline">{headline}</p>}
-    <form class="email-capture__form" data-form="email-capture">
+<div class={`email-capture ${compact ? 'email-capture--inline' : ''}`}>
+  <div>
+    {!compact && <h3 class="email-capture__title">{headline}</h3>}
+    {!compact && <p class="email-capture__subtitle">{subtext}</p>}
+    {compact && <p class="email-capture__title" style="font-size:1rem;">{headline}</p>}
+    <form class="email-capture__form" data-form="email-capture" novalidate>
       <input
         type="email"
         name="email"
@@ -32,31 +32,22 @@ const {
         {buttonText}
       </button>
     </form>
-    <p class="email-capture__disclaimer">No spam. Unsubscribe any time.</p>
+    <p class="email-capture__privacy">No spam. Unsubscribe any time.</p>
   </div>
 </div>
 
 <script>
   document.querySelectorAll('[data-form="email-capture"]').forEach(form => {
-    form.addEventListener('submit', async (e) => {
+    form.addEventListener('submit', (e) => {
       e.preventDefault()
       const input = (form as HTMLFormElement).querySelector('input[type="email"]') as HTMLInputElement
       const btn = (form as HTMLFormElement).querySelector('button') as HTMLButtonElement
       if (!input?.value) return
-      btn.disabled = true
-      btn.textContent = 'Sending...'
-      try {
-        await fetch('/api/subscribe', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ email: input.value }),
-        })
-        btn.textContent = 'You\'re in!'
-        input.value = ''
-      } catch {
-        btn.disabled = false
-        btn.textContent = 'Try again'
-      }
+      // Placeholder: replace this URL with your email platform embed
+      const email = encodeURIComponent(input.value)
+      window.open(`https://fourseasongardener.beehiiv.com/subscribe?email=${email}`, '_blank')
+      btn.textContent = "You're in!"
+      input.value = ''
     })
   })
 </script>
