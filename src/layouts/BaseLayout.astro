@@ -67,8 +67,9 @@ const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageUrl} />
 
-    <!-- Favicon -->
+    <!-- Favicon & manifest -->
     <link rel="icon" type="image/svg+xml" href={cfg.visual.logo_paths.favicon} />
+    <link rel="manifest" href="/manifest.json" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -85,6 +86,7 @@ const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
     {schemas.map(s => (
       <script type="application/ld+json" set:html={s} />
     ))}
+    <slot name="head" />
 
     <!-- GA4 -->
     {cfg.analytics.ga4_measurement_id && (

@@ -1,0 +1,12 @@
+{
+  "name": "The Four Season Gardener",
+  "short_name": "FSGardener",
+  "description": "Honest garden product reviews and buying guides",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FAFAF7",
+  "theme_color": "#2D5016",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

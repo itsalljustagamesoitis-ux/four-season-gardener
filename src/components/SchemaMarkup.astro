@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { getSiteConfig, getPersona } from '../lib/config'
+import { getSiteConfig, getPersona, resolveProduct } from '../lib/config'
 
 interface Props {
   article: CollectionEntry<'articles'>
@@ -12,9 +12,16 @@ const { data } = article
 const cfg = getSiteConfig()
 const persona = getPersona()
 
-const articleSchema = {
+const imageUrl = `${cfg.images.base_url}/${data.hero_image}`
+const isReview = data.type === 'review'
+
+// Primary product for review schema
+const primaryRef = data.products?.find((p: any) => p.role === 'primary') ?? data.products?.[0]
+const primaryProduct = primaryRef ? resolveProduct(primaryRef, data.slug) : null
+
+const articleSchema: Record<string, unknown> = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  '@type': isReview ? 'Review' : 'Article',
   headline: data.title,
   description: data.description,
   url,
@@ -29,13 +36,24 @@ const articleSchema = {
     '@type': 'Organization',
     name: cfg.site.brand_name,
     url: cfg.site.domain,
-    logo: {
-      '@type': 'ImageObject',
-      url: cfg.visual.logo_paths.header_png,
-    },
+    logo: { '@type': 'ImageObject', url: cfg.visual.logo_paths.header_png },
   },
-  image: `${cfg.images.base_url}/${data.hero_image}`,
+  image: { '@type': 'ImageObject', url: imageUrl },
   mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+}
+
+if (isReview && primaryProduct) {
+  articleSchema.itemReviewed = {
+    '@type': 'Product',
+    name: `${primaryProduct.brand} ${primaryProduct.name}`,
+    image: primaryProduct.image ?? imageUrl,
+  }
+  articleSchema.reviewRating = {
+    '@type': 'Rating',
+    ratingValue: primaryProduct.rating ?? 4.5,
+    bestRating: 5,
+    worstRating: 1,
+  }
 }
 
 const breadcrumbSchema = {
@@ -44,7 +62,7 @@ const breadcrumbSchema = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: cfg.site.domain },
     { '@type': 'ListItem', position: 2, name: data.category, item: `${cfg.site.domain}/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
-    { '@type': 'ListItem', position: 3, name: data.hub, item: `${cfg.site.domain}/${data.hub.toLowerCase().replace(/\s+/g, '-')}/` },
+    { '@type': 'ListItem', position: 3, name: data.hub, item: `${cfg.site.domain}/${data.hub}/` },
     { '@type': 'ListItem', position: 4, name: data.title, item: url },
   ],
 }
