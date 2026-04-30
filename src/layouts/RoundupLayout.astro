@@ -1,0 +1,89 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { resolveProduct, getSiteConfig } from '../lib/config'
+import BaseLayout from './BaseLayout.astro'
+import Byline from '../components/Byline.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import ProductCard from '../components/ProductCard.astro'
+import ComparisonTable from '../components/ComparisonTable.astro'
+import TrustBlock from '../components/TrustBlock.astro'
+import RelatedArticles from '../components/RelatedArticles.astro'
+import EmailCapture from '../components/EmailCapture.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import SchemaMarkup from '../components/SchemaMarkup.astro'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+}
+
+const { article } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+
+const url = new URL(`/${data.slug}/`, Astro.site).href
+const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
+
+const resolvedProducts = data.products
+  .map((ref, i) => ({ product: resolveProduct(ref, data.slug), rank: i + 1 }))
+  .filter(p => p.product !== null) as { product: NonNullable<ReturnType<typeof resolveProduct>>, rank: number }[]
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={url}
+  ogImage={heroUrl}
+  ogType="article"
+  noindex={data.noindex}
+>
+  <SchemaMarkup article={article} url={url} slot="head" />
+
+  <article class="article-page">
+    <Breadcrumb crumbs={[
+      { label: data.category, href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.hub, href: `/${data.hub.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.title },
+    ]} />
+
+    <header class="article-page__header">
+      <h1>{data.title}</h1>
+      <Byline date={data.date} updated={data.updated} />
+      {data.disclosure_required && <AffiliateDisclosure compact />}
+    </header>
+
+    <img
+      src={heroUrl}
+      alt={data.hero_image_alt ?? data.title}
+      class="article-page__hero"
+      width="900"
+      height="500"
+      fetchpriority="high"
+      decoding="async"
+    />
+
+    {resolvedProducts.length >= 3 && (
+      <div class="article-page__jump-links">
+        <p><strong>Quick comparison:</strong></p>
+        <ComparisonTable products={resolvedProducts.map(p => p.product)} />
+      </div>
+    )}
+
+    <div class="article-page__content">
+      <slot />
+    </div>
+
+    <div class="article-page__products">
+      {resolvedProducts.map(({ product, rank }) => (
+        <ProductCard product={product} rank={rank} />
+      ))}
+    </div>
+
+    <EmailCapture compact />
+
+    <TrustBlock />
+
+    {data.related_articles.length > 0 && (
+      <RelatedArticles slugs={data.related_articles} />
+    )}
+  </article>
+</BaseLayout>

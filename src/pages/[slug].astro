@@ -1,0 +1,44 @@
+---
+import { getCollection, render } from 'astro:content'
+import type { CollectionEntry } from 'astro:content'
+import RoundupLayout from '../layouts/RoundupLayout.astro'
+import ReviewLayout from '../layouts/ReviewLayout.astro'
+import ComparisonLayout from '../layouts/ComparisonLayout.astro'
+import BuyerGuideLayout from '../layouts/BuyerGuideLayout.astro'
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles')
+  return articles.map(article => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }))
+}
+
+interface Props {
+  article: CollectionEntry<'articles'>
+}
+
+const { article } = Astro.props
+const { Content } = await render(article)
+---
+
+{article.data.type === 'roundup' && (
+  <RoundupLayout article={article}>
+    <Content />
+  </RoundupLayout>
+)}
+{article.data.type === 'review' && (
+  <ReviewLayout article={article}>
+    <Content />
+  </ReviewLayout>
+)}
+{article.data.type === 'comparison' && (
+  <ComparisonLayout article={article}>
+    <Content />
+  </ComparisonLayout>
+)}
+{article.data.type === 'buyer_guide' && (
+  <BuyerGuideLayout article={article}>
+    <Content />
+  </BuyerGuideLayout>
+)}

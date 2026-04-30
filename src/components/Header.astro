@@ -1,0 +1,85 @@
+---
+import { getSiteConfig } from '../lib/config'
+
+const cfg = getSiteConfig()
+const nav = [
+  { label: 'Outdoor Furniture', href: '/outdoor-furniture/' },
+  { label: 'Garden Tools', href: '/garden-tools/' },
+  { label: 'Lawn Mowers', href: '/lawn-mowers/' },
+  { label: 'Raised Beds', href: '/raised-beds/' },
+  { label: 'All Reviews', href: '/reviews/' },
+]
+---
+
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a href="/" class="site-header__logo" aria-label={cfg.site.brand_name}>
+      <img
+        src={cfg.visual.logo_paths.header_svg}
+        alt={cfg.site.brand_name}
+        width="180"
+        height="40"
+      />
+    </a>
+    <nav class="site-header__nav" aria-label="Main navigation">
+      <ul>
+        {nav.map(item => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <button class="site-header__menu-toggle" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<style>
+  .site-header__menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+  }
+  .site-header__menu-toggle span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: var(--color-primary);
+    border-radius: 2px;
+  }
+  @media (max-width: 768px) {
+    .site-header__menu-toggle { display: flex; }
+    .site-header__nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: #fff;
+      border-top: 2px solid var(--color-primary);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      z-index: 100;
+    }
+    .site-header__nav.is-open { display: block; }
+    .site-header__nav ul { flex-direction: column; gap: 0; }
+    .site-header__nav ul li a {
+      display: block;
+      padding: 0.875rem 1.5rem;
+      border-bottom: 1px solid #f0ede6;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.querySelector('.site-header__menu-toggle') as HTMLButtonElement
+  const nav = document.querySelector('.site-header__nav')
+  toggle?.addEventListener('click', () => {
+    const open = toggle.getAttribute('aria-expanded') === 'true'
+    toggle.setAttribute('aria-expanded', String(!open))
+    nav?.classList.toggle('is-open', !open)
+  })
+</script>

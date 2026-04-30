@@ -1,0 +1,227 @@
+westminster-teak-classic:
+  name: "Westminster Teak Classic Adirondack Chair"
+  brand: "Westminster Teak"
+  amazon_asin: "B07XTEAK01"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/westminster-teak-classic.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "Genuine Grade A teak"
+    - "Heirloom-quality construction"
+    - "12-year warranty"
+  default_cons:
+    - "Premium price point"
+    - "Heavy — repositioning takes effort"
+  notes_for_writers: "Westminster's flagship. Best overall pick when budget allows."
+  last_verified: 2026-04-30
+
+polywood-classic-adirondack:
+  name: "POLYWOOD Classic Adirondack Chair"
+  brand: "POLYWOOD"
+  amazon_asin: "B0POLY001"
+  awin_advertiser_id: 12345
+  awin_product_url: "https://www.polywood.com/classic-adirondack"
+  default_image: "/images/products/polywood-classic-adirondack.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "Recycled HDPE — genuinely weatherproof"
+    - "Never needs sealing or staining"
+    - "Wide color range"
+  default_cons:
+    - "Feels slightly hollow compared to solid wood"
+    - "Fades slightly in prolonged direct sun"
+  notes_for_writers: "Best value pick. Emphasise zero-maintenance angle for busy gardeners."
+  last_verified: 2026-04-30
+
+fiskars-pro-bypass-pruner:
+  name: "Fiskars Pro 91095935J Steel Bypass Pruning Shears"
+  brand: "Fiskars"
+  amazon_asin: "B00004SD6L"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/fiskars-pro-bypass-pruner.jpg"
+  category: "hand-tools"
+  price_band: "mid"
+  default_pros:
+    - "Hardened steel blade holds edge well"
+    - "Low-friction coating reduces sap buildup"
+    - "Lifetime warranty"
+  default_cons:
+    - "Grip is sized for medium-large hands"
+    - "Spring occasionally needs adjustment after heavy use"
+  notes_for_writers: "Reliable workhorse. Good for best-overall slot in pruner roundups."
+  last_verified: 2026-04-30
+
+felco-2-pruner:
+  name: "FELCO 2 Classic Manual Hand Pruner"
+  brand: "FELCO"
+  amazon_asin: "B00002N697"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/felco-2-pruner.jpg"
+  category: "hand-tools"
+  price_band: "premium"
+  default_pros:
+    - "Swiss-made, fully repairable and rebladeable"
+    - "Exceptional balance in hand"
+    - "Decades of documented longevity"
+  default_cons:
+    - "Premium price with no lifetime warranty (parts sold separately)"
+    - "Right-hand only (left-hand version is FELCO 9)"
+  notes_for_writers: "The heirloom pick. Position as an investment, not an impulse."
+  last_verified: 2026-04-30
+
+ego-56v-battery-mower:
+  name: "EGO Power+ LM2135SP 21-Inch Self-Propelled Lawn Mower"
+  brand: "EGO"
+  amazon_asin: "B08XXXEGO1"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-56v-battery-mower.jpg"
+  category: "battery-equipment"
+  price_band: "premium"
+  default_pros:
+    - "56V battery genuinely matches gas runtime on typical lawns"
+    - "Self-propelled drive reduces fatigue on slopes"
+    - "Quiet enough to mow early morning without complaints"
+  default_cons:
+    - "Battery sold separately on some SKUs — check listing"
+    - "Heavy at 89 lbs — storage matters"
+  notes_for_writers: "Flagship battery mower. Best overall for most residential users."
+  last_verified: 2026-04-30
+
+greenworks-40v-mower:
+  name: "Greenworks 40V 17-Inch Cordless Lawn Mower"
+  brand: "Greenworks"
+  amazon_asin: "B08XXXGW01"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenworks-40v-mower.jpg"
+  category: "battery-equipment"
+  price_band: "budget"
+  default_pros:
+    - "Battery + charger usually included"
+    - "Lightweight — easy to manoeuvre and store"
+    - "Good for lots under 1/4 acre"
+  default_cons:
+    - "40V platform less powerful on thick grass"
+    - "17-inch deck means more passes on larger lawns"
+  notes_for_writers: "Budget pick. Be honest about lot-size limits."
+  last_verified: 2026-04-30
+
+cedar-raised-bed-4x8:
+  name: "Vego Garden 17-Inch Tall Metal Raised Garden Bed"
+  brand: "Vego Garden"
+  amazon_asin: "B09VEGO001"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/vego-raised-bed.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "Aluzinc steel — 20-year lifespan claim"
+    - "17-inch depth suits root vegetables properly"
+    - "Modular — can be extended"
+  default_cons:
+    - "Assembly requires two people"
+    - "Metal heats up in full summer sun — mulch matters"
+  notes_for_writers: "Category leader right now. Worth best-overall slot."
+  last_verified: 2026-04-30
+
+gorilla-cart-poly-dump:
+  name: "Gorilla Carts GOR6PS Heavy-Duty Poly Yard Dump Cart"
+  brand: "Gorilla Carts"
+  amazon_asin: "B001GOR001"
+  awin_advertiser_id: null
+  awin_product_url: null
+  category: "yard-tools"
+  price_band: "mid"
+  default_image: "/images/products/gorilla-cart-poly.jpg"
+  default_pros:
+    - "1,200 lb capacity — serious utility"
+    - "Poly bed won't rust or splinter"
+    - "Dump mechanism works smoothly when loaded"
+  default_cons:
+    - "Pneumatic tyres need occasional inflation"
+    - "Wide — tight paths can be awkward"
+  notes_for_writers: "Best value utility cart. Used by pros and serious gardeners alike."
+  last_verified: 2026-04-30
+
+haws-watering-can-2gal:
+  name: "Haws Practican 1.3 Gallon Plastic Watering Can"
+  brand: "Haws"
+  amazon_asin: "B00HAWS001"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/haws-watering-can.jpg"
+  category: "watering"
+  price_band: "mid"
+  default_pros:
+    - "Long spout — precision watering at the root"
+    - "Balanced when full — reduced wrist strain"
+    - "British-made, 10-year guarantee"
+  default_cons:
+    - "1.3 gallon capacity means more trips for large beds"
+    - "Rose (sprinkler head) sold separately"
+  notes_for_writers: "Premium but not ludicrous. Good for best-overall watering can slot."
+  last_verified: 2026-04-30
+
+corona-transplanting-trowel:
+  name: "Corona CT 3020 Transplanting Trowel"
+  brand: "Corona"
+  amazon_asin: "B00CORO001"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/corona-transplanting-trowel.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Depth markings on blade — useful for bulb planting"
+    - "Comfortable ergonomic grip"
+    - "Rust-resistant stainless steel"
+  default_cons:
+    - "Narrower blade than some prefer for heavy soil"
+  notes_for_writers: "Best budget trowel. Reliable entry-level pick."
+  last_verified: 2026-04-30
+
+dewit-forged-hoe:
+  name: "DeWit Forged Dutch Hoe"
+  brand: "DeWit"
+  amazon_asin: "B00DEWIT01"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/dewit-dutch-hoe.jpg"
+  category: "hand-tools"
+  price_band: "premium"
+  default_pros:
+    - "Boron steel — forged, not stamped"
+    - "Ash handle with natural flex"
+    - "Dutch push-pull action efficient in tight rows"
+  default_cons:
+    - "Price is hard to justify for occasional use"
+    - "Handle length fixed — order the right size"
+  notes_for_writers: "The tool enthusiast's pick. Position as a lifetime buy."
+  last_verified: 2026-04-30
+
+husqvarna-automower-115h:
+  name: "Husqvarna Automower 115H Robotic Lawn Mower"
+  brand: "Husqvarna"
+  amazon_asin: "B08HUSQ115"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/husqvarna-automower-115h.jpg"
+  category: "battery-equipment"
+  price_band: "premium"
+  default_pros:
+    - "Fully autonomous — set schedule and forget"
+    - "Mulching cuts eliminate grass disposal"
+    - "Quiet enough for night operation"
+  default_cons:
+    - "Boundary wire installation is a half-day job"
+    - "Struggles with steep slopes above 40%"
+    - "Subscription app features on some models"
+  notes_for_writers: "Premium robotic option. Good for comparison vs standard battery mowers."
+  last_verified: 2026-04-30

@@ -1,0 +1,126 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getSiteConfig } from '../lib/config'
+import EmailCapture from '../components/EmailCapture.astro'
+
+const cfg = getSiteConfig()
+const articles = await getCollection('articles')
+const featured = articles.slice(0, 6)
+
+const categories = [
+  { label: 'Outdoor Furniture', href: '/outdoor-furniture/', icon: '🪑' },
+  { label: 'Garden Tools', href: '/garden-tools/', icon: '🌿' },
+  { label: 'Lawn Mowers', href: '/lawn-mowers/', icon: '🌱' },
+  { label: 'Raised Beds', href: '/raised-beds/', icon: '🥕' },
+]
+---
+
+<BaseLayout
+  title={`${cfg.site.brand_name} — ${cfg.site.tagline}`}
+  description="Honest, tested reviews of outdoor furniture, garden tools, and lawn equipment from a gardener who actually uses them."
+>
+  <section class="home-hero">
+    <div class="container">
+      <p class="home-hero__label">Garden Reviews & Buying Guides</p>
+      <h1 class="home-hero__headline">Buy the right thing for your garden, first time.</h1>
+      <p class="home-hero__subtext">
+        Maggie Whitfield has been gardening in Western Massachusetts for 30 years.
+        These are her honest takes — no affiliate bias, no PR samples.
+      </p>
+      <div class="home-hero__cta">
+        <a href="/reviews/" class="btn btn--primary">Browse All Reviews</a>
+        <a href="/about/" class="btn btn--outline">About Maggie</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-categories">
+    <div class="container">
+      <h2 class="section-heading">Browse by Category</h2>
+      <div class="home-categories__grid">
+        {categories.map(cat => (
+          <a href={cat.href} class="home-category-card">
+            <span class="home-category-card__icon">{cat.icon}</span>
+            <span class="home-category-card__label">{cat.label}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {featured.length > 0 && (
+    <section class="home-featured">
+      <div class="container">
+        <h2 class="section-heading">Recent Reviews</h2>
+        <div class="article-grid">
+          {featured.map(article => (
+            <a href={`/${article.data.slug}/`} class="article-card">
+              <img
+                src={`${cfg.images.base_url}/${article.data.hero_image}`}
+                alt={article.data.hero_image_alt ?? article.data.title}
+                width="400"
+                height="225"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="article-card__body">
+                <span class="article-card__type">{article.data.type.replace('_', ' ')}</span>
+                <h3 class="article-card__title">{article.data.title}</h3>
+                <p class="article-card__desc">{article.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="home-email">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .home-hero {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #3d6b20 100%);
+    color: #fff;
+    padding: 4rem 0 3.5rem;
+    text-align: center;
+  }
+  .home-hero__label {
+    font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--color-accent); font-weight: 700; margin-bottom: 0.75rem;
+  }
+  .home-hero__headline {
+    font-family: var(--font-headings); font-size: clamp(2rem, 5vw, 3rem);
+    color: #fff; max-width: 720px; margin: 0 auto 1rem;
+  }
+  .home-hero__subtext {
+    font-size: 1.05rem; opacity: 0.9; max-width: 540px; margin: 0 auto 2rem;
+  }
+  .home-hero__cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+  .section-heading {
+    font-family: var(--font-headings); font-size: 1.5rem; margin-bottom: 1.5rem;
+  }
+  .home-categories { padding: 3rem 0; }
+  .home-categories__grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1rem;
+  }
+  .home-category-card {
+    display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+    padding: 1.75rem 1rem; background: var(--color-surface);
+    border: 1px solid var(--color-border); border-radius: var(--radius);
+    text-decoration: none; color: var(--color-text);
+    transition: border-color 0.15s, box-shadow 0.15s; text-align: center;
+  }
+  .home-category-card:hover { border-color: var(--color-primary); box-shadow: var(--shadow-md); color: var(--color-text); }
+  .home-category-card__icon { font-size: 2rem; }
+  .home-category-card__label { font-weight: 700; font-size: 0.9rem; }
+
+  .home-featured { padding: 3rem 0; }
+  .home-email { padding: 2rem 0 4rem; }
+</style>

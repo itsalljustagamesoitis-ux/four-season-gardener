@@ -1,0 +1,109 @@
+---
+import { getSiteConfig, getPersona } from '../lib/config'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import '../styles/global.css'
+
+interface Props {
+  title: string
+  description: string
+  canonicalUrl?: string
+  ogImage?: string
+  ogType?: 'website' | 'article'
+  noindex?: boolean
+  schema?: string | string[]
+}
+
+const {
+  title,
+  description,
+  canonicalUrl,
+  ogImage,
+  ogType = 'website',
+  noindex = false,
+  schema,
+} = Astro.props
+
+const cfg = getSiteConfig()
+const persona = getPersona()
+
+const canonical = canonicalUrl ?? new URL(Astro.url.pathname, Astro.site).href
+const ogImageUrl = ogImage ?? `${cfg.images.base_url}/og-default.jpg`
+
+const cssVars = `
+  --color-primary: ${cfg.visual.primary_color};
+  --color-accent: ${cfg.visual.accent_color};
+  --color-background: ${cfg.visual.background_color};
+  --font-headings: '${cfg.visual.font_headings}', Georgia, serif;
+  --font-body: '${cfg.visual.font_body}', system-ui, sans-serif;
+`.trim()
+
+const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="canonical" href={canonical} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:site_name" content={cfg.site.brand_name} />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href={cfg.visual.logo_paths.favicon} />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href={`https://fonts.googleapis.com/css2?family=${cfg.visual.font_headings.replace(/ /g, '+')}:ital,wght@0,400;0,600;0,700;1,400&family=${cfg.visual.font_body.replace(/ /g, '+')}:wght@400;500;600&display=swap`}
+      rel="stylesheet"
+    />
+
+    <!-- CSS custom properties from site config -->
+    <style set:html={`:root { ${cssVars} }`} />
+
+    <!-- Structured data -->
+    {schemas.map(s => (
+      <script type="application/ld+json" set:html={s} />
+    ))}
+
+    <!-- GA4 -->
+    {cfg.analytics.ga4_measurement_id && (
+      <>
+        <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${cfg.analytics.ga4_measurement_id}`}
+        />
+        <script
+          set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${cfg.analytics.ga4_measurement_id}');`}
+        />
+      </>
+    )}
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

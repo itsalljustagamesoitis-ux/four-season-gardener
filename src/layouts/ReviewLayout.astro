@@ -1,0 +1,115 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { resolveProduct, getSiteConfig } from '../lib/config'
+import BaseLayout from './BaseLayout.astro'
+import Byline from '../components/Byline.astro'
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
+import ProductCard from '../components/ProductCard.astro'
+import ProsConsBox from '../components/ProsConsBox.astro'
+import TrustBlock from '../components/TrustBlock.astro'
+import RelatedArticles from '../components/RelatedArticles.astro'
+import EmailCapture from '../components/EmailCapture.astro'
+import Breadcrumb from '../components/Breadcrumb.astro'
+import SchemaMarkup from '../components/SchemaMarkup.astro'
+
+interface Props {
+  article: CollectionEntry<'articles'>
+}
+
+const { article } = Astro.props
+const { data } = article
+const cfg = getSiteConfig()
+
+const url = new URL(`/${data.slug}/`, Astro.site).href
+const heroUrl = `${cfg.images.base_url}/${data.hero_image}`
+
+const primaryRef = data.products[0]
+const primary = primaryRef ? resolveProduct(primaryRef, data.slug) : null
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={url}
+  ogImage={heroUrl}
+  ogType="article"
+  noindex={data.noindex}
+>
+  <SchemaMarkup article={article} url={url} slot="head" />
+
+  <article class="article-page">
+    <Breadcrumb crumbs={[
+      { label: data.category, href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.hub, href: `/${data.hub.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: data.title },
+    ]} />
+
+    <header class="article-page__header">
+      <h1>{data.title}</h1>
+      <Byline date={data.date} updated={data.updated} />
+      {data.disclosure_required && <AffiliateDisclosure compact />}
+    </header>
+
+    <img
+      src={heroUrl}
+      alt={data.hero_image_alt ?? data.title}
+      class="article-page__hero"
+      width="900"
+      height="500"
+      fetchpriority="high"
+      decoding="async"
+    />
+
+    {primary && (
+      <div class="verdict-box">
+        <div class="verdict-box__header">
+          <strong>Our Verdict</strong>
+        </div>
+        <div class="verdict-box__body">
+          <div class="verdict-box__product">
+            <img
+              src={primary.image.startsWith('http') ? primary.image : `${cfg.images.base_url}/${primary.image}`}
+              alt={primary.name}
+              width="120"
+              height="90"
+              loading="lazy"
+            />
+            <div>
+              <strong>{primary.brand} {primary.name}</strong>
+              {primary.affiliate_url && (
+                <a
+                  href={primary.affiliate_url}
+                  class="btn btn--primary"
+                  rel="nofollow sponsored"
+                  target="_blank"
+                >
+                  Check Price
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
+    )}
+
+    <div class="article-page__content">
+      <slot />
+    </div>
+
+    {primary && (
+      <ProsConsBox
+        pros={primary.pros}
+        cons={primary.cons}
+        productName={`${primary.brand} ${primary.name}`}
+      />
+    )}
+
+    <EmailCapture compact />
+
+    <TrustBlock />
+
+    {data.related_articles.length > 0 && (
+      <RelatedArticles slugs={data.related_articles} />
+    )}
+  </article>
+</BaseLayout>

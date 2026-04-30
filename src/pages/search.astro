@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getSiteConfig } from '../lib/config'
+
+const cfg = getSiteConfig()
+---
+
+<BaseLayout
+  title={`Search — ${cfg.site.brand_name}`}
+  description="Search all garden product reviews and buying guides on Four Season Gardener."
+>
+  <div class="container" style="padding: 3rem 1.5rem;">
+    <h1>Search Reviews</h1>
+    <div id="search" class="pagefind-search"></div>
+  </div>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // @ts-ignore — pagefind loads at runtime after build
+    new PagefindUI({ element: '#search', showSubResults: true })
+  })
+</script>
+<script src="/pagefind/pagefind-ui.js" is:inline>
+
+<style>
+  .pagefind-search { margin-top: 1.5rem; }
+</style>

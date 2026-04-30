@@ -1,0 +1,21 @@
+---
+interface Props {
+  compact?: boolean
+}
+const { compact = false } = Astro.props
+---
+
+{compact ? (
+  <p class="affiliate-disclosure affiliate-disclosure--compact">
+    <em>Disclosure: We earn a small commission from qualifying purchases at no extra cost to you.</em>
+  </p>
+) : (
+  <div class="affiliate-disclosure">
+    <p>
+      <strong>Affiliate Disclosure:</strong> Four Season Gardener participates in the Amazon Associates
+      Program and other affiliate programs. When you purchase through links on our site, we may earn a
+      small commission at no extra cost to you. This never influences our recommendations — we only
+      recommend products we'd buy ourselves or have tested personally.
+    </p>
+  </div>
+)}

@@ -1,0 +1,36 @@
+site:
+  brand_name: "The Four Season Gardener"
+  domain: "fourseasongardener.com"
+  tagline: "Honest gardening advice for every season"
+
+visual:
+  primary_color: "#2D5016"
+  accent_color: "#C19A4B"
+  background_color: "#FDFBF7"
+  font_headings: "Lora"
+  font_body: "Source Sans 3"
+  logo_paths:
+    favicon: "/images/brand/favicon.ico"
+    header_svg: "/images/brand/logo-header.svg"
+    header_png: "/images/brand/logo-header.png"
+    footer_svg: "/images/brand/logo-footer.svg"
+    social_square: "/images/brand/social-square.png"
+    open_graph_default: "/images/brand/open-graph-default.png"
+
+persona:
+  config_path: "config/personas/maggie.yaml"
+
+affiliate:
+  amazon_tracking_id: "fourseasong-20"
+  awin_publisher_id: "2831126"
+  awin_clickref_pattern: "fsg"
+
+analytics:
+  ga4_measurement_id: "G-XXXXXXX"
+  bing_uet_tag: null
+
+images:
+  base_url: "/images"
+
+deployment:
+  cloudflare_pages_project: "four-season-gardener"

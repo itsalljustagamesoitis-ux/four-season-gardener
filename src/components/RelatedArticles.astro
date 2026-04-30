@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content'
+import { getSiteConfig } from '../lib/config'
+
+interface Props {
+  slugs: string[]
+  heading?: string
+}
+
+const { slugs, heading = 'Related Reviews' } = Astro.props
+const cfg = getSiteConfig()
+
+const all = await getCollection('articles')
+const related = slugs
+  .map(slug => all.find(a => a.data.slug === slug))
+  .filter(Boolean)
+---
+
+{related.length > 0 && (
+  <section class="related-articles" aria-label={heading}>
+    <h2>{heading}</h2>
+    <div class="related-articles__grid">
+      {related.map(article => (
+        <a href={`/${article!.data.slug}/`} class="related-articles__card">
+          <img
+            src={`${cfg.images.base_url}/${article!.data.hero_image}`}
+            alt={article!.data.hero_image_alt ?? article!.data.title}
+            width="320"
+            height="200"
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="related-articles__card-body">
+            <span class="related-articles__hub">{article!.data.hub}</span>
+            <h3>{article!.data.title}</h3>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
