@@ -86,9 +86,7 @@ const quickPickProducts = resolvedProducts.map(p => p.product)
 
     <AuthorBio />
 
-    {data.related_articles.length > 0 && (
-      <RelatedArticles slugs={data.related_articles} />
-    )}
+    <RelatedArticles currentSlug={data.slug} currentHub={data.hub} currentTags={data.tags} />
 
     <PrevNext prev={prev} next={next} />
   </article>

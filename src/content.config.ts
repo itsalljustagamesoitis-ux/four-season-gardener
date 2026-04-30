@@ -29,14 +29,16 @@ const ArticleSchema = z.object({
   hero_image_alt: z.string().optional(),
   description: z.string().max(165),
   target_keyword: z.string(),
-  related_articles: z.array(z.string()).default([]),
   products: z.array(ProductRefSchema).default([]),
   tags: z.array(z.string()).default([]),
+  rating: z.number().min(1).max(5).optional(),
   disclosure_required: z.boolean().default(true),
   noindex: z.boolean().default(false),
   // Comparison-type only
   product_a: z.string().optional(),
   product_b: z.string().optional(),
+  winner: z.enum(['product_a', 'product_b']).optional(),
+  winner_reason: z.string().optional(),
 })
 
 // ── Collections ───────────────────────────────────────────────────────────────

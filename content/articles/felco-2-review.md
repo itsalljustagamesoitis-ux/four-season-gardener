@@ -10,6 +10,7 @@ hero_image: placeholder-hero.svg
 hero_image_alt: "Felco 2 bypass pruner on a worn wooden workbench with rose clippings"
 description: "I've used the same pair of Felco 2 pruners for eleven years. Here's what holds up, what doesn't, and whether the price is justified."
 target_keyword: "felco 2 review"
+rating: 4.7
 disclosure_required: true
 products:
   - id: felco-2-pruner
@@ -23,8 +24,6 @@ products:
       - "Expensive upfront — sticker shock is real"
       - "Heavier than some competitors, noticeable during extended sessions"
       - "Replacement parts need to be ordered separately (not stocked at most garden centres)"
-related_articles:
-  - best-garden-pruners
 tags: [pruners, felco, hand-tools]
 noindex: false
 ---

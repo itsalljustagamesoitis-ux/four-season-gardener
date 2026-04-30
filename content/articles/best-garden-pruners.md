@@ -29,8 +29,6 @@ products:
     article_specific_cons:
       - "Pivot screw can loosen after heavy use"
       - "No replacement parts — when it's done, it's done"
-related_articles:
-  - best-garden-hoes
 tags: [pruners, hand-tools, bypass-pruners]
 noindex: false
 ---

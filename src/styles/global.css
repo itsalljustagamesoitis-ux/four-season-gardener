@@ -361,6 +361,23 @@ main { padding-top: 64px; }
 .breadcrumb a:hover { color: var(--color-primary); text-decoration: underline; }
 .breadcrumb__sep { opacity: 0.4; font-size: 0.9rem; }
 
+/* ── Verdict box (comparison winner callout) ─────────────────────────────── */
+.verdict-box {
+  background: var(--color-primary); color: #fff;
+  border-radius: var(--radius); padding: 1.5rem 2rem;
+  margin: 1.5rem 0 2rem; display: flex; flex-direction: column; gap: 0.75rem;
+}
+.verdict-box--bottom { margin-top: 2.5rem; }
+.verdict-box__label { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.75; margin: 0; }
+.verdict-box__winner { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+.verdict-box__badge { background: var(--color-accent); color: var(--color-primary); font-size: 0.75rem; font-weight: 700; padding: 0.25rem 0.6rem; border-radius: 2rem; white-space: nowrap; }
+.verdict-box__name { font-family: var(--font-headings); font-size: 1.25rem; margin: 0; }
+.verdict-box__reason { opacity: 0.9; margin: 0; font-size: 0.95rem; line-height: 1.5; }
+.verdict-box .btn--primary { background: #fff; color: var(--color-primary); align-self: flex-start; }
+.verdict-box .btn--primary:hover { background: var(--color-accent); color: var(--color-primary); }
+.verdict-box__alt { color: rgba(255,255,255,0.75); font-size: 0.875rem; text-decoration: underline; align-self: flex-start; }
+.verdict-box__alt:hover { color: #fff; }
+
 /* ── Comparison hero (head-to-head layout) ───────────────────────────────── */
 .comparison-hero {
   display: flex; align-items: center; gap: 1.5rem; margin: 2rem 0;
@@ -368,6 +385,8 @@ main { padding-top: 64px; }
   border-radius: var(--radius); padding: 1.5rem;
 }
 .comparison-hero__side { flex: 1; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 0.75rem; }
+.comparison-hero__side--winner { border: 2px solid var(--color-primary); border-radius: var(--radius); padding: 0.75rem; }
+.comparison-hero__crown { background: var(--color-primary); color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.2rem 0.5rem; border-radius: 2rem; text-transform: uppercase; letter-spacing: 0.05em; }
 .comparison-hero__side img { width: 100%; max-width: 200px; height: 150px; object-fit: contain; }
 .comparison-hero__vs { font-family: var(--font-headings); font-size: 1.5rem; font-weight: 700; color: var(--color-text-muted); flex-shrink: 0; }
 
