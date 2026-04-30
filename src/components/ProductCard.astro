@@ -85,6 +85,7 @@ const isAmazon = product.affiliate_url?.includes('amazon.com')
           class={isAmazon ? 'btn btn--amazon' : 'btn btn--primary'}
           rel="nofollow sponsored"
           target="_blank"
+          data-product={`${product.brand} ${product.name}`}
         >
           {isAmazon ? 'Check Price on Amazon' : 'Check Price'}
         </a>

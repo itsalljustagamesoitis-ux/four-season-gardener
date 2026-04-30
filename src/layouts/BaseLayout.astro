@@ -107,5 +107,34 @@ const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
       <slot />
     </main>
     <Footer />
+
+    <!-- Affiliate click tracking -->
+    <script is:inline>
+      document.addEventListener('click', function(e) {
+        var link = e.target.closest('a[rel~="sponsored"]')
+        if (!link) return
+        if (typeof gtag !== 'function') return
+
+        // Derive position from closest ancestor with a data-track attribute,
+        // or fall back to a class-name heuristic
+        var pos = 'body'
+        var el = link
+        while (el && el !== document.body) {
+          var cls = el.className || ''
+          if (cls.indexOf('verdict-box') > -1)      { pos = 'verdict_box'; break }
+          if (cls.indexOf('quick-picks') > -1)       { pos = 'quick_picks'; break }
+          if (cls.indexOf('product-card') > -1)      { pos = 'product_card'; break }
+          if (cls.indexOf('comparison-hero') > -1)   { pos = 'comparison_hero'; break }
+          if (cls.indexOf('pros-cons') > -1)         { pos = 'pros_cons'; break }
+          el = el.parentElement
+        }
+
+        gtag('event', 'affiliate_click', {
+          product_name: link.dataset.product || link.textContent.trim().slice(0, 60),
+          link_position: pos,
+          link_url: link.href
+        })
+      })
+    </script>
   </body>
 </html>
