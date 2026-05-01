@@ -38,16 +38,37 @@ const {
 
 <script>
   document.querySelectorAll('[data-form="email-capture"]').forEach(form => {
-    form.addEventListener('submit', (e) => {
+    form.addEventListener('submit', async (e) => {
       e.preventDefault()
       const input = (form as HTMLFormElement).querySelector('input[type="email"]') as HTMLInputElement
       const btn = (form as HTMLFormElement).querySelector('button') as HTMLButtonElement
-      if (!input?.value) return
-      // Placeholder: replace this URL with your email platform embed
-      const email = encodeURIComponent(input.value)
-      window.open(`https://fourseasongardener.beehiiv.com/subscribe?email=${email}`, '_blank')
-      btn.textContent = "You're in!"
-      input.value = ''
+      const email = input?.value?.trim()
+      if (!email) return
+
+      const originalText = btn.textContent
+      btn.textContent = 'Subscribing…'
+      btn.disabled = true
+
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email }),
+        })
+
+        if (res.ok) {
+          btn.textContent = "You're in!"
+          input.value = ''
+        } else {
+          btn.textContent = 'Try again'
+          btn.disabled = false
+          setTimeout(() => { btn.textContent = originalText; btn.disabled = false }, 3000)
+        }
+      } catch {
+        btn.textContent = 'Try again'
+        btn.disabled = false
+        setTimeout(() => { btn.textContent = originalText ?? 'Get the tips'; btn.disabled = false }, 3000)
+      }
     })
   })
 </script>
