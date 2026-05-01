@@ -149,6 +149,21 @@ def build_prompt(article: dict, products: dict, eeat: dict, persona: dict) -> st
         p2 = products.get(p_keys[1], {})
         comparison_note = f"\nThis is a head-to-head comparison: **{p1.get('name','Product A')}** vs **{p2.get('name','Product B')}**."
 
+    # Sibling articles in same cluster that are already published
+    siblings = article.get("_siblings", [])
+    sibling_block = ""
+    if siblings:
+        sibling_lines = "\n".join(
+            f'- [{s["keyword"].title()}](/{s["slug"]}/)'
+            for s in siblings[:6]
+        )
+        sibling_block = f"""
+INTERNAL LINKS — SIBLING ARTICLES:
+These articles are already published on the site in the same topic area.
+Link to 2-3 of them naturally where relevant in the body — not in a list, but as contextual anchor text mid-sentence.
+{sibling_lines}
+"""
+
     prompt = f"""Write a {article_type} article for The Four Season Gardener.
 
 TARGET KEYWORD: {article['keyword']}
@@ -172,7 +187,7 @@ Include a contextual link to the hub page ({hub_url} — "{hub_label}") at least
 once naturally in the first half of the article (before or just after the first H2),
 and once in the second half (before the FAQ or in a closing paragraph).
 Use varied phrasing — don't repeat the same anchor text.
-
+{sibling_block}
 AFFILIATE LINKS:
 When mentioning a product by name, link to its Amazon URL using the product name as anchor text.
 Format: [Product Name](https://www.amazon.com/dp/ASIN?tag=fourseasong-20)
@@ -360,8 +375,9 @@ def build_frontmatter(article: dict, products: dict, title: str, description: st
     for i, key in enumerate(assigned_keys):
         role = roles[i] if i < len(roles) else "also_consider"
         p = products.get(key, {})
-        pros = p.get("default_pros", [])[:2]
-        cons = p.get("default_cons", [])[:1]
+        def _cy(s): return s.replace('\u2014', ',').replace('\u2013', ',').replace('"', '\\"')
+        pros = [_cy(x) for x in p.get("default_pros", [])[:2]]
+        cons = [_cy(x) for x in p.get("default_cons", [])[:1]]
         ref = f'  - id: "{key}"\n    role: "{role}"'
         if pros:
             ref += f'\n    article_specific_pros:\n' + "\n".join(f'      - "{pr}"' for pr in pros)
@@ -384,10 +400,17 @@ product_b: "{assigned_keys[1]}"
     cluster = article.get("cluster", "")
     tags = [cluster, article["type"].lower()]
 
-    safe_title = title.replace('"', '\\"') if title else article['keyword'].title()
-    safe_desc = description.replace('"', '\\"') if description else ""
+    def _clean_yaml(s: str) -> str:
+        return s.replace('\u2014', ',').replace('\u2013', ',').replace('"', '\\"')
+
+    safe_title = _clean_yaml(title) if title else article['keyword'].title()
+    safe_desc = _clean_yaml(description) if description else ""
     hero_image = article.get('hero_image') or f"articles/{article['slug']}-hero.jpg"
-    hero_alt = article.get('hero_image_alt', '')
+    hero_alt = _clean_yaml(article.get('hero_image_alt', ''))
+
+    # Clean em dashes from product pros/cons
+    for ref_block in prod_refs:
+        pass  # already in string form; clean inline below
 
     fm = f"""---
 title: "{safe_title}"

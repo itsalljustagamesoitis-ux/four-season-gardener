@@ -256,7 +256,7 @@
     "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
     "products": [],
     "assignment_notes": "Informational article about robot lawn mower garages does not match the available catalog. The article keyword is 'robot lawn mower garage' (a housing/storage solution for robotic mowers), but the catalog contains only traditional cordless and battery-powered lawn equipment (push mowers, chainsaws, trimmers, blowers, snow blowers, attachments). There are no robot lawn mowers or garage products in the battery-equipment cluster. Per assignment rules for Informational articles: assign 0\u20132 products if contextually relevant; in this case, 0 products are relevant. The article should proceed without product assignments, or the catalog should be expanded to include robotic mower models and storage accessories.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/battery-equipment-6.jpg",
     "hero_image_alt": "Robot Lawn Mower Garage \u2014 photo by ",
     "body_images": [
@@ -1508,7 +1508,7 @@
       "first-nature-3055-hummingbird-feeder"
     ],
     "assignment_notes": "Roundup of 5 bird feeders for deck use with strong price spread: budget (Classic Feeder, Window Feeder, Hummingbird Feeder at ASIN B003R2SKIC) and mid-range (Yankee Flipper, Squirrel Buster Plus). Each product offers distinct value: Yankee Flipper for family entertainment/squirrel drama; Squirrel Buster Plus as passive, battery-free squirrel-proofing alternative; Classic Feeder as no-frills entry point with American heritage; Window Feeder for apartment/small-deck dwellers with close viewing; Hummingbird Feeder as budget specialist with honest focus on easy cleaning. Excluded: birdbath products (smart-solar-aquanura-birdbath, alpine-3tier-pedestal-birdbath) as secondary to core 'bird feeder for deck' keyword; repellents (liquid-fence, orbit-sprinkler) out of scope for feeder roundup. All five products are deck-friendly or apartment-appropriate.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/birds-wildlife-4.jpg",
     "hero_image_alt": "Bird Feeder For Deck \u2014 photo by ",
     "body_images": [
@@ -2894,7 +2894,7 @@
       "napoleon-st-tropez-fire-table"
     ],
     "assignment_notes": "Comparison article specifically about fire pit with coffee table design. Outland Living 403 (mid-price propane fire table) is the natural choice as the primary subject\u2014it's explicitly designed as furniture-integrated fire feature with instant on/off, no ash, no smoke. Napoleon St. Tropez (premium) provides the head-to-head comparison as the high-end alternative in the fire table category with natural gas conversion advantage and permanent installation credibility. Both are purpose-built fire tables (not standalone pits), making them the only two products in catalog that directly match 'fire pit with coffee table' keyword intent. Solo Stove and Breeo are standalone pits, not tables; Hiland/Mr. Heater are heaters not tables; chiminea/firebowl are different categories.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/fire-and-heat-5.jpg",
     "hero_image_alt": "Fire Pit With Coffee Table \u2014 photo by ",
     "body_images": [
@@ -2942,7 +2942,7 @@
       "napoleon-st-tropez-fire-table"
     ],
     "assignment_notes": "Comparison article requires exactly 2 products. Both are rectangular fire pit tables matching the keyword. Outland Living 403 is mid-price propane option (instant on/off, no smoke, doubles as furniture). Napoleon St. Tropez is premium natural gas option (permanent installation, grilling brand credibility, long-term value). This head-to-head compares propane vs natural gas, mid vs premium pricing, and portability vs built-in permanence\u2014offering readers honest tradeoffs across budget and feature sets.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/fire-and-heat-6.jpg",
     "hero_image_alt": "Rectangular Fire Pit Table \u2014 photo by ",
     "body_images": [
@@ -2993,7 +2993,7 @@
       "bond-lara-tabletop-fire-bowl"
     ],
     "assignment_notes": "This is a wall-mounted patio heater roundup, so I've selected 5 products across price bands and use cases: (1) Hiland Pyramid (mid, aesthetic statement piece\u2014direct match to 'wall mounted' positioning for vertical heaters); (2) Outland Living fire table (mid, dual-purpose furniture alternative for permanent patio setups); (3) Napoleon St. Tropez (premium, natural gas conversion value for long-term installations); (4) Mr. Heater Big Buddy (mid, portable/functional option for enclosed patios and workshops\u2014covers versatility angle); (5) Bond Lara tabletop (budget, space-constrained alternative for small patios/balconies). This spread covers aesthetic vs functional, permanent vs portable, and budget to premium, while staying contextually relevant to wall-mounted/patio heating. Excluded Breeo X and Solo Stove (better for wood-burning comparison articles) and Blue Rooster chiminea (better for chiminea-specific content). Gas One pit excluded as it's traditional wood-burning smoke, not aligned with modern patio heater expectations.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/fire-and-heat-7.jpg",
     "hero_image_alt": "Wall Mounted Patio Heater \u2014 photo by ",
     "body_images": [
@@ -3137,7 +3137,7 @@
       "napoleon-st-tropez-fire-table"
     ],
     "assignment_notes": "Comparison article on propane fire pit burners requires exactly 2 products head-to-head. Both are propane-powered fire tables with instant on/off convenience. Outland Living 403 (mid-price, ~$400\u2013600 range) is the practical choice emphasizing dual furniture/fire function, no ash/smoke cleanup. Napoleon St. Tropez (premium, ~$800+) represents the high-end permanent installation angle with natural gas conversion upside and grilling-brand credibility. This pairing shows honest real-world tradeoffs: budget-conscious dual-purpose furniture vs. premium long-term investment in outdoor living space. Both avoid wood-burning comparisons, keeping focus on propane burner performance specifically.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/fire-and-heat-2.jpg",
     "hero_image_alt": "Propane Fire Pit Burner \u2014 photo by ",
     "body_images": [
@@ -5874,7 +5874,7 @@
       "titan-grade-a-teak-adirondack-chair"
     ],
     "assignment_notes": "Comparison article requires exactly 2 products head-to-head. Selected POLYWOOD Nautical Curveback (mid-price, synthetic, low-maintenance) vs. Ash & Ember Grade A Teak (premium-price, real wood, requires oiling). This pairing directly addresses the honest recommendation angle by contrasting the two dominant philosophies in adirondack seating: durability through engineered materials vs. durability through premium natural wood. The curveback comfort angle and maintenance/TCO comparison (POLYWOOD's 20-year warranty and zero oiling vs. teak's annual maintenance requirement) provides strong editorial substance for the 'Why Choose X \u2192 Why Choose Y \u2192 Verdict' structure. Note: Article keyword mentions 'loveseat' but catalog lacks loveseat-specific adirondacks; these are the strongest comparable seating products for a genuine head-to-head comparison.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/outdoor-furniture-3.jpg",
     "hero_image_alt": "Loveseat Adirondack Chair \u2014 photo by ",
     "body_images": [
@@ -8691,7 +8691,7 @@
       "orbit-62100-yard-enforcer-sprinkler"
     ],
     "assignment_notes": "Roundup on bird feeder baffles for squirrels requires 4 products with price/approach spread. Squirrel Buster Plus (mid, passive/weight-based) and Droll Yankees Yankee Flipper (mid, active/entertainment) represent two distinct baffle philosophies at similar price points \u2014 honest comparison of trade-offs. Droll Yankees Classic (budget) serves readers wanting affordable entry-level feeder + baffle setup. Orbit motion sprinkler (mid) adds a complementary deterrent strategy beyond feeders themselves, providing layered defense angle mentioned in 'What to Look For' section. All four products directly address squirrel exclusion. Excluded: birdbath/hummingbird products are off-topic for a baffle roundup; repellent is less actionable than active barriers for this specific keyword intent.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/birds-wildlife-3.jpg",
     "hero_image_alt": "Bird Feeder Baffles For Squirrels \u2014 photo by ",
     "body_images": [
@@ -8742,7 +8742,7 @@
       "first-nature-3055-hummingbird-feeder"
     ],
     "assignment_notes": "Roundup of 5 suction cup window bird feeders and complementary feeder options. Primary pick is natures-hangout-window-bird-feeder (budget, directly matches keyword). Added droll-yankees-classic-feeder (budget pole-mounted alternative for comparison of viewing experience). squirrel-buster-plus-feeder and droll-yankees-yankee-flipper (both mid-price) provide squirrel-proofing options at different price points \u2014 one passive/mechanical, one entertainment-driven. first-nature-3055-hummingbird-feeder (budget specialty feeder) rounds out the spread for readers interested in hummingbirds. Price spread covers budget (3 products) and mid (2 products). All five are directly relevant to bird feeding; excluded birdbath and repellent products as they don't align with the 'window bird feeder' keyword focus.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/birds-wildlife-4.jpg",
     "hero_image_alt": "Suction Cup Window Bird Feeder \u2014 photo by ",
     "body_images": [
@@ -8843,7 +8843,7 @@
       "titan-grade-a-teak-adirondack-chair"
     ],
     "assignment_notes": "Roundup on folding adirondack chairs requires 4\u20137 products with price spread. Selected: (1) MUCHENGHY (budget, #1 bestseller, 4.7\u2605/1000+ reviews\u2014strong social proof for entry-level); (2) POLYWOOD Classic (mid, best entry POLYWOOD with 15+ colors); (3) POLYWOOD Nautical (mid-premium step-up, curveback comfort angle vs flat-back); (4) Ash & Ember Grade A Teak (premium, real-wood alternative for honest material comparison\u2014teak vs synthetic maintenance trade-off). This spread covers budget\u2192mid\u2192premium and enables honest editorial: price vs longevity vs maintenance. Excluded nautical dining set, sectional, and bar stool (not folding chairs). Excluded porch swing and glider bench (not chairs). Excluded hammocks (different category). Excluded cushion (accessory, not primary pick). Excluded Keter loveseat and bar (wrong furniture type).",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/outdoor-furniture-1.jpg",
     "hero_image_alt": "Adirondack Chair Folding \u2014 photo by ",
     "body_images": [
@@ -8894,7 +8894,7 @@
       "rsh-decor-sunbrella-deep-seat-cushion"
     ],
     "assignment_notes": "This roundup on outdoor bar height stools requires 5 products across price bands. Primary pick: polywood-nautical-bar-stool (mid, the direct subject match). Secondary anchor: keter-pacific-cool-bar (mid, bestseller with built-in cooler\u2014essential for 'outdoor bar' entertaining context and strong social proof). Budget option: muchenghy-folding-adirondack-chair (budget, #1 bestseller for price-conscious buyers seeking seating). Mid premium option: christopher-knight-acacia-dining-table (mid, real wood alternative for bar-height dining/entertaining setups). Upgrade pick: rsh-decor-sunbrella-deep-seat-cushion (mid, complements bar seating with comfort upgrades and Sunbrella trust factor). This spread covers budget-to-mid price bands with entertaining/bar-focused context. Note: Product catalog lacks premium bar-height stool alternatives; polywood-nautical-bar-stool is the only bar stool available, so it anchors the roundup. keter-pacific-cool-bar bridges 'outdoor bar' keyword intent.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/outdoor-furniture-2.jpg",
     "hero_image_alt": "Outdoor Bar Height Stools \u2014 photo by ",
     "body_images": [
@@ -9140,7 +9140,7 @@
       "squirrel-buster-plus-feeder"
     ],
     "assignment_notes": "This is a Review article with keyword 'bird feeder ring' \u2014 the Squirrel Buster Plus is the exact match. It features a Cardinal Ring (the ring attachment referenced in the keyword) and is Brome's flagship passive squirrel-proof feeder with adjustable exclusion weight. The product directly aligns with the article's honest-pick angle and the H2 structure (Performance, Pros & Cons, Who Should Buy). Mid-price positioning allows for credible comparison to alternatives like Droll Yankees Flipper without cannibalizing sales. Only 1 product assigned per Review article type rules.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/birds-wildlife-7.jpg",
     "hero_image_alt": "Bird Feeder Ring \u2014 photo by ",
     "body_images": [
@@ -9187,7 +9187,7 @@
       "polywood-nautical-dining-set"
     ],
     "assignment_notes": "Review article requires exactly 1 product assignment. The keyword 'composite outdoor dining set' and article angle ('honest pick with real recommendation') point directly to the POLYWOOD Nautical Trestle 7-Piece Dining Set as the primary subject. This is a composite (recycled plastic/wood fiber) dining set that exemplifies the category. The strong editorial hook\u2014comparing POLYWOOD's low maintenance and lower cost (~$1,500\u20132,500) against real teak sets ($3,000\u20138,000 requiring annual oiling)\u2014fits the 'honest pick' positioning perfectly and provides clear value-demonstration for the Quick Verdict, Performance, and Pros & Cons sections.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/outdoor-furniture-4.jpg",
     "hero_image_alt": "Composite Outdoor Dining Set \u2014 photo by ",
     "body_images": [
@@ -9234,7 +9234,7 @@
       "polywood-nautical-dining-set"
     ],
     "assignment_notes": "This is a Review article (type: Review) with keyword 'round teak outdoor dining set,' requiring exactly 1 product assignment. The POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak is the optimal choice because: (1) it directly matches the keyword intent\u2014a teak-styled dining set; (2) it's positioned as the primary honest recommendation for readers considering teak dining furniture; (3) the article structure (Quick Verdict \u2192 Performance \u2192 Pros & Cons \u2192 Who Should Buy) supports a value-comparison narrative; (4) POLYWOOD Nautical allows the reviewer to address the real teak alternative (Grade A teak from TITAN or authentic teak from Anderson/All Things Cedar) in the comparative context, establishing credibility by acknowledging that real teak costs $3,000\u2013$8,000 and requires annual oiling, while this product delivers long-term value without maintenance. This single product serves as the primary subject of review while enabling honest positioning against genuine teak in the FAQ/Who Should Buy sections.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/outdoor-furniture-5.jpg",
     "hero_image_alt": "Round Teak Outdoor Dining Set \u2014 photo by ",
     "body_images": [
@@ -9281,7 +9281,7 @@
       "palram-essence-8x16-greenhouse"
     ],
     "assignment_notes": "Review article with keyword 'aluminum greenhouse frame kit' requires exactly 1 product \u2014 the primary subject. The Palram Essence 8x16 is the best match: it's a full aluminum-frame greenhouse kit with polycarbonate panels, mid-to-premium price positioning, and substantial enough for an honest, detailed review covering performance, pros/cons, and buyer guidance. The 4mm twin-wall vs single-wall insulation comparison mentioned in the product notes aligns perfectly with the H2 structure (Performance section). This is the flagship Palram model for serious greenhouse review content.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/structures-3.jpg",
     "hero_image_alt": "Aluminum Greenhouse Frame Kit \u2014 photo by ",
     "body_images": [
@@ -9471,7 +9471,7 @@
       "foxgloves-original-gloves"
     ],
     "assignment_notes": "Comparison article requires exactly 2 products head-to-head. Both are budget-priced nitrile/natural-fiber garden gloves with distinct value propositions: Pine Tree Tools emphasizes breathable bamboo fiber and sustainability (best for general planting/weeding), while Foxgloves differentiates on over-the-wrist forearm protection (best for thorn work and scratch prevention). This honest pairing lets readers choose based on their primary use case rather than price alone, which aligns with the 'real recommendation' angle. Both are Amazon bestsellers in the glove category.",
-    "status": "pending",
+    "status": "published",
     "hero_image": "articles/hand-tools-2.jpg",
     "hero_image_alt": "Nitrile Garden Gloves \u2014 photo by ",
     "body_images": [

@@ -1,0 +1,37 @@
+=== Batch starting at offset 0 ===
+Producing 30 article(s)...
+
+[1/30] Review — composite outdoor dining set (id: 189)
+  Generating... done. 1747 words → content/articles/composite-outdoor-dining-set.md
+[2/30] Review — aluminum greenhouse frame kit (id: 191)
+  Generating... done. 1889 words → content/articles/aluminum-greenhouse-frame-kit.md
+[3/30] Roundup — bird feeder baffles for squirrels (id: 179)
+  Generating... done. 2356 words → content/articles/bird-feeder-baffles-for-squirrels.md
+[4/30] Comparison — fire pit with coffee table (id: 60)
+  Generating... done. 1712 words → content/articles/fire-pit-with-coffee-table.md
+[5/30] Comparison — rectangular fire pit table (id: 61)
+  Generating... done. 1657 words → content/articles/rectangular-fire-pit-table.md
+[6/30] Roundup — suction cup window bird feeder (id: 180)
+  Generating... done. 2475 words → content/articles/suction-cup-window-bird-feeder.md
+[7/30] Roundup — outdoor bar height stools (id: 183)
+  Generating... done. 2511 words → content/articles/outdoor-bar-height-stools.md
+[8/30] Roundup — wall mounted patio heater (id: 62)
+  Generating... done. 2540 words → content/articles/wall-mounted-patio-heater.md
+[9/30] Comparison — loveseat adirondack chair (id: 121)
+  Generating... done. 1943 words → content/articles/loveseat-adirondack-chair.md
+[10/30] Informational — robot lawn mower garage (id: 6)
+  Generating... done. 1801 words → content/articles/robot-lawn-mower-garage.md
+[11/30] Comparison — nitrile garden gloves (id: 195)
+  Generating... done. 1648 words → content/articles/nitrile-garden-gloves.md
+[12/30] Roundup — bird feeder for deck (id: 32)
+  Generating... done. 2229 words → content/articles/bird-feeder-for-deck.md
+[13/30] Roundup — adirondack chair folding (id: 182)
+  Generating... done. 2094 words → content/articles/adirondack-chair-folding.md
+[14/30] Comparison — propane fire pit burner (id: 65)
+  Generating... done. 1765 words → content/articles/propane-fire-pit-burner.md
+[15/30] Review — bird feeder ring (id: 188)
+  Generating... done. 1770 words → content/articles/bird-feeder-ring.md
+[16/30] Review — round teak outdoor dining set (id: 190)
+  Generating... done. 1844 words → content/articles/round-teak-outdoor-dining-set.md
+[17/30] Informational — mosquito netting for gazebos (id: 197)
+  Generating.../Users/keithlacy/four-season-gardener/producer/run-all.sh: line 8: 95567 Terminated: 15          python3 producer/fsg-producer.py --count $BATCH --publish

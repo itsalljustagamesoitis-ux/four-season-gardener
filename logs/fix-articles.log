@@ -1,0 +1,81 @@
+Schema injection pass (27 published articles)...
+Schema added to 0 articles.
+
+Articles missing sibling links: 25
+  - 40v-cordless-leaf-blower (cluster: battery-equipment)
+  - robot-lawn-mower-garage (cluster: battery-equipment)
+  - bird-feeder-for-deck (cluster: birds-wildlife)
+  - fire-pit-with-coffee-table (cluster: fire-and-heat)
+  - rectangular-fire-pit-table (cluster: fire-and-heat)
+  - wall-mounted-patio-heater (cluster: fire-and-heat)
+  - propane-fire-pit-burner (cluster: fire-and-heat)
+  - teak-outdoor-rocking-chair (cluster: outdoor-furniture)
+  - teak-outdoor-bar-stools (cluster: outdoor-furniture)
+  - outdoor-teak-rocking-chair (cluster: outdoor-furniture)
+  - loveseat-adirondack-chair (cluster: outdoor-furniture)
+  - chair-swing-for-porch (cluster: outdoor-furniture)
+  - renfocre-pergola-kit (cluster: structures)
+  - bird-feeder-baffles-for-squirrels (cluster: birds-wildlife)
+  - suction-cup-window-bird-feeder (cluster: birds-wildlife)
+  - squirrel-dome-for-bird-feeder (cluster: birds-wildlife)
+  - adirondack-chair-folding (cluster: outdoor-furniture)
+  - outdoor-bar-height-stools (cluster: outdoor-furniture)
+  - fire-pit-with-propane-tank-inside (cluster: fire-and-heat)
+  - bird-feeder-ring (cluster: birds-wildlife)
+  - composite-outdoor-dining-set (cluster: outdoor-furniture)
+  - round-teak-outdoor-dining-set (cluster: outdoor-furniture)
+  - aluminum-greenhouse-frame-kit (cluster: structures)
+  - fire-pit-with-hidden-propane-tank (cluster: fire-and-heat)
+  - gazebo-with-gutters (cluster: structures)
+
+Regenerating 25 articles...
+
+[1/25] Roundup — 40v cordless leaf blower done. 2403 words
+[2/25] Informational — robot lawn mower garage done. 1723 words
+[3/25] Roundup — bird feeder for deck done. 2514 words
+[4/25] Comparison — fire pit with coffee table done. 1762 words
+[5/25] Comparison — rectangular fire pit table done. 1857 words
+[6/25] Roundup — wall mounted patio heater done. 2679 words
+[7/25] Comparison — propane fire pit burner done. 1750 words
+[8/25] Review — teak outdoor rocking chair done. 2004 words
+[9/25] Review — teak outdoor bar stools done. 1930 words
+[10/25] Review — outdoor teak rocking chair done. 1896 words
+[11/25] Comparison — loveseat adirondack chair done. 1828 words
+[12/25] Roundup — chair swing for porch done. 2578 words
+[13/25] Roundup — renfocre pergola kit done. 2300 words
+[14/25] Roundup — bird feeder baffles for squirrels done. 2334 words
+[15/25] Roundup — suction cup window bird feeder done. 2573 words
+[16/25] Roundup — squirrel dome for bird feeder done. 2546 words
+[17/25] Roundup — adirondack chair folding done. 2585 words
+[18/25] Roundup — outdoor bar height stools done. 2519 words
+[19/25] Roundup — fire pit with propane tank inside done. 2515 words
+[20/25] Review — bird feeder ring done. 1891 words
+[21/25] Review — composite outdoor dining set done. 1990 words
+[22/25] Review — round teak outdoor dining set done. 1796 words
+[23/25] Review — aluminum greenhouse frame kit done. 1787 words
+[24/25] Comparison — fire pit with hidden propane tank done. 1816 words
+[25/25] Buyer Guide — gazebo with gutters done. 2161 words
+Traceback (most recent call last):
+  File "/Users/keithlacy/four-season-gardener/producer/fix-articles.py", line 185, in <module>
+    main()
+  File "/Users/keithlacy/four-season-gardener/producer/fix-articles.py", line 180, in main
+    save_pipeline(pipeline)
+  File "/Users/keithlacy/four-season-gardener/producer/data_loader.py", line 95, in save_pipeline
+    json.dump(pipeline, f, indent=2)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 429, in _iterencode
+    yield from _iterencode_list(o, _current_indent_level)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 325, in _iterencode_list
+    yield from chunks
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 325, in _iterencode_list
+    yield from chunks
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 325, in _iterencode_list
+    yield from chunks
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/encoder.py", line 340, in _iterencode_dict
+    raise ValueError("Circular reference detected")
+ValueError: Circular reference detected

@@ -29,10 +29,14 @@ from data_loader import (
 )
 from article_builder import generate_article, build_frontmatter
 from docx_writer import build_docx
+from publish import inject_body_images
+from schema_builder import build_schema
 
 STAGING_DIR = ROOT / "staging"
+ARTICLES_DIR = ROOT / "content/articles"
 STAGING_DIR.mkdir(exist_ok=True)
 (STAGING_DIR / "approved").mkdir(exist_ok=True)
+ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def get_api_key() -> str:
@@ -77,7 +81,7 @@ def select_articles(pipeline: list, args) -> list:
 
 
 def already_staged(slug: str) -> bool:
-    return (STAGING_DIR / f"{slug}.docx").exists()
+    return (STAGING_DIR / f"{slug}.docx").exists() or (ARTICLES_DIR / f"{slug}.md").exists()
 
 
 def mark_produced(pipeline: list, article_id: int) -> None:
@@ -119,19 +123,40 @@ def run(args):
 
         eeat = get_eeat_for_cluster(vault, article["cluster"])
 
+        # Attach published siblings in same cluster for internal linking
+        article["_siblings"] = [
+            a for a in pipeline
+            if a["cluster"] == article["cluster"]
+            and a["status"] == "published"
+            and a["slug"] != article["slug"]
+        ]
+
         try:
             print("  Generating...", end="", flush=True)
             body, title, description = generate_article(article, products, eeat, persona, client)
-            doc = build_docx(article, body, title, description)
-
-            out_path = STAGING_DIR / f"{slug}.docx"
-            doc.save(out_path)
-
-            mark_produced(pipeline, article["id"])
-            save_pipeline(pipeline)
-
             word_count = len(body.split())
-            print(f" done. {word_count} words → staging/{slug}.docx")
+
+            if args.publish:
+                # Write directly to content/articles/ — no human review step
+                frontmatter = build_frontmatter(article, products, title, description)
+                body_with_images = inject_body_images(body, article.get("body_images", []))
+                schema = build_schema({"slug": slug, "title": title, "description": description,
+                                       "date": str(__import__('datetime').date.today()),
+                                       "hub": article.get("hub_slug", "")}, body)
+                md_content = frontmatter + body_with_images + schema + "\n"
+                out_path = ARTICLES_DIR / f"{slug}.md"
+                out_path.write_text(md_content, encoding="utf-8")
+                article["status"] = "published"
+                print(f" done. {word_count} words → content/articles/{slug}.md")
+            else:
+                doc = build_docx(article, body, title, description)
+                out_path = STAGING_DIR / f"{slug}.docx"
+                doc.save(out_path)
+                article["status"] = "staged"
+                print(f" done. {word_count} words → staging/{slug}.docx")
+
+            article.pop("_siblings", None)
+            save_pipeline(pipeline)
 
         except Exception as e:
             print(f" ERROR: {e}")
@@ -140,8 +165,11 @@ def run(args):
         if i < len(articles) - 1:
             time.sleep(1)
 
-    print(f"\nDone. Review files in {STAGING_DIR}/")
-    print("Edit in Word or Pages, move to staging/approved/, then: python3 producer/publish.py --all")
+    if args.publish:
+        print(f"\nDone. {len(articles)} article(s) written to content/articles/")
+    else:
+        print(f"\nDone. Review files in {STAGING_DIR}/")
+        print("Edit in Word or Pages, move to staging/approved/, then: python3 producer/publish.py --all")
 
 
 def main():
@@ -153,6 +181,7 @@ def main():
     parser.add_argument("--cluster", help="Filter by cluster slug")
     parser.add_argument("--dry-run", action="store_true", help="Plan without generating")
     parser.add_argument("--force", action="store_true", help="Regenerate even if already staged")
+    parser.add_argument("--publish", action="store_true", help="Write directly to content/articles/ without staging")
     args = parser.parse_args()
 
     run(args)

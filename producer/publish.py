@@ -57,22 +57,29 @@ def parse_txt(path: Path) -> tuple:
 
 
 def inject_body_images(body: str, images: list) -> str:
-    """Insert images evenly across H2 sections in the article body."""
+    """Insert images at regular word-count intervals through the article body."""
     if not images:
         return body
     lines = body.splitlines()
-    h2_indices = [i for i, l in enumerate(lines) if l.startswith("## ")]
-    if not h2_indices:
-        return body
-    # Pick evenly-spaced H2 positions (skip the first H2 — too close to top)
-    positions = h2_indices[1:] if len(h2_indices) > 1 else h2_indices
-    step = max(1, len(positions) // len(images))
-    insert_at = [positions[i * step] for i in range(min(len(images), len(positions)))]
-    # Insert in reverse order so indices stay valid
-    for pos, img in zip(reversed(insert_at), reversed(images[:len(insert_at)])):
-        tag = f'\n![{img["alt"]}](/images/{img["path"]})\n'
-        lines.insert(pos, tag)
-    return "\n".join(lines)
+    total_words = sum(len(l.split()) for l in lines)
+    interval = max(1, total_words // (len(images) + 1))
+
+    result = []
+    words_so_far = 0
+    img_idx = 0
+
+    for line in lines:
+        result.append(line)
+        words_so_far += len(line.split())
+        # Insert next image after we've passed an interval boundary, but not mid-paragraph
+        if img_idx < len(images) and words_so_far >= interval * (img_idx + 1):
+            # Only inject after a non-empty line that isn't a heading or existing image
+            if line.strip() and not line.startswith("#") and not line.startswith("!["):
+                img = images[img_idx]
+                result.append(f'\n![{img["alt"]}](/images/{img["path"]})\n')
+                img_idx += 1
+
+    return "\n".join(result)
 
 
 def publish_one(slug: str, pipeline: list, products: dict, dry_run: bool = False) -> bool:
@@ -91,10 +98,10 @@ def publish_one(slug: str, pipeline: list, products: dict, dry_run: bool = False
     title, description, body = read_docx(docx_path)
 
     if not title:
-        print(f"  WARNING: no TITLE line found in {txt_path.name} — using keyword as fallback")
+        print(f"  WARNING: no TITLE found in {docx_path.name} — using keyword as fallback")
         title = article["keyword"].title()
     if not description:
-        print(f"  WARNING: no DESC line found in {txt_path.name} — leaving blank")
+        print(f"  WARNING: no DESC found in {docx_path.name} — leaving blank")
 
     frontmatter = build_frontmatter(article, products, title, description)
     body = inject_body_images(body, article.get("body_images", []))

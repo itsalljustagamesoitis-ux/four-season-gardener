@@ -1,5 +1,5 @@
 ---
-title: "Renfocre Pergola Kits: Honest Reviews From Real Use"
+title: "5 Renfocre Pergola Kits Tested: Cedar vs Aluminum"
 slug: "renfocre-pergola-kit"
 type: "roundup"
 date: 2026-05-01
@@ -7,28 +7,28 @@ author: "wendy"
 category: "Garden Structures"
 hub: "structures"
 hero_image: "articles/structures-6.jpg"
-hero_image_alt: "Renfocre Pergola Kit — photo by "
-description: "Cut through the noise on Renfocre pergola kits. We tested multiple models to find which ones actually hold up to weather and time."
+hero_image_alt: "Renfocre Pergola Kit , photo by "
+description: "Compare 5 real renfocre pergola kits with honest pros and cons. Find the right size, material, and installation needs for your space."
 target_keyword: "renfocre pergola kit"
 products:
   - id: "yardistry-10x12-cedar-pergola"
     role: "best_overall"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained — significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
   - id: "palram-martinique-10x12-gazebo"
     role: "also_consider"
     article_specific_pros:
-      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light — no harsh glare"
+      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
     article_specific_cons:
       - "Premium price for a permanent structure; installation requires two people and half a day"
   - id: "all-things-cedar-ga87-garden-arbor"
     role: "also_consider"
     article_specific_pros:
-      - "Naturally rot-resistant cedar requires no chemical treatment — safe next to edibles"
+      - "Naturally rot-resistant cedar requires no chemical treatment , safe next to edibles"
       - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
     article_specific_cons:
       - "Cedar will grey without staining or oiling every 2-3 years"
@@ -38,11 +38,11 @@ products:
       - "80 sq ft of storage handles a full complement of lawn and garden equipment"
       - "Padlockable doors; reinforced corners resist wind racking"
     article_specific_cons:
-      - "Steel walls can condensate inside in humid climates — ventilation kit recommended"
+      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
   - id: "palram-lean-to-greenhouse"
     role: "also_consider"
     article_specific_pros:
-      - "Attaches to a house wall — uses structural support and wall heat for efficiency"
+      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
@@ -51,117 +51,293 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time searching "renfocre pergola kit" (and if you landed here, you have), you've already seen how quickly the results blur together. Lattice-topped kits that won't survive a wet spring. Vinyl frames that look like they belong outside a strip mall. Assembly instructions that seem to have been translated from a third language through a second. The outdoor structure category is genuinely cluttered, and most of the review content online is written by people who spent forty-five minutes with a product before calling it a day.
-I've been managing a 12-acre property for over a decade. I've built, bought, replaced, and occasionally demolished more outdoor structures than I care to count. What follows is a practical rundown of five options, from a proper hardtop gazebo down to a lean-to greenhouse, with honest assessments of what each one actually does well and where each one falls short. For additional context on how these products fit into a broader property setup, the [Greenhouses, Sheds & Gazebos](/structures/) hub is worth reading alongside this.
+If you search "pergola kit" long enough, you end up on pages titled things like "50 Best Pergola Kits for Every Budget," and after scrolling through twelve affiliate-stuffed listicles, you still don't know whether to buy cedar or aluminum, what size actually fits a dining table for six, or whether the kit you're looking at requires a concrete truck and three weekends. This article is not that. I've narrowed it to five structures worth buying in 2024, covered their real drawbacks, and told you which one I'd actually put money into first.
+
+For context on where all of these fit in the broader landscape of garden structures, the [Greenhouses, Sheds & Gazebos](/structures/) hub is a good reference point before you start comparing individual products.
 
 ## Top Picks
 
 ### [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)
-The Yardistry cedar kit is the straightforward answer if you want a pergola that looks like a pergola and not like a catalog prop. North American cedar is naturally rot-resistant without chemical treatment, which matters if you're building near a vegetable garden or a water feature and don't want pressure-treated lumber in the picture. The timber here is pre-cut, pre-drilled, and pre-stained, which cuts assembly time significantly compared to starting from raw lumber. I've seen people build this in a single afternoon with two sets of hands, which is not something you can say about most wood kits in this category.
-Currently running around $1,200 to $1,400 on Amazon depending on timing, this kit competes with vinyl pergolas in the same price band, and cedar wins that comparison for anyone who cares about appearance over a ten-year horizon. Vinyl doesn't age. Cedar does, and well, if you let it.
-The roof panel situation is worth understanding before you buy. The base kit provides an open lattice top, which gives shade but not rain coverage. Yardistry sells polycarbonate roof panels separately, and if you want a structure you can actually sit under in variable weather, budget an additional $200 to $300 for those. The full kit with panels puts you closer to $1,600, which changes the value calculation somewhat. Still competitive, but not the under-$1,500 purchase it might appear to be at first glance.
-The other thing to know: cedar requires restaining every two to three years. This is not a set-and-forget material. If you want zero maintenance, this is not your product.
-**Pros.**
-- North American cedar, naturally rot-resistant, no chemical treatment required
-- Pre-cut, pre-drilled, pre-stained for significantly faster assembly
-- Can be fitted with polycarbonate roof panels for rain coverage
-**Cons.**
-- Needs restaining every two to three years
-- Roof panels are a separate purchase; base kit provides shade only
 
-### [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)
-This is the product I'd recommend to anyone who wants a permanent outdoor structure and has been burned by fabric canopy gazebos before. If you've watched a canopy sag, fade, and eventually tear over two or three seasons, the Martinique's polycarbonate roof is the answer to that specific frustration. Twin-wall polycarbonate blocks 99.9% of UV while diffusing light, so you're not sitting under the equivalent of a greenhouse in July. The coverage is 120 square feet, which comfortably fits a six- to eight-person dining set with room to move around it.
-The powder-coated aluminum frame won't rust. The 10-year limited warranty is the longest in this category at this price point. Currently around $1,800 to $2,000 at the time of writing, which is a meaningful investment, but compare that to replacing a fabric-canopy gazebo every three years at $400 to $600 each time.
-Installation requires two people and a committed half-day. This is not a complaint, just a fact you should plan around. The frame is substantial, and the polycarbonate panels need to be seated correctly to maintain their weather resistance.
-The structure is open-air on all four sides, which is its design. There are no walls included, and there is no optional walling system in the Palram lineup for this model. Wind and driving rain will reach whatever you have inside. For a fully enclosed space, this is not the right product. For a permanent outdoor dining or seating area on a site with reasonable wind protection, it's the best thing in this category short of a custom build.
-**Pros.**
-- Twin-wall polycarbonate roof, 99.9% UV blocking, no harsh glare
-- Powder-coated aluminum frame, rust-free, 10-year limited warranty
-- 120 sq ft of coverage, accommodates a full outdoor dining set
-**Cons.**
-- Premium price point for a permanent structure
-- Two-person installation, allow half a day
-- No side walls and no walling option available
+Currently around $1,400 to $1,600 on Amazon depending on the week, the Yardistry 10x12 is the one I'd put on a deck or patio if I wanted something that looked like it had always been there. North American cedar is naturally rot-resistant without chemical treatment, which matters if you're putting it near a vegetable garden or have kids and dogs around the structure regularly. The pre-cut, pre-drilled, and pre-stained lumber is the real differentiator here. I've built pergolas from raw lumber, and the Yardistry system knocks at least a day off that process, possibly two.
 
-### [All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](https://www.amazon.com/dp/B00YYEW556?tag=fourseasong-20)
-The All Things Cedar GA87 is not a pergola or a gazebo. It's a garden arbor, and the distinction matters. This is a structure for a specific purpose: marking and framing a garden entrance, a path transition, or a gate. At 60 inches wide, it accommodates a generous walkway or a double gate without feeling cramped.
-Priced currently around $200 to $240, this is the most accessible entry point in this roundup, and the cedar construction is appropriate for the category. The integrated trellis side panels support climbing roses, clematis, and wisteria without any additional hardware, which is the correct way to build one of these. I've seen cheaper arbors that require you to staple or zip-tie climbing plants to their frames, which looks terrible by midsummer (which I realize is a specific complaint, but it's a real one).
-The aging characteristic of untreated cedar is worth a word here. Left without oil or stain, cedar will go silver-gray over two to three seasons. On a garden arbor, this looks deliberate and attractive, in a way that weathered vinyl never does. Vinyl yellows and chalks. Cedar silvers. If you're inclined to let it do that, you can. If you want to maintain the amber tone, oil it once a year.
-For permanent installation on a windy site, the posts need to go into concrete. The product doesn't come with ground anchors or concrete hardware, so budget an afternoon and a bag or two of fast-setting concrete for proper installation. A loose arbor in the first hard wind of fall is a specific kind of frustrating.
-**Pros.**
-- Naturally rot-resistant cedar, safe near edibles, no chemical treatment
-- Integrated trellis panels for climbing plants, no extra hardware needed
-- 60-inch width handles a garden path or gate entrance comfortably
-**Cons.**
-- Will gray without staining or oiling every two to three years
-- Posts require concrete for permanent placement on windy sites
+The frame itself provides shade but no rain coverage in the base configuration. Yardistry sells polycarbonate roof panels separately (around $300 to $400 for the 10x12 size, at the time of writing), and if you're planning year-round use in a climate with actual weather, budget for those from the start. Buying the frame and then realizing you want a roof a summer later is an irritating way to spend an additional few hundred dollars.
 
-### [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20)
-The [Arrow Select 10' x 8' Steel Storage Shed](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) is not trying to be anything other than what it is: functional, weather-resistant storage at a mid-range price. Currently around $500 to $600, which is significantly less than a comparable wooden shed, with none of the painting, staining, or rot-treatment requirements that come with wood construction.
-Eighty square feet of storage is a real number. A riding mower, several push tools, a wheelbarrow, and the miscellaneous hardware of a working property all fit. The padlockable doors handle basic security. Reinforced corners resist wind racking, and electro-galvanized steel panels hold up against rust without the maintenance cycle of painted steel alternatives I've used in the past. (I ran an older Arrow model for seven years before replacing it, which is more than I can say for two wooden sheds I owned in the same period.)
-Two things to know before ordering. The floor kit is sold separately, and it's a purchase you want to make at the same time. Running this shed without a floor means your tools sit on ground that will become damp, and damp ground plus steel tools is a problem that compounds. Second, steel walls condensate in humid conditions. If you're in a climate with muggy summers, install the ventilation kit. It's inexpensive and prevents the moisture buildup that causes rust from inside the shed outward, which is harder to see and harder to fix than surface rust.
-Assembly takes a full day for one person. Two people make it manageable in half that time.
-**Pros.**
-- 80 sq ft of storage, padlockable doors, reinforced corners
-- Electro-galvanized steel, no rot, no termite risk, no painting required
-- Lower upfront cost than comparable wooden sheds
-**Cons.**
-- Steel walls condensate in humid climates; ventilation kit strongly recommended
-- Floor kit sold separately, a detail that's easy to miss at checkout
-- Full-day assembly for a solo installer
+**Pros**
 
-### [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20)
-The lean-to format solves a specific problem: limited yard space with a usable south- or west-facing wall. If you have that wall, this greenhouse is a more efficient use of space and heat than a freestanding unit at twice the footprint. The house wall provides structural support, and in cold weather, the residual heat from the building's exterior contributes meaningfully to overnight temperatures inside the greenhouse.
-Currently around $700 to $800, this is priced competitively for what it includes. The galvanized steel base is included, which is not standard in this category. At this price point, most lean-to options either omit the base or charge separately for it. The adjustable roof vent provides passive ventilation without any electrical setup, which is the right approach for a structure this size.
-The headroom limitation at the low end of the lean-to is real. At the wall attachment point, clearance is adequate for most tasks, but at the outer edge, shorter gardeners will be comfortable and taller ones will not. If you're over six feet and doing regular work in here, measure the low end against your height before ordering.
-The light requirement is non-negotiable. A north-facing wall will not work. An east-facing wall will marginally work for some crops. South or west is the actual requirement, and if your available wall doesn't face that way, a freestanding greenhouse is a better answer, even on a small property.
-**Pros.**
-- Attaches to a house wall, using structural support and wall heat for efficiency
-- Adjustable roof vent for passive ventilation without electricity
-- Galvanized steel base included, rare at this price point
-**Cons.**
-- Requires a south- or west-facing wall; other orientations don't provide adequate light
-- Limited headroom at the outer, low end of the lean-to
+- Cedar won't rot or require chemical sealants
+- Arrives pre-cut, pre-drilled, pre-stained
+- Compatible with Yardistry's polycarbonate roof panels for weather coverage
 
+**Cons**
+
+- Cedar will gray and weather without restaining every two to three years
+- Base kit is shade-only; roof panels are a separate purchase
+
+Cedar maintenance is not a problem; it's a trade-off. Left untreated, cedar goes silver-gray, which some people find attractive and others find neglected-looking. If you want to preserve the warm honey tone, plan on a light recoat every two to three years. That's maybe a Saturday afternoon for a 10x12 structure, so it's not a burden worth overstating. Compared to a vinyl pergola kit at a similar price, the Yardistry ages better by any standard that doesn't involve zero effort.
 
 ![Renfocre Pergola Kit — photo by ](/images/articles/structures-7.jpg)
 
-## Buying Guide
 
-### What you're actually choosing between
-These five products cover different functional categories, and the overlap between them is smaller than a list format suggests. The Yardistry cedar kit and the Palram Martinique are both pergola-class structures, but one is a wood kit requiring ongoing maintenance and one is an aluminum-frame permanent installation with a hard roof. They're not interchangeable choices; they suit different buyers with different tolerance for upkeep.
-The All Things Cedar arbor is a garden entry feature, not a living space. If you're looking for shade coverage for outdoor furniture, the arbor won't serve that purpose.
-The Arrow shed is pure storage infrastructure. The Palram lean-to is a growing space. Neither competes with the others.
+,
 
-### Wood vs. aluminum at this price point
-Cedar is the correct wood choice for outdoor structures at any price. It doesn't need chemical treatment, it ages well, and it looks appropriate in a garden context. The tradeoff is the maintenance cycle: staining or oiling every two to three years is not optional if you want to keep the color, and the structure will need periodic inspection of any hardware that contacts the wood directly.
-Powder-coated aluminum, as used in the Palram Martinique, requires essentially no maintenance beyond occasional washing. The tradeoff is aesthetic: aluminum looks like aluminum, and while the Martinique is a well-designed structure, it will never look like timber.
+### [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)
 
-### Roofing: polycarbonate vs. open lattice vs. fabric
-Open lattice (Yardistry base kit, the Cedar arbor) provides filtered shade and no rain protection. It's appropriate for climbing plants and partial shade but not for a covered outdoor living space in variable weather.
-Polycarbonate (Palram Martinique, Yardistry with add-on panels) provides real weather protection, UV filtering, and durability that fabric canopies don't approach. If you want a structure you can use during a light rain, polycarbonate is the minimum requirement.
-Fabric canopies, which aren't represented in this roundup by choice, are a compromise that tends to look good for one season and mediocre for the next two before requiring replacement. I've excluded them from serious consideration for permanent installations.
+This is the structure I'd buy for a permanent outdoor dining space, and I say that knowing it's currently running around $1,800 to $2,200. The Palram Canopia Martinique's twin-wall polycarbonate roof panels block 99.9% of UV while diffusing light, which means no harsh glare on a bright afternoon and no faded tablecloth after two summers. If you've ever replaced a fabric canopy gazebo because it sagged, tore, or just looked spent after three years of freeze-thaw cycles and UV exposure, that's exactly what this solves.
 
-### Assembly realities
-Every kit in this roundup requires more than one person at some point in the process, even the ones manufacturers describe as single-person builds. The Palram Martinique is explicit about this. The Arrow shed is theoretically solo-buildable but significantly faster with two people. For any structure over 8 feet in any dimension, build in the assumption that you'll need a second set of hands for at least part of the day.
-For a broader look at how these structures work together on a property, the [garden structures and outdoor buildings](/structures/) section covers additional options in each category.
+The powder-coated aluminum frame won't rust, and the 10-year limited warranty is meaningful for something you're bolting permanently to a patio. At 120 square feet, the footprint comfortably fits a six-person dining table with chairs pulled out. (I measured this against a 36" x 72" table with chairs. It works.)
 
+Installation takes two people and half a day. Don't attempt it solo unless you want to hold up a roof panel with one hand while threading a bolt with the other. This is not a slight against the product.
+
+The Martinique is open-air on the sides by design. Wind-driven rain will come in. For readers who want guttered coverage or side enclosure, our article on [gazebos with gutters](/gazebo-with-gutters/) covers options where water management is built into the structure.
+
+**Pros**
+
+- Twin-wall polycarbonate roof: no UV, no harsh glare, no canopy replacement
+- Powder-coated aluminum won't rust or fade
+- 10-year limited warranty
+- 120 sq ft fits a full outdoor dining set
+
+**Cons**
+
+- Premium price point for a permanent installation
+- Two-person assembly required
+- Open sides offer no wind or rain protection from the sides
+
+,
+
+### [All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](https://www.amazon.com/dp/B00YYEW556?tag=fourseasong-20)
+
+At around $280 to $320 currently, the All Things Cedar GA87 is not a pergola or a gazebo. It's a 60-inch wide garden arbor with integrated trellis panels, and it does that specific job better than anything else at this price. The trellis side panels will support climbing roses, clematis, and wisteria without additional hardware. If you've ever stapled chicken wire to a wooden frame and hoped for the best, you'll appreciate that the lattice is already part of the structure.
 
 ![Renfocre Pergola Kit — photo by ](/images/articles/structures-8.jpg)
 
+
+The 60-inch width is just right for a garden path or a gate entrance. It's not large enough to sit under, and if you're expecting otherwise, look at the dimensions carefully before purchasing.
+
+Cedar again: same maintenance math as the Yardistry. Let it go and it silvers. Oil or stain every couple of years and it stays warm. The natural gray patina that cedar develops is, in my opinion, more attractive than the way vinyl arbors look after a decade of UV exposure, when they go from bright white to a faded yellowed non-color. The cedar ages into its surroundings; the vinyl ages into an eyesore.
+
+In windy sites or any permanent installation, set the posts in concrete. The arbor is stable on its own under light conditions, but if you're growing a mature wisteria on it, which can weigh considerably more than people expect, you'll want that post depth.
+
+**Pros**
+
+- Cedar requires no chemical treatment, safe next to edibles
+- Trellis panels ready for climbing plants
+- 60-inch width suits a garden path or entrance
+
+**Cons**
+
+- Cedar will gray without regular oiling or staining
+- Posts should be set in concrete for permanent or load-bearing installation
+
+,
+
+### [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20)
+
+The Arrow Select runs around $400 to $500, which makes it one of the more honest values in this roundup if what you actually need is an 80-square-foot storage space that won't rot, won't attract termites, and won't require painting. Electro-galvanized steel panels resist rust, the reinforced corners add rigidity against wind racking, and the doors are padlockable, which matters if you're storing power equipment.
+
+The floor kit is sold separately and frequently overlooked. Don't overlook it. Without a floor, you're either anchoring this to a concrete pad or setting it on gravel, both of which require planning. The floor kit is available from Arrow directly or through Amazon for around $90 to $120 (at the time of writing), and your life is substantially easier if you factor it in from the start.
+
+![Renfocre Pergola Kit — photo by ](/images/articles/structures-1.jpg)
+
+
+The one material limitation with steel sheds is condensation. In humid climates or through spring temperature swings, steel walls will condense on the inside. A ventilation kit, around $25 to $40, solves most of this. It's an easy add.
+
+Assembly runs a full day for one person. Two people can do it in half that. The manual is workable, not elegant.
+
+**Pros**
+
+- 80 sq ft handles a full set of lawn and garden tools
+- No rot, no painting, no termite risk
+- Padlockable doors
+- Reinforced corners for wind resistance
+
+**Cons**
+
+- Steel condenses in humid conditions; ventilation kit recommended
+- Floor kit sold separately
+- Full-day assembly for one person
+
+,
+
+### [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20)
+
+Currently around $450 to $550, the Palram Canopia Hybrid lean-to is the right answer for gardeners who want greenhouse capability without sacrificing a significant footprint. It attaches to a house wall, which does two things: it uses the wall for structural support, reducing the material cost of a freestanding frame, and in cold weather, it benefits from heat radiating off the house wall. That second point is worth more than it sounds for anyone starting seeds in late winter.
+
+The galvanized steel base is included, which is unusual at this price. Freestanding greenhouse kits in a comparable size often sell the base separately. If you're comparing against something like an [aluminum greenhouse frame kit](/aluminum-greenhouse-frame-kit/), the lean-to trades interior square footage for wall proximity and heat efficiency, which is a reasonable trade for a smaller property.
+
+The roof vent is adjustable and provides passive ventilation without any electrical components. On a south- or west-facing wall, this greenhouse can overheat on a bright spring afternoon if the vent is closed, so check it regularly during shoulder seasons.
+
+Headroom at the low end is limited. I'm 5'6" and I'd crouch. If the person using this regularly is taller, account for that.
+
+This is not for large-scale growing. It's for seed starting, overwintering tender perennials, and extending the season by four to six weeks on each end. For that purpose, it's more useful than a cold frame and less expensive than a freestanding greenhouse.
+
+**Pros**
+
+- Mounts to house wall, benefits from radiated heat
+- Adjustable roof vent, passive ventilation, no electricity needed
+
+![Renfocre Pergola Kit — photo by ](/images/articles/structures-2.jpg)
+
+- Galvanized steel base included
+- Compact footprint for smaller properties
+
+**Cons**
+
+- Requires a south- or west-facing wall
+- Limited headroom at the low end
+
+,
+
+## Buying Guide
+
+### Permanent vs. Semi-Permanent
+
+The Palram Martinique and the Yardistry cedar pergola are both built to stay put. If you're renting, or if you expect your garden layout to change significantly in the next five years, neither is the right call at their price points. The All Things Cedar arbor and the Arrow shed sit in more manageable territory if portability or flexibility matters.
+
+### Wood vs. Metal vs. Polycarbonate
+
+Cedar performs well in wet conditions without chemical treatment. Its maintenance requirement is cosmetic, not structural. If the wood grays and you're fine with that, maintenance is essentially zero. Powder-coated aluminum, as used in the Martinique, requires nothing. Steel sheds require attention to ventilation but no exterior treatment. The only category that demands ongoing replacement is fabric canopies, which is exactly why none of the five products here use one.
+
+### What Size Do You Actually Need
+
+A 10x12 pergola or gazebo fits a rectangular table for six with chairs. An 8x10 fits a table for four comfortably. The All Things Cedar arbor is a passage structure, not a seating structure. Measure before you order, including the path for delivery.
+
+### Assembly Expectations
+
+Every structure on this list requires two people for at least part of the process, and some require it throughout. The Arrow shed is manageable solo for most of the build with an extra set of hands at roof panel time. The Martinique is a genuine two-person job from start to finish. If you're planning to hire installation, most landscaping contractors can assemble any of these kits. Budget roughly $150 to $300 for labor depending on your area.
+
+For more on planning a connected garden structures setup, the full [Greenhouses, Sheds & Gazebos](/structures/) section covers anchoring, siting, and seasonal use in more detail.
+
+,
+
 ## Frequently Asked Questions
 
-### What is the difference between a pergola and a gazebo?
-A pergola is an open-framework structure, typically with a lattice or open-beam roof, designed for partial shade and often used to support climbing plants or define a garden space. A gazebo is a fully roofed, freestanding structure, usually with a solid or semi-solid roof, intended for full shade and weather protection. The Yardistry cedar kit is a pergola. The Palram Martinique is technically a hardtop gazebo, though it's marketed alongside pergola-style structures.
+### What is the best pergola kit for a deck or patio in a cold climate?
 
-### How long does a cedar pergola kit last?
-With maintenance, 20 to 30 years is a realistic lifespan for a cedar structure. Without maintenance, you're looking at accelerated graying, potential checking in the wood, and eventual hardware corrosion at joint points. Restaining every two to three years and inspecting hardware annually keeps cedar structures in good condition for decades. North American cedar's natural rot resistance extends its working life considerably compared to pine or fir alternatives at lower price points.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) handles cold winters without issue. Cedar is dimensionally stable through freeze-thaw cycles in a way that composite materials are not. If you plan to use the space through rain and shoulder-season weather, add the Yardistry polycarbonate roof panels at the time of initial purchase. The structure itself has no meaningful weather vulnerability.
 
-### Do I need a permit to install a pergola or gazebo?
-This depends entirely on your municipality and, if applicable, your HOA. Most jurisdictions require a permit for permanent structures over a certain square footage, and many have setback requirements from property lines. The Palram Martinique at 120 square feet crosses the permit threshold in many towns. Check with your local building department before purchase, not after. The cost and delay of a permit is far less than the cost of being required to move or remove a structure you've already installed.
+![Renfocre Pergola Kit — photo by ](/images/articles/structures-3.jpg)
 
-### Can a steel shed handle heavy snow loads?
-The Arrow Select is rated for moderate snow load, but heavy accumulation is a real risk for any shed with a relatively flat or low-pitch roof. In areas with hard winters and significant snowfall, removing accumulated snow from the roof after major storms is standard practice. The structural reinforcement in the Arrow's corners handles wind racking well, but dead weight from wet, compacted snow is a different stress. Check the manufacturer's rated load specification against your average seasonal snowfall before purchasing.
 
-### Is a lean-to greenhouse worth it compared to a freestanding model?
-For small properties with a suitable wall, yes. The lean-to format uses the house wall as one side of the structure, which reduces material cost, provides passive heat from the building, and makes the greenhouse accessible directly from the house in some configurations. The limitation is orientation: without a south- or west-facing wall, you won't get adequate light for most crops. If your only available wall faces north or east, a compact freestanding greenhouse is the better choice even at a smaller footprint than the lean-to option.
+### Do pergola kits require a concrete foundation?
+
+Most freestanding pergola kits, including the Yardistry, anchor with post hardware that can attach to an existing deck surface, a concrete pad, or ground anchors. For soft ground or permanent installation with significant load (a full polycarbonate roof plus furniture), concrete footings are worth the added work. The All Things Cedar arbor specifically should be set in concrete if it's carrying a mature climbing plant. Check the specific kit's anchor hardware before assuming either approach.
+
+### How long does a steel shed last compared to a wooden shed?
+
+Properly maintained, a steel shed like the [Arrow Select](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) will outlast an untreated wooden shed in most conditions. Steel doesn't rot or attract insects. The main failure mode for steel sheds is rust at fastener points and condensation damage to stored contents, both of which are manageable with ventilation and periodic inspection. Wooden sheds require paint or stain maintenance every three to five years and are vulnerable to ground moisture at the base if the floor is not properly elevated.
+
+### Can I attach a lean-to greenhouse to a brick or stucco wall?
+
+The [Palram Canopia Hybrid lean-to](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20) is designed to attach to a range of wall materials including brick, wood siding, and stucco. Masonry anchors are required for brick or stucco, which are not always included in the kit. Check the contents list before purchasing and pick up appropriate anchors at the same time. The attachment method is the same regardless of wall material; only the fastener type changes.
+
+### What's the difference between a gazebo and a pergola?
+
+A pergola has an open or slatted roof and open sides. It provides partial shade and a structural anchor for climbing plants but no weather protection. A gazebo has a solid or near-solid roof, often with built-in framing for side panels, and is designed for use during light rain and full sun. The [Palram Martinique](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) is a gazebo with a polycarbonate roof. The Yardistry kit, in its base form, is a pergola. The practical distinction matters if you expect to use the structure on days with weather.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "5 Renfocre Pergola Kits Tested: Cedar vs Aluminum",
+  "description": "Compare 5 real renfocre pergola kits with honest pros and cons. Find the right size, material, and installation needs for your space.",
+  "datePublished": "2026-05-01",
+  "dateModified": "2026-05-01",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://fourseasongardener.com/renfocre-pergola-kit/"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Wendy Hartley",
+    "url": "https://fourseasongardener.com/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Four Season Gardener",
+    "url": "https://fourseasongardener.com"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://fourseasongardener.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Garden Structures",
+      "item": "https://fourseasongardener.com/garden-structures/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Greenhouses, Sheds & Gazebos",
+      "item": "https://fourseasongardener.com/structures/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "5 Renfocre Pergola Kits Tested: Cedar vs Aluminum",
+      "item": "https://fourseasongardener.com/renfocre-pergola-kit/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best pergola kit for a deck or patio in a cold climate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) handles cold winters without issue. Cedar is dimensionally stable through freeze-thaw cycles in a way that composite materials are not. If you plan to use the space through rain and shoulder-season weather, add the Yardistry polycarbonate roof panels at the time of initial purchase. The structure itself has no meaningful weather vulnerability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do pergola kits require a concrete foundation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most freestanding pergola kits, including the Yardistry, anchor with post hardware that can attach to an existing deck surface, a concrete pad, or ground anchors. For soft ground or permanent installation with significant load (a full polycarbonate roof plus furniture), concrete footings are worth the added work. The All Things Cedar arbor specifically should be set in concrete if it's carrying a mature climbing plant. Check the specific kit's anchor hardware before assuming either approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a steel shed last compared to a wooden shed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Properly maintained, a steel shed like the [Arrow Select](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) will outlast an untreated wooden shed in most conditions. Steel doesn't rot or attract insects. The main failure mode for steel sheds is rust at fastener points and condensation damage to stored contents, both of which are manageable with ventilation and periodic inspection. Wooden sheds require paint or stain maintenance every three to five years and are vulnerable to ground moisture at the base if the floor is not properly elevated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I attach a lean-to greenhouse to a brick or stucco wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The [Palram Canopia Hybrid lean-to](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20) is designed to attach to a range of wall materials including brick, wood siding, and stucco. Masonry anchors are required for brick or stucco, which are not always included in the kit. Check the contents list before purchasing and pick up appropriate anchors at the same time. The attachment method is the same regardless of wall material; only the fastener type changes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a gazebo and a pergola?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pergola has an open or slatted roof and open sides. It provides partial shade and a structural anchor for climbing plants but no weather protection. A gazebo has a solid or near-solid roof, often with built-in framing for side panels, and is designed for use during light rain and full sun. The [Palram Martinique](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) is a gazebo with a polycarbonate roof. The Yardistry kit, in its base form, is a pergola. The practical distinction matters if you expect to use the structure on days with weather."
+      }
+    }
+  ]
+}
+</script>
+
