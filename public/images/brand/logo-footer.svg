@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 218 40" width="218" height="40" role="img" aria-label="Four Season Gardener">
+  <g transform="translate(19,20)">
+    <path d="M0-1.5 Q5-9 0-17 Q-5-9 0-1.5Z" fill="#ffffff"/>
+    <path d="M1.5,0 Q9,5 17,0 Q9-5 1.5,0Z" fill="#ffffff"/>
+    <path d="M0,1.5 Q5,9 0,17 Q-5,9 0,1.5Z" fill="#ffffff"/>
+    <path d="M-1.5,0 Q-9,5 -17,0 Q-9-5 -1.5,0Z" fill="#ffffff"/>
+    <circle r="3" fill="#ffffff"/>
+  </g>
+  <line x1="45" y1="7" x2="45" y2="33" stroke="#ffffff" stroke-width="0.75" opacity="0.35"/>
+  <text x="54" y="16"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="9"
+    font-weight="400"
+    letter-spacing="3.2"
+    fill="#ffffff"
+    dominant-baseline="auto">FOUR SEASON</text>
+  <text x="54" y="34"
+    font-family="Georgia,'Times New Roman',serif"
+    font-size="16"
+    font-weight="700"
+    letter-spacing="0.4"
+    fill="#ffffff"
+    dominant-baseline="auto">Gardener</text>
+</svg>
