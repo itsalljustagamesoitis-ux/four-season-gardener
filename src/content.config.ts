@@ -19,7 +19,7 @@ const ProductRefSchema = z.object({
 const ArticleSchema = z.object({
   title: z.string(),
   slug: z.string(),
-  type: z.enum(['roundup', 'review', 'comparison', 'buyer_guide']),
+  type: z.enum(['roundup', 'review', 'comparison', 'buyer_guide', 'informational']),
   date: z.date(),
   updated: z.date().optional(),
   author: z.string().default('wendy'),
@@ -27,7 +27,7 @@ const ArticleSchema = z.object({
   hub: z.string(),
   hero_image: z.string(),
   hero_image_alt: z.string().optional(),
-  description: z.string().max(165),
+  description: z.string().max(200),
   target_keyword: z.string(),
   products: z.array(ProductRefSchema).default([]),
   tags: z.array(z.string()).default([]),
