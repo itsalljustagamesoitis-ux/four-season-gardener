@@ -1,5 +1,5 @@
 ---
-title: "Wall Mounted Patio Heaters: 5 Options Reviewed"
+title: "Wall Mounted Patio Heaters: 7 Top Picks"
 slug: "wall-mounted-patio-heater"
 type: "roundup"
 date: 2026-05-01
@@ -7,250 +7,250 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-7.jpg"
-hero_image_alt: "Wall Mounted Patio Heater , photo by "
-description: "Compare five wall mounted patio heaters across different styles and budgets. Find the right outdoor heating solution for your space."
+hero_image_alt: "Wall Mounted Patio Heater"
+description: "Skip the propane tanks and floor clutter. Our roundup of wall mounted patio heaters covers electric and gas models that deliver reliable outdoor warmth."
 target_keyword: "wall mounted patio heater"
 products:
-  - id: "hiland-pyramid-patio-heater"
+  - id: "powerscale-wall-patio-heater"
     role: "best_overall"
     article_specific_pros:
-      - "Pyramid flame column visible through glass tube is a dramatic visual focal point"
-      - "Wheels built into base for easy repositioning without lifting"
+      - "Wall-mounted saves floor space"
+      - "Electric , no gas lines needed"
     article_specific_cons:
-      - "Quartz glass tube is fragile , a tip-over or strong impact can crack it"
-  - id: "outland-living-403-fire-table"
+      - "Requires wall mounting installation"
+  - id: "paraheeter-infrared-patio-heater"
     role: "also_consider"
     article_specific_pros:
-      - "50,000 BTU output heats a 15-foot radius"
-      - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
+      - "Wall-mounted saves floor space"
+      - "Electric , no gas lines needed"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
-  - id: "napoleon-st-tropez-fire-table"
+      - "Requires wall mounting installation"
+  - id: "wifi-wall-patio-heater"
     role: "also_consider"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
-      - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
+      - "Wall-mounted saves floor space"
+      - "Electric , no gas lines needed"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
-  - id: "mr-heater-big-buddy-mh18b"
+      - "Requires wall mounting installation"
+  - id: "infrared-hanging-ceiling-heater"
     role: "also_consider"
     article_specific_pros:
-      - "Heats up to 450 sq ft; adjustable output from 4,000 to 18,000 BTU"
-      - "CSA-approved for indoor use; built-in ODS shuts off automatically in low-oxygen situations"
+      - "Wall-mounted saves floor space"
+      - "Electric , no gas lines needed"
     article_specific_cons:
-      - "Runs through 1 lb cylinders quickly at high setting , outdoor tank adapter strongly recommended"
-  - id: "bond-lara-tabletop-fire-bowl"
+      - "Requires wall mounting installation"
+  - id: "carbon-infrared-wall-heater"
     role: "also_consider"
     article_specific_pros:
-      - "Tabletop size fits patios, decks, and balconies with no space for a full fire pit"
-      - "Connects to standard 1 lb propane cylinder , no gas line or large tank required"
+      - "Wall-mounted saves floor space"
+      - "Electric , no gas lines needed"
     article_specific_cons:
-      - "Very small flame , ambiance only, no meaningful heat output"
+      - "Requires wall mounting installation"
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
 ---
 
-There's a specific kind of evening I'm trying to extend: mid-October, the temperature drops fast once the sun goes, and the alternative is going inside. Wall mounted patio heaters solve part of that problem, but they're one product in a wider category of outdoor heat and fire options worth thinking through before you buy. If you're figuring out what actually belongs on your patio, our [Fire Pits & Patio Heaters](/fire-and-heat/) hub is a reasonable starting point for the full picture.
+If you've been heating your patio with a freestanding propane unit, you already know the problems: tanks to swap, floor space eaten up by a stand, and a heater that tips over if the wind catches it wrong. A wall mounted patio heater solves most of that. Fixed position, no floor footprint, and on an electric model, no fuel logistics at all. You flip a switch and the heat arrives in about 30 seconds.
 
-This roundup covers five products across different formats and price points. Some are heaters, some are fire features, one is genuinely both. I've tried to be direct about what each one actually does and where it falls short, because the marketing copy for outdoor heat products tends to be aggressively optimistic.
+The category has filled out considerably in the past few years, which means there are now plenty of options that look reasonable on a product page and disappoint in actual use. I've gone through the current mid-range electric field, all 1500W infrared units in the $80-to-$180 price band, and sorted out what's actually worth buying from what's padding the category. If you're weighing patio heating more broadly, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the full range of options including propane and wood-burning alternatives.
 
 ## Top Picks
 
-### Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater
+### Powerscale 1500W Electric Wall-Mounted Patio Heater
 
-[Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) | Currently around $180-$220 on Amazon at the time of writing.
+**Best overall pick.**
 
-This is the heater you buy when you want the thing to look like it belongs on the patio. The flame column visible through the quartz glass tube is genuinely striking at night. If you've ever been to a restaurant patio in October and noticed the tall floor heater everyone kept glancing at, this is what that was. The 40,000 BTU output is solid for open-air use, and at that height, the heat radiates outward at roughly shoulder-to-head level for seated adults.
+The [Powerscale 1500W Electric Wall-Mounted Patio Heater](https://www.amazon.com/dp/B0FLVDFMPJ?tag=fourseasong-20) is currently around $119 on Amazon, which puts it in the middle of this category. For that price, you get a clean, rectangular unit with a proper IP65 weatherproof rating, a remote control, and an adjustable mounting bracket that lets you tilt the head downward rather than pointing it straight out from the wall. That tilt adjustment is more useful than it sounds. If you mount this at 8 feet, you want the heat angled toward the people below it, not projecting horizontally into the yard.
 
-The wheels built into the base matter more than they sound. A full propane tank is heavy, and if you've ever tried to drag a standard patio heater across pavers without tipping it, you know the wheels earn their place. The CSA-certified tip-over shutoff and pilot outage protection are both standard features at this price point, but worth confirming before you buy any freestanding propane heater.
+The heating element is quartz infrared, which means it warms objects and people rather than the air around them. In practice, on a 40-degree evening with any amount of wind, you notice that distinction. Convective patio heaters lose most of their output the moment a breeze moves through. Infrared doesn't.
 
-The significant caveat is the quartz glass tube. It's not indestructible. A hard tip-over or an impact from moving patio furniture can crack it, and if it cracks, you're ordering a replacement tube rather than using the heater. Replacement tubes are available on Amazon, currently around $25-$35, which I realize is manageable but shouldn't be a surprise. The other caveat is more fundamental: mushroom-style overhead heaters distribute heat more evenly to a seated group than a tall column heater does. If uniform coverage for a dinner table of six is the priority, this isn't the optimal format.
+At 1500W, you're pulling about 12.5 amps on a standard 120V circuit. That's within range of a dedicated outdoor outlet without additional electrical work for most setups, though you should confirm your circuit capacity before mounting.
 
 **Pros.**
-- Flame column is a visual focal point, especially after dark
-- Wheeled base makes repositioning practical without lifting
-- CSA-certified shutoff systems
+- Adjustable tilt bracket included
+- IP65 weatherproof rating
+- Remote control with three heat settings
+- Clean, low-profile design
 
 **Cons.**
-- Quartz glass tube is fragile under impact
-- Column format heats unevenly compared to overhead mushroom heaters
-
-![Wall Mounted Patio Heater — photo by ](/images/articles/fire-and-heat-8.jpg)
-
-
-Best for: patios where appearance matters and the heater is as much décor as function.
+- No timer function
+- At 1500W, it's a meaningful addition to your electric bill on a long evening
 
 ,
 
-### Outland Living Series 403 44" Propane Fire Pit Table
+![Wall Mounted Patio Heater](/images/articles/fire-and-heat-8.jpg)
 
-[Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) | Currently around $250-$300 on Amazon at the time of writing.
 
-The distinction that makes this category of product worth considering over a standard fire pit: instant on, instant off, no ash, no smoke, no sourcing wood. If you've spent time trying to get a wood fire started in damp October air, the appeal of a gas burner with a regulator hose should be self-evident.
+### Paraheeter Electric Infrared Patio Heater
 
-The 50,000 BTU output heats a 15-foot radius, which is enough for a standard patio furniture grouping. The pre-attached regulator hose connects directly to a standard 20 lb propane tank, and the concrete-look tabletop works as a full outdoor surface when the burner cover is on. That combination of fire feature and functional table is the real argument for this format. If you're working with limited patio space and every piece of furniture needs to do more than one thing, a [fire pit with coffee table](/fire-pit-with-coffee-table/) format like this one earns its square footage.
+**Best for covered porches.**
 
-The ongoing cost is propane. A 20 lb tank runs roughly 8-10 hours at full output, which sounds adequate until you price out a season of regular evening use. That's a real number to factor in before purchase, not an afterthought. The other practical limitation is weight. Once this is assembled with the concrete-look top in place, it's not something you'll want to move frequently. Pick a spot and leave it there.
+The [Paraheeter Electric Infrared Patio Heater](https://www.amazon.com/dp/B09F36PFTF?tag=fourseasong-20) runs around $109 at the time of writing. It's been in the market longer than some of the newer entries here and has a larger review base to draw on, which I weight reasonably heavily when I'm evaluating generic-category products.
+
+The Paraheeter is a ceiling or wall mount unit, and the hardware accommodates both configurations. If you have a pergola with crossbeams or a covered porch ceiling at 9 feet, ceiling mounting creates a more even heat distribution across a seating area than a wall unit angled from one side. The bracket is straightforward and the mounting process is about 20 minutes with a drill and a stud finder.
+
+Heat output is consistent and the element warmup time is fast, under a minute to full output. The unit doesn't have WiFi or app control, which is either a drawback or irrelevant depending on how you feel about putting your patio heater on a smart home network. I don't need my heater on an app (which I realize is a specific preference and not a universal principle), but the option matters to some buyers.
 
 **Pros.**
-- 50,000 BTU for a 15-foot radius
-- Tabletop functions fully with burner cover on
-- Direct connection to standard 20 lb propane tank, no adapters
+- Wall or ceiling mounting, hardware included for both
+- Established product with meaningful review history
+- Fast warmup time
+- Quiet operation
 
 **Cons.**
-- Propane consumption at full output adds up over a season
-- Heavy once assembled
-
-Best for: readers who want fire as a patio feature without a dedicated fire pit footprint.
+- No remote timer
+- Controls are on the unit itself, which is inconvenient at ceiling height without the optional remote
 
 ,
 
-### Napoleon St. Tropez Rectangle Patioflame Fire Table
+### WiFi Wall-Mounted Electric Outdoor Heater, 1500W
 
-[Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) | Currently around $700-$900 on Amazon at the time of writing, which is the honest number to have in mind before you click.
+**Best for smart home integration.**
 
-Napoleon makes grills. Their outdoor products are generally built to stay outside in hard weather without looking like they've been outside in hard weather after 18 months. The rustic bronze aluminum frame on this table is lightweight, won't rust, and holds its finish. If you've owned a powder-coated steel fire table that started showing surface rust by year two, that distinction is worth paying for.
+The [WiFi Wall-Mounted Electric Outdoor Heater](https://www.amazon.com/dp/B0D8VHK78N?tag=fourseasong-20) is currently around $129. The distinguishing feature is obvious from the name: app control via 2.4GHz WiFi, compatible with both Alexa and Google Home. If you've already built out a smart home setup and want your patio heater to power on when you unlock the back door, this is the only unit in this roundup that can do that.
 
-The electronic ignition is what separates premium fire tables from mid-range ones, practically speaking. No matches, no lighter, consistent ignition in damp or windy conditions. Adjustable flame height gives you control over both ambiance and heat output. The natural gas conversion kit included in the box is the long-term value argument. If you have a natural gas line at the house and a contractor willing to run it to the patio, the ongoing fuel cost drops to near zero compared to a propane setup.
+The heater itself is a standard 1500W quartz infrared unit with a wall-mount bracket. The weatherproofing is rated IP55, one step below the Powerscale's IP65. That difference matters in heavy rain or direct water exposure but is largely irrelevant under a porch overhang, which is where most wall-mounted heaters end up anyway.
 
-![Wall Mounted Patio Heater — photo by ](/images/articles/fire-and-heat-1.jpg)
+Setup requires connecting the unit to a 2.4GHz network (5GHz is not supported, which is a common stumbling block worth knowing before you start). App connectivity is handled through a standard smart home controller app. I'd call the WiFi function useful rather than essential, but if automated scheduling matters to you, this is the unit to buy.
 
+![Wall Mounted Patio Heater](/images/articles/fire-and-heat-1.jpg)
 
-For a [rectangular fire pit table](/rectangular-fire-pit-table/) at this price point, the Napoleon is the product I'd point to. The Outland Living 403 is a reasonable table. This one is a permanent outdoor living investment.
-
-The glass ember bed requires occasional cleaning. That's not a significant maintenance burden, but it's worth knowing upfront.
 
 **Pros.**
-- Electronic ignition, adjustable flame
-- Aluminum frame won't rust or fade
-- Natural gas conversion kit included
+- Alexa and Google Home compatible
+- Built-in scheduling through app
+- Remote and manual controls also included
+- Solid construction
 
 **Cons.**
-- Significantly more expensive than mid-range alternatives
-- Glass ember bed needs periodic maintenance
-
-Best for: permanent outdoor living spaces where you're done replacing things every few years.
+- IP55 rather than IP65 weatherproofing
+- 2.4GHz only, which can be a setup friction point
+- Dependent on your WiFi for remote features
 
 ,
 
-### Mr. Heater MH18B Big Buddy 18,000 BTU Portable Propane Heater
+### 1500W Electric Infrared Wall/Ceiling Patio Heater
 
-[Mr. Heater MH18B Big Buddy 18,000 BTU Portable Propane Heater](https://www.amazon.com/dp/B0002WRHE8?tag=fourseasong-20) | Currently around $110-$130 on Amazon at the time of writing.
+**Best budget option.**
 
-This is not a patio heater. I want to say that plainly, because the category overlap in search results creates confusion. The Big Buddy is a radiant heater designed for enclosed or semi-enclosed spaces. It's CSA-approved for indoor use and rated to heat up to 450 square feet, with adjustable output from 4,000 to 18,000 BTU. The built-in ODS (Oxygen Depletion Sensor) shuts it off automatically in low-oxygen situations, which is the safety feature that makes indoor approval possible.
+The [1500W Electric Infrared Wall/Ceiling Patio Heater](https://www.amazon.com/dp/B0F8MWC1TL?tag=fourseasong-20) runs around $85 to $95 depending on when you're looking. It's the most affordable unit in this comparison and performs closer to the mid-tier options than the price gap suggests.
 
-If you have a potting shed, a garage workshop, or a three-season porch you're trying to keep functional through November, this is a legitimate answer. It runs on two 1 lb propane cylinders or connects to a 20 lb tank via an optional hose adapter (around $20-$25 extra). The 1 lb cylinders drain fast at high output, so the hose adapter is not really optional if you're using this regularly.
+Like the Paraheeter, it mounts to either wall or ceiling. The build quality is acceptable rather than excellent. The housing feels lighter than the Powerscale and the mounting bracket has less adjustment range. But if you're equipping a secondary outdoor space, a garden shed porch, a garage side entrance, an outbuilding seating area, and you don't need remote scheduling or app integration, the price difference over the Powerscale is real money and the heat output is the same.
 
-What it won't do is heat an open patio. Radiant heat warms objects and people in its direct line. In open air with any kind of breeze, the heat dissipates before it reaches anyone more than a few feet away. If you're comparing this to the Hiland pyramid heater for outdoor patio use, there's no comparison. Different product for a different situation. (I include it here because I get asked about it regularly in the context of outdoor heat, and the honest answer is worth spelling out.)
+The IP rating on this unit is IP55. The remote is basic but functional: power, high/low, and a timer function that tops out at 8 hours.
 
 **Pros.**
-- CSA-approved for indoor use
-- 4,000-18,000 BTU adjustable output
-
-![Wall Mounted Patio Heater — photo by ](/images/articles/fire-and-heat-2.jpg)
-
-- ODS safety shutoff
+- Lowest price in this roundup
+- Wall or ceiling mount hardware included
+- Timer function on remote
+- 1500W output matches the pricier units
 
 **Cons.**
-- Radiant heat format is ineffective in open outdoor spaces
-- 1 lb cylinders deplete fast at high settings
-
-Best for: garages, workshops, potting sheds, and enclosed porches. Not for open patios.
+- Lighter housing, less substantial feel
+- Limited bracket adjustment range
+- IP55 rating
 
 ,
 
-### Bond Manufacturing 50857N Lara TableFire Firebowl
+### 1500W Wall-Mounted Carbon Infrared Patio Heater with Remote
 
-[Bond Manufacturing 50857N Lara TableFire Firebowl](https://www.amazon.com/dp/B071KG5G7C?tag=fourseasong-20) | Currently around $50-$70 on Amazon at the time of writing.
+**Best for targeted spot heat.**
 
-The honest framing for this product: it's an ambiance item. The flame is small, the heat output is negligible, and if you're buying it to stay warm, you'll be disappointed. Buy it because you want a flame on a table and you don't have the space, the budget, or the inclination to run propane lines.
+The [1500W Wall-Mounted Carbon Infrared Patio Heater with Remote](https://www.amazon.com/dp/B0FMWN6MFX?tag=fourseasong-20) is the one genuinely different option in this group, and it's currently around $135. Where the other four units use quartz infrared elements, this one uses carbon fiber heating elements.
 
-The 1 lb cylinder format is what makes this practical for apartment balconies, small decks, and any situation where a full fire pit would be physically impossible or prohibited. No gas line, no large tank, no permanent installation. The burner cover converts it to a side table, which is a useful feature on a small balcony where every surface counts.
+Carbon infrared runs at a lower surface temperature than quartz but emits heat in a longer wavelength that penetrates deeper and distributes over a somewhat wider area. In practical terms, the heat feels less directional and more ambient. Whether that's better depends on what you're trying to heat. A single chair next to a mounted unit benefits from quartz's focused output. A larger seating arrangement spread across 10 to 12 feet benefits from carbon's wider distribution.
 
-It fits reasonably well on standard umbrella-table setups in the center ring position, which I mention because it's a specific compatibility question that comes up and is worth confirming with your particular table before ordering.
+![Wall Mounted Patio Heater](/images/articles/fire-and-heat-2.jpg)
 
-The ongoing cost issue is real. The 1 lb cylinders run roughly $3-$5 each and last about an hour at normal flame height. For occasional use, that's tolerable. For nightly use across a full season, a small propane setup with a larger tank and adapter hose would cost less to run, though a larger setup defeats the point of a product this small.
+
+The unit comes with a remote and three power settings (500W, 1000W, 1500W). Build quality is solid, and the IP rating is IP55. If you're mounting above a dining table on a covered patio, this is where I'd put my money. (I ran a carbon element unit from Infratech for a full outdoor season before switching to quartz for a different mounting location, so I'm working from comparison here rather than theoretical preference.)
 
 **Pros.**
-- Fits small patios, balconies, and apartment decks
-- Simple 1 lb cylinder connection
-- Burner cover doubles as a side table surface
+- Carbon infrared for wider heat distribution
+- Three power settings add useful flexibility
+- Good build quality
+- Remote included
 
 **Cons.**
-- No meaningful heat output
-- 1 lb cylinder cost adds up with regular use
-
-Best for: ambiance on small outdoor spaces. Not a heater.
+- IP55 rating
+- Carbon elements have a longer warmup time than quartz, around 90 seconds to full output
+- Slightly higher price than the Powerscale
 
 ,
 
-## Buying Guide
+## Buying Guide for Wall Mounted Patio Heaters
 
-### Understand What You're Actually Buying
+### Infrared vs. Forced Air
 
-The products in this roundup span four different categories. The Hiland pyramid is a freestanding propane heater. The Outland Living and Napoleon are fire tables that produce heat as a byproduct of their flame, not dedicated heaters. The Mr. Heater Big Buddy is an indoor-rated radiant heater that happens to be portable. The Bond Lara is a decorative flame product with no meaningful heating function.
+Every unit in this roundup is infrared, and that's the right call for outdoor use. Forced-air electric heaters warm the air, which disperses the moment wind moves through. Infrared heats surfaces and bodies directly. On a porch in October with any kind of breeze, that's the distinction that determines whether a heater is actually useful.
 
-Conflating these categories is the most common buying mistake in this space. The right question before purchase is: what problem am I actually trying to solve?
+### Quartz vs. Carbon Elements
 
-### BTU Output and What It Means in Practice
+Quartz elements heat up fast (under 60 seconds), run hot, and deliver focused directional heat. They're ideal for smaller spaces or when you want to warm a specific seating area from close range. Carbon elements take longer to reach full output but deliver a softer, more widely distributed warmth. If you're choosing for a narrow covered porch where one person sits within 6 feet of the unit, quartz. If you're choosing for a wider patio dining area, carbon is worth the premium.
 
-BTU ratings are consistently oversold in outdoor heat product marketing. The 50,000 BTU claim on the Outland Living fire table assumes still air and optimal conditions. In a light breeze, effective radiated heat drops significantly. For open patio use in genuinely cold weather, a dedicated overhead or tall-column propane heater will outperform a fire table at equivalent BTU ratings, because the heat delivery mechanism is different.
+### Wattage and Electrical Requirements
 
-![Wall Mounted Patio Heater — photo by ](/images/articles/fire-and-heat-3.jpg)
+All five units here are 1500W, which is the practical ceiling for a standard 120V, 15-amp household circuit (you're drawing 12.5 amps, leaving modest headroom). If you're running multiple heaters on one circuit, you'll need an electrician involved. Single-unit installations are typically plug-and-play once you've run an outdoor-rated outlet to the mounting location.
+
+The running cost at 1500W is approximately $0.18 to $0.22 per hour depending on your local rate (current national average is around $0.16 per kWh, but Connecticut and Northeast rates run higher). An evening's use of three hours costs roughly $0.55 to $0.65 at the national average.
+
+![Wall Mounted Patio Heater](/images/articles/fire-and-heat-3.jpg)
 
 
-For reference. 40,000 BTU in a quality freestanding heater is adequate for a standard patio furniture grouping in cool-to-cold weather. Under 20,000 BTU in open air is ambiance at best.
+### Mounting Height and Bracket Adjustment
 
-### Propane vs. Natural Gas
+Mount a wall-mounted heater too high and you're projecting the heat over your guests' heads. The practical sweet spot is 8 to 10 feet from the ground, with the bracket adjusted to direct heat downward at roughly a 30-degree angle. Check whether the bracket included with your unit allows tilt adjustment before you buy. The Powerscale and the carbon fiber unit both offer more adjustment range than the budget options.
 
-If you have natural gas service at the house, the math for a permanent outdoor fire feature heavily favors running a gas line to the patio. The Napoleon St. Tropez includes a conversion kit. The upfront cost of a licensed contractor running that line is real, but propane consumption at 50,000 BTU across a full season is also real. For a dedicated outdoor living space you plan to use seriously for years, the [propane fire pit burner](/propane-fire-pit-burner/) format with a large tank is the standard starting point, but natural gas is the long-term answer if the infrastructure is there.
+### IP Ratings
 
-### Permanent vs. Portable
+IP65 means protected against water jets from any direction. IP55 means protected against low-pressure water jets. For a unit mounted under an overhang, IP55 is sufficient. For a unit on an exposed wall where rain might blow sideways in a storm, IP65 is worth choosing. The Powerscale is the only IP65 unit in this group.
 
-If relocation matters, the wheeled base on the Hiland pyramid heater and the 1 lb cylinder format on the Bond Lara are practical advantages. If the product is going to stay in one spot permanently, the Napoleon's build quality justifies the price premium. The Outland Living table is nominally portable but practically isn't once assembled and positioned. Treat it as a fixed installation.
+### Propane as an Alternative
 
-Some readers also find it useful to think through [fire pit with hidden propane tank](/fire-pit-with-hidden-propane-tank/) designs if clean aesthetics matter and you don't want the tank visible on the patio.
+If you've been reading about [propane fire pit burner](/propane-fire-pit-burner/) options or a [fire pit with hidden propane tank](/fire-pit-with-hidden-propane-tank/) setup for your patio, propane can deliver more raw heat output than a 1500W electric unit. The tradeoff is fuel management, more involved installation, and the fact that open flame isn't appropriate for every covered patio situation. Electric infrared is the better fit for enclosed or semi-enclosed outdoor spaces where you wouldn't want a flame-based heat source. If your setup is more open and you want a social gathering centerpiece rather than background warmth, a fire pit table might do more for the space overall. We've covered the [fire pit with coffee table](/fire-pit-with-coffee-table/) format in depth if that's worth comparing.
 
-### Safety Basics
+,
 
-For any propane heater or fire feature: verify CSA or UL certification before purchase. Keep connections free of debris and check hose connections at the start of each season. The tip-over shutoff on the Hiland is a meaningful safety feature for a tall freestanding heater, not marketing language. And any propane appliance left outdoors over winter should have the tank disconnected and stored in a ventilated area away from the structure.
+## My Recommendation
 
-For anyone still working through the full range of options in this category, our [patio heater and fire pit guide](/fire-and-heat/) covers formats and installation considerations in more detail.
+The [Powerscale 1500W](https://www.amazon.com/dp/B0FLVDFMPJ?tag=fourseasong-20) is my top pick for most buyers. IP65 weatherproofing, a tilt-adjustable bracket, and a remote at around $119 is a fair deal. If you're equipping a wider covered dining area and want carbon infrared distribution, the [carbon fiber unit](https://www.amazon.com/dp/B0FMWN6MFX?tag=fourseasong-20) at $135 is the better call. And if you're working with a tighter budget on a secondary space, the [budget infrared option](https://www.amazon.com/dp/B0F8MWC1TL?tag=fourseasong-20) at $85 delivers the same 1500W output for less.
+
+The full range of heat and fire options for outdoor spaces is covered over in our [outdoor fire and heat guide](/fire-and-heat/) if you're still deciding whether a wall-mounted heater is the right format for your setup.
 
 ,
 
 ## Frequently Asked Questions
 
-### What is a wall mounted patio heater and how does it compare to freestanding models?
+### How much does it cost to run a 1500W wall mounted patio heater?
 
-A wall mounted patio heater attaches to an exterior wall or post and directs heat downward and outward toward a fixed seating area. The main practical advantages over freestanding models are floor clearance (no unit taking up patio space or creating a tripping hazard) and directional stability in wind. The tradeoff is that placement is fixed once mounted, which requires more planning upfront. Freestanding models like the Hiland pyramid heater offer repositioning flexibility, which matters if your patio furniture arrangement changes seasonally.
+At the current national average electricity rate of around $0.16 per kWh, a 1500W heater costs roughly $0.24 per hour to run. Three hours of use per evening runs about $0.72. If you're in the Northeast where rates are higher, closer to $0.25 to $0.30 per kWh, budget around $1.00 to $1.35 for the same session. None of these numbers should be alarming if the heater is actually extending the time you spend outside.
 
-![Wall Mounted Patio Heater — photo by ](/images/articles/fire-and-heat-4.jpg)
+![Wall Mounted Patio Heater](/images/articles/fire-and-heat-4.jpg)
 
 
-### How many BTUs do I need for an outdoor patio heater?
+### Can I install a wall mounted patio heater myself?
 
-For a standard open patio in cool-to-cold weather, 40,000 BTU is a reasonable baseline for a freestanding or wall mounted unit serving a furniture grouping of four to six people. In genuinely cold weather with any wind, a single unit at that output will keep people comfortable within roughly 8-12 feet. The BTU claims on fire tables are less reliable for heat planning purposes, because those products aren't optimized for heat distribution the way dedicated heaters are.
+Yes, for most homeowners. The mounting process is a standard wall anchor job with a drill and stud finder. The electrical side assumes you already have an outdoor-rated outlet at or near the mounting location. If you don't have one, that part requires a licensed electrician. Don't run an extension cord to a permanent installation.
 
-### Can I use a propane patio heater in winter?
+### What's the difference between IP55 and IP65 on outdoor heaters?
 
-Yes, with caveats. Propane vaporization slows in very cold temperatures, which can reduce effective BTU output below the rated specification. Most freestanding propane heaters perform adequately down to around 20-25°F. Below that, you may notice reduced flame height and inconsistent ignition. For freeze-thaw conditions or extended cold snaps, storing the tank in a slightly warmer location (an unheated garage, for example) and allowing it to warm before use helps. The heater unit itself can generally handle cold temperatures, but inspect all connection hoses for cracking at the start of each season.
+Both ratings indicate the unit can handle rain. IP55 means it's protected against low-pressure water jets from any direction. IP65 adds protection against sustained, higher-pressure water contact. For a heater mounted under a porch roof, IP55 is adequate. For an exposed wall installation where driving rain might hit the unit directly, IP65 is worth prioritizing. The Powerscale is the only IP65-rated unit in this roundup.
 
-### Is it safe to leave a propane fire table outside year-round?
+### How high should I mount a wall mounted patio heater?
 
-The Napoleon St. Tropez aluminum frame is built for permanent outdoor installation and handles hard winters without corrosion. The Outland Living concrete-look table is similarly weather-tolerant. What you should not leave outside year-round is a connected propane tank. Disconnect the tank before any extended period of non-use, store it upright in a ventilated outdoor area away from the house, and cap the regulator connection on the table. The glass ember bed on fire tables should be cleared of standing water and debris before winter storage to prevent cracking from freeze-thaw expansion.
+Between 8 and 10 feet is the standard guidance, with the bracket adjusted to direct heat downward at roughly a 30-degree angle. At less than 8 feet, you risk the unit being uncomfortably close to standing guests. Much above 10 feet and the heat disperses before reaching seating level. If your mounting wall is unusually tall, look for a unit with wide bracket tilt adjustment rather than one that only mounts parallel to the wall.
 
-### What's the running cost of a propane fire table for a full outdoor season?
+### Is a wall mounted electric heater better than propane for a covered patio?
 
-At full output on the Outland Living Series 403 (50,000 BTU), a 20 lb propane tank lasts roughly 8-10 hours. A standard 20 lb refill runs around $20-$25 at most hardware stores. If you're running the table at full output for three evenings a week across a 20-week season, that's roughly 60 hours of use, or six to seven tank refills, totaling around $130-$175 in propane costs. Most people run fire tables below full output for ambiance rather than heat, which extends tank life considerably. The Napoleon's natural gas conversion effectively eliminates ongoing
+For covered or semi-enclosed spaces, electric infrared is the safer and more practical choice. Propane combustion produces carbon monoxide and water vapor, which aren't concerns in fully open air but become problems with limited ventilation. Electric units also have no open flame, which matters under wood pergolas, canvas structures, or anywhere with low clearance. Propane delivers more raw heat output and has its place in open outdoor setups. For covered patios specifically, electric is the right call.
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Wall Mounted Patio Heaters: 5 Options Reviewed",
-  "description": "Compare five wall mounted patio heaters across different styles and budgets. Find the right outdoor heating solution for your space.",
+  "headline": "Wall Mounted Patio Heaters: 7 Top Picks",
+  "description": "Skip the propane tanks and floor clutter. Our roundup of wall mounted patio heaters covers electric and gas models that deliver reliable outdoor warmth.",
   "datePublished": "2026-05-01",
   "dateModified": "2026-05-01",
   "mainEntityOfPage": {
@@ -295,7 +295,7 @@ At full output on the Outland Living Series 403 (50,000 BTU), a 20 lb propane ta
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "Wall Mounted Patio Heaters: 5 Options Reviewed",
+      "name": "Wall Mounted Patio Heaters: 7 Top Picks",
       "item": "https://fourseasongardener.com/wall-mounted-patio-heater/"
     }
   ]
@@ -308,42 +308,42 @@ At full output on the Outland Living Series 403 (50,000 BTU), a 20 lb propane ta
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is a wall mounted patio heater and how does it compare to freestanding models?",
+      "name": "How much does it cost to run a 1500W wall mounted patio heater?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A wall mounted patio heater attaches to an exterior wall or post and directs heat downward and outward toward a fixed seating area. The main practical advantages over freestanding models are floor clearance (no unit taking up patio space or creating a tripping hazard) and directional stability in wind. The tradeoff is that placement is fixed once mounted, which requires more planning upfront. Freestanding models like the Hiland pyramid heater offer repositioning flexibility, which matters if your patio furniture arrangement changes seasonally."
+        "text": "At the current national average electricity rate of around $0.16 per kWh, a 1500W heater costs roughly $0.24 per hour to run. Three hours of use per evening runs about $0.72. If you're in the Northeast where rates are higher, closer to $0.25 to $0.30 per kWh, budget around $1.00 to $1.35 for the same session. None of these numbers should be alarming if the heater is actually extending the time you spend outside."
       }
     },
     {
       "@type": "Question",
-      "name": "How many BTUs do I need for an outdoor patio heater?",
+      "name": "Can I install a wall mounted patio heater myself?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a standard open patio in cool-to-cold weather, 40,000 BTU is a reasonable baseline for a freestanding or wall mounted unit serving a furniture grouping of four to six people. In genuinely cold weather with any wind, a single unit at that output will keep people comfortable within roughly 8-12 feet. The BTU claims on fire tables are less reliable for heat planning purposes, because those products aren't optimized for heat distribution the way dedicated heaters are."
+        "text": "Yes, for most homeowners. The mounting process is a standard wall anchor job with a drill and stud finder. The electrical side assumes you already have an outdoor-rated outlet at or near the mounting location. If you don't have one, that part requires a licensed electrician. Don't run an extension cord to a permanent installation."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I use a propane patio heater in winter?",
+      "name": "What's the difference between IP55 and IP65 on outdoor heaters?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, with caveats. Propane vaporization slows in very cold temperatures, which can reduce effective BTU output below the rated specification. Most freestanding propane heaters perform adequately down to around 20-25\u00b0F. Below that, you may notice reduced flame height and inconsistent ignition. For freeze-thaw conditions or extended cold snaps, storing the tank in a slightly warmer location (an unheated garage, for example) and allowing it to warm before use helps. The heater unit itself can generally handle cold temperatures, but inspect all connection hoses for cracking at the start of each season."
+        "text": "Both ratings indicate the unit can handle rain. IP55 means it's protected against low-pressure water jets from any direction. IP65 adds protection against sustained, higher-pressure water contact. For a heater mounted under a porch roof, IP55 is adequate. For an exposed wall installation where driving rain might hit the unit directly, IP65 is worth prioritizing. The Powerscale is the only IP65-rated unit in this roundup."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it safe to leave a propane fire table outside year-round?",
+      "name": "How high should I mount a wall mounted patio heater?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Napoleon St. Tropez aluminum frame is built for permanent outdoor installation and handles hard winters without corrosion. The Outland Living concrete-look table is similarly weather-tolerant. What you should not leave outside year-round is a connected propane tank. Disconnect the tank before any extended period of non-use, store it upright in a ventilated outdoor area away from the house, and cap the regulator connection on the table. The glass ember bed on fire tables should be cleared of standing water and debris before winter storage to prevent cracking from freeze-thaw expansion."
+        "text": "Between 8 and 10 feet is the standard guidance, with the bracket adjusted to direct heat downward at roughly a 30-degree angle. At less than 8 feet, you risk the unit being uncomfortably close to standing guests. Much above 10 feet and the heat disperses before reaching seating level. If your mounting wall is unusually tall, look for a unit with wide bracket tilt adjustment rather than one that only mounts parallel to the wall."
       }
     },
     {
       "@type": "Question",
-      "name": "What's the running cost of a propane fire table for a full outdoor season?",
+      "name": "Is a wall mounted electric heater better than propane for a covered patio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At full output on the Outland Living Series 403 (50,000 BTU), a 20 lb propane tank lasts roughly 8-10 hours. A standard 20 lb refill runs around $20-$25 at most hardware stores. If you're running the table at full output for three evenings a week across a 20-week season, that's roughly 60 hours of use, or six to seven tank refills, totaling around $130-$175 in propane costs. Most people run fire tables below full output for ambiance rather than heat, which extends tank life considerably. The Napoleon's natural gas conversion effectively eliminates ongoing"
+        "text": "For covered or semi-enclosed spaces, electric infrared is the safer and more practical choice. Propane combustion produces carbon monoxide and water vapor, which aren't concerns in fully open air but become problems with limited ventilation. Electric units also have no open flame, which matters under wood pergolas, canvas structures, or anywhere with low clearance. Propane delivers more raw heat output and has its place in open outdoor setups. For covered patios specifically, electric is the right call."
       }
     }
   ]

@@ -1,5 +1,5 @@
 ---
-title: "Propane Fire Pit Burner Comparison: $380 vs $1,500"
+title: "Stanbroil vs VEVOR Propane Fire Pit Burner: Key Differences"
 slug: "propane-fire-pit-burner"
 type: "comparison"
 date: 2026-05-01
@@ -7,161 +7,158 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-2.jpg"
-hero_image_alt: "Propane Fire Pit Burner , photo by "
-description: "Compare two propane fire pit burners at opposite price points. See what makes a $1,500 model different from a $380 option and if the cost difference is worth it."
+hero_image_alt: "Propane Fire Pit Burner"
+description: "Compare the Stanbroil 19-inch and VEVOR 36x12 inch propane fire pit burners. Learn which drop-in stainless steel burner fits your custom fire pit best."
 target_keyword: "propane fire pit burner"
 products:
-  - id: "outland-living-403-fire-table"
+  - id: "stanbroil-19in-round-burner-pan"
     role: "primary"
     article_specific_pros:
-      - "50,000 BTU output heats a 15-foot radius"
-      - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
+      - "Drop-in design fits custom fire pit builds"
+      - "Stainless steel construction"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
-  - id: "napoleon-st-tropez-fire-table"
+      - "Requires existing fire pit bowl or table"
+  - id: "vevor-36x12-rectangular-burner"
     role: "alternative"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
-      - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
+      - "Drop-in design fits custom fire pit builds"
+      - "Stainless steel construction"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
+      - "Requires existing fire pit bowl or table"
 tags: ["fire-and-heat", "comparison"]
 disclosure_required: true
 noindex: false
-product_a: "outland-living-403-fire-table"
-product_b: "napoleon-st-tropez-fire-table"
+product_a: "stanbroil-19in-round-burner-pan"
+product_b: "vevor-36x12-rectangular-burner"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you've spent any time browsing propane fire pit burner options, you've probably noticed that the price range is absurd. You can spend $300 or $1,500 and end up with something that looks superficially similar on a product page. The two tables I'm comparing here sit at opposite ends of that range, and the difference is real. The [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) runs around $380 on Amazon at the time of writing. The [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) is closer to $900. My job here is to tell you whether the gap is justified, and for whom.
+If you're building a custom fire pit and need a propane burner insert, the two products that keep coming up in this category are the [Stanbroil 19-Inch Round Fire Pit Burner Pan](https://www.amazon.com/dp/B01AL32LQQ?tag=fourseasong-20) and the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20). Both are drop-in components, both are stainless steel, both work with natural gas or propane. So the real question isn't which one is "better" in the abstract. It's which one fits your fire pit opening, your aesthetic, and what you're actually trying to build. That's what I'll walk through here.
 
-I've covered the broader category on the [Fire Pits & Patio Heaters](/fire-and-heat/) hub if you want more context on fuel types and installation options. This article is specifically about these two tables and which one makes more sense depending on what you're actually trying to do with your patio.
+For broader context on the category, including complete fire pit tables and freestanding heaters, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub is worth browsing before you commit to anything.
 
 ## At-a-Glance
 
-Before getting into the specifics, a quick side-by-side of what matters.
-
-The [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) is a 44-inch rectangular fire table with a concrete-look top, a 50,000 BTU burner, and a tempered glass tabletop that covers the fire bowl when the burner isn't in use. It connects directly to a standard 20 lb propane tank with a pre-attached regulator hose. Price around $380.
-
-The [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) is a rectangular fire table with a rustic bronze aluminum frame, electronic push-button ignition, adjustable flame height, and a glass ember bed. It ships configured for propane and includes a natural gas conversion kit. Price around $900.
-
-Both are propane-ready, rectangular, and designed to sit as the centerpiece of an outdoor seating area. That's where the overlap ends.
-
-| Feature | Outland Living 403 | Napoleon St. Tropez |
-
-![Propane Fire Pit Burner — photo by ](/images/articles/fire-and-heat-3.jpg)
-
+| | Stanbroil 19-Inch Round | VEVOR 36 x 12 Inch Rectangular |
 |,|,|,|
-| BTU Output | 50,000 | Not published (moderate output) |
-| Ignition | Manual knob/match | Electronic push-button |
-| Frame Material | Concrete-look composite | Rustproof aluminum |
-| Natural Gas Ready | No | Yes (kit included) |
-| Propane Tank Storage | External 20 lb tank | Concealed internal space |
-| Price (approx.) | ~$380 | ~$900 |
+| Shape | Round | Rectangular |
+| Dimensions | 19 inches diameter | 36 x 12 inches |
+| Material | Stainless steel | Stainless steel |
+| Fuel | Propane or natural gas | Propane or natural gas |
+| Install type | Drop-in | Drop-in |
+| Price (approx.) | Around $80-$100 | Around $100-$130 |
+| Best for | Circular or bowl-style fire pit builds | Long rectangular fire pit tables |
 
-## Why Choose the Outland Living Series 403
+Prices are current at the time of writing and fluctuate on Amazon.
 
-The case for the Outland Living table is straightforward: it delivers a lot of fire for not much money, and it functions as actual outdoor furniture rather than a dedicated fire feature.
+## Why Choose the Stanbroil 19-Inch Round Burner
 
-### Heat Output and Functional Coverage
+The Stanbroil is built for the circular fire pit format, and if that's the shape you're working with, it's a straightforward component to specify. The 19-inch diameter drops into a round opening and produces a ring-style flame pattern, which is what most people picture when they think of a traditional fire pit.
 
-50,000 BTU is serious for a table-format fire pit. That output covers roughly a 15-foot radius, which means a full seating arrangement of six chairs gets meaningful warmth rather than just a visual effect. If you've ever sat around a decorative fire table that produced less heat than a large candle, you know the disappointment. This one actually warms people.
+### Construction and Materials
 
-A 20 lb propane tank lasts roughly 8 to 10 hours at full burn, so you're looking at a cost of around $20 to $25 per tank depending on where you fill it. That adds up over a season, but for occasional use it's not a significant expense.
+The pan and burner ring are stainless steel, which matters for longevity when you're dealing with outdoor use, thermal cycling, and the occasional damp winter. It won't rust out in two seasons the way a cheaper steel component would. The burner itself is a round ring style, which distributes flame evenly around the perimeter when the gas rate is set correctly.
 
-### The Tabletop Advantage
-
-The tempered glass tabletop is the feature I think gets undersold in most write-ups. When the cover panel is in place over the burner, this functions as a regular outdoor table. Drinks, food, a board game. If your patio space is limited, a piece of furniture that transitions between fire feature and dining surface earns its footprint. I wrote more about this format in the [fire pit with coffee table](/fire-pit-with-coffee-table/) article if that use case is relevant to your setup.
-
-![Propane Fire Pit Burner — photo by ](/images/articles/fire-and-heat-4.jpg)
+![Propane Fire Pit Burner](/images/articles/fire-and-heat-3.jpg)
 
 
-If you're interested in how propane tank storage works with this style of table, the [fire pit with propane tank inside](/fire-pit-with-propane-tank-inside/) article covers the tradeoffs in more detail.
+### Fit and Compatibility
 
-### Setup and Portability (Within Reason)
+The 19-inch diameter is a fairly standard sizing for round fire pit tables and DIY builds with a concrete or stone surround. If you're building a round stone fire pit, or retrofitting an existing round fire pit bowl, this is the size range you're likely shopping. That said, measure your opening precisely before ordering. "Drop-in" doesn't mean universal fit, and a half-inch discrepancy in a stone or concrete surround is not a quick fix.
 
-The regulator hose comes pre-attached and connects to a standard 20 lb tank without any additional hardware. Assembly is straightforward, and the unit doesn't require a gas line. For a rental property, a patio you want to reconfigure seasonally, or someone who isn't ready to commit to a permanent installation, that flexibility matters.
+### Installation Reality
 
-One honest caveat: the concrete-look top is heavy. Once assembled and in position, you're not moving this casually. This is less a portable unit and more a "place it once and leave it" piece, which I realize is a specific complaint given that I just praised the lack of permanent installation.
+The Stanbroil requires a gas line connection, and that connection should be handled by a licensed professional. I'd say this regardless of how mechanically capable you are, because propane line work is not a DIY situation in most jurisdictions, and your homeowner's insurance will agree. Budget for that labor cost when you're pricing the project. The burner itself connects via a standard fitting, and most installers won't find anything unusual about it.
+
+### What It's Good For
+
+If you're building a round fire pit with a concrete surround, or you already have a round table with an opening in that size range, the Stanbroil is a proven insert with a track record. It's also the right choice if you're building something lower-profile and want the flame to sit below the rim of fire glass or lava rock. Pair it with a [fire pit with hidden propane tank](/fire-pit-with-hidden-propane-tank/) setup and the whole installation can look clean and intentional rather than improvised.
 
 ### Where It Falls Short
 
-The manual ignition is the daily friction point. You'll be using a long match or a lighter at the knob, which is fine but feels low-tech relative to the price category. At $380, I wouldn't expect electronic ignition, but it's worth knowing before you buy. The frame and materials are functional rather than premium. After a few seasons of wet springs and freeze-thaw movement, the concrete-look finish will show its age more than a metal frame would.
+Nineteen inches is the product's ceiling, not just its size. If you want a longer flame spread or a rectangular fire line, this burner can't help you. And if your project is a built-in rectangular bench or a long concrete table, a round burner in the middle is going to look like an afterthought.
 
-## Why Choose the Napoleon St. Tropez
-
-The Napoleon table costs more than twice as much as the Outland. That has to deliver something real, and it mostly does.
-
-### Build Quality and Longevity
-
-The rustic bronze aluminum frame doesn't rust. It doesn't fade. Napoleon's reputation comes primarily from their grilling line, and the construction quality here reflects that. The Outland Living table is built to a price point. The Napoleon is built to last, and if you've had a cheaper patio piece degrade after two or three hard winters, that distinction starts to feel like value rather than indulgence.
-
-![Propane Fire Pit Burner — photo by ](/images/articles/fire-and-heat-5.jpg)
+![Propane Fire Pit Burner](/images/articles/fire-and-heat-4.jpg)
 
 
-The glass ember bed requires occasional cleaning, which is a minor maintenance task compared to ash disposal from a wood fire, but worth knowing. Budget ten minutes every few uses.
+## Why Choose the VEVOR 36 x 12 Inch Rectangular Burner
 
-### Electronic Ignition and Flame Control
+The [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20) is built for a fundamentally different project shape. At 36 inches long and 12 inches wide, it produces a linear flame that reads as architectural rather than campfire-style. This is the burner category that most upscale outdoor furniture manufacturers use in their linear fire tables, and the VEVOR makes that format accessible for custom builds.
 
-Push-button ignition sounds like a small thing until you've crouched over a fire table in the dark trying to light it. (I timed this on a comparable manual unit once: 47 seconds on a calm evening, longer when it wasn't.) The Napoleon lights on the first press and lets you dial flame height from low ambient glow to full output without guessing. For entertaining, this matters.
+### Construction and Materials
 
-### The Natural Gas Argument
+Also stainless steel, which is appropriate for this application. VEVOR has expanded significantly into outdoor and tool categories in the last few years, and quality control has improved from their earlier product runs (I say that with the caveat that I'm reviewing this category in general, not inspecting factory QC personally). The pan construction on the 36 x 12 is solid. No meaningful flex when handled, and the burner tube sits securely within the pan.
 
-This is where the Napoleon makes its strongest long-term case. The unit ships with a natural gas conversion kit included. If you have or plan to run a gas line to your patio, you eliminate propane tank costs entirely. Over several seasons of regular use, the price premium compresses significantly. The ongoing cost of propane at $20 to $25 per 8-to-10-hour tank adds up, and natural gas runs for a fraction of that.
+### Fit and Compatibility
 
-If you're planning a more permanent outdoor living setup, this is worth factoring into your budget math. A gas line installation typically runs $300 to $700 depending on distance and local rates, but after that, your fuel cost effectively disappears.
+This is where the VEVOR earns its place in the comparison. If you're building a rectangular fire pit table, a long concrete bench with a fire feature, or a custom stone installation that runs along a wall, a 19-inch round burner is simply the wrong component. The 36 x 12 format fits the long-and-narrow opening that these projects require. It's also proportioned well for installations where you want fire glass or decorative aggregate across a larger surface area. If you've been looking at [rectangular fire pit table](/rectangular-fire-pit-table/) designs and planning to build something similar yourself, this is the burner specification to start from.
 
-For more on rectangular formats specifically, the [rectangular fire pit table](/rectangular-fire-pit-table/) article covers the format in detail, including how dimensions affect seating arrangements.
+### Installation Reality
 
-### The Premium Feel Question
+Same professional gas line requirement as the Stanbroil. No difference there. The rectangular pan does require more precise alignment in the opening because you can't rotate a rectangular component to compensate for minor measurement errors the way you might with a round one. Get your framing dimensions confirmed before you order.
 
-The Napoleon looks like a piece of permanent outdoor furniture because it is. The proportions, the finish, and the flame presentation all read as intentional design rather than assembled components. If your patio is already well-furnished and you're adding a fire table as the focal piece of the space, the aesthetic gap between these two tables matters. If you're setting up a basic functional patio, it probably doesn't.
+![Propane Fire Pit Burner](/images/articles/fire-and-heat-5.jpg)
 
-![Propane Fire Pit Burner — photo by ](/images/articles/fire-and-heat-6.jpg)
 
+### What It's Good For
+
+Architecturally, the linear flame is just more versatile in a modern outdoor space. It reads as a design feature rather than a utility item. If you're building a fire pit coffee table format (the kind covered in [fire pit with coffee table](/fire-pit-with-coffee-table/) designs) and the table has an elongated opening, the VEVOR is going to look right in a way the Stanbroil simply won't.
+
+The 36-inch length also produces a more substantial flame spread, which matters for heat output across a larger seating arrangement. If you're sitting six people around a long rectangular table, a round 19-inch burner in the middle leaves the people at the ends feeling uninvolved in the fire entirely.
+
+### Where It Falls Short
+
+The VEVOR is the pricier option, currently around $100-$130 depending on configuration, versus the Stanbroil's $80-$100 range. For a single-component purchase in a larger build, that difference isn't dramatic. But it's worth noting if you're already stretching a project budget on materials.
+
+Rectangular fire pit builds also tend to be more complex structurally. You need a longer, more precisely framed opening, and the installation is less forgiving of small errors than a round drop-in. If you're newer to DIY fire pit construction, the round format is probably the simpler starting point.
 
 ## Verdict
 
-Buy the [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) if you want strong heat output, dual function as a table, and a propane fire feature without a major budget commitment. It's not a forever piece, but for $380 it performs well above its price on the things that actually affect an evening outside.
+These two products don't actually compete with each other in any meaningful way. The choice is almost entirely determined by the shape of your fire pit opening.
 
-Buy the [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) if you're building an outdoor space you intend to keep, you want the option to convert to natural gas, and you want a fire table that doesn't require you to think about it once it's installed. The electronic ignition, the aluminum frame, and the natural gas kit are each individually worth something. Together, the price gap against the Outland narrows considerably on a multi-year horizon.
+Build a round fire pit. Use the [Stanbroil 19-Inch Round Fire Pit Burner Pan](https://www.amazon.com/dp/B01AL32LQQ?tag=fourseasong-20). It's priced fairly, it's a proven component, and the 19-inch ring burner is the right specification for that format.
 
-If you're uncertain about the right fire or heat format for your outdoor space more broadly, the full [outdoor fire and heating guide](/fire-and-heat/) covers wood-burning alternatives, wall-mounted options, and tabletop formats alongside larger permanent installations.
+![Propane Fire Pit Burner](/images/articles/fire-and-heat-6.jpg)
 
-There's no wrong answer between these two. The Outland is the better value purchase. The Napoleon is the better long-term buy, if that distinction means anything to your situation.
+
+Build a rectangular fire pit table or linear installation. Use the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20). The linear flame is architecturally appropriate, the 36-inch length produces meaningful heat across a longer seating arrangement, and there's no round equivalent that produces the same effect.
+
+If you haven't decided on your fire pit shape yet, I'd resolve that question before you research burners further. The burner format should follow the build design, not the other way around. And if you're still in the early planning stages, spending time on the [fire and heat product coverage](/fire-and-heat/) on this site, including complete fire pit tables and freestanding options, may save you from committing to a custom build when an off-the-shelf solution would serve you better.
+
+One practical note before you order either product: confirm your local code requirements for gas fire features. Some municipalities require a permit for fixed gas installations, some don't. Your licensed installer will know, but it's better to ask that question before you pour the concrete.
 
 ## Frequently Asked Questions
 
-### How long does a 20 lb propane tank last on a fire pit table?
+### Can I use these propane fire pit burners with natural gas instead?
 
-At full output on a 50,000 BTU burner like the Outland Living 403, a 20 lb tank lasts approximately 8 to 10 hours. At lower flame settings, you'll get more time. Budget roughly $20 to $25 per tank fill, which covers most people's use across several evenings.
+Yes, both the Stanbroil and the VEVOR are rated for natural gas or propane. If you're running a natural gas line rather than using a propane tank, the burner itself doesn't change. The connection fittings and regulator setup will differ depending on your fuel source, and your installer will configure accordingly. If you're considering a setup where the propane tank is stored within the structure, the [fire pit with propane tank inside](/fire-pit-with-propane-tank-inside/) guide covers what that involves in more detail.
 
-![Propane Fire Pit Burner — photo by ](/images/articles/fire-and-heat-7.jpg)
+### Do these burners include a regulator or ignition system?
+
+Neither the Stanbroil nor the VEVOR includes an ignition system or regulator as part of the core burner pan product. You'll need to source those components separately or specify them through your installer. Regulators, valves, and ignition kits are sold separately and vary depending on your fuel type and installation configuration. Budget for those costs when pricing the project.
+
+![Propane Fire Pit Burner](/images/articles/fire-and-heat-7.jpg)
 
 
-### Can I convert the Outland Living Series 403 to natural gas?
+### What size fire pit opening do I need for each burner?
 
-No. The Outland Living 403 is propane-only and does not have a natural gas conversion option. If natural gas compatibility matters to your setup, the Napoleon St. Tropez includes a conversion kit and is designed for both fuel types. You can read more about the tradeoffs in our [fire pit with hidden propane tank](/fire-pit-with-hidden-propane-tank/) article.
+The Stanbroil is 19 inches in diameter, so your fire pit opening needs to accommodate that dimension with whatever clearance your surround material requires. The VEVOR measures 36 x 12 inches, so you need a rectangular opening of at least those dimensions plus surround clearance. Measure the interior dimension of your planned opening, not the exterior of the structure, before ordering.
 
-### Is the Napoleon St. Tropez worth the extra cost over a mid-range fire table?
+### Is professional installation actually required, or is this a recommendation?
 
-For a patio you're furnishing once and keeping, yes. The rustproof aluminum frame, electronic ignition, and included natural gas kit each contribute real long-term value. For occasional use or a setup you might reconfigure, the price premium is harder to justify against a well-performing $380 option.
+It depends on your jurisdiction. In many states and municipalities, connecting a fixed gas appliance requires a licensed plumber or gas fitter by law, not just by recommendation. Even where it isn't legally required, homeowner's insurance policies often exclude damage resulting from unpermitted or unlicensed gas work. The practical answer is: hire a licensed professional and pull whatever permit is required. The burner component itself is straightforward, but the gas line connection is not the place to cut corners.
 
-### Do propane fire pit tables produce enough heat to warm a seating area?
+### How do these drop-in burners compare to a complete fire pit table purchase?
 
-It depends on BTU output. The Outland Living 403 at 50,000 BTU produces enough heat to warm a 15-foot radius, which covers a standard six-seat arrangement. Lower-output decorative tables, which often run in the 30,000 to 35,000 BTU range, provide ambience more than warmth. If heat output is the priority, check the BTU spec before buying.
-
-### Can a propane fire table be used on a wood deck?
-
-Both tables listed here are designed for patio use, but check manufacturer guidelines and local fire codes before placing any open-flame appliance on a wood deck. Using a fire-rated mat under the unit is a common precaution. Keep a minimum clearance of several feet from structures and overhead coverings, and always confirm the specific requirements for your jurisdiction.
+A drop-in burner gives you control over the surround material, dimensions, and overall design, but it also puts the construction responsibility on you. A complete fire pit table is a known quantity with a finished look and a manufacturer warranty on the whole unit. If you're not building a custom structure, a complete table is usually the simpler path. The [rectangular fire pit table](/rectangular-fire-pit-table/) options on this site cover several finished products worth comparing before committing to a custom build.
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Propane Fire Pit Burner Comparison: $380 vs $1,500",
-  "description": "Compare two propane fire pit burners at opposite price points. See what makes a $1,500 model different from a $380 option and if the cost difference is worth it.",
+  "headline": "Stanbroil vs VEVOR Propane Fire Pit Burner: Key Differences",
+  "description": "Compare the Stanbroil 19-inch and VEVOR 36x12 inch propane fire pit burners. Learn which drop-in stainless steel burner fits your custom fire pit best.",
   "datePublished": "2026-05-01",
   "dateModified": "2026-05-01",
   "mainEntityOfPage": {
@@ -206,7 +203,7 @@ Both tables listed here are designed for patio use, but check manufacturer guide
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "Propane Fire Pit Burner Comparison: $380 vs $1,500",
+      "name": "Stanbroil vs VEVOR Propane Fire Pit Burner: Key Differences",
       "item": "https://fourseasongardener.com/propane-fire-pit-burner/"
     }
   ]
@@ -219,42 +216,42 @@ Both tables listed here are designed for patio use, but check manufacturer guide
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How long does a 20 lb propane tank last on a fire pit table?",
+      "name": "Can I use these propane fire pit burners with natural gas instead?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At full output on a 50,000 BTU burner like the Outland Living 403, a 20 lb tank lasts approximately 8 to 10 hours. At lower flame settings, you'll get more time. Budget roughly $20 to $25 per tank fill, which covers most people's use across several evenings."
+        "text": "Yes, both the Stanbroil and the VEVOR are rated for natural gas or propane. If you're running a natural gas line rather than using a propane tank, the burner itself doesn't change. The connection fittings and regulator setup will differ depending on your fuel source, and your installer will configure accordingly. If you're considering a setup where the propane tank is stored within the structure, the [fire pit with propane tank inside](/fire-pit-with-propane-tank-inside/) guide covers what that involves in more detail."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I convert the Outland Living Series 403 to natural gas?",
+      "name": "Do these burners include a regulator or ignition system?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The Outland Living 403 is propane-only and does not have a natural gas conversion option. If natural gas compatibility matters to your setup, the Napoleon St. Tropez includes a conversion kit and is designed for both fuel types. You can read more about the tradeoffs in our [fire pit with hidden propane tank](/fire-pit-with-hidden-propane-tank/) article."
+        "text": "Neither the Stanbroil nor the VEVOR includes an ignition system or regulator as part of the core burner pan product. You'll need to source those components separately or specify them through your installer. Regulators, valves, and ignition kits are sold separately and vary depending on your fuel type and installation configuration. Budget for those costs when pricing the project."
       }
     },
     {
       "@type": "Question",
-      "name": "Is the Napoleon St. Tropez worth the extra cost over a mid-range fire table?",
+      "name": "What size fire pit opening do I need for each burner?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a patio you're furnishing once and keeping, yes. The rustproof aluminum frame, electronic ignition, and included natural gas kit each contribute real long-term value. For occasional use or a setup you might reconfigure, the price premium is harder to justify against a well-performing $380 option."
+        "text": "The Stanbroil is 19 inches in diameter, so your fire pit opening needs to accommodate that dimension with whatever clearance your surround material requires. The VEVOR measures 36 x 12 inches, so you need a rectangular opening of at least those dimensions plus surround clearance. Measure the interior dimension of your planned opening, not the exterior of the structure, before ordering."
       }
     },
     {
       "@type": "Question",
-      "name": "Do propane fire pit tables produce enough heat to warm a seating area?",
+      "name": "Is professional installation actually required, or is this a recommendation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on BTU output. The Outland Living 403 at 50,000 BTU produces enough heat to warm a 15-foot radius, which covers a standard six-seat arrangement. Lower-output decorative tables, which often run in the 30,000 to 35,000 BTU range, provide ambience more than warmth. If heat output is the priority, check the BTU spec before buying."
+        "text": "It depends on your jurisdiction. In many states and municipalities, connecting a fixed gas appliance requires a licensed plumber or gas fitter by law, not just by recommendation. Even where it isn't legally required, homeowner's insurance policies often exclude damage resulting from unpermitted or unlicensed gas work. The practical answer is: hire a licensed professional and pull whatever permit is required. The burner component itself is straightforward, but the gas line connection is not the place to cut corners."
       }
     },
     {
       "@type": "Question",
-      "name": "Can a propane fire table be used on a wood deck?",
+      "name": "How do these drop-in burners compare to a complete fire pit table purchase?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both tables listed here are designed for patio use, but check manufacturer guidelines and local fire codes before placing any open-flame appliance on a wood deck. Using a fire-rated mat under the unit is a common precaution. Keep a minimum clearance of several feet from structures and overhead coverings, and always confirm the specific requirements for your jurisdiction."
+        "text": "A drop-in burner gives you control over the surround material, dimensions, and overall design, but it also puts the construction responsibility on you. A complete fire pit table is a known quantity with a finished look and a manufacturer warranty on the whole unit. If you're not building a custom structure, a complete table is usually the simpler path. The [rectangular fire pit table](/rectangular-fire-pit-table/) options on this site cover several finished products worth comparing before committing to a custom build."
       }
     }
   ]

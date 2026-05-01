@@ -26,7 +26,9 @@ const roleLabels: Record<string, string> = {
 
 const imageUrl = product.image.startsWith('http')
   ? product.image
-  : `${cfg.images.base_url}/${product.image}`
+  : product.image.startsWith('/')
+    ? product.image
+    : `${cfg.images.base_url}/${product.image}`
 
 const isAmazon = product.affiliate_url?.includes('amazon.com')
 ---
@@ -53,10 +55,10 @@ const isAmazon = product.affiliate_url?.includes('amazon.com')
       <h3 class="product-card__name">
         {product.affiliate_url ? (
           <a href={product.affiliate_url} rel="nofollow sponsored" target="_blank">
-            {product.brand} {product.name}
+            {product.name}
           </a>
         ) : (
-          <>{product.brand} {product.name}</>
+          <>{product.name}</>
         )}
       </h3>
 
@@ -85,7 +87,7 @@ const isAmazon = product.affiliate_url?.includes('amazon.com')
           class={isAmazon ? 'btn btn--amazon' : 'btn btn--primary'}
           rel="nofollow sponsored"
           target="_blank"
-          data-product={`${product.brand} ${product.name}`}
+          data-product={product.name}
         >
           {isAmazon ? 'Check Price on Amazon' : 'Check Price'}
         </a>

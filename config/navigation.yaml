@@ -51,7 +51,7 @@ categories:
         description: "Drip irrigation kits, smart sprinkler controllers, timer systems"
 
   - label: "Birds & Wildlife"
-    slug: "garden-wildlife"
+    slug: "birds-wildlife"
     hubs:
       - label: "Bird Feeders & Baths"
         slug: "birds-wildlife"

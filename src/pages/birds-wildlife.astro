@@ -5,7 +5,7 @@ import { getSiteConfig, getNav } from '../lib/config'
 
 const cfg = getSiteConfig()
 const nav = getNav()
-const cat = nav.categories.find(c => c.slug === 'garden-wildlife')!
+const cat = nav.categories.find(c => c.slug === 'birds-wildlife')!
 const all = await getCollection('articles')
 const articles = all.filter(a => cat.hubs.some(h => h.slug === a.data.hub))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())

@@ -129,6 +129,24 @@ export function getNav(): NavConfig {
   return _nav
 }
 
+export function getHubLabel(hubSlug: string): string {
+  const nav = getNav()
+  for (const cat of nav.categories) {
+    const hub = cat.hubs?.find(h => h.slug === hubSlug)
+    if (hub) return hub.label
+  }
+  return hubSlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+}
+
+export function getCategoryLabel(categorySlug: string): string {
+  const nav = getNav()
+  const cat = nav.categories.find(c =>
+    c.slug === categorySlug ||
+    c.slug === categorySlug.toLowerCase().replace(/\s+/g, '-')
+  )
+  return cat?.label ?? categorySlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+}
+
 // ── Affiliate URL generation (build-time only) ────────────────────────────────
 
 export function buildAffiliateUrl(

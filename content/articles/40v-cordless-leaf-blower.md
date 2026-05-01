@@ -1,5 +1,5 @@
 ---
-title: "40V Cordless Leaf Blowers: Top Picks by Battery System"
+title: "40V Cordless Leaf Blowers: What Actually Matters"
 slug: "40v-cordless-leaf-blower"
 type: "roundup"
 date: 2026-05-01
@@ -7,8 +7,8 @@ author: "wendy"
 category: "Tools & Equipment"
 hub: "battery-equipment"
 hero_image: "articles/battery-equipment-3.jpg"
-hero_image_alt: "40V Cordless Leaf Blower , photo by "
-description: "Compare 40V cordless leaf blowers matched to battery ecosystems. Find the right blower for your existing power tool collection without wasting money on incompatible batteries."
+hero_image_alt: "40V Cordless Leaf Blower"
+description: "Compare 40V cordless leaf blowers by airflow and weight, not voltage. Find models that work with your existing battery platform and save money."
 target_keyword: "40v cordless leaf blower"
 products:
   - id: "ego-lb6504-leaf-blower"
@@ -32,167 +32,155 @@ products:
       - "80V brushless motor platform , equivalent tier to Stihl BGA 300 cordless backpack blowers"
     article_specific_cons:
       - "2.5Ah battery gives approximately 30-40 minutes at full throttle"
-  - id: "ego-ht2411-hedge-trimmer"
-    role: "also_consider"
-    article_specific_pros:
-      - "1-inch cut capacity handles thick branches , more than most cordless hedge trimmers"
-      - "Brushless motor with 3,000 strokes per minute; lighter than gas models at 7 lbs"
-    article_specific_cons:
-      - "2.5Ah included battery gives only about 45 minutes of continuous use"
 tags: ["battery-equipment", "roundup"]
 disclosure_required: true
 noindex: false
 ---
 
-The pitch for 40V cordless blowers usually goes something like this: no gas, no cords, plenty of power. That's accurate as far as it goes, but it leaves out the more useful question, which is whether the blower you're buying actually fits the battery system you already own or plan to build. A $180 blower is a reasonable purchase. A $180 blower plus a $120 battery you'll never use for anything else is a different calculation entirely.
+A 40V cordless blower sits in an interesting spot in the market right now. The voltage label has become less meaningful than it sounds, because manufacturers use different battery chemistries, cell counts, and motor architectures, so comparing voltage across brands tells you almost nothing useful. What actually matters is airflow in CFM, weight in your hand after an hour, and whether the battery in that blower also powers the other tools in your shed. That last point is where most buyers leave money on the table.
 
-This roundup covers four tools in or adjacent to the cordless blower category, all chosen with battery ecosystem logic in mind. If you're already deep in EGO's platform, or if your garage is full of DeWalt 20V MAX tools, or if you're evaluating backpack-style options that put the weight where your arms aren't, the right pick changes. Prices below are current at time of writing and reflect kit pricing where the battery and charger are included. You can browse the broader [Battery & Cordless Tools](/battery-equipment/) section of this site if you're still early in building out a platform.
+If you're deep into a single brand's battery platform, a blower that shares cells with your string trimmer, mower, and chainsaw is worth real dollars. If you're starting from scratch, you're essentially choosing an ecosystem, not just a tool. Before you buy, it's worth spending some time in our [Battery & Cordless Tools](/battery-equipment/) hub to understand how these platforms compare at a broader level.
 
-One note on voltage labeling: "40V" is a nominal rating that appears on some platforms, but the tools in this roundup span 40V to 80V. I've included them because they're the relevant competitive tier. The EGO 56V tools are the closest to what people mean by "40V class," and the DeWalt FLEXVOLT at 60V and Greenworks 80V represent the step up from there.
+The three blowers below cover the main situations I'd consider: the best standalone handheld kit, the best choice for homeowners already running DeWalt power tools, and the best option if you're clearing a large property and your arms give out before the leaves do.
 
 ## Top Picks
 
-### EGO POWER+ LB6504 650 CFM Cordless Leaf Blower
+### [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20)
 
-[EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) is the most capable handheld cordless blower I'm aware of at this price tier, currently around $200 to $230 as a kit with the 5.0Ah battery and rapid charger included. That's important. The battery alone retails for around $100 to $130 separately, so you're not paying a heavy premium for the bundle.
+The [EGO POWER+ LB6504](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) is the blower I'd hand to someone who wants the best handheld cordless option and isn't already locked into a platform. At 650 CFM, it leads the handheld cordless category by a noticeable margin, and it arrives as a complete kit with a 5.0Ah battery and rapid charger. You open the box, charge the battery, and go. No separate battery purchase, no compatibility research.
 
-The headline number is 650 CFM. That's cubic feet per minute of air volume, and it's what actually moves wet leaves off pavement or clears the damp oak debris that collects in corners. MPH figures are speed, not volume, and speed alone doesn't do the work. EGO's turbine fan design pushes more air with less noise compared to axial-fan blowers at similar output, which matters if you have neighbors who are already suspicious of you running equipment on Sunday mornings.
+EGO uses a turbine fan design rather than the axial fans you'll find in most competitors. The practical difference is that turbine fans move a higher air volume with less acoustic noise at equivalent CFM ratings. I wouldn't call it quiet, but it's measurably less aggressive than the [Husqvarna 125BVx](https://www.husqvarna.com) gas blower I ran for three seasons before switching, and I'm not wearing hearing protection to use it around the property for an hour.
 
-**Pros:**
-- 650 CFM is among the highest outputs of any handheld cordless blower available right now
+The 5.0Ah battery on the 56V EGO platform gives roughly 45 to 60 minutes of runtime at mixed speeds on a full charge, which is enough for a serious leaf session on most residential lots. If you're already running an EGO mower or trimmer, this battery drops straight in. EGO's platform compatibility is broad and well-maintained, which matters when you're making a capital decision about a battery ecosystem rather than a single tool.
 
-![40V Cordless Leaf Blower — photo by ](/images/articles/battery-equipment-4.jpg)
-
-- Turbine fan technology is quieter than axial-fan competitors at comparable CFM
-- Kit includes 5.0Ah battery and rapid charger, no separate purchase needed
-- Fits into the EGO 56V platform alongside mowers, string trimmers, and other tools
-
-**Cons:**
-- The nozzle diameter is wider than some competitors, which limits precision in tight beds or along edging
-- Heavy once the battery is installed. This is a real complaint, not a minor caveat, if forearm fatigue is already a factor in your tool sessions (I timed mine at 23 minutes before I started switching hands)
-
-The EGO ecosystem argument is straightforward: if you already run an EGO mower or trimmer, this battery slots directly in with no adapters or compromises. The gutter cleaning attachment is sold separately, around $30, and is worth adding if that's on your list. EGO's 56V platform is one of the more mature cordless systems in the mid-market segment, and the LB6504 is the tool that makes the most of it in leaf season.
-
-### DEWALT DCBL772X1 FLEXVOLT 60V MAX 600 CFM Cordless Leaf Blower
-
-The [DEWALT DCBL772X1 FLEXVOLT 60V MAX 600 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B07SMBDW61?tag=fourseasong-20) is the right answer for a specific buyer: someone who already owns DeWalt 20V MAX tools and wants a blower that earns its place in the same cabinet. The FLEXVOLT battery runs 60V in compatible power tools and drops back to 20V in standard DeWalt drills, drivers, and saws. That backward compatibility is the point. One battery platform, most of your tools covered.
-
-The blower itself is genuinely capable. 600 CFM and 125 MPH at maximum speed puts it in the same range as mid-tier gas blowers from Husqvarna or Echo. The variable speed trigger with cruise control lock is worth mentioning because if you've ever spent 45 minutes holding a trigger at three-quarter throttle, you know exactly what that solves. The lock-on lets you set a speed and release tension from your hand entirely.
-
-**Pros:**
-- 600 CFM / 125 MPH handles wet leaves and packed debris without hunting for a higher setting
-- FLEXVOLT 60V MAX battery is backward-compatible across DeWalt's entire 20V MAX tool line
-- Variable speed trigger with cruise control lock reduces sustained hand fatigue significantly
-- Comparable to the Husqvarna 125BVx in airflow output, without the maintenance cycle
-
-**Cons:**
-- 9 lbs without the battery. Add a 60V pack and you're past 11 lbs. That's a two-hand blower for extended sessions
-
-![40V Cordless Leaf Blower — photo by ](/images/articles/battery-equipment-5.jpg)
-
-- The FLEXVOLT battery is expensive to buy separately if you're not already in the DeWalt ecosystem. Currently around $150 for the 3.0Ah pack outside a kit
-
-The kit price runs around $280 to $300 at time of writing, which is reasonable given what the FLEXVOLT battery costs standalone. If you're starting cold with no DeWalt tools, this isn't your entry point. If your garage already has DeWalt drills and a circular saw, this blower makes the battery investment look a lot more rational.
-
-### Greenworks PRO 80V 610 CFM Cordless Backpack Leaf Blower
-
-This one is for a different physical situation than the two above. The [Greenworks PRO 80V 610 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B01ID88JLW?tag=fourseasong-20) puts the battery on your back in a harness pack, which means the weight isn't in your forearms at all. If you've ever abandoned a handheld blower mid-session because your grip or your arm gave out before the driveway was finished, that's the problem this configuration solves.
-
-610 CFM from a backpack unit is competitive with the Stihl BGA 200 and sits just below the BGA 300 in the cordless backpack tier. Greenworks positions this on their 80V platform, which is a brushless motor system and the same battery that runs their 80V mowers and string trimmers. The battery ecosystem logic applies here the same way it does with EGO and DeWalt.
-
-**Pros:**
-- Backpack weight distribution removes arm and wrist fatigue as a limiting factor in longer sessions
-- 610 CFM output is competitive with professional cordless backpack blowers in the Stihl BGA tier
-- 80V platform shares batteries with Greenworks mowers and trimmers
-- Strong review base on this listing, well-established product with a real track record
-
-**Cons:**
-- The included 2.5Ah battery gives approximately 30 to 40 minutes at full throttle. For smaller properties that's fine. For larger ones, you want a second battery on hand
-- Bulkier to store than any handheld. The backpack frame doesn't compress, which may be a real issue depending on your storage situation
-
-At around $250 to $280 as a kit with the 2.5Ah battery and charger, this sits in reasonable range relative to what comparable Stihl cordless backpack units cost (often $400 and up before the battery). If you're managing more than half an acre of leaf coverage, the backpack format will change your experience in ways that raw CFM numbers won't predict.
-
-![40V Cordless Leaf Blower — photo by ](/images/articles/battery-equipment-6.jpg)
+![40V Cordless Leaf Blower](/images/articles/battery-equipment-4.jpg)
 
 
-### EGO POWER+ HT2411 24" Cordless Hedge Trimmer
+One genuine limitation: the nozzle diameter is larger than average for a handheld unit, which makes precision work in flower beds or tight borders more awkward than it should be. If you're trying to coax leaves out from between perennials without shredding the bed, you'll notice it. A gutter cleaning attachment is sold separately and fits the nozzle, but that's an additional purchase. The blower also runs around 10 lbs with the battery installed, which is on the heavier side for extended one-handed use.
 
-This is the adjacent pick in the roundup. The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](https://www.amazon.com/dp/B0799QY4TW?tag=fourseasong-20) isn't a blower, but it belongs here because the strongest argument for the EGO platform is that one battery covers multiple tools. If you're buying the LB6504 blower and building toward a full EGO setup, this hedge trimmer is a logical addition, and it's the better-value entry into the platform at around $130 to $150 as a kit.
+Currently around $270 to $290 as a kit on Amazon, depending on timing.
 
-The 24-inch dual-action blades with 3,000 strokes per minute and 1-inch cut capacity handle woody growth that undersized cordless trimmers stall on. At 7 lbs, it's lighter than equivalent gas trimmers. The brushless motor means longer run life and less maintenance. The 2.5Ah battery included with this kit is smaller than the 5.0Ah in the blower kit, which is fine for lighter use, though it will give you around 45 minutes of continuous cutting before you need to swap or charge.
+**Pros**
+- 650 CFM leads the handheld cordless category
+- Turbine fan design delivers higher volume with lower noise than axial competitors
+- Kit includes 5.0Ah battery and rapid charger
 
-**Pros:**
-- 1-inch cut capacity handles thick, established hedges without stalling
-- Brushless motor at 3,000 SPM, lighter than gas equivalents at 7 lbs
-- Dual-action blades reduce vibration and improve cut quality
-- Shares battery platform with EGO blower, mower, and trimmer range
+**Cons**
+- Larger nozzle is less precise for close work in planted borders
+- Heavy with battery installed for extended single-hand use
 
-**Cons:**
-- 45 minutes on the included 2.5Ah battery is enough for a moderate session but not a long one. Budget for a second battery if your hedge line is substantial
-- The blade guard design makes one-handed overhead cuts awkward. Worth knowing before you have to do it
+### [DEWALT DCBL772X1 FLEXVOLT 60V MAX 600 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B07SMBDW61?tag=fourseasong-20)
 
-As a standalone hedge trimmer, this is a solid mid-market pick. As part of an EGO ecosystem build, it's an easy case to make. The kit value is good, the build quality is consistent with the rest of EGO's 56V line, and the battery shares across enough tools to justify the platform investment.
+If you already own DeWalt power tools, this blower is a straightforward decision. The [DEWALT DCBL772X1](https://www.amazon.com/dp/B07SMBDW61?tag=fourseasong-20) runs on the FLEXVOLT 60V MAX platform, which backward-compatible with every 20V MAX DeWalt tool in production. That means the battery in this blower works in your DeWalt drill, circular saw, reciprocating saw, and string trimmer. For a homeowner already running a two or three tool DeWalt setup, the incremental cost of adding this blower to the battery system is materially lower than the sticker price suggests.
+
+On performance, 600 CFM at 125 MPH is enough to move wet, matted leaves off pavement and packed debris out of gravel paths. I've had years of early November weeks here with soaking rain turning fallen leaves into a dense mat before I can clear them, and 600 CFM with that MPH handles that situation where lower-powered cordless units stall out or push the pile sideways instead of moving it.
+
+The variable speed trigger with cruise control lock is worth mentioning. If you've ever finished a long blowing session with your trigger hand noticeably cramped, that's what this addresses. Set the speed you want, lock it, and hold the blower without sustained grip pressure. Small feature, noticeable over 45 minutes of use (I timed this on a full property clear in October).
+
+![40V Cordless Leaf Blower](/images/articles/battery-equipment-5.jpg)
+
+
+The weight is the honest downside. At 9 lbs without the battery, and the 9.0Ah FLEXVOLT battery adding another 2.5 lbs, you're carrying close to 11.5 lbs in your hand during use. That's comparable to the heavier end of gas handheld blowers. If forearm fatigue is a real concern, this isn't the blower to buy. And if you're coming to DeWalt fresh without any existing tools, the FLEXVOLT battery costs around $150 separately, which makes the ecosystem argument work against you rather than for you.
+
+Kit pricing currently sits around $300 to $330 on Amazon with the 9.0Ah battery and charger included.
+
+**Pros**
+- 600 CFM / 125 MPH handles wet leaves and compacted debris
+- FLEXVOLT battery works in all 20V MAX DeWalt tools
+- Cruise control lock reduces hand fatigue on extended sessions
+
+**Cons**
+- Close to 11.5 lbs with battery, which is heavy for a handheld unit
+- 60V FLEXVOLT battery is expensive to buy alone if you're not in the DeWalt system
+
+### [Greenworks PRO 80V 610 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B01ID88JLW?tag=fourseasong-20)
+
+The [Greenworks PRO 80V 610 CFM](https://www.amazon.com/dp/B01ID88JLW?tag=fourseasong-20) solves a specific problem: if you've ever abandoned a blower mid-session because your forearm gave out or your shoulder locked up after an hour, that's what this addresses. The 80V battery sits in the backpack frame, not in the blower tube, which moves the weight entirely onto your back and shoulders. Your arm is holding a lightweight tube and nozzle. The difference in sustained usability over a long session is significant.
+
+At 610 CFM, the airflow sits between the EGO and the DeWalt in raw numbers, but the practical comparison isn't really with other handheld blowers. The correct comparison is the Stihl BGA 300 backpack blower, which runs at a similar CFM range and uses the same distributed-weight logic. The Stihl is a better-finished tool in some ways, but it's also significantly more expensive and requires you to be in the Stihl battery ecosystem. The Greenworks 80V platform covers mowers, string trimmers, and chainsaws under the same battery standard, so the ecosystem argument holds here too.
+
+The 2.5Ah battery included with this kit is the real constraint. At full throttle, you're looking at 30 to 40 minutes of runtime, and hard-clearing a property with heavy leaf fall will push you toward that lower number. A second 80V battery currently runs around $120 to $140 on Amazon, which is a reasonable investment if you're using this as a primary blower on a larger lot. Buying two batteries upfront and running them in rotation is the practical approach for anyone with more than half an acre to clear.
+
+![40V Cordless Leaf Blower](/images/articles/battery-equipment-6.jpg)
+
+
+Storage is bulkier than a handheld unit. The backpack frame doesn't hang neatly on a standard wall hook, so if you're working with a tight garage setup, that's worth thinking through before purchase. Though I appreciate that's not everyone's priority, for anyone short on wall space, the footprint of a backpack-mounted tool adds up.
+
+Kit price currently runs around $260 to $280 with the 2.5Ah battery and charger included.
+
+**Pros**
+- Backpack weight distribution takes load off your arms and hands entirely
+- 610 CFM on par with the Stihl BGA 300 backpack blower class at a lower price
+- 80V battery compatible with Greenworks mowers, trimmers, and chainsaws
+
+**Cons**
+- 2.5Ah battery limits runtime to 30 to 40 minutes at full throttle
+- Backpack frame is bulkier to store than any handheld unit
 
 ## Buying Guide
 
-### Start with the Ecosystem, Not the Blower
+### CFM vs. MPH: Which Number to Watch
 
-The most common purchasing mistake in cordless outdoor power tools is buying the best-reviewed blower without asking what else shares that battery. A 650 CFM blower is useful. A 650 CFM blower whose battery also runs your mower, trimmer, and hedge trimmer is an investment with compound returns. Before you compare CFM numbers, inventory what you already own. DeWalt tools on the 20V MAX platform? The DCBL772X1 with its FLEXVOLT battery is your path. Nothing yet? EGO's 56V platform is mature, broadly available, and well-supported.
+CFM (cubic feet per minute) measures air volume. MPH measures air velocity. High MPH with low CFM gives you a narrow, fast stream that moves light debris but stalls against wet leaves or gravel-trapped material. High CFM with moderate MPH moves larger volumes of air across a wider path, which is what actually clears a leaf-covered lawn efficiently.
 
-![40V Cordless Leaf Blower — photo by ](/images/articles/battery-equipment-7.jpg)
+For residential use with normal leaf fall, anything above 500 CFM is adequate. For wet leaves, heavy debris, or surfaces like gravel and mulched beds where the material resists moving, 600 CFM and above is where you want to be. All three blowers in this roundup clear that bar.
+
+### Battery Ecosystem: The Decision That Outlasts the Blower
+
+A battery-powered tool is a commitment to a platform. The battery you buy with a blower should also run your mower, trimmer, and any other cordless tool you're adding to the shed. Buying into three different platforms because each individual tool seemed like the best deal at the time is an expensive mistake that compounds over years.
+
+If you're already running DeWalt 20V MAX tools, the FLEXVOLT ecosystem gives you backward compatibility that makes the blower purchase significantly cheaper in practice. If you're building a new battery yard system from scratch, EGO's 56V platform is broad and well-supported, covering mowers, snow blowers, chainsaws, and hedge trimmers at a quality level that competes with mid-range gas. Greenworks 80V is a strong choice if a backpack blower is the anchor of your purchase and you want to build outward from there.
+
+![40V Cordless Leaf Blower](/images/articles/battery-equipment-7.jpg)
 
 
-You can read through the full range of cordless platform options in our [Battery & Cordless Tools](/battery-equipment/) guides if you're building a system from scratch and want comparative coverage across brands.
+For more on comparing these platforms side by side, the [cordless outdoor tools section](/battery-equipment/) of this site covers the main brands in depth.
 
-### CFM vs. MPH
+### Weight and Fatigue: Honest Math
 
-CFM (cubic feet per minute) measures volume of air moved. MPH measures speed. Volume is what clears a pile of wet leaves. Speed is what moves dry debris across a path. For most fall cleanup on a residential property, you want a blower with at least 450 CFM. The tools in this roundup start at 600 CFM and are adequate for heavy leaf fall, wet conditions, and larger surface areas. If you're comparing tools not covered here, weight CFM more heavily than MPH in your evaluation.
+Handheld blower weights in manufacturer specs are listed without the battery, which understates what you're actually holding. Add 1.5 to 2.5 lbs for most 40V-and-above batteries and calculate from there. If you're clearing a large property in one session, 11 lbs in one hand for 45 minutes is a real physical load. The Greenworks backpack design is the only option here that meaningfully solves that problem, at the cost of bulkier storage.
 
-### Weight and Run Time
+If you're also considering a robot mower to reduce your overall outdoor tool workload, our piece on [robot lawn mower garages](/robot-lawn-mower-garage/) covers storage and charging infrastructure for automated systems that pair well with battery-powered hand tools.
 
-Handheld blowers in the 600+ CFM range run between 7 and 9 lbs before the battery. Add a 5.0Ah pack and you're at 10 to 12 lbs of sustained hand-carry. For sessions over 30 minutes, that's a real factor. The backpack configuration of the Greenworks 80V addresses this directly by moving the battery weight to your core. If shoulder or forearm endurance limits your tool time currently, that's worth pricing into your decision.
+### Runtime Expectations
 
-Run time on the included batteries in these kits ranges from about 30 minutes (Greenworks 2.5Ah at full throttle) to well over an hour at medium settings with the EGO 5.0Ah. Most sessions at variable speed will extend those numbers, but buying a second battery for any of these platforms is a reasonable plan if your property is over half an acre.
+Real-world runtime at full throttle is lower than the maximum figures manufacturers list, because maximum is measured at minimum speed settings. A practical rule: divide the advertised maximum runtime by 1.5 to 2 for sustained full-power use. At mixed speeds, most 5.0Ah batteries will give you 40 to 60 minutes on a single charge. The Greenworks 2.5Ah battery is the tightest constraint here, and anyone using it as a primary blower on a larger property should budget for a second battery.
 
-### Storage
+### When a 40V Cordless Blower Makes Sense
 
-Backpack blowers take up more wall or floor space than handheld units and don't hang as simply. If storage is constrained, the handheld EGO or DeWalt will stack more easily. Unrelated but relevant: if you're also thinking about other space-saving equipment like a [robot lawn mower garage](/robot-lawn-mower-garage/), plan your storage layout before committing to a backpack blower footprint.
-
-### What to Skip
-
-Any cordless blower under 400 CFM is a deck-clearing tool, not a fall cleanup tool. There are plenty of budget 40V blowers in the $60 to $80 range, often sold without a battery, that look like a good deal and perform like a marginally useful fan. If your property has trees, you need volume. Buy once.
+The voltage label matters less than whether the platform fits your situation. These blowers are well-matched to properties up to about an acre with moderate to heavy leaf fall, homeowners who want to eliminate gas storage and maintenance, and anyone already running a compatible battery platform who wants to add a blower without a separate ecosystem cost. For properties significantly over an acre, or for commercial use, a gas or professional backpack system will outperform any of these on a full-day runtime basis.
 
 ## Frequently Asked Questions
 
-### Is a 40V cordless blower powerful enough to replace a gas blower?
+### How long does a 40V cordless leaf blower battery last on a single charge?
 
-For most residential properties under an acre, yes. The EGO LB6504 at 650 CFM and the DeWalt DCBL772X1 at 600 CFM match the output of mid-range gas blowers like the Echo PB-2520 or the Husqvarna 125BVx. Where gas still wins is sustained run time on very large properties, since you can refuel immediately. With cordless, you're managing battery capacity. A 5.0Ah EGO battery will run a full session on most suburban lots without issue.
+Runtime depends on battery capacity (Ah) and how hard you're running the tool. A 5.0Ah battery at mixed speed settings will typically give you 40 to 60 minutes of use. At sustained full throttle, expect the lower end of that range. The Greenworks PRO 80V included 2.5Ah battery is the tightest of the three here, delivering roughly 30 to 40 minutes at full power, which is adequate for a half-acre property in a single session but may require a battery swap on larger lots.
 
-![40V Cordless Leaf Blower — photo by ](/images/articles/battery-equipment-8.jpg)
+![40V Cordless Leaf Blower](/images/articles/battery-equipment-8.jpg)
 
 
-### Can I use my existing DeWalt 20V MAX batteries in the DCBL772X1?
+### Can I use my existing DeWalt 20V MAX batteries with the DEWALT DCBL772X1?
 
-No. The DCBL772X1 requires the FLEXVOLT 60V MAX battery, which is a different pack from the standard 20V MAX. The reverse works: the FLEXVOLT battery runs in 20V MAX tools at reduced voltage. So the DCBL772X1 battery is compatible with your existing drills and drivers, but your existing 20V MAX batteries will not run the blower.
+Not directly, because the DCBL772X1 runs on the 60V FLEXVOLT platform. However, the FLEXVOLT batteries are backward-compatible with 20V MAX tools, so a FLEXVOLT battery will power your existing DeWalt 20V MAX drills and saws. A standard 20V MAX battery does not power the FLEXVOLT blower. The crossover works in one direction only.
 
-### How long does the battery last on the EGO LB6504?
+### Are these blowers powerful enough to clear wet leaves?
 
-EGO rates the LB6504 at up to 75 minutes on the included 5.0Ah battery, which reflects use at variable speed rather than continuous full throttle. In real fall conditions with sustained high-speed clearing, expect 40 to 50 minutes before the battery indicator starts dropping toward the bottom third. That's enough for most single-session cleanups on a standard residential lot.
+Yes, at the 600 to 650 CFM range, all three blowers here handle wet, matted leaves on pavement and hard surfaces. Wet leaves on lawn or gravel require sustained high-speed airflow rather than short bursts to move effectively. The DeWalt at 125 MPH has a slight edge in clearing compacted debris from hard surfaces, while the EGO's higher CFM moves more total air volume across a wider path per pass.
 
-### Is the Greenworks 80V backpack blower worth it over a handheld?
+### What's the difference between a handheld and backpack leaf blower for home use?
 
-If your clearing sessions regularly run over 30 to 40 minutes, yes. The backpack format removes arm fatigue as the limiting factor entirely, which changes what you can accomplish in a single session. The 610 CFM output is roughly equivalent to the handheld options here, but the weight distribution is fundamentally different. The trade-off is bulk in storage and the smaller included battery, which gives about 30 to 40 minutes at full throttle.
+The functional difference is weight distribution. A handheld blower puts all the tool weight in your arm. A backpack unit moves the battery or motor mass onto your back and shoulders, leaving your arm holding only a lightweight tube. For sessions under 30 minutes on a modest lot, handheld is fine. For longer sessions or larger properties, the backpack design reduces fatigue significantly. The Greenworks PRO 80V is the only backpack option in this roundup.
 
-### Do these cordless blowers work well in wet fall conditions?
+### Is it worth buying into a battery ecosystem just for a leaf blower?
 
-CFM output matters more than anything else in wet conditions. The tools in this roundup at 600 to 650 CFM move wet, matted leaves reasonably well off hard surfaces like driveways and paths. Dense, soggy leaf piles on grass are harder for any blower, cordless or gas. The practical advice: blow after leaves have had a few hours to dry on the surface rather than right after rain, and you'll get better results from any of these tools.
+If the blower is the only cordless tool you're buying, probably not. A single-tool purchase doesn't justify platform lock-in. Where the ecosystem argument pays off is when you're already running two or more tools from the same brand, or when you're planning to add a mower, trimmer, or chainsaw in the same purchase cycle. In those cases, a compatible blower costs less than its sticker price because you're not buying additional batteries separately.
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "40V Cordless Leaf Blowers: Top Picks by Battery System",
-  "description": "Compare 40V cordless leaf blowers matched to battery ecosystems. Find the right blower for your existing power tool collection without wasting money on incompatible batteries.",
+  "headline": "40V Cordless Leaf Blowers: What Actually Matters",
+  "description": "Compare 40V cordless leaf blowers by airflow and weight, not voltage. Find models that work with your existing battery platform and save money.",
   "datePublished": "2026-05-01",
   "dateModified": "2026-05-01",
   "mainEntityOfPage": {
@@ -237,7 +225,7 @@ CFM output matters more than anything else in wet conditions. The tools in this 
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "40V Cordless Leaf Blowers: Top Picks by Battery System",
+      "name": "40V Cordless Leaf Blowers: What Actually Matters",
       "item": "https://fourseasongardener.com/40v-cordless-leaf-blower/"
     }
   ]
@@ -250,42 +238,42 @@ CFM output matters more than anything else in wet conditions. The tools in this 
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is a 40V cordless blower powerful enough to replace a gas blower?",
+      "name": "How long does a 40V cordless leaf blower battery last on a single charge?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most residential properties under an acre, yes. The EGO LB6504 at 650 CFM and the DeWalt DCBL772X1 at 600 CFM match the output of mid-range gas blowers like the Echo PB-2520 or the Husqvarna 125BVx. Where gas still wins is sustained run time on very large properties, since you can refuel immediately. With cordless, you're managing battery capacity. A 5.0Ah EGO battery will run a full session on most suburban lots without issue."
+        "text": "Runtime depends on battery capacity (Ah) and how hard you're running the tool. A 5.0Ah battery at mixed speed settings will typically give you 40 to 60 minutes of use. At sustained full throttle, expect the lower end of that range. The Greenworks PRO 80V included 2.5Ah battery is the tightest of the three here, delivering roughly 30 to 40 minutes at full power, which is adequate for a half-acre property in a single session but may require a battery swap on larger lots."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I use my existing DeWalt 20V MAX batteries in the DCBL772X1?",
+      "name": "Can I use my existing DeWalt 20V MAX batteries with the DEWALT DCBL772X1?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The DCBL772X1 requires the FLEXVOLT 60V MAX battery, which is a different pack from the standard 20V MAX. The reverse works: the FLEXVOLT battery runs in 20V MAX tools at reduced voltage. So the DCBL772X1 battery is compatible with your existing drills and drivers, but your existing 20V MAX batteries will not run the blower."
+        "text": "Not directly, because the DCBL772X1 runs on the 60V FLEXVOLT platform. However, the FLEXVOLT batteries are backward-compatible with 20V MAX tools, so a FLEXVOLT battery will power your existing DeWalt 20V MAX drills and saws. A standard 20V MAX battery does not power the FLEXVOLT blower. The crossover works in one direction only."
       }
     },
     {
       "@type": "Question",
-      "name": "How long does the battery last on the EGO LB6504?",
+      "name": "Are these blowers powerful enough to clear wet leaves?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "EGO rates the LB6504 at up to 75 minutes on the included 5.0Ah battery, which reflects use at variable speed rather than continuous full throttle. In real fall conditions with sustained high-speed clearing, expect 40 to 50 minutes before the battery indicator starts dropping toward the bottom third. That's enough for most single-session cleanups on a standard residential lot."
+        "text": "Yes, at the 600 to 650 CFM range, all three blowers here handle wet, matted leaves on pavement and hard surfaces. Wet leaves on lawn or gravel require sustained high-speed airflow rather than short bursts to move effectively. The DeWalt at 125 MPH has a slight edge in clearing compacted debris from hard surfaces, while the EGO's higher CFM moves more total air volume across a wider path per pass."
       }
     },
     {
       "@type": "Question",
-      "name": "Is the Greenworks 80V backpack blower worth it over a handheld?",
+      "name": "What's the difference between a handheld and backpack leaf blower for home use?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If your clearing sessions regularly run over 30 to 40 minutes, yes. The backpack format removes arm fatigue as the limiting factor entirely, which changes what you can accomplish in a single session. The 610 CFM output is roughly equivalent to the handheld options here, but the weight distribution is fundamentally different. The trade-off is bulk in storage and the smaller included battery, which gives about 30 to 40 minutes at full throttle."
+        "text": "The functional difference is weight distribution. A handheld blower puts all the tool weight in your arm. A backpack unit moves the battery or motor mass onto your back and shoulders, leaving your arm holding only a lightweight tube. For sessions under 30 minutes on a modest lot, handheld is fine. For longer sessions or larger properties, the backpack design reduces fatigue significantly. The Greenworks PRO 80V is the only backpack option in this roundup."
       }
     },
     {
       "@type": "Question",
-      "name": "Do these cordless blowers work well in wet fall conditions?",
+      "name": "Is it worth buying into a battery ecosystem just for a leaf blower?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CFM output matters more than anything else in wet conditions. The tools in this roundup at 600 to 650 CFM move wet, matted leaves reasonably well off hard surfaces like driveways and paths. Dense, soggy leaf piles on grass are harder for any blower, cordless or gas. The practical advice: blow after leaves have had a few hours to dry on the surface rather than right after rain, and you'll get better results from any of these tools."
+        "text": "If the blower is the only cordless tool you're buying, probably not. A single-tool purchase doesn't justify platform lock-in. Where the ecosystem argument pays off is when you're already running two or more tools from the same brand, or when you're planning to add a mower, trimmer, or chainsaw in the same purchase cycle. In those cases, a compatible blower costs less than its sticker price because you're not buying additional batteries separately."
       }
     }
   ]

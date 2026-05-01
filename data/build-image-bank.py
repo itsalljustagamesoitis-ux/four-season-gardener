@@ -138,7 +138,7 @@ def assign_images(pipeline: list, bank: dict) -> int:
         cluster_counters[cluster] = idx + 1
 
         article["hero_image"] = images[idx]["path"]
-        article["hero_image_alt"] = f"{article.get('keyword','').title()} — photo by {images[idx]['photographer']}"
+        article["hero_image_alt"] = article.get('keyword', '').title()
 
         # Assign body images: next N images after hero (wrap around pool)
         n = min(BODY_IMAGE_COUNT, len(images) - 1) if len(images) > 1 else 0
@@ -147,7 +147,7 @@ def assign_images(pipeline: list, bank: dict) -> int:
             img = images[(idx + offset) % len(images)]
             body.append({
                 "path": img["path"],
-                "alt": f"{article.get('keyword','').title()} — photo by {img['photographer']}",
+                "alt": article.get('keyword', '').title(),
             })
         article["body_images"] = body
         updated += 1

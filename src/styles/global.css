@@ -337,14 +337,16 @@ main { padding-top: 64px; }
 /* ── Hub grid (category → hub landing) ──────────────────────────────────── */
 .hub-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem; margin: 1.5rem 0; }
 .hub-card {
-  display: flex; justify-content: space-between; align-items: center;
+  display: flex; flex-direction: column; gap: 0.35rem;
   padding: 1rem 1.25rem;
   background: var(--color-surface); border: 1px solid var(--color-border);
   border-radius: var(--radius); text-decoration: none; color: var(--color-text);
-  font-weight: 600; font-size: 0.9rem;
   transition: border-color 0.15s, box-shadow 0.15s;
 }
-.hub-card:hover { border-color: var(--color-primary); box-shadow: var(--shadow-sm); color: var(--color-primary); }
+.hub-card:hover { border-color: var(--color-primary); box-shadow: var(--shadow-sm); }
+.hub-card:hover .hub-card__label { color: var(--color-primary); }
+.hub-card__label { font-weight: 600; font-size: 0.9rem; }
+.hub-card__desc { font-size: 0.8rem; color: var(--color-text-muted); font-weight: 400; line-height: 1.4; }
 .hub-card__arrow { color: var(--color-accent); font-size: 1rem; }
 
 /* ── Category hero ───────────────────────────────────────────────────────── */
