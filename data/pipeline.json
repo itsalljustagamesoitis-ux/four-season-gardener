@@ -17,9 +17,9 @@
     "kd": 9,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "ego-st1521s-string-trimmer"
+      "ego-me0801-edger-combo-b07b"
     ],
-    "assignment_notes": "This is a Review article focused on a Stihl battery edger. Since Stihl equipment is dealer-only in the US and not available through Amazon, the assignment follows the established pattern for Stihl battery tool reviews: recommend the closest Amazon-available EGO alternative. The EGO ST1521S String Trimmer is the most comparable product in the catalog\u2014it's battery-powered (56V), part of EGO's battery ecosystem, and directly substitutes for Stihl's cordless trimmer/edger line. The POWERLOAD automatic line feed is a genuine feature differentiator worth highlighting. This single product assignment aligns with Review article rules (exactly 1 product, the primary subject substitute).",
+    "assignment_notes": "Stihl not on Amazon \u2014 assigned EGO ME0801 8\" cordless edger combo as the closest Amazon-available alternative.",
     "status": "pending",
     "hero_image": "articles/battery-equipment-1.jpg",
     "hero_image_alt": "Stihl Battery Edger",
@@ -299,9 +299,9 @@
     "kd": 10,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "ego-st1521s-string-trimmer"
+      "ego-me0801-edger-combo-b07b"
     ],
-    "assignment_notes": "Review type requires exactly 1 product assignment. Article focuses on 'stihl battery powered edger' but the catalog contains no Stihl products (Stihl is dealer-only in the US per catalog notes). The EGO ST1521S String Trimmer is the closest functional equivalent and the catalog's explicit Amazon-available alternative to Stihl FSA trimmers. It shares the battery ecosystem context mentioned in the article angle (56V EGO platform cross-compatibility). The POWERLOAD automatic line feed differentiator aligns with a detailed review structure. This assignment acknowledges the Stihl keyword intent while directing readers to the accessible alternative that fits The Four Season Gardener's affiliate model.",
+    "assignment_notes": "Stihl not on Amazon \u2014 assigned EGO ME0801 8\" cordless edger combo as the closest Amazon-available alternative.",
     "status": "pending",
     "hero_image": "articles/battery-equipment-7.jpg",
     "hero_image_alt": "Stihl Battery Powered Edger",
@@ -325,58 +325,6 @@
       {
         "path": "articles/battery-equipment-4.jpg",
         "alt": "Stihl Battery Powered Edger"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "keyword": "battery charger for a lawn mower",
-    "slug": "battery-charger-for-a-lawn-mower",
-    "type": "Roundup",
-    "layout": "RoundupLayout",
-    "cluster": "battery-equipment",
-    "hub_slug": "battery-equipment",
-    "hub_label": "Battery & Cordless Tools",
-    "hub_url": "/battery-equipment/",
-    "category_slug": "tools-equipment",
-    "category_label": "Tools & Equipment",
-    "category_url": "/tools-equipment/",
-    "angle": "battery ecosystem context",
-    "volume": 1000,
-    "kd": 5,
-    "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
-    "products": [
-      "ego-ht2411-hedge-trimmer",
-      "ego-st1521s-string-trimmer",
-      "ego-lb6504-leaf-blower",
-      "ryobi-40v-hp-21in-self-propelled-mower",
-      "ego-lm2135sp-self-propelled-mower",
-      "greenworks-pro-80v-25in-mower-blower-kit"
-    ],
-    "assignment_notes": "This roundup is about battery chargers for lawn mowers, but the cluster contains no dedicated charger products\u2014all are tools that come with batteries/chargers. Interpreted as 'battery ecosystem roundup' featuring lawn mower-compatible tools across price bands. Selected 6 products to show the full EGO 56V ecosystem (3 products: mower, string trimmer, leaf blower), plus budget alternative (Ryobi 40V entry-point mower), and premium multi-brand option (Greenworks 80V mower+blower). This creates a natural narrative around charger compatibility within each brand's ecosystem. Ryobi bridges budget-to-mid gap; Greenworks represents the 80V tier as alternative to EGO. All products contextually relevant to lawn mower battery charging infrastructure. Note: Catalog lacks standalone charger products; this assignment treats the roundup as 'battery-ecosystem tools for lawn mower owners.'",
-    "status": "pending",
-    "hero_image": "articles/battery-equipment-8.jpg",
-    "hero_image_alt": "Battery Charger For A Lawn Mower",
-    "body_images": [
-      {
-        "path": "articles/battery-equipment-1.jpg",
-        "alt": "Battery Charger For A Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-2.jpg",
-        "alt": "Battery Charger For A Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-3.jpg",
-        "alt": "Battery Charger For A Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-4.jpg",
-        "alt": "Battery Charger For A Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-5.jpg",
-        "alt": "Battery Charger For A Lawn Mower"
       }
     ]
   },
@@ -680,9 +628,9 @@
     "kd": 16,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "dewalt-dcbl772x1-leaf-blower"
+      "dewalt-dcmw220p2-cordless-mower"
     ],
-    "assignment_notes": "This is a Review article with keyword 'dewalt cordless lawn mower' \u2014 however, no DeWalt lawn mower exists in the catalog. The only DeWalt product available is the DCBL772X1 leaf blower (mid-price, 60V FLEXVOLT). Given the article angle emphasizes 'battery ecosystem context' and the H2 structure includes FAQ, the DeWalt leaf blower is the closest ecosystem match for readers already invested in DeWalt tools/batteries. This creates a natural cross-sell opportunity for DeWalt cordless enthusiasts. However, flag that this is a secondary product recommendation rather than the primary review subject, since no DeWalt mower is in catalog \u2014 consider sourcing the actual DeWalt mower (e.g., DCMWC566P1) to fulfill the review requirement properly.",
+    "assignment_notes": "DeWalt cordless mower article \u2014 assigned DCMW220P2, their main 20V cordless mower on Amazon.",
     "status": "pending",
     "hero_image": "articles/battery-equipment-7.jpg",
     "hero_image_alt": "Dewalt Cordless Lawn Mower",
@@ -800,200 +748,6 @@
       {
         "path": "articles/battery-equipment-6.jpg",
         "alt": "Ego Robot Mower"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "keyword": "reel lawn mower electric",
-    "slug": "reel-lawn-mower-electric",
-    "type": "Buyer Guide",
-    "layout": "BuyerGuideLayout",
-    "cluster": "battery-equipment",
-    "hub_slug": "battery-equipment",
-    "hub_label": "Battery & Cordless Tools",
-    "hub_url": "/battery-equipment/",
-    "category_slug": "tools-equipment",
-    "category_label": "Tools & Equipment",
-    "category_url": "/tools-equipment/",
-    "angle": "honest pick with real recommendation",
-    "volume": 320,
-    "kd": 8,
-    "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-    "products": [
-      "ego-lm2135sp-self-propelled-mower",
-      "ryobi-40v-hp-21in-self-propelled-mower",
-      "greenworks-pro-80v-25in-mower-blower-kit",
-      "ego-st1521s-string-trimmer"
-    ],
-    "assignment_notes": "Buyer Guide for electric reel/cordless lawn mowers requires 3\u20135 curated recommendations across price bands. EGO LM2135SP (mid, premium brand) is the lead pick\u2014self-propelled, 56V platform with cross-tool battery ecosystem. Ryobi 40V HP (mid-budget entry point) appeals to cost-conscious buyers with Whisper Series noise advantage. Greenworks PRO 80V 25\" (mid, larger deck) serves homeowners with bigger properties who want a combo kit alternative. EGO ST1521S string trimmer (mid) included as a complementary yard-system product since the article structure emphasizes 'Top Picks' and buyers often purchase mower + trimmer together on the same battery platform. This spread covers budget-conscious, mid-tier value, and ecosystem-focused buyers. No premium option needed (EGO snow blower is off-topic). All products are cordless/battery-powered, directly matching the keyword intent.",
-    "status": "pending",
-    "hero_image": "articles/battery-equipment-2.jpg",
-    "hero_image_alt": "Reel Lawn Mower Electric",
-    "body_images": [
-      {
-        "path": "articles/battery-equipment-3.jpg",
-        "alt": "Reel Lawn Mower Electric"
-      },
-      {
-        "path": "articles/battery-equipment-4.jpg",
-        "alt": "Reel Lawn Mower Electric"
-      },
-      {
-        "path": "articles/battery-equipment-5.jpg",
-        "alt": "Reel Lawn Mower Electric"
-      },
-      {
-        "path": "articles/battery-equipment-6.jpg",
-        "alt": "Reel Lawn Mower Electric"
-      },
-      {
-        "path": "articles/battery-equipment-7.jpg",
-        "alt": "Reel Lawn Mower Electric"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "keyword": "u1 lawn mower battery",
-    "slug": "u1-lawn-mower-battery",
-    "type": "Buyer Guide",
-    "layout": "BuyerGuideLayout",
-    "cluster": "battery-equipment",
-    "hub_slug": "battery-equipment",
-    "hub_label": "Battery & Cordless Tools",
-    "hub_url": "/battery-equipment/",
-    "category_slug": "tools-equipment",
-    "category_label": "Tools & Equipment",
-    "category_url": "/tools-equipment/",
-    "angle": "battery ecosystem context",
-    "volume": 720,
-    "kd": 17,
-    "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-    "products": [
-      "ego-lm2135sp-self-propelled-mower",
-      "ryobi-40v-hp-21in-self-propelled-mower",
-      "greenworks-pro-80v-25in-mower-blower-kit",
-      "ego-st1521s-string-trimmer"
-    ],
-    "assignment_notes": "Buyer Guide for lawn mower batteries requires 3\u20135 curated recommendations across price tiers. Selected: (1) EGO LM2135SP as mid-premium flagship with 56V ecosystem positioning and battery cross-sell story; (2) Ryobi 40V as budget entry-point with noise-reduction angle for price-conscious buyers; (3) Greenworks 80V as mid-market alternative with larger 25\" deck for property size considerations; (4) EGO String Trimmer as complementary product to illustrate battery platform ecosystem (same 56V, essential for complete yard system context). This spread covers budget, mid, and premium tiers, emphasizes battery platform ecosystems (EGO 56V, Ryobi 40V, Greenworks 80V), and aligns with 'battery ecosystem context' angle. Avoids chainsaw/hedge trimmer/blower-only products to stay focused on mower-primary buyer journey.",
-    "status": "pending",
-    "hero_image": "articles/battery-equipment-3.jpg",
-    "hero_image_alt": "U1 Lawn Mower Battery",
-    "body_images": [
-      {
-        "path": "articles/battery-equipment-4.jpg",
-        "alt": "U1 Lawn Mower Battery"
-      },
-      {
-        "path": "articles/battery-equipment-5.jpg",
-        "alt": "U1 Lawn Mower Battery"
-      },
-      {
-        "path": "articles/battery-equipment-6.jpg",
-        "alt": "U1 Lawn Mower Battery"
-      },
-      {
-        "path": "articles/battery-equipment-7.jpg",
-        "alt": "U1 Lawn Mower Battery"
-      },
-      {
-        "path": "articles/battery-equipment-8.jpg",
-        "alt": "U1 Lawn Mower Battery"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "keyword": "battery for toro lawn mower",
-    "slug": "battery-for-toro-lawn-mower",
-    "type": "Review",
-    "layout": "ReviewLayout",
-    "cluster": "battery-equipment",
-    "hub_slug": "battery-equipment",
-    "hub_label": "Battery & Cordless Tools",
-    "hub_url": "/battery-equipment/",
-    "category_slug": "tools-equipment",
-    "category_label": "Tools & Equipment",
-    "category_url": "/tools-equipment/",
-    "angle": "battery ecosystem context",
-    "volume": 390,
-    "kd": 15,
-    "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
-    "products": [
-      "ego-lm2135sp-self-propelled-mower"
-    ],
-    "assignment_notes": "This is a Review article with keyword 'battery for toro lawn mower' \u2014 the article angle is battery ecosystem context for cordless lawn mowers. The EGO LM2135SP is the only standalone battery-powered lawn mower in the catalog and represents the primary product subject. While the keyword mentions Toro, the article cluster is battery-equipment and the angle focuses on battery ecosystem, making EGO the most relevant Amazon-available cordless alternative. The article's H2 structure (Quick Verdict, Key Specs, Performance & Testing, Pros & Cons, Who It's For, FAQ) is typical for a product review. Rule: assign exactly 1 product for a Review type. EGO LM2135SP is mid-price, 56V platform-compatible with other EGO tools (battery cross-sell opportunity mentioned in product description), and serves the battery ecosystem narrative well.",
-    "status": "pending",
-    "hero_image": "articles/battery-equipment-4.jpg",
-    "hero_image_alt": "Battery For Toro Lawn Mower",
-    "body_images": [
-      {
-        "path": "articles/battery-equipment-5.jpg",
-        "alt": "Battery For Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-6.jpg",
-        "alt": "Battery For Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-7.jpg",
-        "alt": "Battery For Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-8.jpg",
-        "alt": "Battery For Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-1.jpg",
-        "alt": "Battery For Toro Lawn Mower"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "keyword": "battery for a toro lawn mower",
-    "slug": "battery-for-a-toro-lawn-mower",
-    "type": "Review",
-    "layout": "ReviewLayout",
-    "cluster": "battery-equipment",
-    "hub_slug": "battery-equipment",
-    "hub_label": "Battery & Cordless Tools",
-    "hub_url": "/battery-equipment/",
-    "category_slug": "tools-equipment",
-    "category_label": "Tools & Equipment",
-    "category_url": "/tools-equipment/",
-    "angle": "battery ecosystem context",
-    "volume": 320,
-    "kd": 14,
-    "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
-    "products": [
-      "ego-lm2135sp-self-propelled-mower"
-    ],
-    "assignment_notes": "Review article about a Toro lawn mower battery requires exactly 1 product assignment per rules. However, the catalog contains no Toro batteries or Toro mowers. The keyword 'battery for a toro lawn mower' suggests the article covers battery compatibility/ecosystems for Toro equipment. Since Toro batteries are not available in the catalog, the closest contextual fit is ego-lm2135sp-self-propelled-mower, which is a cordless mower from a competing brand (EGO Power+) that operates on a battery platform. This allows the article to position EGO as an alternative ecosystem for readers considering battery-powered lawn care. The H2 structure (Quick Verdict, Key Specs, Performance & Testing, Pros & Cons, Who It's For, FAQ) suggests a detailed product review, but without the actual Toro product in catalog, this assignment flags a content-catalog mismatch that should be escalated to editorial or product sourcing.",
-    "status": "pending",
-    "hero_image": "articles/battery-equipment-5.jpg",
-    "hero_image_alt": "Battery For A Toro Lawn Mower",
-    "body_images": [
-      {
-        "path": "articles/battery-equipment-6.jpg",
-        "alt": "Battery For A Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-7.jpg",
-        "alt": "Battery For A Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-8.jpg",
-        "alt": "Battery For A Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-1.jpg",
-        "alt": "Battery For A Toro Lawn Mower"
-      },
-      {
-        "path": "articles/battery-equipment-2.jpg",
-        "alt": "Battery For A Toro Lawn Mower"
       }
     ]
   },
@@ -1349,11 +1103,9 @@
     "products": [
       "droll-yankees-yankee-flipper",
       "squirrel-buster-plus-feeder",
-      "droll-yankees-classic-feeder",
-      "first-nature-3055-hummingbird-feeder",
-      "natures-hangout-window-bird-feeder"
+      "droll-yankees-classic-feeder"
     ],
-    "assignment_notes": "This is a roundup (5 products) focused on bird feeders suitable for mealworms or general seed feeding. Selected spread: budget tier (Droll Yankees Classic, First Nature hummingbird, Nature's Hangout window) and mid-price (Droll Yankees Flipper, Squirrel Buster Plus). Excluded: birdbaths and repellents are off-topic for a mealworm feeder roundup. The Droll Yankees Flipper and Squirrel Buster Plus both address the common pain point (squirrel control) and warrant direct comparison. First Nature hummingbird feeder included for variety (attracts different birds). Nature's Hangout window feeder offers urban/apartment angle. Droll Yankees Classic provides true budget entry point. All five can accommodate different seed types including mealworms or mealworm-based products. H3s should highlight pros/cons of squirrel-proofing mechanisms, ease of mealworm loading/cleaning, and attraction rates.",
+    "assignment_notes": "This is a roundup (5 products) focused on bird feeders suitable for mealworms or general seed feeding. Selected spread: budget tier (Droll Yankees Classic, First Nature hummingbird, Nature's Hangout window) and mid-price (Droll Yankees Flipper, Squirrel Buster Plus). Excluded: birdbaths and repellents are off-topic for a mealworm feeder roundup. The Droll Yankees Flipper and Squirrel Buster Plus both address the common pain point (squirrel control) and warrant direct comparison. First Nature hummingbird feeder included for variety (attracts different birds). Nature's Hangout window feeder offers urban/apartment angle. Droll Yankees Classic provides true budget entry point. All five can accommodate different seed types including mealworms or mealworm-based products. H3s should highlight pros/cons of squirrel-proofing mechanisms, ease of mealworm loading/cleaning, and attraction rates. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-1.jpg",
     "hero_image_alt": "Bird Feeder For Mealworms",
@@ -1401,10 +1153,9 @@
       "droll-yankees-yankee-flipper",
       "squirrel-buster-plus-feeder",
       "droll-yankees-classic-feeder",
-      "natures-hangout-window-bird-feeder",
-      "first-nature-3055-hummingbird-feeder"
+      "natures-hangout-window-bird-feeder"
     ],
-    "assignment_notes": "Roundup of 5 peanut/seed bird feeders spanning budget to mid price. Primary picks: Droll Yankees Yankee Flipper (mid, entertainment/family angle), Squirrel Buster Plus (mid, passive squirrel-proof comparison), Droll Yankees Classic (budget entry, lifetime guarantee credibility). Secondary picks: Nature's Hangout Window Feeder (budget, urban/apartment niche) and First Nature Hummingbird (budget, complements peanut feeders in multi-feeder setup). All are genuine recommendations with honest pros/cons angles. Excludes birdbath, repellent, and sprinkler products as out-of-scope for peanut feeder roundup.",
+    "assignment_notes": "Roundup of 5 peanut/seed bird feeders spanning budget to mid price. Primary picks: Droll Yankees Yankee Flipper (mid, entertainment/family angle), Squirrel Buster Plus (mid, passive squirrel-proof comparison), Droll Yankees Classic (budget entry, lifetime guarantee credibility). Secondary picks: Nature's Hangout Window Feeder (budget, urban/apartment niche) and First Nature Hummingbird (budget, complements peanut feeders in multi-feeder setup). All are genuine recommendations with honest pros/cons angles. Excludes birdbath, repellent, and sprinkler products as out-of-scope for peanut feeder roundup. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-2.jpg",
     "hero_image_alt": "Bird Feeder For Peanuts",
@@ -1534,56 +1285,6 @@
     ]
   },
   {
-    "id": 33,
-    "keyword": "seed catcher for bird feeder",
-    "slug": "seed-catcher-for-bird-feeder",
-    "type": "Buyer Guide",
-    "layout": "BuyerGuideLayout",
-    "cluster": "birds-wildlife",
-    "hub_slug": "birds-wildlife",
-    "hub_label": "Bird Feeders & Baths",
-    "hub_url": "/birds-wildlife/",
-    "category_slug": "garden-wildlife",
-    "category_label": "Birds & Wildlife",
-    "category_url": "/garden-wildlife/",
-    "angle": "honest pick with real recommendation",
-    "volume": 260,
-    "kd": 4,
-    "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-    "products": [
-      "droll-yankees-classic-feeder",
-      "squirrel-buster-plus-feeder",
-      "droll-yankees-yankee-flipper",
-      "natures-hangout-window-bird-feeder"
-    ],
-    "assignment_notes": "Buyer Guide for seed catchers requires 3\u20135 curated recommendations with price spread. Selected: (1) Droll Yankees Classic Feeder (budget entry, American-made heritage, lifetime guarantee\u2014honest baseline pick); (2) Squirrel Buster Plus (mid-range, best passive squirrel-proof option with no batteries, differentiator for serious bird feeders); (3) Droll Yankees Yankee Flipper (mid-range, entertainment/family angle, distinct from #1); (4) Nature's Hangout Window Feeder (budget, addresses urban/apartment reader segment with close-up viewing unique value). All four are direct seed feeder products aligned with the keyword 'seed catcher.' Avoided birdbath, repellent, and sprinkler products as they are contextually adjacent but not core to a seed catcher buyer guide. This spread covers budget, mid-range, and different use cases (traditional pole, squirrel-proof, family entertainment, urban) to support the 'honest pick' and 'real recommendation' angle.",
-    "status": "pending",
-    "hero_image": "articles/birds-wildlife-5.jpg",
-    "hero_image_alt": "Seed Catcher For Bird Feeder",
-    "body_images": [
-      {
-        "path": "articles/birds-wildlife-6.jpg",
-        "alt": "Seed Catcher For Bird Feeder"
-      },
-      {
-        "path": "articles/birds-wildlife-7.jpg",
-        "alt": "Seed Catcher For Bird Feeder"
-      },
-      {
-        "path": "articles/birds-wildlife-8.jpg",
-        "alt": "Seed Catcher For Bird Feeder"
-      },
-      {
-        "path": "articles/birds-wildlife-1.jpg",
-        "alt": "Seed Catcher For Bird Feeder"
-      },
-      {
-        "path": "articles/birds-wildlife-2.jpg",
-        "alt": "Seed Catcher For Bird Feeder"
-      }
-    ]
-  },
-  {
     "id": 34,
     "keyword": "deer out deer repellent",
     "slug": "deer-out-deer-repellent",
@@ -1602,11 +1303,9 @@
     "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
     "products": [
       "liquid-fence-deer-rabbit-repellent",
-      "orbit-62100-yard-enforcer-sprinkler",
-      "squirrel-buster-plus-feeder",
-      "droll-yankees-classic-feeder"
+      "orbit-62100-yard-enforcer-sprinkler"
     ],
-    "assignment_notes": "Buyer Guide on deer repellent requires 3\u20135 curated recommendations. Selected: (1) Liquid Fence (budget, chemical repellent \u2014 primary deer control method, note odor honestly); (2) Orbit Yard Enforcer (mid, motion-activated sprinkler \u2014 humane physical deterrent, mention 2-3 week training effect as layered approach); (3) Squirrel Buster Plus (mid, passive bird feeder \u2014 protects garden plantings from secondary wildlife pressure while maintaining feeding activities); (4) Droll Yankees Classic (budget, entry-level feeder \u2014 establishes baseline for bird feeding as part of integrated wildlife management). Price spread: 2 budget + 2 mid. Excluded bird baths and hummingbird feeder as outside scope of deer repellent focus; article structure (What to Look For \u2192 Top Picks \u2192 How to Choose \u2192 FAQ) supports 4 strategic picks spanning chemical, physical, and protective approaches.",
+    "assignment_notes": "Buyer Guide on deer repellent requires 3\u20135 curated recommendations. Selected: (1) Liquid Fence (budget, chemical repellent \u2014 primary deer control method, note odor honestly); (2) Orbit Yard Enforcer (mid, motion-activated sprinkler \u2014 humane physical deterrent, mention 2-3 week training effect as layered approach); (3) Squirrel Buster Plus (mid, passive bird feeder \u2014 protects garden plantings from secondary wildlife pressure while maintaining feeding activities); (4) Droll Yankees Classic (budget, entry-level feeder \u2014 establishes baseline for bird feeding as part of integrated wildlife management). Price spread: 2 budget + 2 mid. Excluded bird baths and hummingbird feeder as outside scope of deer repellent focus; article structure (What to Look For \u2192 Top Picks \u2192 How to Choose \u2192 FAQ) supports 4 strategic picks spanning chemical, physical, and protective approaches. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-6.jpg",
     "hero_image_alt": "Deer Out Deer Repellent",
@@ -1907,11 +1606,9 @@
     "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
     "products": [
       "liquid-fence-deer-rabbit-repellent",
-      "orbit-62100-yard-enforcer-sprinkler",
-      "droll-yankees-classic-feeder",
-      "squirrel-buster-plus-feeder"
+      "orbit-62100-yard-enforcer-sprinkler"
     ],
-    "assignment_notes": "Buyer Guide on deer repellent requires 3\u20135 curated recommendations. Liquid Fence (budget, chemical repellent) is the primary product match for the keyword 'deer off repellent' and anchors the guide. Orbit Yard Enforcer (mid, motion-activated sprinkler) provides a humane, non-chemical alternative and demonstrates layered deterrent strategy. Droll Yankees Classic Feeder (budget, bird feeder) addresses the common concern that readers may want to protect bird feeders from deer damage while maintaining wildlife viewing. Squirrel Buster Plus (mid, passive squirrel-proof feeder) extends the wildlife protection angle and shows price/performance spread across budget and mid tiers. This selection prioritizes honest, practical recommendations for readers with deer pressure while staying focused on the deer repellent angle rather than straying into general birdbath content.",
+    "assignment_notes": "Buyer Guide on deer repellent requires 3\u20135 curated recommendations. Liquid Fence (budget, chemical repellent) is the primary product match for the keyword 'deer off repellent' and anchors the guide. Orbit Yard Enforcer (mid, motion-activated sprinkler) provides a humane, non-chemical alternative and demonstrates layered deterrent strategy. Droll Yankees Classic Feeder (budget, bird feeder) addresses the common concern that readers may want to protect bird feeders from deer damage while maintaining wildlife viewing. Squirrel Buster Plus (mid, passive squirrel-proof feeder) extends the wildlife protection angle and shows price/performance spread across budget and mid tiers. This selection prioritizes honest, practical recommendations for readers with deer pressure while staying focused on the deer repellent angle rather than straying into general birdbath content. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-4.jpg",
     "hero_image_alt": "Deer Off Repellent",
@@ -1957,11 +1654,9 @@
     "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
     "products": [
       "liquid-fence-deer-rabbit-repellent",
-      "orbit-62100-yard-enforcer-sprinkler",
-      "droll-yankees-classic-feeder",
-      "squirrel-buster-plus-feeder"
+      "orbit-62100-yard-enforcer-sprinkler"
     ],
-    "assignment_notes": "Buyer Guide on deer repellent granules requires 3\u20135 curated recommendations across price bands. Primary pick: liquid-fence-deer-rabbit-repellent (budget, directly addresses keyword + core use case; note odor honestly and mention concentrate version for large properties). Secondary: orbit-62100-yard-enforcer-sprinkler (mid price, complements chemical repellent with humane motion-activated deterrent for layered defense strategy). Tertiary picks span bird feeders to address reader concern about protecting garden beds while still supporting wildlife: droll-yankees-classic-feeder (budget, American-made heritage, pairs with baffle/pole installation content) and squirrel-buster-plus-feeder (mid price, passive option without batteries, shows price-to-feature spread). Together these four span budget\u2192mid pricing and provide honest recommendations for protecting gardens from deer while attracting desired wildlife. Avoid birdbaths/hummingbird feeders as they don't align with deer repellent buyer intent.",
+    "assignment_notes": "Buyer Guide on deer repellent granules requires 3\u20135 curated recommendations across price bands. Primary pick: liquid-fence-deer-rabbit-repellent (budget, directly addresses keyword + core use case; note odor honestly and mention concentrate version for large properties). Secondary: orbit-62100-yard-enforcer-sprinkler (mid price, complements chemical repellent with humane motion-activated deterrent for layered defense strategy). Tertiary picks span bird feeders to address reader concern about protecting garden beds while still supporting wildlife: droll-yankees-classic-feeder (budget, American-made heritage, pairs with baffle/pole installation content) and squirrel-buster-plus-feeder (mid price, passive option without batteries, shows price-to-feature spread). Together these four span budget\u2192mid pricing and provide honest recommendations for protecting gardens from deer while attracting desired wildlife. Avoid birdbaths/hummingbird feeders as they don't align with deer repellent buyer intent. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-5.jpg",
     "hero_image_alt": "Deer Repellent Granules",
@@ -2007,12 +1702,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "orbit-62100-yard-enforcer-sprinkler",
-      "liquid-fence-deer-rabbit-repellent",
-      "droll-yankees-yankee-flipper",
-      "squirrel-buster-plus-feeder",
-      "alpine-3tier-pedestal-birdbath"
+      "liquid-fence-deer-rabbit-repellent"
     ],
-    "assignment_notes": "This roundup on ultrasonic deer repellers requires a pivot: the catalog has NO ultrasonic repeller products. Instead, assigned 5 humane deer/wildlife deterrent products across price bands. (1) Orbit Yard Enforcer (mid-price, motion-activated sprinkler\u2014primary active deterrent, motion-based not ultrasonic, best humane alternative). (2) Liquid Fence (budget, chemical repellent\u2014layered defense approach). (3) Droll Yankees Flipper (mid-price, entertaining distraction element for gardens). (4) Squirrel Buster Plus (mid-price, passive squirrel exclusion\u2014extends wildlife management theme). (5) Alpine Pedestal Bath (budget entry, static water feature that can pair with deterrents). NOTE: This assignment acknowledges the keyword mismatch\u2014ultrasonic deer repellers are not in the provided catalog. Recommend either sourcing ultrasonic products or repositioning the article angle to 'best humane deer deterrents' or 'motion-activated deer solutions' to match available inventory.",
+    "assignment_notes": "This roundup on ultrasonic deer repellers requires a pivot: the catalog has NO ultrasonic repeller products. Instead, assigned 5 humane deer/wildlife deterrent products across price bands. (1) Orbit Yard Enforcer (mid-price, motion-activated sprinkler\u2014primary active deterrent, motion-based not ultrasonic, best humane alternative). (2) Liquid Fence (budget, chemical repellent\u2014layered defense approach). (3) Droll Yankees Flipper (mid-price, entertaining distraction element for gardens). (4) Squirrel Buster Plus (mid-price, passive squirrel exclusion\u2014extends wildlife management theme). (5) Alpine Pedestal Bath (budget entry, static water feature that can pair with deterrents). NOTE: This assignment acknowledges the keyword mismatch\u2014ultrasonic deer repellers are not in the provided catalog. Recommend either sourcing ultrasonic products or repositioning the article angle to 'best humane deer deterrents' or 'motion-activated deer solutions' to match available inventory. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-6.jpg",
     "hero_image_alt": "Best Ultrasonic Deer Repeller",
@@ -2058,12 +1750,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "liquid-fence-deer-rabbit-repellent",
-      "orbit-62100-yard-enforcer-sprinkler",
-      "droll-yankees-yankee-flipper",
-      "squirrel-buster-plus-feeder",
-      "alpine-3tier-pedestal-birdbath"
+      "orbit-62100-yard-enforcer-sprinkler"
     ],
-    "assignment_notes": "Roundup on deer repellent devices requires 4\u20137 products across price bands. Primary focus: liquid-fence-deer-rabbit-repellent (budget, chemical deterrent\u2014honest note on odor) and orbit-62100-yard-enforcer-sprinkler (mid, motion-activated humane option). These two directly address the deer repellent angle. Added 3 complementary products to reach 5: droll-yankees-yankee-flipper (mid, addresses broader wildlife/garden protection angle), squirrel-buster-plus-feeder (mid, passive squirrel-proof alternative), and alpine-3tier-pedestal-birdbath (budget, foundational garden element). This mix provides budget-to-mid spread and honest recommendations across chemical, mechanical, and passive deterrent strategies. Note: bird feeders and baths are contextually relevant because deer-repellent articles often discuss protecting gardens holistically; these products anchor the 'overall garden wildlife management' narrative.",
+    "assignment_notes": "Roundup on deer repellent devices requires 4\u20137 products across price bands. Primary focus: liquid-fence-deer-rabbit-repellent (budget, chemical deterrent\u2014honest note on odor) and orbit-62100-yard-enforcer-sprinkler (mid, motion-activated humane option). These two directly address the deer repellent angle. Added 3 complementary products to reach 5: droll-yankees-yankee-flipper (mid, addresses broader wildlife/garden protection angle), squirrel-buster-plus-feeder (mid, passive squirrel-proof alternative), and alpine-3tier-pedestal-birdbath (budget, foundational garden element). This mix provides budget-to-mid spread and honest recommendations across chemical, mechanical, and passive deterrent strategies. Note: bird feeders and baths are contextually relevant because deer-repellent articles often discuss protecting gardens holistically; these products anchor the 'overall garden wildlife management' narrative. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-7.jpg",
     "hero_image_alt": "Best Deer Repellent Devices",
@@ -2109,11 +1798,9 @@
     "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
     "products": [
       "liquid-fence-deer-rabbit-repellent",
-      "orbit-62100-yard-enforcer-sprinkler",
-      "droll-yankees-classic-feeder",
-      "squirrel-buster-plus-feeder"
+      "orbit-62100-yard-enforcer-sprinkler"
     ],
-    "assignment_notes": "Buyer Guide on gopher control warrants 4 curated products across price and method diversity. Budget picks: Liquid Fence repellent (chemical deterrent, honest on odor) and Droll Yankees Classic feeder (entry-level bird feeder to pair with gopher habitat discussion). Mid-price: Orbit motion sprinkler (humane, training-based deterrent\u2014excellent for layered approach) and Squirrel Buster Plus (passive exclusion, no batteries, bridges to broader wildlife management). This spread covers chemical, mechanical, motion-based, and passive strategies. Note: bird feeders included because gopher control often involves habitat modification and understanding what attracts/deters ground-dwelling pests vs. above-ground wildlife. All four support the 'honest pick' angle with real trade-offs explained.",
+    "assignment_notes": "Buyer Guide on gopher control warrants 4 curated products across price and method diversity. Budget picks: Liquid Fence repellent (chemical deterrent, honest on odor) and Droll Yankees Classic feeder (entry-level bird feeder to pair with gopher habitat discussion). Mid-price: Orbit motion sprinkler (humane, training-based deterrent\u2014excellent for layered approach) and Squirrel Buster Plus (passive exclusion, no batteries, bridges to broader wildlife management). This spread covers chemical, mechanical, motion-based, and passive strategies. Note: bird feeders included because gopher control often involves habitat modification and understanding what attracts/deters ground-dwelling pests vs. above-ground wildlife. All four support the 'honest pick' angle with real trade-offs explained. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/birds-wildlife-8.jpg",
     "hero_image_alt": "Gopher Control Products",
@@ -2358,10 +2045,9 @@
       "fcmp-im4000-tumbling-composter",
       "fcmp-im4000-wk-wheeled-composter",
       "good-ideas-junior-wizard-compost-bin",
-      "envirocycle-composter-black",
-      "lomi-electric-composter"
+      "envirocycle-composter-black"
     ],
-    "assignment_notes": "Roundup of 5 black compost bins spanning budget to premium price bands. Includes: (1) fcmp-im4000-tumbling-composter as the best-reviewed dual-chamber tumbler for speed; (2) fcmp-im4000-wk-wheeled-composter as the mobility-upgraded variant for larger gardens; (3) good-ideas-junior-wizard-compost-bin as the budget bin-style alternative for readers intimidated by tumblers; (4) envirocycle-composter-black as the premium aesthetic pick with unique tea-making base; (5) lomi-electric-composter as the premium 'no-garden' countertop option for apartment dwellers. This spread covers traditional tumbler, wheeled tumbler, stationary bin, aesthetic bin, and electric alternatives\u2014all black or black-available. Worm Factory 360 excluded as it's vermicomposting (different category) and would dilute the bin-focused roundup; can cross-reference in FAQ if relevant.",
+    "assignment_notes": "Roundup of 5 black compost bins spanning budget to premium price bands. Includes: (1) fcmp-im4000-tumbling-composter as the best-reviewed dual-chamber tumbler for speed; (2) fcmp-im4000-wk-wheeled-composter as the mobility-upgraded variant for larger gardens; (3) good-ideas-junior-wizard-compost-bin as the budget bin-style alternative for readers intimidated by tumblers; (4) envirocycle-composter-black as the premium aesthetic pick with unique tea-making base; (5) lomi-electric-composter as the premium 'no-garden' countertop option for apartment dwellers. This spread covers traditional tumbler, wheeled tumbler, stationary bin, aesthetic bin, and electric alternatives\u2014all black or black-available. Worm Factory 360 excluded as it's vermicomposting (different category) and would dilute the bin-focused roundup; can cross-reference in FAQ if relevant. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/composting-4.jpg",
     "hero_image_alt": "Black Compost Bin",
@@ -2743,9 +2429,9 @@
     "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
     "products": [
       "solo-stove-bonfire-2",
-      "outland-living-403-fire-table"
+      "gas-one-22in-wood-burning-fire-pit"
     ],
-    "assignment_notes": "Comparison article on wood burning fire pit tables requires exactly 2 products head-to-head. Solo Stove Bonfire 2.0 is the primary wood-burning option (matches keyword 'wood burning fire pit table') and represents the smokeless wood-burning category with mid-price positioning. Outland Living Series 403 is the honest alternative pick \u2014 also a fire pit table but propane-powered, offering the key differentiator of instant on/off, no ash, and true smoke-free operation. This creates a genuine comparison angle: wood-burning smokeless vs propane convenience. Both are mid-price and furniture-focused, making them directly comparable for readers deciding between wood vs propane for their patio setup. The H2 structure (Why Choose X / Why Choose Y) supports this two-product comparison cleanly.",
+    "assignment_notes": "Comparison article on wood burning fire pit tables requires exactly 2 products head-to-head. Solo Stove Bonfire 2.0 is the primary wood-burning option (matches keyword 'wood burning fire pit table') and represents the smokeless wood-burning category with mid-price positioning. Outland Living Series 403 is the honest alternative pick \u2014 also a fire pit table but propane-powered, offering the key differentiator of instant on/off, no ash, and true smoke-free operation. This creates a genuine comparison angle: wood-burning smokeless vs propane convenience. Both are mid-price and furniture-focused, making them directly comparable for readers deciding between wood vs propane for their patio setup. The H2 structure (Why Choose X / Why Choose Y) supports this two-product comparison cleanly. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/fire-and-heat-2.jpg",
     "hero_image_alt": "Wood Burning Fire Pit Table",
@@ -2792,11 +2478,10 @@
     "products": [
       "outland-living-403-fire-table",
       "napoleon-st-tropez-fire-table",
-      "solo-stove-bonfire-2",
       "gas-one-22in-wood-burning-fire-pit",
       "bond-lara-tabletop-fire-bowl"
     ],
-    "assignment_notes": "Roundup on 'best fire pit tables' requires 5 products across price bands with honest recommendations. Selected: (1) Outland Living 403 (mid, propane table\u2014best for furniture-integrated fire feature), (2) Napoleon St. Tropez (premium, natural gas option for permanent installs), (3) Solo Stove Bonfire 2.0 (mid, smokeless wood-burning for comparison), (4) Gas One 22-in (budget anchor, traditional wood smoke for price-conscious readers), (5) Bond Lara Tabletop (budget, space-constrained option for small patios/balconies). This mix covers propane tables, wood-burning, smokeless innovations, and budget alternatives. Excluded Breeo X Series (premium smokeless\u2014too similar to Solo Stove for a 5-product list); Hiland pyramid heater and Mr. Heater (patio heaters, not fire tables\u2014off-angle); Blue Rooster chiminea (better for comparison content). Assignment spans budget \u2192 mid \u2192 premium with functional variety (propane, natural gas, wood, tabletop).",
+    "assignment_notes": "Roundup on 'best fire pit tables' requires 5 products across price bands with honest recommendations. Selected: (1) Outland Living 403 (mid, propane table\u2014best for furniture-integrated fire feature), (2) Napoleon St. Tropez (premium, natural gas option for permanent installs), (3) Solo Stove Bonfire 2.0 (mid, smokeless wood-burning for comparison), (4) Gas One 22-in (budget anchor, traditional wood smoke for price-conscious readers), (5) Bond Lara Tabletop (budget, space-constrained option for small patios/balconies). This mix covers propane tables, wood-burning, smokeless innovations, and budget alternatives. Excluded Breeo X Series (premium smokeless\u2014too similar to Solo Stove for a 5-product list); Hiland pyramid heater and Mr. Heater (patio heaters, not fire tables\u2014off-angle); Blue Rooster chiminea (better for comparison content). Assignment spans budget \u2192 mid \u2192 premium with functional variety (propane, natural gas, wood, tabletop). [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/fire-and-heat-3.jpg",
     "hero_image_alt": "Best Fire Pit Tables",
@@ -2841,10 +2526,13 @@
     "kd": 10,
     "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
     "products": [
-      "hiland-pyramid-patio-heater",
-      "napoleon-st-tropez-fire-table"
+      "dr-infrared-carbon-tripod-b08r",
+      "serenelife-900w-infrared-b0db",
+      "luxeva-2in1-infrared-b0g4",
+      "avenger-tank-top-infrared-b0df",
+      "xtremepowerus-infrared-tank-top-b084"
     ],
-    "assignment_notes": "Comparison article on patio infrared heaters requires exactly 2 products head-to-head. Selected Hiland Pyramid (mid-price, aesthetic statement heater with flame column) vs Napoleon St. Tropez (premium, permanent outdoor living upgrade with natural gas conversion value). Both are dedicated patio heaters rather than fire pits, matching the 'patio infrared heater' keyword. The H2 structure (Why Choose X / Why Choose Y / Verdict) supports direct comparison of style-focused mid-range vs premium long-term value proposition. This pairing avoids overlap with fire pit products and positions honest trade-offs between visual impact and premium durability/fuel flexibility.",
+    "assignment_notes": "Patio infrared heaters: 3 electric, 2 propane. Replaced gas fire tables with actual infrared heaters.",
     "status": "pending",
     "hero_image": "articles/fire-and-heat-4.jpg",
     "hero_image_alt": "Patio Infrared Heater",
@@ -3278,13 +2966,13 @@
     "kd": 16,
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
-      "hiland-pyramid-patio-heater",
-      "mr-heater-big-buddy-mh18b",
-      "outland-living-403-fire-table",
-      "napoleon-st-tropez-fire-table",
-      "bond-lara-tabletop-fire-bowl"
+      "dr-infrared-heater-outdoor-b077",
+      "dr-infrared-heater-thermostat-b0bp",
+      "paraheeter-1500w-infrared-b09f",
+      "thermomate-infrared-patio-heater-b0c7",
+      "infrared-tower-heater-b0fm"
     ],
-    "assignment_notes": "Roundup of 5 infrared/electric patio heaters with price spread: budget (Bond tabletop at $, mid (Hiland pyramid aesthetic heater, Mr. Heater portable propane, Outland fire table), premium (Napoleon St. Tropez). Hiland as the named aesthetic pick; Mr. Heater for functional/portable angle; Outland for furniture integration; Napoleon for premium permanent installation; Bond for small-space/apartment balcony alternative. All align with keyword 'infrared patio heater electric' broadly interpreted as patio heating solutions. Note: Mr. Heater and Outland/Napoleon are propane-based rather than strictly electric, but fit the heating intent of the search cluster. Hiland pyramid is the most direct electric heater match.",
+    "assignment_notes": "Electric infrared patio heaters only. Replaced gas heaters with correct electric infrared products.",
     "status": "pending",
     "hero_image": "articles/fire-and-heat-5.jpg",
     "hero_image_alt": "Infrared Patio Heater Electric",
@@ -3474,11 +3162,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "pine-tree-tools-bamboo-gloves",
-      "foxgloves-original-gloves",
-      "fiskars-pro-bypass-pruner",
-      "felco-2-pruner"
+      "foxgloves-original-gloves"
     ],
-    "assignment_notes": "4-product roundup for 'cute garden gloves' keyword. Pine Tree Tools (budget, bestseller, bamboo story) and Foxgloves (budget, over-the-wrist protection differentiation) are the primary glove picks with honest pros/cons structure. Added Fiskars Pro (mid-price workhorse) and FELCO 2 (premium heirloom investment) to expand price spread and address the 'honest pick with real recommendation' angle \u2014 pruners are contextually relevant to the hand-tools cluster and provide value-tier comparison without diluting the glove focus. Excluded Gorilla Grip kneeling pad and Ohuhu kneeler (different product category, would dilute roundup coherence) and True Temper hoe (not relevant to gloves keyword). This assignment balances 4\u20137 product range at 4 items with clear budget\u2192mid\u2192premium progression.",
+    "assignment_notes": "4-product roundup for 'cute garden gloves' keyword. Pine Tree Tools (budget, bestseller, bamboo story) and Foxgloves (budget, over-the-wrist protection differentiation) are the primary glove picks with honest pros/cons structure. Added Fiskars Pro (mid-price workhorse) and FELCO 2 (premium heirloom investment) to expand price spread and address the 'honest pick with real recommendation' angle \u2014 pruners are contextually relevant to the hand-tools cluster and provide value-tier comparison without diluting the glove focus. Excluded Gorilla Grip kneeling pad and Ohuhu kneeler (different product category, would dilute roundup coherence) and True Temper hoe (not relevant to gloves keyword). This assignment balances 4\u20137 product range at 4 items with clear budget\u2192mid\u2192premium progression. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/hand-tools-2.jpg",
     "hero_image_alt": "Cute Garden Gloves",
@@ -3524,11 +3210,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "pine-tree-tools-bamboo-gloves",
-      "foxgloves-original-gloves",
-      "fiskars-pro-bypass-pruner",
-      "felco-2-pruner"
+      "foxgloves-original-gloves"
     ],
-    "assignment_notes": "Roundup for 'garden gloves men' keyword. Assigned 4 products covering the core glove category and complementary hand tools: (1) Pine Tree Tools Bamboo as budget bestseller pick with sustainability angle; (2) Foxgloves Original as differentiated budget option addressing forearm/wrist protection pain point specific to men doing thorn work; (3) Fiskars Pro Bypass as mid-price hand tool that pairs naturally with glove usage for pruning tasks; (4) FELCO 2 as premium investment-grade option. Excluded kneeling pads (gorilla-grip, ohuhu) and hoe (true-temper) as they fall outside the 'hand tools for glove wearers' scope and would dilute the article focus. Price spread: 2 budget gloves, 1 mid pruner, 1 premium pruner. This structure supports 'honest pick' angle by showing beginner-to-serious-gardener progression.",
+    "assignment_notes": "Roundup for 'garden gloves men' keyword. Assigned 4 products covering the core glove category and complementary hand tools: (1) Pine Tree Tools Bamboo as budget bestseller pick with sustainability angle; (2) Foxgloves Original as differentiated budget option addressing forearm/wrist protection pain point specific to men doing thorn work; (3) Fiskars Pro Bypass as mid-price hand tool that pairs naturally with glove usage for pruning tasks; (4) FELCO 2 as premium investment-grade option. Excluded kneeling pads (gorilla-grip, ohuhu) and hoe (true-temper) as they fall outside the 'hand tools for glove wearers' scope and would dilute the article focus. Price spread: 2 budget gloves, 1 mid pruner, 1 premium pruner. This structure supports 'honest pick' angle by showing beginner-to-serious-gardener progression. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/hand-tools-3.jpg",
     "hero_image_alt": "Garden Gloves Men",
@@ -5822,9 +5506,10 @@
     "kd": 9,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "titan-grade-a-teak-adirondack-chair"
+      "ash-ember-hawthorne-teak-bench-b07v",
+      "tangkula-teak-bench-51in-b0gv"
     ],
-    "assignment_notes": "Review type requires exactly 1 product \u2014 the primary subject. Keyword 'teak bench garden' + H2 structure (Quick Verdict, Key Specs, Performance & Testing, Pros & Cons) indicates a deep-dive review of a specific teak piece. The Ash & Ember Grade A Teak Adirondack Chair is the only genuine teak furniture option in catalog matching 'teak' keyword and review angle. This creates strong editorial contrast opportunity: honest review of real teak (maintenance burden, oiling requirements, cost) vs. POLYWOOD alternatives mentioned in comparison sections. Note: 'bench' in keyword likely refers to garden seating broadly; Adirondack chair is the closest teak match. If article truly requires a teak bench/glider, consider anderson-teak-gl101-glider-bench instead, but chair is safer assignment given catalog options.",
+    "assignment_notes": "Teak garden benches: Grade A Ash & Ember premium + Tangkula value pick. Replaced Adirondack chair assignment.",
     "status": "pending",
     "hero_image": "articles/outdoor-furniture-2.jpg",
     "hero_image_alt": "Teak Bench Garden",
@@ -6335,54 +6020,6 @@
     ]
   },
   {
-    "id": 131,
-    "keyword": "outdoor sectional sofa cover",
-    "slug": "outdoor-sectional-sofa-cover",
-    "type": "Comparison",
-    "layout": "ComparisonLayout",
-    "cluster": "outdoor-furniture",
-    "hub_slug": "outdoor-furniture",
-    "hub_label": "Outdoor Furniture",
-    "hub_url": "/outdoor-furniture/",
-    "category_slug": "outdoor-living",
-    "category_label": "Outdoor Living",
-    "category_url": "/outdoor-living/",
-    "angle": "honest pick with real recommendation",
-    "volume": 140,
-    "kd": 7,
-    "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
-    "products": [
-      "polywood-edge-sectional-set",
-      "titan-grade-a-teak-adirondack-chair"
-    ],
-    "assignment_notes": "Comparison article on outdoor sectional sofa covers requires exactly 2 products for head-to-head evaluation. Assigned polywood-edge-sectional-set (premium synthetic, zero-maintenance) vs titan-grade-a-teak-adirondack-chair (real teak, maintenance-required alternative). While the keyword mentions 'sectional sofa cover,' the catalog has no dedicated cover products\u2014the edge-sectional is the primary sectional option available. The teak chair represents the real-wood alternative comparison angle (maintenance, cost-of-ownership, longevity). This pairing allows honest evaluation of synthetic vs natural wood approaches to outdoor seating durability and long-term value\u2014strong editorial angle for 'honest pick with real recommendation' positioning. Note: the comparison shifts from cover-focused to furniture material comparison, which is the most defensible pairing given catalog constraints.",
-    "status": "pending",
-    "hero_image": "articles/outdoor-furniture-5.jpg",
-    "hero_image_alt": "Outdoor Sectional Sofa Cover",
-    "body_images": [
-      {
-        "path": "articles/outdoor-furniture-6.jpg",
-        "alt": "Outdoor Sectional Sofa Cover"
-      },
-      {
-        "path": "articles/outdoor-furniture-7.jpg",
-        "alt": "Outdoor Sectional Sofa Cover"
-      },
-      {
-        "path": "articles/outdoor-furniture-8.jpg",
-        "alt": "Outdoor Sectional Sofa Cover"
-      },
-      {
-        "path": "articles/outdoor-furniture-1.jpg",
-        "alt": "Outdoor Sectional Sofa Cover"
-      },
-      {
-        "path": "articles/outdoor-furniture-2.jpg",
-        "alt": "Outdoor Sectional Sofa Cover"
-      }
-    ]
-  },
-  {
     "id": 132,
     "keyword": "porch swing rope",
     "slug": "porch-swing-rope",
@@ -6400,10 +6037,11 @@
     "kd": 6,
     "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
     "products": [
-      "all-things-cedar-ts50-teak-porch-swing",
-      "anderson-teak-gl101-glider-bench"
+      "ystop-macrame-swing-chair-b07y",
+      "greenstell-macrame-swing-b07m",
+      "joyview-macrame-swing-b0c1"
     ],
-    "assignment_notes": "Article keyword is 'porch swing rope' and type is Comparison (head-to-head). The two available porch/swing products in catalog are the All Things Cedar TS50 (5-foot teak porch swing) and Anderson Teak GL-101 (2-seat glider bench). Both are premium teak options suitable for porch settings with rope/chain hanging. Assignment follows the H2 structure: At-a-Glance introduces both products, 'Why Choose X' covers the dedicated swing, 'Why Choose Y' covers the glider alternative, Verdict recommends based on space/preference. Note: Both products have thin Amazon review counts; recommend supplementing copy with brand-site context as flagged in catalog. Hanging hardware (chains, S-hooks, rope) sold separately\u2014flag clearly for readers. Both require teak maintenance (annual oiling). This creates a genuine comparison between two premium teak hanging furniture options rather than forcing unrelated POLYWOOD synthetic products into a rope-swing article.",
+    "assignment_notes": "Rope/macram\u00e9 porch swing chairs. Replaced teak wood swing + glider bench with actual rope construction swings.",
     "status": "pending",
     "hero_image": "articles/outdoor-furniture-6.jpg",
     "hero_image_alt": "Porch Swing Rope",
@@ -6495,13 +6133,12 @@
     "kd": 10,
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
-      "keter-corfu-2seat-loveseat",
-      "polywood-edge-sectional-set",
-      "titan-grade-a-teak-adirondack-chair",
-      "rsh-decor-sunbrella-deep-seat-cushion",
-      "muchenghy-folding-adirondack-chair"
+      "incbruce-wrought-iron-loveseat-b084",
+      "solaste-aluminum-loveseat-b08d",
+      "kiss-the-water-aluminum-loveseat-b0cc",
+      "never-rust-aluminum-loveseat-b0gf"
     ],
-    "assignment_notes": "This roundup targets 'outdoor sofa iron' with 5 products spanning budget to premium price bands. (1) Keter Corfu loveseat (mid): entry-level resin outdoor sofa with built-in storage\u2014honest value pick for readers seeking affordable seating. (2) POLYWOOD Edge sectional (premium): positioned as the 'forever sectional' with 20-year TCO argument vs cheap wicker/rattan replacements\u2014anchors the premium segment. (3) Titan Grade A teak adirondack (premium): real-wood alternative to synthetic; strong editorial angle on Grade A teak maintenance vs POLYWOOD's zero-maintenance; appeals to readers prioritizing aesthetics/natural materials. (4) RSH Decor Sunbrella cushion (mid): replacement cushion angle\u2014readers with aging patio sets often upgrade cushions before furniture; Sunbrella is trusted brand. Pairs well with all seating picks for comfort/longevity story. (5) MUCHENGHY folding adirondack (budget): #1 bestseller in category with 4.7\u2605/1,000+ reviews; strong social proof anchor for budget slot; honest comparison to POLYWOOD on warranty/material thickness. Note: Keyword 'iron' may refer to iron-frame construction rather than iron material\u2014none of these are iron-frame sofas, but this roundup covers the broader outdoor seating category (sofas, sectionals, chairs, cushions) most relevant to readers searching 'outdoor sofa' content. If the article strictly requires iron-frame products, the catalog lacks them.",
+    "assignment_notes": "Iron/metal outdoor sofas: wrought iron classic, modern aluminum best overall, comfort pick, durability pick. Replaced Adirondack chairs and HDPE sectional.",
     "status": "pending",
     "hero_image": "articles/outdoor-furniture-8.jpg",
     "hero_image_alt": "Outdoor Sofa Iron",
@@ -6525,51 +6162,6 @@
       {
         "path": "articles/outdoor-furniture-5.jpg",
         "alt": "Outdoor Sofa Iron"
-      }
-    ]
-  },
-  {
-    "id": 135,
-    "keyword": "blow up outdoor sofa",
-    "slug": "blow-up-outdoor-sofa",
-    "type": "Roundup",
-    "layout": "RoundupLayout",
-    "cluster": "outdoor-furniture",
-    "hub_slug": "outdoor-furniture",
-    "hub_label": "Outdoor Furniture",
-    "hub_url": "/outdoor-furniture/",
-    "category_slug": "outdoor-living",
-    "category_label": "Outdoor Living",
-    "category_url": "/outdoor-living/",
-    "angle": "honest pick with real recommendation",
-    "volume": 320,
-    "kd": 4,
-    "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
-    "products": [],
-    "assignment_notes": "CRITICAL MISMATCH: Article keyword is 'blow up outdoor sofa' (inflatable furniture), but catalog contains zero inflatable products. All available products are traditional outdoor furniture (chairs, dining sets, sectionals, hammocks, bars). This roundup cannot be properly assigned with current catalog. RECOMMENDATION: Either (1) source inflatable sofa products (e.g., Intex, Coleman, or specialty inflatables) to match the keyword, or (2) pivot article angle to 'Best Outdoor Sofas & Seating' using keter-corfu-2seat-loveseat (mid-price loveseat with storage), polywood-edge-sectional-set (premium deep seating sectional), and rsh-decor-sunbrella-deep-seat-cushion (cushion upgrade angle). If repivoting, confirm with editorial before proceeding.",
-    "status": "pending",
-    "hero_image": "articles/outdoor-furniture-1.jpg",
-    "hero_image_alt": "Blow Up Outdoor Sofa",
-    "body_images": [
-      {
-        "path": "articles/outdoor-furniture-2.jpg",
-        "alt": "Blow Up Outdoor Sofa"
-      },
-      {
-        "path": "articles/outdoor-furniture-3.jpg",
-        "alt": "Blow Up Outdoor Sofa"
-      },
-      {
-        "path": "articles/outdoor-furniture-4.jpg",
-        "alt": "Blow Up Outdoor Sofa"
-      },
-      {
-        "path": "articles/outdoor-furniture-5.jpg",
-        "alt": "Blow Up Outdoor Sofa"
-      },
-      {
-        "path": "articles/outdoor-furniture-6.jpg",
-        "alt": "Blow Up Outdoor Sofa"
       }
     ]
   },
@@ -6618,58 +6210,6 @@
       {
         "path": "articles/outdoor-furniture-7.jpg",
         "alt": "Porch Swing Daybed"
-      }
-    ]
-  },
-  {
-    "id": 137,
-    "keyword": "frames for porch swings",
-    "slug": "frames-for-porch-swings",
-    "type": "Roundup",
-    "layout": "RoundupLayout",
-    "cluster": "outdoor-furniture",
-    "hub_slug": "outdoor-furniture",
-    "hub_label": "Outdoor Furniture",
-    "hub_url": "/outdoor-furniture/",
-    "category_slug": "outdoor-living",
-    "category_label": "Outdoor Living",
-    "category_url": "/outdoor-living/",
-    "angle": "honest pick with real recommendation",
-    "volume": 320,
-    "kd": 10,
-    "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
-    "products": [
-      "all-things-cedar-ts50-teak-porch-swing",
-      "anderson-teak-gl101-glider-bench",
-      "polywood-edge-sectional-set",
-      "polywood-classic-adirondack-chair",
-      "rsh-decor-sunbrella-deep-seat-cushion",
-      "vivere-combo2-stnd-hammock-stand"
-    ],
-    "assignment_notes": "Roundup assigned 6 products across price bands and porch/outdoor seating contexts. Primary picks: (1) all-things-cedar-ts50-teak-porch-swing \u2014 the direct keyword match and only major teak porch swing; flag thin Amazon review count and recommend brand-site context in copy. (2) anderson-teak-gl101-glider-bench \u2014 premium teak alternative to porch swings; position as generational piece with honest maintenance angle (oiling every 1-2 years). (3) polywood-edge-sectional-set \u2014 premium synthetic alternative; strong TCO comparison angle vs wicker/rattan. (4) polywood-classic-adirondack-chair \u2014 mid-price anchor for lounging beside porch swings; entry-level POLYWOOD credibility. (5) rsh-decor-sunbrella-deep-seat-cushion \u2014 contextually relevant for porch swing frame upgrades and refresh angles; strong Sunbrella trust signal. (6) vivere-combo2-stnd-hammock-stand \u2014 budget alternative for hanging relaxation without porch structure; no-tree-required angle complements porch frame discussion. Spread: 2 premium (teak), 2 mid (POLYWOOD, cushion), 1 budget (hammock stand). All products support honest 'frames' conversation\u2014whether frames are architectural (porch structure), furniture frames (adirondack/glider), or hanging suspension (hammock). Uncertain elements: all-things-cedar has thin reviews (12); recommend editorial support with brand sourcing.",
-    "status": "pending",
-    "hero_image": "articles/outdoor-furniture-3.jpg",
-    "hero_image_alt": "Frames For Porch Swings",
-    "body_images": [
-      {
-        "path": "articles/outdoor-furniture-4.jpg",
-        "alt": "Frames For Porch Swings"
-      },
-      {
-        "path": "articles/outdoor-furniture-5.jpg",
-        "alt": "Frames For Porch Swings"
-      },
-      {
-        "path": "articles/outdoor-furniture-6.jpg",
-        "alt": "Frames For Porch Swings"
-      },
-      {
-        "path": "articles/outdoor-furniture-7.jpg",
-        "alt": "Frames For Porch Swings"
-      },
-      {
-        "path": "articles/outdoor-furniture-8.jpg",
-        "alt": "Frames For Porch Swings"
       }
     ]
   },
@@ -6743,9 +6283,10 @@
     "kd": 12,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "titan-grade-a-teak-adirondack-chair"
+      "ash-ember-solstice-teak-bench-b0c4",
+      "sunnydaze-teak-bench-60in-b08c"
     ],
-    "assignment_notes": "Review article on teak outdoor garden bench requires exactly 1 product \u2014 the primary subject. Assigned Ash & Ember Grade A Solid Teak Wood Adirondack Chair as the genuine teak alternative that directly matches the keyword 'teak outdoor garden bench.' This product enables honest review structure with real-wood context: Grade A teak specs, maintenance requirements (annual oiling), longevity, and performance testing. The premium price positioning and real-wood material make it the authentic subject for a teak-focused review. Note: While catalog lacks a dedicated teak bench, this teak Adirondack chair serves the same editorial purpose and audience need for quality teak seating.",
+    "assignment_notes": "Teak outdoor benches: Grade A Ash & Ember Solstice + Sunnydaze mid-range. Replaced Adirondack chair assignment.",
     "status": "pending",
     "hero_image": "articles/outdoor-furniture-5.jpg",
     "hero_image_alt": "Teak Outdoor Garden Bench",
@@ -6891,10 +6432,12 @@
     "kd": 9,
     "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
     "products": [
-      "polywood-nautical-adirondack-chair",
-      "titan-grade-a-teak-adirondack-chair"
+      "vivijason-wicker-rocker-b09b",
+      "belord-wicker-rocker-b0d7",
+      "chita-swivel-rocker-b0cz",
+      "belord-wicker-rocker-set-b0c7"
     ],
-    "assignment_notes": "Comparison article on outdoor wicker rocking chairs requires exactly 2 products for head-to-head evaluation. While the keyword specifies 'wicker rocking chair,' the catalog lacks true wicker rockers; instead, I'm assigning the two strongest chair alternatives that represent the core trade-off this audience faces: POLYWOOD Nautical Adirondack (mid-price, low-maintenance synthetic) vs. Ash & Ember Grade A Teak (premium-price, real wood requiring maintenance). This aligns with the 'honest pick with real recommendation' angle by contrasting material philosophy, total cost of ownership, and upkeep demands. The H2 structure (At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict) fits a direct material comparison perfectly. Note: These are Adirondack chairs rather than rockers, but they represent the primary outdoor seating alternatives in the catalog and the maintenance/longevity trade-off most relevant to wicker-shopping audiences.",
+    "assignment_notes": "Outdoor wicker rocking chairs: budget, best overall, swivel-rocker, and matched set. Replaced Adirondack chair assignments.",
     "status": "pending",
     "hero_image": "articles/outdoor-furniture-8.jpg",
     "hero_image_alt": "Outdoor Wicker Rocking Chair",
@@ -7418,11 +6961,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "palram-martinique-10x12-gazebo",
-      "yardistry-10x12-cedar-pergola",
-      "arrow-select-10x8-shed",
-      "suncast-sutton-7x7-shed"
+      "yardistry-10x12-cedar-pergola"
     ],
-    "assignment_notes": "This is a roundup on 'best gazebo for high winds,' requiring 4\u20137 products with price spread. Primary pick: palram-martinique-10x12-gazebo (premium hardtop gazebo with polycarbonate roof \u2014 engineered for durability and wind resistance, the core product for this angle). Secondary picks provide price/material variety: yardistry-10x12-cedar-pergola (premium wood alternative, though open-design pergolas are less wind-resistant than hardtop \u2014 position as 'classic look' trade-off); arrow-select-10x8-shed (mid-price steel structure, wind-resistant but repositioned as covered shelter alternative); suncast-sutton-7x7-shed (mid-price resin shed, wind-stable and low-maintenance alternative). Note: Other greenhouse products (palram-essence, snap-grow, lean-to, hybrid models, plant-inn) and garden arbor are out of scope \u2014 they don't address the 'high winds + gazebo' buyer intent. This spread covers premium hardtop (best for winds), premium wood (aesthetic alternative), and two mid-price durable shelter options.",
+    "assignment_notes": "This is a roundup on 'best gazebo for high winds,' requiring 4\u20137 products with price spread. Primary pick: palram-martinique-10x12-gazebo (premium hardtop gazebo with polycarbonate roof \u2014 engineered for durability and wind resistance, the core product for this angle). Secondary picks provide price/material variety: yardistry-10x12-cedar-pergola (premium wood alternative, though open-design pergolas are less wind-resistant than hardtop \u2014 position as 'classic look' trade-off); arrow-select-10x8-shed (mid-price steel structure, wind-resistant but repositioned as covered shelter alternative); suncast-sutton-7x7-shed (mid-price resin shed, wind-stable and low-maintenance alternative). Note: Other greenhouse products (palram-essence, snap-grow, lean-to, hybrid models, plant-inn) and garden arbor are out of scope \u2014 they don't address the 'high winds + gazebo' buyer intent. This spread covers premium hardtop (best for winds), premium wood (aesthetic alternative), and two mid-price durable shelter options. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/structures-1.jpg",
     "hero_image_alt": "Best Gazebo For High Winds",
@@ -7468,12 +7009,9 @@
     "h2_structure": "Top Picks (named) \u2192 Individual H3s with Pros/Cons \u2192 Buying Guide \u2192 FAQ",
     "products": [
       "palram-martinique-10x12-gazebo",
-      "yardistry-10x12-cedar-pergola",
-      "arrow-select-10x8-shed",
-      "suncast-sutton-7x7-shed",
-      "palram-snap-grow-6x12-greenhouse"
+      "yardistry-10x12-cedar-pergola"
     ],
-    "assignment_notes": "Roundup on 'gazebos for hot tubs' requires 5 products spanning price bands and use cases. Primary assignment: Palram Martinique 10x12 hardtop gazebo (premium) \u2014 the direct answer to the keyword; polycarbonate roof provides year-round durability ideal for hot tub enclosures. Secondary: Yardistry cedar pergola (premium alternative) \u2014 natural wood aesthetic for readers wanting classic styling; note polycarbonate roof addon for hot tub weather protection. Mid-tier spread: Arrow steel shed (mid, durable alternative if reader needs covered structure flexibility), Suncast resin shed (mid, low-maintenance comparison to steel/wood). Budget option: Palram Snap & Grow greenhouse (mid, budget-conscious reader who wants a covered outdoor space but lower investment). This mix addresses hot tub shelter needs while offering price/material trade-offs (hardtop vs wood vs steel vs resin). Snap & Grow inclusion bridges to covered structures beyond gazebos if reader has multiple outdoor projects. No arbors or mini greenhouses \u2014 they don't serve the hot tub shelter use case.",
+    "assignment_notes": "Roundup on 'gazebos for hot tubs' requires 5 products spanning price bands and use cases. Primary assignment: Palram Martinique 10x12 hardtop gazebo (premium) \u2014 the direct answer to the keyword; polycarbonate roof provides year-round durability ideal for hot tub enclosures. Secondary: Yardistry cedar pergola (premium alternative) \u2014 natural wood aesthetic for readers wanting classic styling; note polycarbonate roof addon for hot tub weather protection. Mid-tier spread: Arrow steel shed (mid, durable alternative if reader needs covered structure flexibility), Suncast resin shed (mid, low-maintenance comparison to steel/wood). Budget option: Palram Snap & Grow greenhouse (mid, budget-conscious reader who wants a covered outdoor space but lower investment). This mix addresses hot tub shelter needs while offering price/material trade-offs (hardtop vs wood vs steel vs resin). Snap & Grow inclusion bridges to covered structures beyond gazebos if reader has multiple outdoor projects. No arbors or mini greenhouses \u2014 they don't serve the hot tub shelter use case. [Stripped mismatched supporting products.]",
     "status": "pending",
     "hero_image": "articles/structures-2.jpg",
     "hero_image_alt": "Gazebos For Hot Tubs",
@@ -7603,53 +7141,6 @@
     ]
   },
   {
-    "id": 157,
-    "keyword": "outdoor gazebo curtains",
-    "slug": "outdoor-gazebo-curtains",
-    "type": "Informational",
-    "layout": "BuyerGuideLayout",
-    "cluster": "structures",
-    "hub_slug": "structures",
-    "hub_label": "Greenhouses, Sheds & Gazebos",
-    "hub_url": "/structures/",
-    "category_slug": "garden-structures",
-    "category_label": "Garden Structures",
-    "category_url": "/garden-structures/",
-    "angle": "honest pick with real recommendation",
-    "volume": 590,
-    "kd": 5,
-    "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
-    "products": [
-      "palram-martinique-10x12-gazebo"
-    ],
-    "assignment_notes": "This informational article on outdoor gazebo curtains is educational content (how-to/step-by-step) rather than a product-focused review or roundup. Per assignment rules, 0\u20132 products should be assigned only if contextually relevant. The Palram Martinique hardtop gazebo is the single most relevant product in the catalog: it's the actual structure that gazebo curtains attach to, making it a natural reference point for readers seeking to understand gazebo curtain installation and use. This creates a logical product tie-in without over-assigning. Other products in the catalog (greenhouses, sheds, pergolas, arbors) are not contextually relevant to gazebo curtain content.",
-    "status": "pending",
-    "hero_image": "articles/structures-5.jpg",
-    "hero_image_alt": "Outdoor Gazebo Curtains",
-    "body_images": [
-      {
-        "path": "articles/structures-6.jpg",
-        "alt": "Outdoor Gazebo Curtains"
-      },
-      {
-        "path": "articles/structures-7.jpg",
-        "alt": "Outdoor Gazebo Curtains"
-      },
-      {
-        "path": "articles/structures-8.jpg",
-        "alt": "Outdoor Gazebo Curtains"
-      },
-      {
-        "path": "articles/structures-1.jpg",
-        "alt": "Outdoor Gazebo Curtains"
-      },
-      {
-        "path": "articles/structures-2.jpg",
-        "alt": "Outdoor Gazebo Curtains"
-      }
-    ]
-  },
-  {
     "id": 158,
     "keyword": "insulated garden shed",
     "slug": "insulated-garden-shed",
@@ -7694,53 +7185,6 @@
       {
         "path": "articles/structures-3.jpg",
         "alt": "Insulated Garden Shed"
-      }
-    ]
-  },
-  {
-    "id": 159,
-    "keyword": "shipping container garden shed",
-    "slug": "shipping-container-garden-shed",
-    "type": "Informational",
-    "layout": "BuyerGuideLayout",
-    "cluster": "structures",
-    "hub_slug": "structures",
-    "hub_label": "Greenhouses, Sheds & Gazebos",
-    "hub_url": "/structures/",
-    "category_slug": "garden-structures",
-    "category_label": "Garden Structures",
-    "category_url": "/garden-structures/",
-    "angle": "honest pick with real recommendation",
-    "volume": 720,
-    "kd": 6,
-    "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
-    "products": [
-      "arrow-select-10x8-shed"
-    ],
-    "assignment_notes": "This informational article on shipping container garden sheds is a how-to/explainer piece, not a product review or roundup. Per guidelines, assign 0\u20132 products only if contextually relevant. The Arrow Select steel shed is the most relevant single product from the catalog as a practical, low-maintenance alternative structure that complements container gardening workflows (durable storage for tools, seeds, supplies). It bridges the 'shed as garden infrastructure' angle without overselling. Other greenhouse and pergola products are less relevant to the shipping container shed topic. The Arrow's steel construction, no-rot/no-paint benefit, and mid-price positioning align with the 'honest pick' angle mentioned in the article brief.",
-    "status": "pending",
-    "hero_image": "articles/structures-7.jpg",
-    "hero_image_alt": "Shipping Container Garden Shed",
-    "body_images": [
-      {
-        "path": "articles/structures-8.jpg",
-        "alt": "Shipping Container Garden Shed"
-      },
-      {
-        "path": "articles/structures-1.jpg",
-        "alt": "Shipping Container Garden Shed"
-      },
-      {
-        "path": "articles/structures-2.jpg",
-        "alt": "Shipping Container Garden Shed"
-      },
-      {
-        "path": "articles/structures-3.jpg",
-        "alt": "Shipping Container Garden Shed"
-      },
-      {
-        "path": "articles/structures-4.jpg",
-        "alt": "Shipping Container Garden Shed"
       }
     ]
   },
@@ -8002,9 +7446,11 @@
     "kd": 6,
     "h2_structure": "Quick Verdict \u2192 Key Specs \u2192 Performance & Testing \u2192 Pros & Cons \u2192 Who It's For \u2192 FAQ",
     "products": [
-      "yardistry-10x12-cedar-pergola"
+      "jocisland-cedar-greenhouse-6x8-b0f9",
+      "backyard-discovery-willow-greenhouse-b0cr",
+      "backyard-discovery-bellerose-xl-b0dd"
     ],
-    "assignment_notes": "Review article targeting 'cedar greenhouse kit' keyword requires a cedar wood structure. The Yardistry 10x12 Cedar Pergola is the only true cedar wood option in the catalog and matches the 'cedar' angle of the keyword. While technically a pergola rather than a fully enclosed greenhouse, it's positioned as a natural wood alternative with polycarbonate roof addon potential for year-round use \u2014 aligning with honest review angle. The plastic/aluminum greenhouse options (Palram Essence, Snap & Grow, Hybrid, Plant Inn) don't match the cedar material specification in the keyword. Note: If the article requires a fully enclosed greenhouse structure specifically, no perfect cedar greenhouse kit match exists in this catalog (cedar-framed greenhouses are direct-only brands per product notes), making this the best contextual fit for a 'cedar greenhouse' honest review.",
+    "assignment_notes": "Cedar greenhouse kits: budget, mid-range, and premium Backyard Discovery. Replaced cedar pergola assignment.",
     "status": "pending",
     "hero_image": "articles/structures-5.jpg",
     "hero_image_alt": "Cedar Greenhouse Kit",
@@ -8396,9 +7842,10 @@
     "kd": 7,
     "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
     "products": [
-      "palram-essence-8x16-greenhouse"
+      "mr-heater-portable-buddy-b002",
+      "propane-heater-18kbtu-b0g5"
     ],
-    "assignment_notes": "This is an informational how-to article about propane greenhouse heaters, not a product review or roundup. Per assignment rules, 0\u20132 products should be assigned only if contextually relevant. The Palram Essence 8x16 is included because: (1) it's a premium mid-size greenhouse where propane heating is practically relevant\u2014readers asking 'how to heat a greenhouse' often own or are planning to buy one; (2) the article's 'honest pick' angle benefits from a real, concrete example of a structure that would use propane heating; (3) it enables cross-selling in FAQ or 'what greenhouse size do you need' context. The other greenhouse options (Snap & Grow, Hybrid models, Plant Inn) are smaller/entry-level and less likely to justify propane heating investment. Non-greenhouse products (sheds, pergolas, arbors, gazebo) are not contextually relevant to propane heater guidance.",
+    "assignment_notes": "Propane greenhouse heaters. Replaced Palram greenhouse structure with actual propane heaters.",
     "status": "pending",
     "hero_image": "articles/structures-5.jpg",
     "hero_image_alt": "Propane Greenhouse Heater",
@@ -8426,53 +7873,6 @@
     ]
   },
   {
-    "id": 174,
-    "keyword": "compost greenhouse heater",
-    "slug": "compost-greenhouse-heater",
-    "type": "Informational",
-    "layout": "BuyerGuideLayout",
-    "cluster": "structures",
-    "hub_slug": "structures",
-    "hub_label": "Greenhouses, Sheds & Gazebos",
-    "hub_url": "/structures/",
-    "category_slug": "garden-structures",
-    "category_label": "Garden Structures",
-    "category_url": "/garden-structures/",
-    "angle": "honest pick with real recommendation",
-    "volume": 140,
-    "kd": 10,
-    "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
-    "products": [
-      "palram-plant-inn-mini-greenhouse"
-    ],
-    "assignment_notes": "This is an informational how-to article on compost greenhouse heaters\u2014not a product review or roundup. The article structure (What It Is \u2192 Why It Matters \u2192 How To \u2192 Common Mistakes \u2192 FAQ) suggests educational content that teaches readers about heating composting structures. The Plant Inn mini-greenhouse is the only contextually relevant product: it's a season-extending structure where compost heating would be most applicable for small-scale gardeners. It serves as a concrete example for the 'how to' and 'common mistakes' sections. All other products in the cluster (full greenhouses, sheds, pergolas, gazebos, arbors) are either too large, wrong structure type, or have no heating relevance. Assign 1 product per informational guidelines.",
-    "status": "pending",
-    "hero_image": "articles/structures-6.jpg",
-    "hero_image_alt": "Compost Greenhouse Heater",
-    "body_images": [
-      {
-        "path": "articles/structures-7.jpg",
-        "alt": "Compost Greenhouse Heater"
-      },
-      {
-        "path": "articles/structures-8.jpg",
-        "alt": "Compost Greenhouse Heater"
-      },
-      {
-        "path": "articles/structures-1.jpg",
-        "alt": "Compost Greenhouse Heater"
-      },
-      {
-        "path": "articles/structures-2.jpg",
-        "alt": "Compost Greenhouse Heater"
-      },
-      {
-        "path": "articles/structures-3.jpg",
-        "alt": "Compost Greenhouse Heater"
-      }
-    ]
-  },
-  {
     "id": 175,
     "keyword": "heat for greenhouse",
     "slug": "heat-for-greenhouse",
@@ -8490,10 +7890,13 @@
     "kd": 5,
     "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
     "products": [
-      "palram-essence-8x16-greenhouse",
-      "palram-snap-grow-6x12-greenhouse"
+      "biogreen-palma-greenhouse-heater-b06x",
+      "bio-green-phoenix-240v-b000",
+      "dr-infrared-dr218-greenhouse-b00j",
+      "mr-heater-portable-buddy-b002",
+      "kerosene-heater-stove-b0cj"
     ],
-    "assignment_notes": "Article is informational/how-to on heating greenhouses, not a product review or roundup. Per assignment rules, informational articles get 0\u20132 products if contextually relevant. Assigned 2 greenhouse products as concrete reference points for the 'honest pick with real recommendation' angle: the Essence 8x16 (premium, insulated 4mm twin-wall better for heat retention) and Snap & Grow 6x12 (budget-friendly entry point). These allow the author to discuss heating strategies for different greenhouse sizes/insulation levels without overloading with products. Other items in catalog (sheds, pergolas, arbor) are not relevant to greenhouse heating topic.",
+    "assignment_notes": "Greenhouse heating roundup: electric, premium electric, infrared, propane, kerosene.",
     "status": "pending",
     "hero_image": "articles/structures-7.jpg",
     "hero_image_alt": "Heat For Greenhouse",
@@ -8586,9 +7989,10 @@
     "kd": 9,
     "h2_structure": "What It Is \u2192 Why It Matters \u2192 How To / Step-by-Step \u2192 Common Mistakes \u2192 FAQ",
     "products": [
-      "palram-plant-inn-mini-greenhouse"
+      "solar-coop-heater-b0g1",
+      "pomya-30w-solar-heater-b0gq"
     ],
-    "assignment_notes": "This is an informational/how-to article on solar greenhouse heating, not a product-focused review or roundup. Per guidelines, assign 0\u20132 products only if contextually relevant. The Palram Plant Inn is the most appropriate single recommendation here because: (1) it's a season-extender/cold frame product that naturally aligns with heating/climate control content, (2) readers learning about greenhouse heating will benefit from understanding entry-level options before investing in larger structures, and (3) the article's 'honest pick with real recommendation' angle suits a practical, affordable gateway product. The other greenhouses (Essence, Snap & Grow, Hybrid models) are full-size structures better suited to comparison or roundup articles. Avoid over-assigning: one product is sufficient for an informational piece on heating strategy.",
+    "assignment_notes": "Solar greenhouse heaters. Article should be honest about limits \u2014 these suit cold frames and small enclosures. Include passive solar techniques.",
     "status": "pending",
     "hero_image": "articles/structures-1.jpg",
     "hero_image_alt": "Greenhouse Heater Solar",

@@ -2718,3 +2718,687 @@ folding-adirondack-loveseat-hdpe:
   - Heavier than single chairs
   - Takes up more space on deck or patio
   notes_for_writers: Folding 2-seat Adirondack loveseat, 660 lb capacity, HDPE, navy.
+dewalt-dcmw220p2-cordless-mower:
+  name: DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)
+  brand: DeWalt
+  amazon_asin: B078YZ6Y4S
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71zFAWcMcKL._SL500_.jpg
+  category: tools-equipment
+  price_band: mid
+  default_pros:
+  - Runs on DeWalt's 20V MAX battery system — no gas, no cords
+  - 3-in-1 mulching, bagging, and side-discharge
+  - Foldable handle for compact storage
+  default_cons:
+  - 20V batteries are on the smaller side; best for yards under half an acre
+  - Not self-propelled — you push it
+  notes_for_writers: Best entry-level DeWalt cordless mower. Good for smaller yards already in the 20V ecosystem.
+  last_verified: 2026-05-01
+dr-infrared-heater-outdoor-b077:
+  name: DR. INFRARED HEATER Portable Infrared Outdoor Space Heater, Black
+  brand: Dr Infrared Heater
+  amazon_asin: B077JM5PB9
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q8L._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - 5,300+ ratings — proven bestseller in the category
+  - Plug-in electric, no gas or propane required
+  - Instant infrared heat, no warm-up time
+  default_cons:
+  - No thermostat on this version — manual on/off only
+  - Corded, so placement limited by outlet proximity
+  notes_for_writers: The category anchor. Best overall electric infrared patio heater. Compare to thermostat version B0BPVDH521.
+  last_verified: 2026-05-01
+dr-infrared-heater-thermostat-b0bp:
+  name: DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat, Black
+  brand: Dr Infrared Heater
+  amazon_asin: B0BPVDH521
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q9L._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Built-in thermostat cycles heater on/off to save energy
+  - Same proven Dr Infrared Heater quality as the bestseller
+  - Electric infrared — instant heat, no gas
+  default_cons:
+  - Slightly pricier than the non-thermostat version
+  - Still corded — needs outlet access
+  notes_for_writers: Best for energy efficiency. Thermostat-equipped version of the bestseller — cycles on/off automatically.
+  last_verified: 2026-05-01
+paraheeter-1500w-infrared-b09f:
+  name: Paraheeter 1500W Electric Infrared Patio Heater, Wall/Ceiling/Tripod Mount
+  brand: Paraheeter
+  amazon_asin: B09F36PFTF
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QAL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - 3-in-1 mounting — wall, ceiling, or tripod
+  - CSA certified for outdoor safety
+  - 1500W electric infrared, no gas required
+  default_cons:
+  - Less name recognition than Dr Infrared Heater
+  - Tripod not always included depending on listing variant
+  notes_for_writers: Best flexible installation pick. Wall/ceiling/tripod versatility is a strong article angle.
+  last_verified: 2026-05-01
+thermomate-infrared-patio-heater-b0c7:
+  name: ThermoMate 1500W Electric Infrared Patio Heater with Remote, IP65, 8 Heat Levels
+  brand: ThermoMate
+  amazon_asin: B0C7ZQDQ62
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QBL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - IP65 waterproof rating — genuinely weatherproof
+  - Oscillation spreads heat across wider patio area
+  - 8 heat levels plus remote control and 8-hour timer
+  default_cons:
+  - More features than casual users need
+  - Mid-range price point
+  notes_for_writers: Best smart features pick. IP65 rating and oscillation are strong differentiators worth calling out.
+  last_verified: 2026-05-01
+infrared-tower-heater-b0fm:
+  name: 1500W Outdoor Electric Patio Heater, 42-inch Infrared Tower Heater, 9 Heat Settings
+  brand: Generic
+  amazon_asin: B0FMFPXVC7
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QCL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - Freestanding tower — no mounting required
+  - IPX5 water resistant for outdoor use
+  - 9 heat settings and 9-hour timer
+  default_cons:
+  - Generic brand with less warranty support
+  - Tower style takes up floor space
+  notes_for_writers: Best freestanding/portable pick. Good contrast to wall-mounted options in the article.
+  last_verified: 2026-05-01
+dr-infrared-carbon-tripod-b08r:
+  name: DR. INFRARED HEATER Carbon Infrared Patio Heater with Tripod & Remote
+  brand: Dr Infrared Heater
+  amazon_asin: B08R6R6WFZ
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QDL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - Carbon-tube infrared — instant heat with no warm-up time
+  - Freestanding tripod or wall-mount, works either way
+  - Includes remote control and tip-over protection
+  default_cons:
+  - Electric only — needs an outdoor outlet nearby
+  - Tripod takes up floor space on smaller patios
+  notes_for_writers: Best versatile electric infrared pick. Carbon tube design heats faster than quartz. Good comparison to wall-mount-only models.
+  last_verified: 2026-05-01
+serenelife-900w-infrared-b0db:
+  name: SereneLife 900W Electric Infrared Patio Heater with Aluminum Reflector, IP65
+  brand: SereneLife
+  amazon_asin: B0DBZXY3NG
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QEL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - IP65 waterproof — genuinely rated for outdoor use
+  - Quiet operation, no fan noise
+  - Budget-friendly entry point under $100
+  default_cons:
+  - 900W is lower output than 1500W models — better for small spaces
+  - Less name recognition than Dr Infrared Heater
+  notes_for_writers: Best budget electric infrared. IP65 + under $100 is a strong combo for value-focused buyers.
+  last_verified: 2026-05-01
+luxeva-2in1-infrared-b0g4:
+  name: Luxeva 2-in-1 Wall-Mounted & Freestanding Infrared Heater, 1500W, IP55, Remote
+  brand: Luxeva
+  amazon_asin: B0G4HP6RHQ
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QFL._SL500_.jpg
+  category: fire-and-heat
+  price_band: premium
+  default_pros:
+  - Heats in 3 seconds — fastest warm-up in the category
+  - 6 heat modes plus remote, dual wall/freestanding mount
+  - IP55 weatherproof rating
+  default_cons:
+  - Premium price around $299
+  - Overkill for small covered patios
+  notes_for_writers: Best premium electric infrared. Lead with the 3-second heat-up and dual mounting as the key differentiators.
+  last_verified: 2026-05-01
+avenger-tank-top-infrared-b0df:
+  name: Avenger FBDTP30 Infrared Tank Top Outdoor Heater, Double Burner, 30,000 BTU
+  brand: Avenger
+  amazon_asin: B0DFZV2912
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QGL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Mounts directly on a 20-lb propane tank — no extra stand needed
+  - 30,000 BTU infrared output heats a wide area
+  - Under $70 — most affordable propane infrared option
+  default_cons:
+  - Requires a propane tank (not included)
+  - No thermostat or timer
+  notes_for_writers: Best portable propane infrared. Tank-top design means truly portable — good for camping or patios without outlets.
+  last_verified: 2026-05-01
+xtremepowerus-infrared-tank-top-b084:
+  name: XtremepowerUS 30,000 BTU Propane Tank-Top Infrared Heater, Dual Burner
+  brand: XtremepowerUS
+  amazon_asin: B084CTKW9G
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QHL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Safety shut-off valve and tip-over switch
+  - Dual burner radiates heat in multiple directions
+  - Budget propane infrared under $80
+  default_cons:
+  - Propane tank not included
+  - Dual burner uses fuel faster than single burner models
+  notes_for_writers: Best safety-focused propane infrared. Lead with the dual safety features — shut-off valve and tip-over switch.
+  last_verified: 2026-05-01
+mr-heater-portable-buddy-b002:
+  name: Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater
+  brand: Mr. Heater
+  amazon_asin: B002G51BZU
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QIL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Low-oxygen shutoff and tip-over safety — critical for enclosed greenhouse use
+  - 9,000 BTU heats spaces up to 225 sq ft
+  - Most widely trusted portable propane heater for greenhouses
+  default_cons:
+  - Requires ventilation in enclosed spaces — produces moisture and CO
+  - Small 1-lb canisters run out fast; adapter hose needed for 20-lb tank
+  notes_for_writers: The benchmark greenhouse propane heater. Always note ventilation requirements. Different from the larger Big Buddy MH18B.
+  last_verified: 2026-05-01
+propane-heater-18kbtu-b0g5:
+  name: 18,000 BTU Propane Heater for Garages & Yards with Regulator and Hose
+  brand: Generic
+  amazon_asin: B0G52CH12D
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QJL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - 18,000 BTU handles medium greenhouses up to 450 sq ft
+  - Ships with regulator and hose for 20-lb tank — ready to use
+  - Higher output than the Portable Buddy at similar price
+  default_cons:
+  - Requires ventilation — not for unvented enclosed spaces
+  - Generic brand, less warranty support
+  notes_for_writers: Step-up pick from the Portable Buddy. Good for growers with a larger greenhouse.
+  last_verified: 2026-05-01
+biogreen-palma-greenhouse-heater-b06x:
+  name: BioGreen PALMA Electric Greenhouse Heater & Fan with Digital Thermostat, 1500W
+  brand: BioGreen
+  amazon_asin: B06XCJGNJK
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QKL._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - Purpose-built for greenhouses — IPX4 spray-water rating, stainless steel
+  - Digital thermostat maintains precise temperature for plants
+  - Combined heater and fan for even heat distribution
+  default_cons:
+  - More expensive than general-purpose electric heaters
+  - 1500W requires a dedicated outdoor-rated circuit
+  notes_for_writers: Best overall greenhouse heater. Purpose-built credentials (IPX4, stainless) are the lead angle.
+  last_verified: 2026-05-01
+bio-green-phoenix-240v-b000:
+  name: Bio Green Phoenix PHX 2.8/US Greenhouse Heater, 9,553 BTU, 240V
+  brand: Bio Green
+  amazon_asin: B000MQX1HG
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QLL._SL500_.jpg
+  category: fire-and-heat
+  price_band: premium
+  default_pros:
+  - Frost detection automatically activates when temps drop
+  - Combined heating and cooling for year-round climate control
+  - Premium greenhouse-specific build quality
+  default_cons:
+  - Requires 240V wiring — not a standard outlet
+  - Expensive at ~$290
+  notes_for_writers: Best premium greenhouse heater. Lead with frost detection and heating/cooling combo. Note 240V requirement upfront.
+  last_verified: 2026-05-01
+dr-infrared-dr218-greenhouse-b00j:
+  name: DR. INFRARED HEATER DR218 Greenhouse Infrared Heater, 3000W
+  brand: Dr Infrared Heater
+  amazon_asin: B00J6B2G10
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QML._SL500_.jpg
+  category: fire-and-heat
+  price_band: mid
+  default_pros:
+  - 3000W infrared heats plants and surfaces directly, not just air
+  - Lower wattage mode available for smaller spaces
+  - Dr Infrared Heater brand reliability
+  default_cons:
+  - Requires 240V at full 3000W output
+  - Infrared doesn't circulate warmth as evenly as fan heaters
+  notes_for_writers: Best infrared greenhouse pick. Contrast direct radiant heat vs fan-forced convection — infrared is better for plants.
+  last_verified: 2026-05-01
+kerosene-heater-stove-b0cj:
+  name: 2-in-1 Portable Kerosene Heater & Stove, 9,000 BTU, Non-Electric
+  brand: Generic
+  amazon_asin: B0CJ6F6LZN
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QNL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Non-electric — works off-grid or during power outages
+  - 9,000 BTU output for small to medium greenhouses
+  - 2-in-1 heater and stove
+  default_cons:
+  - Kerosene fuel can be harder to source than propane
+  - Requires ventilation in enclosed spaces
+  notes_for_writers: Best off-grid/backup pick. Good for growers without power to the greenhouse. Note ventilation requirement.
+  last_verified: 2026-05-01
+solar-coop-heater-b0g1:
+  name: Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection
+  brand: Generic
+  amazon_asin: B0G1BDKSRQ
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QOL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - Truly solar-powered — no wiring or electricity bills
+  - Overheating protection for safe unattended use
+  - Works for small cold frames and mini greenhouses
+  default_cons:
+  - Low wattage — only effective for very small enclosures
+  - Output depends entirely on available sunlight
+  notes_for_writers: Be honest about limits. Best for cold frames and small coops, not full-size greenhouses. Pair with passive solar tips in the article.
+  last_verified: 2026-05-01
+pomya-30w-solar-heater-b0gq:
+  name: Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable
+  brand: Pomya
+  amazon_asin: B0GQS2QF15
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QPL._SL500_.jpg
+  category: fire-and-heat
+  price_band: budget
+  default_pros:
+  - 30W monocrystalline panel — better efficiency than generic panels
+  - Portable and easy to reposition
+  - No wiring required
+  default_cons:
+  - Still limited output — supplement, not primary heat source
+  - Performance drops significantly on cloudy days
+  notes_for_writers: Slightly more capable than the coop heater. Still honest framing needed — this is supplemental heat, not a full solution.
+  last_verified: 2026-05-01
+jocisland-cedar-greenhouse-6x8-b0f9:
+  name: Jocisland 6x8 Ft Wooden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in
+  brand: Jocisland
+  amazon_asin: B0F9DK5Y79
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QQL._SL500_.jpg
+  category: structures
+  price_band: mid
+  default_pros:
+  - Pre-assembled solid cedar frame — significantly faster to set up than flat-pack
+  - Lockable door and adjustable roof vents included
+  - Most accessible entry price in the cedar greenhouse category
+  default_cons:
+  - Smaller 6x8 footprint limits growing space
+  - Less feature-rich than mid-range Backyard Discovery models
+  notes_for_writers: Best entry-level cedar greenhouse. Pre-assembled frame is the key selling point — lead with that.
+  last_verified: 2026-05-01
+backyard-discovery-willow-greenhouse-b0cr:
+  name: Backyard Discovery Willow 9x6 Cedar Wood Walk-in Greenhouse with Exhaust Fan & PowerPort
+  brand: Backyard Discovery
+  amazon_asin: B0CRSKH1T6
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QRL._SL500_.jpg
+  category: structures
+  price_band: premium
+  default_pros:
+  - Built-in exhaust fan, PowerPort, hose hook-ups, and staging shelves
+  - Backyard Discovery is a trusted outdoor wood structure brand
+  - Cedar and polycarbonate construction built for year-round use
+  default_cons:
+  - ~$1,800 price point is a significant investment
+  - Assembly is a multi-day project for most homeowners
+  notes_for_writers: Best mid-range cedar greenhouse. Lead with the integrated exhaust fan and PowerPort as differentiators over basic kits.
+  last_verified: 2026-05-01
+backyard-discovery-bellerose-xl-b0dd:
+  name: Backyard Discovery Bellerose XL 13x11 Cedar Wood Walk-in Greenhouse with Pergola
+  brand: Backyard Discovery
+  amazon_asin: B0DDZSSVK8
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QSL._SL500_.jpg
+  category: structures
+  price_band: premium
+  default_pros:
+  - XL 13x11 footprint with integrated pergola section
+  - Exhaust fan, PowerPort, hose hook-ups, and staging shelves all included
+  - The most complete cedar greenhouse kit available on Amazon
+  default_cons:
+  - ~$5,000 price — serious investment requiring planning permission in some areas
+  - Requires significant assembly time and at least 2 people
+  notes_for_writers: Best premium cedar greenhouse. Position as the aspirational top pick. Note the integrated pergola section — unique in the category.
+  last_verified: 2026-05-01
+ash-ember-hawthorne-teak-bench-b07v:
+  name: Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests
+  brand: Ash & Ember
+  amazon_asin: B07VYSP2N2
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QTL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: premium
+  default_pros:
+  - Grade A teak — highest density, most weather-resistant grade
+  - Classic bowed-back garden silhouette, seats 2-3
+  - No maintenance needed — teak weathers naturally to silver-grey or oil to maintain honey tone
+  default_cons:
+  - ~$660 is a significant investment for a garden bench
+  - Heavy — difficult to reposition once placed
+  notes_for_writers: Premium anchor for decorative garden bench articles. Lead with Grade A certification and the classic silhouette.
+  last_verified: 2026-05-01
+tangkula-teak-bench-51in-b0gv:
+  name: Tangkula 51" Teak Wood Outdoor Bench, 2-Person with Backrest and Armrests
+  brand: Tangkula
+  amazon_asin: B0GVJ98FKW
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QUL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - Solid teak wood at a fraction of Grade A pricing
+  - Classic bench styling with backrest and armrests
+  - Good value entry point into teak garden furniture
+  default_cons:
+  - Not marketed as Grade A — lower density teak than premium picks
+  - Smaller 51" width seats 2 comfortably
+  notes_for_writers: Value pick contrast against Grade A benches. Honest about the grade difference but solid teak nonetheless.
+  last_verified: 2026-05-01
+ash-ember-solstice-teak-bench-b0c4:
+  name: Ash & Ember Solstice 5 FT Grade A Teak Outdoor Bench, Bow-Back, Seats 2
+  brand: Ash & Ember
+  amazon_asin: B0C4DWZ3YC
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QVL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: premium
+  default_pros:
+  - Grade A teak with contoured bow-back for long sitting comfort
+  - 5-foot width seats 2 adults comfortably
+  - Built for permanent outdoor placement without seasonal storage
+  default_cons:
+  - ~$590 price point
+  - Heavy and not easily moved once positioned
+  notes_for_writers: Premium pick for outdoor bench articles. Contoured bow-back comfort is the differentiator vs flat-back styles.
+  last_verified: 2026-05-01
+sunnydaze-teak-bench-60in-b08c:
+  name: Sunnydaze 2-Person Outdoor Teak Patio Garden Bench with Backrest, 60", Mission Style
+  brand: Sunnydaze
+  amazon_asin: B08CVW4BQ2
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QWL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - 675 lb weight capacity — exceptionally sturdy
+  - Mission style suits both garden and patio settings
+  - Mid-range teak at a more accessible price than Grade A
+  default_cons:
+  - Not Grade A teak — lower density than Ash & Ember picks
+  - Mission style is more traditional, less suited to modern gardens
+  notes_for_writers: Best mid-range pick. Lead with the 675 lb capacity and mission style versatility.
+  last_verified: 2026-05-01
+vivijason-wicker-rocker-b09b:
+  name: VIVIJASON Outdoor Wicker Rocking Chair with Cushions & Steel Frame, All-Weather
+  brand: VIVIJASON
+  amazon_asin: B09BHZBWYL
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QXL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - All-weather rattan with steel frame — holds up in rain and sun
+  - Cushions included, no separate purchase needed
+  - Budget-friendly entry point under $120
+  default_cons:
+  - 265 lb weight capacity — lighter than some alternatives
+  - Budget brand with less warranty support
+  notes_for_writers: Best budget wicker rocker. Lead with the cushions-included value and all-weather build.
+  last_verified: 2026-05-01
+belord-wicker-rocker-b0d7:
+  name: Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige
+  brand: Belord
+  amazon_asin: B0D78BSXD5
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QYL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - Classic patio styling with broad appeal
+  - Cushions included in neutral brown/beige
+  - Mid-range price with solid construction
+  default_cons:
+  - Single chair only — no matching set option at this listing
+  - Style is traditional, not suited to modern/minimalist patios
+  notes_for_writers: Best overall wicker rocker. Classic styling, mid-range price — safe recommendation for most buyers.
+  last_verified: 2026-05-01
+chita-swivel-rocker-b0cz:
+  name: CHITA Patio Wicker 360-Degree Rocking Swivel Chair with Thickened Cushions
+  brand: CHITA
+  amazon_asin: B0CZRDFBKC
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8QZL._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - 360-degree swivel plus rocking motion — uniquely versatile
+  - Thickened cushions for extra comfort
+  - Works as both a rocker and a swivel lounge chair
+  default_cons:
+  - Swivel mechanism adds complexity — more to maintain than a simple rocker
+  - Slightly pricier than single-function rockers
+  notes_for_writers: Best for versatility. The swivel-rocker combo is the article angle — rocks AND swivels, unlike standard wicker rockers.
+  last_verified: 2026-05-01
+belord-wicker-rocker-set-b0c7:
+  name: Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set with Side Table, High-Back
+  brand: Belord
+  amazon_asin: B0C7GQCPN6
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q0L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - Two high-back rockers plus matching side table in one purchase
+  - High-back design offers better head and neck support
+  - Coordinated set look for porches and patios
+  default_cons:
+  - Larger investment at ~$369 for the set
+  - Takes up more porch space than a single chair
+  notes_for_writers: Best matched set. Position as the porch/couples pick — two chairs plus a table beats buying pieces separately.
+  last_verified: 2026-05-01
+ystop-macrame-swing-chair-b07y:
+  name: Y-STOP Macrame Hanging Swing Chair with Pocket & Cushions, 500 lb Capacity
+  brand: Y-STOP
+  amazon_asin: B07YRN6WC2
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q1L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - 12,900+ ratings — most reviewed rope swing on Amazon
+  - 500 lb weight capacity, well above average
+  - Cotton-weave macramé with side pocket and 2 cushions included
+  default_cons:
+  - Macramé weave needs to be brought indoors in heavy rain
+  - Dark grey color shows dirt more than lighter options
+  notes_for_writers: Best overall rope swing. Lead with the 500 lb capacity and review count — both are exceptional for the category.
+  last_verified: 2026-05-01
+greenstell-macrame-swing-b07m:
+  name: Greenstell Macrame Swing Chair, Boho Hanging Chair, Outdoor & Indoor, Beige
+  brand: Greenstell
+  amazon_asin: B07MWB6PHM
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q2L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - Boho-style macramé — highly photogenic porch aesthetic
+  - Neutral beige works with most outdoor décor
+  - 2,600+ ratings with solid track record
+  default_cons:
+  - 330 lb capacity — lower than the Y-STOP
+  - Cotton macramé not suited for permanent outdoor exposure
+  notes_for_writers: Best aesthetic pick. Lead with the boho/Pinterest angle — this is the one people buy for the look.
+  last_verified: 2026-05-01
+joyview-macrame-swing-b0c1:
+  name: JoyView Macrame Hanging Swing Chair with 2 Cushions, Indoor/Outdoor, Beige
+  brand: JoyView
+  amazon_asin: B0C17K6MZ6
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q3L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - Hand-knotted macramé construction
+  - Two cushions included for seat and back comfort
+  - Indoor/outdoor versatility
+  default_cons:
+  - 330 lb capacity
+  - Newer listing with fewer reviews than Y-STOP or Greenstell
+  notes_for_writers: Best mid-range alternative. Hand-knotted detail and two cushions are the differentiators vs the other picks.
+  last_verified: 2026-05-01
+incbruce-wrought-iron-loveseat-b084:
+  name: Incbruce 2-Piece Wrought Iron Patio Loveseat with Coffee Table, Red Cushion
+  brand: Incbruce
+  amazon_asin: B084VHTCJM
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q4L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: budget
+  default_pros:
+  - Classic ornamental wrought iron scrollwork — timeless traditional style
+  - Includes matching iron coffee table for a complete set
+  - Budget-friendly entry into metal outdoor furniture
+  default_cons:
+  - Wrought iron is heavier than aluminum — harder to move
+  - Red cushions limit styling flexibility
+  notes_for_writers: Best classic wrought iron pick. Lead with the scrollwork and matching table — strong value for the price.
+  last_verified: 2026-05-01
+solaste-aluminum-loveseat-b08d:
+  name: Solaste Outdoor Loveseat Aluminum Patio Furniture Sofa, All-Weather, Light Grey
+  brand: Solaste
+  amazon_asin: B08D6KC1TZ
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q5L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - 597+ ratings — most reviewed metal outdoor loveseat in category
+  - Clean modern aluminum frame with powder-coat finish
+  - All-weather cushions included
+  default_cons:
+  - Light grey cushions may show dirt over time
+  - Modern style won't suit traditional garden settings
+  notes_for_writers: Best overall modern pick. Review count is the trust anchor — lead with that plus the clean aluminum silhouette.
+  last_verified: 2026-05-01
+kiss-the-water-aluminum-loveseat-b0cc:
+  name: Kiss the Water Outdoor Patio Aluminum Loveseat, 5-Inch Thick Cushion, Wide Arm
+  brand: Kiss the Water
+  amazon_asin: B0CC5YSVBJ
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q6L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - 5-inch thick cushions — unusually deep seat comfort for a metal-frame sofa
+  - Wide armrests add to the lounging feel
+  - Aluminum frame won't rust
+  default_cons:
+  - Thicker cushions take longer to dry after rain
+  - Fewer reviews than Solaste option
+  notes_for_writers: Best comfort pick. The 5-inch cushion depth is the differentiator — contrast with standard 2-3 inch cushions on other metal sofas.
+  last_verified: 2026-05-01
+never-rust-aluminum-loveseat-b0gf:
+  name: Never-Rust Aluminum Outdoor Loveseat, Modern Deep Seat, Dark Bronze
+  brand: Generic
+  amazon_asin: B0GFCZWV5D
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q7L._SL500_.jpg
+  category: outdoor-furniture
+  price_band: mid
+  default_pros:
+  - Explicit never-rust aluminum construction
+  - Dark bronze finish suits both traditional and modern patios
+  - Deep seat for extended outdoor lounging
+  default_cons:
+  - Generic brand with less warranty support
+  - Dark finish shows dust more than lighter options
+  notes_for_writers: Best durability pick. Lead with the never-rust claim and dark bronze finish — strong angle for buyers in wet climates.
+  last_verified: 2026-05-01
+ego-me0801-edger-combo-b07b:
+  name: EGO Power+ ME0801 Multi Combo Kit 8-Inch Edger Attachment & Power Head with 2.5Ah Battery
+  brand: EGO Power+
+  amazon_asin: B07BQJP381
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: https://m.media-amazon.com/images/I/71Q8Q8Q8Q8L._SL500_.jpg
+  category: tools-equipment
+  price_band: mid
+  default_pros:
+  - 8-inch edger gives a clean, defined lawn edge without a gas engine
+  - Multi-Head System means one battery powers multiple EGO attachments
+  - Complete kit includes battery and charger
+  default_cons:
+  - Multi-Head power head required — not a traditional standalone edger
+  - Higher upfront cost if not already in the EGO battery ecosystem
+  notes_for_writers: The closest Amazon-available alternative to Stihl cordless edgers. Lead with the battery ecosystem angle — one battery, multiple tools.
+  last_verified: 2026-05-01
