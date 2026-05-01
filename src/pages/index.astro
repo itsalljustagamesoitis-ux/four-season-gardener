@@ -8,6 +8,7 @@ const persona = getPersona()
 const nav = getNav()
 const articles = await getCollection('articles')
 const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+const featured = sorted.slice(0, 12)
 ---
 
 <BaseLayout
@@ -27,7 +28,7 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
 
       {sorted.length > 0 ? (
         <div class="article-grid">
-          {sorted.map(article => (
+          {featured.map(article => (
             <a href={`/${article.data.slug}/`} class="article-card">
               <img
                 src={`${cfg.images.base_url}/${article.data.hero_image}`}
@@ -46,6 +47,11 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
             </a>
           ))}
         </div>
+        {sorted.length > 12 && (
+          <div class="home-view-all">
+            <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
+          </div>
+        )}
       ) : (
         <p style="color:var(--color-text-muted); font-style:italic; margin-top:2rem;">
           Reviews coming soon.
@@ -112,6 +118,8 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
     padding: 2.5rem 1.25rem 4rem;
     align-items: start;
   }
+
+  .home-view-all { margin-top: 2rem; text-align: center; }
 
   .home-intro { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid var(--color-border); }
   .home-intro__title { font-size: clamp(1.5rem, 3vw, 2rem); margin-bottom: 0.75rem; }
