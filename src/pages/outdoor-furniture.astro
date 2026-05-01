@@ -1,34 +1,23 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { getSiteConfig, getNav } from '../lib/config'
+import { getSiteConfig } from '../lib/config'
 
 const cfg = getSiteConfig()
-const nav = getNav()
-const cat = nav.categories.find(c => c.slug === 'outdoor-furniture')!
 const all = await getCollection('articles')
-const articles = all.filter(a => a.data.category === 'Outdoor Furniture')
+const articles = all.filter(a => a.data.hub === 'outdoor-furniture')
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
 ---
 
 <BaseLayout
   title={`Outdoor Furniture Reviews — ${cfg.site.brand_name}`}
-  description="Tested reviews of garden benches, Adirondack chairs, teak sets, and all-weather outdoor furniture."
+  description="Tested reviews of Adirondack chairs, teak dining sets, Polywood furniture, and all-weather outdoor pieces."
 >
   <div class="container" style="padding-top:2rem; padding-bottom:4rem;">
     <div class="category-hero">
-      <p class="category-hero__label">Category</p>
+      <p class="category-hero__label">Hub</p>
       <h1 class="category-hero__title">Outdoor Furniture</h1>
-      <p class="category-hero__desc">Teak sets, Adirondack chairs, benches, and all-weather pieces that survive a New England winter. Browse by type or see all reviews below.</p>
-    </div>
-
-    <div class="hub-grid">
-      {cat.hubs.map(hub => (
-        <a href={`/${hub.slug}/`} class="hub-card">
-          <span class="hub-card__label">{hub.label}</span>
-          <span class="hub-card__arrow">→</span>
-        </a>
-      ))}
+      <p class="category-hero__desc">Teak, Polywood, and Adirondack — tested pieces that earn their place in a real garden.</p>
     </div>
 
     {articles.length > 0 && (

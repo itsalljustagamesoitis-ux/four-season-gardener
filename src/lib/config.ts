@@ -81,6 +81,7 @@ export type ProductDatabase = Record<string, ProductRecord>
 export interface NavHub {
   label: string
   slug: string
+  description?: string
 }
 
 export interface NavCategory {

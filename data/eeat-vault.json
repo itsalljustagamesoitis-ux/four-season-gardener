@@ -1,0 +1,516 @@
+{
+  "persona": "wendy-hartley",
+  "last_updated": "2026-04-30",
+
+  "garden_specifics": {
+    "property": "12 acres total in Litchfield Hills, Connecticut. About 2 acres actively managed — two large lawns (front and back), four raised beds on a south-facing slope behind the house, a kitchen garden enclosed by deer fencing, a pergola with a gravel seating area, and a detached two-car garage with a potting bench along one wall.",
+    "climate": "Zone 6a. Last frost typically around May 10th, occasionally later. First hard frost in mid-October most years — 2022 was October 4th which cost me the last of the tomatoes. Snow is serious here. The winter of 2020-21 we had 68 inches total. Soil is classic Litchfield Hills: rocky, well-drained, slightly acidic. The back slope gets waterlogged in spring before the ground fully thaws.",
+    "trees": "Mostly mature oaks and sugar maples. Leaf fall is the dominant autumn task — I can fill 40 bags in a single weekend if I ignore it for two weeks. The oaks hold their leaves until November which stretches the season uncomfortably.",
+    "deer": "Serious deer pressure. The kitchen garden has had a 7-foot fence since 2016. Before that I lost entire crops. They took out a row of young arborvitae in winter 2014 — ate them to stubs.",
+    "commute_context": "I commuted to Manhattan for 28 years, mostly Grand Central to Midtown. The garden was always the thing I was coming home to. Now I consult two days a week from home and have genuinely learned what the garden needs if you're actually present for it.",
+    "garden_history": "Started gardening seriously in 1997 when we bought this property. First decade was mostly trial and error, mostly error. Got serious about raised beds in 2011. Rebuilt the whole kitchen garden layout in 2015. Built the pergola with my husband in 2018 — a project that took twice as long as planned and taught me a lot about reading instructions.",
+    "husband": "Married to David, retired civil engineer. He builds things properly and slowly. I buy things that should not need building.",
+    "current_setup": "Four 4x8 Vego Garden metal raised beds (replaced cedar in 2022), the kitchen garden with deer fencing and a drip system on a Rachio controller, a Solo Stove Bonfire on the gravel terrace, a POLYWOOD sectional, the pergola with string lights, and a shed that is never organised for more than three weeks at a time."
+  },
+
+  "product_experiences": [
+    {
+      "cluster": "raised-beds",
+      "year": 2011,
+      "product": "Cedar raised beds, self-built from rough-cut lumber",
+      "experience": "Built four beds from rough-cut cedar from a local mill in 2011. They were beautiful. By 2016 the boards had gone silver-grey and two of the corners had softened enough that a firm push would flex them. I oiled them every other year with linseed oil which slowed the weathering but didn't stop it. Replaced in 2022.",
+      "tags": ["raised-beds", "cedar", "longevity", "maintenance"]
+    },
+    {
+      "cluster": "raised-beds",
+      "year": 2022,
+      "product": "Vego Garden 17-inch metal raised beds",
+      "experience": "Switched to Vego Garden in spring 2022 after the cedar finally gave out. Four 6-in-1 beds configured in an L-shape on the slope. The 17-inch depth was the reason I chose them over cheaper options — I grow carrots and the previous 10-inch beds always gave me short stumpy results. First season the soil stayed noticeably warmer longer into autumn. I was still harvesting kale in late November.",
+      "tags": ["raised-beds", "metal", "depth", "vego", "soil-temperature"]
+    },
+    {
+      "cluster": "raised-beds",
+      "year": 2019,
+      "product": "Cheap galvanised raised bed kit, Amazon",
+      "experience": "Bought a third-party galvanised kit for the side garden in 2019. By the second summer rust was leaching through the soil and staining the stones around the base. The corner brackets bent on assembly. I removed it in 2021. Not worth the saving.",
+      "failure": true,
+      "tags": ["raised-beds", "galvanised", "rust", "failure", "cheap"]
+    },
+    {
+      "cluster": "irrigation",
+      "year": 2020,
+      "product": "Rachio 3 smart controller",
+      "experience": "Installed a Rachio 3 on the raised bed drip system in 2020. The weather intelligence is the thing that actually works — it skipped watering 34 times in the first summer according to the app, every time it correctly predicted rain within 24 hours. I had been manually adjusting a basic timer for years before this. The setup took an afternoon but it was worth it.",
+      "tags": ["irrigation", "smart-controller", "rachio", "weather-intelligence"]
+    },
+    {
+      "cluster": "irrigation",
+      "year": 2016,
+      "product": "Basic mechanical hose timer",
+      "experience": "Used a cheap clockwork timer on the raised beds for four years. It worked but I was constantly adjusting it — too much water in a wet week, too little in a dry August. Also the mechanism wore out after two seasons and I replaced it twice. The third one I threw away when I installed the Rachio.",
+      "tags": ["irrigation", "timer", "mechanical", "unreliable"]
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "year": 2019,
+      "product": "POLYWOOD Classic Adirondack chairs, set of four",
+      "experience": "Bought four POLYWOOD Classic Adirondacks in slate grey in 2019 to replace wood chairs I was tired of maintaining. It is now 2024 and they look exactly the same. I hose them down twice a year. That is the entire maintenance programme. The only complaint is they are not particularly comfortable for long periods without a cushion.",
+      "tags": ["outdoor-furniture", "polywood", "adirondack", "maintenance-free", "durability"]
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "year": 2013,
+      "product": "Teak dining table and six chairs, mid-range brand",
+      "experience": "Bought a teak dining set in 2013, reasonably expensive. Oiled it the first two years religiously. Then life got busy and I didn't oil it in 2015 or 2016. By 2017 it had gone a deep silver-grey and two of the chairs had started to split at the joints where the wood had dried and contracted. Sold it in 2018 when we built the pergola. If you're going to buy teak you need to commit to the maintenance.",
+      "failure": true,
+      "tags": ["outdoor-furniture", "teak", "maintenance", "failure", "oiling"]
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "year": 2021,
+      "product": "POLYWOOD Nautical Trestle dining set",
+      "experience": "Replaced the teak set with a POLYWOOD Nautical trestle set in teak colour in 2021. Seats eight which is what we need for summer dinners. It has been through two Connecticut winters on the pergola without being moved and looks the same as the day it arrived. The teak-colour finish is not quite as warm as real wood but at five years I will take it.",
+      "tags": ["outdoor-furniture", "polywood", "dining", "durability", "winter-proof"]
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "year": 2016,
+      "product": "Wicker sectional from Home Depot, mid-range",
+      "experience": "Bought a wicker sectional in 2016 — resin wicker over an aluminium frame. The frame was fine. The wicker itself started to unravel at the corners in year three and by year four it looked terrible. The cushions went flat after one season. The whole thing went on the kerb in 2020.",
+      "failure": true,
+      "tags": ["outdoor-furniture", "wicker", "sectional", "failure", "cushions"]
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "year": 2023,
+      "product": "POLYWOOD Edge 6-piece sectional",
+      "experience": "After the wicker disaster I spent properly on a POLYWOOD sectional in 2023. More money than I wanted to spend. But the HDPE frame is immovable, the cushions are Sunbrella, and after two summers including one very wet July it still looks correct. The modular configuration let me rearrange it when we redid the pergola paving.",
+      "tags": ["outdoor-furniture", "polywood", "sectional", "sunbrella", "premium"]
+    },
+    {
+      "cluster": "battery-equipment",
+      "year": 2022,
+      "product": "EGO LM2135SP self-propelled mower",
+      "experience": "Switched from a Honda petrol mower to the EGO self-propelled in spring 2022. The Honda was 11 years old and I was tired of the annual service, the fuel storage, the pull-cord. The EGO handles our half-acre back lawn on a single charge with some battery left. It is quieter than I expected — I can mow at 7:30am without feeling like a bad neighbour. The only adjustment was mowing slightly more frequently because I'm not leaving it for three weeks anymore.",
+      "tags": ["battery-equipment", "ego", "lawn-mower", "cordless", "noise", "convenience"]
+    },
+    {
+      "cluster": "battery-equipment",
+      "year": 2020,
+      "product": "EGO CS1804 chainsaw",
+      "experience": "We had a large red maple limb come down in the 2020 ice storm — about 14 inches diameter. I borrowed a neighbour's petrol chainsaw and decided I needed my own. Bought the EGO CS1804 the following spring. I use it three or four times a year for storm cleanup and trimming. It handles everything I need it to. I am not running a logging operation.",
+      "tags": ["battery-equipment", "ego", "chainsaw", "storm-cleanup", "occasional-use"]
+    },
+    {
+      "cluster": "battery-equipment",
+      "year": 2023,
+      "product": "EGO LB6504 leaf blower",
+      "experience": "The leaf situation here requires proper equipment. I tried two cordless blowers before settling on the EGO LB6504 — the others (a 40V Greenworks and a Ryobi 18V) didn't have the CFM to move wet oak leaves. The EGO at 650 CFM actually does. Combined with the backpack EGO on the large lawn, the autumn cleanup is still two full days but it used to be three.",
+      "tags": ["battery-equipment", "ego", "leaf-blower", "leaves", "autumn", "cfm"]
+    },
+    {
+      "cluster": "battery-equipment",
+      "year": 2021,
+      "product": "Ryobi 18V string trimmer",
+      "experience": "Bought a Ryobi 18V string trimmer in 2021 thinking it would be fine for the borders. It was fine for light grass but whenever I hit anything established — thick grass along the fence line, overgrown edges — it bogged down noticeably. Sold it in 2022 and bought the EGO ST1521S which handles everything without complaint.",
+      "failure": true,
+      "tags": ["battery-equipment", "ryobi", "string-trimmer", "underpowered", "failure"]
+    },
+    {
+      "cluster": "battery-equipment",
+      "year": 2022,
+      "product": "EGO ST1521S string trimmer",
+      "experience": "The POWERLOAD system is the thing. I used to dread re-spooling trimmer line — it always took longer than the job itself. With the POWERLOAD cartridge I have not touched the spool in two seasons. The auto-feed works correctly. The carbon fibre shaft keeps the weight down for a 56V machine.",
+      "tags": ["battery-equipment", "ego", "string-trimmer", "powerload", "convenience"]
+    },
+    {
+      "cluster": "fire-and-heat",
+      "year": 2017,
+      "product": "Cheap steel bowl fire pit, Amazon",
+      "experience": "Bought a 30-inch steel bowl fire pit in 2017 for about $80. It rusted through at the base by the end of the second season. I should have bought a cover. I didn't. By spring 2019 there was a visible hole in the bowl. The lesson was either buy quality or buy a cover — not neither.",
+      "failure": true,
+      "tags": ["fire-and-heat", "fire-pit", "rust", "failure", "cheap", "cover"]
+    },
+    {
+      "cluster": "fire-and-heat",
+      "year": 2021,
+      "product": "Solo Stove Bonfire 2.0",
+      "experience": "Bought the Solo Stove Bonfire 2.0 in 2021 after seeing one at a neighbour's. The low smoke claim is real provided you use dry wood — I get seasoned hardwood from a farm two miles away. When I tried it with wood I'd split myself that autumn it smoked like a regular fire pit. The wood needs to be properly dry. Once I understood that it became my default autumn fire.",
+      "tags": ["fire-and-heat", "solo-stove", "smokeless", "dry-wood", "autumn"]
+    },
+    {
+      "cluster": "fire-and-heat",
+      "year": 2022,
+      "product": "Outland Living Series 403 propane fire table",
+      "experience": "Added the Outland fire table to the pergola area in 2022 for evenings when I don't want to manage a wood fire. The instant on/off and no ash is the genuine appeal. I use it mostly for a couple of hours on weekday evenings in September and October. The 50,000 BTU takes the edge off properly. A 20 lb propane tank lasts about eight sessions at moderate output.",
+      "tags": ["fire-and-heat", "propane", "fire-table", "convenience", "outland"]
+    },
+    {
+      "cluster": "fire-and-heat",
+      "year": 2019,
+      "product": "Hiland pyramid patio heater",
+      "experience": "Bought a Hiland pyramid heater for the back terrace in 2019. The glass tube cracked in the second winter — I had left it out during a freeze and thaw cycle and the glass couldn't take the thermal stress. My fault. Replacement glass tubes are available and not expensive but I resented having to buy one. It now lives in the garage between October and April.",
+      "tags": ["fire-and-heat", "patio-heater", "hiland", "glass-tube", "winter-storage"]
+    },
+    {
+      "cluster": "structures",
+      "year": 2018,
+      "product": "Yardistry cedar pergola, 10x12, self-built",
+      "experience": "David and I built the Yardistry 10x12 cedar pergola in summer 2018. It took three weekends not two as advertised. The pre-drilled, pre-cut system is genuinely helpful but 'pre-stained' means a light wash — we restained it properly ourselves before assembling. It has been through six Connecticut winters and shows age in a way that feels correct rather than deteriorated. I restain it every three years.",
+      "tags": ["structures", "pergola", "cedar", "yardistry", "diy", "self-build", "maintenance"]
+    },
+    {
+      "cluster": "structures",
+      "year": 2020,
+      "product": "Palram Canopia Snap & Grow 6x12 greenhouse",
+      "experience": "Bought a Palram 6x12 greenhouse in 2020 thinking I would get serious about seed starting. Assembly was a two-person job and took most of a Saturday. The issue was siting — I put it on the north side of the garage for aesthetic reasons and it didn't get enough light. Seed starting results were disappointing. I moved it in 2021 to a better position and the results improved substantially. Location matters more than the product.",
+      "tags": ["structures", "greenhouse", "palram", "light", "siting", "seed-starting"]
+    },
+    {
+      "cluster": "structures",
+      "year": 2015,
+      "product": "Arrow 10x8 steel shed",
+      "experience": "Bought an Arrow steel shed in 2015 for tool storage. It has been fine structurally but it sweats inside in humid summers and I have lost two bags of fertiliser to moisture damage. If I were doing it again I would buy a resin shed for the better ventilation or at minimum install the ventilation kit from day one.",
+      "tags": ["structures", "shed", "arrow", "condensation", "humidity", "ventilation"]
+    },
+    {
+      "cluster": "birds-wildlife",
+      "year": 2019,
+      "product": "Droll Yankees Yankee Flipper",
+      "experience": "The squirrel pressure here is extraordinary. I went through three basic feeders before buying the Yankee Flipper in 2019. The spinning deterrent works exactly as described. The first time a squirrel landed on the perch ring and spun off I watched it four times. It is the only squirrel-proof feeder I have owned that actually is.",
+      "tags": ["birds-wildlife", "bird-feeder", "squirrel-proof", "droll-yankees", "yankee-flipper"]
+    },
+    {
+      "cluster": "birds-wildlife",
+      "year": 2021,
+      "product": "Brome Squirrel Buster Plus",
+      "experience": "Added the Squirrel Buster Plus in 2021 as a secondary feeder. The passive weight-activated cage mechanism works without batteries which I prefer for a secondary feeder. I adjusted the weight sensitivity twice before it reliably excluded squirrels while still allowing cardinals. It takes some dialling in but once set it stays set.",
+      "tags": ["birds-wildlife", "bird-feeder", "squirrel-proof", "brome", "weight-sensitive"]
+    },
+    {
+      "cluster": "birds-wildlife",
+      "year": 2018,
+      "product": "First Nature hummingbird feeder",
+      "experience": "We get ruby-throated hummingbirds from late May to early September. I have used a First Nature 32oz feeder since 2018. The wide base unscrews completely for cleaning which matters because in July heat the nectar ferments in three or four days and a feeder you can't clean properly becomes a hazard. I clean it every four days in peak summer.",
+      "tags": ["birds-wildlife", "hummingbird", "first-nature", "cleaning", "nectar", "summer"]
+    },
+    {
+      "cluster": "birds-wildlife",
+      "year": 2016,
+      "product": "Motion-activated sprinkler for deer",
+      "experience": "Installed an Orbit Yard Enforcer on the kitchen garden approach path in 2016 before I put up the full fence. It worked well as a deterrent for about six weeks, then the deer adapted and started approaching from a different angle. Used it in conjunction with Liquid Fence after that. The fence is the real solution but the sprinkler buys time.",
+      "tags": ["birds-wildlife", "deer", "motion-sprinkler", "orbit", "deterrent"]
+    },
+    {
+      "cluster": "composting",
+      "year": 2014,
+      "product": "FCMP IM4000 tumbling composter",
+      "experience": "Bought the FCMP IM4000 in 2014. The dual chamber system is the right design for continuous composting — you fill one side while the other cures. I get finished compost in five to six weeks in summer. In autumn with the oak leaves it takes longer and I have to be deliberate about the carbon to nitrogen ratio. I still use it. Twelve years and the only issue was replacing a handle clip in year eight.",
+      "tags": ["composting", "fcmp", "tumbling-composter", "dual-chamber", "longevity"]
+    },
+    {
+      "cluster": "composting",
+      "year": 2017,
+      "product": "Worm Factory 360",
+      "experience": "Tried a Worm Factory 360 in the garage in 2017. The worm tea is genuinely excellent for potted plants. The problem was the temperature — our garage gets into the low 40s in winter and the worms slow dramatically. I lost a portion of the population one February when we had a cold snap. Moved the bin inside which my husband tolerated for about four months before requesting I find another solution.",
+      "failure": true,
+      "tags": ["composting", "worm-factory", "vermicomposting", "temperature", "winter", "garage"]
+    },
+    {
+      "cluster": "lawn-care",
+      "year": 2023,
+      "product": "Agri-Fab 45-0492 tow-behind lawn sweeper",
+      "experience": "Added the Agri-Fab tow-behind sweeper to handle the front lawn leaves — I pull it with a small riding mower. It covers the front lawn in four passes and fills the 28 cu ft hopper twice on a full leaf day. The brush pickup is not perfect on very wet leaves but for dry autumn days it is significantly faster than blowing and raking.",
+      "tags": ["lawn-care", "agri-fab", "leaf-sweeper", "tow-behind", "autumn", "efficiency"]
+    },
+    {
+      "cluster": "lawn-care",
+      "year": 2022,
+      "product": "Agri-Fab plug aerator",
+      "experience": "The back lawn was getting compacted after 20 years of foot traffic and the grass was thinning in patches. Had it plug-aerated professionally in 2021, then bought the Agri-Fab 45-0299 to do it myself in 2022. The difference in the lawn by the following spring was visible — the thin patches filled in. I now aerate every other autumn and overseed at the same time.",
+      "tags": ["lawn-care", "aeration", "agri-fab", "compaction", "overseeding"]
+    },
+    {
+      "cluster": "lighting",
+      "year": 2018,
+      "product": "Patio string lights on pergola",
+      "experience": "Strung Brightown G40 LED string lights across the pergola when we built it in 2018. They are still up and still working in 2024. The LED bulbs have not required a single replacement. I leave them up year round under a cover in winter. The 2700K warm white is the correct colour temperature for this — anything cooler looks clinical outdoors at night.",
+      "tags": ["lighting", "string-lights", "pergola", "led", "longevity", "colour-temperature"]
+    },
+    {
+      "cluster": "lighting",
+      "year": 2020,
+      "product": "Cheap solar pathway lights, pack of 12",
+      "experience": "Bought a pack of 12 cheap solar pathway lights in 2020. By the second summer six of them had failed — the rechargeable cells degraded faster than the plastic casing. The remaining six were inconsistent, some bright, some dim. Replaced them all with the VOLT low-voltage system in 2022 and have not thought about them since.",
+      "failure": true,
+      "tags": ["lighting", "solar", "pathway", "cheap", "failure", "battery-degradation"]
+    },
+    {
+      "cluster": "lighting",
+      "year": 2022,
+      "product": "VOLT landscape lighting system",
+      "experience": "Installed a VOLT low-voltage brass fixture system on the front approach in 2022 — eight spotlights and four path lights on a transformer with a timer. The brass fixtures look correct against the Connecticut stone wall. The transformer timer means I have never manually adjusted them. The only maintenance is occasionally repositioning a fixture the groundskeeper has clipped.",
+      "tags": ["lighting", "volt", "landscape-lighting", "brass", "low-voltage", "permanent"]
+    },
+    {
+      "cluster": "hand-tools",
+      "year": 2015,
+      "product": "FELCO 2 pruners",
+      "experience": "I have owned FELCO 2 pruners since 2015. I have replaced the blade once and the spring twice. The replacement parts are available and not expensive. I clean and oil them at the end of each season. They are the best tool investment I have made in the garden — nine years and they cut better than most new pruners I have borrowed.",
+      "tags": ["hand-tools", "felco", "pruners", "longevity", "maintenance", "investment"]
+    },
+    {
+      "cluster": "hand-tools",
+      "year": 2019,
+      "product": "Pine Tree Tools bamboo garden gloves",
+      "experience": "I go through garden gloves quickly because I am not careful with them. The Pine Tree Tools bamboo gloves are my standard pair for planting and weeding — they are machine washable and the touchscreen fingertips mean I can use my phone without pulling them off, which sounds trivial until you need to check a planting distance while your hands are in the soil.",
+      "tags": ["hand-tools", "gloves", "pine-tree-tools", "bamboo", "practical"]
+    },
+    {
+      "cluster": "hand-tools",
+      "year": 2020,
+      "product": "Fiskars looped action hoe",
+      "experience": "The looped hoe is the tool I recommend most often to people who are setting up a kitchen garden. The push-pull cutting action means you weed on both strokes, upright, without bending. My back issues started in 2018 and the upright weeding posture has genuinely made a difference to how long I can work in the beds.",
+      "tags": ["hand-tools", "fiskars", "hoe", "weeding", "ergonomics", "back"]
+    }
+  ],
+
+  "failures": [
+    {
+      "cluster": "raised-beds",
+      "item": "Cheap galvanised raised bed kit",
+      "lesson": "Galvanised coating on budget raised bed kits is too thin. Rust shows within two years in wet climates. Spend properly on Aluzinc-coated steel or cedar."
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "item": "Resin wicker sectional",
+      "lesson": "Resin wicker unravels at stress points within three to four years. The frame may be fine but the wicker finish is not a long-term material. If you want a sectional that survives Connecticut winters, POLYWOOD or solid aluminium only."
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "item": "Teak dining set, neglected",
+      "lesson": "Teak is excellent wood but it requires a maintenance commitment. If you oil it every year it will last decades. If you stop, the wood dries, splits at the joints, and deteriorates quickly. Be honest with yourself about whether you will do the maintenance before buying teak."
+    },
+    {
+      "cluster": "fire-and-heat",
+      "item": "Budget steel fire pit bowl",
+      "lesson": "Cheap steel fire pits rust through in two to three seasons in wet climates, faster without a cover. Either buy quality steel or buy a cover. Not both — just not neither."
+    },
+    {
+      "cluster": "fire-and-heat",
+      "item": "Patio heater left out through winter",
+      "lesson": "Patio heaters with glass tubes cannot be left outside through freeze-thaw cycles. The glass cracks. Store inside or buy a proper cover."
+    },
+    {
+      "cluster": "battery-equipment",
+      "item": "Ryobi 18V string trimmer",
+      "lesson": "18V cordless trimmers are not adequate for established borders and thick grass edges. They are fine for light tidying in a new garden. If you have mature borders and thick fence-line grass, go 40V minimum — better still 56V."
+    },
+    {
+      "cluster": "battery-equipment",
+      "item": "Cheap cordless leaf blower, under 300 CFM",
+      "lesson": "Low-CFM cordless blowers do not move wet leaves. They are marketed on MPH which is largely irrelevant — CFM is what moves volume. Under 400 CFM is a tidying tool, not an autumn cleanup tool."
+    },
+    {
+      "cluster": "structures",
+      "item": "Greenhouse sited for aesthetics not light",
+      "lesson": "A greenhouse in the wrong position is a garden shed. Light takes priority over aesthetics in siting. South-facing, unshaded, away from deciduous trees that will block winter sun."
+    },
+    {
+      "cluster": "structures",
+      "item": "Steel shed without ventilation kit",
+      "lesson": "Steel sheds condensate in summer. If you store anything moisture-sensitive — fertiliser, seed compost, paper bags — fit the ventilation kit or buy a resin shed. The ventilation kit is not optional in humid climates."
+    },
+    {
+      "cluster": "composting",
+      "item": "Worm bin in unheated garage through Connecticut winter",
+      "lesson": "Red wigglers stop working below 50°F and die below 40°F. An unheated Connecticut garage in January will kill them. Either move the bin inside seasonally or don't buy a worm system if indoor space is contested."
+    },
+    {
+      "cluster": "irrigation",
+      "item": "Basic mechanical hose timer",
+      "lesson": "Cheap clockwork hose timers fail within two seasons and do not adapt to weather. The upgrade to a smart controller pays back in the first summer in water savings and the time spent manually adjusting the schedule."
+    },
+    {
+      "cluster": "lighting",
+      "item": "Budget solar pathway lights",
+      "lesson": "Cheap solar pathway lights use low-grade rechargeable cells that degrade within 18 months. You will replace the pack twice in the time a hardwired or quality solar system lasts once. Low-voltage hardwired is the better long-term investment for permanent pathways."
+    },
+    {
+      "cluster": "birds-wildlife",
+      "item": "Basic tube feeders with no squirrel protection",
+      "lesson": "In Connecticut, any feeder without active squirrel deterrence will be emptied by squirrels within 48 hours. Budget for a proper squirrel-proof feeder from the start. The cheap ones are not a money-saving measure — they are a squirrel feeding programme."
+    },
+    {
+      "cluster": "lawn-care",
+      "item": "Ignoring aeration for 15 years",
+      "lesson": "I didn't aerate the back lawn for the first 15 years and paid for it with thin grass and standing water. Plug aeration every other autumn is the lowest-cost thing you can do for a lawn's long-term health."
+    },
+    {
+      "cluster": "hand-tools",
+      "item": "Cheap bypass pruners",
+      "lesson": "I have bought four pairs of budget pruners over the years. They all dulled quickly, the springs failed, and the blades started crushing stems rather than cutting them. One pair of FELCO 2s has cost me less over nine years than the four cheap alternatives combined."
+    }
+  ],
+
+  "strong_opinions": [
+    {
+      "cluster": "outdoor-furniture",
+      "topic": "POLYWOOD vs cheap resin",
+      "opinion": "POLYWOOD is not cheap and it is worth every dollar over the alternatives. I have owned cheap resin furniture and good POLYWOOD furniture. The cheap resin is gone. The POLYWOOD is still here."
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "topic": "Teak maintenance honesty",
+      "opinion": "Real teak is beautiful and I understand the appeal. But be honest with yourself about the maintenance. If you are the sort of person who will oil garden furniture every year without fail, buy teak. If you are not — and most of us are not — buy POLYWOOD and stop feeling guilty about it."
+    },
+    {
+      "cluster": "outdoor-furniture",
+      "topic": "Cushion quality",
+      "opinion": "Sunbrella fabric is the only cushion fabric worth buying for outdoor use in the Northeast. Everything else fades, mildews, or goes flat within two seasons. The price difference is real but the life-span difference is larger."
+    },
+    {
+      "cluster": "battery-equipment",
+      "topic": "Platform commitment",
+      "opinion": "Pick one battery platform and commit to it. The battery is the investment — the tools are almost secondary. I chose EGO 56V in 2022 and every tool since runs on the same batteries. The convenience compounds."
+    },
+    {
+      "cluster": "battery-equipment",
+      "topic": "Gas vs battery for domestic use",
+      "opinion": "For a domestic garden up to about an acre, a quality battery system now matches gas on performance and wins on every other dimension — noise, storage, maintenance, emissions. The only reason to choose gas in 2024 is if you have a very large property or professional use requirements."
+    },
+    {
+      "cluster": "battery-equipment",
+      "topic": "CFM over MPH",
+      "opinion": "Leaf blower manufacturers advertise MPH because the numbers are impressive. The figure that matters is CFM — cubic feet per minute, the volume of air moved. Under 400 CFM is a tidying tool. 500+ is an autumn cleanup tool. 600+ is what you need for wet leaves."
+    },
+    {
+      "cluster": "structures",
+      "topic": "Pergola investment",
+      "opinion": "The pergola is the single best thing we have done to the garden. It extended our outdoor season by at least two months — we use it in April and October when we would not otherwise be outside. If you are on the fence about a pergola, build it."
+    },
+    {
+      "cluster": "structures",
+      "topic": "Greenhouse reality check",
+      "opinion": "Most people who buy a greenhouse use it enthusiastically for one season and then it becomes storage. Be honest about whether you will maintain it before buying. A good cold frame costs a fraction of a greenhouse and does the seed-starting job adequately."
+    },
+    {
+      "cluster": "fire-and-heat",
+      "topic": "Smokeless fire pits and wood",
+      "opinion": "Solo Stove and similar smokeless pits work as advertised — but only with properly seasoned dry hardwood. If you burn damp or soft wood you will get smoke. The wood is not incidental to the design. Buy seasoned hardwood from a reputable supplier and the smokeless claim holds."
+    },
+    {
+      "cluster": "fire-and-heat",
+      "topic": "Propane vs wood fire",
+      "opinion": "Propane fire tables are not a replacement for a wood fire — the ambiance is different and anyone who tells you otherwise is trying to sell you something. They are a complement. I use the propane table for weekday evenings when I want fire without effort. I use the Solo Stove for occasions when the fire itself is the point."
+    },
+    {
+      "cluster": "irrigation",
+      "topic": "Smart controllers",
+      "opinion": "The argument for a smart irrigation controller is not the app. It is the weather intelligence. A controller that automatically skips watering when rain is coming saves more water and more plant stress than any amount of manual adjustment."
+    },
+    {
+      "cluster": "raised-beds",
+      "topic": "Depth matters",
+      "opinion": "A 6-inch raised bed is a planter. A 12-inch raised bed is a raised bed. A 17-inch raised bed is what you actually want if you intend to grow anything with a real root system. Depth is the one dimension you cannot easily add to later."
+    },
+    {
+      "cluster": "raised-beds",
+      "topic": "Metal vs wood",
+      "opinion": "I made the switch from cedar to metal in 2022 and have not looked back. Metal beds last longer, hold shape better, and the better ones have superior coatings. The aesthetic argument for cedar is valid but the practical case for quality metal is stronger."
+    },
+    {
+      "cluster": "composting",
+      "topic": "Composting timeline honesty",
+      "opinion": "Composting takes longer than the packaging implies. A tumbling composter in summer with the right inputs might give you finished compost in six weeks. In autumn with oak leaves it takes three months. Anyone promising faster is optimistic about conditions."
+    },
+    {
+      "cluster": "birds-wildlife",
+      "topic": "Squirrel deterrence",
+      "opinion": "There is no cheap squirrel deterrent that works consistently. There are expensive ones that work. Budget accordingly or do not feed birds."
+    },
+    {
+      "cluster": "lawn-care",
+      "topic": "Leaf management in Connecticut",
+      "opinion": "If you live in the Litchfield Hills and you think you can manage the autumn leaf fall with a rake and some bags, you have not yet experienced your second October. You need a blower with real CFM, ideally a sweeper if you have a lawn larger than a quarter acre, and a realistic plan for where the leaves are going."
+    },
+    {
+      "cluster": "lighting",
+      "topic": "Solar vs wired pathway lights",
+      "opinion": "Solar pathway lights are a short-term product. The rechargeable cells degrade. For a temporary installation or a rental property, fine. For a permanent garden, hardwired low-voltage is the correct investment."
+    },
+    {
+      "cluster": "hand-tools",
+      "topic": "Pruner investment",
+      "opinion": "A pair of FELCO pruners is the best tool investment in a garden. They cost more upfront, they are fully repairable, and they will outlast every cheap alternative you would have bought in the interim."
+    },
+    {
+      "cluster": "general",
+      "topic": "Cheap vs quality garden equipment",
+      "opinion": "The pattern in thirty years of buying garden equipment is consistent: cheap tools fail early and the cost of replacing them exceeds the price of buying quality once. I understand budget constraints. I have them too. But if you can only afford to buy one item well this season, buy it well and wait on the rest."
+    },
+    {
+      "cluster": "general",
+      "topic": "Marketing claims",
+      "opinion": "I spent thirty years in HR at financial institutions evaluating whether people could do what they said they could do. Garden equipment marketing is no different. Read the conditions in the small print. Test what can be tested. Ignore the lifestyle photography."
+    }
+  ],
+
+  "voice_samples": [
+    {
+      "type": "opening",
+      "cluster": "battery-equipment",
+      "text": "I switched from petrol to battery lawn equipment in 2022 and I would not go back. Not because battery tools are flawless — they are not — but because the practical advantages now outweigh the limitations for a domestic garden. No fuel storage, no annual service, no pull-cord on a cold morning. The question is which platform and which tools, and the answer depends on how large your garden is and how much you are willing to spend once to avoid spending repeatedly."
+    },
+    {
+      "type": "verdict",
+      "cluster": "outdoor-furniture",
+      "text": "I have owned POLYWOOD furniture for five years and cheap resin furniture before that. The POLYWOOD is still here, unchanged. The resin set went on the kerb after four years looking twice its age. The price difference felt significant at the time of purchase. It did not feel significant when I was carrying the cheap set to the kerb in pieces."
+    },
+    {
+      "type": "failure",
+      "cluster": "raised-beds",
+      "text": "I bought a galvanised raised bed kit in 2019 because it was significantly cheaper than the alternatives and I thought the difference in coating specification was marketing language. It was not. By the second summer there was rust staining through the soil and into the stones around the base. The corner brackets had bent on assembly. I removed it in 2021 and replaced it with a Vego Garden bed that has been completely without issue since. The saving was not a saving."
+    },
+    {
+      "type": "opinion",
+      "cluster": "fire-and-heat",
+      "text": "The smokeless claim on fire pits like the Solo Stove is accurate, with one important condition: you need properly seasoned dry hardwood. Not damp wood from the pile by the shed. Not wood you split yourself last autumn that hasn't fully dried. Seasoned hardwood from a supplier who knows what they are selling. When I use the right wood there is genuinely almost no smoke. When I have used wood that wasn't ready, it smokes like any other fire pit. The design works. The wood is not optional."
+    },
+    {
+      "type": "comparison",
+      "cluster": "battery-equipment",
+      "text": "The EGO mower handles our half-acre back lawn on a single charge with a few minutes of battery remaining. The Honda it replaced did the same job adequately for eleven years. The practical differences are quieter operation, no fuel storage, and no spring service. The Honda was a reliable machine and I have no complaint about it. I simply reached the point where the battery alternative had caught up on performance and exceeded it on convenience. That tipping point is real now in a way it wasn't in 2015."
+    },
+    {
+      "type": "recommendation",
+      "cluster": "raised-beds",
+      "text": "If you are planning raised beds and are undecided between cedar and metal, the honest answer is that quality metal will outlast quality cedar in most conditions and requires less maintenance. The aesthetic case for cedar is real — it looks warmer and more traditional. But the Vego Garden beds I installed in 2022 look the same today as they did then, the soil temperature is consistently higher earlier in spring, and I have done nothing to maintain them beyond emptying and refilling them once. That is the actual comparison."
+    },
+    {
+      "type": "seasonal",
+      "cluster": "lawn-care",
+      "text": "By mid-October the front garden is under two inches of oak leaves and the rate of arrival has not slowed. This is the thing about Litchfield County that you do not fully appreciate until you have lived through your second or third autumn here. The trees are magnificent. The leaves are a genuine management problem. I now treat leaf removal as its own season with its own equipment requirements — the 650 CFM EGO blower, the tow-behind sweeper on the riding mower, the pile site at the back of the property that feeds the compost operation for the following three years."
+    },
+    {
+      "type": "intro-about-wendy",
+      "cluster": "general",
+      "text": "I spent thirty years in HR at investment banks, mostly commuting to Manhattan from Connecticut. The garden was always the counterbalance — the thing that required a different kind of attention than a performance review or a restructure. Now I consult two days a week and spend the rest of the time on the property. Twelve acres in the Litchfield Hills sounds impressive until you are managing the leaf fall in October, at which point it sounds like exactly the right amount of work."
+    },
+    {
+      "type": "product-review-close",
+      "cluster": "outdoor-furniture",
+      "text": "Would I buy it again. Yes, straightforwardly. It has done what it was described to do, across conditions it was not designed to be protected from, without requiring anything of me beyond cleaning it twice a year. That is the standard I apply. A garden product that earns its keep through real seasons without constant attention or early replacement is a product worth recommending."
+    },
+    {
+      "type": "negative-review",
+      "cluster": "battery-equipment",
+      "text": "The honest assessment is that it was not adequate for this garden. It handled light tidying competently and failed at the jobs that actually matter — thick fence-line grass, established borders, the ditch edge along the back lawn. The CFM simply wasn't there. I do not think it is a bad product for a small flat lawn with minimal edges. For anything with real growth it is underpowered and I would not recommend it."
+    },
+    {
+      "type": "buying-guide-close",
+      "cluster": "structures",
+      "text": "The decision that matters most with a greenhouse is not the model — it is the siting. I made the mistake of prioritising aesthetics over light exposure in 2020 and had a disappointing first season as a result. Once I moved the structure to a proper south-facing position the results improved substantially. Whatever you buy, put it where the light is."
+    }
+  ]
+}

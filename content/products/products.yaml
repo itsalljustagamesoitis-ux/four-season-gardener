@@ -1,40 +1,1098 @@
-westminster-teak-classic:
-  name: "Westminster Teak Classic Adirondack Chair"
-  brand: "Westminster Teak"
-  amazon_asin: "B07XTEAK01"
+# ============================================================
+# CLUSTER: outdoor-furniture (5 products)
+# ============================================================
+
+polywood-classic-adirondack-chair:
+  name: "POLYWOOD Classic Folding Adirondack Chair"
+  brand: "POLYWOOD"
+  amazon_asin: "B001VNCJ36"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/westminster-teak-classic.jpg"
-  category: "outdoor-furniture"
-  price_band: "premium"
-  default_pros:
-    - "Genuine Grade A teak"
-    - "Heirloom-quality construction"
-    - "12-year warranty"
-  default_cons:
-    - "Premium price point"
-    - "Heavy — repositioning takes effort"
-  notes_for_writers: "Westminster's flagship. Best overall pick when budget allows."
-  last_verified: 2026-04-30
-
-polywood-classic-adirondack:
-  name: "POLYWOOD Classic Adirondack Chair"
-  brand: "POLYWOOD"
-  amazon_asin: "B0POLY001"
-  awin_advertiser_id: 12345
-  awin_product_url: "https://www.polywood.com/classic-adirondack"
-  default_image: "/images/products/polywood-classic-adirondack.jpg"
+  default_image: "/images/products/polywood-classic-adirondack-chair.jpg"
   category: "outdoor-furniture"
   price_band: "mid"
   default_pros:
-    - "Recycled HDPE — genuinely weatherproof"
-    - "Never needs sealing or staining"
-    - "Wide color range"
+    - "Made from recycled HDPE lumber — never needs painting, staining, or sealing"
+    - "20-year residential warranty against cracking, chipping, and peeling"
+    - "Folding design stores flat; lighter than real teak at around 15 lbs"
   default_cons:
-    - "Feels slightly hollow compared to solid wood"
-    - "Fades slightly in prolonged direct sun"
-  notes_for_writers: "Best value pick. Emphasise zero-maintenance angle for busy gardeners."
+    - "HDPE plastic lacks the warm, natural grain look of real teak wood"
+    - "Color choices can fade slightly over many years of direct UV exposure"
+  notes_for_writers: "Best entry-level POLYWOOD pick. Compare to teak on longevity and maintenance savings. Available in 15+ colors."
   last_verified: 2026-04-30
+
+polywood-nautical-adirondack-chair:
+  name: "POLYWOOD Nautical Curveback Adirondack Chair"
+  brand: "POLYWOOD"
+  amazon_asin: "B079YC3P5M"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/polywood-nautical-adirondack-chair.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "Ergonomic curved back slats and contoured seat for all-day comfort"
+    - "Heavy-duty HDPE construction rated for commercial outdoor use"
+    - "Made in USA; certified by the Sustainable Furnishings Council"
+  default_cons:
+    - "Heavier than folding models at around 37 lbs"
+    - "Higher price point than budget plastic Adirondack chairs"
+  notes_for_writers: "Step-up pick over Classic. Great for fire pit seating. Mention curveback comfort vs flat-back designs."
+  last_verified: 2026-04-30
+
+polywood-nautical-dining-set:
+  name: "POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak"
+  brand: "POLYWOOD"
+  amazon_asin: "B085G5FVR5"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/polywood-nautical-dining-set.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "All-weather HDPE — won't rot, splinter, or require seasonal storage"
+    - "Seats 6; 73-inch table works for large family gatherings"
+    - "Teak color gives natural wood aesthetic without teak maintenance costs"
+  default_cons:
+    - "Very heavy set; not designed to move frequently"
+    - "Premium price — significantly more expensive than entry teak or aluminum sets"
+  notes_for_writers: "Best long-term value argument: real teak dining set costs $3,000-$8,000 and needs annual oiling; POLYWOOD costs less and requires nothing."
+  last_verified: 2026-04-30
+
+polywood-edge-sectional-set:
+  name: "POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set"
+  brand: "POLYWOOD"
+  amazon_asin: "B085G1ZKXV"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/polywood-edge-sectional-set.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "Six-piece modular configuration adapts to different patio layouts"
+    - "Olefin cushions are UV- and mold-resistant; removable, machine-washable covers"
+    - "HDPE frame comes with 20-year warranty; cushions carry a 3-year warranty"
+  default_cons:
+    - "Very high investment — premium all-weather sectionals rarely fall below $3,000"
+    - "Cushions need a storage bag if leaving outside over winter in cold climates"
+  notes_for_writers: "Position as the forever-sectional that replaces cheap sets every 3-5 years. Compare 20-year TCO against wicker/rattan alternatives."
+  last_verified: 2026-04-30
+
+polywood-nautical-bar-stool:
+  name: "POLYWOOD Nautical Bar Chair, White"
+  brand: "POLYWOOD"
+  amazon_asin: "B085FWR6ZN"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/polywood-nautical-bar-stool.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "Bar height (30\") fits standard outdoor bar tables and kitchen-height counters"
+    - "Same weatherproof HDPE as full furniture line — no rust, no rot, no paint"
+    - "Pairs directly with POLYWOOD bar tables for a matched outdoor bar setup"
+  default_cons:
+    - "No swivel function on standard model"
+    - "White color shows pollen and dirt more visibly than darker finishes"
+  notes_for_writers: "Great add-on product for outdoor bar or pergola content. Cross-sell with POLYWOOD bar tables."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: battery-equipment (5 products)
+# Note: Stihl is dealer-only in the US — not sold on Amazon. EGO substituted.
+# ============================================================
+
+ego-lm2135sp-self-propelled-mower:
+  name: "EGO POWER+ LM2135SP 21\" Self-Propelled Cordless Lawn Mower"
+  brand: "EGO Power+"
+  amazon_asin: "B0857KWHHC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-lm2135sp-self-propelled-mower.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "56V 7.5Ah ARC Lithium battery delivers up to 60 minutes runtime per charge"
+    - "Touch Drive self-propel system adjusts to your walking pace"
+    - "Select Cut multi-blade system: mulch, bag, or side-discharge"
+  default_cons:
+    - "Battery and rapid charger not included in tool-only version"
+    - "Heavier than a corded mower at around 68 lbs with battery installed"
+  notes_for_writers: "Compare against gas: quieter, no oil changes, no gas storage. 56V platform compatible with all EGO tools — battery cross-sell opportunity."
+  last_verified: 2026-04-30
+
+ego-cs1804-chainsaw:
+  name: "EGO POWER+ CS1804 18\" Battery Powered Chainsaw"
+  brand: "EGO Power+"
+  amazon_asin: "B07YLXDK5K"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-cs1804-chainsaw.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "18-inch bar handles trees up to 32\" diameter in multiple cuts"
+    - "Brushless motor delivers gas-equivalent cutting power with 3-second chain brake safety"
+    - "Same 56V ARC Lithium battery platform as all EGO tools"
+  default_cons:
+    - "Not suited for sustained professional logging"
+    - "Chain tensioning requires tool; less convenient than tool-free tensioning on some rivals"
+  notes_for_writers: "Stihl is dealer-only in the US. EGO is the Amazon-available equivalent. EGO wins for readers who buy online."
+  last_verified: 2026-04-30
+
+ego-ht2411-hedge-trimmer:
+  name: "EGO POWER+ HT2411 24\" Cordless Hedge Trimmer"
+  brand: "EGO Power+"
+  amazon_asin: "B0799QY4TW"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-ht2411-hedge-trimmer.jpg"
+  category: "battery-equipment"
+  price_band: "budget"
+  default_pros:
+    - "1-inch cut capacity handles thick branches — more than most cordless hedge trimmers"
+    - "Brushless motor with 3,000 strokes per minute; lighter than gas models at 7 lbs"
+    - "Dual-action hardened steel blades reduce vibration for cleaner cuts"
+  default_cons:
+    - "2.5Ah included battery gives only about 45 minutes of continuous use"
+    - "Blade guard can make one-handed use awkward on overhead cuts"
+  notes_for_writers: "Pair with EGO lawn mower content — same battery platform. Kit includes battery and charger, good value for new EGO users."
+  last_verified: 2026-04-30
+
+dewalt-dcbl772x1-leaf-blower:
+  name: "DEWALT DCBL772X1 FLEXVOLT 60V MAX 600 CFM Cordless Leaf Blower"
+  brand: "DeWalt"
+  amazon_asin: "B07SMBDW61"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/dewalt-dcbl772x1-leaf-blower.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "600 CFM / 125 MPH clears wet leaves and heavy debris — matches mid-range gas blowers"
+    - "FLEXVOLT 60V MAX battery backward-compatible with all 20V MAX DeWalt tools"
+    - "Variable speed trigger with cruise control lock reduces hand fatigue"
+  default_cons:
+    - "Heavy at 9 lbs without battery"
+    - "60V FLEXVOLT battery is expensive to buy separately outside the DeWalt ecosystem"
+  notes_for_writers: "Best choice for homeowners already in the DeWalt ecosystem. Battery crossover with DeWalt drills/saws is the key selling point."
+  last_verified: 2026-04-30
+
+ego-lb6504-leaf-blower:
+  name: "EGO POWER+ LB6504 650 CFM Cordless Leaf Blower"
+  brand: "EGO Power+"
+  amazon_asin: "B087RRLLQ3"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-lb6504-leaf-blower.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "650 CFM is one of the highest outputs of any handheld cordless blower"
+    - "Turbine fan technology moves more air with less noise than axial-fan competitors"
+    - "Includes 5.0Ah battery and rapid charger — complete kit, no extra purchase needed"
+  default_cons:
+    - "Larger nozzle diameter — slightly less precise for tight spaces"
+    - "Heavy when battery is installed"
+  notes_for_writers: "Top EGO blower pick; pairs with EGO mower content for full battery yard system. Gutter cleaning attachment sold separately."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: structures (5 products)
+# ============================================================
+
+palram-essence-8x16-greenhouse:
+  name: "Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit"
+  brand: "Palram Canopia"
+  amazon_asin: "B0C79LLJNF"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-essence-8x16-greenhouse.jpg"
+  category: "structures"
+  price_band: "premium"
+  default_pros:
+    - "4mm twin-wall polycarbonate panels block 99.9% UV while diffusing light evenly"
+    - "Powder-coated aluminum frame resists rust; rated for 15 lbs/sq ft snow load"
+    - "Sliding door with lockable handle; built-in rain gutters"
+  default_cons:
+    - "Assembly takes 2 people a full weekend"
+    - "No base included; requires a prepared level foundation"
+  notes_for_writers: "Mid-size greenhouse for serious gardeners. Compare 4mm twin-wall to single-wall options on insulation."
+  last_verified: 2026-04-30
+
+palram-snap-grow-6x12-greenhouse:
+  name: "Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit"
+  brand: "Palram Canopia"
+  amazon_asin: "B07MJVT2Z9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-snap-grow-6x12-greenhouse.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "SmartLock connection system snaps together without tools"
+    - "Includes starter kit (shelf, clips, mounting hardware)"
+    - "Smaller footprint fits narrow backyard side yards or urban spaces"
+  default_cons:
+    - "Single-wall polycarbonate panels offer less insulation than twin-wall models"
+    - "6-foot width limits internal workspace"
+  notes_for_writers: "Entry-level full greenhouse. Budget alternative to the Essence 8x16. Good for small-yard content."
+  last_verified: 2026-04-30
+
+palram-lean-to-greenhouse:
+  name: "Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse"
+  brand: "Palram Canopia"
+  amazon_asin: "B01MR7O1MQ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-lean-to-greenhouse.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "Attaches to a house wall — uses structural support and wall heat for efficiency"
+    - "Adjustable roof vent provides passive ventilation without electricity"
+    - "Galvanized steel base included; rare at this price point"
+  default_cons:
+    - "Requires a south- or west-facing wall for adequate light"
+    - "Limited headroom at the low end"
+  notes_for_writers: "Best for readers with limited yard space. Cross-link with cold-climate gardening content."
+  last_verified: 2026-04-30
+
+yardistry-10x12-cedar-pergola:
+  name: "Yardistry 10' x 12' Cedar Wood Pergola Kit"
+  brand: "Yardistry"
+  amazon_asin: "B08Q8QVFCC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/yardistry-10x12-cedar-pergola.jpg"
+  category: "structures"
+  price_band: "premium"
+  default_pros:
+    - "North American cedar is naturally rot-resistant without chemical treatment"
+    - "Pre-cut, pre-drilled, and pre-stained — significantly faster assembly than raw lumber"
+    - "Can be fitted with Yardistry polycarbonate roof panels (sold separately) for rain coverage"
+  default_cons:
+    - "Cedar requires restaining every 2-3 years"
+    - "Roof panels are an additional purchase — base provides shade only"
+  notes_for_writers: "Natural wood alternative to vinyl/aluminum kits. Position as the classic choice. Mention polycarbonate roof addon for year-round use."
+  last_verified: 2026-04-30
+
+arrow-select-10x8-shed:
+  name: "Arrow Select 10' x 8' Steel Storage Shed, Charcoal"
+  brand: "Arrow"
+  amazon_asin: "B08WC39N93"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/arrow-select-10x8-shed.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "80 sq ft of storage handles a full complement of lawn and garden equipment"
+    - "Padlockable doors; reinforced corners resist wind racking"
+    - "Electro-galvanized steel panels resist rust; no wood rot or termite risk"
+  default_cons:
+    - "Steel walls can condensate inside in humid climates — ventilation kit recommended"
+    - "Assembly can take a full day for one person"
+  notes_for_writers: "Budget/mid alternative to wooden sheds. No rot, no painting, lower upfront cost. Floor kit sold separately — important detail readers miss."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: birds-wildlife (5 products)
+# Note: Orbit bird bath bubblers not a current product line — Smart Solar substituted.
+# ============================================================
+
+droll-yankees-yankee-flipper:
+  name: "Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder"
+  brand: "Droll Yankees"
+  amazon_asin: "B00004ZB4U"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/droll-yankees-yankee-flipper.jpg"
+  category: "birds-wildlife"
+  price_band: "mid"
+  default_pros:
+    - "Weight-activated motor spins the perch when a squirrel lands — reliably deters them"
+    - "5 lb seed capacity; wide seed tube fits sunflower and mixed seed"
+    - "Rechargeable via USB-C; battery lasts months per charge"
+  default_cons:
+    - "Requires charging — dead battery means squirrels have free access"
+    - "Higher price than static squirrel-proof feeders; motor can eventually wear out"
+  notes_for_writers: "The entertainment factor (spinning squirrels) is a genuine selling point for family gardens. Pair with bird identification content."
+  last_verified: 2026-04-30
+
+squirrel-buster-plus-feeder:
+  name: "Squirrel Buster Plus Bird Feeder with Cardinal Ring"
+  brand: "Brome"
+  amazon_asin: "B0007LQ3RQ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/squirrel-buster-plus-feeder.jpg"
+  category: "birds-wildlife"
+  price_band: "mid"
+  default_pros:
+    - "Passive weight-activated cage closes seed ports when squirrels grab on — no batteries needed"
+    - "5.1 lb capacity with 6 feeding ports; cardinal ring accommodates larger birds"
+    - "Adjustable weight setting allows or blocks large birds like grackles and starlings"
+  default_cons:
+    - "More involved cleaning than simple tray feeders"
+    - "Weight sensitivity requires trial and error to dial in correctly"
+  notes_for_writers: "Best passive squirrel-proof option — no batteries, no motors. Adjustable exclusion weight is unique. Compares well to Droll Yankees on price."
+  last_verified: 2026-04-30
+
+smart-solar-aquanura-birdbath:
+  name: "Smart Solar AquaNura Bubbler Birdbath, Grey"
+  brand: "Smart Living"
+  amazon_asin: "B07118T4ZP"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/smart-solar-aquanura-birdbath.jpg"
+  category: "birds-wildlife"
+  price_band: "mid"
+  default_pros:
+    - "Solar-powered pump runs all day in sunlight with no wiring or electricity costs"
+    - "Moving water attracts birds more effectively than static baths"
+    - "Includes two fountain heads (360 spray and bubbler)"
+  default_cons:
+    - "Pump stops when sunlight is insufficient"
+    - "9-inch diameter is smaller than traditional pedestal baths"
+  notes_for_writers: "Note: this is a solar insert/basin, not a full pedestal birdbath. Clarify it sits in an existing bath bowl or is used as a standalone ground-level bath."
+  last_verified: 2026-04-30
+
+liquid-fence-deer-rabbit-repellent:
+  name: "Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon"
+  brand: "Liquid Fence"
+  amazon_asin: "B00TS4WBUQ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/liquid-fence-deer-rabbit-repellent.jpg"
+  category: "birds-wildlife"
+  price_band: "budget"
+  default_pros:
+    - "Ready-to-use formula — no mixing; trigger sprayer applies directly to plants"
+    - "Rain-resistant formula lasts 2-4 weeks outdoors"
+    - "Works on deer and rabbits simultaneously; safe around pets and children once dry"
+  default_cons:
+    - "Strong sulfur/egg odor during and shortly after application"
+    - "Must be reapplied after heavy rain"
+  notes_for_writers: "Mention odor honestly. Concentrate version (B014UUZ8AC) more economical for large properties."
+  last_verified: 2026-04-30
+
+droll-yankees-classic-feeder:
+  name: "Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch"
+  brand: "Droll Yankees"
+  amazon_asin: "B003XR9SH8"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/droll-yankees-classic-feeder.jpg"
+  category: "birds-wildlife"
+  price_band: "budget"
+  default_pros:
+    - "Ring Pull Advantage lid removes with one hand for fast, mess-free refilling"
+    - "Six feeding stations accommodate multiple bird species simultaneously"
+    - "UV-stabilized polycarbonate tube won't fade or crack after years of sun exposure"
+  default_cons:
+    - "No squirrel deterrent — needs a baffle pole or dome purchased separately"
+    - "1 lb seed capacity requires frequent refilling during peak feeding months"
+  notes_for_writers: "Budget entry pick for new bird feeders. Pair with baffle/pole content. Droll Yankees' American made heritage and lifetime guarantee add credibility."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: fire-and-heat (5 products)
+# ============================================================
+
+solo-stove-bonfire-2:
+  name: "Solo Stove Bonfire 2.0 Smokeless Fire Pit"
+  brand: "Solo Stove"
+  amazon_asin: "B0B7B7R8HL"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/solo-stove-bonfire-2.jpg"
+  category: "fire-and-heat"
+  price_band: "mid"
+  default_pros:
+    - "Double-wall 360 airflow design dramatically reduces smoke vs traditional fire pits"
+    - "Removable ash pan simplifies cleanup — pull out and dump with no scooping"
+    - "Stainless steel construction is lightweight (20 lbs) and portable"
+  default_cons:
+    - "Uses only dry, seasoned hardwood — wet or green wood defeats the smokeless design"
+    - "No cooking grate included; sold separately"
+  notes_for_writers: "Lead with smokeless claim but explain conditions: dry wood matters. Low smoke is more accurate than no smoke. Bonfire size best for 4-8 people."
+  last_verified: 2026-04-30
+
+outland-living-403-fire-table:
+  name: "Outland Living Series 403 44\" Propane Fire Pit Table, Espresso"
+  brand: "Outland Living"
+  amazon_asin: "B07SR7MMF9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/outland-living-403-fire-table.jpg"
+  category: "fire-and-heat"
+  price_band: "mid"
+  default_pros:
+    - "50,000 BTU output heats a 15-foot radius"
+    - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
+    - "Pre-attached regulator hose connects directly to a standard 20 lb propane tank"
+  default_cons:
+    - "Propane is an ongoing consumable cost — a 20 lb tank lasts roughly 8-10 hours at full"
+    - "Heavy concrete-look top makes relocation difficult once assembled"
+  notes_for_writers: "Best for readers who want a fire feature that doubles as patio furniture. Key differentiator: instant on/off, no ash, no smoke vs wood-burning pits."
+  last_verified: 2026-04-30
+
+hiland-pyramid-patio-heater:
+  name: "Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater, Hammered Bronze"
+  brand: "Hiland"
+  amazon_asin: "B004KH4LAE"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/hiland-pyramid-patio-heater.jpg"
+  category: "fire-and-heat"
+  price_band: "mid"
+  default_pros:
+    - "Pyramid flame column visible through glass tube is a dramatic visual focal point"
+    - "Wheels built into base for easy repositioning without lifting"
+    - "CSA-certified safety system includes tip-over shutoff and pilot outage protection"
+  default_cons:
+    - "Quartz glass tube is fragile — a tip-over or strong impact can crack it"
+    - "Overhead mushroom-style heaters distribute heat more evenly to seated guests"
+  notes_for_writers: "Position as the aesthetic/statement heater vs functional mushroom heaters. The flame column is beautiful at night. Glass replacement tubes available on Amazon."
+  last_verified: 2026-04-30
+
+mr-heater-big-buddy-mh18b:
+  name: "Mr. Heater MH18B Big Buddy 18,000 BTU Portable Propane Heater"
+  brand: "Mr. Heater"
+  amazon_asin: "B0002WRHE8"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/mr-heater-big-buddy-mh18b.jpg"
+  category: "fire-and-heat"
+  price_band: "mid"
+  default_pros:
+    - "Heats up to 450 sq ft; adjustable output from 4,000 to 18,000 BTU"
+    - "CSA-approved for indoor use; built-in ODS shuts off automatically in low-oxygen situations"
+    - "Runs on two 1 lb cylinders or connects to a 20 lb tank via optional hose"
+  default_cons:
+    - "Runs through 1 lb cylinders quickly at high setting — outdoor tank adapter strongly recommended"
+    - "Radiant heat warms objects in front only — not effective for large open outdoor spaces"
+  notes_for_writers: "Go-to heater for garages, workshops, and enclosed porches. Mention indoor approval clearly. Good for greenhouse/potting shed heating content."
+  last_verified: 2026-04-30
+
+napoleon-st-tropez-fire-table:
+  name: "Napoleon St. Tropez Rectangle Patioflame Fire Table"
+  brand: "Napoleon"
+  amazon_asin: "B07DJKP28G"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/napoleon-st-tropez-fire-table.jpg"
+  category: "fire-and-heat"
+  price_band: "premium"
+  default_pros:
+    - "Electronic ignition with adjustable flame height — no matches needed"
+    - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
+    - "Comes fitted for propane with natural gas conversion kit included"
+  default_cons:
+    - "Premium price — significantly more expensive than Outland Living tables"
+    - "Glass ember bed requires occasional cleaning"
+  notes_for_writers: "Premium pick for permanent outdoor living spaces. Napoleon grilling brand credibility helps. Natural gas conversion is a strong long-term value argument vs propane."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: irrigation (5 products)
+# ============================================================
+
+rachio-3-8zone-controller:
+  name: "Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone"
+  brand: "Rachio"
+  amazon_asin: "B087CSZNR5"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/rachio-3-8zone-controller.jpg"
+  category: "irrigation"
+  price_band: "mid"
+  default_pros:
+    - "Weather Intelligence automatically skips scheduled watering when rain is forecast"
+    - "App controls watering from anywhere; Alexa and Google Home compatible"
+    - "EPA WaterSense certified; up to 30-50% water savings vs manual scheduling"
+  default_cons:
+    - "Requires Wi-Fi near the controller — common garage locations may need an extender"
+    - "Works with inground sprinkler systems only — not suitable for drip or soaker hose setups"
+  notes_for_writers: "Best smart irrigation pick for homeowners with existing inground systems. Lead with water savings data."
+  last_verified: 2026-04-30
+
+orbit-bhyve-xd-2port-timer:
+  name: "Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub"
+  brand: "Orbit"
+  amazon_asin: "B09KK433KF"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/orbit-bhyve-xd-2port-timer.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "Two independent zones from one faucet — water front beds and back beds separately"
+    - "WeatherSense technology auto-skips watering after rain"
+    - "Battery-powered with no wiring required"
+  default_cons:
+    - "Wi-Fi Hub is a separate device — adds cost and complexity"
+    - "Battery life reduced in cold climates"
+  notes_for_writers: "Best hose-end timer for readers without inground systems. Great for raised bed and container garden content. Two zones is the key selling point."
+  last_verified: 2026-04-30
+
+dig-ge200-drip-kit:
+  name: "DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece"
+  brand: "DIG Corporation"
+  amazon_asin: "B004NPSIDE"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/dig-ge200-drip-kit.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "122-piece kit covers shrubs, containers, and raised beds"
+    - "Includes both drippers and micro-sprinklers for different plant types"
+    - "Standard 1/2\" mainline and 1/4\" tubing compatible with all major brands"
+  default_cons:
+    - "No timer included — must be paired with a hose timer"
+    - "Large component count can overwhelm beginners"
+  notes_for_writers: "Good for readers designing drip systems from scratch. Pair with Orbit B-hyve timer content as a complete system recommendation."
+  last_verified: 2026-04-30
+
+rain-bird-gardenkit-raised-bed:
+  name: "Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit"
+  brand: "Rain Bird"
+  amazon_asin: "B0BCH7PYCD"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/rain-bird-gardenkit-raised-bed.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "Designed specifically for raised beds — components sized for 4x4 to 4x8 beds"
+    - "Rain Bird professional-grade emitters are more clog-resistant than cheap kit emitters"
+    - "Includes pressure regulator and filter — protects emitters from high pressure and debris"
+  default_cons:
+    - "One kit handles approximately one 4x8 raised bed — limited coverage area"
+    - "Tubing can dislodge from stakes in loose raised bed soil"
+  notes_for_writers: "Best pairing for raised bed content. Cross-sell with Vego Garden and Greenes bed content. Pressure regulator included is a real advantage readers often miss."
+  last_verified: 2026-04-30
+
+rain-bird-lnddripkit:
+  name: "Rain Bird LNDDRIPKIT Drip Irrigation Landscape Kit"
+  brand: "Rain Bird"
+  amazon_asin: "B07QNM7575"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/rain-bird-lnddripkit.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "Three emitter types (drippers, micro-bubblers, micro-sprays) for mixed plantings"
+    - "Works with shrubs, flower beds, and landscape zones"
+    - "Connects directly to standard garden hose; no inground system required"
+  default_cons:
+    - "Fewer pieces than the DIG GE200 — less flexibility for large gardens"
+    - "Micro-spray heads can clog in hard-water areas without the included filter installed"
+  notes_for_writers: "Landscape-wide drip kit for mixed beds, shrubs, and ground cover. Contrast with GARDENKIT (raised beds) — this one is for in-ground landscape beds."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: composting (5 products)
+# ============================================================
+
+fcmp-im4000-tumbling-composter:
+  name: "FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon"
+  brand: "FCMP Outdoor"
+  amazon_asin: "B009378AG2"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/fcmp-im4000-tumbling-composter.jpg"
+  category: "composting"
+  price_band: "mid"
+  default_pros:
+    - "Dual chambers allow continuous composting — fill one side while the other cures"
+    - "Elevated design allows a wheelbarrow underneath for unloading"
+    - "Made in Canada from 100% post-consumer recycled plastic; BPA-free"
+  default_cons:
+    - "37-gallon total capacity fills quickly for large households"
+    - "Plastic drum can crack over time in harsh UV climates without shade placement"
+  notes_for_writers: "Most-reviewed tumbling composter on Amazon. Dual chamber vs single-chamber is the key differentiation. Compost in 4-6 weeks vs open bin 6-12 months."
+  last_verified: 2026-04-30
+
+worm-factory-360-black:
+  name: "Worm Factory 360 Black Vermicomposting System, 4-Tray"
+  brand: "Nature's Footprint"
+  amazon_asin: "B002LH47PY"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/worm-factory-360-black.jpg"
+  category: "composting"
+  price_band: "mid"
+  default_pros:
+    - "Produces both worm castings and liquid worm tea — two premium fertilizer outputs"
+    - "Modular tray system expands as worm population grows; up to 8 trays supported"
+    - "Made in USA; includes complete instruction manual and getting-started guide"
+  default_cons:
+    - "Red wiggler worms must be purchased separately"
+    - "Temperature must stay 40-80F — not suitable for unheated garages in winter"
+  notes_for_writers: "Best for apartment/small-space composting. Pair with Uncle Jim's worms recommendation. Liquid worm tea is great for potted plant content."
+  last_verified: 2026-04-30
+
+uncle-jims-1000-red-wigglers:
+  name: "Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms"
+  brand: "Uncle Jim's Worm Farm"
+  amazon_asin: "B000Q5S7RM"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/uncle-jims-1000-red-wigglers.jpg"
+  category: "composting"
+  price_band: "budget"
+  default_pros:
+    - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
+    - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
+    - "Red wigglers process kitchen scraps up to 4x their weight per week when established"
+  default_cons:
+    - "Live shipping is weather-dependent — extreme heat or cold can affect survival rate"
+    - "Worms need several weeks to acclimate before reaching full processing capacity"
+  notes_for_writers: "Always bundle with the Worm Factory 360. Emphasize red wigglers are different from earthworms — they thrive in bins, not soil."
+  last_verified: 2026-04-30
+
+envirocycle-composter-black:
+  name: "Envirocycle Most Beautiful Composter in the World, Black"
+  brand: "Envirocycle"
+  amazon_asin: "B0121G9ZJW"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/envirocycle-composter-black.jpg"
+  category: "composting"
+  price_band: "mid"
+  default_pros:
+    - "Built-in compost tea collection base — captures liquid fertilizer automatically"
+    - "Made in USA from food-safe, BPA-free materials; ships fully assembled"
+    - "Compact drum design fits on a deck or balcony — no yard required"
+  default_cons:
+    - "Smaller capacity than FCMP IM4000"
+    - "Premium price for the size"
+  notes_for_writers: "Strongest aesthetic appeal of any composter. Compost tea base is unique. Best for deck/patio composting content."
+  last_verified: 2026-04-30
+
+fcmp-im4000-wk-wheeled-composter:
+  name: "FCMP Outdoor IM4000-WK Tumbling Composter with Wheels, 37 Gallon"
+  brand: "FCMP Outdoor"
+  amazon_asin: "B07YX6BH17"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/fcmp-im4000-wk-wheeled-composter.jpg"
+  category: "composting"
+  price_band: "mid"
+  default_pros:
+    - "Wheels allow rolling to the garden for unloading without lifting"
+    - "Same dual-chamber design as IM4000 with added mobility"
+    - "Elevated design accommodates a bucket underneath each chamber"
+  default_cons:
+    - "Wheels add cost over the standard IM4000 without adding composting capacity"
+    - "Wheels can sink into soft ground — works best on hard surfaces"
+  notes_for_writers: "Recommend over standard IM4000 for large gardens or mobility-limited gardeners. Small price difference is worth the mobility upgrade."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: lawn-care (5 products)
+# Note: DR Power sells primarily direct — ASIN requires manual verification.
+# ============================================================
+
+worx-wa4094-gutter-kit:
+  name: "WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit, 11\" Tubes"
+  brand: "WORX"
+  amazon_asin: "B07N2XNQ2V"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/worx-wa4094-gutter-kit.jpg"
+  category: "lawn-care"
+  price_band: "budget"
+  default_pros:
+    - "Universal adapter fits most major leaf blower brands"
+    - "11-inch curved tubes allow cleaning gutters from the ground — no ladder required"
+    - "Lightweight attachment adds virtually no weight to existing leaf blower"
+  default_cons:
+    - "Works best with high-CFM blowers — low-power blowers may not clear compacted debris"
+    - "Curved tube length may not reach all gutter sections on very wide roof overhangs"
+  notes_for_writers: "Position as the safety product — gutter cleaning from a ladder causes thousands of injuries annually. Universal fit is the key selling point over brand-specific kits."
+  last_verified: 2026-04-30
+
+toro-51621-ultraplus-blower-vac:
+  name: "Toro 51621 UltraPlus Leaf Blower Vacuum, 250 MPH, 12 Amp"
+  brand: "Toro"
+  amazon_asin: "B00TNCJU3E"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/toro-51621-ultraplus-blower-vac.jpg"
+  category: "lawn-care"
+  price_band: "budget"
+  default_pros:
+    - "3-in-1 blower, vacuum, and mulcher reduces 10 bags of leaves to 1 bag of mulch"
+    - "Metal impeller is significantly more durable than plastic impellers on budget models"
+    - "250 MPH airspeed clears heavy wet leaves better than most cordless models at this price"
+  default_cons:
+    - "Corded — requires an outdoor extension cord; limited range from outlet"
+    - "Loud operation at 70+ dB — ear protection recommended"
+  notes_for_writers: "Best corded leaf blower/vac for readers who want reliable power without battery management. Metal impeller and 10:1 mulch ratio are genuine differentiators."
+  last_verified: 2026-04-30
+
+ego-lb6004-backpack-blower:
+  name: "EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower"
+  brand: "EGO Power+"
+  amazon_asin: "B07KB4QT6G"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-lb6004-backpack-blower.jpg"
+  category: "lawn-care"
+  price_band: "premium"
+  default_pros:
+    - "Backpack design distributes battery weight across shoulders — much less fatigue than handheld"
+    - "600 CFM matches mid-range commercial gas backpack blowers"
+    - "56V ARC Lithium battery shares with all EGO tools"
+  default_cons:
+    - "Premium price — significantly more expensive than EGO handheld models"
+    - "Bulkier to store; backpack harness requires adjustment for fit"
+  notes_for_writers: "Best for large properties (half-acre or more). Backpack battery distribution is the key story — arm fatigue after 45 minutes of handheld blowing is real."
+  last_verified: 2026-04-30
+
+greenworks-40v-blower-vac:
+  name: "Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum"
+  brand: "Greenworks"
+  amazon_asin: "B00DRBBRVU"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenworks-40v-blower-vac.jpg"
+  category: "lawn-care"
+  price_band: "budget"
+  default_pros:
+    - "3-in-1 blower/vacuum/mulcher with 4.0Ah battery and charger included"
+    - "Brushless motor extends battery life and reduces maintenance vs brushed motor models"
+    - "340 CFM vacuum mode with collection bag handles light to moderate leaf cleanup"
+  default_cons:
+    - "185 MPH airspeed struggles with wet or matted leaves"
+    - "40V platform battery not compatible with Greenworks 24V or 80V lines"
+  notes_for_writers: "Budget-friendly battery blower/vac for readers who don't want to invest in the EGO platform. Brushless motor at this price is notable. Good for first-time cordless buyers."
+  last_verified: 2026-04-30
+
+dr-power-leaf-lawn-vacuum:
+  name: "DR Power Equipment Self-Propelled Leaf and Lawn Vacuum"
+  brand: "DR Power Equipment"
+  amazon_asin: "VERIFY-dr-power-leaf-vac"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/dr-power-leaf-lawn-vacuum.jpg"
+  category: "lawn-care"
+  price_band: "premium"
+  default_pros:
+    - "Self-propelled walk-behind design handles large properties without operator fatigue"
+    - "High-capacity collection bag reduces dump frequency on large leaf cleanup jobs"
+    - "Shreds leaves to 10:1 ratio — far fewer bags than raking"
+  default_cons:
+    - "Premium price point"
+    - "Primarily gas-powered; heavier and louder than cordless alternatives"
+  notes_for_writers: "ASIN REQUIRES VERIFICATION — DR Power sells primarily direct. Verify Amazon availability before publishing affiliate links. May need to link to drpower.com direct."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: lighting (5 products)
+# ============================================================
+
+ring-solar-pathlight-2pack:
+  name: "Ring Solar Pathlight Outdoor Motion-Sensor Security Light, 2-Pack"
+  brand: "Ring"
+  amazon_asin: "B082LSRZ2M"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ring-solar-pathlight-2pack.jpg"
+  category: "lighting"
+  price_band: "mid"
+  default_pros:
+    - "Integrates with Ring ecosystem — triggers recordings and sends app alerts on motion"
+    - "Solar-powered with no wiring; installs anywhere along a pathway in minutes"
+    - "Works with Alexa for voice control and smart home automation"
+  default_cons:
+    - "Requires Ring Bridge for app connectivity — adds complexity for non-Ring users"
+    - "80 lumens is relatively dim — better for pathway marking than security flood lighting"
+  notes_for_writers: "Best for readers already in the Ring ecosystem. For standalone solar security lighting, LEONLITE or Mr Beams are stronger picks."
+  last_verified: 2026-04-30
+
+litom-30led-solar-spotlight:
+  name: "LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack"
+  brand: "LITOM"
+  amazon_asin: "B075GQ54CY"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/litom-30led-solar-spotlight.jpg"
+  category: "lighting"
+  price_band: "budget"
+  default_pros:
+    - "Three lighting modes: motion-activated, permanent-on dim, and permanent-on bright"
+    - "IP67 waterproof rating — suitable for any climate including submersion"
+    - "4-pack provides coverage for an entire front pathway at one price"
+  default_cons:
+    - "Built-in rechargeable battery (not replaceable) will degrade after several years"
+    - "Placement restricted to sun-exposed locations"
+  notes_for_writers: "Best budget solar spotlight. IP67 rating (not just IP65) is the standout spec. Mention 3-mode operation for versatility."
+  last_verified: 2026-04-30
+
+leonlite-3cct-security-light:
+  name: "LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head"
+  brand: "LEONLITE"
+  amazon_asin: "B0C4PD4LLJ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/leonlite-3cct-security-light.jpg"
+  category: "lighting"
+  price_band: "budget"
+  default_pros:
+    - "Three selectable color temperatures (3000K/4000K/5000K) in one fixture"
+    - "Three independently adjustable heads cover a wider area than fixed dual-head models"
+    - "ETL listed and IP65 waterproof; suitable for hardwired permanent installation"
+  default_cons:
+    - "Hardwired installation — requires an electrician if no existing outdoor junction box"
+    - "No smart home integration"
+  notes_for_writers: "Best hardwired security light. Position against solar options: brighter, more reliable, no battery degradation. ETL certification is the safety credential to mention."
+  last_verified: 2026-04-30
+
+mr-beams-solar-wedge-plus:
+  name: "Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light"
+  brand: "Mr Beams"
+  amazon_asin: "B07W464JPY"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/mr-beams-solar-wedge-plus.jpg"
+  category: "lighting"
+  price_band: "budget"
+  default_pros:
+    - "410 lumens from 102 LEDs — brighter than most solar motion lights at this price"
+    - "No wiring required; mounts on any wall surface with included screws in minutes"
+    - "Built-in solar panel on top — self-contained, no separate panel to position"
+  default_cons:
+    - "Placement limited to walls with direct sun exposure"
+    - "Not compatible with smart home systems"
+  notes_for_writers: "Best truly wireless solar wall light. Easier installation than LEONLITE hardwired. Position for renters or readers who want no-commitment installation."
+  last_verified: 2026-04-30
+
+govee-outdoor-pathway-lights:
+  name: "Govee Outdoor Garden Lights 2-Pack, RGBWWIC IP66 Waterproof"
+  brand: "Govee"
+  amazon_asin: "B0DR2LHYXZ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/govee-outdoor-pathway-lights.jpg"
+  category: "lighting"
+  price_band: "mid"
+  default_pros:
+    - "16 million RGBWWIC colors with 64 preset scenes — fully customizable via app"
+    - "Compatible with Alexa and Google Home for voice control"
+    - "IP66 waterproof with stake mounting — install in garden beds or along pathways"
+  default_cons:
+    - "Requires Govee app and Wi-Fi; limited functionality without a smartphone"
+    - "NOT solar or battery-powered — requires low-voltage wiring"
+  notes_for_writers: "Smart color pathway light for outdoor aesthetics. Note clearly: these are wired, not solar. Contrast with LITOM solar spotlights for readers who want no-wire installation."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: raised-beds (5 products)
+# ============================================================
+
+vego-garden-6in1-17inch:
+  name: "Vego Garden 17\" Tall 6-in-1 Modular Metal Raised Bed, Olive Green"
+  brand: "Vego Garden"
+  amazon_asin: "B09FPXQGL5"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/vego-garden-6in1-17inch.jpg"
+  category: "raised-beds"
+  price_band: "mid"
+  default_pros:
+    - "17-inch depth deep enough for tomatoes, carrots, and squash without restriction"
+    - "Aluzinc-coated steel resists corrosion 3-5x longer than standard galvanized"
+    - "6 panels configure into six different shapes from square to L-shape to hexagon"
+  default_cons:
+    - "Metal panels get hot in direct sun — can affect soil temperature in hot climates"
+    - "Sharp panel edges during assembly — gloves required"
+  notes_for_writers: "Flagship Vego product. Lead with 17-inch depth advantage. Aluzinc coating is genuine differentiation from cheaper galvanized alternatives."
+  last_verified: 2026-04-30
+
+birdies-metal-raised-bed-patio:
+  name: "Birdies Metal Raised Garden Bed with Thermoplastic Base, 43\"x20\"x15\""
+  brand: "Birdies Garden Products"
+  amazon_asin: "B07NS6QRQ2"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/birdies-metal-raised-bed-patio.jpg"
+  category: "raised-beds"
+  price_band: "mid"
+  default_pros:
+    - "Thermoplastic base allows use on decks and patios without damaging surfaces"
+    - "15-inch depth suits most vegetables in a compact profile"
+    - "Birdies colorbond steel tested for garden use — no toxic coatings"
+  default_cons:
+    - "One size configuration — no modular expansion"
+    - "Thermoplastic base can crack in extreme cold"
+  notes_for_writers: "Best deck/patio raised bed. Thermoplastic base is the key differentiator. Position for balconies, rooftop gardens, and deck installations. Well-known in the Epic Gardening community."
+  last_verified: 2026-04-30
+
+greenes-premium-cedar-4x8:
+  name: "Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5\""
+  brand: "Greenes Fence"
+  amazon_asin: "B00NY2FFEC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenes-premium-cedar-4x8.jpg"
+  category: "raised-beds"
+  price_band: "mid"
+  default_pros:
+    - "North American cedar is naturally rot-resistant and contains no toxic preservatives"
+    - "17.5-inch depth with 3/4-inch thick boards — sturdier than cheap pine alternatives"
+    - "Made in USA; no-tool assembly with pre-cut boards and corner brackets"
+  default_cons:
+    - "Cedar weathers to grey over time — seal with linseed or tung oil to maintain appearance"
+    - "Larger 4x8 footprint requires more planning for placement"
+  notes_for_writers: "Natural wood alternative to metal raised beds. Compare to Vego Garden on longevity. Good for natural/organic gardening content."
+  last_verified: 2026-04-30
+
+frame-it-all-composite-4x8:
+  name: "Frame It All One Inch Series 4' x 8' x 11\" Composite Raised Garden Bed"
+  brand: "Frame It All"
+  amazon_asin: "B0050B2TGM"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/frame-it-all-composite-4x8.jpg"
+  category: "raised-beds"
+  price_band: "budget"
+  default_pros:
+    - "Composite material won't rot, crack, or splinter; resists UV fading"
+    - "Tool-free snap-together assembly; expandable with additional boards"
+    - "Lower price point than cedar or metal at equivalent dimensions"
+  default_cons:
+    - "Thinner and less rigid than solid wood or metal panels"
+    - "11-inch depth is shallow for deep-rooted vegetables — add extension boards for tomatoes"
+  notes_for_writers: "Budget composite pick. Expandable height feature is worth mentioning. Position for beginners starting their first raised bed."
+  last_verified: 2026-04-30
+
+vegega-17inch-6in1-metal-bed:
+  name: "VEGEGA 17-Inch Tall 6-in-1 Modular Metal Raised Garden Bed"
+  brand: "VEGEGA"
+  amazon_asin: "B09WH84SRK"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/vegega-17inch-6in1-metal-bed.jpg"
+  category: "raised-beds"
+  price_band: "mid"
+  default_pros:
+    - "Zinc-aluminum-magnesium coated steel lasts significantly longer than standard galvanized"
+    - "17-inch depth matches Vego Garden standard"
+    - "Rounded safety edges on all panels — less sharp during assembly than competitors"
+  default_cons:
+    - "More limited color selection than Vego Garden"
+    - "Assembly instructions can be unclear — third-party YouTube tutorials often more helpful"
+  notes_for_writers: "Direct Vego Garden competitor. Rounded edges are a genuine safety differentiation. Use as alternative when Vego is out of stock."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: hand-tools (5 products)
+# ============================================================
+
+pine-tree-tools-bamboo-gloves:
+  name: "Pine Tree Tools Bamboo Garden Gloves for Women & Men"
+  brand: "Pine Tree Tools"
+  amazon_asin: "B00W5TGD3W"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/pine-tree-tools-bamboo-gloves.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Bamboo fiber is naturally breathable and moisture-wicking — hands stay dry during long sessions"
+    - "Touchscreen-compatible fingertips allow phone use without removing gloves"
+    - "Machine washable; durable enough to outlast cheap nitrile gloves"
+  default_cons:
+    - "Not suitable for thorny plants like roses — thin bamboo offers minimal thorn protection"
+    - "Sizing runs small for some users — check reviews for fit"
+  notes_for_writers: "Amazon bestseller in gardening gloves. Bamboo fiber story (breathable, sustainable, antibacterial) is the differentiation. Great for planting and weeding — not pruning or thorn work."
+  last_verified: 2026-04-30
+
+foxgloves-original-gloves:
+  name: "Foxgloves Original Gardening Gloves, Purple/Medium"
+  brand: "Foxgloves"
+  amazon_asin: "B006C61Y42"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/foxgloves-original-gloves.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Extends past the wrist — protects forearms from scratches, splinters, and sun"
+    - "Machine washable spandex-blend fabric maintains fit after repeated washing"
+    - "Silicone grip pattern provides secure hold on tools without restricting dexterity"
+  default_cons:
+    - "Grip coating degrades with heavy use — rough surfaces wear the silicone faster"
+    - "Multiple color/size combinations listed as separate ASINs — buyers must select size carefully"
+  notes_for_writers: "Over-the-wrist protection is genuinely different from standard gloves. Great for readers who've scratched their forearms on rose canes or rough bark."
+  last_verified: 2026-04-30
+
+gorilla-grip-kneeling-pad:
+  name: "Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige"
+  brand: "Gorilla Grip"
+  amazon_asin: "B08SZQTWJV"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/gorilla-grip-kneeling-pad.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Extra-thick foam construction protects knees on hard surfaces like concrete or gravel"
+    - "Water-resistant surface wipes clean easily; foam doesn't absorb mud or fertilizer"
+    - "Lightweight and rolls for storage in a tool bag or shed corner"
+  default_cons:
+    - "Simple foam pad with no handles or seat conversion — less versatile than Ohuhu kneeler/seat"
+    - "Foam compression reduces cushioning after 1-2 seasons of heavy use"
+  notes_for_writers: "Budget entry kneeling pad. Compare to Ohuhu kneeler/seat for readers who want more functionality. Good for joint pain/aging gardener content."
+  last_verified: 2026-04-30
+
+ohuhu-garden-kneeler-seat:
+  name: "Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches"
+  brand: "Ohuhu"
+  amazon_asin: "B00YQUSERQ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ohuhu-garden-kneeler-seat.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Converts between kneeling pad and seat bench by flipping over — two tools in one"
+    - "Side handles help gardeners with limited mobility push up from kneeling position"
+    - "Two built-in tool pouches keep trowel, gloves, and small tools within reach"
+  default_cons:
+    - "Metal frame can rust if left outdoors through wet seasons"
+    - "Tool pouches are shallow — not suitable for larger tools"
+  notes_for_writers: "Most useful gardening comfort tool after gloves. Flip-over dual-function and side-handle push-up assistance are the story for seniors. Bundle with Pine Tree Tools gloves."
+  last_verified: 2026-04-30
+
+true-temper-looped-action-hoe:
+  name: "True Temper 2866300 Looped Action Hoe Cultivator, 54\" Handle"
+  brand: "True Temper"
+  amazon_asin: "B00U2KG0KM"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/true-temper-looped-action-hoe.jpg"
+  category: "hand-tools"
+  price_band: "budget"
+  default_pros:
+    - "Oscillating stirrup-loop blade cuts weeds on both the push and pull stroke — twice as efficient"
+    - "54-inch handle allows upright weeding posture with no bending — reduces back strain"
+    - "Steel loop blade is replaceable when it wears"
+  default_cons:
+    - "Loop blade requires sharpening periodically in compacted soil"
+    - "Less effective for hilling than a traditional flat-blade hoe"
+  notes_for_writers: "Major upgrade over flat-blade hoes. Push-pull cutting action and upright posture is compelling for raised bed content. True Temper has strong category recognition."
+  last_verified: 2026-04-30
+
+# ============================================================
+# HAND TOOLS: Pruners (referenced in existing articles)
+# ============================================================
 
 fiskars-pro-bypass-pruner:
   name: "Fiskars Pro 91095935J Steel Bypass Pruning Shears"
@@ -74,154 +1132,984 @@ felco-2-pruner:
   notes_for_writers: "The heirloom pick. Position as an investment, not an impulse."
   last_verified: 2026-04-30
 
-ego-56v-battery-mower:
-  name: "EGO Power+ LM2135SP 21-Inch Self-Propelled Lawn Mower"
-  brand: "EGO"
-  amazon_asin: "B08XXXEGO1"
+# ============================================================
+# CLUSTER: battery-equipment (additions)
+# Stihl is dealer-only in the US — GreenWorks 80V and EGO used as Amazon affiliate targets.
+# Stihl-keyword articles should be written as comparison/alternative pieces.
+# ============================================================
+
+ego-st1521s-string-trimmer:
+  name: "EGO POWER+ ST1521S 15\" String Trimmer with POWERLOAD, 56V 2.5Ah Kit"
+  brand: "EGO Power+"
+  amazon_asin: "B07BBW8P9Y"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/ego-56v-battery-mower.jpg"
+  default_image: "/images/products/ego-st1521s-string-trimmer.jpg"
   category: "battery-equipment"
-  price_band: "premium"
+  price_band: "mid"
   default_pros:
-    - "56V battery genuinely matches gas runtime on typical lawns"
-    - "Self-propelled drive reduces fatigue on slopes"
-    - "Quiet enough to mow early morning without complaints"
+    - "POWERLOAD technology feeds line automatically — no more manual reloading mid-job"
+    - "Carbon fiber split shaft reduces vibration and allows easy transport and storage"
+    - "56V 2.5Ah battery and rapid charger included — complete kit out of the box"
   default_cons:
-    - "Battery sold separately on some SKUs — check listing"
-    - "Heavy at 89 lbs — storage matters"
-  notes_for_writers: "Flagship battery mower. Best overall for most residential users."
+    - "POWERLOAD accepts only specific EGO line cartridges — cannot use bulk string from other brands"
+    - "15-inch cutting width is narrower than the 56cm decks on gas trimmers"
+  notes_for_writers: "Stihl FSA 57/86/90 R articles should recommend this as the Amazon-available alternative. POWERLOAD automatic line feed is a genuine differentiator. Same 56V battery as all EGO tools."
   last_verified: 2026-04-30
 
-greenworks-40v-mower:
-  name: "Greenworks 40V 17-Inch Cordless Lawn Mower"
-  brand: "Greenworks"
-  amazon_asin: "B08XXXGW01"
+ego-agc1000-gutter-cleaning-kit:
+  name: "EGO POWER+ AGC1000 Gutter Cleaning Attachment"
+  brand: "EGO Power+"
+  amazon_asin: "B086MBP5WC"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/greenworks-40v-mower.jpg"
+  default_image: "/images/products/ego-agc1000-gutter-cleaning-kit.jpg"
   category: "battery-equipment"
   price_band: "budget"
   default_pros:
-    - "Battery + charger usually included"
-    - "Lightweight — easy to manoeuvre and store"
-    - "Good for lots under 1/4 acre"
+    - "Compatible with EGO LB5300, LB5750, LB5800, LB6150, LB6500, LB6700, and LB7650 blowers"
+    - "Cleans gutters from the ground — eliminates ladder climbing and the injury risk that comes with it"
+    - "Curved tube angles into gutter channels and directs debris out effectively"
   default_cons:
-    - "40V platform less powerful on thick grass"
-    - "17-inch deck means more passes on larger lawns"
-  notes_for_writers: "Budget pick. Be honest about lot-size limits."
+    - "EGO blower required — not a universal attachment (see WORX WA4094 for universal option)"
+    - "Requires a reasonably high-CFM blower; less effective on LB5300 at minimum settings"
+  notes_for_writers: "Pair with EGO lb6504-leaf-blower content. Gutter cleaning from the ground is a compelling safety story. Cross-reference WORX WA4094 for readers who don't own EGO blowers."
   last_verified: 2026-04-30
 
-cedar-raised-bed-4x8:
-  name: "Vego Garden 17-Inch Tall Metal Raised Garden Bed"
-  brand: "Vego Garden"
-  amazon_asin: "B09VEGO001"
+ego-hta2000-hedge-trimmer-attachment:
+  name: "EGO POWER+ HTA2000 20\" Hedge Trimmer Attachment for Multi-Head System"
+  brand: "EGO Power+"
+  amazon_asin: "B08LZBQLVT"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/vego-raised-bed.jpg"
+  default_image: "/images/products/ego-hta2000-hedge-trimmer-attachment.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "Extends telescoping reach for trimming tall hedges and overhead branches from the ground"
+    - "Single blade head attachment integrates into the EGO Multi-Head Power System"
+    - "56V platform battery shared across all EGO attachments and tools"
+  default_cons:
+    - "Requires EGO PH1400E power head (sold separately) — attachment only, not a standalone tool"
+    - "20-inch blade is shorter than dedicated pole hedge trimmers from other brands"
+  notes_for_writers: "For Stihl HLA 56/86/135 pole hedge trimmer articles, recommend this EGO setup as the Amazon-purchasable alternative. Note clearly: PH1400E power head required. Total cost is PH1400E + HTA2000."
+  last_verified: 2026-04-30
+
+greenworks-pro-80v-25in-mower-blower-kit:
+  name: "Greenworks PRO 80V 25\" Self-Propelled Mower + 730 CFM Blower Combo Kit, 4.0Ah"
+  brand: "Greenworks"
+  amazon_asin: "B0CBC83RR3"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenworks-pro-80v-25in-mower-blower-kit.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "25-inch deck covers large lawns faster than standard 21-inch battery mowers"
+    - "730 CFM blower included — a high-spec yard blower paired with the mower for one price"
+    - "80V brushless motor on both tools; single 4.0Ah battery runs both"
+  default_cons:
+    - "Two-tool combo adds cost if only a mower is needed"
+    - "80V battery not compatible with Greenworks 40V or 24V tool lines"
+  notes_for_writers: "Best Amazon-available substitute for Stihl RMA/iMow battery lawn mower articles. 80V is Greenworks' flagship platform — equivalent power tier to Stihl AP 300 system. Emphasize 25-inch deck as the large-property advantage."
+  last_verified: 2026-04-30
+
+greenworks-pro-80v-610-backpack-blower:
+  name: "Greenworks PRO 80V 610 CFM Cordless Backpack Leaf Blower, 2.5Ah Battery + Charger"
+  brand: "Greenworks"
+  amazon_asin: "B01ID88JLW"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenworks-pro-80v-610-backpack-blower.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "610 CFM backpack-mounted battery means weight goes on your back, not your arms"
+    - "80V brushless motor platform — equivalent tier to Stihl BGA 300 cordless backpack blowers"
+    - "Same 80V battery as Greenworks mowers and string trimmers"
+  default_cons:
+    - "2.5Ah battery gives approximately 30-40 minutes at full throttle"
+    - "Backpack volume is bulkier to store than handheld models"
+  notes_for_writers: "For Stihl BGA 100/200/300 backpack blower articles, recommend this Greenworks 80V as the comparable Amazon alternative. 610 CFM at backpack weight distribution is the key story. Well-established listing with strong review base."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: outdoor-furniture (additions — real teak and fabric)
+# ============================================================
+
+titan-grade-a-teak-adirondack-chair:
+  name: "Ash & Ember Grade A Solid Teak Wood Adirondack Chair"
+  brand: "TITAN Great Outdoors"
+  amazon_asin: "B0C4DWCVD9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/titan-grade-a-teak-adirondack-chair.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "Grade A teak (heartwood-only) is the top tier — densest, most oil-rich, longest-lasting"
+    - "Traditional Adirondack design in real wood — warm grain aesthetic POLYWOOD resin can't replicate"
+    - "Natural teak oils resist rot and insects without any treatment in temperate climates"
+  default_cons:
+    - "Requires oiling every 1-2 years to maintain golden brown color; weathers to silver-grey without treatment"
+    - "Significantly heavier than POLYWOOD folding models at 35-40 lbs"
+  notes_for_writers: "Real-wood alternative to POLYWOOD content. Grade A vs Grade B teak explanation is a strong editorial angle. Contrast with POLYWOOD on maintenance: teak needs oil, POLYWOOD needs nothing."
+  last_verified: 2026-04-30
+
+rsh-decor-sunbrella-deep-seat-cushion:
+  name: "RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25\"x25\""
+  brand: "RSH Decor"
+  amazon_asin: "B08JCJKMT9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/rsh-decor-sunbrella-deep-seat-cushion.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "Genuine Sunbrella fabric (solution-dyed acrylic) is the category standard for fade and mold resistance"
+    - "Deep seat + back cushion set replaces worn cushions on sectionals, loveseats, and chairs"
+    - "Multiple fill options including high-density and quick-dry polyester"
+  default_cons:
+    - "Sunbrella fabric carries a premium price over standard polyester cushion covers"
+    - "Measure existing cushions carefully — sizing varies and returns on large cushions are inconvenient"
+  notes_for_writers: "Strong replacement cushion article angle: readers with aging patio sets need cushion upgrades more than new furniture. Sunbrella is the brand readers trust. Pair with POLYWOOD furniture content."
+  last_verified: 2026-04-30
+
+all-things-cedar-ts50-teak-porch-swing:
+  name: "All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing"
+  brand: "All Things Cedar"
+  amazon_asin: "B0117O4MYC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/all-things-cedar-ts50-teak-porch-swing.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "Solid Grade A teak construction with brass hardware that won't rust or stain"
+    - "500 lb capacity; accommodates two adults comfortably on 54-inch seat width"
+    - "Ships with hanging ropes included — ready to hang from a porch beam or pergola"
+  default_cons:
+    - "Hanging hardware (S-hooks, chain) typically sold separately for ceiling/beam mounting"
+    - "Teak weathers to silver-grey without regular oiling — commitment required for warm brown color"
+  notes_for_writers: "Only major teak porch swing on Amazon. NOTE: As of Apr 2026 only 12 reviews and 'High price' badge — thin social proof. Supplement your copy with quotes/context from Anderson Teak or All Things Cedar brand pages. Hanging hardware (S-hooks, chain) sold separately — flag this clearly. Cross-link with pergola/porch structure content."
+  last_verified: 2026-04-30
+
+anderson-teak-gl101-glider-bench:
+  name: "Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench"
+  brand: "Anderson Teak"
+  amazon_asin: "B00EW05EW8"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/anderson-teak-gl101-glider-bench.jpg"
+  category: "outdoor-furniture"
+  price_band: "premium"
+  default_pros:
+    - "Solid Grade A teak construction with stainless steel hardware that won't rust or stain"
+    - "Smooth gliding motion on precision bearings — more relaxing than a static bench"
+    - "Anderson Teak is a specialist brand with a dedicated teak furniture focus"
+  default_cons:
+    - "Premium price ($2,000+) — this is a long-term investment piece, not an impulse buy"
+    - "Thin review count on Amazon listing — consider linking to Anderson Teak's own site for social proof"
+  notes_for_writers: "Only genuine teak glider bench consistently in stock on Amazon. Note the thin Amazon review count in your copy — direct readers to Anderson Teak brand site for full review context. Position as a generational garden piece. Teak oiling every 1-2 years to maintain colour."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: raised-beds (additions — standard-height cedar)
+# ============================================================
+
+greenes-cedar-4x8-standard:
+  name: "Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 10.5\""
+  brand: "Greenes Fence"
+  amazon_asin: "B00E0ODFGI"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenes-cedar-4x8-standard.jpg"
+  category: "raised-beds"
+  price_band: "mid"
+  default_pros:
+    - "North American cedar resists rot naturally without chemical treatment — safe for edibles"
+    - "3/4-inch thick boards are substantially sturdier than 1/2-inch competitor kits at similar prices"
+    - "No-tool assembly with pre-cut boards and corner brackets; hardware included"
+  default_cons:
+    - "10.5-inch depth is adequate for most crops but shallower than premium 17-inch metal beds"
+    - "Cedar greys naturally over time — treat with linseed or tung oil to preserve warm color"
+  notes_for_writers: "Most popular cedar raised bed kit on Amazon. Different from the 17.5\" tall version (greenes-premium-cedar-4x8). This is the right pick for beginner/budget cedar bed articles and 'best cedar raised bed' roundups."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: structures (additions — smaller/entry greenhouse)
+# ============================================================
+
+palram-hybrid-6x8-greenhouse:
+  name: "Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit, Silver"
+  brand: "Palram Canopia"
+  amazon_asin: "B00P0REDI8"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-hybrid-6x8-greenhouse.jpg"
   category: "structures"
   price_band: "mid"
   default_pros:
-    - "Aluzinc steel — 20-year lifespan claim"
-    - "17-inch depth suits root vegetables properly"
-    - "Modular — can be extended"
+    - "Twin-wall polycarbonate roof panels retain more heat than single-wall alternatives"
+    - "Compact 6x8 footprint fits most suburban backyards; smallest practical full greenhouse size"
+    - "Galvanized steel base frame included — rare at this price and prevents ground-level rust"
   default_cons:
-    - "Assembly requires two people"
-    - "Metal heats up in full summer sun — mulch matters"
-  notes_for_writers: "Category leader right now. Worth best-overall slot."
+    - "Lower internal headroom than 8x12 or 8x16 models — limits tall-crop growing"
+    - "Assembly still requires two people and a full day despite smaller size"
+  notes_for_writers: "Entry-level full greenhouse for 'first greenhouse' and 'small greenhouse kit' content. Contrast with Snap & Grow 6x12 on roof insulation (twin-wall here vs single-wall there). Cedar-framed wood greenhouses are mostly direct-only brands — this Palram is the best Amazon affiliate option for 'cedar greenhouse' keyword articles. NOTE: As of Apr 2026 this listing has only 3rd-party sellers (Poly-Tex, no Amazon-fulfilled offer) and a 'High price' badge — monitor conversion and consider the 6x12 Snap & Grow as a fallback."
   last_verified: 2026-04-30
 
-gorilla-cart-poly-dump:
-  name: "Gorilla Carts GOR6PS Heavy-Duty Poly Yard Dump Cart"
-  brand: "Gorilla Carts"
-  amazon_asin: "B001GOR001"
-  awin_advertiser_id: null
-  awin_product_url: null
-  category: "yard-tools"
-  price_band: "mid"
-  default_image: "/images/products/gorilla-cart-poly.jpg"
-  default_pros:
-    - "1,200 lb capacity — serious utility"
-    - "Poly bed won't rust or splinter"
-    - "Dump mechanism works smoothly when loaded"
-  default_cons:
-    - "Pneumatic tyres need occasional inflation"
-    - "Wide — tight paths can be awkward"
-  notes_for_writers: "Best value utility cart. Used by pros and serious gardeners alike."
-  last_verified: 2026-04-30
+# ============================================================
+# CLUSTER: lawn-care (additions — tow-behind sweeper/vac)
+# ============================================================
 
-haws-watering-can-2gal:
-  name: "Haws Practican 1.3 Gallon Plastic Watering Can"
-  brand: "Haws"
-  amazon_asin: "B00HAWS001"
+agri-fab-45-0492-tow-behind-sweeper:
+  name: "Agri-Fab 45-0492 44\" Tow-Behind Lawn Sweeper, 28 cu.ft. Hopper"
+  brand: "Agri-Fab"
+  amazon_asin: "B00B7E75VU"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/haws-watering-can.jpg"
-  category: "watering"
+  default_image: "/images/products/agri-fab-45-0492-tow-behind-sweeper.jpg"
+  category: "lawn-care"
   price_band: "mid"
   default_pros:
-    - "Long spout — precision watering at the root"
-    - "Balanced when full — reduced wrist strain"
-    - "British-made, 10-year guarantee"
+    - "44-inch sweeping width covers large lawns in fewer passes behind a riding mower or ATV"
+    - "28 cu.ft. hopper capacity handles a full acre of leaves before needing to dump"
+    - "Brushes collect leaves, grass clippings, pine needles, and light debris simultaneously"
   default_cons:
-    - "1.3 gallon capacity means more trips for large beds"
-    - "Rose (sprinkler head) sold separately"
-  notes_for_writers: "Premium but not ludicrous. Good for best-overall watering can slot."
+    - "Sweeper only — relies on contact brushes, not suction; compacted wet leaves may resist pickup"
+    - "Requires a riding mower or garden tractor with hitch; cannot be used as a walk-behind tool"
+  notes_for_writers: "Best Amazon-available large-property leaf collection tool. For DR Power leaf vacuum articles (DR Power is direct-only), recommend this Agri-Fab as the hitch-compatible Amazon alternative. Distinguish sweeper (brush contact) from vacuum (suction) so readers know what they're buying."
   last_verified: 2026-04-30
 
-corona-transplanting-trowel:
-  name: "Corona CT 3020 Transplanting Trowel"
-  brand: "Corona"
-  amazon_asin: "B00CORO001"
+# ============================================================
+# CLUSTER: outdoor-furniture (further additions)
+# ============================================================
+
+eno-doublenest-hammock:
+  name: "ENO Eagles Nest Outfitters DoubleNest Lightweight Camping Hammock"
+  brand: "ENO"
+  amazon_asin: "B001DDWKTM"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/corona-transplanting-trowel.jpg"
-  category: "hand-tools"
+  default_image: "/images/products/eno-doublenest-hammock.jpg"
+  category: "outdoor-furniture"
   price_band: "budget"
   default_pros:
-    - "Depth markings on blade — useful for bulb planting"
-    - "Comfortable ergonomic grip"
-    - "Rust-resistant stainless steel"
+    - "Packs to the size of a grapefruit — fits in a day bag or garden shed corner"
+    - "400 lb capacity on a 4x8 ft hang area; holds two adults comfortably"
+    - "Triple-interlocking stitching on all stress points; tested to 400+ lb"
   default_cons:
-    - "Narrower blade than some prefer for heavy soil"
-  notes_for_writers: "Best budget trowel. Reliable entry-level pick."
+    - "Straps not included — Atlas or Helios tree straps sold separately"
+    - "Nylon mesh is cool in summer but cold in autumn without an underquilt"
+  notes_for_writers: "Best gateway hammock. The missing-strap detail trips up buyers — mention it prominently. Pair with tree-strap content. ENO's US-based customer service is genuine differentiator over cheaper knockoffs."
   last_verified: 2026-04-30
 
-dewit-forged-hoe:
-  name: "DeWit Forged Dutch Hoe"
-  brand: "DeWit"
-  amazon_asin: "B00DEWIT01"
+vivere-combo2-stnd-hammock-stand:
+  name: "Vivere Double Cotton Hammock with Steel Stand, 9 Ft."
+  brand: "Vivere"
+  amazon_asin: "B004YJCP7O"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/dewit-dutch-hoe.jpg"
-  category: "hand-tools"
-  price_band: "premium"
+  default_image: "/images/products/vivere-combo2-stnd-hammock-stand.jpg"
+  category: "outdoor-furniture"
+  price_band: "budget"
   default_pros:
-    - "Boron steel — forged, not stamped"
-    - "Ash handle with natural flex"
-    - "Dutch push-pull action efficient in tight rows"
+    - "Complete set — hammock and steel stand included, no tree required"
+    - "Cotton hammock is soft and breathable; 450 lb total capacity"
+    - "Steel stand folds flat for winter storage"
   default_cons:
-    - "Price is hard to justify for occasional use"
-    - "Handle length fixed — order the right size"
-  notes_for_writers: "The tool enthusiast's pick. Position as a lifetime buy."
+    - "Cotton is not weatherproof — must bring inside or use a cover when not in use"
+    - "Steel stand can rust if left out through wet seasons without treatment"
+  notes_for_writers: "Best entry hammock-plus-stand combo. No-tree-required angle is strong for urban gardens and small yards. Cotton vs polyester durability is the tradeoff to cover honestly."
   last_verified: 2026-04-30
 
-husqvarna-automower-115h:
-  name: "Husqvarna Automower 115H Robotic Lawn Mower"
-  brand: "Husqvarna"
-  amazon_asin: "B08HUSQ115"
+christopher-knight-acacia-dining-table:
+  name: "Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table"
+  brand: "Christopher Knight Home"
+  amazon_asin: "B01MXS7121"
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: "/images/products/husqvarna-automower-115h.jpg"
+  default_image: "/images/products/christopher-knight-acacia-dining-table.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "Solid acacia hardwood — denser and more weather-resistant than eucalyptus or pine alternatives"
+    - "Clean straight-line design pairs with most outdoor chair styles"
+    - "At this price, offers real wood warmth that POLYWOOD can't replicate"
+  default_cons:
+    - "Acacia requires oiling 1-2 times per year to prevent cracking and graying"
+    - "Assembly required; some reported fit tolerance inconsistencies in review"
+  notes_for_writers: "Mid-price real wood dining table. Good honest comparison to POLYWOOD: acacia looks warmer but needs maintenance. Pair with POLYWOOD Nautical dining set for budget vs premium wood vs synthetic roundups."
+  last_verified: 2026-04-30
+
+keter-corfu-2seat-loveseat:
+  name: "Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, Grey"
+  brand: "Keter"
+  amazon_asin: "B00C5C7OMI"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/keter-corfu-2seat-loveseat.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "All-weather resin construction — no rust, rot, or paint required"
+    - "Built-in storage compartment under the seat holds cushions or garden accessories"
+    - "Includes two cushions; UV-resistant fabric"
+  default_cons:
+    - "Resin weave aesthetic is clearly synthetic — lacks wood or wicker warmth"
+    - "Cushion quality is entry-level; many owners upgrade to Sunbrella replacements after a season"
+  notes_for_writers: "Best value outdoor loveseat with storage. Built-in storage is the differentiator. Cross-sell with Sunbrella replacement cushion content for upgrade angle."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: battery-equipment (further additions)
+# ============================================================
+
+milwaukee-m18-fuel-16in-chainsaw:
+  name: "Milwaukee 2727-21HD M18 FUEL 16\" Chainsaw Kit with 12.0Ah Battery"
+  brand: "Milwaukee Tool"
+  amazon_asin: "B07FDVWY9T"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/milwaukee-m18-fuel-16in-chainsaw.jpg"
   category: "battery-equipment"
   price_band: "premium"
   default_pros:
-    - "Fully autonomous — set schedule and forget"
-    - "Mulching cuts eliminate grass disposal"
-    - "Quiet enough for night operation"
+    - "POWERSTATE brushless motor delivers equivalent power to gas chainsaws in its class"
+    - "M18 battery platform shared with 250+ Milwaukee power tools"
+    - "Auto-tensioning chain system eliminates manual chain adjustment stops mid-job"
   default_cons:
-    - "Boundary wire installation is a half-day job"
-    - "Struggles with steep slopes above 40%"
-    - "Subscription app features on some models"
-  notes_for_writers: "Premium robotic option. Good for comparison vs standard battery mowers."
+    - "Premium price — significantly more expensive than EGO at equivalent bar length"
+    - "Best value only for existing M18 users; standalone buyers should compare EGO total cost"
+  notes_for_writers: "Best chainsaw for existing Milwaukee M18 ecosystem users — shared battery is the only compelling reason to choose Milwaukee over EGO. For readers not already in the ecosystem, EGO CS1804 is better value. Cover both angles."
+  last_verified: 2026-04-30
+
+ryobi-40v-hp-21in-self-propelled-mower:
+  name: "Ryobi 40V HP Brushless 21\" Whisper Series Self-Propelled Lawn Mower"
+  brand: "Ryobi"
+  amazon_asin: "B0BL85Q1GY"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ryobi-40v-hp-21in-self-propelled-mower.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "Whisper Series is among the quietest battery mowers tested — 75 dB vs gas at 95 dB+"
+    - "40V HP brushless motor with 7.5Ah battery included; single charge handles most suburban yards"
+    - "40V battery compatible with 80+ Ryobi outdoor tools"
+  default_cons:
+    - "40V is one tier below EGO 56V and Greenworks 80V in sustained power on thick grass"
+    - "Ryobi 40V battery not cross-compatible with Ryobi 18V ONE+ tool range"
+  notes_for_writers: "Best entry-point cordless mower for budget-conscious buyers. Whisper Series noise reduction angle is unique — great for early-morning mowing content and noise-sensitive neighborhoods. Position between budget gas and premium EGO."
+  last_verified: 2026-04-30
+
+ego-snt2112-snow-blower:
+  name: "EGO POWER+ SNT2112 21\" 2-Stage Snow Blower with Peak Power Dual Battery Kit"
+  brand: "EGO Power+"
+  amazon_asin: "B09FQ2WSKK"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-snt2112-snow-blower.jpg"
+  category: "battery-equipment"
+  price_band: "premium"
+  default_pros:
+    - "Two 56V batteries in parallel deliver peak power equivalent to 2-stage gas snow blowers"
+    - "21-inch clearing width handles standard suburban driveways in 2-3 passes"
+    - "No fuel, no oil, no pull-cord starts — ready in cold weather when gas engines struggle"
+  default_cons:
+    - "Significant investment for a seasonal tool"
+    - "Two battery charges required per session in heavy snowfall — plan charging schedule"
+  notes_for_writers: "For four-season garden sites, snow blower content is a natural autumn article. Peak Power dual-battery system is genuinely impressive vs single-battery competitors. Best positioned as the premium gas-alternative for eco-conscious readers."
+  last_verified: 2026-04-30
+
+ego-cta9500-cultivator-attachment:
+  name: "EGO POWER+ CTA9500 9.5\" Cultivator Attachment for Multi-Head System"
+  brand: "EGO Power+"
+  amazon_asin: "B07TWB3RH5"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/ego-cta9500-cultivator-attachment.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "9.5-inch tilling width suitable for raised beds and established garden rows"
+    - "Fits EGO Multi-Head power system alongside hedge trimmer, edger, and pole saw attachments"
+    - "One-tool body, multiple heads — reduces storage footprint significantly"
+  default_cons:
+    - "Requires EGO PH1400E Multi-Head power head (sold separately) — attachment only"
+    - "9.5-inch width is narrower than standalone electric tillers for new bed preparation"
+  notes_for_writers: "Ideal cross-sell for raised bed content — pair with Vego Garden or Greenes bed reviews. Multi-Head system is a strong system-purchase argument for EGO users. Note PH1400E power head requirement clearly."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: structures (further additions)
+# ============================================================
+
+suncast-sutton-7x7-shed:
+  name: "Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed"
+  brand: "Suncast"
+  amazon_asin: "B00NP34O56"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/suncast-sutton-7x7-shed.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "Resin construction never needs painting, staining, or rot treatment"
+    - "Double-wall panel construction is more rigid than thin single-wall resin sheds"
+    - "Lockable hinged door; skylight panel lets natural light into the interior"
+  default_cons:
+    - "Floor not included — requires a prepared level base or deck frame"
+    - "49 sq ft interior is best for tools and lawn equipment rather than a full workshop"
+  notes_for_writers: "Mid-range resin shed alternative to Arrow steel. Position on maintenance: no painting, no rust, no rot — resin wins on long-term effort. Compare vs Arrow Select steel (more durable panels but requires rust prevention) and Yardistry cedar (beautiful but needs staining)."
+  last_verified: 2026-04-30
+
+palram-martinique-10x12-gazebo:
+  name: "Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof"
+  brand: "Palram Canopia"
+  amazon_asin: "B07RCWNPT9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-martinique-10x12-gazebo.jpg"
+  category: "structures"
+  price_band: "premium"
+  default_pros:
+    - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light — no harsh glare"
+    - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
+    - "120 sq ft shade coverage accommodates a full outdoor dining set underneath"
+  default_cons:
+    - "Premium price for a permanent structure; installation requires two people and half a day"
+    - "No walls included — open-air design offers no wind or rain protection on the sides"
+  notes_for_writers: "Best permanent hardtop gazebo for serious outdoor living spaces. Polycarbonate roof vs fabric canopy is the durability story — no saggy, faded, torn canopy after 3 years. Pair with outdoor furniture roundup content."
+  last_verified: 2026-04-30
+
+all-things-cedar-ga87-garden-arbor:
+  name: "All Things Cedar GA87 60\" Wide Cedar Garden Arbor with Trellis Panels"
+  brand: "All Things Cedar"
+  amazon_asin: "B00YYEW556"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/all-things-cedar-ga87-garden-arbor.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "Naturally rot-resistant cedar requires no chemical treatment — safe next to edibles"
+    - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
+    - "60-inch width accommodates a garden path or gate entrance comfortably"
+  default_cons:
+    - "Cedar will grey without staining or oiling every 2-3 years"
+    - "Requires setting posts in concrete for permanent placement in windy sites"
+  notes_for_writers: "Classic garden entrance feature. Strong angle: before/after photography appeal for garden makeover content. Natural wood vs vinyl arbors — cedar ages beautifully grey, vinyl looks plastic forever. Cross-link with climbing plant and trellis content."
+  last_verified: 2026-04-30
+
+palram-plant-inn-mini-greenhouse:
+  name: "Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter"
+  brand: "Palram Canopia"
+  amazon_asin: "B006GX8EOO"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/palram-plant-inn-mini-greenhouse.jpg"
+  category: "structures"
+  price_band: "mid"
+  default_pros:
+    - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
+    - "Polycarbonate panels diffuse light evenly without scorching seedlings"
+    - "Elevated planter base keeps soil off the ground — no weeds, better drainage"
+  default_cons:
+    - "Very small growing area — best for seedlings and overwintering a few tender plants"
+    - "Not a full walk-in greenhouse — no headroom; accessed by lifting the roof panels"
+  notes_for_writers: "Best entry point for 'extend your growing season' and 'first greenhouse' content. Position clearly as a season extender / cold frame, not a full greenhouse. Great for readers who want to start seeds earlier or overwinter herbs."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: birds-wildlife (further additions)
+# ============================================================
+
+first-nature-3055-hummingbird-feeder:
+  name: "First Nature 3055 32-oz Hummingbird Feeder, Red"
+  brand: "First Nature"
+  amazon_asin: "B003R2SKIC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/first-nature-3055-hummingbird-feeder.jpg"
+  category: "birds-wildlife"
+  price_band: "budget"
+  default_pros:
+    - "Wide-mouth base unscrews completely for easy cleaning — the biggest hummingbird feeder frustration solved"
+    - "10 feeding ports accommodate multiple hummingbirds simultaneously during peak migration"
+    - "Red color is proven to attract hummingbirds; no dye needed in nectar"
+  default_cons:
+    - "32 oz capacity requires frequent cleaning in summer heat — nectar ferments in 3-5 days"
+    - "Plastic construction is functional but lacks the aesthetic quality of glass feeders"
+  notes_for_writers: "Best-value hummingbird feeder. Easy cleaning is the genuine differentiator — old nectar is the primary reason hummingbirds abandon feeders. Position honestly: great function, not premium looks. Pair with homemade nectar recipe content."
+  last_verified: 2026-04-30
+
+natures-hangout-window-bird-feeder:
+  name: "Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray"
+  brand: "Nature's Hangout"
+  amazon_asin: "B00YSU3WG2"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/natures-hangout-window-bird-feeder.jpg"
+  category: "birds-wildlife"
+  price_band: "budget"
+  default_pros:
+    - "Clear acrylic mounting brings birds within inches of indoor viewers — best close-up wildlife experience"
+    - "Large capacity (4+ cups) handles multiple species simultaneously"
+    - "Award-winning design; suction cups tested to hold for 12+ months without repositioning"
+  default_cons:
+    - "Birds may take days or weeks to discover and trust a window-mounted feeder"
+    - "Cleaning requires removing from window — more involved than a pole-mounted feeder"
+  notes_for_writers: "Perfect for urban/apartment gardens and readers with limited outdoor space. Close-up viewing experience is the unique angle vs pole-mounted feeders. Pair with bird identification content."
+  last_verified: 2026-04-30
+
+orbit-62100-yard-enforcer-sprinkler:
+  name: "Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection"
+  brand: "Orbit"
+  amazon_asin: "B009F1R0GC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/orbit-62100-yard-enforcer-sprinkler.jpg"
+  category: "birds-wildlife"
+  price_band: "mid"
+  default_pros:
+    - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
+    - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
+    - "120-degree detection range up to 40 feet; covers a full garden bed"
+  default_cons:
+    - "Can be triggered by other movement (blowing shrubs, passing people) — positioning matters"
+    - "Requires regular battery changes; 7,500 activations per set"
+  notes_for_writers: "Best humane deer deterrent for garden beds. Mention the training effect: animals learn to avoid the zone over 2-3 weeks. Pair with liquid fence repellent content for a layered deterrent approach."
+  last_verified: 2026-04-30
+
+alpine-3tier-pedestal-birdbath:
+  name: "Alpine Corporation 35\" Tall 3-Tier Pedestal Birdbath, Green"
+  brand: "Alpine Corporation"
+  amazon_asin: "B000W5NGMM"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/alpine-3tier-pedestal-birdbath.jpg"
+  category: "birds-wildlife"
+  price_band: "budget"
+  default_pros:
+    - "Classic tiered fountain design catches overflow in lower basins — birds use all levels"
+    - "Resin construction is lightweight and frost-resistant vs heavy cast concrete alternatives"
+    - "35-inch height positions water away from ground-level predators"
+  default_cons:
+    - "Resin can fade or become brittle after several years of direct UV exposure"
+    - "No pump included — water is static; consider adding a solar bubbler pump for bird attraction"
+  notes_for_writers: "Budget entry pedestal bath. Classic garden aesthetic at a low price point. Mention that moving water (via solar pump addon like Smart Solar AquaNura) attracts 3-4x more birds than static — natural cross-sell."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: fire-and-heat (further additions)
+# ============================================================
+
+breeo-x-series-24-fire-pit:
+  name: "Breeo X Series 24 Stainless Steel Smokeless Fire Pit"
+  brand: "Breeo"
+  amazon_asin: "B09WGZTLKC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/breeo-x-series-24-fire-pit.jpg"
+  category: "fire-and-heat"
+  price_band: "premium"
+  default_pros:
+    - "Double-wall airflow design matches Solo Stove Bonfire 2.0 on smokeless performance"
+    - "Patented SearPlate rim doubles as a cooking surface — grill directly on the fire pit edge"
+    - "American-made stainless steel; lifetime warranty against rust"
+  default_cons:
+    - "Premium price — significantly more expensive than Solo Stove at equivalent performance"
+    - "Heavier than Solo Stove Bonfire at 30 lbs; less portable"
+  notes_for_writers: "Best Breeo vs Solo Stove comparison article product. SearPlate cooking rim is the genuine Breeo differentiator. Both smokeless pits require dry seasoned wood — mention this clearly. American-made is a credible angle for certain readers."
+  last_verified: 2026-04-30
+
+blue-rooster-sun-fire-chiminea:
+  name: "Blue Rooster Sun Fire Cast Aluminum Chiminea with Pewter Finish"
+  brand: "Blue Rooster"
+  amazon_asin: "B0BN6XZWMR"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/blue-rooster-sun-fire-chiminea.jpg"
+  category: "fire-and-heat"
+  price_band: "mid"
+  default_pros:
+    - "Cast aluminum never rusts and is significantly lighter than traditional cast iron chimineas"
+    - "Front-facing opening directs heat outward toward seating — more efficient than open fire pits"
+    - "Decorative sun motif casting is a genuine garden aesthetic piece"
+  default_cons:
+    - "Smaller firebox than open fire pits limits log size"
+    - "Less radiant heat spread than a 360-degree fire pit design"
+  notes_for_writers: "Best chiminea for 'chiminea vs fire pit' comparison content. Aluminum vs cast iron is the durability vs weight tradeoff. Chimineas direct heat more efficiently — relevant for windier patios where fire pits lose heat to ambient air."
+  last_verified: 2026-04-30
+
+bond-lara-tabletop-fire-bowl:
+  name: "Bond Manufacturing 50857N Lara TableFire Firebowl, Black"
+  brand: "Bond Manufacturing"
+  amazon_asin: "B071KG5G7C"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/bond-lara-tabletop-fire-bowl.jpg"
+  category: "fire-and-heat"
+  price_band: "budget"
+  default_pros:
+    - "Tabletop size fits patios, decks, and balconies with no space for a full fire pit"
+    - "Connects to standard 1 lb propane cylinder — no gas line or large tank required"
+    - "Includes a burner cover that converts it to a patio side table"
+  default_cons:
+    - "Very small flame — ambiance only, no meaningful heat output"
+    - "1 lb propane cylinders are expensive per hour vs large tank alternative"
+  notes_for_writers: "Best tabletop fire feature for apartment balconies and small patios. Lead with the space constraint angle. Be honest about heat output — this is a mood/ambiance product. Mention umbrella-table compatibility for readers with standard patio sets."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: irrigation (further additions)
+# ============================================================
+
+flexzilla-garden-hose-50ft:
+  name: "Flexzilla Garden Hose with SwivelGrip, 5/8\" x 50 ft."
+  brand: "Flexzilla"
+  amazon_asin: "B00OHRTKLM"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/flexzilla-garden-hose-50ft.jpg"
+  category: "irrigation"
+  price_band: "mid"
+  default_pros:
+    - "Hybrid polymer remains flexible in below-freezing temperatures — won't go stiff in early spring"
+    - "SwivelGrip fittings rotate to prevent hose kinking at the tap connection"
+    - "Kink-free design holds up to its claim in real garden use, unlike cheaper 'kink-free' hoses"
+  default_cons:
+    - "Heavier than cheap expandable hoses when filled with water"
+    - "Premium price over standard rubber or vinyl hoses"
+  notes_for_writers: "Best garden hose overall for dedicated garden tool buyers. Genuine kink-free performance is the story — most cheap hoses don't deliver. Expandable hoses are lighter but less durable. Pair with irrigation timer content."
+  last_verified: 2026-04-30
+
+gilmour-flat-soaker-hose-50ft:
+  name: "Gilmour Flat Weeper Soaker Hose, 50 Ft."
+  brand: "Gilmour"
+  amazon_asin: "B001IKVWVW"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/gilmour-flat-soaker-hose-50ft.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "Flat design lies flush against soil — no ridges lifting irrigation away from root zone"
+    - "Recycled rubber construction is more durable than cheap vinyl soaker hoses"
+    - "Connects directly to standard hose fittings or Rain Bird drip system mainline"
+  default_cons:
+    - "Flat design can be harder to coil for storage than round soaker hoses"
+    - "Pressure regulator recommended at the tap to avoid uneven weeping along the length"
+  notes_for_writers: "Essential companion for raised bed drip irrigation content. Pair with Rain Bird GARDENKIT for complete raised bed watering system. Soaker vs drip emitter distinction is worth covering — soaker is simpler but less precise."
+  last_verified: 2026-04-30
+
+orbit-62034-single-dial-hose-timer:
+  name: "Orbit 62034 Single-Dial Mechanical Hose Watering Timer"
+  brand: "Orbit"
+  amazon_asin: "B006FLGHGE"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/orbit-62034-single-dial-hose-timer.jpg"
+  category: "irrigation"
+  price_band: "budget"
+  default_pros:
+    - "No batteries, no app, no Wi-Fi — clockwork mechanical dial operates indefinitely"
+    - "Twist to set watering duration up to 120 minutes; automatic shutoff"
+    - "Lowest cost entry into automated watering — under $15"
+  default_cons:
+    - "One zone, one time setting — no scheduling multiple waterings per day"
+    - "No rain delay or weather sensing"
+  notes_for_writers: "Best budget watering timer for beginners. Mechanical reliability is the story — nothing to charge, nothing to pair. Position in tiered content: this entry, Orbit B-hyve mid, Rachio 3 premium. Good for readers who just want to stop forgetting to water."
+  last_verified: 2026-04-30
+
+rts-50gal-rain-barrel:
+  name: "RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut"
+  brand: "RTS Home Accents"
+  amazon_asin: "B003H9WJMI"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/rts-50gal-rain-barrel.jpg"
+  category: "irrigation"
+  price_band: "mid"
+  default_pros:
+    - "Flat-back design mounts flush against a house or fence — minimal footprint"
+    - "Brass spigot connects directly to a standard garden hose for gravity-fed watering"
+    - "Resin construction won't rust, rot, or leach chemicals into collected water"
+  default_cons:
+    - "50-gallon capacity is emptied quickly in dry periods — multiple barrels often needed"
+    - "Gravity pressure only — adequate for soaker hoses, not enough for sprinklers"
+  notes_for_writers: "Best established rain barrel on Amazon. Water conservation angle is strong for drought-prone regions. Link summer water restrictions in your area for relevance. Pair with soaker hose content for gravity-compatible watering systems."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: composting (further additions)
+# ============================================================
+
+lomi-electric-composter:
+  name: "Lomi 1 Smart Waste & Food Composter, 3L, White"
+  brand: "Pela"
+  amazon_asin: "B0B3FSQTRS"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/lomi-electric-composter.jpg"
+  category: "composting"
+  price_band: "premium"
+  default_pros:
+    - "Processes food waste in 4-8 hours vs 6-12 months in an outdoor bin — fastest available"
+    - "Countertop design works for apartments, condos, and kitchens with no outdoor space"
+    - "LomiPod tablets (optional) activate microbial breakdown and improve end product quality"
+  default_cons:
+    - "Output is a dry organic material, not fully finished compost — needs additional soil curing"
+    - "Premium price and ongoing LomiPod cost for best results"
+  notes_for_writers: "Best product for 'composting without a garden' content. Countertop operation is the unique angle vs every other product in this cluster. Be honest that the output is pre-compost, not finished compost — that's a common reader complaint."
+  last_verified: 2026-04-30
+
+good-ideas-junior-wizard-compost-bin:
+  name: "Good Ideas EZCJR-BLK Junior Wizard Compost Bin, 7 cu. ft., Black"
+  brand: "Good Ideas"
+  amazon_asin: "B002D925D6"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/good-ideas-junior-wizard-compost-bin.jpg"
+  category: "composting"
+  price_band: "budget"
+  default_pros:
+    - "Ground-level open-bottom design allows worms and soil microbes to enter naturally"
+    - "Vented walls promote airflow — no turning required for aerobic decomposition"
+    - "Compact footprint fits small gardens and urban backyards"
+  default_cons:
+    - "Open bottom means rodents can access the bin — add a hardware cloth base in rodent-heavy areas"
+    - "No door at the base — full removal of finished compost requires lifting the unit"
+  notes_for_writers: "Best bin-style composter for readers who find tumblers too complicated. Ground contact with soil microbes is the key advantage over tumblers. Rubbermaid does not make a compost bin — redirect any 'Rubbermaid compost bin' articles to this or the FCMP IM4000."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: lawn-care (further additions)
+# ============================================================
+
+fiskars-staysharp-max-reel-mower:
+  name: "Fiskars 18-Inch StaySharp Max Reel Lawn Mower, 362050-1001"
+  brand: "Fiskars"
+  amazon_asin: "B01N7K4BNX"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/fiskars-staysharp-max-reel-mower.jpg"
+  category: "lawn-care"
+  price_band: "mid"
+  default_pros:
+    - "No engine, no battery, no fuel — zero emissions, zero noise, zero maintenance costs"
+    - "Inertia drive system stores momentum between blade contacts — cuts with 60% less effort than traditional reel mowers"
+    - "StaySharp cutting system self-sharpens on each pass — blades stay sharp for years"
+  default_cons:
+    - "Reel mowers struggle with grass over 4 inches tall — requires more frequent mowing"
+    - "Cannot mulch or bag clippings; clippings scatter as thin ribbons"
+  notes_for_writers: "Best small-lawn mower. Zero-noise angle is compelling for early morning and neighbor-sensitive mowing. Pair with 'best small garden' and 'eco-friendly lawn care' content. Honest caveat: works best on fine lawns, not thick buffalo or zoysia grass."
+  last_verified: 2026-04-30
+
+agri-fab-45-0299-plug-aerator:
+  name: "Agri-Fab 45-0299 48\" Tow-Behind Plug Aerator"
+  brand: "Agri-Fab"
+  amazon_asin: "B000K6DZDI"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/agri-fab-45-0299-plug-aerator.jpg"
+  category: "lawn-care"
+  price_band: "mid"
+  default_pros:
+    - "Removes 3-inch soil plugs — true core aeration, not spike aeration, for lasting compaction relief"
+    - "48-inch working width aerates large lawns fast when towed by a riding mower"
+    - "32 heat-treated steel plugging spoons handle even clay-heavy soils"
+  default_cons:
+    - "Tow-behind only — requires a riding mower or garden tractor with hitch"
+    - "Water the lawn 24 hours before use; dry soil dulls and bends spoons"
+  notes_for_writers: "Best autumn lawn care product. Core aeration vs spike aeration is a strong article angle — spike aerators just push compaction sideways, core aerators actually remove it. Pair with overseeding and fall lawn care content."
+  last_verified: 2026-04-30
+
+scotts-edgeguard-mini-spreader:
+  name: "Scotts Turf Builder EdgeGuard Mini Broadcast Spreader"
+  brand: "Scotts"
+  amazon_asin: "B002YPS1KK"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/scotts-edgeguard-mini-spreader.jpg"
+  category: "lawn-care"
+  price_band: "budget"
+  default_pros:
+    - "EdgeGuard technology shuts off half the spread pattern automatically near beds and driveways"
+    - "Covers 5,000 sq ft per fill of most granular products — seed, fertilizer, ice melt"
+    - "Corrosion-resistant hopper and parts; survives years of fertilizer exposure"
+  default_cons:
+    - "Mini size requires frequent refilling on lawns larger than 5,000 sq ft"
+    - "Spread pattern width is fixed — no adjustment for narrower paths or tight spaces"
+  notes_for_writers: "Essential spring/autumn lawn care product. EdgeGuard (no product on beds/driveways) is the standout feature vs basic rotary spreaders. Pair with overseeding, fertilizing, and weed prevention program content."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: lighting (further additions)
+# ============================================================
+
+brightown-50ft-g40-string-lights:
+  name: "Brightown 50ft Outdoor String Lights, G40 LED Shatterproof Bulbs, IP65 Waterproof"
+  brand: "Brightown"
+  amazon_asin: "B09TGSQKRF"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/brightown-50ft-g40-string-lights.jpg"
+  category: "lighting"
+  price_band: "mid"
+  default_pros:
+    - "Shatterproof LED G40 bulbs last 50,000+ hours — no constant bulb replacements"
+    - "IP65 weatherproof rating handles rain and frost; connectable end-to-end up to 250ft total"
+    - "Warm 2700K tone creates the classic bistro/café atmosphere for evening dining"
+  default_cons:
+    - "Requires outdoor-rated extension cord to reach most garden spaces"
+    - "Hardwired or outlet-dependent — not solar; needs power source planning"
+  notes_for_writers: "Best patio string lights. The 'bistro lights' aesthetic is hugely searched — lean into that phrasing. Connectability up to 250ft is the key spec for large pergolas and long fence runs. Pair with pergola/outdoor living structure content."
+  last_verified: 2026-04-30
+
+volt-landscape-lighting-kit:
+  name: "VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights"
+  brand: "VOLT Lighting"
+  amazon_asin: "B07CBV7HVW"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/volt-landscape-lighting-kit.jpg"
+  category: "lighting"
+  price_band: "premium"
+  default_pros:
+    - "Solid brass fixtures will not rust, corrode, or degrade even after a decade in the ground"
+    - "Professional-grade 12V system — the same spec used by landscape contractors"
+    - "Transformer timer with photocell means lights automate without any app or hub"
+  default_cons:
+    - "Premium price over plastic landscape lighting kits from Malibu or Hampton Bay"
+    - "Wire splicing required for installation — more involved than plug-in solar lights"
+  notes_for_writers: "Best investment landscape lighting. VOLT's direct-to-consumer model means pro-grade brass fixtures at half the contractor markup. Position for readers planning a permanent garden — not a temporary solution. Solar is simpler; VOLT is permanent. Cover the comparison honestly."
+  last_verified: 2026-04-30
+
+tomcare-solar-flame-lanterns:
+  name: "TomCare Solar Lanterns Outdoor Flickering Flame, 4-Pack"
+  brand: "TomCare"
+  amazon_asin: "B08QV8LTF4"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/tomcare-solar-flame-lanterns.jpg"
+  category: "lighting"
+  price_band: "budget"
+  default_pros:
+    - "Flickering LED flame effect creates a candle-like ambiance without fire risk"
+    - "No wiring — stake into ground, charge by day, auto-on at dusk"
+    - "IP65 waterproof; 4-pack covers a full pathway or garden border"
+  default_cons:
+    - "Flame effect is clearly LED in close inspection — not photorealistic"
+    - "Dependent on daily sun exposure; cloudy weeks reduce run time noticeably"
+  notes_for_writers: "Best decorative solar pathway light. The flickering flame effect is the strong editorial hook — contrast with plain static solar stakes. Good for 'garden party' and 'evening garden' aesthetic content. Honest note: these are mood lights, not functional security lighting."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: battery-equipment (Greenworks string trimmer)
+# ============================================================
+
+greenworks-st80l210-string-trimmer:
+  name: "Greenworks PRO 80V 16\" String Trimmer with 2.0Ah Battery and Charger"
+  brand: "Greenworks"
+  amazon_asin: "B09GFS358V"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/greenworks-st80l210-string-trimmer.jpg"
+  category: "battery-equipment"
+  price_band: "mid"
+  default_pros:
+    - "80V brushless motor matches Stihl FSA 90 R tier for cutting power on thick grass and weeds"
+    - "16-inch cutting width covers more ground per pass than standard 13-15 inch cordless trimmers"
+    - "Battery and charger included; 80V platform shared with Greenworks mowers and blowers"
+  default_cons:
+    - "2.0Ah battery gives approximately 30-40 minutes of continuous use at full throttle"
+    - "80V battery not cross-compatible with Greenworks 40V or 24V product lines"
+  notes_for_writers: "Best Amazon substitute for Stihl FSA 57/86/90 R string trimmer articles. 80V platform is the same tier as Stihl's AP battery system — comparable power story. 4.4★ Amazon's Choice with strong review base. Pair with Greenworks 80V mower content for full-system purchase angle."
+  last_verified: 2026-04-30
+
+# ============================================================
+# CLUSTER: outdoor-furniture (Keter cool bar)
+# ============================================================
+
+keter-pacific-cool-bar:
+  name: "Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown"
+  brand: "Keter"
+  amazon_asin: "B007O1CAZQ"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/keter-pacific-cool-bar.jpg"
+  category: "outdoor-furniture"
+  price_band: "mid"
+  default_pros:
+    - "7.5-gallon built-in ice cooler keeps 50+ cans cold — eliminates a separate cooler on the patio"
+    - "Doubles as a side table when cooler lid is closed — no wasted footprint"
+    - "All-weather resin construction; #1 Best Seller in Patio Bar Tables with 22,000+ reviews"
+  default_cons:
+    - "Resin aesthetic is clearly synthetic — not a premium look for formal garden settings"
+    - "7.5-gallon cooler requires significant ice to maintain temperature in hot weather"
+  notes_for_writers: "#1 bestselling patio bar table on Amazon with exceptional review volume — strong social proof anchor for any outdoor entertaining roundup. Built-in cooler is the editorial hook: one product does two jobs. Great cross-sell with fire pit and string lights content for 'backyard party setup' articles."
+  last_verified: 2026-04-30
+
+# ============================================================
+# BEST SELLERS (added from category research — strong roundup anchors)
+# ============================================================
+
+muchenghy-folding-adirondack-chair:
+  name: "MUCHENGHY Folding Adirondack Chair, All-Weather HDPE, Black"
+  brand: "MUCHENGHY"
+  amazon_asin: "B09Q61GK6G"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/muchenghy-folding-adirondack-chair.jpg"
+  category: "outdoor-furniture"
+  price_band: "budget"
+  default_pros:
+    - "#1 Best Seller in Adirondack Chairs on Amazon — highest-volume real-world validation"
+    - "HDPE construction mirrors POLYWOOD quality at a significantly lower price point"
+    - "Folding design stores flat; lightweight for a resin chair at under 20 lbs"
+  default_cons:
+    - "Less brand recognition than POLYWOOD — fewer colour choices and shorter warranty"
+    - "Budget price reflects thinner HDPE boards vs POLYWOOD's heavier-gauge construction"
+  notes_for_writers: "Current #1 bestseller in its category — use this for budget slot in Adirondack roundups where POLYWOOD is mid/premium. 4.7★ with 1,000+ reviews is strong social proof. Honest comparison: POLYWOOD has 20-year warranty and thicker boards; MUCHENGHY wins on price."
+  last_verified: 2026-04-30
+
+land-guard-galvanized-raised-bed:
+  name: "Land Guard Galvanized Raised Garden Bed Kit, Oval, 8x4x1ft"
+  brand: "Land Guard"
+  amazon_asin: "B09C8HR4Z9"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/land-guard-galvanized-raised-bed.jpg"
+  category: "raised-beds"
+  price_band: "budget"
+  default_pros:
+    - "#1 Best Seller in Raised Garden Beds on Amazon — 12,000+ reviews, proven demand"
+    - "Oval design eliminates corner dead zones — all soil is within arm's reach from either side"
+    - "Galvanized steel at budget price; simple tool-free assembly"
+  default_cons:
+    - "1-foot depth is shallow — adequate for lettuce, herbs, and flowers but limiting for tomatoes or carrots"
+    - "Galvanized (not Aluzinc) coating has shorter corrosion resistance than premium metal beds"
+  notes_for_writers: "Current #1 bestselling raised bed. Use as the budget entry pick in any metal raised bed roundup. Oval shape and low price are the story. Honest limitation: 12-inch depth restricts deep-root crops. Cross-compare with Vego Garden (17-inch Aluzinc) for the depth/quality upgrade path."
+  last_verified: 2026-04-30
+
+gas-one-22in-wood-burning-fire-pit:
+  name: "Gas One 22\" Wood Burning Fire Pit with Mesh Lid and Poker"
+  brand: "Gas One"
+  amazon_asin: "B09VS4NGQC"
+  awin_advertiser_id: null
+  awin_product_url: null
+  default_image: "/images/products/gas-one-22in-wood-burning-fire-pit.jpg"
+  category: "fire-and-heat"
+  price_band: "budget"
+  default_pros:
+    - "Under $50 budget entry into wood-burning fire pits — lowest barrier for first-time buyers"
+    - "Mesh spark screen lid included — reduces flying ember risk on wooden decks"
+    - "22-inch bowl accommodates split logs without needing to cut them down"
+  default_cons:
+    - "Lightweight steel will rust within 2-3 seasons without a cover or indoor storage"
+    - "No airflow optimisation — produces more smoke than double-wall designs like Solo Stove"
+  notes_for_writers: "Budget anchor for fire pit roundups alongside Solo Stove (mid) and Breeo X Series (premium). Be honest about smoke — this produces traditional campfire smoke, very different from smokeless pits. Cover trade-off clearly: $50 with smoke vs $300 with near-smokeless performance."
   last_verified: 2026-04-30

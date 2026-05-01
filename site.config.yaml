@@ -18,7 +18,7 @@ visual:
     open_graph_default: "/images/brand/open-graph-default.png"
 
 persona:
-  config_path: "config/personas/maggie.yaml"
+  config_path: "config/personas/wendy.yaml"
 
 affiliate:
   amazon_tracking_id: "fourseasong-20"

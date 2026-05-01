@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getSiteConfig, getNav } from '../lib/config'
+
+const cfg = getSiteConfig()
+const nav = getNav()
+const cat = nav.categories.find(c => c.slug === 'garden-structures')!
+const all = await getCollection('articles')
+const articles = all.filter(a => cat.hubs.some(h => h.slug === a.data.hub))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+---
+
+<BaseLayout
+  title={`${cat.label} — ${cfg.site.brand_name}`}
+  description={`Browse all ${cat.label.toLowerCase()} reviews and guides.`}
+>
+  <div class="container" style="padding-top:2rem; padding-bottom:4rem;">
+    <div class="category-hero">
+      <p class="category-hero__label">Category</p>
+      <h1 class="category-hero__title">{cat.label}</h1>
+    </div>
+
+    <div class="hub-grid">
+      {cat.hubs.map(hub => (
+        <a href={`/${hub.slug}/`} class="hub-card">
+          <span class="hub-card__label">{hub.label}</span>
+          {hub.description && <span class="hub-card__desc">{hub.description}</span>}
+          <span class="hub-card__arrow">→</span>
+        </a>
+      ))}
+    </div>
+
+    {articles.length > 0 && (
+      <>
+        <h2 style="margin-top:3rem;">All {cat.label} Reviews</h2>
+        <div class="article-grid">
+          {articles.map(a => (
+            <a href={`/${a.data.slug}/`} class="article-card">
+              <img src={`${cfg.images.base_url}/${a.data.hero_image}`} alt={a.data.title} width="400" height="225" loading="lazy" decoding="async" />
+              <div class="article-card__body">
+                <span class="article-card__type">{a.data.type.replace('_', ' ')}</span>
+                <h2 class="article-card__title">{a.data.title}</h2>
+                <p class="article-card__desc">{a.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </>
+    )}
+  </div>
+</BaseLayout>

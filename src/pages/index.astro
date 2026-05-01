@@ -1,10 +1,11 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { getSiteConfig, getPersona } from '../lib/config'
+import { getSiteConfig, getPersona, getNav } from '../lib/config'
 
 const cfg = getSiteConfig()
 const persona = getPersona()
+const nav = getNav()
 const articles = await getCollection('articles')
 const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
 ---
@@ -70,10 +71,9 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
       <div class="sidebar-block">
         <h3 class="sidebar-block__title">Browse by category</h3>
         <ul class="sidebar-nav">
-          <li><a href="/outdoor-furniture/">Outdoor Furniture</a></li>
-          <li><a href="/garden-tools/">Garden Tools</a></li>
-          <li><a href="/lawn-mowers/">Lawn Mowers</a></li>
-          <li><a href="/raised-beds/">Raised Beds</a></li>
+          {nav.categories.filter(c => c.slug !== 'reviews').map(c => (
+            <li><a href={`/${c.slug}/`}>{c.label}</a></li>
+          ))}
         </ul>
       </div>
 
