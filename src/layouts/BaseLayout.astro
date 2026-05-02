@@ -25,6 +25,9 @@ const {
 const cfg = getSiteConfig()
 const persona = getPersona()
 
+// GA4_ID env var overrides site.config.yaml — set per-clone in Cloudflare Pages
+const ga4Id = import.meta.env.GA4_ID ?? cfg.analytics.ga4_measurement_id
+
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, Astro.site).href
 const ogImageUrl = ogImage ?? `${cfg.images.base_url}/og-default.jpg`
 
@@ -83,23 +86,21 @@ const cssVars = `
     <slot name="head" />
 
     <!-- GA4 with Consent Mode v2 -->
-    {cfg.analytics.ga4_measurement_id && (
+    {ga4Id && (
       <>
         <script
           set:html={`
 window.dataLayer=window.dataLayer||[];
 function gtag(){dataLayer.push(arguments)}
-// Default: deny until consent is given
 gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',wait_for_update:500});
 gtag('js',new Date());
-gtag('config','${cfg.analytics.ga4_measurement_id}',{anonymize_ip:true});
-// Restore consent if previously accepted
+gtag('config','${ga4Id}',{anonymize_ip:true});
 if(localStorage.getItem('fsg_consent')==='1'){
   gtag('consent','update',{analytics_storage:'granted'});
 }
 `}
         />
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${cfg.analytics.ga4_measurement_id}`} />
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`} />
       </>
     )}
   </head>
@@ -112,7 +113,7 @@ if(localStorage.getItem('fsg_consent')==='1'){
     <Footer />
 
     <!-- Cookie consent banner -->
-    {cfg.analytics.ga4_measurement_id && (
+    {ga4Id && (
       <div id="cookie-banner" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#1a2e1a;color:#fff;padding:1rem 1.5rem;z-index:9999;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.875rem;">
         <p style="margin:0;flex:1 1 auto;">We use cookies to understand how visitors use this site. <a href="/privacy/" style="color:#a3c97a;text-decoration:underline;">Privacy policy</a></p>
         <div style="display:flex;gap:.5rem;flex-shrink:0;">
