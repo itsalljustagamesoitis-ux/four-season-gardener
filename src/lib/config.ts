@@ -168,13 +168,14 @@ export function buildAffiliateUrl(
   if (!product) return null
 
   const { awin_advertiser_id, awin_product_url, amazon_asin } = product
-  const { amazon_tracking_id, awin_publisher_id, awin_clickref_pattern } = cfg.affiliate
+  const { awin_publisher_id, awin_clickref_pattern } = cfg.affiliate
+  // AMAZON_TAG env var overrides site.config.yaml — set per-clone in Cloudflare Pages
+  const amazon_tracking_id = import.meta.env.AMAZON_TAG ?? cfg.affiliate.amazon_tracking_id
 
   if (awin_advertiser_id && awin_product_url) {
     const clickref = `${awin_clickref_pattern}-${articleSlug}`
     const url = new URL(awin_product_url)
     url.searchParams.set('awc', `${awin_advertiser_id}_${Date.now()}`)
-    // Standard Awin deep-link pattern
     return `https://www.awin1.com/cread.php?awinmid=${awin_advertiser_id}&awinaffid=${awin_publisher_id}&clickref=${encodeURIComponent(clickref)}&ued=${encodeURIComponent(awin_product_url)}`
   }
 

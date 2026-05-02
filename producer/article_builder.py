@@ -5,7 +5,21 @@ Takes a pipeline article + loaded data, calls Claude, returns a markdown string.
 
 import anthropic
 import json
+import os
+import yaml
 from datetime import date
+from pathlib import Path
+
+def _get_amazon_tag() -> str:
+    """AMAZON_TAG env var overrides site.config.yaml — matches Astro build behaviour."""
+    if tag := os.environ.get("AMAZON_TAG"):
+        return tag
+    cfg_path = Path(__file__).parent.parent / "site.config.yaml"
+    with open(cfg_path) as f:
+        cfg = yaml.safe_load(f)
+    return cfg["affiliate"]["amazon_tracking_id"]
+
+AMAZON_TAG = _get_amazon_tag()
 
 
 # ── Type-specific H2 templates ────────────────────────────────────────────────
@@ -100,7 +114,7 @@ def build_products_brief(article: dict, products: dict) -> str:
         if not p:
             continue
         asin = p.get("amazon_asin", "")
-        amazon_url = f"https://www.amazon.com/dp/{asin}?tag=fourseasong-20" if asin else ""
+        amazon_url = f"https://www.amazon.com/dp/{asin}?tag={AMAZON_TAG}" if asin else ""
         lines.append(
             f"- **{p['name']}** (key: {key})\n"
             f"  Brand: {p.get('brand','')} | Price band: {p.get('price_band','')} | ASIN: {asin}\n"
@@ -190,7 +204,7 @@ Use varied phrasing — don't repeat the same anchor text.
 {sibling_block}
 AFFILIATE LINKS:
 When mentioning a product by name, link to its Amazon URL using the product name as anchor text.
-Format: [Product Name](https://www.amazon.com/dp/ASIN?tag=fourseasong-20)
+Format: [Product Name](https://www.amazon.com/dp/ASIN?tag={AMAZON_TAG})
 
 FAQ SECTION:
 End with an H2 "Frequently Asked Questions" section containing exactly 5 Q&A pairs.
