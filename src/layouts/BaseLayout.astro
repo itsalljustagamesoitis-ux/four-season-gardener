@@ -27,6 +27,8 @@ const persona = getPersona()
 
 // GA4_ID env var overrides site.config.yaml — set per-clone in Cloudflare Pages
 const ga4Id = import.meta.env.GA4_ID ?? cfg.analytics.ga4_measurement_id
+const googleVerification = import.meta.env.GOOGLE_SITE_VERIFICATION
+const bingVerification = import.meta.env.BING_SITE_VERIFICATION
 
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, Astro.site).href
 const ogImageUrl = ogImage ?? `${cfg.images.base_url}/og-default.jpg`
@@ -50,6 +52,8 @@ const cssVars = `
     <title>{title}</title>
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {googleVerification && <meta name="google-site-verification" content={googleVerification} />}
+    {bingVerification && <meta name="msvalidate.01" content={bingVerification} />}
     <link rel="canonical" href={canonical} />
 
     <!-- Open Graph -->
