@@ -75,7 +75,35 @@ function checkFile(fullPath) {
     }
   }
 
-  // ── 5. Doubled brand names in H3 ─────────────────────────────────────────
+  // ── 5. Sentinel Amazon image hashes ─────────────────────────────────────
+  // Catch placeholder image hashes (71Q8Q8Q8Q8L pattern) that 404 on Amazon CDN.
+  const sentinelImgRe = /m\.media-amazon\.com\/images\/I\/(7[01]Q[0-9Q]{6,}L)[^"']*/g
+  let siMatch
+  while ((siMatch = sentinelImgRe.exec(raw)) !== null) {
+    fail('sentinel-image', rel, `Placeholder Amazon image hash detected: ${siMatch[1]}`)
+  }
+
+  // ── 6. Placeholder ASINs ─────────────────────────────────────────────────
+  // Catch VERIFY-, TODO-, PLACEHOLDER- ASINs that slipped through.
+  const placeholderAsinRe = /VERIFY-|TODO-|PLACEHOLDER-/g
+  if (placeholderAsinRe.test(raw)) {
+    fail('placeholder-asin', rel, `Placeholder ASIN value found in rendered HTML`)
+  }
+
+  // ── 7. Duplicate consecutive breadcrumb hrefs ────────────────────────────
+  // Catches category/hub slug collisions rendering identical back-to-back crumbs.
+  const breadcrumbRe = /<nav[^>]*breadcrumb[^>]*>([\s\S]*?)<\/nav>/i
+  const bcMatch = breadcrumbRe.exec(raw)
+  if (bcMatch) {
+    const hrefs = [...bcMatch[1].matchAll(/href="([^"]+)"/g)].map(m => m[1])
+    for (let i = 1; i < hrefs.length; i++) {
+      if (hrefs[i] === hrefs[i - 1]) {
+        fail('duplicate-breadcrumb', rel, `Duplicate consecutive breadcrumb href: "${hrefs[i]}"`)
+      }
+    }
+  }
+
+  // ── 8. Doubled brand names in H3 ─────────────────────────────────────────
   // Catches "Perky-Pet Perky-Pet …", "EGO Power+ EGO POWER+ …" etc.
   const h3Re = /<h3[^>]*>([\s\S]*?)<\/h3>/gi
   while ((m = h3Re.exec(raw)) !== null) {

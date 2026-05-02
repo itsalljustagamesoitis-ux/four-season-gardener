@@ -9,17 +9,23 @@ interface Props {
 }
 
 const { crumbs } = Astro.props
+
+// Deduplicate consecutive crumbs with the same href (e.g. category = hub slug collision)
+const allCrumbs = [{ label: 'Home', href: '/' }, ...crumbs]
+const dedupedCrumbs = allCrumbs.filter((crumb, i) => {
+  if (i === 0) return true
+  return crumb.href !== allCrumbs[i - 1].href
+})
 ---
 
 <nav class="breadcrumb" aria-label="Breadcrumb">
   <ol>
-    <li><a href="/">Home</a></li>
-    {crumbs.map((crumb, i) => (
+    {dedupedCrumbs.map((crumb, i) => (
       <li>
-        <span aria-hidden="true" class="breadcrumb__sep">›</span>
-        {crumb.href && i < crumbs.length - 1
+        {i > 0 && <span aria-hidden="true" class="breadcrumb__sep">›</span>}
+        {crumb.href && i < dedupedCrumbs.length - 1
           ? <a href={crumb.href}>{crumb.label}</a>
-          : <span aria-current={i === crumbs.length - 1 ? 'page' : undefined}>{crumb.label}</span>
+          : <span aria-current={i === dedupedCrumbs.length - 1 ? 'page' : undefined}>{crumb.label}</span>
         }
       </li>
     ))}
