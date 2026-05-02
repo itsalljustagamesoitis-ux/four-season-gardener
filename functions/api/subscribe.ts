@@ -1,6 +1,7 @@
 interface Env {
   BEEHIIV_API_KEY: string
   BEEHIIV_PUBLICATION_ID: string
+  SITE_NAME: string
 }
 
 export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
@@ -33,6 +34,9 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
           email,
           reactivate_existing: true,
           send_welcome_email: true,
+          custom_fields: [
+            { name: 'source_site', value: env.SITE_NAME || 'unknown' },
+          ],
         }),
       }
     )
