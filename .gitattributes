@@ -5,6 +5,7 @@
 # (the clone-site.sh script does this automatically)
 
 site.config.yaml                    merge=ours
+wrangler.toml                       merge=ours
 config/personas/**                  merge=ours
 content/articles/**                 merge=ours
 content/products/products.yaml      merge=ours

@@ -1,3 +1,6 @@
 name = "four-season-gardener"
 compatibility_date = "2024-09-23"
 pages_build_output_dir = "./dist"
+
+[vars]
+BING_SITE_VERIFICATION = "26454901DDCFA250F7680FAE5ECC1D4C"
