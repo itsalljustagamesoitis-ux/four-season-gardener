@@ -1,0 +1,6 @@
+# Clone registry — one absolute path per line.
+# Managed automatically by clone-site.sh.
+# Lines starting with # are ignored by update-all-clones.sh.
+#
+# Example entry:
+# /Users/yourname/sites/four-season-cook

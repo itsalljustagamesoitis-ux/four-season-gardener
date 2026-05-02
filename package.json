@@ -9,6 +9,8 @@
     "dev": "astro dev",
     "build": "astro build && npx pagefind --site dist && node scripts/build-validator.mjs",
     "validate:asins": "node scripts/validate-asins.mjs",
+    "clone:site": "bash scripts/clone-site.sh",
+    "update:clones": "bash scripts/update-all-clones.sh",
     "preview": "astro preview",
     "astro": "astro"
   },
