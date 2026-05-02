@@ -7,6 +7,7 @@ export default defineConfig({
   site: 'https://fourseasongardener.com',
   integrations: [
     sitemap({
+      filter: (page) => !page.endsWith('/privacy/'),
       serialize(item) {
         // Set lastmod to build time for all pages (article pages will be overridden by their frontmatter date when available)
         item.lastmod = new Date().toISOString()
