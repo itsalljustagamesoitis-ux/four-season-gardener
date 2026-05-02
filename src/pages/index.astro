@@ -13,14 +13,14 @@ const featured = sorted.slice(0, 12)
 
 <BaseLayout
   title={`${cfg.site.brand_name} — ${cfg.site.tagline}`}
-  description="Honest, tested reviews of outdoor furniture, garden tools, and lawn equipment from a gardener with 30 years of experience."
+  description={`Honest, tested reviews of outdoor furniture, garden tools, and lawn equipment. ${persona.bio_short}`}
 >
   <div class="container--wide home-wrap">
     <div class="home-main">
       <div class="home-intro">
         <h1 class="home-intro__title">Garden product reviews worth trusting</h1>
         <p class="home-intro__text">
-          {persona.name_used} has been gardening in {persona.location} for over 30 years.
+          {persona.bio_short}
           Every review on this site is based on real use — across real seasons, in a real garden.
           No PR samples. No sponsored opinions.
         </p>

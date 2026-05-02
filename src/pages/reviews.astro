@@ -1,9 +1,10 @@
 ---
 import { getCollection } from 'astro:content'
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { getSiteConfig } from '../lib/config'
+import { getSiteConfig, getPersona } from '../lib/config'
 
 const cfg = getSiteConfig()
+const persona = getPersona()
 const articles = await getCollection('articles')
 const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
 ---
@@ -17,7 +18,7 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
       <p class="category-hero__label">All Reviews</p>
       <h1 class="category-hero__title">Every Garden Product Review</h1>
       <p class="category-hero__desc">
-        Honest, tested reviews from a gardener who's been at it for 30 years.
+        {persona.bio_short}
         No PR samples, no affiliate bias.
       </p>
     </div>

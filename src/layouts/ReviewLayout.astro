@@ -46,7 +46,7 @@ const imageUrl = primary?.image.startsWith('http') ? primary.image : primary ? `
       { label: data.title },
     ]} />
 
-    <span class="article-eyebrow">{data.hub.replace(/-/g, ' ')}</span>
+    <span class="article-eyebrow">{getHubLabel(data.hub)}</span>
     <h1>{data.title}</h1>
     <Byline date={data.date} updated={data.updated} />
 
