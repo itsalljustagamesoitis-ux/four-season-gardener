@@ -81,6 +81,36 @@ echo "  wrangler.toml project name → $SITE_SLUG"
 rm -f content/articles/*.md
 echo "  content/articles/ cleared"
 
+# ── IndexNow key generation ───────────────────────────────────────────────────
+# Idempotent: reuse existing key if INDEXNOW_KEY is already set in the environment
+if [ -n "$INDEXNOW_KEY" ]; then
+  INDEXNOW_KEY_VALUE="$INDEXNOW_KEY"
+  echo "  IndexNow: reusing existing INDEXNOW_KEY from environment"
+else
+  INDEXNOW_KEY_VALUE="$(openssl rand -hex 16)"
+  echo "  IndexNow: generated new key (fingerprint: ...${INDEXNOW_KEY_VALUE: -4})"
+fi
+
+# Write public/<key>.txt — served by Cloudflare Pages to verify ownership
+printf '%s' "$INDEXNOW_KEY_VALUE" > "public/${INDEXNOW_KEY_VALUE}.txt"
+echo "  IndexNow: wrote public/${INDEXNOW_KEY_VALUE}.txt"
+
+# Remove the template's key file so it doesn't carry over
+find public -maxdepth 1 -name '*.txt' ! -name "${INDEXNOW_KEY_VALUE}.txt" -delete 2>/dev/null || true
+
+# Write INDEXNOW_KEY to .env so local tooling can read it
+if [ -f ".env" ]; then
+  # Update existing entry if present, otherwise append
+  if grep -q "^INDEXNOW_KEY=" .env; then
+    sed -i '' "s|^INDEXNOW_KEY=.*|INDEXNOW_KEY=${INDEXNOW_KEY_VALUE}|" .env
+  else
+    echo "INDEXNOW_KEY=${INDEXNOW_KEY_VALUE}" >> .env
+  fi
+else
+  echo "INDEXNOW_KEY=${INDEXNOW_KEY_VALUE}" > .env
+fi
+echo "  IndexNow: INDEXNOW_KEY written to .env"
+
 # ── Post-clone validation — fail closed on any template identity leak ─────────
 echo ""
 echo "Validating clone identity …"
@@ -128,12 +158,13 @@ echo "  1. Edit config/personas/*.yaml         — update persona name, bio, pho
 echo "  2. Replace public/images/brand/        — logo, OG image, author photo"
 echo "  3. Replace content/products/products.yaml — niche products with real ASINs"
 echo "  4. Replace data/pipeline.json          — niche article pipeline"
-echo "  5. Set Cloudflare Pages env vars:"
-echo "       AMAZON_TAG              — $AMAZON_TAG  (overrides site.config.yaml)"
-echo "       GA4_ID                  — your GA4 measurement ID"
-echo "       SITE_URL                — https://$DOMAIN"
-echo "       GOOGLE_SITE_VERIFICATION — from Google Search Console (HTML tag method)"
-echo "       BING_SITE_VERIFICATION   — from Bing Webmaster Tools (HTML tag method)"
+echo "  5. Set Cloudflare Pages env vars (as Secrets):"
+echo "       INDEXNOW_KEY            — ${INDEXNOW_KEY_VALUE}  (auto-generated, mandatory)"
+echo "       BING_SITE_VERIFICATION  — from Bing Webmaster Tools (HTML tag method)"
+echo "       AMAZON_TAG              — $AMAZON_TAG  (optional, overrides site.config.yaml)"
+echo "       GA4_ID                  — your GA4 measurement ID (optional)"
+echo "       SITE_URL                — https://$DOMAIN (optional)"
+echo "       GOOGLE_SITE_VERIFICATION — from GSC HTML tag method (optional, DNS is fine too)"
 echo "  6. git remote add origin <new-repo-url> && git push -u origin main"
 echo ""
 echo "To pull template updates later:"

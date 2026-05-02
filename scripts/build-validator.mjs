@@ -136,6 +136,25 @@ function walk(dir) {
   }
 }
 
+// ── Pre-flight: IndexNow key file check ───────────────────────────────────
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY
+const isCloudflareProduction =
+  process.env.CF_PAGES === '1' && process.env.CF_PAGES_BRANCH === 'main'
+
+if (INDEXNOW_KEY) {
+  const keyFilePath = join(DIST, `${INDEXNOW_KEY}.txt`)
+  if (!existsSync(keyFilePath)) {
+    fail('indexnow-key-missing', `dist/${INDEXNOW_KEY}.txt`, 'Key file not found in dist — ensure public/<key>.txt is committed to the repo')
+  } else {
+    const keyFileContents = readFileSync(keyFilePath, 'utf8').replace(/\n$/, '')
+    if (keyFileContents !== INDEXNOW_KEY) {
+      fail('indexnow-key-mismatch', `dist/${INDEXNOW_KEY}.txt`, `Key file contents "${keyFileContents}" do not match INDEXNOW_KEY env var`)
+    }
+  }
+} else if (isCloudflareProduction) {
+  warnings.push('  WARN [indexnow-key] INDEXNOW_KEY not set — IndexNow submissions disabled for this clone.\n       Set INDEXNOW_KEY in Cloudflare Pages → Settings → Environment Variables.')
+}
+
 // ── Pre-flight: source file checks (before scanning dist/) ────────────────
 const PRODUCTS_YAML = new URL('../content/products/products.yaml', import.meta.url).pathname
 if (existsSync(PRODUCTS_YAML)) {
