@@ -29,6 +29,8 @@ const persona = getPersona()
 const ga4Id = import.meta.env.GA4_ID ?? cfg.analytics.ga4_measurement_id
 const googleVerification = import.meta.env.GOOGLE_SITE_VERIFICATION
 const bingVerification = import.meta.env.BING_SITE_VERIFICATION
+// Per-origin storage key — avoids brand coupling across clones
+const consentKey = `${cfg.site.domain.replace(/\./g, '_')}_consent`
 
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, Astro.site).href
 const ogImageUrl = ogImage ?? `${cfg.images.base_url}/og-default.jpg`
@@ -99,7 +101,7 @@ function gtag(){dataLayer.push(arguments)}
 gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',wait_for_update:500});
 gtag('js',new Date());
 gtag('config','${ga4Id}',{anonymize_ip:true});
-if(localStorage.getItem('fsg_consent')==='1'){
+if(localStorage.getItem('${consentKey}')==='1'){
   gtag('consent','update',{analytics_storage:'granted'});
 }
 `}
@@ -130,15 +132,15 @@ if(localStorage.getItem('fsg_consent')==='1'){
       (function(){
         var banner=document.getElementById('cookie-banner');
         if(!banner)return;
-        var stored=localStorage.getItem('fsg_consent');
+        var stored=localStorage.getItem('${consentKey}');
         if(stored===null)banner.style.display='flex';
         document.getElementById('cookie-accept').addEventListener('click',function(){
-          localStorage.setItem('fsg_consent','1');
+          localStorage.setItem('${consentKey}','1');
           banner.style.display='none';
           if(typeof gtag==='function')gtag('consent','update',{analytics_storage:'granted'});
         });
         document.getElementById('cookie-decline').addEventListener('click',function(){
-          localStorage.setItem('fsg_consent','0');
+          localStorage.setItem('${consentKey}','0');
           banner.style.display='none';
         });
       })();

@@ -6,7 +6,19 @@ import { readFileSync } from 'fs'
 import yaml from 'js-yaml'
 
 const _cfg = yaml.load(readFileSync('./site.config.yaml', 'utf8'))
+
+if (!process.env.SITE_URL && !_cfg?.site?.domain) {
+  throw new Error('Build error: set SITE_URL env var or site.config.yaml site.domain')
+}
+
 const siteUrl = process.env.SITE_URL ?? `https://${_cfg.site.domain}`
+
+if (!process.env.GOOGLE_SITE_VERIFICATION) {
+  console.warn('\x1b[33m⚠ GOOGLE_SITE_VERIFICATION not set — GSC meta tag will not render\x1b[0m')
+}
+if (!process.env.BING_SITE_VERIFICATION) {
+  console.warn('\x1b[33m⚠ BING_SITE_VERIFICATION not set — Bing meta tag will not render\x1b[0m')
+}
 
 export default defineConfig({
   site: siteUrl,

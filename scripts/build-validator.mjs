@@ -6,9 +6,14 @@
 
 import { readFileSync, readdirSync, statSync, existsSync } from 'fs'
 import { join, relative } from 'path'
+import yaml from 'js-yaml'
 
 const DIST = new URL('../dist', import.meta.url).pathname
 const MIN_HTML_BYTES = 500
+
+// Resolve the configured Amazon tag so we can verify it's actually in affiliate URLs
+const _cfg = yaml.load(readFileSync(new URL('../site.config.yaml', import.meta.url).pathname, 'utf8'))
+const CONFIGURED_TAG = process.env.AMAZON_TAG ?? _cfg?.affiliate?.amazon_tracking_id ?? ''
 
 let failures = 0
 const errors = []
@@ -48,13 +53,20 @@ function checkFile(fullPath) {
 
   // ── 3. Untagged Amazon affiliate links ───────────────────────────────────
   // Match <a ...> tags that contain amazon.com in href
-  const anchorRe = /<a\s[^>]*href="[^"]*amazon\.com[^"]*"[^>]*>/gi
+  const anchorRe = /<a\s[^>]*href="([^"]*amazon\.com[^"]*)"[^>]*>/gi
   let m
   while ((m = anchorRe.exec(raw)) !== null) {
     const tag = m[0]
+    const href = m[1]
     if (!/rel="[^"]*sponsored[^"]*"/.test(tag)) {
       const snippet = tag.replace(/\s+/g, ' ').slice(0, 120)
       fail('untagged-affiliate', rel, `Amazon link missing rel="sponsored": ${snippet}`)
+    }
+    // Verify the configured affiliate tag is present — catches revenue leaks from wrong/missing tag
+    if (CONFIGURED_TAG && !/[?&]tag=/.test(href)) {
+      fail('missing-tag', rel, `Amazon link has no tag= parameter: ${href.slice(0, 120)}`)
+    } else if (CONFIGURED_TAG && !href.includes(`tag=${CONFIGURED_TAG}`)) {
+      fail('wrong-tag', rel, `Amazon link has wrong affiliate tag (expected ${CONFIGURED_TAG}): ${href.slice(0, 120)}`)
     }
   }
 

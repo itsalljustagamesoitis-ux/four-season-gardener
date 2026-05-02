@@ -15,3 +15,4 @@ public/images/heroes/**             merge=ours
 data/pipeline.json                  merge=ours
 data/eeat-vault.json                merge=ours
 data/image-attribution.json        merge=ours
+public/_redirects                   merge=ours
