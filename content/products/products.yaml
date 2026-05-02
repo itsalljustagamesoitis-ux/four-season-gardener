@@ -428,14 +428,14 @@ outland-living-403-fire-table:
     pits.'
   last_verified: 2026-04-30
 hiland-pyramid-patio-heater:
-  name: Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater, Hammered Bronze
+  name: Hiland HLDSO1-GTHG 91-Inch Quartz Glass Tube Patio Heater with Cover and Table
   brand: Hiland
-  amazon_asin: null  # NEEDS REVIEW: ASIN B004KH4LAE returned 404 — find replacement on Amazon
+  amazon_asin: B07B94686C
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B004KH4LAE._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B07B94686C._SL500_.jpg
   category: fire-and-heat
-  price_band: mid
+  price_band: premium
   default_pros:
   - Pyramid flame column visible through glass tube is a dramatic visual focal point
   - Wheels built into base for easy repositioning without lifting
@@ -771,7 +771,7 @@ greenworks-40v-blower-vac:
 dr-power-leaf-lawn-vacuum:
   name: DR Power Equipment Self-Propelled Leaf and Lawn Vacuum
   brand: DR Power Equipment
-  amazon_asin: null  # NEEDS REVIEW: ASIN VERIFY-dr-power-leaf-vac returned 404 — find replacement on Amazon
+  amazon_asin: null  # NOT ON AMAZON — DR Power is direct-to-consumer only at drpower.com. No Amazon listing exists. Substitute with SuperHandy or WORX Trivac for Amazon affiliate.
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -784,17 +784,17 @@ dr-power-leaf-lawn-vacuum:
   default_cons:
   - Premium price point
   - Primarily gas-powered; heavier and louder than cordless alternatives
-  notes_for_writers: ASIN REQUIRES VERIFICATION — DR Power sells primarily direct.
-    Verify Amazon availability before publishing affiliate links. May need to link
-    to drpower.com direct.
+  notes_for_writers: NOT ON AMAZON — DR Power sells direct only at drpower.com. No
+    Amazon ASIN exists. For Amazon affiliate links, substitute with SuperHandy 7HP
+    gas leaf vac (~$799 premium) or WORX WG509 Trivac (~$117 budget).
   last_verified: 2026-04-30
 ring-solar-pathlight-2pack:
-  name: Ring Solar Pathlight Outdoor Motion-Sensor Security Light, 2-Pack
+  name: Ring Solar Pathlight, Motion-Activated Outdoor Pathlight, Black
   brand: Ring
-  amazon_asin: null  # NEEDS REVIEW: ASIN B082LSRZ2M returned 404 — find replacement on Amazon
+  amazon_asin: B07YPB8TBS
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B082LSRZ2M._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B07YPB8TBS._SL500_.jpg
   category: lighting
   price_band: mid
   default_pros:
@@ -808,12 +808,12 @@ ring-solar-pathlight-2pack:
     solar security lighting, LEONLITE or Mr Beams are stronger picks.
   last_verified: 2026-04-30
 litom-30led-solar-spotlight:
-  name: LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack
-  brand: LITOM
-  amazon_asin: null  # NEEDS REVIEW: ASIN B075GQ54CY returned 404 — find replacement on Amazon
+  name: HGGH Solar Lights Outdoor IP67 Waterproof, 3 Lighting Modes, 4-Pack
+  brand: HGGH
+  amazon_asin: B0F2FZPQSR
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: /images/brand/placeholder-product.svg
+  default_image: https://m.media-amazon.com/images/P/B0F2FZPQSR._SL500_.jpg
   category: lighting
   price_band: budget
   default_pros:
@@ -823,8 +823,9 @@ litom-30led-solar-spotlight:
   default_cons:
   - Built-in rechargeable battery (not replaceable) will degrade after several years
   - Placement restricted to sun-exposed locations
-  notes_for_writers: Best budget solar spotlight. IP67 rating (not just IP65) is the
-    standout spec. Mention 3-mode operation for versatility.
+  notes_for_writers: LITOM no longer on Amazon — HGGH is the closest equivalent (IP67,
+    3-mode, 4-pack). Best budget solar spotlight. IP67 rating (not IP65) is the standout
+    spec. Mention 3-mode operation for versatility.
   last_verified: 2026-04-30
 leonlite-3cct-security-light:
   name: LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head
@@ -908,7 +909,7 @@ vego-garden-6in1-17inch:
 birdies-metal-raised-bed-patio:
   name: Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"
   brand: Birdies Garden Products
-  amazon_asin: null  # NEEDS REVIEW: ASIN B07NS6QRQ2 returned 404 — find replacement on Amazon
+  amazon_asin: null  # NOT ON AMAZON — sold direct at birdiesgardens.com only. Use direct link or substitute with Vego Garden for Amazon affiliate.
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -921,9 +922,10 @@ birdies-metal-raised-bed-patio:
   default_cons:
   - One size configuration — no modular expansion
   - Thermoplastic base can crack in extreme cold
-  notes_for_writers: Best deck/patio raised bed. Thermoplastic base is the key differentiator.
-    Position for balconies, rooftop gardens, and deck installations. Well-known in
-    the Epic Gardening community.
+  notes_for_writers: NOT ON AMAZON — direct only at birdiesgardens.com. Best deck/patio
+    raised bed. Thermoplastic base is the key differentiator. Position for balconies,
+    rooftop gardens, and deck installations. Well-known in the Epic Gardening community.
+    If Amazon affiliate link required, substitute with Vego Garden equivalent.
   last_verified: 2026-04-30
 greenes-premium-cedar-4x8:
   name: Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"
@@ -1090,14 +1092,14 @@ true-temper-looped-action-hoe:
     category recognition.
   last_verified: 2026-04-30
 fiskars-pro-bypass-pruner:
-  name: Fiskars Pro 91095935J Steel Bypass Pruning Shears
+  name: Fiskars Bypass Pruning Shears, 5/8-Inch Cut Capacity
   brand: Fiskars
-  amazon_asin: null  # NEEDS REVIEW: ASIN B00004SD6L returned 404 — find replacement on Amazon
+  amazon_asin: B00002N66H
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: /images/brand/placeholder-product.svg
+  default_image: https://m.media-amazon.com/images/P/B00002N66H._SL500_.jpg
   category: hand-tools
-  price_band: mid
+  price_band: budget
   default_pros:
   - Hardened steel blade holds edge well
   - Low-friction coating reduces sap buildup
@@ -1108,12 +1110,12 @@ fiskars-pro-bypass-pruner:
   notes_for_writers: Reliable workhorse. Good for best-overall slot in pruner roundups.
   last_verified: 2026-04-30
 felco-2-pruner:
-  name: FELCO 2 Classic Manual Hand Pruner
+  name: Felco F2 Pruning Shears, Swiss-Made, Precision Bypass Blade, Replaceable Parts
   brand: FELCO
-  amazon_asin: null  # NEEDS REVIEW: ASIN B00002N697 returned 404 — find replacement on Amazon
+  amazon_asin: B00023RYS6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: /images/brand/placeholder-product.svg
+  default_image: https://m.media-amazon.com/images/P/B00023RYS6._SL500_.jpg
   category: hand-tools
   price_band: premium
   default_pros:
@@ -1703,12 +1705,12 @@ natures-hangout-window-bird-feeder:
     feeders. Pair with bird identification content.
   last_verified: 2026-04-30
 orbit-62100-yard-enforcer-sprinkler:
-  name: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection
+  name: Orbit 62000 Yard Enforcer Motion-Activated Sprinkler, 2-Pack
   brand: Orbit
-  amazon_asin: null  # NEEDS REVIEW: ASIN B009F1R0GC returned 404 — find replacement on Amazon
+  amazon_asin: B0G1FPDBK2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B009F1R0GC._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0G1FPDBK2._SL500_.jpg
   category: birds-wildlife
   price_band: mid
   default_pros:
