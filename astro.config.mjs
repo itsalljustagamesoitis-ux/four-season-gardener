@@ -16,9 +16,8 @@ const siteUrl = process.env.SITE_URL ?? `https://${_cfg.site.domain}`
 const isCloudflareProduction = process.env.CF_PAGES === '1' && process.env.CF_PAGES_BRANCH === 'main'
 
 if (!process.env.GOOGLE_SITE_VERIFICATION) {
-  const msg = '⚠ GOOGLE_SITE_VERIFICATION not set — GSC meta tag will not render'
-  if (isCloudflareProduction) throw new Error(msg)
-  else console.warn('\x1b[33m' + msg + '\x1b[0m')
+  // DNS TXT verification is equally valid — warn only, never throw
+  console.warn('\x1b[33m⚠ GOOGLE_SITE_VERIFICATION not set — GSC meta tag will not render (fine if using DNS verification)\x1b[0m')
 }
 if (!process.env.BING_SITE_VERIFICATION) {
   const msg = '⚠ BING_SITE_VERIFICATION not set — Bing meta tag will not render'
