@@ -120,7 +120,7 @@ if(localStorage.getItem('${consentKey}')==='1'){
 
     <!-- Cookie consent banner -->
     {ga4Id && (
-      <div id="cookie-banner" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#1a2e1a;color:#fff;padding:1rem 1.5rem;z-index:9999;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.875rem;">
+      <div id="cookie-banner" data-key={consentKey} style="display:none;position:fixed;bottom:0;left:0;right:0;background:#1a2e1a;color:#fff;padding:1rem 1.5rem;z-index:9999;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.875rem;">
         <p style="margin:0;flex:1 1 auto;">We use cookies to understand how visitors use this site. <a href="/privacy/" style="color:#a3c97a;text-decoration:underline;">Privacy policy</a></p>
         <div style="display:flex;gap:.5rem;flex-shrink:0;">
           <button id="cookie-accept" style="background:#4a7c59;color:#fff;border:none;padding:.5rem 1rem;border-radius:4px;cursor:pointer;font-size:.875rem;">Accept</button>
@@ -132,15 +132,16 @@ if(localStorage.getItem('${consentKey}')==='1'){
       (function(){
         var banner=document.getElementById('cookie-banner');
         if(!banner)return;
-        var stored=localStorage.getItem('${consentKey}');
+        var key=banner.dataset.key;
+        var stored=localStorage.getItem(key);
         if(stored===null)banner.style.display='flex';
         document.getElementById('cookie-accept').addEventListener('click',function(){
-          localStorage.setItem('${consentKey}','1');
+          localStorage.setItem(key,'1');
           banner.style.display='none';
           if(typeof gtag==='function')gtag('consent','update',{analytics_storage:'granted'});
         });
         document.getElementById('cookie-decline').addEventListener('click',function(){
-          localStorage.setItem('${consentKey}','0');
+          localStorage.setItem(key,'0');
           banner.style.display='none';
         });
       })();

@@ -67,14 +67,14 @@ echo "  merge.ours.driver configured"
 
 # ── Substitute identity in site.config.yaml ───────────────────────────────────
 SITE_YAML="site.config.yaml"
-sed -i '' "s/brand_name: .*/brand_name: \"${BRAND_NAME}\"/" "$SITE_YAML"
-sed -i '' "s/domain: \"fourseasongardener\.com\"/domain: \"${DOMAIN}\"/" "$SITE_YAML"
-sed -i '' "s/amazon_tracking_id: .*/amazon_tracking_id: \"${AMAZON_TAG}\"/" "$SITE_YAML"
-sed -i '' "s/ga4_measurement_id: .*/ga4_measurement_id: \"REPLACE_WITH_GA4_ID\"/" "$SITE_YAML"
+sed -i '' "s|brand_name: .*|brand_name: \"${BRAND_NAME}\"|" "$SITE_YAML"
+sed -i '' "s|domain: \"fourseasongardener\.com\"|domain: \"${DOMAIN}\"|" "$SITE_YAML"
+sed -i '' "s|amazon_tracking_id: .*|amazon_tracking_id: \"${AMAZON_TAG}\"|" "$SITE_YAML"
+sed -i '' "s|ga4_measurement_id: .*|ga4_measurement_id: \"REPLACE_WITH_GA4_ID\"|" "$SITE_YAML"
 echo "  site.config.yaml identity substituted"
 
 # Substitute project name in wrangler.toml
-sed -i '' "s/^name = \"four-season-gardener\"/name = \"${SITE_SLUG}\"/" wrangler.toml
+sed -i '' "s|^name = \"four-season-gardener\"|name = \"${SITE_SLUG}\"|" wrangler.toml
 echo "  wrangler.toml project name → $SITE_SLUG"
 
 # Clear generated articles — each clone needs its own niche content
