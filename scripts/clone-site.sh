@@ -81,6 +81,10 @@ echo "  wrangler.toml project name → $SITE_SLUG"
 rm -f content/articles/*.md
 echo "  content/articles/ cleared"
 
+# Clear template article images — each clone needs niche-specific photos
+rm -f public/images/articles/*.jpg public/images/articles/*.png public/images/articles/*.webp
+echo "  public/images/articles/ cleared — add niche article images before first deploy"
+
 # ── IndexNow key generation ───────────────────────────────────────────────────
 # Idempotent: reuse existing key if INDEXNOW_KEY is already set in the environment
 if [ -n "$INDEXNOW_KEY" ]; then
@@ -154,18 +158,19 @@ echo ""
 echo "Clone ready at: $TARGET_DIR"
 echo ""
 echo "Remaining manual steps:"
-echo "  1. Edit config/personas/*.yaml         — update persona name, bio, photo"
-echo "  2. Replace public/images/brand/        — logo, OG image, author photo"
-echo "  3. Replace content/products/products.yaml — niche products with real ASINs"
-echo "  4. Replace data/pipeline.json          — niche article pipeline"
-echo "  5. Set Cloudflare Pages env vars (as Secrets):"
+echo "  1. Add article images to public/images/articles/ — ~8 JPGs per hub slug (e.g. cast-iron-1.jpg … cast-iron-8.jpg)"
+echo "  2. Edit config/personas/*.yaml         — update persona name, bio, photo"
+echo "  3. Replace public/images/brand/        — logo, OG image, author photo"
+echo "  4. Replace content/products/products.yaml — niche products with real ASINs"
+echo "  5. Replace data/pipeline.json          — niche article pipeline"
+echo "  6. Set Cloudflare Pages env vars (as Secrets):"
 echo "       INDEXNOW_KEY            — ${INDEXNOW_KEY_VALUE}  (auto-generated, mandatory)"
 echo "       BING_SITE_VERIFICATION  — from Bing Webmaster Tools (HTML tag method)"
 echo "       AMAZON_TAG              — $AMAZON_TAG  (optional, overrides site.config.yaml)"
 echo "       GA4_ID                  — your GA4 measurement ID (optional)"
 echo "       SITE_URL                — https://$DOMAIN (optional)"
 echo "       GOOGLE_SITE_VERIFICATION — from GSC HTML tag method (optional, DNS is fine too)"
-echo "  6. git remote add origin <new-repo-url> && git push -u origin main"
+echo "  7. git remote add origin <new-repo-url> && git push -u origin main"
 echo ""
 echo "To pull template updates later:"
 echo "  cd $TARGET_DIR && git pull upstream main"
