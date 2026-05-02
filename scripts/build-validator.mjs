@@ -4,7 +4,7 @@
  * Run via: node scripts/build-validator.mjs
  */
 
-import { readFileSync, readdirSync, statSync } from 'fs'
+import { readFileSync, readdirSync, statSync, existsSync } from 'fs'
 import { join, relative } from 'path'
 
 const DIST = new URL('../dist', import.meta.url).pathname
@@ -33,7 +33,20 @@ function checkFile(fullPath) {
     return // Nothing else to check on a near-empty file
   }
 
-  // ── 2. Untagged Amazon affiliate links ───────────────────────────────────
+  // ── 2. Missing local images ──────────────────────────────────────────────
+  // Catch hero images referenced in HTML that weren't committed to the repo.
+  const imgRe = /<img[^>]+src="(\/images\/[^"]+)"[^>]*>/gi
+  let imgMatch
+  while ((imgMatch = imgRe.exec(raw)) !== null) {
+    const imgPath = imgMatch[1]
+    // join() with an absolute path replaces the base — use string concat instead
+    const diskPath = DIST + imgPath
+    if (!existsSync(diskPath)) {
+      fail('missing-image', rel, `Image not found on disk: ${imgPath}`)
+    }
+  }
+
+  // ── 3. Untagged Amazon affiliate links ───────────────────────────────────
   // Match <a ...> tags that contain amazon.com in href
   const anchorRe = /<a\s[^>]*href="[^"]*amazon\.com[^"]*"[^>]*>/gi
   let m
@@ -45,7 +58,7 @@ function checkFile(fullPath) {
     }
   }
 
-  // ── 3. Hardcoded prices (Amazon Associates ToS) ──────────────────────────
+  // ── 4. Hardcoded prices (Amazon Associates ToS) ──────────────────────────
   // Dollar amounts in article body text go stale and violate Associates program terms.
   // Exclude: schema JSON blocks, price_band labels, comparison-table cells (those are
   // controlled components). Flag anything that looks like a stated price in prose.
@@ -62,7 +75,7 @@ function checkFile(fullPath) {
     }
   }
 
-  // ── 4. Doubled brand names in H3 ─────────────────────────────────────────
+  // ── 5. Doubled brand names in H3 ─────────────────────────────────────────
   // Catches "Perky-Pet Perky-Pet …", "EGO Power+ EGO POWER+ …" etc.
   const h3Re = /<h3[^>]*>([\s\S]*?)<\/h3>/gi
   while ((m = h3Re.exec(raw)) !== null) {

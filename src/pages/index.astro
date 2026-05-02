@@ -37,6 +37,7 @@ const featured = sorted.slice(0, 12)
                 height="225"
                 loading="lazy"
                 decoding="async"
+                onerror="this.onerror=null;this.src='/images/og-default.jpg'"
               />
               <div class="article-card__body">
                 <span class="article-card__type">{article.data.type.replace('_', ' ')}</span>

@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/gazebo-for-swimming-pool-hero.jpg"
+hero_image: "articles/structures-2.jpg"
 hero_image_alt: ""
 description: "Learn how to choose a pool gazebo that withstands moisture and chlorine. Compare canopy styles, materials, and durability to protect your investment."
 target_keyword: "gazebo for swimming pool"

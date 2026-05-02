@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Birds & Wildlife"
 hub: "birds-wildlife"
-hero_image: "articles/deck-hook-for-bird-feeder-hero.jpg"
+hero_image: "articles/birds-wildlife-4.jpg"
 hero_image_alt: ""
 description: "Find a sturdy deck hook for your bird feeder. We review 4 top picks to help you avoid wobbling, scratches, and dropped feeders."
 target_keyword: "deck hook for bird feeder"

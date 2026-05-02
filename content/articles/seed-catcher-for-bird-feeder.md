@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Birds & Wildlife"
 hub: "birds-wildlife"
-hero_image: "articles/seed-catcher-for-bird-feeder-hero.jpg"
+hero_image: "articles/birds-wildlife-6.jpg"
 hero_image_alt: ""
 description: "Stop wasting seed and messy cleanup. Compare seed catchers, trays, and low-scatter feeders designed to contain spillage under your bird feeder."
 target_keyword: "seed catcher for bird feeder"

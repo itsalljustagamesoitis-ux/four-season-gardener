@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/gazebo-for-hot-tub-hero.jpg"
+hero_image: "articles/structures-4.jpg"
 hero_image_alt: ""
 description: "Learn what matters in a hot tub gazebo: steam ventilation, structural load, and privacy. Compare four options at different price points."
 target_keyword: "gazebo for hot tub"

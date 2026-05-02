@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/outdoor-gazebo-curtains-hero.jpg"
+hero_image: "articles/structures-5.jpg"
 hero_image_alt: ""
 description: "Compare outdoor gazebo curtains across price points, from budget mesh screens to premium hardtop structures. Find the right fit for your space."
 target_keyword: "outdoor gazebo curtains"

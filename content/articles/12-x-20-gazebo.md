@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/12-x-20-gazebo-hero.jpg"
+hero_image: "articles/structures-3.jpg"
 hero_image_alt: ""
 description: "Shopping for a 12 x 20 gazebo? Learn what separates quality hardtop structures from mediocre ones in our comprehensive buyer guide."
 target_keyword: "12 x 20 gazebo"

@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
-hero_image: "articles/teak-outdoor-dining-set-for-4-hero.jpg"
+hero_image: "articles/outdoor-furniture-7.jpg"
 hero_image_alt: ""
 description: "Learn what separates quality teak dining sets from fake ones. This buyer guide covers price, durability, and what Grade A teak really means."
 target_keyword: "teak outdoor dining set for 4"

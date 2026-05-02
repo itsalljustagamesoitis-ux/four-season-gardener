@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
-hero_image: "articles/blow-up-outdoor-sofa-hero.jpg"
+hero_image: "articles/outdoor-furniture-2.jpg"
 hero_image_alt: ""
 description: "Learn why true inflatable outdoor sofas often disappoint. This guide compares blow up options with lightweight, long-lasting patio sofas that actually last."
 target_keyword: "blow up outdoor sofa"

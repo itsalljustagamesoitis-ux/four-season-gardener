@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
-hero_image: "articles/tall-adirondack-chair-hero.jpg"
+hero_image: "articles/outdoor-furniture-6.jpg"
 hero_image_alt: ""
 description: "Compare tall Adirondack chairs designed for bar-height tables and raised decks. Find counter-height options that offer better comfort and easier standing."
 target_keyword: "tall adirondack chair"

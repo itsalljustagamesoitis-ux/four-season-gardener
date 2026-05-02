@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/gazebo-14-x-12-hero.jpg"
+hero_image: "articles/structures-1.jpg"
 hero_image_alt: ""
 description: "Learn how to choose a 14 x 12 gazebo that fits your needs and budget. Compare fabric canopies and durable structures for your outdoor space."
 target_keyword: "gazebo 14 x 12"

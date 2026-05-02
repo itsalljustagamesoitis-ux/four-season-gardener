@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Birds & Wildlife"
 hub: "birds-wildlife"
-hero_image: "articles/bird-feeder-for-finches-hero.jpg"
+hero_image: "articles/birds-wildlife-2.jpg"
 hero_image_alt: ""
 description: "Find the right finch feeder for nyjer and thistle seed. Learn which feeders work best for goldfinches and other finch species."
 target_keyword: "bird feeder for finches"

@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
-hero_image: "articles/frames-for-porch-swings-hero.jpg"
+hero_image: "articles/outdoor-furniture-5.jpg"
 hero_image_alt: ""
 description: "Find durable porch swing frames that withstand weight and weather. Learn what separates quality frames from flimsy options in our practical buyer guide."
 target_keyword: "frames for porch swings"

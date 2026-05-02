@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
-hero_image: "articles/outdoor-sectional-sofa-cover-hero.jpg"
+hero_image: "articles/outdoor-furniture-3.jpg"
 hero_image_alt: ""
 description: "Find the right outdoor sectional sofa cover for your needs. Compare protective covers, all-weather sets, and replacement cushions to protect your furniture."
 target_keyword: "outdoor sectional sofa cover"

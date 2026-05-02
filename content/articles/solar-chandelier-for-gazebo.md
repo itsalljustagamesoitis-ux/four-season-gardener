@@ -6,7 +6,7 @@ date: 2026-05-02
 author: "wendy"
 category: "Garden Structures"
 hub: "structures"
-hero_image: "articles/solar-chandelier-for-gazebo-hero.jpg"
+hero_image: "articles/lighting-3.jpg"
 hero_image_alt: ""
 description: "Find the right solar chandelier for your gazebo. Learn what actually works in evening conditions and how to balance style with real performance."
 target_keyword: "solar chandelier for gazebo"
