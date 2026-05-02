@@ -12,8 +12,7 @@ const cfg = getSiteConfig()
     <h1>Contact</h1>
     <p>For questions about reviews, corrections, or partnership enquiries, use the form below.</p>
     <p style="margin-top:0.5rem;color:var(--color-text-muted);font-size:0.9rem;">We read every message but can't reply to all of them. For product pitches: we don't accept products in exchange for reviews.</p>
-    <form name="contact" method="POST" data-netlify="true" style="margin-top:2rem;display:flex;flex-direction:column;gap:1rem;">
-      <input type="hidden" name="form-name" value="contact" />
+    <form action="https://formspree.io/f/xvzlzpwg" method="POST" style="margin-top:2rem;display:flex;flex-direction:column;gap:1rem;">
       <div>
         <label for="name" style="display:block;font-weight:600;margin-bottom:0.25rem;">Name</label>
         <input type="text" id="name" name="name" required style="width:100%;padding:0.6rem 0.875rem;border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.9rem;" />
