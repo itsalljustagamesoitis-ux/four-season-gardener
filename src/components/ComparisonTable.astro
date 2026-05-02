@@ -1,5 +1,6 @@
 ---
 import type { ResolvedProduct } from '../lib/config'
+import { productDisplayName } from '../lib/config'
 
 interface Props {
   products: ResolvedProduct[]
@@ -36,7 +37,7 @@ const priceBandLabel: Record<string, string> = {
       {products.map(p => (
         <tr>
           <td>
-            <strong>{p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : `${p.brand} ${p.name}`}</strong>
+            <strong>{productDisplayName(p)}</strong>
             {p.role && <span class="comparison-table__badge">{p.role.replace(/_/g, ' ')}</span>}
           </td>
           {attributes.map(attr => (

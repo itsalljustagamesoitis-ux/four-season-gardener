@@ -222,3 +222,10 @@ export function resolveProduct(
     role: ref.role,
   }
 }
+
+/** Return a display name that never repeats the brand prefix. */
+export function productDisplayName(product: { brand: string; name: string }): string {
+  return product.name.toLowerCase().startsWith(product.brand.toLowerCase())
+    ? product.name
+    : `${product.brand} ${product.name}`
+}

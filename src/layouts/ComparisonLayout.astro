@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug } from '../lib/config'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug, productDisplayName } from '../lib/config'
 import BaseLayout from './BaseLayout.astro'
 import Byline from '../components/Byline.astro'
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
@@ -112,8 +112,8 @@ const loser  = data.winner === 'product_a' ? productB : data.winner === 'product
 
     <div class="article-page__content"><slot /></div>
 
-    {productA && <ProsConsBox pros={productA.pros} cons={productA.cons} productName={`${productA.brand} ${productA.name}`} />}
-    {productB && <ProsConsBox pros={productB.pros} cons={productB.cons} productName={`${productB.brand} ${productB.name}`} />}
+    {productA && <ProsConsBox pros={productA.pros} cons={productA.cons} productName={productDisplayName(productA)} />}
+    {productB && <ProsConsBox pros={productB.pros} cons={productB.cons} productName={productDisplayName(productB)} />}
 
     <!-- Bottom verdict — repeat after all the detail, capture the decided buyer -->
     {winner && (
