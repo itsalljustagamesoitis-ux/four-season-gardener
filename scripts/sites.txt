@@ -1,0 +1,8 @@
+# Site registry — one domain per line (no https://).
+# Managed by clone-site.sh or add manually.
+# Used by check-health.mjs for fleet-wide monitoring.
+#
+# Example entry:
+# four-season-cook.com
+
+fourseasongardener.com

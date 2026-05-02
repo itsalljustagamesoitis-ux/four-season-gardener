@@ -11,6 +11,7 @@
     "validate:asins": "node scripts/validate-asins.mjs",
     "clone:site": "bash scripts/clone-site.sh",
     "update:clones": "bash scripts/update-all-clones.sh",
+    "check:health": "node scripts/check-health.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },

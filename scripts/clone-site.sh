@@ -2,10 +2,10 @@
 # Create a new site clone from this template.
 #
 # Usage:
-#   scripts/clone-site.sh <site-slug> <template-repo-url>
+#   scripts/clone-site.sh <site-slug> <template-repo-url> [domain]
 #
 # Example:
-#   scripts/clone-site.sh four-season-cook git@github.com:yourname/fsg-template.git
+#   scripts/clone-site.sh four-season-cook git@github.com:yourname/fsg-template.git four-season-cook.com
 #
 # What it does:
 #   1. Clones the template repo into ./<site-slug>/
@@ -16,8 +16,9 @@
 
 set -e
 
-SITE_SLUG="${1:?Usage: clone-site.sh <site-slug> <template-repo-url>}"
-TEMPLATE_URL="${2:?Usage: clone-site.sh <site-slug> <template-repo-url>}"
+SITE_SLUG="${1:?Usage: clone-site.sh <site-slug> <template-repo-url> [domain]}"
+TEMPLATE_URL="${2:?Usage: clone-site.sh <site-slug> <template-repo-url> [domain]}"
+DOMAIN="${3:-}"
 TEMPLATE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 TARGET_DIR="$(pwd)/$SITE_SLUG"
 
@@ -46,6 +47,15 @@ echo "  content/articles/ cleared (add niche articles here)"
 CLONES_FILE="$TEMPLATE_DIR/scripts/clones.txt"
 echo "$TARGET_DIR" >> "$CLONES_FILE"
 echo "  registered in $CLONES_FILE"
+
+# Register domain in sites.txt for health monitoring
+SITES_FILE="$TEMPLATE_DIR/scripts/sites.txt"
+if [ -n "$DOMAIN" ]; then
+  echo "$DOMAIN" >> "$SITES_FILE"
+  echo "  domain '$DOMAIN' registered in $SITES_FILE"
+else
+  echo "  (no domain provided — add it to scripts/sites.txt manually for health monitoring)"
+fi
 
 echo ""
 echo "Clone ready at: $TARGET_DIR"
