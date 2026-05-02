@@ -1,6 +1,6 @@
 /**
  * Post-build validator — fails the build if critical issues are found in dist/.
- * Checks: empty pages, untagged Amazon affiliate links, doubled brand names in H3s.
+ * Checks: empty pages, untagged Amazon affiliate links, hardcoded prices, doubled brand names in H3s.
  * Run via: node scripts/build-validator.mjs
  */
 
@@ -12,6 +12,7 @@ const MIN_HTML_BYTES = 500
 
 let failures = 0
 const errors = []
+const warnings = []
 
 function fail(check, file, msg) {
   errors.push(`  FAIL [${check}] ${file}\n       ${msg}`)
@@ -44,7 +45,24 @@ function checkFile(fullPath) {
     }
   }
 
-  // ── 3. Doubled brand names in H3 ─────────────────────────────────────────
+  // ── 3. Hardcoded prices (Amazon Associates ToS) ──────────────────────────
+  // Dollar amounts in article body text go stale and violate Associates program terms.
+  // Exclude: schema JSON blocks, price_band labels, comparison-table cells (those are
+  // controlled components). Flag anything that looks like a stated price in prose.
+  const bodyRe = /<(?:article|main)[^>]*>([\s\S]*?)<\/(?:article|main)>/i
+  const bodyMatch = bodyRe.exec(raw)
+  if (bodyMatch) {
+    // Strip JSON-LD blocks first to avoid false positives on schema price fields
+    const bodyText = bodyMatch[1].replace(/<script[^>]*type="application\/ld\+json"[^>]*>[\s\S]*?<\/script>/gi, '')
+    // Match dollar sign followed by digits (e.g. $45, $120, $1,299, $45-$80)
+    const priceRe = /\$\s*\d[\d,]*(?:\s*[-–]\s*\$?\s*\d[\d,]*)?/g
+    const priceMatches = bodyText.match(priceRe)
+    if (priceMatches && priceMatches.length > 0) {
+      warnings.push(`  WARN [hardcoded-price] ${rel}\n       ${priceMatches.length} dollar amount(s) found: ${[...new Set(priceMatches)].slice(0, 5).join(', ')}`)
+    }
+  }
+
+  // ── 4. Doubled brand names in H3 ─────────────────────────────────────────
   // Catches "Perky-Pet Perky-Pet …", "EGO Power+ EGO POWER+ …" etc.
   const h3Re = /<h3[^>]*>([\s\S]*?)<\/h3>/gi
   while ((m = h3Re.exec(raw)) !== null) {
@@ -69,8 +87,16 @@ function walk(dir) {
 console.log(`\nValidating build output in ${DIST} …\n`)
 walk(DIST)
 
+if (warnings.length > 0) {
+  console.warn(`⚠ ${warnings.length} warning(s) — these are non-blocking but should be fixed:\n`)
+  for (const w of warnings) console.warn(w)
+  console.warn()
+}
+
 if (failures === 0) {
-  console.log('✓ Build validation passed — no issues found.\n')
+  console.log(warnings.length
+    ? `✓ Build validation passed with warnings (see above).\n`
+    : `✓ Build validation passed — no issues found.\n`)
   process.exit(0)
 } else {
   console.error(`✗ Build validation failed — ${failures} issue(s):\n`)

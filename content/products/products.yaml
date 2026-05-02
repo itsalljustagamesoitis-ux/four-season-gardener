@@ -430,7 +430,7 @@ outland-living-403-fire-table:
 hiland-pyramid-patio-heater:
   name: Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater, Hammered Bronze
   brand: Hiland
-  amazon_asin: B004KH4LAE
+  amazon_asin: null  # NEEDS REVIEW: ASIN B004KH4LAE returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: https://m.media-amazon.com/images/P/B004KH4LAE._SL500_.jpg
@@ -771,7 +771,7 @@ greenworks-40v-blower-vac:
 dr-power-leaf-lawn-vacuum:
   name: DR Power Equipment Self-Propelled Leaf and Lawn Vacuum
   brand: DR Power Equipment
-  amazon_asin: VERIFY-dr-power-leaf-vac
+  amazon_asin: null  # NEEDS REVIEW: ASIN VERIFY-dr-power-leaf-vac returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -791,7 +791,7 @@ dr-power-leaf-lawn-vacuum:
 ring-solar-pathlight-2pack:
   name: Ring Solar Pathlight Outdoor Motion-Sensor Security Light, 2-Pack
   brand: Ring
-  amazon_asin: B082LSRZ2M
+  amazon_asin: null  # NEEDS REVIEW: ASIN B082LSRZ2M returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: https://m.media-amazon.com/images/P/B082LSRZ2M._SL500_.jpg
@@ -810,7 +810,7 @@ ring-solar-pathlight-2pack:
 litom-30led-solar-spotlight:
   name: LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack
   brand: LITOM
-  amazon_asin: B075GQ54CY
+  amazon_asin: null  # NEEDS REVIEW: ASIN B075GQ54CY returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -908,7 +908,7 @@ vego-garden-6in1-17inch:
 birdies-metal-raised-bed-patio:
   name: Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"
   brand: Birdies Garden Products
-  amazon_asin: B07NS6QRQ2
+  amazon_asin: null  # NEEDS REVIEW: ASIN B07NS6QRQ2 returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -1092,7 +1092,7 @@ true-temper-looped-action-hoe:
 fiskars-pro-bypass-pruner:
   name: Fiskars Pro 91095935J Steel Bypass Pruning Shears
   brand: Fiskars
-  amazon_asin: B00004SD6L
+  amazon_asin: null  # NEEDS REVIEW: ASIN B00004SD6L returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -1110,7 +1110,7 @@ fiskars-pro-bypass-pruner:
 felco-2-pruner:
   name: FELCO 2 Classic Manual Hand Pruner
   brand: FELCO
-  amazon_asin: B00002N697
+  amazon_asin: null  # NEEDS REVIEW: ASIN B00002N697 returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -1705,7 +1705,7 @@ natures-hangout-window-bird-feeder:
 orbit-62100-yard-enforcer-sprinkler:
   name: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection
   brand: Orbit
-  amazon_asin: B009F1R0GC
+  amazon_asin: null  # NEEDS REVIEW: ASIN B009F1R0GC returned 404 — find replacement on Amazon
   awin_advertiser_id: null
   awin_product_url: null
   default_image: https://m.media-amazon.com/images/P/B009F1R0GC._SL500_.jpg

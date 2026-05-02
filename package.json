@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && npx pagefind --site dist && node scripts/build-validator.mjs",
+    "validate:asins": "node scripts/validate-asins.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
