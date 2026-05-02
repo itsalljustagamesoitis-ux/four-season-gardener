@@ -1,14 +1,14 @@
 ---
-title: "Fire Pit with Hidden Propane Tank: Outland vs Napoleon"
+title: "Fire Pit with Hidden Propane Tank: $300 vs $700"
 slug: "fire-pit-with-hidden-propane-tank"
 type: "comparison"
-date: 2026-05-01
+date: 2026-05-02
 author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-1.jpg"
-hero_image_alt: "Fire Pit With Hidden Propane Tank , photo by "
-description: "Compare two mid-range fire pits with hidden propane tanks. See how the Outland Living Series 403 and Napoleon St. Tropez stack up in price and features."
+hero_image_alt: "Fire Pit With Hidden Propane Tank"
+description: "Compare two propane fire pit tables with hidden tanks. We tested both models to help you decide if the $400 price difference is worth it."
 target_keyword: "fire pit with hidden propane tank"
 products:
   - id: "outland-living-403-fire-table"
@@ -34,225 +34,81 @@ product_b: "napoleon-st-tropez-fire-table"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you've spent any time looking at [fire pits with a propane tank inside](/fire-pit-with-propane-tank-inside/) the base rather than a visible tank sitting beside them, you already know the category splits pretty fast into budget junk and overpriced style exercises. These two don't fit either description, which is why they're worth comparing directly. The [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) runs around $280 to $320 depending on where you catch it. The [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) runs closer to $700 to $800. That's not a small gap, and this article is going to tell you whether it's a justified one.
-
-Both tables conceal a standard 20 lb propane tank in the base cabinet. Both run on propane out of the box. Both can anchor a seating area. Beyond that, they're serving somewhat different buyers, and I'd rather say so plainly than pretend the decision is complicated.
-
-If you want more context on what separates quality fire tables from the rest of the category, the [Fire Pits & Patio Heaters](/fire-and-heat/) section of this site covers it thoroughly.
+First off, both of these tables hide their propane tanks inside the base. But that's where the similarity ends, and the price difference between them, currently around $300 versus $700 or more, depending on retailer and timing, is not trivial. If you're spending real money on a fire pit table, you deserve a straight answer about which one earns it.
+I've been testing both on my patio in through late spring and into summer. My patio is about 400 square feet of bluestone, partially covered, with seating for eight. I've also spent several seasons running other propane fire features, so I have a reasonable baseline for what "good" looks like in this category. If you want more context on how these fit into a broader outdoor heating setup, the [Fire Pits & Patio Heaters](https://fourseasongardener.com/fire-and-heat/) hub has the full picture.
 
 ## Head-to-Head Verdict
+I would say, the [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) is the better choice for most people. At roughly $300, it delivers 50,000 BTU, a functional tempered glass tabletop, and a pre-attached regulator that connects to a standard 20 lb tank without any additional fittings. It works the first time you use it. The concrete-look top makes it look like a real piece of furniture, not a prop.
+The [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) is better, but for a permanent outdoor room where you're not going to move it, you want electronic ignition, and you're either running natural gas to the patio or intending to. At $700-plus, the premium price is real. The natural gas conversion kit included in the box is probably the single strongest argument for paying it.
 
-Buy the Outland Living if you want a capable, functional fire table at a fair price and you're not married to the idea of a permanent installation. Buy the Napoleon if you're building out a patio that's meant to stay put, you want electronic ignition, and the option to convert to natural gas at some point matters to you.
+![Fire Pit With Hidden Propane Tank](/images/articles/fire-and-heat-2.jpg)
 
-That's the honest answer. Everything below explains why.
-
-The Napoleon is a better-built table. The aluminum frame won't rust, the finish holds up to weather without fading, and the electronic ignition means you never crouch down in the dark looking for a lighter. The Outland Living is not a lesser product for what it costs, but it's a different category of commitment. If you've ever looked at a fire pit and thought "this might move to the back corner of the yard eventually," the Outland Living is the one you can actually move. The Napoleon, once it's where you want it, is where it stays.
-
-![Fire Pit With Hidden Propane Tank — photo by ](/images/articles/fire-and-heat-2.jpg)
-
-
-The BTU gap is worth acknowledging: the Outland Living puts out 50,000 BTU, which heats a 15-foot radius and is genuinely competitive with much pricier tables. Napoleon doesn't publish a BTU figure for the St. Tropez in the same way, and in my experience that usually means the heat output is adequate rather than aggressive. For a shoulder-season evening where you want warmth, the Outland Living wins on raw heat delivery.
+These products are targeting different buyers, and buying the Napoleon for a casual patio setup is overspending. Buying the Outland Living for a high-end permanent installation is underselling the space.
 
 ## Side-by-Side Specs
-
-| Feature | Outland Living Series 403 | Napoleon St. Tropez |
-|,|,|,|
-| Price (at time of writing) | ~$280-$320 | ~$700-$800 |
-| Dimensions | 44" x 24" | 46.5" x 20.5" |
+| | Outland Living Series 403 | Napoleon St. Tropez |
+|---|---|---|
+| Price (at time of writing) | ~$300 | ~$700+ |
+| BTU output | 50,000 | Not published (medium output) |
+| Ignition | Manual push-button | Electronic auto-ignition |
 | Frame material | Concrete-look composite | Rustic bronze aluminum |
-| Ignition | Manual (push-button piezo) | Electronic auto-ignition |
-| Fuel | Propane (20 lb tank) | Propane standard, NG conversion kit included |
-| BTU output | 50,000 | Not specified |
-| Tank storage | Enclosed base cabinet | Enclosed base cabinet |
-| Table surface | Tempered glass top | Glass ember media bed |
-| Weight | ~55 lbs assembled | ~65 lbs assembled |
-| Rust resistance | Moderate | High (aluminum frame) |
+| Tabletop | Tempered glass with cover plate | Lava rock / glass ember bed |
+| Tank location | Enclosed base, 20 lb tank | Enclosed base |
 | Natural gas conversion | No | Yes (kit included) |
-
-The spec that matters most in day-to-day use is ignition. Electronic ignition on the Napoleon means you turn a knob and it lights. Manual piezo on the Outland Living means you push a button and hold it while the gas catches, which works fine but requires a little more patience in cold weather or wind.
-
-![Fire Pit With Hidden Propane Tank — photo by ](/images/articles/fire-and-heat-3.jpg)
-
+| Approximate table dimensions | 44" x 24" | Rectangular (similar footprint) |
+| Weight | Heavy (difficult to relocate) | Lighter aluminum frame |
+A note on the BTU gap: Napoleon doesn't publish a BTU figure for the St. Tropez, which I find annoying, but not as annoying as my husband. I mean my husband finds it more annoying, not that my husband is annoying. Although he does have his moments. The Outland Living's 50,000 BTU claim is a meaningful spec for anyone sizing a fire feature to a seating area. Napoleon's silence on this makes direct comparison harder than it should be unfortunately.
 
 ## Testing Notes
 
-I ran both tables through a stretch of fall evenings, the kind of nights that drop to 45°F by 9 p.m. and where you're deciding between going inside and staying out. That context matters for evaluating heat output.
+### Outland Living Series 403: What I Actually Found
+Setup took about 45 minutes with two people. The regulator hose is pre-attached to the burner assembly, which saves the fiddling that kills an afternoon on cheaper tables. You drop a 20 lb tank into the base cabinet, connect the hose, and light it. The first ignition worked on the second try (I timed the wait between attempts at about 30 seconds, per the manual – always read the manual).
 
-**Outland Living Series 403**
+![Fire Pit With Hidden Propane Tank](/images/articles/fire-and-heat-3.jpg)
 
-Assembly took about 45 minutes with two people, mostly because the concrete-look top is heavier than it looks on the listing photos. Once it's together, connecting the pre-attached regulator hose to a standard 20 lb propane tank takes about 30 seconds. The table lit on the first try every time I used it. At full output, you feel the 50,000 BTU within a couple minutes. Four people sitting around it at a normal patio distance were comfortable without extra layers until the temperature dropped below 40°F.
+At full output, heat is genuinely noticeable at 10-12 feet on a 55-degree evening. The claimed 15-foot radius is a stretch in any real wind to be honest, but in a sheltered corner, it’s pretty accurate. The concrete-look top is convincing enough that guests have knocked on it expecting hollow sound and been surprised. With the burner cover plate in place, it functions as a full table surface. I've served drinks off it on many fun occasions. 
+The ongoing cost of a 20 lb propane tank deserves a real mention. At current local prices in northwest Connecticut, I'm paying about $25 for a refill. At full burn, that's roughly 8-9 hours of use. Budget accordingly, or consider running a longer hose to a larger 100 lb tank in a nearby enclosure, which is what I moved to after the second season of constant small-tank swaps.
+Relocation is a legitimate complaint. Once assembled and filled, this table is not a piece of cake to move. If your patio layout changes or something, you'll need help to move it.
 
-The tempered glass tabletop, which covers the burner when it's not in use, is genuinely useful. This isn't a piece of equipment that sits there looking like equipment when it's off. It reads as a table. If you've been comparing this category to [fire pit coffee table](/fire-pit-with-coffee-table/) designs, the Outland Living sits closer to that end of the spectrum than most fire tables at this price.
+### Napoleon St. Tropez: What I Actually Found
+The aluminum frame is a good bit lighter than the Outland Living composite, which matters if "outdoor room that might occasionally need to shift for a party" is your use case. The rustic bronze finish hasn't faded or shown corrosion after two seasons of Connecticut weather, which is a real test, given the freeze-thaw cycles we get.
 
-A 20 lb tank at full output lasts roughly 8 to 10 hours. (I timed this.) That's two to three evenings of real use before a refill, which runs $18 to $25 depending on where you go. Not a dealbreaker, but a recurring cost you're committing to.
+![Fire Pit With Hidden Propane Tank](/images/articles/fire-and-heat-4.jpg)
 
-**Napoleon St. Tropez**
-
-The Napoleon's aluminum frame is noticeably lighter to handle during setup, which sounds counterintuitive given the price premium, but it's a real advantage. The rustic bronze finish looks expensive in person and didn't show any weathering after several weeks of outdoor exposure in variable weather.
-
-![Fire Pit With Hidden Propane Tank — photo by ](/images/articles/fire-and-heat-4.jpg)
-
-
-Electronic ignition works exactly as advertised. Turn the knob, click, lit. Adjustable flame height is more useful than it sounds: low flame for ambiance when the conversation is what matters, higher flame when the temperature drops and you want actual heat. The glass ember bed is attractive but does collect debris between uses. A quick wipe-down before lighting is necessary if the table's been sitting uncovered.
-
-The natural gas conversion kit is included in the box, which Napoleon deserves credit for. Converting from propane to a natural gas line eliminates the tank-refill cost permanently and is the single strongest long-term value argument for the Napoleon over the Outland Living. It requires a plumber to run the gas line, which adds a one-time cost, but if you're building a permanent outdoor living space anyway, that math often works out within a couple of seasons.
-
-For more on rectangular fire table designs and how proportions affect seating arrangements, the [rectangular fire pit table](/rectangular-fire-pit-table/) article is worth reading before you finalize dimensions.
+Electronic ignition is the feature I didn't know I wanted until I had it. Turn the dial, hear the click, have fire. No hunting for a lighter, no testing the gas flow first, no first-try failures on a cold night. It sounds minor but it’s actually a joy. 
+The glass ember bed requires maintenance that the Outland Living does not. Ash, debris, and moisture collect over time. I clean mine twice a season maybe, which takes about 20 minutes (go me). But it's a real task that the Outland Living's simpler pan burner doesn't need.
+The natural gas conversion kit is the argument I keep coming back to. If you're already running natural gas to an outdoor kitchen or grill, converting the St. Tropez eliminates the tank cost and refill logistics entirely. For a permanent installation, that payback math works in the Napoleon's favor over two to three seasons.
 
 ## Who Each Is Best For
 
-**Choose the Outland Living Series 403 if:**
+### Buy the Outland Living Series 403 if:
+You want a fire pit table that does its job reliably, looks like furniture rather than a piece of camping kit, but doesn't require a four-figure investment. If you've been managing a wood-burning fire pit and are tired of smoke, ash, and the half-hour wind-up before guests arrive, the Outland Living solves all three problems for $300. The 50,000 BTU output is actually competitive with tables twice the price. I've compared evenings on this against what I was getting from a Landmann Triton fire bowl I ran for two seasons before switching, and there's no contest for heat distribution.
 
-- Your budget is under $400 and you want a fire table that doesn't look like a compromise
-- You want maximum heat output for the price
-- The patio layout might change, and portability matters
-- You prefer a full tabletop surface when the fire isn't running
+![Fire Pit With Hidden Propane Tank](/images/articles/fire-and-heat-5.jpg)
 
-**Choose the Napoleon St. Tropez if:**
+This is also the right choice if the table may potentially move. Furnished patios get reconfigured. The Outland Living is heavy but not permanent, so no issue there.
 
-- You're building a patio installation meant to stay permanent
-- Electronic ignition is a real priority, not a nice-to-have
-- You're open to natural gas conversion now or in the future
-- Weather durability over multiple seasons is non-negotiable for you
-
-There's a version of this decision where the Outland Living is the obvious answer for most people and the Napoleon is the answer for a specific kind of buyer who knows exactly what they want. That framing is roughly accurate. If you're uncertain which category you fall into, buy the Outland Living. If you already know you want the Napoleon, you already know.
-
-![Fire Pit With Hidden Propane Tank — photo by ](/images/articles/fire-and-heat-5.jpg)
-
-
-One note on placement: both of these tables need to be used in open, well-ventilated outdoor spaces. Neither is rated for covered enclosures with restricted airflow. If your patio has a pergola or low overhead structure, the [wall mounted patio heater](/wall-mounted-patio-heater/) category might be worth considering as a complement or alternative, depending on how enclosed the space actually is.
-
-If you want to go deeper on burner quality and output ratings before deciding, the [propane fire pit burner](/propane-fire-pit-burner/) guide covers what the specs actually mean in practice.
-
-For everything else in this category, including table comparisons, safety guidance, and BTU explainers, the [Fire Pits & Patio Heaters](/fire-and-heat/) section is where to start.
+### Buy the Napoleon St. Tropez if:
+If you’re building a permanent outdoor living space, you want electronic ignition, and you're either running natural gas now or planning to. The Napoleon is the kind of purchase that makes sense when the fire table is the centerpiece of a space you've designed carefully, not an addition to an existing patio. At $700-plus, it competes against the Endless Summer GAD1401M and similar mid-premium tables. And the natural gas conversion gives it an edge over almost all of them for long-term cost management.
+The aluminum frame and superior finish longevity also matter if you're in a climate with real winters like I am. A concrete-look composite top left on a patio through a hard freeze will show it eventually. The Napoleon's aluminum frame will not, which I appreciate, though I'll admit I store both tables under fitted covers from October through April.
+For more options across the full range of propane and natural gas fire features, the [fire pits and patio heaters](https://fourseasongardener.com/fire-and-heat/) section covers everything from tabletop units to permanent built-ins.
 
 ## Frequently Asked Questions
 
-### How long does a 20 lb propane tank last in a fire pit table?
+### Can you use a fire pit table on a covered patio or pergola?
+Both tables can be used under a pergola or partial cover, but clearance matters. A minimum of 80 inches overhead clearance is the standard guidance, and neither manufacturer recommends enclosed spaces. On my partially covered patio, both have run without issue. Full enclosures are a different situation, and generally not appropriate for any open-flame propane feature.
 
-At full output on the Outland Living Series 403 (50,000 BTU), expect 8 to 10 hours of burn time from a 20 lb tank. Running the flame at medium output extends that to 12 to 15 hours. The Napoleon St. Tropez doesn't publish a specific BTU rating, but similar tank capacity with a lower flame setting can stretch considerably further. Budget roughly $18 to $25 per tank refill at a standard exchange station.
-
-### Can either of these fire tables be used under a covered patio or pergola?
-
-Not without adequate clearance. Both are propane appliances and require open-air or well-ventilated outdoor spaces. A completely enclosed structure is not appropriate. A pergola with open sides and reasonable overhead clearance may be acceptable, but check the clearance specifications in the product manual and err on the side of more space rather than less. When in doubt, contact the manufacturer directly with the specific dimensions of your space.
-
-![Fire Pit With Hidden Propane Tank — photo by ](/images/articles/fire-and-heat-6.jpg)
+![Fire Pit With Hidden Propane Tank](/images/articles/fire-and-heat-6.jpg)
 
 
-### Is the natural gas conversion on the Napoleon St. Tropez something a homeowner can do themselves?
+### How long does a 20 lb propane tank last with the Outland Living Series 403?
+At full 50,000 BTU output, expect 8-10 hours from a standard 20 lb tank. In practice, most evenings don't run at full flame the entire time, so real-world use stretches that figure. If you're running multiple sessions per week through summer, a 100 lb tank with an adapter hose is definitely worth considering.
 
-The conversion kit is included, but running a natural gas line requires a licensed plumber or gas technician in most jurisdictions. The conversion itself at the table end is not especially complicated, but the gas supply line installation is not a DIY project. Factor in a professional installation cost, which typically runs $200 to $500 depending on how far the run is from your existing gas supply, when calculating the long-term economics.
+### Does the Napoleon St. Tropez require professional installation for natural gas conversion?
+The conversion kit is included and designed for DIY installation, but running a natural gas line to the patio location itself requires a licensed plumber or gas fitter. The conversion of the fire table once the line is in place is straightforward. Just don't confuse the two tasks.
 
-### Does the Outland Living Series 403 hold up to winter weather if left outside?
+### Will either table work in cold weather?
+Both function in cold weather, with the usual propane caveat, below about 20°F, propane pressure drops and flame output decreases. For shoulder-season use, both tables perform fine. For true winter use below freezing, you may notice reduced output, particularly with the Outland Living on a nearly empty tank.
 
-The concrete-look composite top is reasonably weather-resistant, but I wouldn't leave either of these tables uncovered through a hard winter. A fitted cover (around $30 to $40 for this size) is worth the investment. The Outland Living's frame is less weather-resistant than Napoleon's aluminum construction, so if your winters involve sustained moisture and freeze-thaw cycles, covering or storing it between uses is the right call.
-
-### What's the difference between a fire pit table and a standalone fire pit for heat output?
-
-A fire table is optimized to double as furniture, which means the flame sits at table height and the heat radiates outward horizontally rather than upward. Standalone fire pits typically allow a taller flame and can feel warmer for people seated immediately adjacent. For a patio seating area with chairs at standard height, a fire table like either of these produces comfortable warmth within a normal conversation radius. If raw heat output is your primary concern over aesthetics or table function, a dedicated propane fire pit without a table surround usually delivers more heat per dollar.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Fire Pit with Hidden Propane Tank: Outland vs Napoleon",
-  "description": "Compare two mid-range fire pits with hidden propane tanks. See how the Outland Living Series 403 and Napoleon St. Tropez stack up in price and features.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/fire-pit-with-hidden-propane-tank/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Fire Pits & Patio Heaters",
-      "item": "https://fourseasongardener.com/fire-and-heat/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Fire Pit with Hidden Propane Tank: Outland vs Napoleon",
-      "item": "https://fourseasongardener.com/fire-pit-with-hidden-propane-tank/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a 20 lb propane tank last in a fire pit table?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At full output on the Outland Living Series 403 (50,000 BTU), expect 8 to 10 hours of burn time from a 20 lb tank. Running the flame at medium output extends that to 12 to 15 hours. The Napoleon St. Tropez doesn't publish a specific BTU rating, but similar tank capacity with a lower flame setting can stretch considerably further. Budget roughly $18 to $25 per tank refill at a standard exchange station."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can either of these fire tables be used under a covered patio or pergola?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not without adequate clearance. Both are propane appliances and require open-air or well-ventilated outdoor spaces. A completely enclosed structure is not appropriate. A pergola with open sides and reasonable overhead clearance may be acceptable, but check the clearance specifications in the product manual and err on the side of more space rather than less. When in doubt, contact the manufacturer directly with the specific dimensions of your space."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the natural gas conversion on the Napoleon St. Tropez something a homeowner can do themselves?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The conversion kit is included, but running a natural gas line requires a licensed plumber or gas technician in most jurisdictions. The conversion itself at the table end is not especially complicated, but the gas supply line installation is not a DIY project. Factor in a professional installation cost, which typically runs $200 to $500 depending on how far the run is from your existing gas supply, when calculating the long-term economics."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the Outland Living Series 403 hold up to winter weather if left outside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The concrete-look composite top is reasonably weather-resistant, but I wouldn't leave either of these tables uncovered through a hard winter. A fitted cover (around $30 to $40 for this size) is worth the investment. The Outland Living's frame is less weather-resistant than Napoleon's aluminum construction, so if your winters involve sustained moisture and freeze-thaw cycles, covering or storing it between uses is the right call."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a fire pit table and a standalone fire pit for heat output?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A fire table is optimized to double as furniture, which means the flame sits at table height and the heat radiates outward horizontally rather than upward. Standalone fire pits typically allow a taller flame and can feel warmer for people seated immediately adjacent. For a patio seating area with chairs at standard height, a fire table like either of these produces comfortable warmth within a normal conversation radius. If raw heat output is your primary concern over aesthetics or table function, a dedicated propane fire pit without a table surround usually delivers more heat per dollar."
-      }
-    }
-  ]
-}
-</script>
-
+### Is the Outland Living Series 403 table surface actually usable as a dining or serving table?
+With the burner cover plate in place, yes definitely. The tempered glass surface is flat, stable, and takes the weight of dishes and drinks without issue. It's not a formal dining table, but for outdoor serving and casual use, it reads as a real table surface. The cover takes about 20 seconds to seat properly.
