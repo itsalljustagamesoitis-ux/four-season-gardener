@@ -98,14 +98,26 @@ const featured = sorted.slice(0, 12)
 
 <script>
   document.querySelectorAll('[data-form="sidebar-email"]').forEach(form => {
-    form.addEventListener('submit', (e) => {
+    form.addEventListener('submit', async (e) => {
       e.preventDefault()
       const input = (form as HTMLFormElement).querySelector('input') as HTMLInputElement
       const btn = (form as HTMLFormElement).querySelector('button') as HTMLButtonElement
       if (!input?.value) return
-      window.open(`https://fourseasongardener.beehiiv.com/subscribe?email=${encodeURIComponent(input.value)}`, '_blank')
-      btn.textContent = "You're in!"
-      input.value = ''
+      btn.textContent = 'Subscribing…'
+      btn.disabled = true
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email: input.value.trim() }),
+        })
+        btn.textContent = res.ok ? "You're in!" : 'Try again'
+        if (res.ok) input.value = ''
+      } catch {
+        btn.textContent = 'Try again'
+      } finally {
+        btn.disabled = false
+      }
     })
   })
 </script>
