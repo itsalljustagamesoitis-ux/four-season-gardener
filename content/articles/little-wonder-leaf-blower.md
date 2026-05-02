@@ -142,62 +142,6 @@ For a 12-amp corded electric, use a 14-gauge cord for runs up to 50 feet and 12-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Little Wonder Leaf Blower: Corded vs Cordless",
-  "description": "Compare Little Wonder leaf blowers to find the right model for your needs. We break down corded and cordless options to help you choose.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/little-wonder-leaf-blower/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Lawn Care",
-      "item": "https://fourseasongardener.com/lawn-care/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Little Wonder Leaf Blower: Corded vs Cordless",
-      "item": "https://fourseasongardener.com/little-wonder-leaf-blower/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -208,62 +208,6 @@ Weld quality and finish uniformity are the two things worth assessing before you
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Outdoor Sofa Iron: 10 Options for Every Style",
-  "description": "Explore durable iron outdoor sofas for your patio or garden. From Victorian designs to modern styles, find the perfect metal seating for your space.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/outdoor-sofa-iron/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Outdoor Sofa Iron: 10 Options for Every Style",
-      "item": "https://fourseasongardener.com/outdoor-sofa-iron/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -140,62 +140,6 @@ No. The HTA2000 is designed specifically for the PH1400E. EGO made changes to th
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "EGO Hedge Trimmer Attachment Review: Worth the Cost?",
-  "description": "Review of the EGO Power+ HTA2000 hedge trimmer attachment. Learn if this $100-120 attachment is worth buying and what power head you'll need.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/ego-hedge-trimmer-attachment/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "EGO Hedge Trimmer Attachment Review: Worth the Cost?",
-      "item": "https://fourseasongardener.com/ego-hedge-trimmer-attachment/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

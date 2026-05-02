@@ -13,28 +13,31 @@ const nav = getNav()
 
     <nav aria-label="Main navigation" class="site-header__nav">
       <ul class="site-nav" id="main-nav">
-        {nav.categories.map(cat => (
-          <li class={`site-nav__item ${cat.hubs.length > 0 ? 'has-dropdown' : ''}`}>
-            <a href={`/${cat.slug}/`} class="site-nav__link">
-              {cat.label}
-              {cat.hubs.length > 0 && (
-                <svg class="site-nav__chevron" aria-hidden="true" width="12" height="12" viewBox="0 0 12 12">
-                  <path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
+        {nav.categories.map(cat => {
+          const hasDropdown = cat.hubs.length > 1
+          return (
+            <li class={`site-nav__item ${hasDropdown ? 'has-dropdown' : ''}`}>
+              <a href={`/${cat.slug}/`} class="site-nav__link">
+                {cat.label}
+                {hasDropdown && (
+                  <svg class="site-nav__chevron" aria-hidden="true" width="12" height="12" viewBox="0 0 12 12">
+                    <path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                )}
+              </a>
+              {hasDropdown && (
+                <ul class="site-nav__dropdown">
+                  {cat.hubs.map(hub => (
+                    <li><a href={`/${hub.slug}/`}>{hub.label}</a></li>
+                  ))}
+                  <li class="site-nav__dropdown-all">
+                    <a href={`/${cat.slug}/`}>All {cat.label} →</a>
+                  </li>
+                </ul>
               )}
-            </a>
-            {cat.hubs.length > 0 && (
-              <ul class="site-nav__dropdown">
-                {cat.hubs.map(hub => (
-                  <li><a href={`/${hub.slug}/`}>{hub.label}</a></li>
-                ))}
-                <li class="site-nav__dropdown-all">
-                  <a href={`/${cat.slug}/`}>All {cat.label} →</a>
-                </li>
-              </ul>
-            )}
-          </li>
-        ))}
+            </li>
+          )
+        })}
       </ul>
     </nav>
 

@@ -147,62 +147,6 @@ The main difference is voltage. DeWalt's 20V platform is well-established across
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "DeWalt 20V MAX Cordless Lawn Mower Review",
-  "description": "DeWalt cordless lawn mower review. See how the 20V MAX 3-in-1 mower performs and whether it's worth buying if you already own DeWalt tools.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/dewalt-cordless-lawn-mower/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "DeWalt 20V MAX Cordless Lawn Mower Review",
-      "item": "https://fourseasongardener.com/dewalt-cordless-lawn-mower/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

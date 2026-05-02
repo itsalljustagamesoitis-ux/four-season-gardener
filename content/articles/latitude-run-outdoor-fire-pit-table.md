@@ -135,62 +135,6 @@ Lava rocks are the default filler included with the Series 403. They are functio
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Latitude Run Outdoor Fire Pit Table Review",
-  "description": "Read our honest review of the Latitude Run outdoor fire pit table. Learn if this Amazon bestseller delivers quality or disappoints like other rebranded imports.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/latitude-run-outdoor-fire-pit-table/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Fire Pits & Patio Heaters",
-      "item": "https://fourseasongardener.com/fire-and-heat/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Latitude Run Outdoor Fire Pit Table Review",
-      "item": "https://fourseasongardener.com/latitude-run-outdoor-fire-pit-table/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

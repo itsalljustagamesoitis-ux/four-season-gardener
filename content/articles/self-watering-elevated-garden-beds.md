@@ -139,62 +139,6 @@ Neither bed ships with a built-in self watering reservoir, despite appearing in 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Self Watering Elevated Garden Beds: Lawn vs. Hard Surface",
-  "description": "Compare self watering elevated garden beds designed for in-ground installation versus hard surfaces. Learn which type suits your gardening setup.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/self-watering-elevated-garden-beds/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Raised Beds",
-      "item": "https://fourseasongardener.com/raised-beds/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Self Watering Elevated Garden Beds: Lawn vs. Hard Surface",
-      "item": "https://fourseasongardener.com/self-watering-elevated-garden-beds/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -149,62 +149,6 @@ For a solid wood or poly-resin Adirondack frame in good structural condition, ye
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Adirondack Sunbrella Chair Cushions Review: RSH Decor",
-  "description": "Read our review of the RSH Decor Sunbrella replacement cushions for Adirondack chairs. Find out if these durable outdoor cushions are worth the investment.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/adirondack-sunbrella-chair-cushions/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Adirondack Sunbrella Chair Cushions Review: RSH Decor",
-      "item": "https://fourseasongardener.com/adirondack-sunbrella-chair-cushions/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -168,62 +168,6 @@ They're genuinely different products for different priorities. Teak is heavier, 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Outdoor Wicker Rocking Chair Comparison: 4 Models Tested",
-  "description": "Compare four outdoor wicker rocking chairs at different price points. See which models handle weather best and offer real comfort for your porch.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/outdoor-wicker-rocking-chair/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Outdoor Wicker Rocking Chair Comparison: 4 Models Tested",
-      "item": "https://fourseasongardener.com/outdoor-wicker-rocking-chair/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

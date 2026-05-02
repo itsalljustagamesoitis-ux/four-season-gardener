@@ -123,62 +123,6 @@ Position it close to a mature tree with rough bark, ideally within 10 to 15 feet
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Bird Feeder Ring Review: Whole Peanut Options",
-  "description": "Find the right bird feeder ring for whole peanuts. See how popular models handle blue jays, woodpeckers, and squirrels in our honest review.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/bird-feeder-ring/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Bird Feeder Ring Review: Whole Peanut Options",
-      "item": "https://fourseasongardener.com/bird-feeder-ring/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

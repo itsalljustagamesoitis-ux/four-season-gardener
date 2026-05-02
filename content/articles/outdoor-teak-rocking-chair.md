@@ -148,62 +148,6 @@ POLYWOOD makes several rocker models. The Nautical is distinguished by its curve
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Outdoor Teak Rocking Chair Review: POLYWOOD Nautical Rocker",
-  "description": "Read our honest review of the POLYWOOD Nautical Rocker. See how this recycled plastic chair compares to real teak for outdoor use.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/outdoor-teak-rocking-chair/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Outdoor Teak Rocking Chair Review: POLYWOOD Nautical Rocker",
-      "item": "https://fourseasongardener.com/outdoor-teak-rocking-chair/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

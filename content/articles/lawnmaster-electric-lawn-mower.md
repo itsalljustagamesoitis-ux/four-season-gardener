@@ -142,62 +142,6 @@ Yes, the LM2135SP accepts any EGO 56V ARC Lithium battery. Runtime will vary dep
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Lawnmaster Electric Lawn Mower Review: EGO Power+ Runtime Test",
-  "description": "Real-world review of the EGO Power+ cordless mower after 3 seasons on 2 acres. See runtime performance, costs, and how it handles slopes and tough terrain.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/lawnmaster-electric-lawn-mower/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Lawnmaster Electric Lawn Mower Review: EGO Power+ Runtime Test",
-      "item": "https://fourseasongardener.com/lawnmaster-electric-lawn-mower/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

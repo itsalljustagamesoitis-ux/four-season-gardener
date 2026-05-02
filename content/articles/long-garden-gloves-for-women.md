@@ -170,62 +170,6 @@ Neither is designed for sustained wet conditions. The Pine Tree Tools bamboo glo
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Long Garden Gloves for Women: 7 Comfortable Options",
-  "description": "Find long garden gloves designed for women with better fit, lightweight materials, and shaped fingers. Compare top options for extended forearm protection.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/long-garden-gloves-for-women/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Hand Tools",
-      "item": "https://fourseasongardener.com/hand-tools/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Long Garden Gloves for Women: 7 Comfortable Options",
-      "item": "https://fourseasongardener.com/long-garden-gloves-for-women/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

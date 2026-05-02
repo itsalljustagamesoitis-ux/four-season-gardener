@@ -237,62 +237,6 @@ A 1,500W heater draws 12.5 amps on a standard 120V circuit. A 15-amp outdoor out
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "7 Electric Infrared Patio Heaters Tested & Reviewed",
-  "description": "We tested electric infrared patio heaters to find which models deliver consistent warmth. Compare features, heating range, and performance for covered decks and porches.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/infrared-patio-heater-electric/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Fire Pits & Patio Heaters",
-      "item": "https://fourseasongardener.com/fire-and-heat/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "7 Electric Infrared Patio Heaters Tested & Reviewed",
-      "item": "https://fourseasongardener.com/infrared-patio-heater-electric/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

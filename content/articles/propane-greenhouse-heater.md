@@ -142,62 +142,6 @@ The Portable Buddy (MH9BX) runs up to 9,000 BTU and covers spaces up to 225 squa
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Propane Greenhouse Heater: Types, Safety & Selection",
-  "description": "Learn how propane greenhouse heaters work, which models are reliable, and essential safety practices to protect your plants from freezing damage.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/propane-greenhouse-heater/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Propane Greenhouse Heater: Types, Safety & Selection",
-      "item": "https://fourseasongardener.com/propane-greenhouse-heater/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

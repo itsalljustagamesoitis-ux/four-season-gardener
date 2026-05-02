@@ -7,7 +7,7 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
 hero_image: "articles/outdoor-furniture-2.jpg"
-hero_image_alt: "Outdoor Bar Height Stools , photo by "
+hero_image_alt: "Outdoor Bar Height Stools"
 description: "Find the right outdoor bar height stools for your space. We reviewed durable options that handle weather and UV exposure without awkward sizing."
 target_keyword: "outdoor bar height stools"
 products:
@@ -71,7 +71,7 @@ Testing for this roundup involved using these products through a full outdoor se
 
 I'm not a testing lab. I don't have moisture chambers or UV simulators. What I have is an outdoor space that does not forgive bad materials, and I've been running it long enough to know which manufacturer claims are real and which are marketing hedges.
 
-![Outdoor Bar Height Stools — photo by ](/images/articles/outdoor-furniture-3.jpg)
+![Outdoor Bar Height Stools](/images/articles/outdoor-furniture-3.jpg)
 
 
 ## Full Reviews
@@ -94,7 +94,7 @@ The [Keter Pacific Cool Bar](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseason
 
 The unit is a side table with a 7.5-gallon ice cooler built into the top. Lid closed, it functions as a table. Lid open, it holds 50-plus cans over ice. For anyone who has ever run extension cords, bought a separate rolling cooler, or dealt with a full-size cooler sitting on the patio taking up floor space and tripping people, this solves the problem in one piece of furniture. (I've done all three of those things.)
 
-![Outdoor Bar Height Stools — photo by ](/images/articles/outdoor-furniture-4.jpg)
+![Outdoor Bar Height Stools](/images/articles/outdoor-furniture-4.jpg)
 
 
 The build is all-weather resin in espresso brown. It does not look like premium furniture. The color is fine, the finish is clearly synthetic up close, and it does not pretend to be anything else. If you're setting up a formal garden entertaining space where aesthetics are doing heavy lifting, this isn't the piece for that. If you're setting up a functional outdoor bar where cold drinks are the actual priority, it is.
@@ -111,7 +111,7 @@ Acacia is a dense, tight-grained hardwood. It's more weather-resistant than pine
 
 The maintenance requirement is not negotiable, though. Acacia left un-oiled will gray and surface-crack within a season. Oiling once or twice per year with a product like Watco Teak Oil or Rubio Monocoat keeps it in good condition. If that kind of seasonal maintenance fits your existing routine, the table rewards it. If it doesn't, the POLYWOOD equivalent will outlast it with zero intervention.
 
-![Outdoor Bar Height Stools — photo by ](/images/articles/outdoor-furniture-5.jpg)
+![Outdoor Bar Height Stools](/images/articles/outdoor-furniture-5.jpg)
 
 
 Assembly is required, and a small number of reviewers have noted fit tolerance inconsistencies at the joinery. This is a known issue with mid-price hardwood furniture imported at scale. I'd recommend pre-fitting all components before fully tightening hardware, which takes an extra ten minutes and prevents most of those problems.
@@ -134,7 +134,7 @@ The [RSH Decor Sunbrella Deep Seating Cushion](https://www.amazon.com/dp/B08JCJK
 
 Sunbrella fabric is the relevant detail here. It is solution-dyed acrylic, which means the color runs through the fiber rather than sitting on the surface. The fade resistance and mold resistance are genuinely different from standard polyester cushion covers. I've had Sunbrella cushions on a set of teak loungers for five years and the color has not shifted. Standard polyester covers on the same exposure would be washed out by year two, if not sooner.
 
-![Outdoor Bar Height Stools — photo by ](/images/articles/outdoor-furniture-6.jpg)
+![Outdoor Bar Height Stools](/images/articles/outdoor-furniture-6.jpg)
 
 
 RSH Decor offers multiple fill options, including high-density foam and quick-dry polyester. For outdoor use in climates with significant rain, quick-dry fill is the practical choice. High-density foam holds water longer, which accelerates mold growth in the fill itself regardless of what the cover does.
@@ -159,7 +159,7 @@ Most outdoor bar stools are rated between 250 and 300 pounds. If your use case i
 
 If you're buying bar stools with seat cushions, or adding cushions to an existing set, confirm whether the cushions are included or sold separately. POLYWOOD's Nautical bar chair, for example, is typically sold without a cushion. Adding a compatible seat cushion runs an additional $40 to $70 depending on the fill. For deep-seating furniture, the [Outdoor Furniture](/outdoor-furniture/) category page is a useful reference for matching cushion standards to furniture types.
 
-![Outdoor Bar Height Stools — photo by ](/images/articles/outdoor-furniture-7.jpg)
+![Outdoor Bar Height Stools](/images/articles/outdoor-furniture-7.jpg)
 
 
 ## Frequently Asked Questions
@@ -184,62 +184,6 @@ Bar height refers to stools with a seat around 28 to 30 inches off the ground, p
 
 For cushions that will see regular outdoor use and stay outside through sun and rain, yes. Sunbrella's solution-dyed acrylic construction resists fading and mold at a level that standard polyester covers do not match over a multi-year period. The price difference per cushion set is typically $30 to $60 over standard alternatives. Over a five-year lifespan, that's a reasonable premium for cushions that don't need replacing every two to three seasons.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Outdoor Bar Height Stools: 7 Durable Options",
-  "description": "Find the right outdoor bar height stools for your space. We reviewed durable options that handle weather and UV exposure without awkward sizing.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/outdoor-bar-height-stools/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Outdoor Bar Height Stools: 7 Durable Options",
-      "item": "https://fourseasongardener.com/outdoor-bar-height-stools/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

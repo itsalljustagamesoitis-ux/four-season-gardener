@@ -232,62 +232,6 @@ No. Remove all tubing, emitters, and timers before the first hard freeze. Water 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Garden Bed Drip Irrigation Kits: 5 Systems That Actually Work",
-  "description": "Compare garden bed drip irrigation kits that perform. We tested five systems to show you why cheap kits fail and which ones deliver reliable watering.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/garden-bed-drip-irrigation-kit/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Irrigation",
-      "item": "https://fourseasongardener.com/irrigation/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Garden Bed Drip Irrigation Kits: 5 Systems That Actually Work",
-      "item": "https://fourseasongardener.com/garden-bed-drip-irrigation-kit/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -129,62 +129,6 @@ Chain sharpening is the main ongoing task. There's no air filter to clean, no sp
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Stihl Battery Powered Chainsaws Review: Dealer-Only Drawbacks",
-  "description": "Stihl battery chainsaws are quality tools, but they're dealer-only in the US. Compare features, pricing, and alternatives like EGO before buying.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/stihl-battery-powered-chainsaws/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Stihl Battery Powered Chainsaws Review: Dealer-Only Drawbacks",
-      "item": "https://fourseasongardener.com/stihl-battery-powered-chainsaws/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

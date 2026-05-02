@@ -221,62 +221,6 @@ The Essence 8x16 is rated for 15 lbs per square foot of snow load, which covers 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "4 Lean to Greenhouse Kits Reviewed for Small Spaces",
-  "description": "Compare lean-to greenhouse kits that maximize small yards with passive heating. We reviewed top options to help you find the right fit for year-round growing.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/lean-to-greenhouse-kits/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "4 Lean to Greenhouse Kits Reviewed for Small Spaces",
-      "item": "https://fourseasongardener.com/lean-to-greenhouse-kits/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

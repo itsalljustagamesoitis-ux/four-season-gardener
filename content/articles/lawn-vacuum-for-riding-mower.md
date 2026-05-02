@@ -228,62 +228,6 @@ MPH measures air velocity, or how fast the air moves. CFM measures air volume, o
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Lawn Vacuums for Riding Mowers: A Buyer's Guide",
-  "description": "Compare tow-behind sweepers and suction vacuums for riding mowers. Find the right tool to clear leaves and debris efficiently without multiple trips.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/lawn-vacuum-for-riding-mower/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Lawn Care",
-      "item": "https://fourseasongardener.com/lawn-care/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Lawn Vacuums for Riding Mowers: A Buyer's Guide",
-      "item": "https://fourseasongardener.com/lawn-vacuum-for-riding-mower/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

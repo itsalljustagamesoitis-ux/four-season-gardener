@@ -152,62 +152,6 @@ Not out of the box. EGO sells a gutter cleaning kit attachment separately, curre
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Stihl Cordless Leaf Blower Review: Battery Platform Matters",
-  "description": "Stihl cordless leaf blowers are popular, but choosing the right model depends on battery compatibility. Learn which platform fits your needs.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/stihl-cordless-leaf-blower/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Stihl Cordless Leaf Blower Review: Battery Platform Matters",
-      "item": "https://fourseasongardener.com/stihl-cordless-leaf-blower/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

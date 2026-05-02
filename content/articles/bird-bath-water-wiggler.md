@@ -237,62 +237,6 @@ Almost any bath bowl will work, including existing concrete, ceramic, or resin b
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Bird Bath Water Wiggler Options: Solar & Pump Models",
-  "description": "Learn how bird bath water wigglers attract birds with moving water. Compare solar inserts and pump-equipped bath units to find the right option for your yard.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/bird-bath-water-wiggler/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Bird Bath Water Wiggler Options: Solar & Pump Models",
-      "item": "https://fourseasongardener.com/bird-bath-water-wiggler/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

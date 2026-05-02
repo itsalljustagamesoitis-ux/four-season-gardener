@@ -212,62 +212,6 @@ One has wheels. The IM4000-WK adds wheels to the base frame of the standard IM40
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Black Compost Bins Tested: 12 Models Reviewed",
-  "description": "We tested black compost bins across 12 acres to compare capacity, design, turning mechanisms, and durability. Find the right composter for your needs.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/black-compost-bin/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Composting",
-      "item": "https://fourseasongardener.com/composting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Black Compost Bins Tested: 12 Models Reviewed",
-      "item": "https://fourseasongardener.com/black-compost-bin/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

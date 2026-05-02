@@ -199,62 +199,6 @@ For flexible placement, simple installation, and decorative or supplemental use,
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best Solar Lights for the Garden: 4 Tested Picks",
-  "description": "We tested solar garden lights across budgets to find models that actually work. Here are our four picks based on real performance, not marketing claims.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/best-solar-lights-for-the-garden/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Garden Lighting",
-      "item": "https://fourseasongardener.com/lighting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Best Solar Lights for the Garden: 4 Tested Picks",
-      "item": "https://fourseasongardener.com/best-solar-lights-for-the-garden/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

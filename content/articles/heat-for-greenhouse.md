@@ -175,62 +175,6 @@ Electric heaters don't. This is the scenario where a propane Portable Buddy or a
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Heat for Greenhouse: 5 Heater Options Compared",
-  "description": "Compare 5 greenhouse heaters across different fuel types and price points. Learn how to choose the right heating solution without overspending on equipment.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/heat-for-greenhouse/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Heat for Greenhouse: 5 Heater Options Compared",
-      "item": "https://fourseasongardener.com/heat-for-greenhouse/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

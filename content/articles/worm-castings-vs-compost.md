@@ -130,62 +130,6 @@ For one or two people composting primarily kitchen scraps with moderate yard was
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Worm Castings vs Compost: Which Suits Your Garden",
-  "description": "Both improve soil, but worm castings and compost solve different problems. Learn which method works best for your gardening situation.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/worm-castings-vs-compost/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Composting",
-      "item": "https://fourseasongardener.com/composting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Worm Castings vs Compost: Which Suits Your Garden",
-      "item": "https://fourseasongardener.com/worm-castings-vs-compost/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

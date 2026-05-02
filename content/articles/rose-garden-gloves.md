@@ -140,62 +140,6 @@ Foxgloves makes sizes up to XL, which accommodates hand circumferences up to app
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Rose Garden Gloves Review: Long Cuff Protection",
-  "description": "Read our review of rose garden gloves with extended cuffs that protect forearms from thorns and scratches while pruning and deadheading roses.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/rose-garden-gloves/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Hand Tools",
-      "item": "https://fourseasongardener.com/hand-tools/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Rose Garden Gloves Review: Long Cuff Protection",
-      "item": "https://fourseasongardener.com/rose-garden-gloves/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

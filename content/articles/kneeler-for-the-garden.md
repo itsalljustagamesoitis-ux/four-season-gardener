@@ -176,62 +176,6 @@ For most adults, a pad in the range of 17 by 11 inches covers both knees with ro
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Kneeler for the Garden: 2 Top Picks",
-  "description": "Find the right garden kneeler for your needs. We tested the top options to help you choose between a single-purpose kneeler and a versatile two-in-one model.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/kneeler-for-the-garden/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Hand Tools",
-      "item": "https://fourseasongardener.com/hand-tools/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Kneeler for the Garden: 2 Top Picks",
-      "item": "https://fourseasongardener.com/kneeler-for-the-garden/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

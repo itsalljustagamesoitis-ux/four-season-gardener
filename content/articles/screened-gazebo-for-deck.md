@@ -256,62 +256,6 @@ Permanent anchoring is the primary answer. A hardtop gazebo properly anchored to
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Screened Gazebo for Deck: 2024 Roundup",
-  "description": "Compare screened gazebos for decks that withstand weather and seasons. Find durable structures from pop-ups to permanent hardtops with real protection.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/screened-gazebo-for-deck/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Screened Gazebo for Deck: 2024 Roundup",
-      "item": "https://fourseasongardener.com/screened-gazebo-for-deck/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

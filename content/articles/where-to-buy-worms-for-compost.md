@@ -139,62 +139,6 @@ They need to stay above 50°F. Below that threshold, activity slows significantl
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Where to Buy Worms for Compost: Live Delivery Guide",
-  "description": "Find out where to buy compost worms that arrive alive and ready to work. Learn what to look for and how to set up your bin correctly.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/where-to-buy-worms-for-compost/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Composting",
-      "item": "https://fourseasongardener.com/composting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Where to Buy Worms for Compost: Live Delivery Guide",
-      "item": "https://fourseasongardener.com/where-to-buy-worms-for-compost/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

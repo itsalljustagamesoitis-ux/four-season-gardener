@@ -208,62 +208,6 @@ For a temporary solution or a property where your lighting layout is still evolv
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Outdoor Motion Sensor Security Lights: A Practical Roundup",
-  "description": "Motion sensor security lights serve different purposes across your property. Compare solar, hardwired, and low-voltage options to find what works where.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/outdoor-motion-sensor-security-light/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Garden Lighting",
-      "item": "https://fourseasongardener.com/lighting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Outdoor Motion Sensor Security Lights: A Practical Roundup",
-      "item": "https://fourseasongardener.com/outdoor-motion-sensor-security-light/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

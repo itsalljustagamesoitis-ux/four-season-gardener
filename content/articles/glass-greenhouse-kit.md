@@ -242,62 +242,6 @@ For anything larger than a cold frame like the Plant Inn, yes. A prepared, level
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Glass Greenhouse Kits: Polycarbonate Options for Home Gardeners",
-  "description": "Most glass greenhouse kits use polycarbonate panels instead. Learn why polycarbonate is often better for residential gardens and find top options.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/glass-greenhouse-kit/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Glass Greenhouse Kits: Polycarbonate Options for Home Gardeners",
-      "item": "https://fourseasongardener.com/glass-greenhouse-kit/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

@@ -225,62 +225,6 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best Kitchen Compost Bins Without Fruit Flies or Odor",
-  "description": "Find a kitchen compost bin that actually works. We reviewed top options that prevent fruit flies and odors so you can compost without the mess.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/best-kitchen-compost-bin-no-fruit-flies-ordor/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Composting",
-      "item": "https://fourseasongardener.com/composting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Best Kitchen Compost Bins Without Fruit Flies or Odor",
-      "item": "https://fourseasongardener.com/best-kitchen-compost-bin-no-fruit-flies-ordor/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

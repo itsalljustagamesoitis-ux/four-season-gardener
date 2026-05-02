@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { getSiteConfig, getPersona, resolveProduct } from '../lib/config'
+import { getSiteConfig, getPersona, resolveProduct, getHubLabel, getCategorySlug } from '../lib/config'
 
 interface Props {
   article: CollectionEntry<'articles'>
@@ -56,13 +56,16 @@ if (isReview && primaryProduct) {
   }
 }
 
+const categorySlug = getCategorySlug(data.category)
+const hubLabel = getHubLabel(data.hub)
+
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Home', item: cfg.site.domain },
-    { '@type': 'ListItem', position: 2, name: data.category, item: `${cfg.site.domain}/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
-    { '@type': 'ListItem', position: 3, name: data.hub, item: `${cfg.site.domain}/${data.hub}/` },
+    { '@type': 'ListItem', position: 2, name: data.category, item: `${cfg.site.domain}/${categorySlug}/` },
+    { '@type': 'ListItem', position: 3, name: hubLabel, item: `${cfg.site.domain}/${data.hub}/` },
     { '@type': 'ListItem', position: 4, name: data.title, item: url },
   ],
 }

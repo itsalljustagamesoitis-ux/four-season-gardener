@@ -145,62 +145,6 @@ A 4x8x17.5-inch bed holds approximately 28 to 30 cubic feet of soil, or roughly 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Cedar Raised Bed Kit Review: Greenes Fence Premium",
-  "description": "Review of the Greenes Fence Premium Cedar Raised Garden Bed. See how this natural wood kit compares to pine and metal options for durability and value.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/cedar-raised-bed-kit/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Raised Beds",
-      "item": "https://fourseasongardener.com/raised-beds/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Cedar Raised Bed Kit Review: Greenes Fence Premium",
-      "item": "https://fourseasongardener.com/cedar-raised-bed-kit/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

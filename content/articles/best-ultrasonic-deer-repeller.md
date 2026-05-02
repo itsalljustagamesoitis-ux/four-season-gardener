@@ -170,62 +170,6 @@ Liquid Fence states the ready-to-use formula is safe around edible plants once d
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Ultrasonic Deer Repellers That Actually Work",
-  "description": "Most ultrasonic deer repellers fail. We tested popular options and found two products that genuinely keep deer out of gardens year after year.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/best-ultrasonic-deer-repeller/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Ultrasonic Deer Repellers That Actually Work",
-      "item": "https://fourseasongardener.com/best-ultrasonic-deer-repeller/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

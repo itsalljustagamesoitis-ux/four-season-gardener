@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel } from '../lib/config'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug } from '../lib/config'
 import BaseLayout from './BaseLayout.astro'
 import Byline from '../components/Byline.astro'
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
@@ -42,7 +42,7 @@ const resolvedProducts = data.products
 
   <article class="article-page">
     <Breadcrumb crumbs={[
-      { label: getCategoryLabel(data.category), href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: getCategoryLabel(data.category), href: `/${getCategorySlug(data.category)}/` },
       { label: getHubLabel(data.hub), href: `/${data.hub}/` },
       { label: data.title },
     ]} />
@@ -52,7 +52,7 @@ const resolvedProducts = data.products
     <Byline date={data.date} updated={data.updated} />
     {data.disclosure_required && <AffiliateDisclosure />}
 
-    <img src={heroUrl} alt={data.hero_image_alt ?? data.title} class="article-page__hero" width="900" height="500" fetchpriority="high" decoding="async" />
+    <img src={heroUrl} alt={data.hero_image_alt ?? data.title} class="article-page__hero" width="900" height="500" fetchpriority="high" decoding="async" data-pagefind-meta="image[src], image_alt[alt]" />
 
     {resolvedProducts.length > 0 && <QuickPicks products={resolvedProducts} />}
 
@@ -60,7 +60,7 @@ const resolvedProducts = data.products
 
     {resolvedProducts.length > 0 && (
       <aside class="article-page__picks">
-        <h2>Our Top Picks</h2>
+        <h2>Detailed Reviews</h2>
         {resolvedProducts.map(product => <ProductCard product={product} showRole />)}
       </aside>
     )}

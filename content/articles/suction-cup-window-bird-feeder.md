@@ -7,7 +7,7 @@ author: "wendy"
 category: "Birds & Wildlife"
 hub: "birds-wildlife"
 hero_image: "articles/birds-wildlife-4.jpg"
-hero_image_alt: "Suction Cup Window Bird Feeder , photo by "
+hero_image_alt: "Suction Cup Window Bird Feeder"
 description: "Compare suction cup window bird feeders that actually stay mounted. See which models work through storms and which ones fall off your glass."
 target_keyword: "suction cup window bird feeder"
 products:
@@ -83,7 +83,7 @@ I did not test in artificial conditions. I did not measure airflow or do laborat
 
 [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20) is the feeder I'd recommend first to anyone with limited outdoor space or anyone who specifically wants the close-up viewing experience. It mounts flat against the glass on three suction cups, holds over four cups of seed, and sits low enough that you're looking at birds at eye level rather than watching them from below.
 
-![Suction Cup Window Bird Feeder — photo by ](/images/articles/birds-wildlife-5.jpg)
+![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-5.jpg)
 
 
 The suction cups are the central claim and worth addressing directly. Mine stayed mounted on a double-pane window for the full eight-month test period without repositioning. I did clean the glass thoroughly before mounting, which the instructions tell you to do and which most people skip. The cups held through a late April frost with overnight temperatures dropping hard and through a week of direct afternoon sun that would have failed cheaper hardware. The manufacturer claims 12-plus months of hold. I can't confirm that yet, but I have no reason to doubt it based on what I saw.
@@ -102,7 +102,7 @@ This is where I'd start someone who wants a simple, reliable tube feeder and doe
 
 The Ring Pull Advantage lid is the feature that earns its mention. You lift one ring and the top comes off. Refilling with one hand while holding a seed bag in the other is a small convenience that compounds over dozens of refills. The UV-stabilized polycarbonate tube is not a marketing claim. I've watched cheaper feeders yellow and crack in two seasons. Droll Yankees tubes hold their clarity.
 
-![Suction Cup Window Bird Feeder — photo by ](/images/articles/birds-wildlife-6.jpg)
+![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-6.jpg)
 
 
 Six feeding ports handle multiple species at once. With sunflower seed loaded, I had chickadees, a pair of white-breasted nuthatches, and goldfinches using it simultaneously during the peak October period.
@@ -123,7 +123,7 @@ Cleaning is more involved than a simple tray feeder. The cage, the tube, and the
 
 Price runs around $50 to $60. If you want a [squirrel dome for bird feeder](/squirrel-dome-for-bird-feeder/) setup instead, that's a legitimate alternative approach, though the Squirrel Buster's built-in mechanism is cleaner at this price point.
 
-![Suction Cup Window Bird Feeder — photo by ](/images/articles/birds-wildlife-7.jpg)
+![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-7.jpg)
 
 
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
@@ -146,7 +146,7 @@ Hummingbirds abandon feeders with old or fermented nectar. In summer heat, necta
 
 Ten feeding ports handle multiple birds simultaneously, which is relevant during peak migration when hummingbirds are moving through and competition at feeders is high. The red color is proven to attract hummingbirds without dye in the nectar. Skip the red dye in your sugar-water mix. Clear nectar, red feeder, done.
 
-![Suction Cup Window Bird Feeder — photo by ](/images/articles/birds-wildlife-8.jpg)
+![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-8.jpg)
 
 
 The 32-ounce capacity is larger than it sounds. For a single-pair territory, you might not drain this in five days, meaning you're cleaning on a schedule rather than when it empties. Build that into your routine.
@@ -165,7 +165,7 @@ This is a functional, practical feeder made of plastic. It doesn't look like an 
 
 **Material durability.** UV-stabilized polycarbonate or powder-coated metal lasts. Basic clear plastic yellows, crazes, and cracks after two to three seasons of direct sun. The Droll Yankees tube is a legitimate example of material claims that hold up over time.
 
-![Suction Cup Window Bird Feeder — photo by ](/images/articles/birds-wildlife-1.jpg)
+![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-1.jpg)
 
 
 For more on setting up a complete feeding station, the [Bird Feeders & Baths](/birds-wildlife/) section has coverage of pole systems, baffle options, and species-specific feeder choices.
@@ -192,62 +192,6 @@ No. Red dye in nectar is unnecessary and potentially harmful to hummingbirds. A 
 
 A pole-mounted wrap baffle, mounted at least four feet above the ground on a smooth metal pole, stops the majority of squirrels from climbing up. A dome baffle above the feeder stops squirrels that might jump from above if there are overhanging branches within about ten feet horizontally. Weight-activated feeders like the Squirrel Buster Plus add a second layer of deterrence if squirrels do reach the feeder. Using both a baffle and a weight-activated feeder is the most
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Suction Cup Window Bird Feeders: A Roundup",
-  "description": "Compare suction cup window bird feeders that actually stay mounted. See which models work through storms and which ones fall off your glass.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/suction-cup-window-bird-feeder/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/garden-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Suction Cup Window Bird Feeders: A Roundup",
-      "item": "https://fourseasongardener.com/suction-cup-window-bird-feeder/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

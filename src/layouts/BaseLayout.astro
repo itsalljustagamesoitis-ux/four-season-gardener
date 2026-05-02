@@ -11,7 +11,6 @@ interface Props {
   ogImage?: string
   ogType?: 'website' | 'article'
   noindex?: boolean
-  schema?: string | string[]
 }
 
 const {
@@ -21,7 +20,6 @@ const {
   ogImage,
   ogType = 'website',
   noindex = false,
-  schema,
 } = Astro.props
 
 const cfg = getSiteConfig()
@@ -38,7 +36,6 @@ const cssVars = `
   --font-body: '${cfg.visual.font_body}', system-ui, sans-serif;
 `.trim()
 
-const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
 ---
 
 <!doctype html>
@@ -82,31 +79,64 @@ const schemas = Array.isArray(schema) ? schema : schema ? [schema] : []
     <!-- CSS custom properties from site config -->
     <style set:html={`:root { ${cssVars} }`} />
 
-    <!-- Structured data -->
-    {schemas.map(s => (
-      <script type="application/ld+json" set:html={s} />
-    ))}
     <slot name="head" />
 
-    <!-- GA4 -->
+    <!-- GA4 with Consent Mode v2 -->
     {cfg.analytics.ga4_measurement_id && (
       <>
         <script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=${cfg.analytics.ga4_measurement_id}`}
+          set:html={`
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments)}
+// Default: deny until consent is given
+gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',wait_for_update:500});
+gtag('js',new Date());
+gtag('config','${cfg.analytics.ga4_measurement_id}',{anonymize_ip:true});
+// Restore consent if previously accepted
+if(localStorage.getItem('fsg_consent')==='1'){
+  gtag('consent','update',{analytics_storage:'granted'});
+}
+`}
         />
-        <script
-          set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${cfg.analytics.ga4_measurement_id}');`}
-        />
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${cfg.analytics.ga4_measurement_id}`} />
       </>
     )}
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <Header />
-    <main>
+    <main id="main-content">
       <slot />
     </main>
     <Footer />
+
+    <!-- Cookie consent banner -->
+    {cfg.analytics.ga4_measurement_id && (
+      <div id="cookie-banner" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#1a2e1a;color:#fff;padding:1rem 1.5rem;z-index:9999;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-size:.875rem;">
+        <p style="margin:0;flex:1 1 auto;">We use cookies to understand how visitors use this site. <a href="/privacy/" style="color:#a3c97a;text-decoration:underline;">Privacy policy</a></p>
+        <div style="display:flex;gap:.5rem;flex-shrink:0;">
+          <button id="cookie-accept" style="background:#4a7c59;color:#fff;border:none;padding:.5rem 1rem;border-radius:4px;cursor:pointer;font-size:.875rem;">Accept</button>
+          <button id="cookie-decline" style="background:transparent;color:#ccc;border:1px solid #555;padding:.5rem 1rem;border-radius:4px;cursor:pointer;font-size:.875rem;">Decline</button>
+        </div>
+      </div>
+    )}
+    <script is:inline>
+      (function(){
+        var banner=document.getElementById('cookie-banner');
+        if(!banner)return;
+        var stored=localStorage.getItem('fsg_consent');
+        if(stored===null)banner.style.display='flex';
+        document.getElementById('cookie-accept').addEventListener('click',function(){
+          localStorage.setItem('fsg_consent','1');
+          banner.style.display='none';
+          if(typeof gtag==='function')gtag('consent','update',{analytics_storage:'granted'});
+        });
+        document.getElementById('cookie-decline').addEventListener('click',function(){
+          localStorage.setItem('fsg_consent','0');
+          banner.style.display='none';
+        });
+      })();
+    </script>
 
     <!-- Affiliate click tracking -->
     <script is:inline>

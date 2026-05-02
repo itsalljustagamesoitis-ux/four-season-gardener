@@ -156,62 +156,6 @@ Yes. Clear polycarbonate is more susceptible to UV degradation than pigmented or
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Squirrel Dome for Bird Feeders: A Practical Guide",
-  "description": "Learn how squirrel domes protect bird feeders from determined squirrels. Explore why this passive solution works better than sprinklers or cayenne seed.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/squirrel-dome-for-bird-feeder/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Squirrel Dome for Bird Feeders: A Practical Guide",
-      "item": "https://fourseasongardener.com/squirrel-dome-for-bird-feeder/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

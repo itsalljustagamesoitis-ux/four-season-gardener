@@ -221,62 +221,6 @@ In climates with cold but sunny winters, solar lights will continue to function 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Solar Globe Lights for Garden: 4 Real Alternatives",
-  "description": "Skip the generic repackaged models. We tested four meaningfully different solar globe lights with honest specs and real performance differences.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/solar-globe-lights-for-garden/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Garden Lighting",
-      "item": "https://fourseasongardener.com/lighting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Solar Globe Lights for Garden: 4 Real Alternatives",
-      "item": "https://fourseasongardener.com/solar-globe-lights-for-garden/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

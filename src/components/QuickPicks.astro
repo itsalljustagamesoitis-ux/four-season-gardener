@@ -43,7 +43,7 @@ if (picks.length === 0) return
             loading="lazy"
             decoding="async"
           />
-          <h3 class="quick-pick__name">{p.brand} {p.name}</h3>
+          <h3 class="quick-pick__name">{p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : `${p.brand} ${p.name}`}</h3>
           {p.pros[0] && <p class="quick-pick__reason">{p.pros[0]}</p>}
           {p.affiliate_url && (
             <a
@@ -51,7 +51,7 @@ if (picks.length === 0) return
               class="btn btn--primary btn--sm"
               rel="nofollow sponsored"
               target="_blank"
-              data-product={`${p.brand} ${p.name}`}
+              data-product={p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : `${p.brand} ${p.name}`}
             >
               Check Price
             </a>

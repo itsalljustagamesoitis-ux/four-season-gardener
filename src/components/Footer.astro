@@ -1,8 +1,13 @@
 ---
-import { getSiteConfig } from '../lib/config'
+import { getSiteConfig, getNav, getPersona } from '../lib/config'
 
 const cfg = getSiteConfig()
+const nav = getNav()
+const persona = getPersona()
 const year = new Date().getFullYear()
+
+// Show top-level categories (excluding "All Reviews" utility entry)
+const footerCats = nav.categories.filter(c => c.hubs.length > 0)
 ---
 
 <footer class="site-footer">
@@ -13,20 +18,20 @@ const year = new Date().getFullYear()
         <p class="footer-brand__tagline">{cfg.site.tagline}</p>
       </div>
       <div class="footer-links">
-        <h4>Categories</h4>
+        <h4>Browse</h4>
         <ul>
-          <li><a href="/outdoor-furniture/">Outdoor Furniture</a></li>
-          <li><a href="/garden-tools/">Garden Tools</a></li>
-          <li><a href="/lawn-mowers/">Lawn Mowers</a></li>
-          <li><a href="/raised-beds/">Raised Beds</a></li>
+          {footerCats.map(cat => (
+            <li><a href={`/${cat.slug}/`}>{cat.label}</a></li>
+          ))}
+          <li><a href="/reviews/">All Reviews</a></li>
         </ul>
       </div>
       <div class="footer-links">
         <h4>About</h4>
         <ul>
-          <li><a href="/about/">About Wendy</a></li>
+          <li><a href="/about/">About {persona.name_used}</a></li>
           <li><a href="/how-we-test/">How We Test</a></li>
-          <li><a href="/reviews/">All Reviews</a></li>
+          <li><a href="/contact/">Contact</a></li>
         </ul>
       </div>
       <div class="footer-links">
@@ -34,7 +39,6 @@ const year = new Date().getFullYear()
         <ul>
           <li><a href="/affiliate-disclosure/">Affiliate Disclosure</a></li>
           <li><a href="/privacy-policy/">Privacy Policy</a></li>
-          <li><a href="/contact/">Contact</a></li>
         </ul>
       </div>
     </div>

@@ -7,7 +7,7 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-5.jpg"
-hero_image_alt: "Fire Pit With Coffee Table , photo by "
+hero_image_alt: "Fire Pit With Coffee Table"
 description: "Compare two leading fire pit coffee table designs: furniture-first vs fire-first. Find which style suits your patio needs and entertaining style."
 target_keyword: "fire pit with coffee table"
 products:
@@ -57,7 +57,7 @@ Prices listed are approximate at the time of writing and fluctuate on Amazon.
 
 The pitch here is straightforward: 50,000 BTU for around $400, delivered from a unit that looks like actual patio furniture. If you've sat around a small decorative fire pit that barely warmed your hands on a 55-degree October evening, the BTU number matters. A 15-foot heat radius is meaningful. At my patio table with four chairs pulled around it, everyone feels it.
 
-![Fire Pit With Coffee Table — photo by ](/images/articles/fire-and-heat-6.jpg)
+![Fire Pit With Coffee Table](/images/articles/fire-and-heat-6.jpg)
 
 
 The concrete-look tabletop is better than it sounds. It reads as stone from any conversational distance, and when you put the burner cover panel on, it functions as a legitimate outdoor table. I've had drinks and a cheese board on mine without anyone asking where the fire went. The pre-attached regulator hose connects to a standard 20 lb propane tank, and setup takes under an hour if you follow the instructions without improvising. (I did not follow the instructions without improvising, and it took longer.)
@@ -70,7 +70,7 @@ A 20 lb propane tank runs roughly 8 to 10 hours at full output. At full output, 
 
 The bigger practical issue is weight. The concrete-composite top is heavy, and once this unit is assembled and in position, you're not casually moving it around. If your patio layout is still evolving or you want flexibility season to season, that's worth thinking about before you commit. Assembling it in situ is the right approach.
 
-![Fire Pit With Coffee Table — photo by ](/images/articles/fire-and-heat-7.jpg)
+![Fire Pit With Coffee Table](/images/articles/fire-and-heat-7.jpg)
 
 
 The Series 403 is not built for a permanent gas line. If that's your eventual setup, it's the wrong starting point. But for a propane-fueled setup that gives you real heat, real table function, and a presentable look at a mid-range price, it holds its own against anything in this price band. I'd put it ahead of the Cuisinart COF-212, which I've also used and which puts out less heat for a similar price with a less convincing table surface.
@@ -83,7 +83,7 @@ The electronic ignition is the feature that gets undersold. No matches, no piezo
 
 The natural gas conversion kit is included in the box. Most propane fire tables charge extra for this, if they offer it at all. If there's any chance you'll run a natural gas line to your patio in the next few years, the Napoleon pays for part of that gap immediately. A proper [propane fire pit burner conversion](/propane-fire-pit-burner/) to natural gas on competing units can run $80 to $150 in parts alone. Here it's already in the box.
 
-![Fire Pit With Coffee Table — photo by ](/images/articles/fire-and-heat-8.jpg)
+![Fire Pit With Coffee Table](/images/articles/fire-and-heat-8.jpg)
 
 
 ### The Case for Permanent Installation
@@ -96,7 +96,7 @@ The glass ember bed does require cleaning. Coal dust and debris settle into the 
 
 For a broader look at how the St. Tropez fits into the full range of premium outdoor heat options, including mounted and freestanding alternatives, the [Fire Pits & Patio Heaters](/fire-and-heat/) section covers the category more completely. If you're also considering a supplemental heating option for a covered area, my article on [wall mounted patio heaters](/wall-mounted-patio-heater/) is worth reading alongside this one.
 
-![Fire Pit With Coffee Table — photo by ](/images/articles/fire-and-heat-1.jpg)
+![Fire Pit With Coffee Table](/images/articles/fire-and-heat-1.jpg)
 
 
 ## Verdict
@@ -117,7 +117,7 @@ Yes, both of these units include a cover panel that fits over the burner opening
 
 On the Outland Living Series 403 running at full output, a standard 20 lb propane tank lasts approximately 8 to 10 hours. Running the flame at a lower setting extends that significantly. For the Napoleon St. Tropez, the 40,000 BTU output is somewhat lower, so a 20 lb tank will last closer to 10 to 12 hours at full. Real-world use typically involves varied flame heights, so most users get more total burn time than the full-output figures suggest.
 
-![Fire Pit With Coffee Table — photo by ](/images/articles/fire-and-heat-2.jpg)
+![Fire Pit With Coffee Table](/images/articles/fire-and-heat-2.jpg)
 
 
 ### Is natural gas or propane better for a fire pit table?
@@ -132,62 +132,6 @@ With appropriate clearances and a heat-resistant mat under the unit, fire pit ta
 
 The Outland Living Series 403 takes most people 45 to 90 minutes with two people and basic tools. The propane regulator comes pre-attached, which removes one of the more fiddly steps. The Napoleon St. Tropez assembly is comparably involved and benefits from two people for the heavier frame sections. Neither unit requires professional installation for propane operation, though connecting to a natural gas line should be done by a licensed technician.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Fire Pit with Coffee Table: Outland vs Napoleon",
-  "description": "Compare two leading fire pit coffee table designs: furniture-first vs fire-first. Find which style suits your patio needs and entertaining style.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/fire-pit-with-coffee-table/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Fire Pits & Patio Heaters",
-      "item": "https://fourseasongardener.com/fire-and-heat/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Fire Pit with Coffee Table: Outland vs Napoleon",
-      "item": "https://fourseasongardener.com/fire-pit-with-coffee-table/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -127,62 +127,6 @@ Wait for it to dry. Air tools are not effective against saturated organic materi
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Gutter Attachment for Leaf Blower STIHL: WORX WA4094 Review",
-  "description": "STIHL doesn't make dedicated gutter attachments. Learn why the WORX WA4094 universal kit is the practical solution for most STIHL blower owners.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/gutter-attachment-for-leaf-blower-stihl/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Lawn Care",
-      "item": "https://fourseasongardener.com/lawn-care/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Gutter Attachment for Leaf Blower STIHL: WORX WA4094 Review",
-      "item": "https://fourseasongardener.com/gutter-attachment-for-leaf-blower-stihl/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

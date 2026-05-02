@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel } from '../lib/config'
+import { resolveProduct, getSiteConfig, getHubLabel, getCategoryLabel, getCategorySlug } from '../lib/config'
 import BaseLayout from './BaseLayout.astro'
 import Byline from '../components/Byline.astro'
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro'
@@ -45,7 +45,7 @@ const quickPickProducts = resolvedProducts.map(p => p.product)
 
   <article class="article-page">
     <Breadcrumb crumbs={[
-      { label: getCategoryLabel(data.category), href: `/${data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+      { label: getCategoryLabel(data.category), href: `/${getCategorySlug(data.category)}/` },
       { label: getHubLabel(data.hub), href: `/${data.hub}/` },
       { label: data.title },
     ]} />
@@ -64,6 +64,7 @@ const quickPickProducts = resolvedProducts.map(p => p.product)
       height="500"
       fetchpriority="high"
       decoding="async"
+      data-pagefind-meta="image[src], image_alt[alt]"
     />
 
     {quickPickProducts.length > 0 && (

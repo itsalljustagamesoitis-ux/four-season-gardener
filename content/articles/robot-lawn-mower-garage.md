@@ -7,7 +7,7 @@ author: "wendy"
 category: "Tools & Equipment"
 hub: "battery-equipment"
 hero_image: "articles/battery-equipment-6.jpg"
-hero_image_alt: "Robot Lawn Mower Garage , photo by "
+hero_image_alt: "Robot Lawn Mower Garage"
 description: "Learn what to look for in a robot lawn mower garage, including protection from weather, charging solutions, and key features to avoid."
 target_keyword: "robot lawn mower garage"
 products: []
@@ -28,7 +28,7 @@ Most models are open-fronted or have a low lip at the entry so the mower can rol
 
 The charging station for most robot mowers (Husqvarna Automower, Gardena, WORX Landroid, Mammotion, and similar) is not weatherproofed to the degree the mowers themselves are. The mower might be rated IPX5 or IPX4. The charging dock is often a lower rating or unrated entirely. That asymmetry is where garages earn their keep.
 
-![Robot Lawn Mower Garage — photo by ](/images/articles/battery-equipment-7.jpg)
+![Robot Lawn Mower Garage](/images/articles/battery-equipment-7.jpg)
 
 
 ## Why Housing Your Robot Mower Properly Matters
@@ -47,7 +47,7 @@ The cost argument is straightforward. A decent freestanding mower garage runs be
 
 This is where most people go wrong first. Robot mower garages are not universal. The clearance height, entry width, and interior depth vary significantly between models, and a garage that fits a [Husqvarna Automower 430X](https://www.amazon.com/dp/B07T4VNGB4?tag=fourseasong-20) will not necessarily fit a [WORX Landroid L WR155](https://www.amazon.com/dp/B08CF3BLQR?tag=fourseasong-20) or a [Mammotion LUBA 2 AWD](https://www.amazon.com/dp/B0CW1JZFBK?tag=fourseasong-20). Measure your mower's height, width, and the footprint of the charging station. Add at least two inches of clearance on each side. The mower needs to enter and exit without grinding against the frame.
 
-![Robot Lawn Mower Garage — photo by ](/images/articles/battery-equipment-8.jpg)
+![Robot Lawn Mower Garage](/images/articles/battery-equipment-8.jpg)
 
 
 Also measure the cable run from your nearest outdoor power outlet to the intended garage location. Most charging stations come with a cable in the eight to twelve foot range. If your garage placement puts you further than that, you'll need an outdoor-rated extension, which adds a step but isn't a dealbreaker.
@@ -64,7 +64,7 @@ Steel garages are durable but need to be powder-coated, not just painted. Bare o
 
 The charging station's position relative to the perimeter wire matters for your mower's navigation. Don't move an established charging station to fit the garage without recalibrating or re-mapping the mower's home zone. Most manufacturers recommend a specific clearance around the station (Husqvarna, for example, specifies at least two meters of clear wire on each side of the home position). A garage should sit around the station, not force you to relocate it.
 
-![Robot Lawn Mower Garage — photo by ](/images/articles/battery-equipment-1.jpg)
+![Robot Lawn Mower Garage](/images/articles/battery-equipment-1.jpg)
 
 
 Orient the garage entry facing away from prevailing wind and rain direction if possible. In most of the Northeast, that's orienting away from the northwest. The roof overhang does most of the work, but entry orientation helps on sideways-rain days.
@@ -83,7 +83,7 @@ Thread the charging station cable out through the back or side of the garage rat
 
 **Buying a "universal" garage without measuring.** There's no such thing as universal here. The clearance and footprint requirements between mower brands are different enough that "fits most mowers" on a product listing is a red flag, not a feature.
 
-![Robot Lawn Mower Garage — photo by ](/images/articles/battery-equipment-2.jpg)
+![Robot Lawn Mower Garage](/images/articles/battery-equipment-2.jpg)
 
 
 **Skipping the anchor step because the garage feels stable.** It will feel stable in August. By November, after the first frost, it won't be. An unanchored garage that shifts three inches is enough to confuse the mower's homing.
@@ -102,7 +102,7 @@ One point I'd add for anyone who runs multiple cordless tools across the same pr
 
 For the mower itself, optional. For the charging station, I'd call it close to necessary in any climate with real rain or temperature swings. The charging dock on most consumer robot mowers is not built to the same weather tolerance as the mower. A garage that covers the dock pays for itself in extended connector life alone.
 
-![Robot Lawn Mower Garage — photo by ](/images/articles/battery-equipment-3.jpg)
+![Robot Lawn Mower Garage](/images/articles/battery-equipment-3.jpg)
 
 
 ### What's a reasonable budget for a robot mower garage?
@@ -121,62 +121,6 @@ No. Mower dimensions vary considerably between brands and even between models wi
 
 The garage itself doesn't, as long as it's positioned correctly around the existing charging station without moving it. If you relocate the station to accommodate the garage, you will need to remap or recalibrate the mower's home position per your manufacturer's instructions. Moving the station even a foot from its original position can require a full home zone recalibration on GPS-enabled models.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Robot Lawn Mower Garage: What to Know Before Buying",
-  "description": "Learn what to look for in a robot lawn mower garage, including protection from weather, charging solutions, and key features to avoid.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/robot-lawn-mower-garage/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Battery & Cordless Tools",
-      "item": "https://fourseasongardener.com/battery-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Robot Lawn Mower Garage: What to Know Before Buying",
-      "item": "https://fourseasongardener.com/robot-lawn-mower-garage/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

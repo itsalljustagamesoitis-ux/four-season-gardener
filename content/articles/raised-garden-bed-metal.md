@@ -140,62 +140,6 @@ Both systems are modular, and both brands sell additional panels that allow reco
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Vego vs VEGEGA Metal Raised Garden Beds: Key Differences",
-  "description": "Compare Vego Garden and VEGEGA 17-inch metal raised beds. See which modular garden bed offers better quality, durability, and value for your growing needs.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/raised-garden-bed-metal/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Raised Beds",
-      "item": "https://fourseasongardener.com/raised-beds/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Vego vs VEGEGA Metal Raised Garden Beds: Key Differences",
-      "item": "https://fourseasongardener.com/raised-garden-bed-metal/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

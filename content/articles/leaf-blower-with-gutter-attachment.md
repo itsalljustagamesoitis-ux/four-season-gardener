@@ -230,62 +230,6 @@ Twice annually is the standard starting point. Once in late fall after most deci
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "4 Leaf Blowers with Gutter Attachments Reviewed",
-  "description": "Compare leaf blowers with gutter attachments across budget and premium options. Find the right tool to clean gutters safely without a ladder.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/leaf-blower-with-gutter-attachment/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Lawn Care",
-      "item": "https://fourseasongardener.com/lawn-care/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "4 Leaf Blowers with Gutter Attachments Reviewed",
-      "item": "https://fourseasongardener.com/leaf-blower-with-gutter-attachment/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

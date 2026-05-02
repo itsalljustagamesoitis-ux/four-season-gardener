@@ -200,62 +200,6 @@ Nitrile gives better puncture and chemical resistance, which matters for heavy-d
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "4 Kneeling Pads for Garden Work Tested and Reviewed",
-  "description": "Find the right kneeling pad for your garden. We tested four top options to help you protect your knees while weeding, planting, and edging beds.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/kneeling-pad-for-garden/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Hand Tools",
-      "item": "https://fourseasongardener.com/hand-tools/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "4 Kneeling Pads for Garden Work Tested and Reviewed",
-      "item": "https://fourseasongardener.com/kneeling-pad-for-garden/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

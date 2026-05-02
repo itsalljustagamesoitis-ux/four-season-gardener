@@ -140,62 +140,6 @@ Seventeen inches is a solid practical minimum for indeterminate tomatoes, and it
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Metal Garden Beds Raised: Vego Garden vs VEGEGA",
-  "description": "Compare Vego Garden and VEGEGA raised metal garden beds. Learn the real differences between these similar brands before choosing for your garden.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/metal-garden-beds-raised/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Raised Beds",
-      "item": "https://fourseasongardener.com/raised-beds/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Metal Garden Beds Raised: Vego Garden vs VEGEGA",
-      "item": "https://fourseasongardener.com/metal-garden-beds-raised/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

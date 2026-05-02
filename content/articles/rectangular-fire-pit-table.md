@@ -7,7 +7,7 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-6.jpg"
-hero_image_alt: "Rectangular Fire Pit Table , photo by "
+hero_image_alt: "Rectangular Fire Pit Table"
 description: "Compare two popular rectangular fire pit tables: the budget-friendly Outland Living Series 403 and the premium Napoleon St. Tropez. See which suits your needs."
 target_keyword: "rectangular fire pit table"
 products:
@@ -49,7 +49,7 @@ The Napoleon St. Tropez is a slightly larger rectangular table with a rustic bro
 | Approx. Price | $360,$400 | $950,$1,100 |
 | BTU Output | 50,000 BTU | 40,000 BTU |
 
-![Rectangular Fire Pit Table — photo by ](/images/articles/fire-and-heat-7.jpg)
+![Rectangular Fire Pit Table](/images/articles/fire-and-heat-7.jpg)
 
 | Ignition | Manual match/lighter | Electronic push-button |
 | Frame Material | Resin/concrete-look top | Powder-coated aluminum |
@@ -68,7 +68,7 @@ At 50,000 BTU, this is more raw heat output than the Napoleon. If you're sitting
 
 The concrete-look tabletop is convincing enough at a distance and holds up adequately to outdoor conditions. The tempered glass top, covered with the included steel lid, functions as a real table surface, not an afterthought. This is the table if you want a piece that earns its square footage even when the fire isn't running.
 
-![Rectangular Fire Pit Table — photo by ](/images/articles/fire-and-heat-8.jpg)
+![Rectangular Fire Pit Table](/images/articles/fire-and-heat-8.jpg)
 
 
 The assembly is manageable solo, though the top is heavy enough that having a second person present makes it less of an ordeal. Once assembled and positioned, plan to leave it where it is. At 68 lbs, relocation is technically possible but not something you'll do casually.
@@ -85,7 +85,7 @@ The frame is powder-coated aluminum in a rustic bronze finish. It will not rust.
 
 Electronic ignition is listed as a feature and genuinely functions as one. Push the button, the flame appears. No reaching into the fire bed with a long lighter, no failed ignition attempts in a light wind. For a table that gets used frequently, the convenience compounds. The flame height is adjustable through a dial, which lets you modulate the fire's presence depending on whether you want warmth or ambiance.
 
-![Rectangular Fire Pit Table — photo by ](/images/articles/fire-and-heat-1.jpg)
+![Rectangular Fire Pit Table](/images/articles/fire-and-heat-1.jpg)
 
 
 The included natural gas conversion kit is the strongest long-term value argument for the Napoleon. Propane tanks are an ongoing cost. A 20 lb tank runs roughly $20,$25 to fill, and if you're using the table regularly across a full outdoor season, you'll spend $150,$200 or more on fuel alone. If you have natural gas service to your home, running a line to a permanent patio installation eliminates that recurring cost. The math pays back the price premium over a few seasons if you use the table consistently. This is worth a conversation with a plumber or gas fitter before you buy, and your local codes will govern what's required.
@@ -96,7 +96,7 @@ At around 55 lbs, the Napoleon is lighter than the Outland despite looking more 
 
 The St. Tropez is a permanent outdoor living investment. If you're designing a patio space you intend to keep for a decade and you're spending real money on furniture to match, the Napoleon belongs in that context. Compared to something like the [Outland 44"](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20), it costs more than twice as much. Compared to a premium teak or powder-coated aluminum patio set, it prices in line with the category it's competing in. You can find more context on how it fits into a broader patio heating strategy in our [fire and heat product coverage](/fire-and-heat/).
 
-![Rectangular Fire Pit Table — photo by ](/images/articles/fire-and-heat-2.jpg)
+![Rectangular Fire Pit Table](/images/articles/fire-and-heat-2.jpg)
 
 
 If you're looking at elevated outdoor furniture options and comparing the Napoleon against a [fire pit with coffee table](/fire-pit-with-coffee-table/) configuration, the St. Tropez holds its own as a design piece while delivering actual heat, which not all double-duty outdoor tables manage.
@@ -117,7 +117,7 @@ My recommendation: buy the Napoleon if you're also spending money on good outdoo
 
 At full output on the Outland Living Series 403 (50,000 BTU), a standard 20 lb tank lasts approximately 8,10 hours. At lower flame settings, that extends to 12 hours or more. A 20 lb tank costs roughly $20,$25 to refill at most hardware stores or gas suppliers.
 
-![Rectangular Fire Pit Table — photo by ](/images/articles/fire-and-heat-3.jpg)
+![Rectangular Fire Pit Table](/images/articles/fire-and-heat-3.jpg)
 
 
 ### Can I convert the Napoleon St. Tropez to natural gas?
@@ -136,62 +136,6 @@ Both the Outland Series 403 and the Napoleon St. Tropez include a cover panel fo
 
 The Outland Living Series 403 takes most buyers 45,60 minutes with basic tools. The concrete-look top is heavy enough that two people makes assembly easier. The Napoleon St. Tropez has a lighter frame and is slightly simpler to assemble, with most buyers reporting around 30,45 minutes. Both come with instructions adequate for the task, and neither requires any special tools beyond a wrench and a screwdriver.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Rectangular Fire Pit Table: Outland vs Napoleon",
-  "description": "Compare two popular rectangular fire pit tables: the budget-friendly Outland Living Series 403 and the premium Napoleon St. Tropez. See which suits your needs.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/rectangular-fire-pit-table/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Fire Pits & Patio Heaters",
-      "item": "https://fourseasongardener.com/fire-and-heat/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Rectangular Fire Pit Table: Outland vs Napoleon",
-      "item": "https://fourseasongardener.com/rectangular-fire-pit-table/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

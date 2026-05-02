@@ -7,7 +7,7 @@ author: "wendy"
 category: "Outdoor Living"
 hub: "outdoor-furniture"
 hero_image: "articles/outdoor-furniture-4.jpg"
-hero_image_alt: "Composite Outdoor Dining Set , photo by "
+hero_image_alt: "Composite Outdoor Dining Set"
 description: "Explore composite outdoor dining sets beyond cheap resin and expensive teak. Learn why HDPE lumber furniture deserves more attention for durability and value."
 target_keyword: "composite outdoor dining set"
 products:
@@ -33,7 +33,7 @@ The POLYWOOD Nautical Trestle set is the right call for anyone who wants a dinin
 
 The case against it is straightforward too. This set is heavy, it's not going anywhere once you place it, and the teak color is a close approximation rather than actual wood grain. If you want to rearrange your outdoor space seasonally or you're renting, this probably isn't the right choice.
 
-![Composite Outdoor Dining Set — photo by ](/images/articles/outdoor-furniture-5.jpg)
+![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-5.jpg)
 
 
 ## What We Tested
@@ -52,7 +52,7 @@ HDPE lumber doesn't rot, doesn't absorb water, and doesn't splinter. Those aren'
 
 The teak color finish deserves its own comment. Some poly lumber furniture in lighter colors does show surface oxidation after a couple of seasons outdoors , a chalky, slightly faded look that soap and water mostly corrects but never fully eliminates. The teak color on this set handles UV exposure better than the lighter POLYWOOD colorways in my experience. If you're considering Slate Gray or Sandstone instead, be aware that the teak finish is more forgiving on a sun-exposed patio.
 
-![Composite Outdoor Dining Set — photo by ](/images/articles/outdoor-furniture-6.jpg)
+![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-6.jpg)
 
 
 ### Structural Integrity and Feel
@@ -69,7 +69,7 @@ Soap and water. I mean that literally. Once a year, sometimes twice if there's a
 
 Real teak requires annual oiling to maintain its color and prevent cracking. If you skip that, the teak grays out naturally, which some people find acceptable and some find unsightly. Either way, you're making an active maintenance decision every year. With POLYWOOD, you're not making any decision. (I appreciate that's not everyone's priority, but for me it's most of the priority.)
 
-![Composite Outdoor Dining Set — photo by ](/images/articles/outdoor-furniture-7.jpg)
+![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-7.jpg)
 
 
 ### Comparing Against Real Teak
@@ -90,7 +90,7 @@ The all-weather HDPE construction means the set genuinely lives outside year-rou
 
 The set is heavy, full stop. Two people to move the table, and you're not repositioning these chairs casually. The price is real money up front, currently around $2,200 to $2,500, and that's before cushions. The wood aesthetic is an approximation , grain lines are molded in, not natural, and up close the HDPE material reads as plastic to anyone who's handled real wood furniture. No folding, no stacking, no compact storage option if you change your mind about leaving it outside.
 
-![Composite Outdoor Dining Set — photo by ](/images/articles/outdoor-furniture-8.jpg)
+![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-8.jpg)
 
 
 ## Who Should Buy This
@@ -109,7 +109,7 @@ If you're still working through what category of outdoor furniture suits your si
 
 Real teak is a natural hardwood with genuine grain, significant weight, and excellent durability when properly maintained. It requires annual oiling to retain its color and prevent surface cracking. POLYWOOD is HDPE lumber made from recycled plastic, designed to replicate the appearance of wood without any maintenance requirement. At a comparable 7-piece dining set size, real teak typically runs $3,000 to $8,000 from quality suppliers. POLYWOOD's Nautical Trestle set currently runs around $2,200 to $2,500. The trade-off is material character versus maintenance-free ownership.
 
-![Composite Outdoor Dining Set — photo by ](/images/articles/outdoor-furniture-1.jpg)
+![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-1.jpg)
 
 
 ### Can I leave the POLYWOOD Nautical Trestle set outside in winter?
@@ -128,62 +128,6 @@ POLYWOOD makes a cushion line designed for their chair profiles, sold separately
 
 The table weighs approximately 98 pounds. Each chair runs around 18 to 20 pounds. The full 7-piece set ships in multiple boxes totaling around 220 pounds. Two people are required to position the table. The chairs are manageable solo but noticeably heavier than aluminum alternatives. If you're planning to store the set seasonally or move it regularly across your property, the weight is a real consideration, not a minor one.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Composite Outdoor Dining Sets: The HDPE Lumber Sweet Spot",
-  "description": "Explore composite outdoor dining sets beyond cheap resin and expensive teak. Learn why HDPE lumber furniture deserves more attention for durability and value.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/composite-outdoor-dining-set/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outdoor Living",
-      "item": "https://fourseasongardener.com/outdoor-living/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Outdoor Furniture",
-      "item": "https://fourseasongardener.com/outdoor-furniture/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Composite Outdoor Dining Sets: The HDPE Lumber Sweet Spot",
-      "item": "https://fourseasongardener.com/composite-outdoor-dining-set/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

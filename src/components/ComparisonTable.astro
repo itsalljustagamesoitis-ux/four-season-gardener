@@ -36,7 +36,7 @@ const priceBandLabel: Record<string, string> = {
       {products.map(p => (
         <tr>
           <td>
-            <strong>{p.brand} {p.name}</strong>
+            <strong>{p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : `${p.brand} ${p.name}`}</strong>
             {p.role && <span class="comparison-table__badge">{p.role.replace(/_/g, ' ')}</span>}
           </td>
           {attributes.map(attr => (

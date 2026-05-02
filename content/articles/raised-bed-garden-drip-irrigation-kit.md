@@ -224,62 +224,6 @@ Not if you leave it pressurized. Drain the system before the first hard freeze, 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "5 Raised Bed Drip Irrigation Kits Tested for Real Gardens",
-  "description": "We tested 5 drip irrigation kits for raised beds to show you which components actually work and which ones are unnecessary filler for your garden.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/raised-bed-garden-drip-irrigation-kit/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Irrigation",
-      "item": "https://fourseasongardener.com/irrigation/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "5 Raised Bed Drip Irrigation Kits Tested for Real Gardens",
-      "item": "https://fourseasongardener.com/raised-bed-garden-drip-irrigation-kit/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

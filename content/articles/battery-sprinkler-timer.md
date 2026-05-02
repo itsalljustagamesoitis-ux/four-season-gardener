@@ -255,62 +255,6 @@ A hose-end timer attaches to an outdoor faucet and controls water flow through a
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Battery Sprinkler Timers: 5 Complete Irrigation Setups",
-  "description": "Compare battery sprinkler timers from basic mechanical dials to smart weather-connected controllers. Find the right timer and hose setup for your needs.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/battery-sprinkler-timer/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Irrigation",
-      "item": "https://fourseasongardener.com/irrigation/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Battery Sprinkler Timers: 5 Complete Irrigation Setups",
-      "item": "https://fourseasongardener.com/battery-sprinkler-timer/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

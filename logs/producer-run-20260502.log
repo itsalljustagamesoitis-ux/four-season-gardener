@@ -1,0 +1,37 @@
+Producing 15 article(s)...
+
+[1/15] Informational — pergola extension kit (id: 172)
+  SKIP — pergola-extension-kit.md already in staging/. Use --force to regenerate.
+
+[2/15] Buyer Guide — gazebo for swimming pool (id: 209)
+  Generating... done. 2121 words → staging/gazebo-for-swimming-pool.docx
+[3/15] Buyer Guide — blow up outdoor sofa (id: 213)
+  Generating... done. 1917 words → staging/blow-up-outdoor-sofa.docx
+[4/15] Buyer Guide — seed catcher for bird feeder (id: 201)
+  Generating... done. 2036 words → staging/seed-catcher-for-bird-feeder.docx
+[5/15] Buyer Guide — deck hook for bird feeder (id: 207)
+  Generating... done. 2196 words → staging/deck-hook-for-bird-feeder.docx
+[6/15] Buyer Guide — gazebo 14 x 12 (id: 210)
+  Generating... done. 2166 words → staging/gazebo-14-x-12.docx
+[7/15] Buyer Guide — outdoor gazebo curtains (id: 202)
+  Generating... done. 2280 words → staging/outdoor-gazebo-curtains.docx
+[8/15] Buyer Guide — shipping container garden shed (id: 215)
+  Generating... done. 2193 words → staging/shipping-container-garden-shed.docx
+[9/15] Buyer Guide — teak outdoor dining set for 4 (id: 212)
+  Generating... done. 2237 words → staging/teak-outdoor-dining-set-for-4.docx
+[10/15] Buyer Guide — tall adirondack chair (id: 205)
+  Generating... done. 2073 words → staging/tall-adirondack-chair.docx
+[11/15] Buyer Guide — outdoor sectional sofa cover (id: 204)
+  Generating... done. 2133 words → staging/outdoor-sectional-sofa-cover.docx
+[12/15] Buyer Guide — gazebo for hot tub (id: 203)
+  Generating... done. 2116 words → staging/gazebo-for-hot-tub.docx
+[13/15] Buyer Guide — bird feeder for finches (id: 206)
+  Generating... done. 2165 words → staging/bird-feeder-for-finches.docx
+[14/15] Buyer Guide — 12 x 20 gazebo (id: 208)
+  Generating... done. 2302 words → staging/12-x-20-gazebo.docx
+[15/15] Roundup — drip irrigation kit for potted plants (id: 79)
+  SKIP — drip-irrigation-kit-for-potted-plants.md already in staging/. Use --force to regenerate.
+
+
+Done. Review files in /Users/keithlacy/four-season-gardener/staging/
+Edit in Word or Pages, move to staging/approved/, then: python3 producer/publish.py --all

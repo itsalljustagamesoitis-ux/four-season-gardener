@@ -7,7 +7,7 @@ author: "wendy"
 category: "Garden Structures"
 hub: "structures"
 hero_image: "articles/structures-3.jpg"
-hero_image_alt: "Aluminum Greenhouse Frame Kit , photo by "
+hero_image_alt: "Aluminum Greenhouse Frame Kit"
 description: "Honest review of aluminum greenhouse frame kits. The Palram Canopia Essence withstood two winters and a wet spring without panel failure or frame wobble."
 target_keyword: "aluminum greenhouse frame kit"
 products:
@@ -39,7 +39,7 @@ I installed the Palram Canopia Essence 8x16 on my property in Litchfield County,
 
 My baseline for comparison is a Juliana Compact 8x12 I ran for four seasons before the frame started showing stress cracks at the corner brackets, and a Harbor Freight Covington 6x8 that I'll say nothing more about except that it lasted one winter. I was specifically looking for a step up in panel insulation and structural integrity, not simply a larger footprint.
 
-![Aluminum Greenhouse Frame Kit — photo by ](/images/articles/structures-4.jpg)
+![Aluminum Greenhouse Frame Kit](/images/articles/structures-4.jpg)
 
 
 Two people built this over a Saturday and most of Sunday. My husband handled most of the vertical assembly while I managed the panel placement and hardware runs. (I tracked our time at roughly 14 hours total, which I realize is the kind of detail most reviews skip.) Palram's instruction manual is organized reasonably well, though the bolt identification section assumes you're going to sort every hardware bag before you start, which I'd recommend doing.
@@ -56,7 +56,7 @@ The corner extrusions are notably heavier gauge than what I saw on the Juliana C
 
 This is where the Essence earns its price gap over single-wall polycarbonate kits. The 4mm twin-wall panels create an insulating air channel between two layers of polycarbonate, which meaningfully reduces heat loss compared to single-wall panels of equivalent thickness. In practical terms, my interior overnight low runs approximately 8 to 12 degrees Fahrenheit warmer than outside ambient when I'm running a single 1,500-watt space heater. I was seeing 5 to 7 degrees of differential with the single-wall panels on the Juliana.
 
-![Aluminum Greenhouse Frame Kit — photo by ](/images/articles/structures-5.jpg)
+![Aluminum Greenhouse Frame Kit](/images/articles/structures-5.jpg)
 
 
 The panels also block 99.9% of UV while diffusing light rather than transmitting it in direct beams. For starting seedlings and overwintering marginally hardy perennials, that diffused light quality is preferable to direct-beam transmission, which can cause localized scorching on tender tissue in spring.
@@ -73,7 +73,7 @@ Built-in rain gutters are included and functional. I connected mine to a 50-gall
 
 No base is included. This is the one decision point where buyers routinely underestimate the prep work. Palram's specs call for a level, stable foundation, and they mean it. The frame has no flex to accommodate uneven ground, and forcing it will misalign the panel channels. A poured concrete perimeter, pressure-treated wood base frame, or compacted gravel pad with anchor points are all workable options. I've seen recommendations online for simply setting the frame on pavers, and I'd be skeptical of that approach in any climate with meaningful frost depth.
 
-![Aluminum Greenhouse Frame Kit — photo by ](/images/articles/structures-6.jpg)
+![Aluminum Greenhouse Frame Kit](/images/articles/structures-6.jpg)
 
 
 If you're still weighing what kind of permanent structure makes sense for your property, it's worth browsing through the broader [garden structures and outdoor buildings section](/structures/) before committing to a foundation type.
@@ -101,7 +101,7 @@ If you've spent a season or two working around the limitations of a cheap greenh
 
 The 128 square feet of interior space is enough for serious seed starting, overwintering container plants and tender perennials, and extending your growing season by four to six weeks on each end. On my 12-acre property, that range extension is the main value, particularly for warm-season crops I'd otherwise start indoors under lights.
 
-![Aluminum Greenhouse Frame Kit — photo by ](/images/articles/structures-7.jpg)
+![Aluminum Greenhouse Frame Kit](/images/articles/structures-7.jpg)
 
 
 It's not for gardeners who want a weekend project. The assembly commitment is real, and the foundation requirement means planning months in advance. If you're looking for something smaller and faster to install, Palram makes the Essence in 6x8 and 6x12 configurations that come in around $800 to $1,100. But if the footprint fits your plan and you're prepared to build the pad, the 8x16 is the version I'd recommend.
@@ -116,7 +116,7 @@ This greenhouse is a genuine commitment. Three to five years from now, you'll ei
 
 Expect two people and a full weekend. The instruction manual is reasonably clear, but the hardware sort alone takes an hour if you do it properly before starting. Skipping the hardware sort mid-build costs more time than it saves. The most time-consuming phase is the panel placement, where alignment matters and you can't rush it without risking panel channel misalignment.
 
-![Aluminum Greenhouse Frame Kit — photo by ](/images/articles/structures-8.jpg)
+![Aluminum Greenhouse Frame Kit](/images/articles/structures-8.jpg)
 
 
 ### Does the Palram Essence 8x16 come with a base or foundation?
@@ -135,62 +135,6 @@ The panels and frame sections are manageable in terms of weight, but the geometr
 
 The Palram Canopia Essence 8x16 is rated for 15 lbs per square foot snow load. For most of the Northeast and upper Midwest, that's adequate if you clear heavy accumulation after significant snowfall rather than letting it build over multiple storms. I cleared mine twice during an above-average snow season and had no structural issues. If you're in an area that regularly sees extended heavy snow without the ability to clear frequently, factor that into your decision.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Aluminum Greenhouse Frame Kit Review: Palram Canopia",
-  "description": "Honest review of aluminum greenhouse frame kits. The Palram Canopia Essence withstood two winters and a wet spring without panel failure or frame wobble.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/aluminum-greenhouse-frame-kit/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Garden Structures",
-      "item": "https://fourseasongardener.com/garden-structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Greenhouses, Sheds & Gazebos",
-      "item": "https://fourseasongardener.com/structures/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Aluminum Greenhouse Frame Kit Review: Palram Canopia",
-      "item": "https://fourseasongardener.com/aluminum-greenhouse-frame-kit/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

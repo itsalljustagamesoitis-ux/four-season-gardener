@@ -263,62 +263,6 @@ You don't need to line it for the soil's sake. Most gardeners add a layer of car
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Wooden Raised Beds Garden Kits: 5 Top Picks",
-  "description": "Compare wooden, composite, and metal raised bed kits across price points. Find the right garden kit for your needs, soil depth, and durability goals.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/wooden-raised-beds-garden-kits/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Raised Beds",
-      "item": "https://fourseasongardener.com/raised-beds/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Wooden Raised Beds Garden Kits: 5 Top Picks",
-      "item": "https://fourseasongardener.com/wooden-raised-beds-garden-kits/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

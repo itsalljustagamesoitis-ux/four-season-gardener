@@ -140,62 +140,6 @@ Honestly, no. At $700 to $1,100-plus, the machine earns its cost through volume 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "DR Lawn Vacuum Review: Premium Leaf Collection for Large Properties",
-  "description": "Read our DR Power Equipment leaf vacuum review. Learn if this gas-powered walk-behind machine's 10:1 compression ratio justifies the premium price for your yard.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/dr-lawn-vacuum/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Lawn Care",
-      "item": "https://fourseasongardener.com/lawn-care/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "DR Lawn Vacuum Review: Premium Leaf Collection for Large Properties",
-      "item": "https://fourseasongardener.com/dr-lawn-vacuum/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

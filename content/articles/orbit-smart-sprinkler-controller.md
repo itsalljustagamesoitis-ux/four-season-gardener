@@ -154,62 +154,6 @@ A mechanical timer costs $12 to $25, requires no app, no hub, no Wi-Fi, and runs
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Orbit Smart Sprinkler Controller Review: Worth It?",
-  "description": "Is the Orbit B-hyve XD smart hose timer worth the premium over cheap mechanical timers? We tested it to find out.",
-  "datePublished": "2026-05-02",
-  "dateModified": "2026-05-02",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/orbit-smart-sprinkler-controller/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Growing & Planting",
-      "item": "https://fourseasongardener.com/growing-planting/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Irrigation",
-      "item": "https://fourseasongardener.com/irrigation/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Orbit Smart Sprinkler Controller Review: Worth It?",
-      "item": "https://fourseasongardener.com/orbit-smart-sprinkler-controller/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

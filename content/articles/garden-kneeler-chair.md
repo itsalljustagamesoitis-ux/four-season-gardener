@@ -228,62 +228,6 @@ Not if they're well fitted. The Foxgloves extended cuff uses a spandex-blend fab
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Garden Kneeler Chairs: 5 Top-Rated Models Tested",
-  "description": "We tested the most popular garden kneeler chairs to help you choose. See our honest reviews of features, durability, and real-world performance.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/garden-kneeler-chair/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Tools & Equipment",
-      "item": "https://fourseasongardener.com/tools-equipment/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Hand Tools",
-      "item": "https://fourseasongardener.com/hand-tools/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Garden Kneeler Chairs: 5 Top-Rated Models Tested",
-      "item": "https://fourseasongardener.com/garden-kneeler-chair/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {

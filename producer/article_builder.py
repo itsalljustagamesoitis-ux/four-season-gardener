@@ -406,7 +406,7 @@ product_b: "{assigned_keys[1]}"
     safe_title = _clean_yaml(title) if title else article['keyword'].title()
     safe_desc = _clean_yaml(description) if description else ""
     hero_image = article.get('hero_image') or f"articles/{article['slug']}-hero.jpg"
-    hero_alt = _clean_yaml(article.get('hero_image_alt', ''))
+    hero_alt = _clean_yaml(article.get('hero_image_alt', '') or safe_title)
 
     # Clean em dashes from product pros/cons
     for ref_block in prod_refs:

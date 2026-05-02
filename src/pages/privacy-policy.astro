@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import { getSiteConfig } from '../lib/config'
 const cfg = getSiteConfig()
+const updatedDate = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' })
 ---
 
 <BaseLayout
@@ -10,13 +11,13 @@ const cfg = getSiteConfig()
 >
   <div class="container" style="padding-top:2rem; padding-bottom:4rem; max-width:720px;">
     <h1>Privacy Policy</h1>
-    <p><em>Last updated: May 2025</em></p>
+    <p><em>Last updated: {updatedDate}</em></p>
     <h2>What we collect</h2>
     <p>If you subscribe to our newsletter, we collect your email address. We use this only to send you gardening tips and updates. We never sell or share your email address.</p>
     <h2>Analytics</h2>
-    <p>We may use analytics tools to understand how visitors use this site. This data is anonymised and used only to improve the site.</p>
+    <p>We use Google Analytics to understand how visitors use this site. Analytics data is only collected with your consent. You can accept or decline cookies using the banner shown on your first visit.</p>
     <h2>Cookies</h2>
-    <p>This site uses minimal cookies. Analytics may set cookies to distinguish repeat visits. Affiliate networks (Amazon, Awin) may set cookies when you click through to purchase.</p>
+    <p>This site uses cookies only if you accept them. Analytics cookies distinguish repeat visits and are used only to improve the site. Affiliate networks (Amazon, Awin) may set their own cookies when you click through to purchase — these are separate from our analytics cookies.</p>
     <h2>Your rights</h2>
     <p>You can request deletion of your data at any time by emailing <a href="mailto:hello@fourseasongardener.com">hello@fourseasongardener.com</a>.</p>
     <h2>Contact</h2>

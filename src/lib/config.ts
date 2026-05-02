@@ -147,6 +147,15 @@ export function getCategoryLabel(categorySlug: string): string {
   return cat?.label ?? categorySlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 }
 
+export function getCategorySlug(categoryLabel: string): string {
+  const nav = getNav()
+  const cat = nav.categories.find(c =>
+    c.label === categoryLabel ||
+    c.label.toLowerCase() === categoryLabel.toLowerCase()
+  )
+  return cat?.slug ?? categoryLabel.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')
+}
+
 // ── Affiliate URL generation (build-time only) ────────────────────────────────
 
 export function buildAffiliateUrl(

@@ -7,7 +7,7 @@ author: "wendy"
 category: "Birds & Wildlife"
 hub: "birds-wildlife"
 hero_image: "articles/birds-wildlife-4.jpg"
-hero_image_alt: "Bird Feeder For Deck , photo by "
+hero_image_alt: "Bird Feeder For Deck"
 description: "Find the right deck bird feeder for your space. Compare squirrel-proof options, budget picks, and window mounts to keep birds fed and squirrels out."
 target_keyword: "bird feeder for deck"
 products:
@@ -76,7 +76,7 @@ Motor wear over time is a real consideration. Droll Yankees makes quality equipm
 - 5 lb seed capacity reduces refill frequency
 - USB-C recharging, battery lasts months per charge
 
-![Bird Feeder For Deck — photo by ](/images/articles/birds-wildlife-5.jpg)
+![Bird Feeder For Deck](/images/articles/birds-wildlife-5.jpg)
 
 - Good for families, high entertainment factor
 
@@ -117,7 +117,7 @@ Compared to the Yankee Flipper, the Squirrel Buster Plus costs less than half th
 
 **Best for:** The practical default if squirrel deterrence is the priority and you don't want to maintain a powered feeder.
 
-![Bird Feeder For Deck — photo by ](/images/articles/birds-wildlife-6.jpg)
+![Bird Feeder For Deck](/images/articles/birds-wildlife-6.jpg)
 
 
 ,
@@ -160,7 +160,7 @@ This feeder attaches to a window with suction cups and puts birds within arm's r
 
 The appeal here is not capacity or squirrel-proofing. It's proximity. A chickadee landing on a window-mounted feeder is a different experience than one visiting a pole feeder 10 feet away, and for households with children or elderly family members who can't easily get outdoors, that proximity matters. If you want more detail on how window mounts compare on suction performance and seed tray design, the [suction cup window bird feeder guide](/suction-cup-window-bird-feeder/) covers it.
 
-![Bird Feeder For Deck — photo by ](/images/articles/birds-wildlife-7.jpg)
+![Bird Feeder For Deck](/images/articles/birds-wildlife-7.jpg)
 
 
 The wait time is the patience test. Birds that have been feeding from established pole feeders will not automatically migrate to a new window mount. Days to weeks is a reasonable expectation, not a sign something is wrong with the feeder. Putting the window mount near an existing established feeder shortens the discovery window.
@@ -193,7 +193,7 @@ The First Nature 3055 is the hummingbird feeder I'd hand to someone buying their
 
 At 32 oz and 10 feeding ports, the 3055 handles multiple hummingbirds simultaneously during peak migration, which in the Northeast runs roughly mid-August through September. The red coloring is sufficient to attract hummingbirds without adding red dye to the nectar, which is not necessary and may not be beneficial. Plain 4:1 water-to-white-sugar nectar, changed every three to five days in summer heat, is all this feeder needs to run.
 
-![Bird Feeder For Deck — photo by ](/images/articles/birds-wildlife-8.jpg)
+![Bird Feeder For Deck](/images/articles/birds-wildlife-8.jpg)
 
 
 The plastic construction is the honest trade-off. It's functional, holds up to regular cleaning without clouding, and at this price it would be replaced rather than repaired anyway. If the aesthetic of a glass feeder matters to you, there are prettier options at two or three times the price. If what matters is keeping nectar fresh and hummingbirds coming back, function wins and the 3055 is the answer.
@@ -232,7 +232,7 @@ No tube feeder will serve hummingbirds, and no nectar feeder will attract seed-e
 
 A feeder that's difficult to clean gets cleaned less often. Old seed grows mold. Old nectar ferments and can harm birds. Easy cleaning is not a luxury feature. It's the thing that determines whether your feeder actually functions safely over time. The Ring Pull lid on the Droll Yankees Classic, the disassembling base on the First Nature 3055, and the cage design on the Squirrel Buster Plus all exist because someone thought about cleaning frequency. Reward that.
 
-![Bird Feeder For Deck — photo by ](/images/articles/birds-wildlife-1.jpg)
+![Bird Feeder For Deck](/images/articles/birds-wildlife-1.jpg)
 
 
 ### Deck mounting options
@@ -259,62 +259,6 @@ Seed feeders should be cleaned every one to two weeks during heavy use periods, 
 
 ### Will a bird feeder on my deck attract
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "5 Bird Feeders for Decks That Actually Work",
-  "description": "Find the right deck bird feeder for your space. Compare squirrel-proof options, budget picks, and window mounts to keep birds fed and squirrels out.",
-  "datePublished": "2026-05-01",
-  "dateModified": "2026-05-01",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://fourseasongardener.com/bird-feeder-for-deck/"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "Wendy Hartley",
-    "url": "https://fourseasongardener.com/about/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Four Season Gardener",
-    "url": "https://fourseasongardener.com"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://fourseasongardener.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Birds & Wildlife",
-      "item": "https://fourseasongardener.com/garden-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Bird Feeders & Baths",
-      "item": "https://fourseasongardener.com/birds-wildlife/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "5 Bird Feeders for Decks That Actually Work",
-      "item": "https://fourseasongardener.com/bird-feeder-for-deck/"
-    }
-  ]
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
