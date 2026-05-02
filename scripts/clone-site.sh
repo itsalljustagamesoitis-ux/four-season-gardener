@@ -43,6 +43,10 @@ echo "  merge.ours.driver configured"
 rm -f content/articles/*.md
 echo "  content/articles/ cleared (add niche articles here)"
 
+# Substitute project name in wrangler.toml
+sed -i '' "s/^name = \"four-season-gardener\"/name = \"${SITE_SLUG}\"/" wrangler.toml
+echo "  wrangler.toml project name → $SITE_SLUG"
+
 # Register this clone in the template's clones.txt
 CLONES_FILE="$TEMPLATE_DIR/scripts/clones.txt"
 echo "$TARGET_DIR" >> "$CLONES_FILE"
@@ -61,12 +65,17 @@ echo ""
 echo "Clone ready at: $TARGET_DIR"
 echo ""
 echo "Next steps:"
-echo "  1. Edit site.config.yaml         — brand_name, domain, amazon_tracking_id"
+echo "  1. Edit site.config.yaml         — brand_name, domain, amazon_tracking_id, ga4_measurement_id"
 echo "  2. Edit config/personas/*.yaml   — rename persona, update bio"
 echo "  3. Replace public/images/brand/  — logo, OG image, author photo"
 echo "  4. Replace content/products/products.yaml — niche products"
 echo "  5. Replace data/pipeline.json    — niche article pipeline"
-echo "  6. Set Cloudflare Pages env vars: AMAZON_TAG, GA4_ID"
+echo "  6. Set Cloudflare Pages env vars (overrides site.config.yaml):"
+echo "       AMAZON_TAG              — Amazon Associates tracking ID"
+echo "       GA4_ID                  — Google Analytics 4 measurement ID"
+echo "       SITE_URL                — https://yourdomain.com"
+echo "       GOOGLE_SITE_VERIFICATION — from Google Search Console (HTML tag method)"
+echo "       BING_SITE_VERIFICATION   — from Bing Webmaster Tools (HTML tag method)"
 echo "  7. git remote add origin <new-repo-url> && git push -u origin main"
 echo ""
 echo "To pull template updates later:"

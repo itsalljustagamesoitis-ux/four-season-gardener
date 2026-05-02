@@ -124,6 +124,18 @@ function walk(dir) {
   }
 }
 
+// ── Pre-flight: source file checks (before scanning dist/) ────────────────
+const PRODUCTS_YAML = new URL('../content/products/products.yaml', import.meta.url).pathname
+if (existsSync(PRODUCTS_YAML)) {
+  const productsRaw = readFileSync(PRODUCTS_YAML, 'utf8')
+  if (/VERIFY-|TODO-|PLACEHOLDER-/.test(productsRaw)) {
+    fail('placeholder-asin-source', 'content/products/products.yaml', 'Placeholder ASIN (VERIFY-/TODO-/PLACEHOLDER-) found in source — fix before building')
+  }
+  if (/7[01]Q[0-9Q]{6,}[A-Z0-9]L/.test(productsRaw)) {
+    fail('sentinel-image-source', 'content/products/products.yaml', 'Sentinel Amazon image hash found in source — fix before building')
+  }
+}
+
 // ── Run ───────────────────────────────────────────────────────────────────
 console.log(`\nValidating build output in ${DIST} …\n`)
 walk(DIST)

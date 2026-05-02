@@ -93,7 +93,7 @@ async function checkSite(domain) {
 
   // ── 4. Affiliate tag present ─────────────────────────────────────────────────
   const hasAmazonLinks = body.includes('amazon.com')
-  const hasTag = body.includes('tag=')
+  const hasTag = /[?&]tag=[A-Za-z0-9-]+/.test(body)
   if (hasAmazonLinks && !hasTag) {
     warn(domain, 'Amazon links found but no affiliate tag — check AMAZON_TAG env var')
   }
