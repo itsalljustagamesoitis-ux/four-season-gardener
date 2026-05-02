@@ -10,8 +10,7 @@ hero_image: "articles/battery-equipment-6.jpg"
 hero_image_alt: "Robot Lawn Mower Garage , photo by "
 description: "Learn what to look for in a robot lawn mower garage, including protection from weather, charging solutions, and key features to avoid."
 target_keyword: "robot lawn mower garage"
-products:
-  []
+products: []
 tags: ["battery-equipment", "informational"]
 disclosure_required: true
 noindex: false

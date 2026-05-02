@@ -49,3 +49,8 @@ const { Content } = await render(article)
     <Content />
   </BuyerGuideLayout>
 )}
+{article.data.type === 'informational' && (
+  <BuyerGuideLayout article={article} prev={prev} next={next}>
+    <Content />
+  </BuyerGuideLayout>
+)}

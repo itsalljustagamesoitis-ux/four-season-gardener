@@ -47,15 +47,15 @@ const featured = sorted.slice(0, 12)
             </a>
           ))}
         </div>
-        {sorted.length > 12 && (
-          <div class="home-view-all">
-            <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
-          </div>
-        )}
       ) : (
         <p style="color:var(--color-text-muted); font-style:italic; margin-top:2rem;">
           Reviews coming soon.
         </p>
+      )}
+      {sorted.length > 12 && (
+        <div class="home-view-all">
+          <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
+        </div>
       )}
     </div>
 
