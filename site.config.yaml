@@ -34,3 +34,15 @@ images:
 
 deployment:
   cloudflare_pages_project: "four-season-gardener"
+
+style_policy:
+  word_count:
+    min: 2000
+    max: 3000
+  dollar_figures:
+    allowed: false
+  buying_guide_heading:
+    style: "Buying Guide"
+  in_body_images:
+    policy: fixed_count
+    fixed_count: 5
