@@ -18,13 +18,6 @@ products:
       - "Moving water attracts birds more effectively than static baths"
     article_specific_cons:
       - "Pump stops when sunlight is insufficient"
-  - id: "alpine-3tier-pedestal-birdbath"
-    role: "also_consider"
-    article_specific_pros:
-      - "Classic tiered fountain design catches overflow in lower basins , birds use all levels"
-      - "Resin construction is lightweight and frost-resistant vs heavy cast concrete alternatives"
-    article_specific_cons:
-      - "Resin can fade or become brittle after several years of direct UV exposure"
   - id: "droll-yankees-classic-feeder"
     role: "also_consider"
     article_specific_pros:
@@ -59,7 +52,7 @@ For more on setting up a productive bird-watching setup outside your back door, 
 
 ### Smart Solar AquaNura Bubbler Birdbath, gray
 
-[Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20)
+[Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)
 
 Before anything else: this is not a complete birdbath with a pedestal. The AquaNura is a solar-powered pump insert that sits in an existing basin or functions as a shallow ground-level bath on its own. I want to be clear about that because the product listing is not always clear about it, and if you're expecting a standalone railing-mounted unit, this isn't it. What it is, however, is one of the smarter accessories you can add to any static basin you already own or plan to buy.
 
@@ -88,7 +81,7 @@ Currently around $35 to $45 on Amazon, depending on availability.
 
 ### Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green
 
-[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20)
+[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)
 
 This is a budget pedestal bath, not a railing-mount, but it earns its place in this roundup because it's frequently paired with the AquaNura above and because many deck owners end up deciding a freestanding option near the deck is actually more practical than a true railing mount. The tiered design means overflow from the top basin collects in the lower basins rather than pooling on your deck, which is a genuinely useful detail.
 
@@ -114,7 +107,7 @@ If you prefer something with a more contemporary profile, the [modern bird bath]
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch
 
-[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
 This is a tube feeder, not a birdbath, which I realize requires explanation. A deck railing setup that only offers water will be less effective at establishing regular bird traffic than one that pairs water with food. Birdbaths and feeders work together, and if you're outfitting a deck from scratch, a feeder belongs in the conversation.
 
@@ -141,7 +134,7 @@ Currently around $25 to $35 depending on configuration.
 
 ### First Nature 3055 32-oz Hummingbird Feeder, Red
 
-[First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+[First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)
 
 Hummingbirds return to the same feeding routes year after year. If you put a feeder on your deck railing and keep it clean, within a season or two you'll have birds that treat your railing as a scheduled stop. The First Nature 3055 earns its place here on one criterion alone: cleaning is genuinely easy. The base unscrews completely. The whole bottom of the feeder comes off. You can get a brush into every corner without contorting your hand through a small opening.
 
@@ -168,7 +161,7 @@ The plastic construction is functional, not beautiful. If the aesthetic of your 
 
 ### Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray
 
-[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 
 This one is a genuine outlier in a railing-focused roundup, and I've included it specifically for readers who don't have an accessible railing or who want a secondary setup closer to an interior viewing point. A deck door or large window adjacent to the deck puts this feeder at eye level from inside, which creates a closer, more consistent viewing experience than anything mounted 15 feet away on a post.
 
@@ -219,7 +212,7 @@ For additional resources on feeders, baths, and year-round bird activity, the [B
 
 ## My Honest Recommendation
 
-If you're building a railing or deck bird setup from scratch and want the best result at a reasonable total cost, buy the [Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20) and add the [Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20) to it. The combination runs around $80 to $90 total, handles hard winters without cracking, provides moving water that actually draws birds, and requires no electrical infrastructure on your deck. That's the setup I'd put out today if I were starting over. (I'm not starting over. I've accumulated approximately too many feeders and baths over the years, which I recognize is not a useful data point.)
+If you're building a railing or deck bird setup from scratch and want the best result at a reasonable total cost, buy the [Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath) and add the [Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath) to it. The combination runs around $80 to $90 total, handles hard winters without cracking, provides moving water that actually draws birds, and requires no electrical infrastructure on your deck. That's the setup I'd put out today if I were starting over. (I'm not starting over. I've accumulated approximately too many feeders and baths over the years, which I recognize is not a useful data point.)
 
 ![Bird Bath For Deck Railing](/images/articles/birds-wildlife-6.jpg)
 

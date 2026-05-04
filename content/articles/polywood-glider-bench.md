@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've been looking at polywood glider benches and ended up here, I'll save you some time: I'm going to tell you about a teak glider instead, and why I think that's the right outcome for most serious buyers. The [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20) is the only genuine teak glider bench that's consistently available on Amazon, and after spending a season with one on my property in Connecticut, I have a clear opinion about it. It's not for everyone. But if it's for you, it's genuinely one of the better pieces of [Outdoor Furniture](https://fourseasongardener.com/outdoor-furniture/) you can buy.
+If you've been looking at polywood glider benches and ended up here, I'll save you some time: I'm going to tell you about a teak glider instead, and why I think that's the right outcome for most serious buyers. The [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench) is the only genuine teak glider bench that's consistently available on Amazon, and after spending a season with one on my property in Connecticut, I have a clear opinion about it. It's not for everyone. But if it's for you, it's genuinely one of the better pieces of [Outdoor Furniture](https://fourseasongardener.com/outdoor-furniture/) you can buy.
 
 Let me explain what I mean by that.
 

@@ -50,13 +50,13 @@ This guide covers four chairs across three price bands, from a budget HDPE pick 
 
 ## Our Top Picks
 
-**Best Overall:** [POLYWOOD Classic Folding Adirondack Chair](https://www.amazon.com/dp/B001VNCJ36?tag=fourseasong-20). The combination of a 20-year warranty, zero maintenance, and a folding format that actually stores flat makes this the most practical all-purpose pick for most buyers.
+**Best Overall:** [POLYWOOD Classic Folding Adirondack Chair](product:polywood-classic-adirondack-chair). The combination of a 20-year warranty, zero maintenance, and a folding format that actually stores flat makes this the most practical all-purpose pick for most buyers.
 
-**Best Budget:** [MUCHENGHY Folding Adirondack Chair](https://www.amazon.com/dp/B09Q61GK6G?tag=fourseasong-20). Currently the #1 bestseller in Adirondack chairs on Amazon, with a 4.7-star average across over 1,000 reviews. The HDPE construction is thinner than POLYWOOD's, but the price difference is significant enough that this earns its spot.
+**Best Budget:** [MUCHENGHY Folding Adirondack Chair](product:muchenghy-folding-adirondack-chair). Currently the #1 bestseller in Adirondack chairs on Amazon, with a 4.7-star average across over 1,000 reviews. The HDPE construction is thinner than POLYWOOD's, but the price difference is significant enough that this earns its spot.
 
-**Best for Comfort:** [POLYWOOD Nautical Curveback Adirondack Chair](https://www.amazon.com/dp/B079YC3P5M?tag=fourseasong-20). The curved back slats do something the flat-back designs don't: they actually support your lower back for longer sitting sessions.
+**Best for Comfort:** [POLYWOOD Nautical Curveback Adirondack Chair](product:polywood-nautical-adirondack-chair). The curved back slats do something the flat-back designs don't: they actually support your lower back for longer sitting sessions.
 
-**Best for Aesthetics:** [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20). No resin product replicates what real teak grain looks like in afternoon light. If that matters to you, this is the chair.
+**Best for Aesthetics:** [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair). No resin product replicates what real teak grain looks like in afternoon light. If that matters to you, this is the chair.
 
 ## How We Tested
 
@@ -73,7 +73,7 @@ Prices throughout this article reflect current Amazon listings and will shift. I
 
 ### POLYWOOD Classic Folding Adirondack Chair
 
-[POLYWOOD Classic Folding Adirondack Chair](https://www.amazon.com/dp/B001VNCJ36?tag=fourseasong-20) | Currently around $249 to $299 depending on color.
+[POLYWOOD Classic Folding Adirondack Chair](product:polywood-classic-adirondack-chair) | Currently around $249 to $299 depending on color.
 
 POLYWOOD has been making recycled HDPE lumber furniture since 1990, and the Classic Folding Adirondack is the chair that built a lot of their reputation. The material is dense, UV-stabilized polyethylene made from recycled milk jugs and similar post-consumer plastic. It won't crack in hard winters, won't absorb moisture, and won't need any coating, staining, or sealing. Ever.
 
@@ -87,7 +87,7 @@ What POLYWOOD cannot do is look like wood. The boards have a slight texture, and
 
 ### MUCHENGHY Folding Adirondack Chair
 
-[MUCHENGHY Folding Adirondack Chair](https://www.amazon.com/dp/B09Q61GK6G?tag=fourseasong-20) | Currently around $99 to $129.
+[MUCHENGHY Folding Adirondack Chair](product:muchenghy-folding-adirondack-chair) | Currently around $99 to $129.
 
 The #1 bestseller label in a high-volume Amazon category means something, especially when the review count is above 1,000 and the average is 4.7 stars. MUCHENGHY isn't a brand with POLYWOOD's history, but the sales volume represents real-world use across a wide range of climates and conditions, and people are not returning these chairs at a rate that suggests structural problems.
 
@@ -104,7 +104,7 @@ If you're pairing outdoor seating with other pieces and thinking about coordinat
 
 ### POLYWOOD Nautical Curveback Adirondack Chair
 
-[POLYWOOD Nautical Curveback Adirondack Chair](https://www.amazon.com/dp/B079YC3P5M?tag=fourseasong-20) | Currently around $349 to $399.
+[POLYWOOD Nautical Curveback Adirondack Chair](product:polywood-nautical-adirondack-chair) | Currently around $349 to $399.
 
 This is the POLYWOOD you buy when you've sat in a flat-back Adirondack for two hours and realized the chair was winning. The Nautical Curveback has contoured back slats that follow the spine rather than presenting a flat board you then arrange yourself around. The seat is also shaped rather than flat, and the combination makes a meaningful difference for longer sessions: fire pit evenings, reading afternoons, the kind of sitting that goes past an hour.
 
@@ -119,7 +119,7 @@ The price premium over the Classic is around $80 to $100. For a chair you'll use
 
 ### Ash & Ember Grade A Solid Teak Wood Adirondack Chair
 
-[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20) | Currently around $399 to $499.
+[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) | Currently around $399 to $499.
 
 Teak is a category with a lot of grade confusion, and it's worth being clear about what Grade A means before discussing the chair itself. Grade A teak is cut from the heartwood of mature trees. It's the densest part of the log, with the highest natural oil content, and it's the grade that delivers the rot resistance and insect resistance teak is known for. Grade B uses more sapwood and has less consistent density and oil content. Grade C is lower still. The Ash & Ember chair uses Grade A heartwood throughout, which matters for a chair you're planning to keep for a decade or more.
 

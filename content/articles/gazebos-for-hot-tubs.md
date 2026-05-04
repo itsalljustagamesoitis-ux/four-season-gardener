@@ -42,7 +42,7 @@ Two products that come up repeatedly for this application, and for good reason. 
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo
 
-[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)
+[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)
 
 **Price: currently around $1,199 to $1,499 on Amazon, at the time of writing.**
 
@@ -74,7 +74,7 @@ The frame is powder-coated aluminum. No rust, no annual treatment required, no d
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-[Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)
+[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)
 
 **Price: currently around $1,800 to $2,200 depending on retailer, at the time of writing.**
 

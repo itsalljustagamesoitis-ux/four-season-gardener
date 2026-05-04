@@ -59,7 +59,7 @@ Most sulfur-based and egg-solid formulas are safe around pets and children once 
 
 ## Top Picks
 
-### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20)
+### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
 This is my working recommendation for most people who need a spray-based repellent and want something they can open and use the same day. The gallon jug comes with a trigger sprayer, the formula is ready to go, and it covers deer and rabbits in a single application.
 
@@ -72,11 +72,11 @@ Coverage on a gallon jug goes further than you'd expect if you're applying as a 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-7.jpg)
 
 
-**Price:** Currently around $18 to $22 on Amazon for the gallon ready-to-use. If your property has significant acreage to cover, the [concentrate version (B014UUZ8AC)](https://www.amazon.com/dp/B014UUZ8AC?tag=fourseasong-20) is meaningfully more economical. At the time of writing, the concentrate runs around $28 and mixes to yield the equivalent of several gallons of ready-to-use, which changes the math considerably for anyone treating more than a few beds.
+**Price:** Currently around $18 to $22 on Amazon for the gallon ready-to-use. If your property has significant acreage to cover, the [concentrate version (B014UUZ8AC)](product:liquid-fence-concentrate) is meaningfully more economical. At the time of writing, the concentrate runs around $28 and mixes to yield the equivalent of several gallons of ready-to-use, which changes the math considerably for anyone treating more than a few beds.
 
 **Best for:** Homeowners with defined garden beds, shrub borders, or specific plants under pressure. Works as a standalone for moderate deer activity. For high-pressure situations, layer it with a physical deterrent.
 
-### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20)
+### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
 
 This is a different product category, and I'm including it because for anyone dealing with persistent deer pressure, spray repellent alone often isn't enough. The Orbit Yard Enforcer is a motion-activated sprinkler that connects to a standard garden hose and fires a burst of water when it detects movement within its detection zone.
 
@@ -97,9 +97,9 @@ A few practical notes on the Orbit. Positioning matters more than the product de
 
 ### If You're Starting From Scratch
 
-Start with the spray repellent. The [Liquid Fence gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20) is a reasonable entry point, gives you immediate coverage across treated plants, and costs under $25. Apply at first leaf out in spring, reapply after any significant rain event, and maintain a two-week cadence through fall. This handles moderate deer pressure on properties where deer are occasional visitors rather than residents.
+Start with the spray repellent. The [Liquid Fence gallon](product:liquid-fence-deer-rabbit-repellent) is a reasonable entry point, gives you immediate coverage across treated plants, and costs under $25. Apply at first leaf out in spring, reapply after any significant rain event, and maintain a two-week cadence through fall. This handles moderate deer pressure on properties where deer are occasional visitors rather than residents.
 
-If deer are on your property consistently, not just moving through, add the [Orbit Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) at the highest-traffic entry points. Two units positioned at the approaches to your main planting areas, combined with consistent spray repellent use, will significantly change deer behavior within a month.
+If deer are on your property consistently, not just moving through, add the [Orbit Yard Enforcer](product:orbit-yard-enforcer-sprinkler) at the highest-traffic entry points. Two units positioned at the approaches to your main planting areas, combined with consistent spray repellent use, will significantly change deer behavior within a month.
 
 ### For Large Properties
 
@@ -147,7 +147,7 @@ Liquid Fence and similar putrescent egg and garlic formulas are labeled for use 
 
 ### Why isn't the repellent working even though I'm applying it regularly?
 
-Three common reasons. First, application technique: a fine mist that coats foliage works. Heavy soaking that drips off immediately doesn't hold as well and wastes product. Second, coverage gaps: one missed application after rain is enough for deer to re-establish a browsing route. Third, deer pressure level: in areas with very high deer density, no repellent alone is sufficient. If you're applying correctly and consistently without results, the [Orbit Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) as a paired deterrent is worth adding before concluding the repellent has failed entirely.
+Three common reasons. First, application technique: a fine mist that coats foliage works. Heavy soaking that drips off immediately doesn't hold as well and wastes product. Second, coverage gaps: one missed application after rain is enough for deer to re-establish a browsing route. Third, deer pressure level: in areas with very high deer density, no repellent alone is sufficient. If you're applying correctly and consistently without results, the [Orbit Yard Enforcer](product:orbit-yard-enforcer-sprinkler) as a paired deterrent is worth adding before concluding the repellent has failed entirely.
 
 <script type="application/ld+json">
 {
@@ -191,7 +191,7 @@ Three common reasons. First, application technique: a fine mist that coats folia
       "name": "Why isn't the repellent working even though I'm applying it regularly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Three common reasons. First, application technique: a fine mist that coats foliage works. Heavy soaking that drips off immediately doesn't hold as well and wastes product. Second, coverage gaps: one missed application after rain is enough for deer to re-establish a browsing route. Third, deer pressure level: in areas with very high deer density, no repellent alone is sufficient. If you're applying correctly and consistently without results, the [Orbit Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) as a paired deterrent is worth adding before concluding the repellent has failed entirely."
+        "text": "Three common reasons. First, application technique: a fine mist that coats foliage works. Heavy soaking that drips off immediately doesn't hold as well and wastes product. Second, coverage gaps: one missed application after rain is enough for deer to re-establish a browsing route. Third, deer pressure level: in areas with very high deer density, no repellent alone is sufficient. If you're applying correctly and consistently without results, the [Orbit Yard Enforcer](product:orbit-yard-enforcer-sprinkler) as a paired deterrent is worth adding before concluding the repellent has failed entirely."
       }
     }
   ]

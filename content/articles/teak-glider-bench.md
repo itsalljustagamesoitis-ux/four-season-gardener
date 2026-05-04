@@ -27,7 +27,7 @@ There are a handful of outdoor furniture categories where the difference between
 
 I've been watching this category for a couple of years, partly because I have a covered porch where a glider bench makes genuine functional sense, and partly because the options on the market are thinner than they look. Most of what shows up in search results is either aluminum framed with teak-look veneer, or solid teak with hardware that will betray the wood. For a full picture of where this piece fits within a broader outdoor seating plan, our [Outdoor Furniture](/outdoor-furniture/) hub is the right starting point.
 
-The [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20) is the only genuinely all-teak glider bench with consistent Amazon availability at the time of writing. That alone makes it worth evaluating carefully, because "only option" and "right option" don't always overlap.
+The [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench) is the only genuinely all-teak glider bench with consistent Amazon availability at the time of writing. That alone makes it worth evaluating carefully, because "only option" and "right option" don't always overlap.
 
 ## Quick Verdict
 

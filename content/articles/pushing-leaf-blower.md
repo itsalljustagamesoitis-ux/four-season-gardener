@@ -50,7 +50,7 @@ If you're working through your fall [Lawn Care](/lawn-care/) plan and haven't se
 
 ## Top Picks
 
-### [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) , Best Corded Blower/Vac
+### [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) , Best Corded Blower/Vac
 
 At around $75 at the time of writing, the Toro 51621 UltraPlus is one of those tools that gets dismissed because it's corded and then quietly purchased by people who've dealt with enough dead batteries to reconsider their principles. The 12-amp motor produces 250 MPH airspeed, which is enough to move wet leaves off pavement and out of tight corners where lighter cordless models just shuffle things around.
 
@@ -74,7 +74,7 @@ The cord is a real limitation if your property is large or irregularly shaped. F
 
 ,
 
-### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) , Budget Cordless Option
+### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac) , Budget Cordless Option
 
 The Greenworks 40V blower/vac comes with a 4.0Ah battery and charger included, which matters because battery-only prices can quietly double the effective cost of a tool. At around $130 to $150 currently, it undercuts the EGO platform significantly while still offering brushless motor technology, which at this price tier is worth paying attention to.
 
@@ -93,11 +93,11 @@ The 40V battery platform is also worth understanding before you buy into it. It 
 - 185 MPH airspeed struggles with wet or packed leaves
 - 40V platform is isolated from Greenworks' other voltage lines
 
-For a first-time cordless buyer or someone maintaining a smaller property with manageable leaf volume, this is a reasonable starting point. I'd compare it mentally against the [EGO Power+ LB6004](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) and then decide what that $150 to $200 price gap is worth to you.
+For a first-time cordless buyer or someone maintaining a smaller property with manageable leaf volume, this is a reasonable starting point. I'd compare it mentally against the [EGO Power+ LB6004](product:ego-lb6004-backpack-blower) and then decide what that $150 to $200 price gap is worth to you.
 
 ,
 
-### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) , Best for Large Properties
+### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower) , Best for Large Properties
 
 The central argument for this machine is not the 600 CFM output, though that's competitive with mid-range commercial gas backpack blowers. The argument is weight distribution. If you've ever been 45 minutes into clearing a large property with a handheld blower and found that your forearm is the thing that's stopping you, not your patience or the leaves, that's what the backpack format solves. The battery and motor weight goes across your shoulders and back. Your arm holds a tube.
 
@@ -124,7 +124,7 @@ For anyone managing half an acre or more of leaf-covered lawn, this is the right
 
 ,
 
-### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20) , Best for Riding Mower Users
+### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](product:agri-fab-45-0492-tow-behind-sweeper) , Best for Riding Mower Users
 
 The Agri-Fab 45-0492 is a different category of tool entirely, and it's worth being clear about what it does and what it doesn't do before money changes hands. A lawn sweeper uses rotating brushes to sweep debris into a collection hopper. It is not a vacuum. It does not use suction. Leaves need to be loose and dry enough to be lifted by contact brush action, not compacted wet mats glued to the turf.
 
@@ -179,12 +179,12 @@ The Greenworks 40V's 185 MPH sounds competitive until you look at the CFM in blo
 
 ### What to Actually Buy
 
-My direct recommendation depends on your property. For a smaller lot with hard surfaces, beds, and manageable leaf volume, the [Toro 51621](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) at $75 is the most practical choice. Don't overcomplicate it. For a larger property where you're spending 45 minutes or more per session, the [EGO LB6004](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) is worth the investment. The backpack format changes the experience enough to justify the price difference for anyone who's ground through long blowing sessions with a handheld. If you have a riding mower and open lawn, the [Agri-Fab 45-0492](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20) is faster than any blower approach for open-ground collection.
+My direct recommendation depends on your property. For a smaller lot with hard surfaces, beds, and manageable leaf volume, the [Toro 51621](product:toro-51621-ultraplus-blower-vac) at $75 is the most practical choice. Don't overcomplicate it. For a larger property where you're spending 45 minutes or more per session, the [EGO LB6004](product:ego-lb6004-backpack-blower) is worth the investment. The backpack format changes the experience enough to justify the price difference for anyone who's ground through long blowing sessions with a handheld. If you have a riding mower and open lawn, the [Agri-Fab 45-0492](product:agri-fab-45-0492-tow-behind-sweeper) is faster than any blower approach for open-ground collection.
 
 ![Pushing Leaf Blower](/images/articles/lawn-care-8.jpg)
 
 
-The [Greenworks 40V](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) sits in an awkward position: better than a budget brushed-motor machine, but outclassed by the EGO for anyone who can stretch the budget. It's the right pick if the EGO price is genuinely out of range and you want brushless cordless performance for moderate conditions.
+The [Greenworks 40V](product:greenworks-40v-blower-vac) sits in an awkward position: better than a budget brushed-motor machine, but outclassed by the EGO for anyone who can stretch the budget. It's the right pick if the EGO price is genuinely out of range and you want brushless cordless performance for moderate conditions.
 
 For the rest of your fall and winter [lawn care](/lawn-care/) prep, the tool decision is really just the start.
 

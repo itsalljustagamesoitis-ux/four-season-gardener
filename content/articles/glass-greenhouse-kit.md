@@ -39,13 +39,6 @@ products:
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
-  - id: "palram-plant-inn-mini-greenhouse"
-    role: "also_consider"
-    article_specific_pros:
-      - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
-      - "Polycarbonate panels diffuse light evenly without scorching seedlings"
-    article_specific_cons:
-      - "Very small growing area , best for seedlings and overwintering a few tender plants"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -59,7 +52,7 @@ For more on permanent and semi-permanent garden structures generally, the [Green
 
 ## Top Picks
 
-### [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20) , Best for Serious Gardeners
+### [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse) , Best for Serious Gardeners
 
 This is the one I'd buy if I were starting over. At roughly $1,800 to $2,000 at the time of writing, it's the most expensive kit in this roundup, but it's also the only one that functions as a proper growing environment rather than a season-extension tool.
 
@@ -88,7 +81,7 @@ The 8x16 footprint gives you room to work. A 6-foot-wide greenhouse is genuinely
 
 ,
 
-### [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](https://www.amazon.com/dp/B00P0REDI8?tag=fourseasong-20) , Best First Greenhouse
+### [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](product:palram-hybrid-6x8-greenhouse) , Best First Greenhouse
 
 The 6x8 Hybrid is where I'd point someone buying their first full walk-in greenhouse on a suburban lot. It's smaller than the Essence, at a current price of around $600 to $700, but it does one thing the Snap & Grow 6x12 (reviewed below) doesn't: the roof panels are twin-wall polycarbonate rather than single-wall.
 
@@ -117,7 +110,7 @@ One note on availability: as of early 2026 this listing was showing only third-p
 
 ,
 
-### [Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](https://www.amazon.com/dp/B07MJVT2Z9?tag=fourseasong-20) , Best for Small Yards with More Length
+### [Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](product:palram-snap-grow-6x12-greenhouse) , Best for Small Yards with More Length
 
 At around $700 to $850 currently, the Snap & Grow 6x12 gives you more linear growing length than the Hybrid at a similar price point. The SmartLock connection system is a genuine differentiator: the frame snaps together without tools, which makes solo assembly more feasible than with most kits in this category. It also comes with a starter kit including a shelf, mounting hardware, and clips, which is a small but meaningful detail for a first-time buyer.
 
@@ -125,7 +118,7 @@ The tradeoff versus the Hybrid 6x8 is the roof panels. Single-wall polycarbonate
 
 The 6-foot width still applies here. Twelve feet of length is useful for linear bench runs or a combination of bench and floor growing space, but two people working simultaneously will feel the constraint. For narrow side yards or properties where the alternative is no greenhouse at all, that's a reasonable compromise.
 
-Compare this to the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20): if budget is the deciding factor and you're primarily using the structure in shoulder seasons, the Snap & Grow makes sense. If you're investing for serious year-round production in cold conditions, the Essence is worth the additional cost.
+Compare this to the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse): if budget is the deciding factor and you're primarily using the structure in shoulder seasons, the Snap & Grow makes sense. If you're investing for serious year-round production in cold conditions, the Essence is worth the additional cost.
 
 **Pros.**
 - Tool-free SmartLock assembly system
@@ -140,7 +133,7 @@ Compare this to the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https
 
 ,
 
-### [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20) , Best for Limited Yard Space
+### [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse) , Best for Limited Yard Space
 
 If you have an appropriate wall and minimal yard to spare, the lean-to format solves a real space problem. The 4x8 Hybrid Lean-To attaches directly to an exterior house wall and uses that structural support for stability. More practically, a south- or west-facing masonry or brick wall acts as a thermal mass that absorbs heat during the day and releases it overnight, which improves the structure's effective insulation beyond what the polycarbonate alone would provide.
 
@@ -166,7 +159,7 @@ Current pricing is around $500 to $600. For context, a comparable freestanding 4
 
 ,
 
-### [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](https://www.amazon.com/dp/B006GX8EOO?tag=fourseasong-20) , Best Season Extender / Entry Point
+### [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](product:palram-plant-inn-mini-greenhouse) , Best Season Extender / Entry Point
 
 Be clear on what this is before buying. The Plant Inn is not a walk-in greenhouse. It's a cold frame with a raised planter base, and it functions very well as exactly that.
 

@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a $15 mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.
+If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a $15 mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.
 
 I've been running this timer on my property for two growing seasons. Here's my honest read on whether it earns its price.
 

@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're managing more than two or three acres of lawn, a handheld or backpack blower stops being a tool and starts being a punishment. I've been through several iterations of that particular mistake on my 12-acre property: the sore shoulders, the half-finished sessions, the leaf piles abandoned somewhere near the back pasture because I simply ran out of time and arm strength. A tractor leaf blower changes that calculation entirely, and the [SuperHandy Tow-Behind Leaf Blower, Adjustable](https://www.amazon.com/dp/B0FFDRLSY8?tag=fourseasong-20) is one of the more accessible entry points into that category. I've put it through a full fall season, and this is what I found.
+If you're managing more than two or three acres of lawn, a handheld or backpack blower stops being a tool and starts being a punishment. I've been through several iterations of that particular mistake on my 12-acre property: the sore shoulders, the half-finished sessions, the leaf piles abandoned somewhere near the back pasture because I simply ran out of time and arm strength. A tractor leaf blower changes that calculation entirely, and the [SuperHandy Tow-Behind Leaf Blower, Adjustable](product:superhandy-tow-behind-leaf-blower) is one of the more accessible entry points into that category. I've put it through a full fall season, and this is what I found.
 
 For broader context on fall lawn prep and equipment decisions, our [Lawn Care](/lawn-care/) hub covers the full seasonal picture.
 

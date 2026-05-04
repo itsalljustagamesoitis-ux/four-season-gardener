@@ -31,7 +31,7 @@ If you're building out a full feeding station and want to think through the pole
 
 ## Our Top Picks
 
-For most setups, the [Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20) is the pick I'd recommend without much hesitation. It's not perfect, but it addresses the actual problem at a price that doesn't require justification.
+For most setups, the [Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle) is the pick I'd recommend without much hesitation. It's not perfect, but it addresses the actual problem at a price that doesn't require justification.
 
 **Best Overall: Perky-Pet 16 Inch Transparent Squirrel Baffler**
 Currently around $14,$18 on Amazon at the time of writing. Clear dome, hang-above or pole-mount compatible, does what it says.
@@ -59,7 +59,7 @@ Evaluation criteria, in order of priority.
 
 ### Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders
 
-[Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20) runs about $15,$18 and is the most widely distributed dome baffle in this category. The clear polycarbonate construction is a genuine functional advantage, not just aesthetics. You can watch the birds feeding without the dome visually dominating the setup, and light passes through rather than casting a shadow on the feeder below, which matters if you care about photographs or simply prefer not to have a large opaque dish sitting above your yard.
+[Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle) runs about $15,$18 and is the most widely distributed dome baffle in this category. The clear polycarbonate construction is a genuine functional advantage, not just aesthetics. You can watch the birds feeding without the dome visually dominating the setup, and light passes through rather than casting a shadow on the feeder below, which matters if you care about photographs or simply prefer not to have a large opaque dish sitting above your yard.
 
 The dome measures 16 inches across. That's adequate for the majority of squirrel deterrence situations, but I'll say plainly that a large fox squirrel or a particularly determined gray squirrel can, in some cases, get purchase on the edge of the dome if the mounting height isn't right. The baffle does its job through a combination of slippery surface and convex geometry, but if the feeder is hung too close to a branch above or a surface below, the dome is working against physics rather than with it.
 

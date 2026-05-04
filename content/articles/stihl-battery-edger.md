@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've been searching "Stihl battery edger" hoping to find a cordless version of the KA 85 or the HSA line, you've probably already noticed that Stihl's cordless edger options are either unavailable on Amazon or difficult to source outside of authorized dealers. That's not a knock on Stihl. Their battery platform is serious equipment, as anyone who's run their AP series tools can tell you. But if you need to buy today, from a platform with wide retail availability and a mature battery ecosystem, the [EGO Power+ ME0801 Multi Combo Kit](https://www.amazon.com/dp/B07BQJP381?tag=fourseasong-20) is what I'd point you toward.
+If you've been searching "Stihl battery edger" hoping to find a cordless version of the KA 85 or the HSA line, you've probably already noticed that Stihl's cordless edger options are either unavailable on Amazon or difficult to source outside of authorized dealers. That's not a knock on Stihl. Their battery platform is serious equipment, as anyone who's run their AP series tools can tell you. But if you need to buy today, from a platform with wide retail availability and a mature battery ecosystem, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is what I'd point you toward.
 
 This review covers that kit in detail. It's currently around $199 on Amazon, though prices shift. The short version: it's a capable edger that earns its place in a larger battery tool strategy, not a standalone impulse buy.
 
@@ -31,7 +31,7 @@ If you're building out a cordless tool setup and want to understand how this fit
 
 ## Quick Verdict
 
-The [EGO Power+ ME0801](https://www.amazon.com/dp/B07BQJP381?tag=fourseasong-20) delivers a clean, defined edge without a gas engine and without the noise that makes your neighbors quietly resent you. The 8-inch blade cut lines I'd put against anything I've gotten from a comparable gas unit. The catch is the architecture. This is an attachment-based system. You're buying a Multi-Head power head plus the edger attachment plus a 2.5Ah battery and charger. If you don't already own EGO tools, this is your entry point into the platform, which either makes the price reasonable or hard to justify depending on your situation.
+The [EGO Power+ ME0801](product:ego-me0801-edger-combo-b07b) delivers a clean, defined edge without a gas engine and without the noise that makes your neighbors quietly resent you. The 8-inch blade cut lines I'd put against anything I've gotten from a comparable gas unit. The catch is the architecture. This is an attachment-based system. You're buying a Multi-Head power head plus the edger attachment plus a 2.5Ah battery and charger. If you don't already own EGO tools, this is your entry point into the platform, which either makes the price reasonable or hard to justify depending on your situation.
 
 If you already own EGO equipment, this is an easy add. If you're starting from scratch and you only ever want an edger, there are simpler options. But if you're replacing a shed full of single-task gas tools with battery alternatives, the multi-head logic starts to make real financial sense.
 

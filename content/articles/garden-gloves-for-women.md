@@ -36,7 +36,7 @@ This roundup focuses on two products worth your attention if ergonomic fit and l
 
 ## Top Picks
 
-### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)
+### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)
 
 These are the gloves I'd hand someone who spends most of their garden time planting, weeding, and transplanting rather than pruning. The bamboo fiber construction is the main story here. Bamboo is naturally moisture-wicking, which matters more than it sounds if you've ever peeled off a synthetic glove after an August session and found your hands clammy and irritated. The fabric breathes, pulls sweat away from the skin, and has a mild antibacterial property that reduces the smell problem that plagues cheaper gloves after a few uses.
 
@@ -63,7 +63,7 @@ At around $14 to $16 for a pack of four pairs at the time of writing, the Pine T
 
 ,
 
-### [Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)
+### [Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)
 
 The detail that distinguishes these from almost everything else in this category is the extended cuff. The Foxgloves Original runs past the wrist and up the lower forearm. If you've ever come in from a session with scratches along your inner wrist from rose canes, rough bark, or low-hanging hawthorn branches, you know exactly why this matters.
 
@@ -151,7 +151,7 @@ Both products covered here are available in size ranges that accommodate smaller
 
 ### What are the best garden gloves for women with small hands?
 
-Close-fitting stretch materials work better for smaller hands than fixed-shape gloves. The [Pine Tree Tools Bamboo Garden Gloves](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20) use a stretch-knit construction that conforms to the hand, making them one of the better options for smaller hand sizes. Note that reviewers consistently flag that they run small, so order a size up if you're between sizes.
+Close-fitting stretch materials work better for smaller hands than fixed-shape gloves. The [Pine Tree Tools Bamboo Garden Gloves](product:pine-tree-tools-bamboo-gloves) use a stretch-knit construction that conforms to the hand, making them one of the better options for smaller hand sizes. Note that reviewers consistently flag that they run small, so order a size up if you're between sizes.
 
 ### Can I use lightweight garden gloves for rose pruning?
 
@@ -159,15 +159,15 @@ No. Bamboo knit and spandex-blend gloves offer no meaningful thorn protection. F
 
 ### How do I wash garden gloves so they last longer?
 
-Cold water, gentle cycle, air dry. Heat degrades both spandex blends and silicone grip coatings. For the [Foxgloves Original](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) in particular, the dryer will shorten the life of the grip pattern significantly. Wash after every few uses rather than waiting until they're heavily soiled, which makes the cleaning easier and the fabric last longer.
+Cold water, gentle cycle, air dry. Heat degrades both spandex blends and silicone grip coatings. For the [Foxgloves Original](product:foxgloves-original-gloves) in particular, the dryer will shorten the life of the grip pattern significantly. Wash after every few uses rather than waiting until they're heavily soiled, which makes the cleaning easier and the fabric last longer.
 
 ### Do garden gloves with touchscreen-compatible fingertips actually work?
 
-In general use, yes. The touchscreen compatibility on the [Pine Tree Tools Bamboo Gloves](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20) works well enough for navigating a phone screen or tapping a timer. It's not as responsive as bare fingers, and it won't work reliably with heavy gloves or thicker materials. But for a lightweight knit glove at this price, the feature holds up.
+In general use, yes. The touchscreen compatibility on the [Pine Tree Tools Bamboo Gloves](product:pine-tree-tools-bamboo-gloves) works well enough for navigating a phone screen or tapping a timer. It's not as responsive as bare fingers, and it won't work reliably with heavy gloves or thicker materials. But for a lightweight knit glove at this price, the feature holds up.
 
 ### What's the advantage of an extended cuff on garden gloves?
 
-The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) covers the lower forearm, which protects against scratches from thorny or rough-barked plants, reduces sun exposure during long sessions, and keeps debris from falling into the glove from the wrist opening. If you're working around roses, raspberries, or any shrub with rough canes, the difference between a standard-cuff and extended-cuff glove is noticeable within the first session.
+The cuff extension on the [Foxgloves Original](product:foxgloves-original-gloves) covers the lower forearm, which protects against scratches from thorny or rough-barked plants, reduces sun exposure during long sessions, and keeps debris from falling into the glove from the wrist opening. If you're working around roses, raspberries, or any shrub with rough canes, the difference between a standard-cuff and extended-cuff glove is noticeable within the first session.
 
 <script type="application/ld+json">
 {
@@ -179,7 +179,7 @@ The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61
       "name": "What are the best garden gloves for women with small hands?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Close-fitting stretch materials work better for smaller hands than fixed-shape gloves. The [Pine Tree Tools Bamboo Garden Gloves](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20) use a stretch-knit construction that conforms to the hand, making them one of the better options for smaller hand sizes. Note that reviewers consistently flag that they run small, so order a size up if you're between sizes."
+        "text": "Close-fitting stretch materials work better for smaller hands than fixed-shape gloves. The [Pine Tree Tools Bamboo Garden Gloves](product:pine-tree-tools-bamboo-gloves) use a stretch-knit construction that conforms to the hand, making them one of the better options for smaller hand sizes. Note that reviewers consistently flag that they run small, so order a size up if you're between sizes."
       }
     },
     {
@@ -195,7 +195,7 @@ The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61
       "name": "How do I wash garden gloves so they last longer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cold water, gentle cycle, air dry. Heat degrades both spandex blends and silicone grip coatings. For the [Foxgloves Original](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) in particular, the dryer will shorten the life of the grip pattern significantly. Wash after every few uses rather than waiting until they're heavily soiled, which makes the cleaning easier and the fabric last longer."
+        "text": "Cold water, gentle cycle, air dry. Heat degrades both spandex blends and silicone grip coatings. For the [Foxgloves Original](product:foxgloves-original-gloves) in particular, the dryer will shorten the life of the grip pattern significantly. Wash after every few uses rather than waiting until they're heavily soiled, which makes the cleaning easier and the fabric last longer."
       }
     },
     {
@@ -203,7 +203,7 @@ The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61
       "name": "Do garden gloves with touchscreen-compatible fingertips actually work?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In general use, yes. The touchscreen compatibility on the [Pine Tree Tools Bamboo Gloves](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20) works well enough for navigating a phone screen or tapping a timer. It's not as responsive as bare fingers, and it won't work reliably with heavy gloves or thicker materials. But for a lightweight knit glove at this price, the feature holds up."
+        "text": "In general use, yes. The touchscreen compatibility on the [Pine Tree Tools Bamboo Gloves](product:pine-tree-tools-bamboo-gloves) works well enough for navigating a phone screen or tapping a timer. It's not as responsive as bare fingers, and it won't work reliably with heavy gloves or thicker materials. But for a lightweight knit glove at this price, the feature holds up."
       }
     },
     {
@@ -211,7 +211,7 @@ The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61
       "name": "What's the advantage of an extended cuff on garden gloves?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The cuff extension on the [Foxgloves Original](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) covers the lower forearm, which protects against scratches from thorny or rough-barked plants, reduces sun exposure during long sessions, and keeps debris from falling into the glove from the wrist opening. If you're working around roses, raspberries, or any shrub with rough canes, the difference between a standard-cuff and extended-cuff glove is noticeable within the first session."
+        "text": "The cuff extension on the [Foxgloves Original](product:foxgloves-original-gloves) covers the lower forearm, which protects against scratches from thorny or rough-barked plants, reduces sun exposure during long sessions, and keeps debris from falling into the glove from the wrist opening. If you're working around roses, raspberries, or any shrub with rough canes, the difference between a standard-cuff and extended-cuff glove is noticeable within the first session."
       }
     }
   ]

@@ -57,7 +57,7 @@ product_b: "serenelife-900w-infrared-b0db"
 
 The market for patio infrared heaters has gotten genuinely crowded, and most buying guides handle this by listing specs and calling it a day. That's not useful when you're standing in your backyard trying to figure out whether you need 900 watts or 1500, propane or electric, wall-mounted or freestanding. I've been testing and swapping outdoor heaters on my 12-acre property for several years now, and my starting position is: most people buy more heater than they need, or they buy the wrong fuel type for their setup entirely.
 
-This comparison focuses on two electric infrared heaters worth your attention. If you're also weighing propane options or wall-mount-only units, our [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the broader category. For now, the head-to-head is the [DR. INFRARED HEATER Carbon Infrared Patio Heater with Tripod & Remote](https://www.amazon.com/dp/B08R6R6WFZ?tag=fourseasong-20) against the [SereneLife 900W Electric Infrared Patio Heater with Aluminum Reflector, IP65](https://www.amazon.com/dp/B0DBZXY3NG?tag=fourseasong-20).
+This comparison focuses on two electric infrared heaters worth your attention. If you're also weighing propane options or wall-mount-only units, our [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the broader category. For now, the head-to-head is the [DR. INFRARED HEATER Carbon Infrared Patio Heater with Tripod & Remote](product:dr-infrared-carbon-tripod-b08r) against the [SereneLife 900W Electric Infrared Patio Heater with Aluminum Reflector, IP65](product:serenelife-900w-infrared-b0db).
 
 ## At-a-Glance
 
@@ -83,9 +83,9 @@ The Dr. Infrared is the more capable heater of the two, and the reasons are spec
 
 ### Carbon tube vs. quartz: it matters more than it sounds
 
-Most budget electric infrared heaters use quartz elements. The [Dr. Infrared Carbon Infrared Patio Heater with Tripod & Remote](https://www.amazon.com/dp/B08R6R6WFZ?tag=fourseasong-20) uses a carbon tube, which emits a longer infrared wavelength. In practice, that means the heat penetrates rather than just warming the air around the element. On a cold, still night it's a meaningful difference. On a windy night it matters even more, because infrared that warms objects and people directly isn't lost when air moves through.
+Most budget electric infrared heaters use quartz elements. The [Dr. Infrared Carbon Infrared Patio Heater with Tripod & Remote](product:dr-infrared-carbon-tripod-b08r) uses a carbon tube, which emits a longer infrared wavelength. In practice, that means the heat penetrates rather than just warming the air around the element. On a cold, still night it's a meaningful difference. On a windy night it matters even more, because infrared that warms objects and people directly isn't lost when air moves through.
 
-The unit runs at 1500W, which is the standard for a full-coverage patio heater. At that output, it handles a seating area of roughly 150 square feet adequately. Smaller than that and you're paying for output you don't need. Larger than that, and you should be looking at the [Luxeva 2-in-1 Wall-Mounted & Freestanding Infrared Heater](https://www.amazon.com/dp/B0G4HP6RHQ?tag=fourseasong-20) at around $299, which adds six heat modes and heats in about three seconds. The Dr. Infrared sits in the middle tier and does it well.
+The unit runs at 1500W, which is the standard for a full-coverage patio heater. At that output, it handles a seating area of roughly 150 square feet adequately. Smaller than that and you're paying for output you don't need. Larger than that, and you should be looking at the [Luxeva 2-in-1 Wall-Mounted & Freestanding Infrared Heater](product:luxeva-2in1-infrared-b0g4) at around $299, which adds six heat modes and heats in about three seconds. The Dr. Infrared sits in the middle tier and does it well.
 
 ### The tripod is genuinely useful, if you have the floor space
 
@@ -108,7 +108,7 @@ No IP rating. That's the real limitation. The Dr. Infrared is an outdoor heater,
 
 ## Why Choose the SereneLife 900W IP65
 
-The [SereneLife 900W Electric Infrared Patio Heater with Aluminum Reflector, IP65](https://www.amazon.com/dp/B0DBZXY3NG?tag=fourseasong-20) doesn't try to compete on output or features. It competes on two things: weather resistance and price.
+The [SereneLife 900W Electric Infrared Patio Heater with Aluminum Reflector, IP65](product:serenelife-900w-infrared-b0db) doesn't try to compete on output or features. It competes on two things: weather resistance and price.
 
 ### IP65 is a meaningful spec in this category
 
@@ -144,11 +144,11 @@ No remote. Fixed mounting only. And 900W means you'll notice the ceiling on cold
 
 ## Verdict
 
-Buy the [Dr. Infrared Carbon Infrared Patio Heater with Tripod & Remote](https://www.amazon.com/dp/B08R6R6WFZ?tag=fourseasong-20) if you want a 1500W heater with placement flexibility, a remote, and carbon-tube performance. It's the better all-around heater for a standard covered patio setup where moisture exposure is limited.
+Buy the [Dr. Infrared Carbon Infrared Patio Heater with Tripod & Remote](product:dr-infrared-carbon-tripod-b08r) if you want a 1500W heater with placement flexibility, a remote, and carbon-tube performance. It's the better all-around heater for a standard covered patio setup where moisture exposure is limited.
 
-Buy the [SereneLife 900W](https://www.amazon.com/dp/B0DBZXY3NG?tag=fourseasong-20) if your priority is IP65 weather resistance at under $100 and your space is small enough that 900W is adequate. It's not the more powerful unit, but it's the right unit for anyone who needs genuine outdoor weather ratings without spending $150 or more.
+Buy the [SereneLife 900W](product:serenelife-900w-infrared-b0db) if your priority is IP65 weather resistance at under $100 and your space is small enough that 900W is adequate. It's not the more powerful unit, but it's the right unit for anyone who needs genuine outdoor weather ratings without spending $150 or more.
 
-If neither quite fits and you want more output with full dual-mount flexibility, the [Luxeva 2-in-1](https://www.amazon.com/dp/B0G4HP6RHQ?tag=fourseasong-20) at around $299 steps up the category. And if you don't have an outdoor outlet at all, the propane route deserves a look. The [Avenger FBDTP30](https://www.amazon.com/dp/B0DFZV2912?tag=fourseasong-20) and [XtremepowerUS dual burner](https://www.amazon.com/dp/B084CTKW9G?tag=fourseasong-20) both run around $70,80 and mount directly on a 20-lb propane tank, meaning no outlet and no stand required.
+If neither quite fits and you want more output with full dual-mount flexibility, the [Luxeva 2-in-1](product:luxeva-2in1-infrared-b0g4) at around $299 steps up the category. And if you don't have an outdoor outlet at all, the propane route deserves a look. The [Avenger FBDTP30](product:avenger-tank-top-infrared-b0df) and [XtremepowerUS dual burner](product:xtremepowerus-infrared-tank-top-b084) both run around $70,80 and mount directly on a 20-lb propane tank, meaning no outlet and no stand required.
 
 For the full range of outdoor heat and fire options, the [heating and fire pits section](/fire-and-heat/) has everything organized by fuel type and use case.
 

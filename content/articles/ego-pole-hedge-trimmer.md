@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](https://www.amazon.com/dp/B0799QY4TW?tag=fourseasong-20) sits at the lower end of EGO's hedge trimmer lineup in terms of price, but it runs on the same 56V Arc Lithium battery platform as their premium tools. That matters if you're already running EGO equipment or considering building out a battery-powered yard setup. I've been testing cordless outdoor tools across my 12-acre property for several years now, and I have a reasonably clear picture of what separates the honest performers from the ones that look good in spec sheets. This trimmer is mostly the former, with a few caveats worth spelling out before you hand over money.
+The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) sits at the lower end of EGO's hedge trimmer lineup in terms of price, but it runs on the same 56V Arc Lithium battery platform as their premium tools. That matters if you're already running EGO equipment or considering building out a battery-powered yard setup. I've been testing cordless outdoor tools across my 12-acre property for several years now, and I have a reasonably clear picture of what separates the honest performers from the ones that look good in spec sheets. This trimmer is mostly the former, with a few caveats worth spelling out before you hand over money.
 
 If you're comparing cordless options more broadly, the [Battery & Cordless Tools](/battery-equipment/) hub on this site covers the EGO platform and its competitors in more depth.
 

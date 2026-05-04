@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If your Adirondack chairs are sound but the cushions look like they've been through three bad summers, replacing the fabric is a smarter move than replacing the furniture. Good outdoor frames last decades. Cushion fabric, depending on what it's made from, often doesn't. The [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20) sits squarely in the category of cushions worth buying once and not thinking about again for a long time. Whether that's true in practice is what this review is about.
+If your Adirondack chairs are sound but the cushions look like they've been through three bad summers, replacing the fabric is a smarter move than replacing the furniture. Good outdoor frames last decades. Cushion fabric, depending on what it's made from, often doesn't. The [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion) sits squarely in the category of cushions worth buying once and not thinking about again for a long time. Whether that's true in practice is what this review is about.
 
 For broader context on what to look for before buying any replacement cushion, the site's [Outdoor Furniture](/outdoor-furniture/) hub is a reasonable starting point, particularly if you're also weighing whether the frame itself needs attention.
 

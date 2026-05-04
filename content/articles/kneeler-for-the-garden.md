@@ -38,7 +38,7 @@ The market for these is cluttered with products that look identical in photos an
 
 ### Gorilla Grip Extra Thick Garden Kneeling Pad
 
-[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](https://www.amazon.com/dp/B08SZQTWJV?tag=fourseasong-20)
+[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](product:gorilla-grip-kneeling-pad)
 
 This is a foam pad. That's the whole product. Seventeen and a half inches by eleven inches of high-density foam, water-resistant surface, beige. It currently runs around $12 to $15 on Amazon at the time of writing, which means if you somehow lose it or a dog destroys it, you buy another one without anguish.
 
@@ -67,7 +67,7 @@ There are also no handles. No seat function. No tool storage. If you want to pus
 
 ### Ohuhu Garden Kneeler and Seat
 
-[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](https://www.amazon.com/dp/B00YQUSERQ?tag=fourseasong-20)
+[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](product:ohuhu-garden-kneeler-seat)
 
 This one operates differently. The Ohuhu is a steel-framed unit with an EVA foam pad that functions as either a kneeling surface (frame up, pad down) or a low garden seat (flip it over, sit on the foam, use the frame as legs). Currently around $30 to $35 on Amazon. The dual function is genuinely useful, not a gimmick.
 

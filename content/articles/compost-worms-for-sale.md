@@ -34,7 +34,7 @@ product_b: "uncle-jims-1000-red-wigglers"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you're searching for compost worms for sale and you end up on Amazon, two products show up together constantly: the [Worm Factory 360 Black Vermicomposting System, 4-Tray](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) and the [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20). They're not really competitors. One is a bin, one is livestock. But people buy them separately without understanding how they work together, and then wonder why their worm setup isn't producing. This article covers both products honestly, what each one does and doesn't do well, and why buying one without the other is a mistake worth avoiding. Our broader [Composting](/composting/) hub covers the full range of composting methods if you're still deciding whether vermicomposting is right for your situation.
+If you're searching for compost worms for sale and you end up on Amazon, two products show up together constantly: the [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black) and the [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers). They're not really competitors. One is a bin, one is livestock. But people buy them separately without understanding how they work together, and then wonder why their worm setup isn't producing. This article covers both products honestly, what each one does and doesn't do well, and why buying one without the other is a mistake worth avoiding. Our broader [Composting](/composting/) hub covers the full range of composting methods if you're still deciding whether vermicomposting is right for your situation.
 
 ## At-a-Glance
 
@@ -106,9 +106,9 @@ For sourcing context and alternatives if Uncle Jim's is out of stock, our articl
 
 Buy both. That's the honest answer.
 
-The [Worm Factory 360](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) is the best mid-range stacking vermicompost bin on the market at this price point. Comparable stacking systems from other brands at similar prices, including the Can-O-Worms and the generic no-name imports that show up constantly on Amazon, don't match it for tray design quality or included accessories. If you want a more minimal setup, a basic [black compost bin](/black-compost-bin/) handles outdoor composting without the temperature constraints, but it won't produce worm tea and it's not what you want for year-round indoor use.
+The [Worm Factory 360](product:worm-factory-360-black) is the best mid-range stacking vermicompost bin on the market at this price point. Comparable stacking systems from other brands at similar prices, including the Can-O-Worms and the generic no-name imports that show up constantly on Amazon, don't match it for tray design quality or included accessories. If you want a more minimal setup, a basic [black compost bin](/black-compost-bin/) handles outdoor composting without the temperature constraints, but it won't produce worm tea and it's not what you want for year-round indoor use.
 
-The [Uncle Jim's Red Wigglers](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20) are the correct worms for this system and the 1,000 count is the correct quantity. The arrival guarantee makes the live shipping risk manageable as long as you inspect the package immediately and report issues within 48 hours.
+The [Uncle Jim's Red Wigglers](product:uncle-jims-1000-red-wigglers) are the correct worms for this system and the 1,000 count is the correct quantity. The arrival guarantee makes the live shipping risk manageable as long as you inspect the package immediately and report issues within 48 hours.
 
 Total cost at current pricing: approximately $130 to $140 for a fully functional vermicompost setup that will produce castings and worm tea for years. That's reasonable. The system will pay for itself in reduced fertilizer purchases if you're maintaining containers or raised beds.
 

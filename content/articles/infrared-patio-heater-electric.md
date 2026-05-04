@@ -61,7 +61,7 @@ These five picks cover most realistic use cases, from a simple corded unit you p
 
 ### Dr. Infrared Heater Portable Infrared Outdoor Space Heater (Best Overall)
 
-**[DR. INFRARED HEATER Portable Infrared Outdoor Space Heater, Black](https://www.amazon.com/dp/B077JM5PB9?tag=fourseasong-20)**
+**[DR. INFRARED HEATER Portable Infrared Outdoor Space Heater, Black](product:dr-infrared-heater-outdoor-b077)**
 
 This is the category anchor for a reason. Over 5,300 ratings on Amazon, a price that's currently around $90 to $100, and it does exactly what it says. You plug it in, you turn it on, and within seconds the infrared element is producing heat you can feel on your skin. There's no warm-up cycle, no waiting for a gas burner to stabilize.
 
@@ -86,7 +86,7 @@ The lack of a thermostat is a real limitation if you want set-it-and-forget-it c
 
 ### Dr. Infrared Heater Portable Outdoor Space Heater With Thermostat (Best for Energy Efficiency)
 
-**[DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat, Black](https://www.amazon.com/dp/B0BPVDH521?tag=fourseasong-20)**
+**[DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat, Black](product:dr-infrared-heater-thermostat-b0bp)**
 
 Same core unit as the bestseller above, same housing, same infrared element. The meaningful difference is a built-in thermostat that cycles the heater on and off to maintain your target temperature rather than running at full output continuously. At around $115 to $120 currently, the price gap over the base model is small enough that I'd honestly recommend most buyers just start here.
 
@@ -107,7 +107,7 @@ The corded limitation is worth flagging for both Dr. Infrared models. If your ou
 
 ### Paraheeter 1500W Electric Infrared Patio Heater (Best for Flexible Installation)
 
-**[Paraheeter 1500W Electric Infrared Patio Heater, Wall/Ceiling/Tripod Mount](https://www.amazon.com/dp/B09F36PFTF?tag=fourseasong-20)**
+**[Paraheeter 1500W Electric Infrared Patio Heater, Wall/Ceiling/Tripod Mount](product:paraheeter-infrared-patio-heater)**
 
 The Paraheeter's main argument is versatility. It ships with hardware for wall mounting, ceiling mounting, or tripod use, which means you can permanently install it in a covered structure or use it as a portable floor unit depending on the season. CSA certified for outdoor use, 1,500W output, and a price currently around $80 to $100 depending on the variant you're looking at.
 
@@ -131,7 +131,7 @@ The tripod caveat is not a minor one. (I've seen this bite people.) Confirm what
 
 ### ThermoMate 1500W Electric Infrared Patio Heater with Remote (Best Smart Features)
 
-**[ThermoMate 1500W Electric Infrared Patio Heater with Remote, IP65, 8 Heat Levels](https://www.amazon.com/dp/B0C7ZQDQ62?tag=fourseasong-20)**
+**[ThermoMate 1500W Electric Infrared Patio Heater with Remote, IP65, 8 Heat Levels](product:thermomate-infrared-patio-heater-b0c7)**
 
 This is the most fully specified unit in this roundup. IP65 waterproof rating means it can handle rain without being under a covered structure, which is not something you can say about most electric infrared heaters at this price. Eight adjustable heat levels, a remote control, an 8-hour programmable timer, and a built-in oscillation function that sweeps the heat across a wider area rather than concentrating it in one direction.
 
@@ -158,7 +158,7 @@ The IP65 rating is the differentiator that might actually determine your purchas
 
 ### 1500W Outdoor Electric Infrared Tower Heater, 42-Inch (Best Freestanding Option)
 
-**[1500W Outdoor Electric Patio Heater, 42-inch Infrared Tower Heater, 9 Heat Settings](https://www.amazon.com/dp/B0FMFPXVC7?tag=fourseasong-20)**
+**[1500W Outdoor Electric Patio Heater, 42-inch Infrared Tower Heater, 9 Heat Settings](product:infrared-tower-heater-b0fm)**
 
 The tower format solves one thing the other units don't: you want the radiant heat source at roughly standing height, distributing warmth horizontally at body level rather than from above or below. At 42 inches, this unit radiates outward from a height that's more useful for a standing gathering than a ceiling-mounted unit aimed downward.
 
@@ -205,9 +205,9 @@ If you're still comparing heat sources for outdoor living and haven't decided be
 
 ## My Actual Recommendation
 
-For most buyers, the [DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat](https://www.amazon.com/dp/B0BPVDH521?tag=fourseasong-20) is the right pick. It's around $115, it has a real track record, the thermostat does what it says, and the build quality is solid. I've run the base model for two full seasons and it hasn't given me any trouble, though I appreciate that's one property in one climate.
+For most buyers, the [DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat](product:dr-infrared-heater-thermostat-b0bp) is the right pick. It's around $115, it has a real track record, the thermostat does what it says, and the build quality is solid. I've run the base model for two full seasons and it hasn't given me any trouble, though I appreciate that's one property in one climate.
 
-If your patio is uncovered and you need weather resistance, step up to the [ThermoMate](https://www.amazon.com/dp/B0C7ZQDQ62?tag=fourseasong-20) for the IP65 rating and the oscillation. If you need permanent ceiling installation in a pergola or covered structure, the [Paraheeter](https://www.amazon.com/dp/B09F36PFTF?tag=fourseasong-20) is worth the look. The tower heater is a reasonable gamble if the format solves a specific problem for you and you're not expecting long-term warranty support from a generic label.
+If your patio is uncovered and you need weather resistance, step up to the [ThermoMate](product:thermomate-infrared-patio-heater-b0c7) for the IP65 rating and the oscillation. If you need permanent ceiling installation in a pergola or covered structure, the [Paraheeter](product:paraheeter-infrared-patio-heater) is worth the look. The tower heater is a reasonable gamble if the format solves a specific problem for you and you're not expecting long-term warranty support from a generic label.
 
 ## Frequently Asked Questions
 

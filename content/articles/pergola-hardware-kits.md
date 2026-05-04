@@ -52,7 +52,7 @@ For properties with significant wind exposure, the post connection hardware and 
 
 ## The Product Worth Your Money: Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-The [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) is the clearest recommendation I can make in the complete-kit category. It currently runs around $899 to $999 on Amazon, though pricing has fluctuated. Budget $950 as a working assumption.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the clearest recommendation I can make in the complete-kit category. It currently runs around $899 to $999 on Amazon, though pricing has fluctuated. Budget $950 as a working assumption.
 
 What you get: North American cedar lumber that arrives pre-cut, pre-drilled, and pre-stained, plus the hardware to assemble a 10-foot by 12-foot freestanding pergola. The pre-stained finish isn't decorative theater. It's a functional first coat that buys you time before you need to apply your own topcoat, and it means the end-grain cuts were made before staining, which is the right order to do things.
 

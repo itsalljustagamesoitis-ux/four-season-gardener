@@ -61,7 +61,7 @@ One clarification before the picks: if you've been searching for a [Rubbermaid c
 
 ### FCMP Outdoor IM4000 Dual Chamber Tumbling Composter
 
-[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) is the most-reviewed tumbling composter on Amazon, and for this category it has earned that position. Currently around $110 at the time of writing, it's a dual-chamber drum on a steel frame, made in Canada from 100% post-consumer recycled plastic.
+[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](product:fcmp-im4000-tumbling-composter) is the most-reviewed tumbling composter on Amazon, and for this category it has earned that position. Currently around $110 at the time of writing, it's a dual-chamber drum on a steel frame, made in Canada from 100% post-consumer recycled plastic.
 
 The dual-chamber design is what makes this genuinely different from single-chamber tumblers. You fill one side with fresh kitchen and garden waste while the other side finishes curing. Once the curing side is ready, you unload it and it becomes the new active side. In practice this means you're never stuck waiting for a full batch to finish before you can add new material. A well-managed tumbler at this design can produce finished compost in four to six weeks versus the six to twelve months typical of a passive open bin.
 
@@ -83,7 +83,7 @@ If you're managing a larger volume of garden waste and want a single unit to han
 
 ### Good Ideas EZCJR-BLK Junior Wizard Compost Bin
 
-The [Good Ideas EZCJR-BLK Junior Wizard Compost Bin](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20) is the straightforward alternative for anyone who finds tumblers fussier than they want to deal with. It runs around $50 to $60 currently, which puts it firmly in the budget tier.
+The [Good Ideas EZCJR-BLK Junior Wizard Compost Bin](product:good-ideas-junior-wizard-compost-bin) is the straightforward alternative for anyone who finds tumblers fussier than they want to deal with. It runs around $50 to $60 currently, which puts it firmly in the budget tier.
 
 It's a ground-level bin with an open bottom, vented walls, and a lid. The open base is the important part: worms and soil microbes enter naturally from the ground and do most of the work. You don't turn it, you don't manage moisture balance with the same attention you'd give a tumbler, and you don't need to understand the carbon-to-nitrogen ratio on day one. Add material at the top, let the bottom develop over time, lift the unit to access finished compost at the base.
 
@@ -102,7 +102,7 @@ The black color is relevant beyond aesthetics. Dark-colored bins absorb heat and
 
 ### Worm Factory 360 Black Vermicomposting System
 
-The [Worm Factory 360 Black Vermicomposting System](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) is the right answer when outdoor composting isn't available and you want something more functional than a kitchen pail. It runs around $130 at the time of writing for the 4-tray configuration, and it's made in the USA.
+The [Worm Factory 360 Black Vermicomposting System](product:worm-factory-360-black) is the right answer when outdoor composting isn't available and you want something more functional than a kitchen pail. It runs around $130 at the time of writing for the 4-tray configuration, and it's made in the USA.
 
 This is a vermicomposting unit, not a traditional composter. Red wiggler worms process kitchen waste through stacked trays, migrating upward as each tray fills. You add a new tray on top, the worms follow the fresh food, and you harvest finished castings from the bottom. The system supports up to eight trays as your worm population grows.
 
@@ -124,7 +124,7 @@ Two things to know going in. First, red wiggler worms do not come with the unit.
 
 ### Lomi 1 Smart Waste and Food Composter
 
-The [Lomi 1 Smart Waste and Food Composter](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20) sits at the premium end of this roundup, currently around $400 to $500 depending on the bundle, and it is a fundamentally different category of product from everything else here. It plugs into a wall, sits on your counter, and processes food waste in four to eight hours.
+The [Lomi 1 Smart Waste and Food Composter](product:lomi-electric-composter) sits at the premium end of this roundup, currently around $400 to $500 depending on the bundle, and it is a fundamentally different category of product from everything else here. It plugs into a wall, sits on your counter, and processes food waste in four to eight hours.
 
 I want to be direct about what the output actually is, because this is the most common source of confusion and disappointment in reviews. The Lomi does not produce finished compost. It produces a dry, reduced-volume organic material that needs further curing in soil before it functions as a soil amendment. If you add it directly to your garden beds expecting finished compost behavior, you'll likely be underwhelmed. If you understand it as a pre-compost step that dramatically reduces food waste volume and eliminates the odor and pest problems of holding scraps, it makes sense.
 
@@ -147,7 +147,7 @@ For apartments, condos, and anyone with zero outdoor space, this is the only pro
 
 ### Envirocycle Most Beautiful Composter in the World
 
-The name is a marketing choice I'll leave without comment. The [Envirocycle Most Beautiful Composter in the World](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20) runs around $130 to $150 and is genuinely the strongest option for deck or patio use where the composter will be visible.
+The name is a marketing choice I'll leave without comment. The [Envirocycle Most Beautiful Composter in the World](product:envirocycle-composter-black) runs around $130 to $150 and is genuinely the strongest option for deck or patio use where the composter will be visible.
 
 Made in the USA from food-safe, BPA-free materials, ships fully assembled (which I appreciate more every year), and designed with a base tray that automatically collects liquid runoff as compost tea. That's the feature that separates it from most drum composters at this price: you're getting liquid fertilizer as a passive byproduct without any additional setup.
 

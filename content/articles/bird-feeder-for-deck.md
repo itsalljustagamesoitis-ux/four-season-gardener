@@ -59,7 +59,7 @@ The five feeders below cover the main use cases: squirrel-proof with active dete
 
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
 
-[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
 **Price:** Around $130-$145 currently on Amazon.
 
@@ -91,7 +91,7 @@ Motor wear over time is a real consideration. Droll Yankees makes quality equipm
 
 ### Squirrel Buster Plus Bird Feeder with Cardinal Ring
 
-[Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+[Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
 **Price:** Around $55-$65 on Amazon at the time of writing.
 
@@ -124,7 +124,7 @@ Compared to the Yankee Flipper, the Squirrel Buster Plus costs less than half th
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch
 
-[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
 **Price:** Around $30-$35 on Amazon.
 
@@ -152,7 +152,7 @@ Droll Yankees makes its equipment in the U.S. and backs this feeder with a lifet
 
 ### Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray
 
-[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 
 **Price:** Around $30-$40 on Amazon.
 
@@ -185,7 +185,7 @@ For anyone with a small outdoor space, a balcony, or no room for a pole-mounted 
 
 ### First Nature 3055 32-oz Hummingbird Feeder, Red
 
-[First Nature 3055 32-oz Hummingbird Feeder](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+[First Nature 3055 32-oz Hummingbird Feeder](product:first-nature-3055-hummingbird-feeder)
 
 **Price:** Around $12-$15 on Amazon.
 
@@ -247,11 +247,11 @@ For more on accessories that affect feeder performance, the [Bird Feeders & Bath
 
 ### What is the best bird feeder for a deck with squirrel problems?
 
-The [Squirrel Buster Plus](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20) is the most reliable passive option. No batteries, no charging, and the adjustable weight threshold gives you control over which larger birds you're willing to allow. The [Yankee Flipper](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20) works as well or better on active deterrence, but the battery dependency is a real consideration. If you want a simpler feeder and are willing to add hardware, a [bird feeder baffle](/bird-feeder-baffles-for-squirrels/) paired with the [Droll Yankees Classic](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20) is a cheaper path to the same result.
+The [Squirrel Buster Plus](product:squirrel-buster-plus-feeder) is the most reliable passive option. No batteries, no charging, and the adjustable weight threshold gives you control over which larger birds you're willing to allow. The [Yankee Flipper](product:droll-yankees-yankee-flipper) works as well or better on active deterrence, but the battery dependency is a real consideration. If you want a simpler feeder and are willing to add hardware, a [bird feeder baffle](/bird-feeder-baffles-for-squirrels/) paired with the [Droll Yankees Classic](product:droll-yankees-classic-feeder) is a cheaper path to the same result.
 
 ### How do I hang a bird feeder on a deck railing without drilling?
 
-Over-the-rail clamp brackets mount to most standard deck railings without tools or permanent hardware. They hold shepherd's hooks or direct hanger arms and support feeders up to 5 or 6 lbs without issue. The [Nature's Hangout window feeder](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20) is the alternative if railing mounting isn't practical at all, attaching directly to glass with suction cups.
+Over-the-rail clamp brackets mount to most standard deck railings without tools or permanent hardware. They hold shepherd's hooks or direct hanger arms and support feeders up to 5 or 6 lbs without issue. The [Nature's Hangout window feeder](product:natures-hangout-window-bird-feeder) is the alternative if railing mounting isn't practical at all, attaching directly to glass with suction cups.
 
 ### How often should I clean a bird feeder?
 
@@ -269,7 +269,7 @@ Seed feeders should be cleaned every one to two weeks during heavy use periods, 
       "name": "What is the best bird feeder for a deck with squirrel problems?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The [Squirrel Buster Plus](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20) is the most reliable passive option. No batteries, no charging, and the adjustable weight threshold gives you control over which larger birds you're willing to allow. The [Yankee Flipper](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20) works as well or better on active deterrence, but the battery dependency is a real consideration. If you want a simpler feeder and are willing to add hardware, a [bird feeder baffle](/bird-feeder-baffles-for-squirrels/) paired with the [Droll Yankees Classic](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20) is a cheaper path to the same result."
+        "text": "The [Squirrel Buster Plus](product:squirrel-buster-plus-feeder) is the most reliable passive option. No batteries, no charging, and the adjustable weight threshold gives you control over which larger birds you're willing to allow. The [Yankee Flipper](product:droll-yankees-yankee-flipper) works as well or better on active deterrence, but the battery dependency is a real consideration. If you want a simpler feeder and are willing to add hardware, a [bird feeder baffle](/bird-feeder-baffles-for-squirrels/) paired with the [Droll Yankees Classic](product:droll-yankees-classic-feeder) is a cheaper path to the same result."
       }
     },
     {
@@ -277,7 +277,7 @@ Seed feeders should be cleaned every one to two weeks during heavy use periods, 
       "name": "How do I hang a bird feeder on a deck railing without drilling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Over-the-rail clamp brackets mount to most standard deck railings without tools or permanent hardware. They hold shepherd's hooks or direct hanger arms and support feeders up to 5 or 6 lbs without issue. The [Nature's Hangout window feeder](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20) is the alternative if railing mounting isn't practical at all, attaching directly to glass with suction cups."
+        "text": "Over-the-rail clamp brackets mount to most standard deck railings without tools or permanent hardware. They hold shepherd's hooks or direct hanger arms and support feeders up to 5 or 6 lbs without issue. The [Nature's Hangout window feeder](product:natures-hangout-window-bird-feeder) is the alternative if railing mounting isn't practical at all, attaching directly to glass with suction cups."
       }
     },
     {

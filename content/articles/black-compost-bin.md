@@ -52,7 +52,7 @@ I've tested composters across my 12-acre property in Litchfield County and have 
 
 ### FCMP Outdoor IM4000 Dual Chamber Tumbling Composter
 
-[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) is the most-reviewed tumbling composter on Amazon, and the review count reflects something real: it's a competent, straightforward design that delivers on its core promise. The dual-chamber format is what makes it worth recommending over most of the competition. You fill one side, let it cure, and start loading the second chamber while the first finishes. No waiting six months with a full bin and nowhere to put new material.
+[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](product:fcmp-im4000-tumbling-composter) is the most-reviewed tumbling composter on Amazon, and the review count reflects something real: it's a competent, straightforward design that delivers on its core promise. The dual-chamber format is what makes it worth recommending over most of the competition. You fill one side, let it cure, and start loading the second chamber while the first finishes. No waiting six months with a full bin and nowhere to put new material.
 
 The elevated frame sits high enough to slide a wheelbarrow underneath, which matters more than it sounds when you're unloading 18 gallons of finished compost. The drum is made from 100% post-consumer recycled plastic in Canada, BPA-free, and has held up reasonably well to freeze-thaw cycles in my experience, though placement matters (more on that below).
 
@@ -79,7 +79,7 @@ The UV issue is worth flagging. I position mine on the east side of a structure 
 
 ### FCMP Outdoor IM4000-WK Tumbling Composter with Wheels
 
-The [FCMP Outdoor IM4000-WK Tumbling Composter with Wheels](https://www.amazon.com/dp/B07YX6BH17?tag=fourseasong-20) is the same composter as the IM4000 with one modification: wheels on the base frame that allow you to roll the unit rather than carry it. That's the entire difference. Same dual-chamber drum, same frame height, same capacity.
+The [FCMP Outdoor IM4000-WK Tumbling Composter with Wheels](product:fcmp-im4000-wk-wheeled-composter) is the same composter as the IM4000 with one modification: wheels on the base frame that allow you to roll the unit rather than carry it. That's the entire difference. Same dual-chamber drum, same frame height, same capacity.
 
 Whether that's worth the price difference depends entirely on your setup. If your compost area is more than 30 feet from where you use finished compost, or if lifting and carrying are a physical constraint, the wheels justify themselves immediately. If you're working on a small flat garden where you'd rarely move the unit anyway, the standard IM4000 saves you some money.
 
@@ -106,7 +106,7 @@ My recommendation is to default to this version over the standard IM4000 unless 
 
 ### Good Ideas EZCJR-BLK Junior Wizard Compost Bin
 
-The [Good Ideas EZCJR-BLK Junior Wizard Compost Bin](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20) operates on a different principle than the FCMP tumblers. It sits directly on the ground with an open bottom, which allows earthworms and soil microbes to move in and out freely. That's not a design flaw. It's the mechanism.
+The [Good Ideas EZCJR-BLK Junior Wizard Compost Bin](product:good-ideas-junior-wizard-compost-bin) operates on a different principle than the FCMP tumblers. It sits directly on the ground with an open bottom, which allows earthworms and soil microbes to move in and out freely. That's not a design flaw. It's the mechanism.
 
 Tumblers are sealed systems. They're faster because you control the environment: heat builds, you add oxygen by turning, the drum keeps pests out. The tradeoff is that you're isolated from the natural microbial ecosystem in your soil. Ground-contact bins are slower, but the finished compost often has a richer microbial profile because of the direct soil contact. If you're interested in how that compares to other amendment approaches, the article on [worm castings vs compost](/worm-castings-vs-compost/) covers the distinction in practical terms.
 
@@ -135,7 +135,7 @@ For gardeners who find tumblers over-engineered or who simply want a low-mainten
 
 ### Envirocycle Most Beautiful Composter in the World
 
-The name is doing a lot of work, but the [Envirocycle Most Beautiful Composter in the World](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20) has one feature that no other composter in this roundup offers: a built-in compost tea collection base. As the drum tumbles and moisture from decomposing material drains, it collects in the sealed base tray. You dilute that liquid and apply it directly to plants as a liquid fertilizer. The system captures something that tumblers typically discard.
+The name is doing a lot of work, but the [Envirocycle Most Beautiful Composter in the World](product:envirocycle-composter-black) has one feature that no other composter in this roundup offers: a built-in compost tea collection base. As the drum tumbles and moisture from decomposing material drains, it collects in the sealed base tray. You dilute that liquid and apply it directly to plants as a liquid fertilizer. The system captures something that tumblers typically discard.
 
 Made in the USA from food-safe, BPA-free materials, it ships fully assembled. That last detail is more significant than it sounds. The FCMP tumblers arrive in flat-pack with a meaningful amount of assembly required (I timed the IM4000 at about 45 minutes the first time through). The Envirocycle is ready to use out of the box.
 

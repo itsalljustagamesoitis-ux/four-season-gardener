@@ -59,15 +59,15 @@ I've been running feeders on a 12-acre property in Connecticut for over a decade
 
 ## Our Top Picks
 
-**Best overall:** [Solid Steel 16-Inch Hanging Bird Feeder Baffle](https://www.amazon.com/dp/B0D4YWP1LN?tag=fourseasong-20) , all-metal construction, holds up through hard winters, no yellowing.
+**Best overall:** [Solid Steel 16-Inch Hanging Bird Feeder Baffle](product:solid-steel-metal-dome-baffle) , all-metal construction, holds up through hard winters, no yellowing.
 
-**Best budget pick:** [Perky-Pet 16 Inch Transparent Squirrel Baffler](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20) , proven design, widely available, works if sized correctly for your situation.
+**Best budget pick:** [Perky-Pet 16 Inch Transparent Squirrel Baffler](product:perky-pet-squirrel-dome-baffle) , proven design, widely available, works if sized correctly for your situation.
 
-**Best for post-mounted setups:** [Classic Black Metal Squirrel Baffle for 4x4 Post](https://www.amazon.com/dp/B0DTHGT62J?tag=fourseasong-20) , purpose-built for 4x4 wooden posts, clean installation.
+**Best for post-mounted setups:** [Classic Black Metal Squirrel Baffle for 4x4 Post](product:classic-black-post-mount-baffle) , purpose-built for 4x4 wooden posts, clean installation.
 
-**Best active deterrent:** [Squirrel Baffle Pole Dynamic Steel Spring-Loaded Wobble Defense](https://www.amazon.com/dp/B0GQLKL6LT?tag=fourseasong-20) , the spring action genuinely disrupts climbing rather than just blocking it.
+**Best active deterrent:** [Squirrel Baffle Pole Dynamic Steel Spring-Loaded Wobble Defense](product:wobble-wraparound-pole-baffle) , the spring action genuinely disrupts climbing rather than just blocking it.
 
-**Solid pole-mount option:** [Audubon Torpedo Steel Squirrel Baffle](https://www.amazon.com/dp/B000HASBOU?tag=fourseasong-20) , cylindrical design, durable steel, does the job when installed at the right height.
+**Solid pole-mount option:** [Audubon Torpedo Steel Squirrel Baffle](product:audubon-torpedo-steel-baffle) , cylindrical design, durable steel, does the job when installed at the right height.
 
 ## How We Tested
 
@@ -88,7 +88,7 @@ One note on testing methodology: no baffle is a guarantee. What I was evaluating
 
 **Price: currently around $15-18 on Amazon**
 
-The [Perky-Pet 16 Inch Transparent Squirrel Baffler](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20) has been around long enough to have a real track record, which is more than you can say for a lot of what's on the market. The clear dome mounts above a hanging feeder via a hook, and the shape means squirrels can't get a grip on the outside surface to pull themselves past it. It also works inverted as a pole-mount baffle below a feeder, which gives it some flexibility.
+The [Perky-Pet 16 Inch Transparent Squirrel Baffler](product:perky-pet-squirrel-dome-baffle) has been around long enough to have a real track record, which is more than you can say for a lot of what's on the market. The clear dome mounts above a hanging feeder via a hook, and the shape means squirrels can't get a grip on the outside surface to pull themselves past it. It also works inverted as a pole-mount baffle below a feeder, which gives it some flexibility.
 
 At this price, you're getting functional polycarbonate, not premium materials. The dome will yellow after a season or two of UV exposure. It's not structural degradation, it's cosmetic, but if you care about how your setup looks, you'll notice it. The 16-inch diameter is adequate for most situations, but if you have large fox squirrels rather than smaller gray squirrels, the reach span difference matters more than people expect.
 
@@ -100,7 +100,7 @@ For a first baffle or a backup for a secondary feeder, this is a reasonable buy.
 
 **Price: currently around $28-32 on Amazon**
 
-The [Audubon Torpedo Steel Squirrel Baffle](https://www.amazon.com/dp/B000HASBOU?tag=fourseasong-20) is a cylinder that wraps around the pole below the feeder, creating a section that squirrels can't grip or climb past. Steel construction means no UV degradation, no cracking in cold weather. After three seasons mine looks functionally identical to how it arrived.
+The [Audubon Torpedo Steel Squirrel Baffle](product:audubon-torpedo-steel-baffle) is a cylinder that wraps around the pole below the feeder, creating a section that squirrels can't grip or climb past. Steel construction means no UV degradation, no cracking in cold weather. After three seasons mine looks functionally identical to how it arrived.
 
 Installation requires attention to pole diameter. Audubon specifies compatible pole sizes, and if yours is outside that range, the fit won't be snug enough to stay secure. Check before you order.
 
@@ -115,7 +115,7 @@ The Torpedo does what it says at a fair price. It's not exciting, which is the r
 
 **Price: currently around $32-38 on Amazon**
 
-This is the baffle I'd buy if I were starting over. The [Solid Steel 16-Inch Hanging Bird Feeder Baffle](https://www.amazon.com/dp/B0D4YWP1LN?tag=fourseasong-20) is an all-metal dome designed for hanging feeders, and the construction quality is noticeably better than the plastic alternatives at a price point that's still reasonable.
+This is the baffle I'd buy if I were starting over. The [Solid Steel 16-Inch Hanging Bird Feeder Baffle](product:solid-steel-metal-dome-baffle) is an all-metal dome designed for hanging feeders, and the construction quality is noticeably better than the plastic alternatives at a price point that's still reasonable.
 
 The dome profile is deep enough that squirrels attempting to climb over the outside edge can't reach the suspension hardware at the top. I've watched multiple attempts end with the squirrel dropping off the underside and eventually losing interest. The finish has held up well through two full winters, including a stretch of repeated freeze-thaw cycles that cracked one of my plastic domes in the same period.
 
@@ -132,7 +132,7 @@ This is my first recommendation for anyone with a hanging feeder who wants to so
 ![Bird Feeder Baffles For Squirrels](/images/articles/birds-wildlife-6.jpg)
 
 
-Most baffles are designed for round poles in the 1-inch to 1.5-inch diameter range. If you've built your feeder setup around standard 4x4 lumber, which plenty of people have, those baffles won't fit. The [Classic Black Metal Squirrel Baffle for 4x4 Post](https://www.amazon.com/dp/B0DTHGT62J?tag=fourseasong-20) is purpose-built for that application, and the fit is solid.
+Most baffles are designed for round poles in the 1-inch to 1.5-inch diameter range. If you've built your feeder setup around standard 4x4 lumber, which plenty of people have, those baffles won't fit. The [Classic Black Metal Squirrel Baffle for 4x4 Post](product:classic-black-post-mount-baffle) is purpose-built for that application, and the fit is solid.
 
 The 17-inch diameter is adequate. Steel construction with a matte black powder coat finish. Hardware included is appropriate for the application. Installation on a 4x4 is genuinely straightforward, which I mention because it's not always the case with post-mount baffles that claim broad compatibility and then require improvised solutions.
 
@@ -144,7 +144,7 @@ If your post is a round pipe or a standard shepherd's hook, this isn't the right
 
 **Price: currently around $36-42 on Amazon**
 
-The premise of the [Squirrel Baffle Pole Dynamic Steel Spring-Loaded Wobble Defense](https://www.amazon.com/dp/B0GQLKL6LT?tag=fourseasong-20) is different from the others. Rather than presenting a fixed barrier, it wobbles. When a squirrel climbs the pole and hits this section, the spring-loaded mechanism shifts under their weight, disrupting their grip and balance. The squirrel can't stabilize enough to push past it.
+The premise of the [Squirrel Baffle Pole Dynamic Steel Spring-Loaded Wobble Defense](product:wobble-wraparound-pole-baffle) is different from the others. Rather than presenting a fixed barrier, it wobbles. When a squirrel climbs the pole and hits this section, the spring-loaded mechanism shifts under their weight, disrupting their grip and balance. The squirrel can't stabilize enough to push past it.
 
 This matters because some squirrels do eventually figure out fixed baffles, particularly the cylindrical type, if there's an exploitable gap or if they can get enough momentum from a jump. A surface that moves when they apply force doesn't give them anything to problem-solve against. (I timed several attempts across about three weeks with one particularly persistent gray squirrel. He gave up on day 19.)
 
@@ -177,7 +177,7 @@ A well-made baffle on a poorly placed pole will fail. The feeder needs to be far
 
 ## Closing Recommendation
 
-For most setups with a hanging feeder, the [Solid Steel 16-Inch Hanging Bird Feeder Baffle](https://www.amazon.com/dp/B0D4YWP1LN?tag=fourseasong-20) is where I'd spend the money. It's durable, appropriately sized, and doesn't require replacement on a two-year cycle. If budget is the constraint, the [Perky-Pet 16 Inch Transparent Squirrel Baffler](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20) is a functional starting point.
+For most setups with a hanging feeder, the [Solid Steel 16-Inch Hanging Bird Feeder Baffle](product:solid-steel-metal-dome-baffle) is where I'd spend the money. It's durable, appropriately sized, and doesn't require replacement on a two-year cycle. If budget is the constraint, the [Perky-Pet 16 Inch Transparent Squirrel Baffler](product:perky-pet-squirrel-dome-baffle) is a functional starting point.
 
 ![Bird Feeder Baffles For Squirrels](/images/articles/birds-wildlife-8.jpg)
 

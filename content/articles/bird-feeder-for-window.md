@@ -59,7 +59,7 @@ This roundup covers five feeders worth buying, from budget window-mount acrylic 
 
 ### Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray
 
-[Nature's Hangout Window Bird Feeder](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+[Nature's Hangout Window Bird Feeder](product:natures-hangout-window-bird-feeder)
 
 **Currently around $28 on Amazon.**
 
@@ -88,7 +88,7 @@ If you're primarily working with a deck or porch rather than a window mount, the
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch
 
-[Droll Yankees Classic Sunflower Seed Bird Feeder](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+[Droll Yankees Classic Sunflower Seed Bird Feeder](product:droll-yankees-classic-feeder)
 
 **Currently around $25 on Amazon.**
 
@@ -117,7 +117,7 @@ There's also no squirrel deterrence built in. A baffle or dome is not optional o
 
 ### Squirrel Buster Plus Bird Feeder with Cardinal Ring
 
-[Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+[Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
 **Currently around $65 on Amazon.**
 
@@ -127,7 +127,7 @@ The 5.1-pound seed capacity means you're not refilling constantly, and the six f
 
 Cleaning is more involved than a tray feeder. The cage assembly has parts. Plan for it. If your current feeder is something you wipe down in thirty seconds, the Squirrel Buster Plus will feel like an upgrade in squirrel deterrence and a step back in maintenance simplicity.
 
-Compared to the [Droll Yankees Yankee Flipper](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20) below, the Squirrel Buster costs about a third less, requires no charging, and is functionally indefinite. The Flipper has more entertainment value. The Buster has more reliability.
+Compared to the [Droll Yankees Yankee Flipper](product:droll-yankees-yankee-flipper) below, the Squirrel Buster costs about a third less, requires no charging, and is functionally indefinite. The Flipper has more entertainment value. The Buster has more reliability.
 
 **Pros.**
 - Weight-activated cage requires no battery or motor
@@ -143,7 +143,7 @@ Compared to the [Droll Yankees Yankee Flipper](https://www.amazon.com/dp/B00004Z
 
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
 
-[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
 **Currently around $200 on Amazon.**
 
@@ -173,7 +173,7 @@ For a family garden where the entertainment factor has value, or for anyone who 
 
 ### First Nature 3055 32-oz Hummingbird Feeder
 
-[First Nature 3055 32-oz Hummingbird Feeder](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+[First Nature 3055 32-oz Hummingbird Feeder](product:first-nature-3055-hummingbird-feeder)
 
 **Currently around $12 on Amazon.**
 
@@ -210,7 +210,7 @@ If you have outdoor space and the window feeder appeal is mainly about watching 
 
 ### Squirrel Deterrence: Passive vs. Active
 
-There are two functional approaches to squirrel-proofing a feeder. Passive means weight-activated mechanics with no power source. Active means a motor triggered by weight. The [Squirrel Buster Plus](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20) is passive. The [Yankee Flipper](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20) is active.
+There are two functional approaches to squirrel-proofing a feeder. Passive means weight-activated mechanics with no power source. Active means a motor triggered by weight. The [Squirrel Buster Plus](product:squirrel-buster-plus-feeder) is passive. The [Yankee Flipper](product:droll-yankees-yankee-flipper) is active.
 
 Passive is more reliable long-term because it cannot fail due to a dead battery. Active is more entertaining and, for whatever psychological reason, seems to condition squirrels faster. If reliability is the priority, go passive. If you're buying this partly as a functional piece of outdoor entertainment, the Flipper is worth the premium.
 

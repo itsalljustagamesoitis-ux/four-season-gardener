@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've been replacing outdoor seating sets every three to five years, you already know the math doesn't work. A $600 wicker sectional sounds reasonable until you've bought three of them. The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](https://www.amazon.com/dp/B085G1ZKXV?tag=fourseasong-20) sits at the opposite end of that calculation: a high upfront number backed by a 20-year frame warranty and cushions that are genuinely built for the outdoors. This review is for people who are done making the cheap-set mistake and want to know whether this particular investment is the right one.
+If you've been replacing outdoor seating sets every three to five years, you already know the math doesn't work. A $600 wicker sectional sounds reasonable until you've bought three of them. The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set) sits at the opposite end of that calculation: a high upfront number backed by a 20-year frame warranty and cushions that are genuinely built for the outdoors. This review is for people who are done making the cheap-set mistake and want to know whether this particular investment is the right one.
 
 For context on how this set fits into the broader category, the [Outdoor Furniture](/outdoor-furniture/) hub covers the full range of what's available at different price points. This review focuses specifically on whether the POLYWOOD Edge sectional earns its premium.
 

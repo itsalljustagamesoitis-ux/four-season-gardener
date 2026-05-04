@@ -38,7 +38,7 @@ The two structures covered here sit at opposite ends of the material spectrum. O
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo
 
-**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)**
+**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)**
 
 This is the one I'd buy for a permanent installation where wind is the primary concern. The frame is powder-coated aluminum, the roof panels are twin-wall polycarbonate, and the overall footprint is 120 square feet. Currently running around $1,400 to $1,600 on Amazon, though pricing on this one moves seasonally.
 
@@ -77,7 +77,7 @@ Installation is a two-person job that will take a solid half day, probably longe
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-**[Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)**
+**[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)**
 
 The Yardistry is a different kind of structure serving a different kind of priority. It's North American cedar, pre-cut and pre-drilled, and it arrives looking like something that belongs in a garden rather than something you assembled from a flat pack. Currently around $1,800 to $2,200 depending on where you buy it, which puts it above the Palram. (I realize that's counterintuitive for a kit that starts as open rafters.)
 

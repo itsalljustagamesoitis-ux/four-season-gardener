@@ -59,7 +59,7 @@ One note before the picks: "battery operated" means different things depending o
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)
+[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)
 
 **Currently around $12 on Amazon.**
 
@@ -82,7 +82,7 @@ This is not the right fit if you're managing a vegetable garden that needs two s
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)
+[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)
 
 **Currently around $80 to $100 depending on retailer, which includes the Wi-Fi hub.**
 
@@ -104,7 +104,7 @@ For readers managing hose-end irrigation on raised beds or container setups, thi
 
 ### Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
 
-[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20)
+[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller)
 
 **Currently around $170 to $230 depending on zone count. The 8-zone version runs closer to $230.**
 
@@ -129,7 +129,7 @@ The Rachio 3 is the pick if you have an inground system and an outdated controll
 
 ### Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.
 
-[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](https://www.amazon.com/dp/B00OHRTKLM?tag=fourseasong-20)
+[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](product:flexzilla-garden-hose-50ft)
 
 **Currently around $55 to $65 for the 50-foot version.**
 
@@ -152,7 +152,7 @@ Heavier than expandable hoses when full. Premium price over standard rubber or v
 
 ### RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut
 
-[RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](https://www.amazon.com/dp/B003H9WJMI?tag=fourseasong-20)
+[RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](product:rts-50gal-rain-barrel)
 
 **Currently around $90 to $110.**
 

@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) sits at the serious end of the battery-powered mower market, and it earns that position. I've been running it across roughly three acres of mixed terrain on my Litchfield County property for two full mowing seasons, and my assessment is straightforward: this is the machine that finally made me stop defending gas mowers to skeptical neighbors. Not because it's perfect, but because the tradeoffs have shifted decisively in EGO's favor. If you're already invested in the EGO 56V platform, or considering building a [battery-powered tool ecosystem](/battery-equipment/), the LM2135SP deserves a direct look.
+The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) sits at the serious end of the battery-powered mower market, and it earns that position. I've been running it across roughly three acres of mixed terrain on my Litchfield County property for two full mowing seasons, and my assessment is straightforward: this is the machine that finally made me stop defending gas mowers to skeptical neighbors. Not because it's perfect, but because the tradeoffs have shifted decisively in EGO's favor. If you're already invested in the EGO 56V platform, or considering building a [battery-powered tool ecosystem](/battery-equipment/), the LM2135SP deserves a direct look.
 
 ## Quick Verdict
 

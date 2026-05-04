@@ -63,7 +63,7 @@ My honest recommendation is in here, clearly labeled.
 
 **Best for: Gutter cleaning from the ground**
 
-[WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit](https://www.amazon.com/dp/B07N2XNQ2V?tag=fourseasong-20) runs around $30 to $35 at the time of writing, which makes it one of the more straightforward purchasing decisions on this list. It's an attachment, not a standalone tool. You fit it to the blower you already own, walk to the end of your gutters, and blow debris out without climbing anything.
+[WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit](product:worx-wa4094-gutter-kit) runs around $30 to $35 at the time of writing, which makes it one of the more straightforward purchasing decisions on this list. It's an attachment, not a standalone tool. You fit it to the blower you already own, walk to the end of your gutters, and blow debris out without climbing anything.
 
 The 11-inch curved tubes are the functional piece here. They redirect airflow upward and into the gutter channel, and the universal adapter fits most major brands: WORX, BLACK+DECKER, Toro, Greenworks, Ryobi, and others. If you've been using a brand-specific kit and wondering why a competitor's attachment doesn't fit your blower, this is what solves that.
 
@@ -86,7 +86,7 @@ One real limitation: low-powered blowers struggle with compacted wet leaf debris
 
 **Best for: High-volume corded cleanup with vacuum and mulch capability**
 
-The [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) currently runs around $80 to $100. For a corded blower-vac with a metal impeller and 250 MPH airspeed, that's a fair price. The metal impeller is the detail that separates this from the budget-tier plastic-impeller machines, and it matters: metal handles the sticks, acorns, and wet clumps that crack plastic impellers on cheaper units.
+The [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) currently runs around $80 to $100. For a corded blower-vac with a metal impeller and 250 MPH airspeed, that's a fair price. The metal impeller is the detail that separates this from the budget-tier plastic-impeller machines, and it matters: metal handles the sticks, acorns, and wet clumps that crack plastic impellers on cheaper units.
 
 ![Gutter Cleaner Leaf Blower](/images/articles/lawn-care-2.jpg)
 
@@ -116,7 +116,7 @@ Comparable to the Husqvarna 125BVx in the corded blower-vac category, which I ra
 
 **Best for: First-time cordless buyers who want battery included**
 
-The [Greenworks 40V 185 CFM Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) comes in around $130 to $160 with the 4.0Ah battery and charger included, depending on where you catch it. That matters, because "battery included" at this price point is not guaranteed, and buying a battery separately on competing platforms can add $60 to $90 to the total.
+The [Greenworks 40V 185 CFM Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac) comes in around $130 to $160 with the 4.0Ah battery and charger included, depending on where you catch it. That matters, because "battery included" at this price point is not guaranteed, and buying a battery separately on competing platforms can add $60 to $90 to the total.
 
 The brushless motor is the notable spec here. At this price, most cordless blower-vacs run brushed motors, which wear faster and draw more battery per hour of use. Brushless extends both run time per charge and the long-term life of the motor. For a first cordless purchase, that's a meaningful difference.
 
@@ -144,7 +144,7 @@ One platform note worth making clearly: the 40V battery does not cross-compatibl
 
 **Best for: Large properties where handheld fatigue becomes a real problem**
 
-The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) is the premium choice on this list. Tool-only (without the 56V battery) runs around $250 to $280. With a compatible EGO battery, you're looking at $380 to $420 depending on battery capacity. If you're already in the EGO 56V ecosystem, the tool-only price is the relevant number.
+The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower) is the premium choice on this list. Tool-only (without the 56V battery) runs around $250 to $280. With a compatible EGO battery, you're looking at $380 to $420 depending on battery capacity. If you're already in the EGO 56V ecosystem, the tool-only price is the relevant number.
 
 The 600 CFM output is what this tool is built around. That matches mid-range commercial gas backpack blowers, which is meaningful for anyone moving from a gas machine and skeptical that cordless can keep pace. For large-scale leaf clearing on half an acre or more, 600 CFM moves material efficiently enough to matter.
 
@@ -175,7 +175,7 @@ For large-property readers considering the DR Power leaf vacuum line, I'd point 
 
 **Best for: Large-property leaf collection behind a riding mower**
 
-The [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20) runs around $220 to $260 and occupies a different category from every other product on this list. It doesn't blow. It sweeps, using contact brushes that rotate as the unit rolls, collecting leaves, grass clippings, and pine needles into a 28 cubic foot hopper. At 44 inches wide, it covers an acre's worth of leaf fall in far fewer passes than a handheld blower.
+The [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](product:agri-fab-45-0492-tow-behind-sweeper) runs around $220 to $260 and occupies a different category from every other product on this list. It doesn't blow. It sweeps, using contact brushes that rotate as the unit rolls, collecting leaves, grass clippings, and pine needles into a 28 cubic foot hopper. At 44 inches wide, it covers an acre's worth of leaf fall in far fewer passes than a handheld blower.
 
 The important clarification: this is a sweeper, not a vacuum. It relies on mechanical brush contact rather than suction. Compacted wet leaves that are pressed flat against the ground will resist the brushes more than dry leaves will. If you're working in consistently wet autumn conditions, this tool performs better earlier in the day when surface dew has dried off.
 

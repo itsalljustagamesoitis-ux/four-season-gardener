@@ -38,7 +38,7 @@ The honest answer on ultrasonic repellers specifically: the research behind them
 
 ### Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
 
-[Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20)
+[Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler)
 
 This is the product I recommend first to anyone with a defined garden bed they need to protect. The Yard Enforcer is a motion-activated sprinkler that connects to a standard garden hose and delivers a sharp burst of water when anything warm-blooded moves through its detection zone. It covers a 120-degree arc out to about 40 feet, which is enough to cover most ornamental beds without repositioning.
 
@@ -71,7 +71,7 @@ This pairs extremely well with the liquid repellent below. The sprinkler handles
 
 ### Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon
 
-[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20)
+[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
 The smell is bad. I want to get that out of the way before anything else. Liquid Fence works primarily on a sulfur and putrefied egg base, and for about an hour after application, your garden will smell like something died near a boiled egg factory. Once it dries, the odor fades to something humans can't detect at normal distances, but deer and rabbits remain fully aware of it. That's the point.
 

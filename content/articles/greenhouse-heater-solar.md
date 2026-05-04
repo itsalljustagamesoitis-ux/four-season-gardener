@@ -40,7 +40,7 @@ A solar greenhouse heater combines a photovoltaic panel with a small resistance 
 
 That last sentence is the one that matters. These are not storage systems. They do not accumulate heat during the day and release it at night. If your concern is protecting plants from a hard overnight frost, a standalone solar heater in this price category is not your answer. What it can do is take the edge off during daylight hours, reduce temperature swing stress on plants, and supplement passive solar gain in a well-insulated small enclosure.
 
-The two products I've been looking at sit at opposite ends of the budget tier. The [Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection](https://www.amazon.com/dp/B0G1BDKSRQ?tag=fourseasong-20) is a bare-bones unit aimed at coops and cold frames. The [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](https://www.amazon.com/dp/B0GQS2QF15?tag=fourseasong-20) steps up to a monocrystalline panel and slightly better output. Neither is a full-greenhouse solution.
+The two products I've been looking at sit at opposite ends of the budget tier. The [Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection](product:solar-coop-heater-b0g1) is a bare-bones unit aimed at coops and cold frames. The [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](product:pomya-30w-solar-heater-b0gq) steps up to a monocrystalline panel and slightly better output. Neither is a full-greenhouse solution.
 
 ![Greenhouse Heater Solar](/images/articles/structures-2.jpg)
 
@@ -108,9 +108,9 @@ For context on what real structure heating involves at a larger scale, the consi
 
 ## My Actual Recommendation
 
-If you have a cold frame or small coop and you want a low-intervention way to add daytime heat without running an extension cord, the [Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection](https://www.amazon.com/dp/B0G1BDKSRQ?tag=fourseasong-20) does what it says at a price that's easy to justify. The overheating protection makes it safe for unattended use, which is not nothing.
+If you have a cold frame or small coop and you want a low-intervention way to add daytime heat without running an extension cord, the [Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection](product:solar-coop-heater-b0g1) does what it says at a price that's easy to justify. The overheating protection makes it safe for unattended use, which is not nothing.
 
-If you want meaningfully better panel performance and slightly more output headroom, spend the extra $20 to $30 and get the [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](https://www.amazon.com/dp/B0GQS2QF15?tag=fourseasong-20). The monocrystalline panel earns that price difference on days that aren't perfectly sunny, which is most days from November through March.
+If you want meaningfully better panel performance and slightly more output headroom, spend the extra $20 to $30 and get the [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](product:pomya-30w-solar-heater-b0gq). The monocrystalline panel earns that price difference on days that aren't perfectly sunny, which is most days from November through March.
 
 Neither product is the answer if you're protecting a full-sized growing space through a hard winter. For that, you need grid power, propane, or a battery system at a price point roughly ten times what either of these costs. The budget solar heater market is not hiding a secret solution to that problem. What it is hiding is a genuinely useful tool for a specific and smaller application, and if that's your situation, these are the best options at this price level.
 

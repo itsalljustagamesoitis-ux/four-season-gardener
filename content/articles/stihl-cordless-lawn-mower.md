@@ -25,7 +25,7 @@ noindex: false
 
 The article brief calls this a "Stihl cordless lawn mower" review, which requires a quick clarification before anything else: Stihl does not currently sell a dedicated cordless push or self-propelled lawn mower in the U.S. market. They make battery-powered handheld and backpack tools, and their cordless line has expanded considerably in recent years, but a Stihl battery lawn mower is not available through U.S. dealers or online retail at the time of writing. If you've been searching that phrase and landing on confusing results, that's why.
 
-What this review covers instead is the strongest cordless mower currently available in the same battery-ecosystem conversation: the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20). If you're already invested in cordless outdoor tools and want to understand where a battery mower fits into a broader equipment strategy, this is the right place to start. The broader context for that conversation lives in our [Battery & Cordless Tools](/battery-equipment/) hub, which covers the full range of cordless equipment we've tested.
+What this review covers instead is the strongest cordless mower currently available in the same battery-ecosystem conversation: the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower). If you're already invested in cordless outdoor tools and want to understand where a battery mower fits into a broader equipment strategy, this is the right place to start. The broader context for that conversation lives in our [Battery & Cordless Tools](/battery-equipment/) hub, which covers the full range of cordless equipment we've tested.
 
 ## Quick Verdict
 
@@ -106,7 +106,7 @@ It's also the honest response to anyone searching for a Stihl cordless mower: St
 
 ## Who It's For
 
-If you're maintaining up to an acre of reasonably flat to moderately sloped lawn, the [EGO POWER+ LM2135SP](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) handles the job without compromise. At an acre and above, you're thinking about a second battery or a longer mowing window, which is a real constraint.
+If you're maintaining up to an acre of reasonably flat to moderately sloped lawn, the [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) handles the job without compromise. At an acre and above, you're thinking about a second battery or a longer mowing window, which is a real constraint.
 
 ![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-2.jpg)
 

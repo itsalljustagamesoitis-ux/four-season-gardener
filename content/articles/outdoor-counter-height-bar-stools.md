@@ -18,6 +18,20 @@ products:
       - "Same weatherproof HDPE as full furniture line , no rust, no rot, no paint"
     article_specific_cons:
       - "No swivel function on standard model"
+  - id: "giantex-tall-adirondack-set-of-2"
+    role: "also_consider"
+    article_specific_pros:
+      - "Amazon's Choice at explicit 30-inch counter height with 360 lb weight rating"
+      - "HDPE construction with armrests and footrest , practical features often missing on budget stools"
+    article_specific_cons:
+      - "Pricier than comparable HDPE stools at ~$255 per set of two"
+  - id: "serwall-tall-adirondack-set-of-2"
+    role: "also_consider"
+    article_specific_pros:
+      - "Best value at ~$154 for a set of two bar-height HDPE stools"
+      - "Wide ladder-back frame provides comfortable support for longer outdoor sessions"
+    article_specific_cons:
+      - "Budget price reflects a slightly less refined finish than POLYWOOD or Giantex"
   - id: "keter-pacific-cool-bar"
     role: "also_consider"
     article_specific_pros:
@@ -25,20 +39,6 @@ products:
       - "Doubles as a side table when cooler lid is closed , no wasted footprint"
     article_specific_cons:
       - "Resin aesthetic is clearly synthetic , not a premium look for formal garden settings"
-  - id: "polywood-nautical-dining-set"
-    role: "also_consider"
-    article_specific_pros:
-      - "All-weather HDPE , won't rot, splinter, or require seasonal storage"
-      - "Seats 6; 73-inch table works for large family gatherings"
-    article_specific_cons:
-      - "Very heavy set; not designed to move frequently"
-  - id: "anderson-teak-gl101-glider-bench"
-    role: "also_consider"
-    article_specific_pros:
-      - "Solid Grade A teak construction with stainless steel hardware that won't rust or stain"
-      - "Smooth gliding motion on precision bearings , more relaxing than a static bench"
-    article_specific_cons:
-      - "Premium price ($2,000+) , this is a long-term investment piece, not an impulse buy"
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
@@ -54,7 +54,7 @@ The honest answer is that most people buying outdoor counter height bar stools a
 
 ### POLYWOOD Nautical Bar Chair, White
 
-[POLYWOOD Nautical Bar Chair, White](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20)
+[POLYWOOD Nautical Bar Chair, White](product:polywood-nautical-bar-stool)
 
 POLYWOOD's HDPE furniture has been the sensible answer to outdoor seating longevity for long enough that recommending it feels almost automatic. The Nautical Bar Chair sits at 30 inches, which is the correct height for standard outdoor bar tables and most kitchen-counter-height surfaces. It's made from the same high-density polyethylene lumber as the rest of POLYWOOD's line, which means no rust, no rot, no annual painting, and no particular reason to bring it inside over winter.
 
@@ -82,7 +82,7 @@ There's no swivel on the standard Nautical Bar Chair. For some people that's fin
 
 ### Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown
 
-[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20)
+[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](product:keter-pacific-cool-bar)
 
 This is not a bar stool. It needs to be said upfront: the Keter Pacific is a side bar table with an integrated 7.5-gallon ice cooler, not seating. I'm including it here because it's the kind of product that solves a real problem in the outdoor bar setup context, and the vast majority of people buying outdoor counter height bar stools are building out a seating area that needs exactly this kind of accessory.
 
@@ -110,7 +110,7 @@ The 7.5-gallon capacity requires a meaningful amount of ice to hold temperature 
 
 ### POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak
 
-[POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20)
+[POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak](product:polywood-nautical-dining-set)
 
 This is a dining set, not a bar stool, and it's the premium end of the POLYWOOD line. I'm including it because if you're reading a roundup on outdoor seating and your actual question is "what's the best long-term investment for outdoor dining," this is the more honest recommendation than buying individual bar stools you'll replace in five years.
 
@@ -133,7 +133,7 @@ The practical limitation is weight. This is not a set you move around seasonally
 
 ### Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench
 
-[Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20)
+[Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench)
 
 The Balboa is the one genuinely different product in this roundup. It's not a bar stool, not a dining set, and not casual patio furniture. It's a two-seat glider bench built from Grade A solid teak with stainless steel hardware, and it sits in a different category entirely: the kind of garden piece you buy once and expect to outlast the patio it sits on.
 

@@ -68,24 +68,24 @@ HDPE requires nothing except occasional washing with soapy water.
 
 ## Top Picks
 
-### Best Entry Real Wood: [Amazonia Geneve 5-Piece Patio Rectangular Teak Dining Table Set](https://www.amazon.com/dp/B007MJKUA2?tag=fourseasong-20)
+### Best Entry Real Wood: [Amazonia Geneve 5-Piece Patio Rectangular Teak Dining Table Set](product:amazonia-geneve-teak-dining-set-5pc)
 This is my straightforward recommendation for buyers who want genuine teak and want to know what they're actually getting. The Amazonia Geneve carries FSC certification, which is not common in this category at any price. Amazonia has been sourcing and selling teak furniture long enough to have a verifiable reputation, which matters when you're spending close to $1,847.
 The set is a rectangular table with four armchairs. Seats four comfortably. The table design is clean without being generic, and the construction is solid Grade A teak. It's rated 4.7 stars on Amazon, which is the highest average rating of any 4-person teak dining set I could find at time of writing, though I'll note the sample is around 55 reviews, smaller than mass-market alternatives. Still, 4.7 from 55 buyers who paid premium prices for a premium product is a more useful signal than 4.3 from 2,000 buyers who had variable expectations.
 At around $1,847, it's not cheap. But a comparable set from a luxury outdoor furniture retailer starts at $3,500 and doesn't necessarily come with better sourcing documentation. If you're in the market for real teak and you want to spend your research time on something other than verifying whether the wood is what the listing claims, this is where I'd start.
 One honest caveat: at this price, don't plan on including seat pads from the purchase. Budget an extra $150-$300 for quality Sunbrella fabric cushions separately.
 
-### Best Long-Term Value: [POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20)
+### Best Long-Term Value: [POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak](product:polywood-nautical-dining-set)
 I'll say the counterintuitive thing first: this is not a teak dining set. It's a teak-colored HDPE set, made from recycled plastic lumber, with a finish that mimics the look of teak well enough that guests don't usually ask. If that's a disqualifier for you, skip to the Amazonia above.
 If it isn't, here's the case for it. Real teak dining sets run $3,000-$8,000 for quality options. They require annual oiling. They need to come in or get covered in hard winters. The POLYWOOD set costs less, requires nothing except a garden hose, and comes with a 20-year warranty on the structural components. POLYWOOD has manufactured HDPE furniture long enough that their warranty claims are backed by an actual track record, not just marketing language.
 The POLYWOOD Nautical Trestle is technically a 7-piece set, which means it seats 6, not 4. The table is 73 inches. If you have a large deck and occasionally host more than four people, that's an advantage. If you have a smaller space and genuinely only need seating for four, it may be oversized. The set is also very heavy, as HDPE furniture tends to be. Once it's placed, plan on it staying there.
 For a buyer doing a real cost-of-ownership comparison between this and genuine teak, the math usually favors POLYWOOD over a ten-year horizon, especially if you factor in the time cost of seasonal maintenance.
 
-### Best Mid-Price Real Wood: [Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20)
+### Best Mid-Price Real Wood: [Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](product:christopher-knight-acacia-dining-table)
 This is a table only, not a set, which means you pair it with chairs separately. That's either a limitation or a feature depending on how particular you are about chair style. The table itself is solid acacia, which is a legitimate hardwood with decent weather resistance. It's denser than eucalyptus, harder than pine, and cheaper than teak. It will gray and crack if you don't oil it once or twice a year, but at this price point, that's the expected trade-off.
 The design is clean and straight-lined, which means it pairs with almost any outdoor chair style. If you're building a set around it, mixing in four [teak Adirondack chairs](/teak-adirondack-chair/) would give you the natural wood aesthetic of teak without paying for a full teak dining set.
 A few reviewers have noted some tolerance inconsistencies in the assembly fit, which is worth knowing going in. Not a deal-breaker, but bring patience to the assembly.
 
-### Best Round Table Option: [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](https://www.amazon.com/dp/B0GSFQ3K49?tag=fourseasong-20)
+### Best Round Table Option: [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-casual-sierra-teak-dining-set)
 The Cambridge Casual Sierra is a genuine natural teak round table set, seats four, and comes with an umbrella hole and four armchairs with seat pads included. The round format is better for smaller decks or patios where you don't want a rectangular table's corners claiming space.
 The included seat pads are a nice touch, though I'd expect to replace them within a few seasons depending on how much direct sun they get. Teak requires occasional oiling to maintain color, which is true of any natural teak at this grade.
 This is a newer listing with fewer reviews than the Amazonia Geneve, so there's less data to work with. Based on product specifications and Cambridge Casual's general track record, it's a credible option for buyers who specifically want the round configuration.

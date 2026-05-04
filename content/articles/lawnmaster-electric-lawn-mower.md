@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-The search for a reliable cordless mower that actually delivers on runtime is long enough that most people give up and keep buying gas. I did not want to do that. After three seasons of maintaining roughly two acres of mown lawn on my 12-acre property, including slopes, a section of dense clover, and ground that stays soft well into May, I spent the better part of last summer putting the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) through its paces. What follows is a direct account of how it performed, what it costs, and whether I think it's worth your money.
+The search for a reliable cordless mower that actually delivers on runtime is long enough that most people give up and keep buying gas. I did not want to do that. After three seasons of maintaining roughly two acres of mown lawn on my 12-acre property, including slopes, a section of dense clover, and ground that stays soft well into May, I spent the better part of last summer putting the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) through its paces. What follows is a direct account of how it performed, what it costs, and whether I think it's worth your money.
 
 If you're already browsing our [Battery & Cordless Tools](/battery-equipment/) section, you know the space has matured considerably. This isn't 2016 battery tech. The EGO platform in particular has been closing the gap on gas for a while, and the LM2135SP is currently the top of that line.
 
 ## Quick Verdict
 
-The [EGO POWER+ LM2135SP](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) is the best battery-powered self-propelled mower I've tested. It's not perfect, and the price requires some attention, but if you're mowing a half-acre to two acres and you want to stop dealing with gas, oil changes, carb problems, and fuel storage, this is a well-built machine that earns its cost. The self-propel system alone is worth a significant portion of the premium over push models.
+The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best battery-powered self-propelled mower I've tested. It's not perfect, and the price requires some attention, but if you're mowing a half-acre to two acres and you want to stop dealing with gas, oil changes, carb problems, and fuel storage, this is a well-built machine that earns its cost. The self-propel system alone is worth a significant portion of the premium over push models.
 
 Buy it. With the caveats in the pricing section below.
 

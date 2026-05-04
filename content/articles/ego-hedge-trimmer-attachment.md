@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The [EGO POWER+ HTA2000 20" Hedge Trimmer Attachment](https://www.amazon.com/dp/B08LZBQLVT?tag=fourseasong-20) is not a standalone tool. That's the first thing to say, and it's the thing most people skip over before buying. It's an attachment for the EGO Multi-Head Power System, which means you need the PH1400E power head to run it. If you already own one, this attachment is a reasonable buy at around $100 to $120. If you don't own the power head, you're looking at a combined investment closer to $280 to $320 depending on current pricing and where you buy. That changes the math considerably, and any review that doesn't say so upfront is wasting your time.
+The [EGO POWER+ HTA2000 20" Hedge Trimmer Attachment](product:ego-hta2000-hedge-trimmer-attachment) is not a standalone tool. That's the first thing to say, and it's the thing most people skip over before buying. It's an attachment for the EGO Multi-Head Power System, which means you need the PH1400E power head to run it. If you already own one, this attachment is a reasonable buy at around $100 to $120. If you don't own the power head, you're looking at a combined investment closer to $280 to $320 depending on current pricing and where you buy. That changes the math considerably, and any review that doesn't say so upfront is wasting your time.
 
 With that context established: if you run a larger property, keep an eye on the [Battery & Cordless Tools](/battery-equipment/) section of this site, because the EGO multi-head platform has been expanding steadily and it's worth understanding as a system rather than evaluating any single attachment in isolation.
 
@@ -116,7 +116,7 @@ One practical note on property scale: if you're managing under 50 feet of formal
 
 ### Do I need to buy the power head separately, or does the HTA2000 come with one?
 
-Separately. The [EGO POWER+ HTA2000](https://www.amazon.com/dp/B08LZBQLVT?tag=fourseasong-20) is an attachment only. You need the EGO PH1400E Multi-Head Power System power head to run it, and that is sold as a separate purchase. The power head itself runs around $160 to $200, which puts the combined entry cost at approximately $280 to $320 before any battery costs if you don't already own one.
+Separately. The [EGO POWER+ HTA2000](product:ego-hta2000-hedge-trimmer-attachment) is an attachment only. You need the EGO PH1400E Multi-Head Power System power head to run it, and that is sold as a separate purchase. The power head itself runs around $160 to $200, which puts the combined entry cost at approximately $280 to $320 before any battery costs if you don't already own one.
 
 ### Which EGO batteries are compatible with the HTA2000 system?
 
@@ -147,7 +147,7 @@ No. The HTA2000 is designed specifically for the PH1400E. EGO made changes to th
       "name": "Do I need to buy the power head separately, or does the HTA2000 come with one?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Separately. The [EGO POWER+ HTA2000](https://www.amazon.com/dp/B08LZBQLVT?tag=fourseasong-20) is an attachment only. You need the EGO PH1400E Multi-Head Power System power head to run it, and that is sold as a separate purchase. The power head itself runs around $160 to $200, which puts the combined entry cost at approximately $280 to $320 before any battery costs if you don't already own one."
+        "text": "Separately. The [EGO POWER+ HTA2000](product:ego-hta2000-hedge-trimmer-attachment) is an attachment only. You need the EGO PH1400E Multi-Head Power System power head to run it, and that is sold as a separate purchase. The power head itself runs around $160 to $200, which puts the combined entry cost at approximately $280 to $320 before any battery costs if you don't already own one."
       }
     },
     {

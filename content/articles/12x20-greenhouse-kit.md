@@ -61,7 +61,7 @@ My actual recommendation is at the top of this article, with the others ranked b
 
 ### Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit (Best Overall)
 
-The [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20) is the pick if you're serious about year-round or near-year-round growing and you have the space to put it. The 8x16 footprint is close enough to the 12x20 category that most buyers searching that size end up here, and for good reason. It's a real greenhouse, not a season extender with a sliding door.
+The [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse) is the pick if you're serious about year-round or near-year-round growing and you have the space to put it. The 8x16 footprint is close enough to the 12x20 category that most buyers searching that size end up here, and for good reason. It's a real greenhouse, not a season extender with a sliding door.
 
 The core of this kit is the 4mm twin-wall polycarbonate paneling, which matters more than it sounds. Single-wall polycarbonate is essentially a glorified plastic sheet. Twin-wall creates an insulating air gap, which keeps heat in overnight and prevents the sharp temperature swings that stress seedlings and tender plants. The twin-wall panels also diffuse light rather than transmitting it directly, so you don't get scorched leaves near the glazing in July. At this panel thickness, UV filtering sits at 99.9%, which means your plants get the spectrum they need without the wavelengths that cause bleaching and cell damage.
 
@@ -90,7 +90,7 @@ This is the kit I'd buy if I were starting over. The twin-wall paneling and the 
 
 ### Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit (Best for First-Time Greenhouse Owners)
 
-The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](https://www.amazon.com/dp/B00P0REDI8?tag=fourseasong-20) is the most sensible entry point if you've never owned a walk-in greenhouse before and you're not sure how much you'll actually use it. The 6x8 footprint fits in most suburban backyards without requiring planning approval or a serious landscaping project, and it comes with a galvanized steel base frame included, which is rare at this price point and which eliminates one of the common hidden costs of greenhouse ownership.
+The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](product:palram-hybrid-6x8-greenhouse) is the most sensible entry point if you've never owned a walk-in greenhouse before and you're not sure how much you'll actually use it. The 6x8 footprint fits in most suburban backyards without requiring planning approval or a serious landscaping project, and it comes with a galvanized steel base frame included, which is rare at this price point and which eliminates one of the common hidden costs of greenhouse ownership.
 
 The roof panels are twin-wall polycarbonate, which is a meaningful upgrade over the Snap & Grow 6x12 reviewed below. The side panels are single-wall, which is a compromise, but the heat retention that matters most comes from the roof. On cold nights, you'll lose some heat through the sides faster than you would with a fully twin-wall structure, but the difference is manageable with a small supplemental heat source if you're overwintering anything tender.
 
@@ -115,7 +115,7 @@ Two notes on this kit. First, headroom is lower than the larger Essence model, s
 
 ### Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit (Best for Tight Spaces)
 
-The [Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](https://www.amazon.com/dp/B07MJVT2Z9?tag=fourseasong-20) earns its place in this roundup because of the SmartLock connection system, which genuinely changes the assembly experience. Most greenhouse kits of this size involve a bag of hardware, an inadequate wrench, and an afternoon of holding a frame piece in place while someone else locates the right bolt. The snap-together system on this kit eliminates most of that. You still need two people, but you don't need tools for the main frame assembly, and the pieces index together accurately, so you're not fighting alignment.
+The [Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](product:palram-snap-grow-6x12-greenhouse) earns its place in this roundup because of the SmartLock connection system, which genuinely changes the assembly experience. Most greenhouse kits of this size involve a bag of hardware, an inadequate wrench, and an afternoon of holding a frame piece in place while someone else locates the right bolt. The snap-together system on this kit eliminates most of that. You still need two people, but you don't need tools for the main frame assembly, and the pieces index together accurately, so you're not fighting alignment.
 
 The trade-off is the paneling. Single-wall polycarbonate throughout. If you're going to use this greenhouse only from April through October and you're not trying to overwinter anything, that's probably fine. If you want to push the season in both directions, keep a thermometer inside and expect to supplement heat on cold nights. The comparison to the Hybrid 6x8 is worth making directly: the Hybrid has twin-wall roof panels and a smaller footprint, but costs more and has had availability issues. The Snap & Grow is easier to assemble and has a longer internal space (6x12 versus 6x8), but insulates less effectively. Which matters more depends on how you use it.
 
@@ -136,7 +136,7 @@ The included starter kit (a shelf, mounting clips, and some basic hardware) is u
 
 ### Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse (Best for Limited Yard Space)
 
-The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20) is for a specific situation: you want a real greenhouse, you don't have the yard for a freestanding structure, but you have a south- or west-facing exterior wall you can work with.
+The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse) is for a specific situation: you want a real greenhouse, you don't have the yard for a freestanding structure, but you have a south- or west-facing exterior wall you can work with.
 
 ![12X20 Greenhouse Kit](/images/articles/structures-4.jpg)
 
@@ -162,7 +162,7 @@ The constraint here is non-negotiable: you need the right wall. South or west fa
 
 ### Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter (Best Entry Point)
 
-The [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](https://www.amazon.com/dp/B006GX8EOO?tag=fourseasong-20) is not a greenhouse. I want to be clear about that before describing it, because the product photography and some of the listing copy will blur that line. It's a cold frame with an elevated planter base and polycarbonate glazing. You access it by lifting the roof panels. There is no headroom. You cannot walk into it.
+The [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](product:palram-plant-inn-mini-greenhouse) is not a greenhouse. I want to be clear about that before describing it, because the product photography and some of the listing copy will blur that line. It's a cold frame with an elevated planter base and polycarbonate glazing. You access it by lifting the roof panels. There is no headroom. You cannot walk into it.
 
 What it does well is exactly what a cold frame should do: it adds four to six weeks of growing season at each end of summer by trapping heat, blocking frost, and diffusing light without scorching seedlings. The elevated planter base keeps soil off the ground, which means better drainage and no ground-level weed pressure into your growing medium. The polycarbonate panels are single-wall but adequate for this application, since you're not trying to maintain a significant temperature differential overnight, you're just taking the edge off frost and wind.
 

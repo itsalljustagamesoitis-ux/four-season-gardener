@@ -61,7 +61,7 @@ On the heat retention side, this is where construction quality starts to matter.
 
 ### Lean-To vs. Freestanding: The First Decision
 
-If you have a south- or west-facing exterior wall available and your growing space is genuinely constrained, a lean-to configuration is worth serious consideration. The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20) runs around $450 to $500 at time of writing and gives you a functional growing space that borrows both structural support and residual wall heat from the house. In practical terms, a masonry or insulated house wall facing south acts as a thermal battery: it absorbs heat during the day and radiates it back into the greenhouse at night. That effect is modest but real, and it's a feature you don't pay extra for.
+If you have a south- or west-facing exterior wall available and your growing space is genuinely constrained, a lean-to configuration is worth serious consideration. The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse) runs around $450 to $500 at time of writing and gives you a functional growing space that borrows both structural support and residual wall heat from the house. In practical terms, a masonry or insulated house wall facing south acts as a thermal battery: it absorbs heat during the day and radiates it back into the greenhouse at night. That effect is modest but real, and it's a feature you don't pay extra for.
 
 ![Backyard Greenhouse Small](/images/articles/structures-2.jpg)
 
@@ -72,7 +72,7 @@ For most gardeners making a first purchase, the freestanding 6x8 kit is the more
 
 ### The 6x8 Kit Greenhouse
 
-The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](https://www.amazon.com/dp/B00P0REDI8?tag=fourseasong-20) currently sits in the $600 to $700 range from third-party sellers on Amazon (note that Amazon direct fulfillment isn't always available on this listing, so check current seller status before buying). The included galvanized steel base frame is standard in this kit, which matters. Ground-level rust failure is one of the more common ways a greenhouse frame degrades over five or ten years, and a galvanized base extends that lifespan materially. Most competing kits at this price make you source or fabricate your own base.
+The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](product:palram-hybrid-6x8-greenhouse) currently sits in the $600 to $700 range from third-party sellers on Amazon (note that Amazon direct fulfillment isn't always available on this listing, so check current seller status before buying). The included galvanized steel base frame is standard in this kit, which matters. Ground-level rust failure is one of the more common ways a greenhouse frame degrades over five or ten years, and a galvanized base extends that lifespan materially. Most competing kits at this price make you source or fabricate your own base.
 
 The twin-wall polycarbonate roof panels are the other reason this kit earns a recommendation. Compare it against something like the Palram Snap & Grow 6x12, which uses single-wall polycarbonate on the roof, and you'll see a meaningful difference in cold-night heat retention. For a structure without supplemental heat, that construction choice is consequential.
 

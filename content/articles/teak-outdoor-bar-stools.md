@@ -24,7 +24,7 @@ noindex: false
 ---
 
 There is a specific moment most of us have had. You pull a wood chair out of storage, and it looks like it spent the winter at the bottom of a lake. Swollen joints, grey surface, maybe a crack along the arm. That moment is what teak is supposed to prevent, and why Grade A teak specifically commands the prices it does.
-This review covers the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20) from TITAN Great Outdoors, positioned as a premium real-wood option in a market that has largely converted to resin alternatives. If you've been browsing our [Outdoor Furniture](/outdoor-furniture/) guides and wondering whether real teak still makes sense against POLYWOOD and similar products, this is the piece that answers that question directly.
+This review covers the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) from TITAN Great Outdoors, positioned as a premium real-wood option in a market that has largely converted to resin alternatives. If you've been browsing our [Outdoor Furniture](/outdoor-furniture/) guides and wondering whether real teak still makes sense against POLYWOOD and similar products, this is the piece that answers that question directly.
 
 ## Quick Verdict
 Buy this if you want real wood grain, don't want to fuss with annual treatments, and are willing to let the colour shift gracefully over time. Skip it if you want zero maintenance and don't care about the difference between a teak plank and an injection-moulded chair that resembles one from a distance, or when your eyesight has deteriorated! 

@@ -25,27 +25,27 @@ products:
       - "CSA-approved for indoor use; built-in ODS shuts off automatically in low-oxygen situations"
     article_specific_cons:
       - "Runs through 1 lb cylinders quickly at high setting , outdoor tank adapter strongly recommended"
-  - id: "outland-living-403-fire-table"
+  - id: "mr-heater-portable-buddy-b002"
     role: "also_consider"
     article_specific_pros:
-      - "50,000 BTU output heats a 15-foot radius"
-      - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
+      - "9,000 BTU output in a compact body , easy to move to any patio or porch location"
+      - "Low-oxygen shutoff and tip-over safety make it safe for enclosed or semi-enclosed outdoor spaces"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
-  - id: "napoleon-st-tropez-fire-table"
+      - "Small 1-lb canisters run out quickly at high output , an adapter hose for a 20 lb tank is a near-required purchase"
+  - id: "dr-infrared-heater-outdoor-b077"
     role: "also_consider"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
-      - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
+      - "5,300+ ratings and proven category bestseller , one of the most reliable portable electric infrared heaters available"
+      - "Instant infrared heat with no warm-up time , plug in and the heat arrives immediately"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
-  - id: "bond-lara-tabletop-fire-bowl"
+      - "No thermostat on this model , manual on/off only with no automatic temperature cycling"
+  - id: "avenger-tank-top-infrared-b0df"
     role: "also_consider"
     article_specific_pros:
-      - "Tabletop size fits patios, decks, and balconies with no space for a full fire pit"
-      - "Connects to standard 1 lb propane cylinder , no gas line or large tank required"
+      - "Mounts directly on a standard 20 lb propane tank , no separate stand or hose required"
+      - "30,000 BTU infrared output at under $70 , most affordable high-output propane infrared option"
     article_specific_cons:
-      - "Very small flame , ambiance only, no meaningful heat output"
+      - "No thermostat or timer , manual operation only"
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
@@ -59,7 +59,7 @@ My own setup on 12 acres in Litchfield County has gone through several iteration
 
 ### Hiland HLDS01-WGTHG Pyramid Patio Heater
 
-[Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20)
+[Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater)
 
 The Hiland pyramid heater is the statement piece of this category. The flame runs up through a central quartz glass tube, visible from multiple sides, and at night it genuinely looks beautiful. If you've spent any time around the mushroom-style overhead heaters, you know their heat distribution is better but their appearance is somewhere between "gas station forecourt" and "event rental." The Hiland solves that problem at the cost of some practical tradeoffs.
 
@@ -88,7 +88,7 @@ Price is currently around $190 to $220 on Amazon depending on the variant.
 
 ### Mr. Heater MH18B Big Buddy Propane Heater
 
-[Mr. Heater MH18B Big Buddy 18,000 BTU Portable Propane Heater](https://www.amazon.com/dp/B0002WRHE8?tag=fourseasong-20)
+[Mr. Heater MH18B Big Buddy 18,000 BTU Portable Propane Heater](product:mr-heater-big-buddy-mh18b)
 
 The Big Buddy is a different animal from everything else in this roundup. It's not a patio heater in the architectural sense. It's a boxy, orange-and-black radiant heater that looks like it belongs in a garage, because that's exactly what it's designed for.
 
@@ -115,7 +115,7 @@ For an open outdoor patio, the Big Buddy is the wrong tool. Radiant heat warms o
 
 ### Outland Living Series 403 Propane Fire Pit Table
 
-[Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20)
+[Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table)
 
 The Outland Living Series 403 is the mid-range fire table that most people with a standard patio setup should probably buy. Fifty thousand BTU heats a roughly 15-foot radius adequately for most gatherings. The tempered glass tabletop functions as a full outdoor table surface when you put the burner cover on, so the footprint isn't wasted space. The pre-attached regulator hose connects directly to a standard 20 lb propane tank, and the whole setup from unboxing to first flame takes under an hour.
 
@@ -141,7 +141,7 @@ Price runs around $280 to $320 currently.
 
 ### Napoleon St. Tropez Rectangle Patioflame Fire Table
 
-[Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20)
+[Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table)
 
 The Napoleon St. Tropez is the premium option in this roundup, and it justifies that positioning on a few specific points rather than just look and branding.
 
@@ -172,7 +172,7 @@ Pricing on the St. Tropez runs around $500 to $600, placing it well above the Ou
 
 ### Bond Manufacturing Lara TableFire Firebowl
 
-[Bond Manufacturing 50857N Lara TableFire Firebowl](https://www.amazon.com/dp/B071KG5G7C?tag=fourseasong-20)
+[Bond Manufacturing 50857N Lara TableFire Firebowl](product:bond-lara-tabletop-fire-bowl)
 
 I'll be direct about what this is: it's an ambiance product. The Bond Lara produces a small, attractive flame on your tabletop, runs off a standard 1 lb propane cylinder, and generates negligible heat. If you've been searching for a portable patio heater that will warm a cold November evening, this isn't it. If you want a flickering flame centerpiece on an apartment balcony or a compact deck where there's no space for a full fire table, this is a reasonable buy.
 

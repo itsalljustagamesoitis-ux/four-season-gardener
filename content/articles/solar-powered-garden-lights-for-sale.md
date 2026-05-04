@@ -34,7 +34,7 @@ product_b: "litom-30led-solar-spotlight"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you're shopping for solar powered garden lights for sale and you want a straight answer about which product actually fits your situation, this comparison is for you. The market is full of solar motion lights that promise a lot and deliver inconsistently, so I'm going to focus on two products I've spent real time evaluating: the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) and the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20). They're both budget-range options. They're not trying to do the same job. And one of them is probably the right answer for your property.
+If you're shopping for solar powered garden lights for sale and you want a straight answer about which product actually fits your situation, this comparison is for you. The market is full of solar motion lights that promise a lot and deliver inconsistently, so I'm going to focus on two products I've spent real time evaluating: the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) and the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights). They're both budget-range options. They're not trying to do the same job. And one of them is probably the right answer for your property.
 
 For broader context on how these fit into a full outdoor setup, the [Garden Lighting](/lighting/) hub is a useful starting point if you're still mapping out your approach.
 
@@ -85,12 +85,12 @@ For anyone laying out a full garden lighting plan that includes decorative eleme
 
 ## Verdict
 
-Buy the [Mr Beams Solar Wedge Plus](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) if you need one good motion-activated light on a wall and you want installation that's genuinely tool-optional. It's brighter than the competition at this price, the self-contained design removes the cable and separate panel problem, and it does the security light job well. It won't work in a shaded location, and it's not a path light. But if a wall mount facing the sun is what you have, it's hard to beat for simplicity and output.
+Buy the [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) if you need one good motion-activated light on a wall and you want installation that's genuinely tool-optional. It's brighter than the competition at this price, the self-contained design removes the cable and separate panel problem, and it does the security light job well. It won't work in a shaded location, and it's not a path light. But if a wall mount facing the sun is what you have, it's hard to beat for simplicity and output.
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-1.jpg)
 
 
-Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) if you're covering a pathway, a garden border, or any multi-point installation where you need four lights and you want IP67 protection plus mode flexibility. The per-unit cost is lower, the waterproofing is better than most products at this price, and the separate panel stakes give you positioning freedom the Wedge Plus can't match. The non-replaceable battery is a real limitation over a long time horizon, but at this price, the useful life is acceptable.
+Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) if you're covering a pathway, a garden border, or any multi-point installation where you need four lights and you want IP67 protection plus mode flexibility. The per-unit cost is lower, the waterproofing is better than most products at this price, and the separate panel stakes give you positioning freedom the Wedge Plus can't match. The non-replaceable battery is a real limitation over a long time horizon, but at this price, the useful life is acceptable.
 
 If your situation involves multiple locations across a larger property, or you're considering mixing in more decorative elements, the [outdoor LED security lighting](/outdoor-led-security-lighting/) section covers hardwired and higher-lumen options worth looking at alongside these solar picks.
 

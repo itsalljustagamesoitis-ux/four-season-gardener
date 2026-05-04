@@ -61,7 +61,7 @@ My actual recommendation is in the first entry. The rest are worth knowing about
 
 ### Rain Bird GARDENKIT Raised Bed Garden Watering Kit
 
-**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20)**
+**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed)**
 
 Currently around $28 to $32 on Amazon. For what it includes, that's the right price.
 
@@ -87,7 +87,7 @@ If you're pairing this kit with a timer, see the Orbit options below. The two wo
 
 ### DIG GE200 Drip and Micro Sprinkler Kit, 122-Piece
 
-**[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20)**
+**[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit)**
 
 Around $35 to $42 currently. This is the right kit if you're designing a system from scratch rather than following a template.
 
@@ -113,7 +113,7 @@ No timer is included. Pair this with one of the Orbit timers below, or if you're
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-**[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)**
+**[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)**
 
 Currently around $65 to $75, though the Wi-Fi hub is a separate device that adds roughly $20 to $25 if you don't already own one. Read the product page carefully before adding to cart.
 
@@ -139,7 +139,7 @@ For a more detailed look at how battery-operated timers compare, including model
 
 ### Gilmour Flat Weeper Soaker Hose, 50 Ft.
 
-**[Gilmour Flat Weeper Soaker Hose, 50 Ft.](https://www.amazon.com/dp/B001IKVWVW?tag=fourseasong-20)**
+**[Gilmour Flat Weeper Soaker Hose, 50 Ft.](product:gilmour-flat-soaker-hose-50ft)**
 
 Around $18 to $22. This is the simplest irrigation option in this roundup and also the most misunderstood.
 
@@ -162,7 +162,7 @@ A pressure regulator at the tap is worth adding. Without it, higher line pressur
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-**[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)**
+**[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)**
 
 Under $15. No batteries. No app. No pairing sequence. Twist the dial, walk away.
 

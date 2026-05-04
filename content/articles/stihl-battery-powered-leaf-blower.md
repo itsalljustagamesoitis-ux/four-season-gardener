@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The Stihl battery blower conversation usually starts with the same question: is it actually worth leaving gas behind? I ran the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) through a full fall season on twelve acres of mixed hardwood and lawn to find out. The short answer is yes, with conditions.
+The Stihl battery blower conversation usually starts with the same question: is it actually worth leaving gas behind? I ran the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) through a full fall season on twelve acres of mixed hardwood and lawn to find out. The short answer is yes, with conditions.
 
 If you're already thinking about cordless outdoor power more broadly, the [Battery & Cordless Tools](/battery-equipment/) section covers the full category. The blower question rarely exists in isolation, and the battery ecosystem question is the one most people should be asking first.
 

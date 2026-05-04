@@ -29,7 +29,7 @@ For context on gazebo buying decisions more broadly, the [Greenhouses, Sheds & G
 
 ## The Short Answer
 
-If you have a standard 10x12 gazebo and need replacement netting, the [Wonwon Universal Replacement Mosquito Netting](https://www.amazon.com/dp/B09M65F4S4?tag=fourseasong-20) is the product I'd buy. It runs around $45 to $55 on Amazon at the time of writing, it ships as a 4-panel zipper screen system, and it installs without a frame because it's designed to attach to the structure you already have.
+If you have a standard 10x12 gazebo and need replacement netting, the [Wonwon Universal Replacement Mosquito Netting](product:wonwon-gazebo-mosquito-netting) is the product I'd buy. It runs around $45 to $55 on Amazon at the time of writing, it ships as a 4-panel zipper screen system, and it installs without a frame because it's designed to attach to the structure you already have.
 
 That's the answer. The rest of this is for people who want to understand whether it fits their situation before they click.
 

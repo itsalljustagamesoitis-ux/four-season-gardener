@@ -59,13 +59,13 @@ Five products are covered here. Four are genuinely useful. One is right for a ve
 
 ## Top Picks at a Glance
 
-Before the full breakdowns: if you want my short answer, the [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) is the best all-around outdoor composter for most readers. The wheeled version earns a small premium upgrade. The Good Ideas Junior Wizard is the right call if you prefer ground-contact composting. The Envirocycle is for people composting on a deck who want the compost tea function. The Lomi is for apartments. More detail on all five below.
+Before the full breakdowns: if you want my short answer, the [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](product:fcmp-im4000-tumbling-composter) is the best all-around outdoor composter for most readers. The wheeled version earns a small premium upgrade. The Good Ideas Junior Wizard is the right call if you prefer ground-contact composting. The Envirocycle is for people composting on a deck who want the compost tea function. The Lomi is for apartments. More detail on all five below.
 
 ## Individual Product Reviews
 
 ### FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon
 
-[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) currently runs around $105 to $120 on Amazon, which makes it one of the better-value tumblers on the market. It's the most-reviewed tumbling composter available, and the volume of real-world feedback on this unit is part of why I trust it.
+[FCMP Outdoor IM4000 Dual Chamber Tumbling Composter](product:fcmp-im4000-tumbling-composter) currently runs around $105 to $120 on Amazon, which makes it one of the better-value tumblers on the market. It's the most-reviewed tumbling composter available, and the volume of real-world feedback on this unit is part of why I trust it.
 
 The dual-chamber design is the thing that separates this from cheaper single-drum tumblers. You fill one side while the other cures. In practice, this means you're not halting your household's food and yard waste production while you wait for a batch to finish. With reasonable turning frequency and a decent green-to-brown ratio, finished compost in four to six weeks is achievable. An open-bottom bin sitting on soil is looking at six to twelve months for the same result.
 
@@ -90,7 +90,7 @@ At 37 gallons total, this is not a huge composter in the commercial sense. It's 
 
 ### FCMP Outdoor IM4000-WK Tumbling Composter with Wheels, 37 Gallon
 
-The [FCMP Outdoor IM4000-WK Wheeled Composter](https://www.amazon.com/dp/B07YX6BH17?tag=fourseasong-20) is the same dual-chamber 37-gallon unit described above, with two wheels and a handle added to the base frame. It currently lists around $130 to $150, putting it roughly $25 to $30 above the standard IM4000.
+The [FCMP Outdoor IM4000-WK Wheeled Composter](product:fcmp-im4000-wk-wheeled-composter) is the same dual-chamber 37-gallon unit described above, with two wheels and a handle added to the base frame. It currently lists around $130 to $150, putting it roughly $25 to $30 above the standard IM4000.
 
 That price difference is worth it under one specific condition: you need to move the unit. If your compost pile lives at the far end of your property and you're regularly hauling finished compost to raised beds or border plantings, rolling the whole unit to where you need it beats shuttling buckets by hand. For gardeners who find lifting awkward or tiring, this also removes the need to tip or carry the unit at all. You roll it to the bed, open the chamber door, and unload directly.
 
@@ -115,7 +115,7 @@ My advice would be to default to this version if you're buying an IM4000. The mo
 
 ### Good Ideas EZCJR-BLK Junior Wizard Compost Bin, 7 cu. ft., Black
 
-The [Good Ideas Junior Wizard Compost Bin](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20) operates on completely different principles than a tumbler. This is a stationary, ground-level bin. No rotation mechanism, no elevated frame, no batch-processing logic. You add material to the top, the open bottom makes contact with soil, and the composting happens through worm activity and soil microbial colonization.
+The [Good Ideas Junior Wizard Compost Bin](product:good-ideas-junior-wizard-compost-bin) operates on completely different principles than a tumbler. This is a stationary, ground-level bin. No rotation mechanism, no elevated frame, no batch-processing logic. You add material to the top, the open bottom makes contact with soil, and the composting happens through worm activity and soil microbial colonization.
 
 It currently runs around $55 to $70, which makes it the budget option in this group. At 7 cubic feet (approximately 52 gallons, notably larger than the FCMP's 37-gallon capacity), it holds more than it looks like it should. The vented wall panels promote passive airflow, which means aerobic decomposition proceeds without you turning anything. If you've found tumbler composting fussy or time-consuming, this is simpler.
 
@@ -139,7 +139,7 @@ If your [black compost bin](/black-compost-bin/) is showing its age or you've ne
 
 ### Envirocycle Most Beautiful Composter in the World, Black
 
-The [Envirocycle Composter](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20) is not a product I would have chosen for myself, and I say that as someone who finds "Most Beautiful Composter in the World" an aggressively optimistic product name. But it does something none of the other units here do.
+The [Envirocycle Composter](product:envirocycle-composter-black) is not a product I would have chosen for myself, and I say that as someone who finds "Most Beautiful Composter in the World" an aggressively optimistic product name. But it does something none of the other units here do.
 
 ![Huge Compost Bin](/images/articles/composting-8.jpg)
 
@@ -163,7 +163,7 @@ If you have outdoor space measured in square feet rather than acres, this is the
 
 ### Lomi 1 Smart Waste and Food Composter, 3L, White
 
-The [Lomi Electric Composter](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20) does not belong in an outdoor composting roundup. It's in this one because it answers a real question: what do you do if you live in an apartment, have no outdoor space, and still want to do something useful with food scraps?
+The [Lomi Electric Composter](product:lomi-electric-composter) does not belong in an outdoor composting roundup. It's in this one because it answers a real question: what do you do if you live in an apartment, have no outdoor space, and still want to do something useful with food scraps?
 
 Currently around $400 to $500 depending on timing and bundled accessories, with optional LomiPod microbial tablets adding ongoing cost. It sits on a countertop, processes food waste in four to eight hours using heat and gentle aeration, and produces a dry, granular output that smells like soil. (I timed this.) That output is not finished compost. It's a pre-compost material that still needs a few weeks of curing in soil or a container with potting mix before it's stable enough to use directly on plants without risk of burning them. This is the product's most common complaint in reviews, and it's legitimate. The marketing implies finished compost. What you actually get is a meaningful intermediate step.
 

@@ -59,7 +59,7 @@ This roundup focuses specifically on pedestal bird bath options, with honest not
 
 ### Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath
 
-[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20)
+[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)
 
 **Pros.**
 - Classic tiered design means overflow from the top basin catches in the lower ones. Birds use all three levels.
@@ -79,7 +79,7 @@ The strongest argument for this bath is the 35-inch height. Ground-level dishes 
 ![Bird Bath Pedestal](/images/articles/birds-wildlife-4.jpg)
 
 
-What this bath needs to perform at its best is a solar bubbler added to the top basin. The [Smart Solar AquaNura Bubbler Birdbath](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20) (covered separately below) sits neatly into a basin like this one and adds moving water without any wiring. Moving water attracts meaningfully more bird activity than static. I'd estimate three to four times the daily traffic during migration season based on my own observation. (I realize that's not a controlled study, but it's what I've watched from my kitchen window for three years running.)
+What this bath needs to perform at its best is a solar bubbler added to the top basin. The [Smart Solar AquaNura Bubbler Birdbath](product:smart-solar-aquanura-birdbath) (covered separately below) sits neatly into a basin like this one and adds moving water without any wiring. Moving water attracts meaningfully more bird activity than static. I'd estimate three to four times the daily traffic during migration season based on my own observation. (I realize that's not a controlled study, but it's what I've watched from my kitchen window for three years running.)
 
 **Best for.** First pedestal bath, smaller budgets, anyone who wants classic garden aesthetics without a major commitment.
 
@@ -87,7 +87,7 @@ What this bath needs to perform at its best is a solar bubbler added to the top 
 
 ### Smart Solar AquaNura Bubbler Birdbath
 
-[Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20)
+[Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)
 
 **Pros.**
 - Solar-powered pump. No wiring, no operating cost, no extension cord crossing your lawn.
@@ -108,7 +108,7 @@ The sunlight dependency is a genuine limitation, not a minor footnote. A bath po
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder
 
-[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
 ![Bird Bath Pedestal](/images/articles/birds-wildlife-5.jpg)
 
@@ -132,7 +132,7 @@ If you're deciding how to position a feeder relative to a new pedestal bath, kee
 
 ### First Nature 3055 32-oz Hummingbird Feeder
 
-[First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+[First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)
 
 **Pros.**
 - The wide-mouth base unscrews completely for cleaning. This is the design decision that matters most in a hummingbird feeder.
@@ -154,7 +154,7 @@ Hummingbirds visit bath areas too, particularly misters and shallow moving water
 
 ### Nature's Hangout Window Bird Feeder
 
-[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 
 **Pros.**
 - Clear acrylic construction puts birds within inches of the glass. Nothing else in this roundup offers that viewing proximity.

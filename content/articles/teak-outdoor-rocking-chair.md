@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time researching outdoor seating, you already know that "teak" has become a marketing word applied to almost anything with a brown stain. Actual teak, with its natural oils and tight grain, behaves very differently outdoors than pine finished to approximate the look. But there's a third category worth taking seriously: high-quality recycled plastic lumber made to replicate teak's performance without the maintenance obligations. The [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) sits in that third category, and after running it through a full year of hard use, I have a clear opinion about whether it's worth the price.
+If you've spent any time researching outdoor seating, you already know that "teak" has become a marketing word applied to almost anything with a brown stain. Actual teak, with its natural oils and tight grain, behaves very differently outdoors than pine finished to approximate the look. But there's a third category worth taking seriously: high-quality recycled plastic lumber made to replicate teak's performance without the maintenance obligations. The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) sits in that third category, and after running it through a full year of hard use, I have a clear opinion about whether it's worth the price.
 
 This review is part of our broader [Outdoor Furniture](/outdoor-furniture/) coverage, where we focus on pieces that earn their keep over multiple seasons rather than looking good in a catalog photo and deteriorating by year two.
 
 ## Quick Verdict
 
-The [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) in teak color is the right chair for a specific buyer: someone who wants the warm, classic look of teak outdoor furniture, refuses to sand and oil anything on a maintenance schedule, and is prepared to pay for that combination upfront. It's not cheap. It's also not light. But it will be sitting on your porch in the same condition fifteen years from now, which is more than I can say for most of the teak-finished wood chairs I've owned.
+The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) in teak color is the right chair for a specific buyer: someone who wants the warm, classic look of teak outdoor furniture, refuses to sand and oil anything on a maintenance schedule, and is prepared to pay for that combination upfront. It's not cheap. It's also not light. But it will be sitting on your porch in the same condition fifteen years from now, which is more than I can say for most of the teak-finished wood chairs I've owned.
 
 If you're comparing it against actual teak or against competitors like the Trex Outdoor Furniture Rockport Rocker, the POLYWOOD holds up well on longevity and better than most on finish stability. Where it gives ground is weight and price.
 
@@ -118,7 +118,7 @@ If you're building out a coordinated outdoor seating area, the Nautical pairs we
 
 ## Who This Chair Is For
 
-The [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) makes the most sense for people who have resolved, consciously or otherwise, that they are not going to maintain their outdoor furniture. If you've ever bought a real teak piece with good intentions, let a season slip, and watched the finish go gray with the guilt of knowing you caused it, this chair removes that entirely as a concern.
+The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) makes the most sense for people who have resolved, consciously or otherwise, that they are not going to maintain their outdoor furniture. If you've ever bought a real teak piece with good intentions, let a season slip, and watched the finish go gray with the guilt of knowing you caused it, this chair removes that entirely as a concern.
 
 It also makes sense if you're in a climate with hard winters or significant humidity swings, where wood furniture takes the most punishment. Real teak handles this reasonably well with care. POLYWOOD handles it without care. That's the trade you're making at the price differential.
 

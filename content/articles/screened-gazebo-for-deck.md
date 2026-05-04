@@ -11,8 +11,29 @@ hero_image_alt: "Screened Gazebo For Deck"
 description: "Compare screened gazebos for decks that withstand weather and seasons. Find durable structures from pop-ups to permanent hardtops with real protection."
 target_keyword: "screened gazebo for deck"
 products:
-  - id: "palram-martinique-10x12-gazebo"
+  - id: "domi-12x14-hardtop-gazebo"
     role: "best_overall"
+    article_specific_pros:
+      - "Full curtains and netting included — genuine screen enclosure for insect and privacy protection"
+      - "Amazon's Choice with strong 4.5-star reviews at a mid-range price point"
+    article_specific_cons:
+      - "Less premium build quality than higher-end aluminum-frame alternatives"
+  - id: "mellcom-12x14-hardtop-gazebo"
+    role: "also_consider"
+    article_specific_pros:
+      - "Galvanized steel hardtop handles real weather loads without sagging like fabric canopy alternatives"
+      - "12x14 footprint provides generous deck coverage for dining and lounge configurations"
+    article_specific_cons:
+      - "Heavier than aluminum-frame models , two-person assembly strongly recommended"
+  - id: "wonwon-gazebo-mosquito-netting"
+    role: "also_consider"
+    article_specific_pros:
+      - "Universal fit works with most standard hardtop gazebo frames without modification"
+      - "Full perimeter netting coverage keeps insects out while maintaining an open outdoor feel"
+    article_specific_cons:
+      - "Netting alone does not add structural weather protection , pairs with a hardtop, not a replacement for one"
+  - id: "palram-martinique-10x12-gazebo"
+    role: "also_consider"
     article_specific_pros:
       - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
@@ -25,27 +46,6 @@ products:
       - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
-  - id: "palram-lean-to-greenhouse"
-    role: "also_consider"
-    article_specific_pros:
-      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
-      - "Adjustable roof vent provides passive ventilation without electricity"
-    article_specific_cons:
-      - "Requires a south- or west-facing wall for adequate light"
-  - id: "arrow-select-10x8-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "80 sq ft of storage handles a full complement of lawn and garden equipment"
-      - "Padlockable doors; reinforced corners resist wind racking"
-    article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
-  - id: "suncast-sutton-7x7-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "Resin construction never needs painting, staining, or rot treatment"
-      - "Double-wall panel construction is more rigid than thin single-wall resin sheds"
-    article_specific_cons:
-      - "Floor not included , requires a prepared level base or deck frame"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -63,7 +63,7 @@ The five products below cover different use cases and price points. One is my cl
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof
 
-**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)**
+**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)**
 
 Currently around $1,400 to $1,600 on Amazon, at the time of writing.
 
@@ -95,7 +95,7 @@ For permanent outdoor living with a quality roof overhead, there's nothing in th
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-**[Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)**
+**[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)**
 
 Currently around $1,200 to $1,400, at the time of writing.
 
@@ -124,7 +124,7 @@ For readers interested in other wood structure options, the [cedar pergola kit](
 
 ### Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse
 
-**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20)**
+**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse)**
 
 Currently around $500 to $600, at the time of writing.
 
@@ -149,7 +149,7 @@ For anyone seriously considering adding a greenhouse structure, the [cedar green
 
 ### Arrow Select 10' x 8' Steel Storage Shed, Charcoal
 
-**[Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20)**
+**[Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed)**
 
 Currently around $500 to $650, at the time of writing.
 
@@ -176,7 +176,7 @@ Condensation is the legitimate concern with steel sheds in humid climates. If su
 
 ### Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed
 
-**[Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](https://www.amazon.com/dp/B00NP34O56?tag=fourseasong-20)**
+**[Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed)**
 
 Currently around $600 to $700, at the time of writing.
 

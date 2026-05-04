@@ -61,7 +61,7 @@ A note before the picks: three of the five products below are bird feeders, not 
 
 ### Smart Solar AquaNura Bubbler Birdbath
 
-**[Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20)**
+**[Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)**
 
 Price: currently around $35,$45 on Amazon.
 
@@ -86,7 +86,7 @@ Stops functioning without direct sun. The 9-inch diameter is genuinely small. If
 
 ### Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath
 
-**[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20)**
+**[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)**
 
 Price: currently around $45,$55 on Amazon.
 
@@ -108,7 +108,7 @@ No pump. Static water is less effective at attracting birds. Resin fades with pr
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder
 
-**[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)**
+**[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)**
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-1.jpg)
 
@@ -133,7 +133,7 @@ Lifetime guarantee. UV-stable tube won't yellow or crack. One-handed lid is a ge
 
 ### First Nature 3055 32-oz Hummingbird Feeder
 
-**[First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)**
+**[First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)**
 
 Price: currently around $10,$14 on Amazon.
 
@@ -160,7 +160,7 @@ Needs cleaning every 3,5 days in summer heat. Plastic construction, not attracti
 
 ### Nature's Hangout Window Bird Feeder
 
-**[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)**
+**[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)**
 
 Price: currently around $30,$38 on Amazon.
 

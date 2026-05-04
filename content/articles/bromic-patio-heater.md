@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-Most patio heaters disappear into the background. They're functional, forgettable, and about as interesting to look at as a parking lot lamppost. The [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) is not that. It makes a case for itself on looks before it even ignites, and then the flame column comes on and your guests stop talking for a second. That's a real thing that happens.
+Most patio heaters disappear into the background. They're functional, forgettable, and about as interesting to look at as a parking lot lamppost. The [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is not that. It makes a case for itself on looks before it even ignites, and then the flame column comes on and your guests stop talking for a second. That's a real thing that happens.
 
 I've tested a fair number of heaters for our [Fire Pits & Patio Heaters](/fire-and-heat/) coverage, and this one sits in a specific category that deserves honest treatment: beautiful, genuinely functional, but with tradeoffs that matter depending on how you use your outdoor space. Let me be direct about what this heater does well, what it doesn't, and whether it belongs on your patio.
 
 ## Quick Verdict
 
-The [Hiland HLDS01-WGTHG](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) is a statement piece that also works. At around $180 to $210 depending on timing and retailer, it's priced reasonably for what you get. The pyramid flame column is genuinely beautiful at night, the built-in wheels make repositioning a one-person job, and CSA certification means you're not rolling the dice on safety. The quartz glass tube is fragile, and if you have a regular dinner-party crowd seated around a table expecting even heat distribution, a mushroom-style overhead heater will serve them better. But if the question is which heater will make your back patio look like something worth sitting on, the Hiland wins that argument with ease.
+The [Hiland HLDS01-WGTHG](product:hiland-wgthg-patio-heater) is a statement piece that also works. At around $180 to $210 depending on timing and retailer, it's priced reasonably for what you get. The pyramid flame column is genuinely beautiful at night, the built-in wheels make repositioning a one-person job, and CSA certification means you're not rolling the dice on safety. The quartz glass tube is fragile, and if you have a regular dinner-party crowd seated around a table expecting even heat distribution, a mushroom-style overhead heater will serve them better. But if the question is which heater will make your back patio look like something worth sitting on, the Hiland wins that argument with ease.
 
 **Bottom line.** Buy it for the visual impact and the ambiance. Accept that it throws heat in a column pattern. Budget roughly $40 to $60 for a replacement glass tube, because at some point you'll want a spare.
 
@@ -112,7 +112,7 @@ For properties with mixed-use zones, there's a case for running both. I have a f
 
 ## Where to Buy
 
-The [Hiland HLDS01-WGTHG Pyramid Patio Heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) is available on Amazon, currently priced around $180 to $210 at the time of writing. Prices move with season, so if you're reading this in September, you'll likely pay less than if you're reading it in October after the first cold snap reminds everyone they own a patio.
+The [Hiland HLDS01-WGTHG Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is available on Amazon, currently priced around $180 to $210 at the time of writing. Prices move with season, so if you're reading this in September, you'll likely pay less than if you're reading it in October after the first cold snap reminds everyone they own a patio.
 
 For anyone building out a full outdoor heat and fire setup, the broader [outdoor fire and heat](/fire-and-heat/) section covers the product categories worth comparing before committing to a single solution.
 

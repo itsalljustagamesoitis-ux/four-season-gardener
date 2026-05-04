@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've been searching for a Stihl battery powered edger and hitting a wall on Amazon, you're encountering a real distribution limitation, not a gap in the product category. Stihl sells its cordless lineup, including the excellent HSA and FSA series tools, exclusively through its dealer network. You won't find them fulfilled by Amazon. That matters if you rely on Prime shipping, want a straightforward return window, or simply aren't near a Stihl dealer. For a full breakdown of what Stihl's cordless edger line actually offers, the [Stihl Battery Edger](/stihl-battery-edger/) page covers the dealer-channel specs in detail. But if you're shopping online and want something that competes directly in terms of cut quality and battery flexibility, the [EGO Power+ ME0801 Multi Combo Kit](https://www.amazon.com/dp/B07BQJP381?tag=fourseasong-20) is where I'd point you first.
+If you've been searching for a Stihl battery powered edger and hitting a wall on Amazon, you're encountering a real distribution limitation, not a gap in the product category. Stihl sells its cordless lineup, including the excellent HSA and FSA series tools, exclusively through its dealer network. You won't find them fulfilled by Amazon. That matters if you rely on Prime shipping, want a straightforward return window, or simply aren't near a Stihl dealer. For a full breakdown of what Stihl's cordless edger line actually offers, the [Stihl Battery Edger](/stihl-battery-edger/) page covers the dealer-channel specs in detail. But if you're shopping online and want something that competes directly in terms of cut quality and battery flexibility, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is where I'd point you first.
 
 EGO has built one of the more coherent battery ecosystems in the outdoor power category, and this edger combo is a reasonable entry point into it. One 56V arc-lithium battery. One power head. Multiple attachments. That's the pitch, and it mostly holds up.
 
@@ -31,7 +31,7 @@ If you're researching broader battery-powered tool options beyond just edging, t
 
 ## Quick Verdict
 
-The [EGO Power+ ME0801](https://www.amazon.com/dp/B07BQJP381?tag=fourseasong-20) is a competent, clean-cutting edger that earns its place in a well-stocked shed, with one condition: you need to be bought into the multi-attachment format, or be willing to start there. If you want a traditional single-purpose walk-behind edger, this isn't that. If you want one battery to run an edger, a hedge trimmer, a [pole hedge trimmer](/ego-pole-hedge-trimmer/), and whatever else EGO makes next season, this is a smart first purchase.
+The [EGO Power+ ME0801](product:ego-me0801-edger-combo-b07b) is a competent, clean-cutting edger that earns its place in a well-stocked shed, with one condition: you need to be bought into the multi-attachment format, or be willing to start there. If you want a traditional single-purpose walk-behind edger, this isn't that. If you want one battery to run an edger, a hedge trimmer, a [pole hedge trimmer](/ego-pole-hedge-trimmer/), and whatever else EGO makes next season, this is a smart first purchase.
 
 At around $199 to $220 for the combo kit at the time of writing, it's priced at the mid-range of the battery edger market. Not cheap, but not padded with features you'll never use.
 

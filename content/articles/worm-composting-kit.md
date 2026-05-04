@@ -34,7 +34,7 @@ product_b: "uncle-jims-1000-red-wigglers"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you've been looking at worm composting and wondering whether to start with the bin or the worms, the answer is: you need both, and they're sold separately. That's the first thing most buyers don't realize when they search for a worm composting kit. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) is the system. The [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20) are what you put inside it. Buy one without the other and you have either an empty plastic tower or a bag of worms with nowhere to go.
+If you've been looking at worm composting and wondering whether to start with the bin or the worms, the answer is: you need both, and they're sold separately. That's the first thing most buyers don't realize when they search for a worm composting kit. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black) is the system. The [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers) are what you put inside it. Buy one without the other and you have either an empty plastic tower or a bag of worms with nowhere to go.
 
 This article covers both products honestly, explains where each one delivers and where each one falls short, and ends with a direct recommendation. If you're working through the broader question of which composting method fits your setup, the [Composting](/composting/) hub is worth reading alongside this.
 

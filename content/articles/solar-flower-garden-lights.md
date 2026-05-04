@@ -38,7 +38,7 @@ Solar flower garden lights occupy a strange middle ground in outdoor lighting. T
 
 I've been testing lights on my property for years, and I've learned that two specs matter more than anything else: waterproofing and lumens. Most listings bury both. I'm going to compare two budget-range solar lights here that serve different purposes and different buyers. One is a ground-stake spotlight, one is a wall-mounted security unit. If you've been browsing the [Garden Lighting](/lighting/) section trying to figure out which direction to go, this should settle it.
 
-The two products are the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) and the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20). Neither is expensive. They are not trying to do the same thing.
+The two products are the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) and the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus). Neither is expensive. They are not trying to do the same thing.
 
 ## At a Glance
 
@@ -57,7 +57,7 @@ Both run entirely on solar, require zero wiring, and trigger on motion. The diff
 
 ## Why Choose the LITOM 30 LED 4-Pack
 
-The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) costs around $30 for four units at the time of writing, which works out to roughly $7.50 per light. That's a floor price for outdoor solar with a serious waterproof rating.
+The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) costs around $30 for four units at the time of writing, which works out to roughly $7.50 per light. That's a floor price for outdoor solar with a serious waterproof rating.
 
 ![Solar Flower Garden Lights](/images/articles/lighting-7.jpg)
 
@@ -91,7 +91,7 @@ Placement is also constrained. The solar panel needs direct sun exposure for sev
 
 ## Why Choose the Mr Beams Solar Wedge Plus
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) runs around $35 per unit and is a different product category from the LITOM, even though both respond to motion and run on solar. The Wedge Plus is a wall light. It goes on a vertical surface. It doesn't stake into the ground.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) runs around $35 per unit and is a different product category from the LITOM, even though both respond to motion and run on solar. The Wedge Plus is a wall light. It goes on a vertical surface. It doesn't stake into the ground.
 
 ### 410 Lumens Is Legitimately Bright for a Solar Unit
 
@@ -125,9 +125,9 @@ These two products are not direct competitors. Buying the wrong one for your sit
 ![Solar Flower Garden Lights](/images/articles/lighting-2.jpg)
 
 
-Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) if you want ground-stake landscape spotlights to line a path, frame flower beds, or highlight specific plantings at a low per-unit cost. The IP67 rating is the standout specification in this price range, the three-mode operation adds real flexibility, and four units for $30 makes sense if you need coverage across a longer frontage. The separate panel gives you positioning options that an integrated panel doesn't.
+Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) if you want ground-stake landscape spotlights to line a path, frame flower beds, or highlight specific plantings at a low per-unit cost. The IP67 rating is the standout specification in this price range, the three-mode operation adds real flexibility, and four units for $30 makes sense if you need coverage across a longer frontage. The separate panel gives you positioning options that an integrated panel doesn't.
 
-Buy the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) if you need a wall-mounted unit that requires no wiring, installs in under five minutes, and throws genuinely useful light. At 410 lumens, it's the brighter unit by a meaningful margin. It suits a garage wall, side entrance, or back door better than it suits a flower bed.
+Buy the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) if you need a wall-mounted unit that requires no wiring, installs in under five minutes, and throws genuinely useful light. At 410 lumens, it's the brighter unit by a meaningful margin. It suits a garage wall, side entrance, or back door better than it suits a flower bed.
 
 If your priority is decorating a garden border with lights that complement plantings, the LITOM is the right direction. If your priority is a working no-commitment wall light that also happens to enhance the exterior of the property, the Wedge Plus earns its place. For anyone exploring the broader range of solar and wired options across both categories, our [outdoor garden lighting](/lighting/) pages cover both.
 

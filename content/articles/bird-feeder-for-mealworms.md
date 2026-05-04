@@ -45,7 +45,7 @@ One note before we get into specifics: the products here aren't all dedicated me
 
 ## Top Picks
 
-### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
 The Yankee Flipper is the one people buy after losing three other feeders to squirrels. The mechanism is simple: a weight-activated motor spins the perch ring when anything heavy enough to be a squirrel grabs on. The squirrel goes for a short ride and drops off. The birds , which aren't heavy enough to trigger it , feed undisturbed.
 
@@ -67,11 +67,11 @@ It holds 5 lbs of seed, takes sunflower or mixed seed without issues, and charge
 - Higher price than passive squirrel-proof options
 - The motor will eventually wear out, and that's a repair or replacement cost
 
-Compared to the [Squirrel Buster Plus](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20), which I'll cover next, the Flipper costs more and requires maintenance the Buster doesn't. Whether that tradeoff is worth it depends on how much you enjoy watching squirrels spin off a perch, which I realize is a specific complaint to weigh against a product's price.
+Compared to the [Squirrel Buster Plus](product:squirrel-buster-plus-feeder), which I'll cover next, the Flipper costs more and requires maintenance the Buster doesn't. Whether that tradeoff is worth it depends on how much you enjoy watching squirrels spin off a perch, which I realize is a specific complaint to weigh against a product's price.
 
 ,
 
-### [Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+### [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
 The Squirrel Buster Plus is my actual recommendation for most people setting up a feeding station. No batteries, no motor, no charging schedule. A squirrel grabs the outer cage, the cage drops under its weight, and the seed ports close. The bird lands, weighs almost nothing, and feeds normally. The system works without any power source, which means it works every single day without any action on your part.
 
@@ -96,7 +96,7 @@ If you've been running something like a Perky-Pet tube feeder with a baffle and 
 
 ,
 
-### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
 This is the feeder for someone who wants a straightforward, well-made tube feeder without paying for features they don't need. Droll Yankees has been making feeders in the US since 1969, and the Classic shows that pedigree. UV-stabilized polycarbonate tube, six feeding ports, and the Ring Pull lid that comes off with one hand for refilling. That last detail is more useful than it sounds , if you're refilling feeders in freezing rain in February, a lid that requires two hands and coordination is a minor but recurring irritation.
 

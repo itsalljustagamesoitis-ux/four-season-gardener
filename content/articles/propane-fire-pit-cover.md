@@ -36,7 +36,7 @@ product_b: "napoleon-st-tropez-fire-table"
 
 If you've landed on this page searching for a propane fire pit cover, you've probably already decided that a fire table beats a traditional wood-burning pit. Fair enough. No ash, no smoke drifting into your face, and you can turn it off and walk inside without waiting thirty minutes for embers to die. What you're actually trying to decide is which fire table to buy. These two products represent genuinely different points on the price-to-permanence spectrum, and this article will tell you plainly which one makes more sense for your situation.
 
-Both the [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) are covered in detail across our [Fire Pits & Patio Heaters](/fire-and-heat/) section if you want a broader look at the category. But if you want my read on these two specifically, read on.
+Both the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) are covered in detail across our [Fire Pits & Patio Heaters](/fire-and-heat/) section if you want a broader look at the category. But if you want my read on these two specifically, read on.
 
 ## At-a-Glance
 
@@ -102,9 +102,9 @@ The glass ember bed is decorative, not functional as a table surface. You're not
 
 ## Verdict
 
-Buy the [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) if you want a functional, high-output fire table under $350, you're not ready for a permanent gas line, and you want a surface you can actually use as a table. It's not as refined as the Napoleon, but it does more practical work for the money.
+Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional, high-output fire table under $350, you're not ready for a permanent gas line, and you want a surface you can actually use as a table. It's not as refined as the Napoleon, but it does more practical work for the money.
 
-Buy the [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) if you're building a permanent outdoor living space, you're likely to convert to natural gas within the next few years, and the frame quality and electronic ignition matter to you at the price difference. The premium is real, but so is what you're getting.
+Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're building a permanent outdoor living space, you're likely to convert to natural gas within the next few years, and the frame quality and electronic ignition matter to you at the price difference. The premium is real, but so is what you're getting.
 
 If you're still exploring the broader category before committing, the full [fire pit and patio heater guides](/fire-and-heat/) on this site are worth a scan, particularly if you're weighing fire table options against [wall-mounted patio heaters](/wall-mounted-patio-heater/) or other overhead heat sources for a covered patio.
 

@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config'
 import sitemap from '@astrojs/sitemap'
 import rehypeExternalLinks from 'rehype-external-links'
+import { rehypeProductLinks } from '@platform/core/src/plugins/rehype-product-links.mjs'
 import { readFileSync } from 'fs'
 import yaml from 'js-yaml'
 
@@ -47,6 +48,7 @@ export default defineConfig({
   ],
   markdown: {
     rehypePlugins: [
+      rehypeProductLinks,
       [rehypeExternalLinks, {
         rel: ['nofollow', 'sponsored'],
         target: '_blank',

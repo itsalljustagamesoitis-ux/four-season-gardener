@@ -11,13 +11,27 @@ hero_image_alt: "Outdoor Bar Stools Swivel"
 description: "Cut through marketing hype. Our roundup tests outdoor swivel bar stools that actually hold up through seasons, plus matching tables and placement tips."
 target_keyword: "outdoor bar stools swivel"
 products:
-  - id: "polywood-nautical-bar-stool"
+  - id: "chita-swivel-rocker-b0cz"
     role: "best_overall"
+    article_specific_pros:
+      - "360-degree swivel with rocking function combines two motion types in a single outdoor chair"
+      - "Weather-resistant frame built for full outdoor exposure with no seasonal storage required"
+    article_specific_cons:
+      - "Swivel mechanism requires occasional tightening after heavy use in wet conditions"
+  - id: "polywood-nautical-bar-stool"
+    role: "also_consider"
     article_specific_pros:
       - "Bar height (30\") fits standard outdoor bar tables and kitchen-height counters"
       - "Same weatherproof HDPE as full furniture line , no rust, no rot, no paint"
     article_specific_cons:
       - "No swivel function on standard model"
+  - id: "serwall-adirondack-swivel-glider"
+    role: "also_consider"
+    article_specific_pros:
+      - "HDPE Adirondack design with swivel glide , combines traditional look with modern motion seating"
+      - "SERWALL's HDPE track record means zero maintenance and long outdoor lifespan"
+    article_specific_cons:
+      - "Adirondack profile sits lower than bar-height stools , not suited for counter or bar table pairing"
   - id: "keter-pacific-cool-bar"
     role: "also_consider"
     article_specific_pros:
@@ -39,13 +53,6 @@ products:
       - "Olefin cushions are UV- and mold-resistant; removable, machine-washable covers"
     article_specific_cons:
       - "Very high investment , premium all-weather sectionals rarely fall below $3,000"
-  - id: "titan-grade-a-teak-adirondack-chair"
-    role: "also_consider"
-    article_specific_pros:
-      - "Grade A teak (heartwood-only) is the top tier , densest, most oil-rich, longest-lasting"
-      - "Traditional Adirondack design in real wood , warm grain aesthetic POLYWOOD resin can't replicate"
-    article_specific_cons:
-      - "Requires oiling every 1-2 years to maintain golden brown color; weathers to silver-grey without treatment"
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
@@ -61,7 +68,7 @@ Five products. Different price points, different materials, different maintenanc
 
 ### POLYWOOD Nautical Bar Chair, White
 
-**[POLYWOOD Nautical Bar Chair, White](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20)**
+**[POLYWOOD Nautical Bar Chair, White](product:polywood-nautical-bar-stool)**
 
 The POLYWOOD Nautical is a 30-inch bar-height chair built from HDPE lumber, the same high-density polyethylene that POLYWOOD uses across its full furniture line. If you've had any exposure to POLYWOOD products before, you know what you're getting: a frame that won't rust, won't rot, won't need painting, and will sit on your patio for a decade looking more or less the same as it did the day you set it up. The Nautical fits standard outdoor bar tables and kitchen-height counters without adjustment.
 
@@ -87,7 +94,7 @@ The white finish is also worth thinking about. In a wooded setting or anywhere w
 
 ### Keter Pacific Cool Bar, Espresso Brown
 
-**[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20)**
+**[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](product:keter-pacific-cool-bar)**
 
 This one is technically a bar table, not a stool, but it belongs in this roundup because it defines what the stools go around. The Keter Pacific has a 7.5-gallon built-in ice cooler under the lid and doubles as a side table when the lid is closed. On a 90-degree afternoon with six people on the patio, that distinction matters more than most product features. You eliminate a separate cooler, you reclaim floor space, and you end up with something that looks intentional rather than improvised.
 
@@ -111,7 +118,7 @@ For a straightforward backyard setup where function outranks aesthetics, the Ket
 
 ### Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table
 
-**[Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20)**
+**[Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](product:christopher-knight-acacia-dining-table)**
 
 This is a dining table rather than a bar-height piece, so it's relevant if you're running a lower setup with counter or cafe-height stools rather than a true 30-inch bar. The case for the Spanish Bay is straightforward: solid acacia hardwood at a mid-range price point gives you warmth and grain that synthetic materials can't replicate. Acacia is denser and more weather-resistant than eucalyptus or pine, which makes it a reasonable choice for outdoor use in temperate climates with wet springs.
 
@@ -138,7 +145,7 @@ At roughly $200 to $280 (pricing has varied), this is a reasonable entry point f
 
 ### POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set
 
-**[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](https://www.amazon.com/dp/B085G1ZKXV?tag=fourseasong-20)**
+**[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set)**
 
 Not a bar stool. Including it here because if you're spending serious money on outdoor bar seating, the question of what else is on the patio is live. The POLYWOOD Edge sectional is the product I'd point to for someone who has cycled through wicker or rattan sectionals and is done replacing them every four or five years.
 
@@ -165,7 +172,7 @@ In hard winters with significant freeze-thaw cycles, the cushions benefit from a
 
 ### Ash & Ember Grade A Solid Teak Wood Adirondack Chair
 
-**[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20)**
+**[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair)**
 
 Grade A teak is the heartwood-only cut: denser, more oil-rich, and longer-lasting than Grade B, which incorporates more sapwood. That distinction is worth understanding before you buy any teak product, because the grade gap is significant and it's not always disclosed clearly in listings. Our roundup on [teak outdoor bar stools](/teak-outdoor-bar-stools/) gets into this in more detail if you're considering teak across multiple pieces.
 

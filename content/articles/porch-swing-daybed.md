@@ -34,7 +34,7 @@ product_b: "anderson-teak-gl101-glider-bench"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you've been searching "porch swing daybed" and wondering whether a hanging swing or a gliding bench better fits your porch, you're dealing with a real choice, not just a style preference. The motion is different, the installation is different, and the long-term commitment is different. Both the [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](https://www.amazon.com/dp/B0117O4MYC?tag=fourseasong-20) and the [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20) are built from Grade A teak and are priced accordingly. Neither is an impulse purchase. Before we get into the specifics, the broader context on how these pieces fit into an outdoor space is worth reading through in our [Outdoor Furniture](/outdoor-furniture/) hub.
+If you've been searching "porch swing daybed" and wondering whether a hanging swing or a gliding bench better fits your porch, you're dealing with a real choice, not just a style preference. The motion is different, the installation is different, and the long-term commitment is different. Both the [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](product:all-things-cedar-ts50-teak-porch-swing) and the [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench) are built from Grade A teak and are priced accordingly. Neither is an impulse purchase. Before we get into the specifics, the broader context on how these pieces fit into an outdoor space is worth reading through in our [Outdoor Furniture](/outdoor-furniture/) hub.
 
 ## At-a-Glance
 
@@ -104,9 +104,9 @@ One thing worth flagging for anyone comparing cushion options: the GL-101's dime
 
 ## Verdict
 
-The [All Things Cedar TS50](https://www.amazon.com/dp/B0117O4MYC?tag=fourseasong-20) is the pick if you have a structural porch beam or pergola, want the visual experience of a hanging swing, and are comfortable sourcing the ceiling hardware separately. At around $650, it's a legitimate teak piece at a price that makes sense for what it is. It requires a bit more setup effort and a structural overhead anchor point. If you have both, it's a good piece of outdoor furniture.
+The [All Things Cedar TS50](product:all-things-cedar-ts50-teak-porch-swing) is the pick if you have a structural porch beam or pergola, want the visual experience of a hanging swing, and are comfortable sourcing the ceiling hardware separately. At around $650, it's a legitimate teak piece at a price that makes sense for what it is. It requires a bit more setup effort and a structural overhead anchor point. If you have both, it's a good piece of outdoor furniture.
 
-The [Anderson Teak GL-101 Balboa](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20) is the pick if installation flexibility is non-negotiable, you want a smoother and quieter motion than a swing provides, and you're buying furniture you expect to still be using in fifteen years. The price is high. It is also accurate for what it delivers.
+The [Anderson Teak GL-101 Balboa](product:anderson-teak-gl101-glider-bench) is the pick if installation flexibility is non-negotiable, you want a smoother and quieter motion than a swing provides, and you're buying furniture you expect to still be using in fifteen years. The price is high. It is also accurate for what it delivers.
 
 ![Porch Swing Daybed](/images/articles/outdoor-furniture-6.jpg)
 

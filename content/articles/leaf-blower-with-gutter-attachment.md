@@ -56,7 +56,7 @@ My recommendation is at the top. The buying guide is at the bottom. Everything i
 
 **Best for: Anyone who already owns a capable leaf blower and wants gutter access without a ladder**
 
-[WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit, 11" Tubes](https://www.amazon.com/dp/B07N2XNQ2V?tag=fourseasong-20) runs around $30 to $35 on Amazon at the time of writing. It is, straightforwardly, the product most people in this category actually need.
+[WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit, 11" Tubes](product:worx-wa4094-gutter-kit) runs around $30 to $35 on Amazon at the time of writing. It is, straightforwardly, the product most people in this category actually need.
 
 The kit consists of curved extension tubes that attach to your existing blower nozzle and redirect airflow up and over the gutter lip from below. You stand on the ground, point the tube upward, and walk along the roofline. No ladder, no spotter, no awkward reach. The universal adapter is designed to fit most major blower brands including WORX's own tools, Toro, BLACK+DECKER, and similar diameter nozzles. It does not fit every blower on the market, but it covers a wide enough range that most people buying this in combination with one of the other blowers listed here will have no issue.
 
@@ -86,7 +86,7 @@ The last point is worth sitting with. This tool moves debris, it does not collec
 
 **Best for: High-volume fall cleanup with reliable power and no battery anxiety**
 
-The [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) is a corded electric 3-in-1 unit (blower, vacuum, mulcher) currently priced around $80 to $90. For that money, you get 250 MPH airspeed, a 12-amp motor, and a metal impeller. The metal impeller matters. Budget plastic impellers crack when they hit a hidden acorn or walnut at speed, and replacements are an annoyance. Toro put metal in here at a price point where most manufacturers didn't bother.
+The [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) is a corded electric 3-in-1 unit (blower, vacuum, mulcher) currently priced around $80 to $90. For that money, you get 250 MPH airspeed, a 12-amp motor, and a metal impeller. The metal impeller matters. Budget plastic impellers crack when they hit a hidden acorn or walnut at speed, and replacements are an annoyance. Toro put metal in here at a price point where most manufacturers didn't bother.
 
 The 10:1 mulch reduction ratio is real. I ran this through three consecutive afternoons of heavy red maple fall and watched the collection bag stay manageable in a way that lower-ratio vacuums simply don't achieve. (I timed the bag-emptying intervals against my old BLACK+DECKER BV6600. The Toro required roughly half the trips.) At 250 MPH, it handles wet leaves better than any cordless unit in this price range, which matters in the Northeast where October rain is not an exception.
 
@@ -116,7 +116,7 @@ The Toro works with the WORX WA4094 gutter kit via the universal adapter. The 25
 
 **Best for: First-time cordless buyers who want a complete kit without committing to a premium battery platform**
 
-The [Greenworks 40V 185 CFM Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) comes in around $120 to $140 with the 4.0Ah battery and charger included. That's a complete kit at a price that doesn't require a second mortgage on the tool budget.
+The [Greenworks 40V 185 CFM Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac) comes in around $120 to $140 with the 4.0Ah battery and charger included. That's a complete kit at a price that doesn't require a second mortgage on the tool budget.
 
 The brushless motor is the specification that earns this product its place in the roundup. At this price, brushed motors are standard, and they wear faster, run hotter, and draw more power per output than brushless equivalents. Greenworks put a brushless motor here, which extends both battery life per charge and long-term unit durability. Comparable to the EGO CH2100E in terms of technology tier, even if not in output class.
 
@@ -146,7 +146,7 @@ For light gutter work in combination with the WORX gutter kit, the 185 MPH outpu
 ![Leaf Blower With Gutter Attachment](/images/articles/lawn-care-8.jpg)
 
 
-The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) is a premium product at a premium price. Tool-only (no battery) runs around $230 to $250. Add a 56V ARC Lithium battery if you don't own one already, and you're looking at $380 to $430 depending on battery capacity. If you're already in the EGO 56V ecosystem with a mower, trimmer, or chainsaw, the battery cost goes to zero, which changes the math significantly.
+The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower) is a premium product at a premium price. Tool-only (no battery) runs around $230 to $250. Add a 56V ARC Lithium battery if you don't own one already, and you're looking at $380 to $430 depending on battery capacity. If you're already in the EGO 56V ecosystem with a mower, trimmer, or chainsaw, the battery cost goes to zero, which changes the math significantly.
 
 600 CFM matches the output of mid-range commercial gas backpack blowers. I've run the Husqvarna 350BT for comparison, which pushes 494 CFM and weighs over 22 pounds with fuel. The EGO is lighter, quieter, and produces more airflow. That comparison would have seemed improbable five years ago.
 

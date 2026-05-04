@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time browsing [Raised Beds](/raised-beds/) options online, you've likely seen Vego Garden's modular metal beds showing up in results with suspicious regularity. The company has built real momentum in the last few years, and the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) is their flagship product. I've been running one on my property for two growing seasons. Here's what it actually does well, what it doesn't, and whether the price makes sense.
+If you've spent any time browsing [Raised Beds](/raised-beds/) options online, you've likely seen Vego Garden's modular metal beds showing up in results with suspicious regularity. The company has built real momentum in the last few years, and the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is their flagship product. I've been running one on my property for two growing seasons. Here's what it actually does well, what it doesn't, and whether the price makes sense.
 
 ## Quick Verdict
 

@@ -106,7 +106,7 @@ Build or buy a door. A simple plywood Z-brace door is entirely adequate. Add a t
 
 ## An Honest Alternative Worth Considering
 
-If the labor calculation isn't working out, or if you have concerns about pallet quality in your area, the [Arrow Select 10' x 8' Steel Storage Shed](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) is a mid-range option that addresses several of the problems pallet sheds create.
+If the labor calculation isn't working out, or if you have concerns about pallet quality in your area, the [Arrow Select 10' x 8' Steel Storage Shed](product:arrow-select-10x8-shed) is a mid-range option that addresses several of the problems pallet sheds create.
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-7.jpg)
 

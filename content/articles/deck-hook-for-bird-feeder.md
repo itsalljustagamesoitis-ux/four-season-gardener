@@ -67,7 +67,7 @@ All four hooks reviewed here require no drilling. That matters if you rent, have
 
 ## Top Picks
 
-### Top Pick: [Idzo 18 Inch Railing Hook, Deck Hook for Bird Feeder Pole, 3-Layer Powder-Coated Steel, 2-Pack](https://www.amazon.com/dp/B0CJT59P7F?tag=fourseasong-20)
+### Top Pick: [Idzo 18 Inch Railing Hook, Deck Hook for Bird Feeder Pole, 3-Layer Powder-Coated Steel, 2-Pack](product:idzo-deck-rail-hook-2pack)
 **Best for: Most buyers. Two feeders, no drilling, proven hardware.**
 The Idzo 2-pack is the straightforward answer for most deck setups. Amazon's Choice designation with over 850 reviews at 4.6 stars isn't marketing copy at this point, it's a signal that a lot of people bought it, used it through at least one season, and didn't come back angry.
 The 3-layer powder coat is the detail that earns the top spot. Single-coat hooks from budget brands show surface rust by spring. The Idzo has held up through hard winters without the orange streaking you'll eventually see on cheaper steel.
@@ -76,21 +76,21 @@ The 2-pack is where the value becomes obvious. Use one arm for your primary feed
 The limits: the clamp is rated for rails up to roughly 3 inches thick. On a thick composite cap rail, test the fit before assuming it will work. The clamp screw requires a tool to tighten properly, which is a minor inconvenience but worth knowing before you try to hand-tighten and wonder why it's still moving.
 At around $22 to $25 for the pair at the time of writing, there is no reason to pay more for a single hook of comparable quality elsewhere.
 
-### Best Single Hook: [BOLITE Heavy Duty Deck Hook, 20 Inch Bird Feeder Hanger, 360° Rotatable Arm, Black](https://www.amazon.com/dp/B0FG2RM2CN?tag=fourseasong-20)
+### Best Single Hook: [BOLITE Heavy Duty Deck Hook, 20 Inch Bird Feeder Hanger, 360° Rotatable Arm, Black](product:bolite-deck-hook-20in)
 **Best for: One feeder, maximum arm clearance, budget-conscious buyers.**
 If you only need one hook and squirrel pressure on your deck railing is a real problem, the BOLITE is the right answer. The 20-inch arm puts your feeder 20 inches out from the rail face, which is meaningfully more distance than a 14- or 18-inch arm. A squirrel jumping from a standard deck rail cap to a feeder 20 inches out still isn't impossible, but it's harder, and if you've also got a baffle above the feeder, you're in reasonable shape.
 The BOLITE runs around $18 at the time of writing, which makes it Amazon's top value single hook in this category. The 360-degree rotation is present and functional. The arm finish is matte black powder coat, consistent with the rail hardware on most modern composite deck systems.
 The trade-off is that this is a newer listing. Fewer reviews than the Idzo or Feed Garden options means less long-term data. The construction looks solid, but there's less evidence from buyers who've run it through multiple winters. If that uncertainty bothers you, the Idzo at a few dollars more per unit gives you a more proven track record.
 Worth considering if you run a [bird feeder for mealworms](/bird-feeder-for-mealworms/) as a standalone setup and want one well-positioned hook rather than a 2-pack.
 
-### Most Versatile: [FEED GARDEN 2 Pack 14 Inch Deck Hook, Deck Bird Feeder Hanger, Fits 1,3 Inch Deck Thickness](https://www.amazon.com/dp/B0BVLTB21J?tag=fourseasong-20)
+### Most Versatile: [FEED GARDEN 2 Pack 14 Inch Deck Hook, Deck Bird Feeder Hanger, Fits 1,3 Inch Deck Thickness](product:feed-garden-deck-hook-2pack)
 **Best for: Unusual rail dimensions or anyone unsure of their rail thickness.**
 The Feed Garden 2-pack has the strongest review base of anything in this category. 1,877 reviews at 4.5 stars is a substantial dataset, and the consistent feedback is that the clamp hardware accommodates the full 1-to-3-inch range reliably, including composite systems that catch narrower-spec hooks.
 If you've measured your rail and landed somewhere between standard lumber and composite rounded-cap profiles, this is the hook to buy. The explicit 1-to-3-inch range with documented performance at both ends is what sets it apart from hooks that technically claim a similar range but have more mixed results at the upper limit.
 The arm is 14 inches. That's shorter than the BOLITE or the Idzo, and if squirrel deterrence is a priority, it matters. For most buyers who just want the feeder clear of the railing and positioned for viewing, 14 inches is perfectly adequate. I'd call this the pragmatic choice, which I realize is faint praise but is meant as a real endorsement.
 The Feed Garden brand doesn't carry the name recognition of Droll Yankees or Perky-Pet, which is the honest trade-off you make for the price point. At roughly $20 to $22 for the pair currently, the value is solid.
 
-### Budget Companion Feeder: [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+### Budget Companion Feeder: [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 **Best for: New feeders who want a reliable, American-made tube feeder to hang on their new hook.**
 This isn't a hook. Including it here because a significant portion of buyers searching for deck hooks are setting up a feeding station for the first time and haven't settled on a feeder yet.
 The Droll Yankees Classic is the reference tube feeder at the budget end of the market. Droll Yankees has been making feeders in Connecticut since 1969 and backs the product with a lifetime guarantee, which is not standard in this category. The UV-stabilized polycarbonate tube won't yellow or crack after a few summers the way cheaper acrylic feeders do. Six feeding ports means multiple birds feeding at once without the aggressive stacking behavior you see on two-port feeders.

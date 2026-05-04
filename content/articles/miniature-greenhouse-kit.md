@@ -61,7 +61,7 @@ For broader context on garden structures at every scale, the [Greenhouses, Sheds
 
 ### Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender: Best Entry-Level Cold Frame
 
-**[Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](https://www.amazon.com/dp/B006GX8EOO?tag=fourseasong-20)**
+**[Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](product:palram-plant-inn-mini-greenhouse)**
 
 The Plant Inn is a cold frame with a built-in raised planter, not a greenhouse. That distinction matters. There's no headroom, no door, and no way to stand inside it. You access the growing area by lifting the hinged polycarbonate roof panels. If you've been putting off buying a greenhouse because you don't have the yard space or the budget for a full structure, the Plant Inn is a reasonable first step that actually delivers on its promise.
 
@@ -89,7 +89,7 @@ The elevated planter base keeps the growing area off the ground. No weed pressur
 
 ### Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit: Best Compact Full Greenhouse
 
-**[Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit, Silver](https://www.amazon.com/dp/B00P0REDI8?tag=fourseasong-20)**
+**[Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit, Silver](product:palram-hybrid-6x8-greenhouse)**
 
 This is the smallest practical walk-in greenhouse Palram makes, and it's the one I'd point most first-time buyers toward if they want a full structure. The 6x8 footprint is tight but workable. Two benches, a narrow aisle, and you've got a functioning growing space.
 
@@ -119,7 +119,7 @@ One practical note: as of this writing, this listing shows only third-party sell
 
 ### Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit: Best for Tight Side Yards
 
-**[Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](https://www.amazon.com/dp/B07MJVT2Z9?tag=fourseasong-20)**
+**[Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](product:palram-snap-grow-6x12-greenhouse)**
 
 The Snap & Grow's main selling point is the SmartLock connection system, which clips together without tools. That claim is accurate for most of the frame assembly. You still need a screwdriver for anchoring and hardware, so "no tools" is a mild overstatement, but the framing process is noticeably faster than standard bolt-and-nut assembly. This matters if you're doing it solo or in a narrow space where maneuvering is awkward.
 
@@ -144,7 +144,7 @@ The tradeoff for the lower price is single-wall polycarbonate panels throughout.
 
 ### Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit: Best for Serious Growers
 
-**[Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20)**
+**[Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse)**
 
 The Essence 8x16 is the product you eventually wish you'd bought the first time. I say that because I know people who started with a 6x8 and outgrew it in two seasons. This runs around $1,800 to $2,200 depending on timing and where you order (at the time of writing). That's a real number, and it's worth pausing on before you buy something smaller as a placeholder.
 
@@ -172,7 +172,7 @@ Assembly is a two-person, full-weekend job. Plan for that rather than hoping it 
 
 ### Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse: Best for Small Yards
 
-**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20)**
+**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse)**
 
 The lean-to format solves a specific problem. If you have a small yard but a south- or west-facing house wall, this structure borrows that wall as both structural support and a passive heat source. Wall-retained heat in late autumn is more than you might expect. The structure also benefits from being shielded on one side, which matters in exposed yards.
 

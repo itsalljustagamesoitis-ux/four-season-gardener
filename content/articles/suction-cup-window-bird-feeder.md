@@ -59,15 +59,15 @@ For a broader look at feeder types, pole systems, and baths, the [Bird Feeders &
 
 ## Our Top Picks
 
-**Best overall window bird feeder:** [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+**Best overall window bird feeder:** [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 
-**Best budget tube feeder:** [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+**Best budget tube feeder:** [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
-**Best passive squirrel-proof:** [Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+**Best passive squirrel-proof:** [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
-**Best for entertainment value:** [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+**Best for entertainment value:** [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
-**Best hummingbird feeder:** [First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+**Best hummingbird feeder:** [First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)
 
 ## How We Tested
 
@@ -81,7 +81,7 @@ I did not test in artificial conditions. I did not measure airflow or do laborat
 
 ### Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray
 
-[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20) is the feeder I'd recommend first to anyone with limited outdoor space or anyone who specifically wants the close-up viewing experience. It mounts flat against the glass on three suction cups, holds over four cups of seed, and sits low enough that you're looking at birds at eye level rather than watching them from below.
+[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder) is the feeder I'd recommend first to anyone with limited outdoor space or anyone who specifically wants the close-up viewing experience. It mounts flat against the glass on three suction cups, holds over four cups of seed, and sits low enough that you're looking at birds at eye level rather than watching them from below.
 
 ![Suction Cup Window Bird Feeder](/images/articles/birds-wildlife-5.jpg)
 
@@ -98,7 +98,7 @@ Price runs around $30 to $35 currently on Amazon. For an award-winning design wi
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch
 
-This is where I'd start someone who wants a simple, reliable tube feeder and doesn't want to spend $60 on their first attempt. The [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20) is American-made, comes with a lifetime guarantee, and does exactly what a tube feeder should do without complications.
+This is where I'd start someone who wants a simple, reliable tube feeder and doesn't want to spend $60 on their first attempt. The [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder) is American-made, comes with a lifetime guarantee, and does exactly what a tube feeder should do without complications.
 
 The Ring Pull Advantage lid is the feature that earns its mention. You lift one ring and the top comes off. Refilling with one hand while holding a seed bag in the other is a small convenience that compounds over dozens of refills. The UV-stabilized polycarbonate tube is not a marketing claim. I've watched cheaper feeders yellow and crack in two seasons. Droll Yankees tubes hold their clarity.
 
@@ -113,7 +113,7 @@ Current price is around $18 to $22. At that price, the lifetime guarantee is a r
 
 ### Squirrel Buster Plus Bird Feeder with Cardinal Ring
 
-The [Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20) is the feeder I'd recommend to anyone who wants passive squirrel exclusion without a motor, batteries, or anything that can wear out or run dead. The mechanism is weight-activated: when something heavier than a songbird grabs the perch ring, the outer cage drops and closes the seed ports. No power source, no moving parts beyond the cage itself.
+The [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder) is the feeder I'd recommend to anyone who wants passive squirrel exclusion without a motor, batteries, or anything that can wear out or run dead. The mechanism is weight-activated: when something heavier than a songbird grabs the perch ring, the outer cage drops and closes the seed ports. No power source, no moving parts beyond the cage itself.
 
 It works. I've watched squirrels hit this feeder repeatedly, trigger the closure within a second of landing, and eventually leave. The key variable is the adjustable weight sensitivity, which lets you set the closure threshold. The default setting excludes squirrels and most large nuisance birds. Dialing it tighter will also exclude grackles and European starlings. Dialing it looser opens the feeder to cardinals, which are heavier than people expect. The cardinal ring accessory extends the perch for larger birds and integrates neatly with the weight system.
 
@@ -128,7 +128,7 @@ Price runs around $50 to $60. If you want a [squirrel dome for bird feeder](/squ
 
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
 
-I'll be straightforward: the [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20) is not the most cost-efficient squirrel solution. It is, however, the most entertaining one, and I say that as someone who doesn't use the word "entertaining" about garden equipment lightly.
+I'll be straightforward: the [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper) is not the most cost-efficient squirrel solution. It is, however, the most entertaining one, and I say that as someone who doesn't use the word "entertaining" about garden equipment lightly.
 
 The mechanism is weight-activated like the Squirrel Buster, but instead of closing seed ports, it spins the perch. A squirrel lands, the motor engages, and the squirrel goes around. Multiple times, in my experience, because squirrels are stubborn. Birds, being lighter, don't trigger the motor and feed normally.
 
@@ -140,7 +140,7 @@ The motor will eventually wear out. Droll Yankees' customer service history is g
 
 ### First Nature 3055 32-oz Hummingbird Feeder, Red
 
-The [First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20) is the best-value hummingbird feeder I've used, and the reason is the cleaning design rather than anything aesthetic. The base unscrews completely. The entire nectar reservoir comes apart into two pieces that fit easily under a faucet or in a dishwasher. (I timed the full cleaning at under three minutes.) If you've ever owned a hummingbird feeder with a narrow neck and feeding tube ports that require a specialty brush and twenty minutes of frustrated rinsing, you understand why this matters.
+The [First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder) is the best-value hummingbird feeder I've used, and the reason is the cleaning design rather than anything aesthetic. The base unscrews completely. The entire nectar reservoir comes apart into two pieces that fit easily under a faucet or in a dishwasher. (I timed the full cleaning at under three minutes.) If you've ever owned a hummingbird feeder with a narrow neck and feeding tube ports that require a specialty brush and twenty minutes of frustrated rinsing, you understand why this matters.
 
 Hummingbirds abandon feeders with old or fermented nectar. In summer heat, nectar goes bad in three to five days. That means you're cleaning this feeder frequently regardless of what feeder you own. The First Nature's design makes a frequent task quick enough that you'll actually do it, which means the nectar stays fresh, which means the hummingbirds come back.
 

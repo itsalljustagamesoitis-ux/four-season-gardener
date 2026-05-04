@@ -40,9 +40,9 @@ Both fixtures live in our [Garden Lighting](/lighting/) coverage because both so
 
 ## At a Glance
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) is a self-contained solar unit. The panel is built into the top of the housing, there's no wiring, and you mount it with screws in about ten minutes. Currently around $35 to $45 on Amazon at the time of writing. It delivers 410 lumens from 102 LEDs, which is brighter than most solar motion lights in this price range.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) is a self-contained solar unit. The panel is built into the top of the housing, there's no wiring, and you mount it with screws in about ten minutes. Currently around $35 to $45 on Amazon at the time of writing. It delivers 410 lumens from 102 LEDs, which is brighter than most solar motion lights in this price range.
 
-The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20) is hardwired. Three independently adjustable heads, three selectable color temperatures (3000K, 4000K, and 5000K), ETL listed, IP65 rated. Currently running around $30 to $40 on Amazon. The price looks similar to the Mr Beams unit, but that number doesn't account for what hardwired installation actually costs if you don't have an existing outdoor junction box.
+The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light) is hardwired. Three independently adjustable heads, three selectable color temperatures (3000K, 4000K, and 5000K), ETL listed, IP65 rated. Currently running around $30 to $40 on Amazon. The price looks similar to the Mr Beams unit, but that number doesn't account for what hardwired installation actually costs if you don't have an existing outdoor junction box.
 
 The core tradeoff is this: convenience and flexibility on one side, reliability and raw output on the other.
 
@@ -104,9 +104,9 @@ My recommendation depends on one question: do you have an existing outdoor elect
 ![Outdoor Light Security Camera](/images/articles/lighting-8.jpg)
 
 
-If yes, buy the [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20). The performance floor is higher, the three adjustable heads solve coverage problems that a single fixed unit can't, and you won't be replacing batteries or watching output drop off in December. ETL certification and IP65 waterproofing are the right specs for a permanent install. This is the better light in absolute terms.
+If yes, buy the [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light). The performance floor is higher, the three adjustable heads solve coverage problems that a single fixed unit can't, and you won't be replacing batteries or watching output drop off in December. ETL certification and IP65 waterproofing are the right specs for a permanent install. This is the better light in absolute terms.
 
-If you don't have that junction box, or you're renting, or you need a light on a shed or fence with no electrical access, buy the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20). It's the strongest solar wall light at this price point, the installation is about as painless as it gets, and for lower-traffic positions it does the job without any of the infrastructure overhead.
+If you don't have that junction box, or you're renting, or you need a light on a shed or fence with no electrical access, buy the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus). It's the strongest solar wall light at this price point, the installation is about as painless as it gets, and for lower-traffic positions it does the job without any of the infrastructure overhead.
 
 What I'd avoid is this: don't buy the LEONLITE hoping to "figure out the wiring later." Either you have the box or you don't, and a security light sitting in a garage because the installation stalled isn't a security light.
 

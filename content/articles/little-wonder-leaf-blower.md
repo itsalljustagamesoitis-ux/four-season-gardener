@@ -36,7 +36,7 @@ product_b: "ego-lb6004-backpack-blower"
 
 The "little wonder leaf blower" search lands people in different places depending on what they actually need. Some want a no-fuss corded workhorse that handles wet fall leaves without dying mid-session. Others are looking for the freedom to cover a large property without dragging 100 feet of orange extension cord through their beds. These two machines represent opposite answers to the same problem, and only one of them is the right fit for most readers who land here.
 
-This comparison covers the [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) and the [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20). I've run both on my property in northwestern Connecticut over the course of two fall seasons, and I have a clear preference. More on that in a moment. If you're still orienting yourself on outdoor power tools generally, the [Lawn Care](/lawn-care/) section of this site is worth a read first.
+This comparison covers the [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) and the [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower). I've run both on my property in northwestern Connecticut over the course of two fall seasons, and I have a clear preference. More on that in a moment. If you're still orienting yourself on outdoor power tools generally, the [Lawn Care](/lawn-care/) section of this site is worth a read first.
 
 ## Head-to-Head Verdict
 

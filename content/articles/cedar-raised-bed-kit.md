@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time researching [Raised Beds](/raised-beds/) for a vegetable garden, you've probably noticed that the options split into three rough categories: cheap pine that rots in two seasons, expensive metal corrugated panels, and natural wood kits that sit somewhere in between on both price and longevity. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](https://www.amazon.com/dp/B00NY2FFEC?tag=fourseasong-20) falls into that third category, and it's the one I've had the most direct experience with. I have four of these on the property. Two went in three years ago, two more last spring. My opinion of the kit has shifted somewhat over that time, and I'll tell you exactly how.
+If you've spent any time researching [Raised Beds](/raised-beds/) for a vegetable garden, you've probably noticed that the options split into three rough categories: cheap pine that rots in two seasons, expensive metal corrugated panels, and natural wood kits that sit somewhere in between on both price and longevity. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](product:greenes-premium-cedar-4x8) falls into that third category, and it's the one I've had the most direct experience with. I have four of these on the property. Two went in three years ago, two more last spring. My opinion of the kit has shifted somewhat over that time, and I'll tell you exactly how.
 
 ## Quick Verdict
 

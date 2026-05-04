@@ -66,24 +66,24 @@ Every hardtop gazebo in this category requires a permanent or semi-permanent ins
 
 ## Top Picks
 
-### Best Overall: [PURPLE LEAF 12' x 14' Permanent Hardtop Gazebo](https://www.amazon.com/dp/B0CRTRJXR4?tag=fourseasong-20)
+### Best Overall: [PURPLE LEAF 12' x 14' Permanent Hardtop Gazebo](product:purple-leaf-12x14-hot-tub-gazebo)
 This is the one I'd buy. The vented double-roof design is the feature that separates it from most of the competition , it's built specifically for the kind of moisture load a hot tub generates, and it shows in the construction. The galvanized steel roof panels sit over an aluminum frame, and the gap between the two roof layers creates continuous passive ventilation. Steam exits upward rather than condensing on the interior panels and dripping back down on you.
 The frame handles serious weather. The spec sheet lists a 20 lb/sq ft snow load capacity, and the construction backs that up with cross-bracing that most mid-range gazebos skip entirely. Mosquito netting and privacy curtains are included, and the curtains are worth having , heavy enough to block sight lines effectively rather than just providing the appearance of privacy.
 Price currently runs around $1,100 to $1,300 on Amazon, depending on configuration. That's real money. For a permanent structure you're planning to use year-round, it's not unreasonable, and the build quality holds up to that price point. If you're putting a $6,000 hot tub under it, skimping on the structure is poor math.
 The permanent installation is worth flagging honestly. If there's any chance your yard layout or deck configuration changes in the next few years, factor that in. Relocating one of these is not a quick afternoon project.
 
-### Best Value: [Domi Outdoor Living 12' x 14' Hardtop Gazebo](https://www.amazon.com/dp/B0BX246XBJ?tag=fourseasong-20)
+### Best Value: [Domi Outdoor Living 12' x 14' Hardtop Gazebo](product:domi-12x14-hardtop-gazebo)
 At around $940, this is the price-conscious option that doesn't cut corners on the features hot tub buyers specifically need. Amazon's Choice designation and a 4.5-star rating across a solid review volume suggest the assembly and durability experience is consistent enough to trust.
 The full curtains and netting package is included, which matters for privacy. The galvanized steel roof is a single-layer design rather than a vented double roof, which is the one meaningful compromise compared to the PURPLE LEAF above. For mild-winter climates where steam management isn't a year-round concern, that trade-off is reasonable. For heavy winters or if you plan to use the tub regularly from November through February, the double-roof ventilation is worth the price difference.
 Color options are limited compared to PURPLE LEAF, which I acknowledge matters to some buyers more than others (it matters to me more than I'd usually admit, if the structure is permanently visible from the house). The frame is heavier-gauge than you'd expect at this price, and assembly, while involved, follows logical sequencing.
 If the budget ceiling is firm around $1,000, this is the right choice.
 
-### Best for Larger Spaces: [PURPLE LEAF 12' x 20' Permanent Hardtop Gazebo](https://www.amazon.com/dp/B08PFH8BCZ?tag=fourseasong-20)
+### Best for Larger Spaces: [PURPLE LEAF 12' x 20' Permanent Hardtop Gazebo](product:purple-leaf-12x20-hardtop-gazebo)
 Same vented double-roof system and aluminum frame construction as the 12x14 above, scaled up to a footprint that fits a hot tub and a real seating area inside the structure. Over 1,300 reviews at 4.7 stars is a meaningful data point , that's not a sample size you can fake your way through.
 The 12x20 footprint converts the structure from a hot tub enclosure into a proper outdoor room. Two lounge chairs, a side table, and the hot tub all fit comfortably. If you're also thinking about [how gazebos handle serious wind exposure](/best-gazebo-for-high-winds/), the PURPLE LEAF 12x20 has enough frame mass and anchor point redundancy to perform well in those conditions too.
 The price step up from the 12x14 is significant , currently in the $1,400 to $1,600 range. Assembly is also a longer commitment, realistically closer to five to six hours with two capable adults. If the space and budget support it, this is the version I'd lean toward. The extra square footage is genuinely useful, not just larger for the sake of it.
 
-### Best Drainage System: [Aoxun 12' x 14' Hardtop Gazebo](https://www.amazon.com/dp/B0FCLBPFGY?tag=fourseasong-20)
+### Best Drainage System: [Aoxun 12' x 14' Hardtop Gazebo](product:aoxun-12x14-hardtop-gazebo-drainage)
 The differentiator here is the integrated gutter and drainage system. Most gazebos shed water off the roof edge in a reasonably controlled direction. The Aoxun actually channels it , gutters along the roof perimeter collect runoff and direct it away from the structure and anyone sitting below it. If you've ever stood under a gazebo during a rainstorm and taken a waterfall off the roof edge onto your shoulder, you understand why this matters.
 At around $1,200, it's priced at the premium end of this category. The review count is lower than the PURPLE LEAF options , 134 reviews at the time I'm writing this, which reflects a newer listing rather than a product with problems. The aluminum frame and double-roof construction are solid, and the drainage design is genuinely well-executed rather than a marketing bullet point.
 For buyers in high-rainfall areas or Pacific Northwest climates where "it drains" is not a given, this is worth the premium. For dry-summer regions where drainage is a secondary concern, the PURPLE LEAF double-roof design is the stronger overall package.
@@ -94,7 +94,7 @@ If you run the tub year-round in a cold or wet climate, the vented double roof i
 Budget roughly between $940 and $1,600 for a structurally sound hardtop in this category. Below that range, you're looking at pop-up canopies and soft-roof options that aren't appropriate for year-round hot tub use. For context, the [screened gazebo for deck](/screened-gazebo-for-deck/) category starts lower but trades structural permanence for portability , a reasonable choice for summer-only use, not for a hot tub you're protecting through winter.
 Privacy matters more for hot tub applications than almost any other outdoor structure use. All four options above include curtains. Confirm before ordering that the specific configuration you're buying includes them, because some listings offer multiple package tiers.
 If you're doing a broader yard planning pass that includes sheds or other permanent structures alongside the gazebo, the [Greenhouses, Sheds & Gazebos](/structures/) hub has those categories covered in the same framework.
-My actual recommendation: if the budget is there, the [PURPLE LEAF 12' x 14'](https://www.amazon.com/dp/B0CRTRJXR4?tag=fourseasong-20) is the right structure for most hot tub installations. The steam-venting design, the frame quality, and the curtains-included package add up to a product built for exactly this use case rather than a general-purpose gazebo being adapted to it.
+My actual recommendation: if the budget is there, the [PURPLE LEAF 12' x 14'](product:purple-leaf-12x14-hot-tub-gazebo) is the right structure for most hot tub installations. The steam-venting design, the frame quality, and the curtains-included package add up to a product built for exactly this use case rather than a general-purpose gazebo being adapted to it.
 
 ## Frequently Asked Questions
 

@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](https://www.amazon.com/dp/B0799QY4TW?tag=fourseasong-20) is currently sitting around $130 for the kit, battery and charger included. That price has made it one of the more popular starter picks in the cordless tool category, and I've seen enough of these tools come and go to know that popular doesn't always mean good. So I ran it through a full season on my property, and what follows is a straightforward account of what it does well, where it falls short, and whether I'd actually recommend spending your money on it.
+The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is currently sitting around $130 for the kit, battery and charger included. That price has made it one of the more popular starter picks in the cordless tool category, and I've seen enough of these tools come and go to know that popular doesn't always mean good. So I ran it through a full season on my property, and what follows is a straightforward account of what it does well, where it falls short, and whether I'd actually recommend spending your money on it.
 
 If you're building out a battery-powered tool setup from scratch, the EGO ecosystem is one of the stronger arguments in the [Battery & Cordless Tools](/battery-equipment/) category right now, mostly because the battery platform extends across a wide range of equipment. That compatibility matters more than it might seem when you're buying your third or fourth tool.
 

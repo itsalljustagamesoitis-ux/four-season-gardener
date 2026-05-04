@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time researching a [teak outdoor dining table set](/teak-outdoor-dining-set/), you already know the basic problem. Real teak is beautiful, ages well, and costs a fortune to buy and maintain. Budget teak alternatives look fine for about two seasons before they start checking, greying unevenly, and asking to be oiled. Somewhere in that gap lives a category of products that aren't teak at all but want to be considered alongside it. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20) is one of them. Whether it earns a place at that table is what this review is for.
+If you've spent any time researching a [teak outdoor dining table set](/teak-outdoor-dining-set/), you already know the basic problem. Real teak is beautiful, ages well, and costs a fortune to buy and maintain. Budget teak alternatives look fine for about two seasons before they start checking, greying unevenly, and asking to be oiled. Somewhere in that gap lives a category of products that aren't teak at all but want to be considered alongside it. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) is one of them. Whether it earns a place at that table is what this review is for.
 
 For a broader look at what to consider before buying any large outdoor set, the site's [Outdoor Furniture](/outdoor-furniture/) section covers the category in more depth.
 

@@ -59,15 +59,15 @@ Five chairs. Real assessments. One clear recommendation.
 
 ## Our Top Picks
 
-**Best Overall.** [KINGYES Adirondack Rocking Chair with Retractable Ottoman and Cup Holders](https://www.amazon.com/dp/B0BPM82RYK?tag=fourseasong-20). Solid HDPE construction, well-executed rocking geometry, and the ottoman actually works.
+**Best Overall.** [KINGYES Adirondack Rocking Chair with Retractable Ottoman and Cup Holders](product:kingyes-rocking-adirondack-chair). Solid HDPE construction, well-executed rocking geometry, and the ottoman actually works.
 
-**Best for Minimalists.** [SERWALL Outdoor Adirondack Rocking Chair](https://www.amazon.com/dp/B0GHXWZYS3?tag=fourseasong-20). Clean lines, no extras, slightly lower price. If you don't want cup holders and a footrest, this is the one.
+**Best for Minimalists.** [SERWALL Outdoor Adirondack Rocking Chair](product:serwall-hdpe-adirondack-rocker). Clean lines, no extras, slightly lower price. If you don't want cup holders and a footrest, this is the one.
 
-**Best for Storage-Constrained Spaces.** [Folding Adirondack Rocking Chair 4-in-1](https://www.amazon.com/dp/B0D1CLXX4J?tag=fourseasong-20). The only chair here that folds flat. If you're storing furniture for five months of the year, that matters.
+**Best for Storage-Constrained Spaces.** [Folding Adirondack Rocking Chair 4-in-1](product:folding-adirondack-rocking-chair). The only chair here that folds flat. If you're storing furniture for five months of the year, that matters.
 
-**Most Recognizable Brand.** [Keter Everest Adirondack Rocker](https://www.amazon.com/dp/B0DRBBPK1H?tag=fourseasong-20). Keter has a long track record in outdoor resin furniture. This is their take on the rocking Adirondack.
+**Most Recognizable Brand.** [Keter Everest Adirondack Rocker](product:keter-everest-adirondack-rocker). Keter has a long track record in outdoor resin furniture. This is their take on the rocking Adirondack.
 
-**Best Value for Pairs.** [KINGYES Adirondack Rocking Chair Set of 2](https://www.amazon.com/dp/B0CFXMHXC1?tag=fourseasong-20). If you're buying two chairs, this set is a better price per unit than buying individually, and the matching ottomans are included.
+**Best Value for Pairs.** [KINGYES Adirondack Rocking Chair Set of 2](product:kingyes-rocking-adirondack-set-of-2). If you're buying two chairs, this set is a better price per unit than buying individually, and the matching ottomans are included.
 
 ## How We Tested
 
@@ -185,7 +185,7 @@ The chairs in this roundup range from moderate to slightly assertive in arc. If 
 
 ### Weight and Assembly
 
-HDPE chairs are heavy relative to aluminum or wood, universally. Plan for 50 to 55 lbs as typical. If you're moving chairs frequently or storing them in a shed without easy vehicle access, a folding option like the [Folding Adirondack Rocking Chair](https://www.amazon.com/dp/B0D1CLXX4J?tag=fourseasong-20) is worth the feature trade-offs.
+HDPE chairs are heavy relative to aluminum or wood, universally. Plan for 50 to 55 lbs as typical. If you're moving chairs frequently or storing them in a shed without easy vehicle access, a folding option like the [Folding Adirondack Rocking Chair](product:folding-adirondack-rocking-chair) is worth the feature trade-offs.
 
 Assembly on all five chairs here is manageable solo, but the rocking rail attachment step is universally the hardest part and benefits from either a second person or a padded work surface.
 

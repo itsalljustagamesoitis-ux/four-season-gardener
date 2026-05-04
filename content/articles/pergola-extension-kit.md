@@ -48,7 +48,7 @@ The cost gap between a good kit and custom carpentry has also widened. Custom pe
 
 ## The Product Worth Buying: Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-I'll be direct. If you're in the market for a wood pergola kit and you're not trying to match an existing vinyl structure, the [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) is the one I'd buy. Currently around $850 to $950 on Amazon at the time of writing, with occasional pricing closer to $800 during off-season sales.
+I'll be direct. If you're in the market for a wood pergola kit and you're not trying to match an existing vinyl structure, the [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the one I'd buy. Currently around $850 to $950 on Amazon at the time of writing, with occasional pricing closer to $800 during off-season sales.
 
 ### Why Cedar, and Why This Cedar
 

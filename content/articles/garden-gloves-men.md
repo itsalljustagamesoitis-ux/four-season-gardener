@@ -36,7 +36,7 @@ If you're building out a full toolkit, the broader [Hand Tools](/hand-tools/) se
 
 ## Top Picks
 
-### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)
+### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)
 
 This is the glove I'd hand someone who spends most of their garden time planting, weeding, transplanting, or doing anything that requires feel and dexterity. The bamboo fiber construction is the main story here. It wicks moisture, breathes well, and doesn't make your hands feel like they're wrapped in a plastic bag after an hour of work in warm weather. For anyone doing extended sessions in summer heat, that matters more than most gloves manufacturers acknowledge.
 
@@ -63,7 +63,7 @@ These are machine washable, which matters more than it sounds. Cheap nitrile glo
 
 ,
 
-### [Foxgloves Original Gardening Gloves](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)
+### [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves)
 
 The defining feature of these gloves is that they extend past the wrist. Anyone who has pulled back a rose cane and watched it snap forward across their forearm knows why this matters. The Foxgloves come up far enough to cover the lower forearm, which takes care of scratches from thorns, rough bark, brambles, and anything else with an edge. If you do any amount of pruning, hedge work, or picking through established shrubs, your forearms take more abuse than your hands do, and standard gloves do nothing about that.
 

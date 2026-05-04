@@ -52,7 +52,7 @@ I've tested a range of feeders across multiple seasons on a 12-acre property wit
 
 ## Top Picks
 
-### [Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20): Best Overall
+### [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder): Best Overall
 
 The Brome Squirrel Buster Plus is my main recommendation, and it's been the workhorse feeder at my property for going on four seasons. The mechanism is passive weight-activation: when a squirrel grabs the outer cage, the weight closes the seed ports. No batteries, no charging, nothing to forget. It either works or it doesn't, and in my experience it works.
 
@@ -81,7 +81,7 @@ The cardinal ring at the bottom is a practical addition, not a marketing detail.
 
 ,
 
-### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20): Best for Households That Want the Show
+### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper): Best for Households That Want the Show
 
 I want to be straightforward about what the Yankee Flipper is and isn't. It is a genuinely effective squirrel deterrent. The motor spins the perch when a squirrel's weight triggers it, and squirrels cannot hold on. It is also, for anyone with children or grandchildren around, an exceptional piece of wildlife entertainment. Squirrels approach with confidence, grab the perch, and immediately regret it. (I have watched grown adults stop conversations to watch this happen.)
 
@@ -109,7 +109,7 @@ Droll Yankees manufactures in the United States and backs this feeder with a lif
 
 ,
 
-### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20): Best Budget Entry Point
+### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder): Best Budget Entry Point
 
 If you're new to feeding birds and want to start without spending $60 or more on your first feeder, this is the one to buy. The Droll Yankees Classic is a no-frills tube feeder that does its job without complications.
 
@@ -136,7 +136,7 @@ The 1 lb seed capacity is the other constraint. During fall and early winter whe
 
 ,
 
-### [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20): Best for Small Spaces and Close-Up Viewing
+### [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder): Best for Small Spaces and Close-Up Viewing
 
 This feeder solves a different problem than the others on this list. If you don't have a yard, don't want to install a pole, or simply want birds within 18 inches of your face rather than 15 feet away in the garden, the Nature's Hangout window feeder is what addresses that.
 

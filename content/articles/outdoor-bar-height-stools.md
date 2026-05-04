@@ -57,11 +57,11 @@ This roundup covers outdoor bar height stools and the products that work alongsi
 
 ## Our Top Picks
 
-**Best overall bar stool:** [POLYWOOD Nautical Bar Chair, White](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20)
-**Best cooler unit for outdoor bars:** [Keter Pacific Cool Bar](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20)
-**Best hardwood dining table (if maintenance is acceptable):** [Christopher Knight Home Spanish Bay Acacia Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20)
-**Best budget Adirondack:** [MUCHENGHY Folding Adirondack Chair](https://www.amazon.com/dp/B09Q61GK6G?tag=fourseasong-20)
-**Best replacement cushion:** [RSH Decor Sunbrella Deep Seating Cushion](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20)
+**Best overall bar stool:** [POLYWOOD Nautical Bar Chair, White](product:polywood-nautical-bar-stool)
+**Best cooler unit for outdoor bars:** [Keter Pacific Cool Bar](product:keter-pacific-cool-bar)
+**Best hardwood dining table (if maintenance is acceptable):** [Christopher Knight Home Spanish Bay Acacia Dining Table](product:christopher-knight-acacia-dining-table)
+**Best budget Adirondack:** [MUCHENGHY Folding Adirondack Chair](product:muchenghy-folding-adirondack-chair)
+**Best replacement cushion:** [RSH Decor Sunbrella Deep Seating Cushion](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 ## How We Tested
 
@@ -78,7 +78,7 @@ I'm not a testing lab. I don't have moisture chambers or UV simulators. What I h
 
 ### POLYWOOD Nautical Bar Chair, White
 
-The [POLYWOOD Nautical Bar Chair](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20) sits at a true 30-inch seat height, which fits standard 40 to 42-inch outdoor bar tables and most kitchen-height outdoor counters without the awkward gap or the cramped clearance. That number matters and it's not always consistent across brands, so it's worth confirming before you buy anything.
+The [POLYWOOD Nautical Bar Chair](product:polywood-nautical-bar-stool) sits at a true 30-inch seat height, which fits standard 40 to 42-inch outdoor bar tables and most kitchen-height outdoor counters without the awkward gap or the cramped clearance. That number matters and it's not always consistent across brands, so it's worth confirming before you buy anything.
 
 The material is POLYWOOD's HDPE lumber, which is what the entire POLYWOOD line is built from. No rust, no rot, no repainting. Left outside year-round, it doesn't crack, fade appreciably, or lose structural integrity. The 20-year warranty backs this up, and in my experience with their furniture, the warranty exists because the product actually holds. The Nautical model specifically has a straightforward profile that pairs directly with POLYWOOD's own bar tables if you're building a matched set.
 
@@ -90,7 +90,7 @@ My honest recommendation: if you're already in the POLYWOOD ecosystem or plannin
 
 ### Keter Pacific Cool Bar
 
-The [Keter Pacific Cool Bar](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20) is not a stool. It is the most practical single purchase for an outdoor bar setup that I've come across, which is why it's in this roundup.
+The [Keter Pacific Cool Bar](product:keter-pacific-cool-bar) is not a stool. It is the most practical single purchase for an outdoor bar setup that I've come across, which is why it's in this roundup.
 
 The unit is a side table with a 7.5-gallon ice cooler built into the top. Lid closed, it functions as a table. Lid open, it holds 50-plus cans over ice. For anyone who has ever run extension cords, bought a separate rolling cooler, or dealt with a full-size cooler sitting on the patio taking up floor space and tripping people, this solves the problem in one piece of furniture. (I've done all three of those things.)
 
@@ -105,7 +105,7 @@ The review volume on this product is substantial: over 22,000 reviews with a str
 
 ### Christopher Knight Home Spanish Bay Acacia Dining Table
 
-The [Christopher Knight Home Spanish Bay Acacia Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20) is not a bar height piece. It sits at standard dining height. I'm including it because anyone building an outdoor entertaining area is often shopping a table alongside stools, and this table makes a genuine case for real wood over HDPE.
+The [Christopher Knight Home Spanish Bay Acacia Dining Table](product:christopher-knight-acacia-dining-table) is not a bar height piece. It sits at standard dining height. I'm including it because anyone building an outdoor entertaining area is often shopping a table alongside stools, and this table makes a genuine case for real wood over HDPE.
 
 Acacia is a dense, tight-grained hardwood. It's more weather-resistant than pine or eucalyptus at the same price point, and it has a warmth that POLYWOOD's recycled lumber simply doesn't replicate. If the aesthetic of your outdoor space requires real wood, this is a reasonable mid-price entry point, currently around $200 to $230.
 
@@ -120,7 +120,7 @@ For comparison, the [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) r
 
 ### MUCHENGHY Folding Adirondack Chair
 
-The [MUCHENGHY Folding Adirondack Chair](https://www.amazon.com/dp/B09Q61GK6G?tag=fourseasong-20) is the current number-one bestseller in Adirondack chairs on Amazon, with over 1,000 reviews at 4.7 stars. The relevant question is whether that ranking reflects quality or just price, and the answer is: some of both, honestly.
+The [MUCHENGHY Folding Adirondack Chair](product:muchenghy-folding-adirondack-chair) is the current number-one bestseller in Adirondack chairs on Amazon, with over 1,000 reviews at 4.7 stars. The relevant question is whether that ranking reflects quality or just price, and the answer is: some of both, honestly.
 
 The chair is HDPE construction, which is correct for outdoor use. It folds flat and weighs under 20 pounds, making storage and moving genuinely easy. The price, currently around $80 to $100, is significantly below POLYWOOD's equivalent Adirondack models, which run $200 to $300 depending on style and color options.
 
@@ -130,7 +130,7 @@ For a folding Adirondack specifically, the [Adirondack chair folding](/adirondac
 
 ### RSH Decor Sunbrella Deep Seating Replacement Cushion
 
-The [RSH Decor Sunbrella Deep Seating Cushion](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20) covers a purchase that many people delay longer than they should. Outdoor cushions degrade on a faster timeline than the furniture they sit on. If you have a patio sectional or set of deep chairs with cushions that are faded, compression-set, or growing mildew, replacing the cushions is a fraction of the cost of replacing the furniture, and in most cases the furniture itself is still structurally sound.
+The [RSH Decor Sunbrella Deep Seating Cushion](product:rsh-decor-sunbrella-deep-seat-cushion) covers a purchase that many people delay longer than they should. Outdoor cushions degrade on a faster timeline than the furniture they sit on. If you have a patio sectional or set of deep chairs with cushions that are faded, compression-set, or growing mildew, replacing the cushions is a fraction of the cost of replacing the furniture, and in most cases the furniture itself is still structurally sound.
 
 Sunbrella fabric is the relevant detail here. It is solution-dyed acrylic, which means the color runs through the fiber rather than sitting on the surface. The fade resistance and mold resistance are genuinely different from standard polyester cushion covers. I've had Sunbrella cushions on a set of teak loungers for five years and the color has not shifted. Standard polyester covers on the same exposure would be washed out by year two, if not sooner.
 

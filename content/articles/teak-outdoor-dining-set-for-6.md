@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time looking at outdoor dining sets for six people, you already know the decision tree collapses into two uncomfortable choices: buy real teak and accept the maintenance and the cost, or buy something cheaper and replace it in four years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20) is making a third argument, and it's worth hearing out before you dismiss it on the grounds that it isn't wood.
+If you've spent any time looking at outdoor dining sets for six people, you already know the decision tree collapses into two uncomfortable choices: buy real teak and accept the maintenance and the cost, or buy something cheaper and replace it in four years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is making a third argument, and it's worth hearing out before you dismiss it on the grounds that it isn't wood.
 
 Before we get into specifics, if you're still early in your research on patio furniture, the broader [Outdoor Furniture](/outdoor-furniture/) section on this site covers seating, storage, and material comparisons that may save you a few detours.
 
 ## Quick Verdict
 
-The [POLYWOOD Nautical Trestle 7-Piece Dining Set](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20) is currently around $1,800 to $2,100 on Amazon, depending on when you're looking. That is not a small number. But the comparison isn't to a $400 aluminum set. The honest comparison is to a real teak dining set for six, which runs $3,000 to $8,000 new and requires annual oiling, periodic sanding, and the kind of seasonal attention that most people don't actually follow through on. The POLYWOOD requires none of that. Leave it out year-round. Hose it off. Done.
+The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is currently around $1,800 to $2,100 on Amazon, depending on when you're looking. That is not a small number. But the comparison isn't to a $400 aluminum set. The honest comparison is to a real teak dining set for six, which runs $3,000 to $8,000 new and requires annual oiling, periodic sanding, and the kind of seasonal attention that most people don't actually follow through on. The POLYWOOD requires none of that. Leave it out year-round. Hose it off. Done.
 
 If you want the look of teak without teak's upkeep, and you're planning to stay in your house long enough to amortize the cost, this is the one I'd buy.
 

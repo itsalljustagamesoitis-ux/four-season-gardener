@@ -61,7 +61,7 @@ The honest answer upfront: if swivel function matters to you and you want someth
 
 ### POLYWOOD Nautical Bar Chair, White
 
-[POLYWOOD Nautical Bar Chair, White](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20)
+[POLYWOOD Nautical Bar Chair, White](product:polywood-nautical-bar-stool)
 
 The POLYWOOD Nautical is a fixed-height bar chair (30 inches, which fits standard 42-inch bar tables without requiring you to do math) made from HDPE lumber. POLYWOOD mills their HDPE from recycled plastic, and the material genuinely doesn't care about weather. No rust, no rot, no need to pull it indoors before a hard freeze. The 20-year warranty on the frame is not marketing language. It reflects how the material actually ages.
 
@@ -88,7 +88,7 @@ If you're specifically comparing wood alternatives for bar seating, the [teak ou
 
 ### Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown
 
-[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20)
+[Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](product:keter-pacific-cool-bar)
 
 This isn't a stool. It's the table the stools go next to, and I've included it because it solves a specific problem that comes up every time you host outdoors: where does the cooler go, and why does it always end up in the walkway?
 
@@ -112,7 +112,7 @@ The cooler requires a meaningful amount of ice to hold temperature in July heat.
 
 ### Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table
 
-[Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20)
+[Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](product:christopher-knight-acacia-dining-table)
 
 Acacia sits in an interesting middle position in outdoor wood furniture. It's denser and more naturally weather-resistant than eucalyptus or pine, and at mid-range prices it gives you real wood warmth that POLYWOOD's recycled plastic simply cannot replicate. If you're comparing dining tables for an outdoor setup, the Christopher Knight acacia looks genuinely good in a way that takes some effort with synthetic materials.
 
@@ -137,7 +137,7 @@ Some reviewers have flagged minor assembly fit tolerance issues. I'd treat that 
 
 ### POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set
 
-[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](https://www.amazon.com/dp/B085G1ZKXV?tag=fourseasong-20)
+[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set)
 
 This is the expensive option in the roundup, and I'm including it because the math actually works if you've replaced cheaper sectionals more than once. The POLYWOOD Edge runs well above $3,000 for the six-piece configuration. Premium all-weather sectionals in this tier rarely come in lower. If your reaction to that number is to close the tab, fair enough. If you've bought a wicker or resin-wicker set in the $800-1,200 range and watched it degrade over three or four years, the 20-year HDPE frame warranty starts to look like arithmetic rather than luxury.
 
@@ -162,7 +162,7 @@ The one real seasonal caveat: in climates with hard winters and freeze-thaw grou
 
 ### RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"
 
-[RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20)
+[RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 Most people don't need new patio furniture. They need new cushions. The frame is structurally fine, the aesthetic still works, but the cushions are faded, mildewed, or compressed past the point of comfort. That's the situation this product addresses.
 

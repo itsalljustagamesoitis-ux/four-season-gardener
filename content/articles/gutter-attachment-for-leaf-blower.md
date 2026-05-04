@@ -56,7 +56,7 @@ My recommendation sits clearly at the top of this article. The others earn their
 
 **Best for: Ground-level gutter cleaning without buying a new blower**
 
-The [WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit](https://www.amazon.com/dp/B07N2XNQ2V?tag=fourseasong-20) runs around $28 to $35 at the time of writing. For that price, you get a set of curved 11-inch extension tubes and a universal adapter designed to fit onto most consumer leaf blowers. The pitch is simple: attach it, angle up, blow out the gutter from the ground.
+The [WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit](product:worx-wa4094-gutter-kit) runs around $28 to $35 at the time of writing. For that price, you get a set of curved 11-inch extension tubes and a universal adapter designed to fit onto most consumer leaf blowers. The pitch is simple: attach it, angle up, blow out the gutter from the ground.
 
 It works. Not perfectly, not on every gutter configuration, but well enough that I've used it consistently for two fall seasons and have not been on a ladder for gutter cleaning since. For anyone who has ever stood on a 10-foot ladder with a leaf blower in one hand and a death grip on the gutter with the other, that matters. If you've ever thought "this is genuinely stupid and I could fall," this is the product that solves that specific moment.
 
@@ -89,7 +89,7 @@ For a deeper look at how these kits perform across blower types, the [gutter cle
 
 **Best for: High-power debris clearing with no battery management**
 
-The [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) runs around $90 to $110 depending on where you buy it. It's a corded 12-amp, 250 MPH unit that also functions as a vacuum and mulcher, with a stated 10:1 mulch ratio.
+The [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) runs around $90 to $110 depending on where you buy it. It's a corded 12-amp, 250 MPH unit that also functions as a vacuum and mulcher, with a stated 10:1 mulch ratio.
 
 The metal impeller is what separates this from most budget blower-vacs. Plastic impellers crack on sticks and acorn caps; metal ones don't. If you're running this through a wet autumn leaf pile with the usual mix of debris, the Toro handles it without the grinding complaints you get from cheaper units. I ran a Toro model in this product line for several seasons before moving to a backpack setup, and the impeller never gave me trouble.
 
@@ -120,7 +120,7 @@ Noise is 70-plus dB. Wear hearing protection. This isn't a complaint unique to t
 
 **Best for: First-time cordless buyers who want battery included**
 
-The [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) currently runs around $120 to $150 with the 4.0Ah battery and charger included. That's a reasonable all-in price for a brushless cordless unit with vacuum and mulch functions.
+The [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac) currently runs around $120 to $150 with the 4.0Ah battery and charger included. That's a reasonable all-in price for a brushless cordless unit with vacuum and mulch functions.
 
 Brushless motor at this price point is the headline. Brushed motors wear faster, run hotter, and eventually need replacement. Brushless motors extend tool life and reduce maintenance over a multi-year ownership cycle. For a budget cordless blower, that's a genuinely useful differentiator, and most competing units in this price range use brushed motors. Comparable to the HART 40V blower-vac, which I looked at alongside this one, the Greenworks holds up better over multiple seasons of use because of it.
 
@@ -150,7 +150,7 @@ The 340 CFM vacuum mode with the included collection bag handles a light session
 
 **Best for: Large properties where arm fatigue ends sessions early**
 
-The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) runs around $400 to $480 with battery, which makes it the significant investment in this roundup. That price is real and it's worth saying plainly: this is a premium tool for people who need premium performance.
+The [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower) runs around $400 to $480 with battery, which makes it the significant investment in this roundup. That price is real and it's worth saying plainly: this is a premium tool for people who need premium performance.
 
 The case for it is specific. If you've ever run a handheld blower for 45 minutes and put it down because your forearm and shoulder gave out before the job finished, that's what this solves. The backpack design moves the 56V battery weight to your shoulders and back, the same logic as a frame pack versus a single-strap bag. The tube assembly stays light in your hand. Over a long session on a large property, the difference in end-of-session fatigue is noticeable. (I timed a comparable session with a handheld EGO unit versus the backpack. The backpack extended effective working time by roughly 30 minutes before I needed a break.)
 

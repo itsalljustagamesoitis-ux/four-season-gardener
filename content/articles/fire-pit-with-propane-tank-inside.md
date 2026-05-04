@@ -18,6 +18,13 @@ products:
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
       - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+  - id: "stanbroil-19in-round-burner-pan"
+    role: "also_consider"
+    article_specific_pros:
+      - "Drop-in burner pan fits most round fire table enclosures for a clean concealed-tank setup"
+      - "19-inch stainless steel pan handles standard 20 lb propane tank inside the table base"
+    article_specific_cons:
+      - "Requires a compatible fire table enclosure , burner pan only, no enclosure included"
   - id: "napoleon-st-tropez-fire-table"
     role: "also_consider"
     article_specific_pros:
@@ -25,13 +32,6 @@ products:
       - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
     article_specific_cons:
       - "Premium price , significantly more expensive than Outland Living tables"
-  - id: "hiland-pyramid-patio-heater"
-    role: "also_consider"
-    article_specific_pros:
-      - "Pyramid flame column visible through glass tube is a dramatic visual focal point"
-      - "Wheels built into base for easy repositioning without lifting"
-    article_specific_cons:
-      - "Quartz glass tube is fragile , a tip-over or strong impact can crack it"
   - id: "solo-stove-bonfire-2"
     role: "also_consider"
     article_specific_pros:
@@ -63,12 +63,12 @@ I've tested and used fire pits and patio heaters across my property for several 
 Six products below. One clear recommendation, several solid options for specific situations, and one I'd only buy if budget were the only variable.
 
 ## Our Top Picks
-**Best overall:** [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) — 50,000 BTUs, usable table surface, and a tank that sits inside the cabinet where no one sees it.
-**Premium pick:** [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) — electronic ignition, natural gas conversion included, and aluminum that won't degrade.
-**Best statement heater:** [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) — the flame column through the glass tube is genuinely dramatic at night but the heat distribution less so.
-**Best smokeless wood pit:** [Solo Stove Bonfire 2.0](https://www.amazon.com/dp/B0B7B7R8HL?tag=fourseasong-20) — low smoke is accurate but smokeless is a bit of a stretch. Still the best double-wall wood pit at the price.
-**Best tabletop option:** [Bond Manufacturing Lara TableFire Firebowl](https://www.amazon.com/dp/B071KG5G7C?tag=fourseasong-20) — ambiance only, but it fits on a balcony and connects to a 1 lb cylinder. But if that’s what you’re looking for that’s ok.
-**Budget wood pit:** [Gas One 22" Wood Burning Fire Pit](https://www.amazon.com/dp/B09VS4NGQC?tag=fourseasong-20) under $50, mesh spark screen included, and it will rust by season three if you leave it out all year.
+**Best overall:** [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](product:outland-living-403-fire-table) — 50,000 BTUs, usable table surface, and a tank that sits inside the cabinet where no one sees it.
+**Premium pick:** [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) — electronic ignition, natural gas conversion included, and aluminum that won't degrade.
+**Best statement heater:** [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater) — the flame column through the glass tube is genuinely dramatic at night but the heat distribution less so.
+**Best smokeless wood pit:** [Solo Stove Bonfire 2.0](product:solo-stove-bonfire-2) — low smoke is accurate but smokeless is a bit of a stretch. Still the best double-wall wood pit at the price.
+**Best tabletop option:** [Bond Manufacturing Lara TableFire Firebowl](product:bond-lara-tabletop-fire-bowl) — ambiance only, but it fits on a balcony and connects to a 1 lb cylinder. But if that’s what you’re looking for that’s ok.
+**Budget wood pit:** [Gas One 22" Wood Burning Fire Pit](product:gas-one-22in-wood-burning-fire-pit) under $50, mesh spark screen included, and it will rust by season three if you leave it out all year.
 
 ## How We Tested
 Testing across this category meant asking consistent questions for each product. How quickly does it produce usable heat? Does the flame look good in daylight and after dark? How much management does it require while in use? And how does it behave in real conditions, like wind, cold temperatures, and guests who won't read instructions?
@@ -81,13 +81,13 @@ Assembly time and quality of instructions also factored in. One of these product
 ## Full Reviews
 
 ### Outland Living Series 403 44" Propane Fire Pit Table
-The [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) is my honest pick for most people buying a propane fire feature for a patio or deck. It runs around $350-$400 at the time of writing, which puts it in range for a piece of patio furniture rather than just an impulse buy.
+The [Outland Living Series 403](product:outland-living-403-fire-table) is my honest pick for most people buying a propane fire feature for a patio or deck. It runs around $350-$400 at the time of writing, which puts it in range for a piece of patio furniture rather than just an impulse buy.
 The cabinet conceals a standard 20 lb propane tank completely. The pre-attached regulator hose connects directly without adapters. The burner cover converts the top surface to a usable table, which matters because a fire pit that can only function as a fire pit is a single-use piece of furniture occupying 16 square feet of your patio, which is a lot potentially.
 At 50,000 BTUs, the heat output is real. Seated guests within 10 to 12 feet will feel it in October. The concrete-look tabletop is attractive and doesn't read as cheap, though the tradeoff is weight. Assembled, this table doesn't move easily. One 20 lb tank runs 8-10 hours at full output, and refills currently run around $20-25 at most hardware stores.
 The ignition is manual via a push-button lighter, which is perfectly functional but a step down from electronic ignition at this price. Assembly runs about 90 minutes and the instructions are adequate without being outright good.
 
 ### Napoleon St. Tropez Rectangle Patioflame Fire Table
-The [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) is currently priced in the $600-$700 range and positioned as a permanent outdoor living feature rather than a moveable accessory. Bit of a premium, and for a subset of buyers it's justified.
+The [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) is currently priced in the $600-$700 range and positioned as a permanent outdoor living feature rather than a moveable accessory. Bit of a premium, and for a subset of buyers it's justified.
 The aluminum frame is the strongest argument. Powder-coated aluminum won't rust, won't fade significantly under UV exposure, and stays light enough to move without help. The rustic bronze finish holds up better in outdoor conditions than anything with a steel base. Napoleon's credibility comes from their grill line, and the component quality of this reflects that.
 
 ![Fire Pit With Propane Tank Inside](/images/articles/fire-and-heat-2.jpg)
@@ -96,13 +96,13 @@ Electronic ignition with adjustable flame height means no matches and no pilot r
 The natural gas conversion kit being included is the long-term value argument. If you're building a permanent outdoor space and plan to run a gas line, the ongoing propane tank cost disappears. At $600 upfront with no recurring fuel cost, the economics look different over a five-year period than they do at point of purchase.
 
 ### Hiland HLDS01-WGTHG Pyramid Patio Heater
-The [Hiland pyramid heater](https://www.amazon.com/dp/B004KH4LAE?tag=fourseasong-20) costs around $180-$220, which makes it one of the more affordable standalone patio heaters on the market. The category comparison is the mushroom-top heater, models like the AmazonBasics 46,000 BTU Commercial Patio Heater, which distributes heat overhead across a wider seated radius.
+The [Hiland pyramid heater](product:hiland-wgthg-patio-heater) costs around $180-$220, which makes it one of the more affordable standalone patio heaters on the market. The category comparison is the mushroom-top heater, models like the AmazonBasics 46,000 BTU Commercial Patio Heater, which distributes heat overhead across a wider seated radius.
 The Hiland does something different though. The flame column running up through the quartz glass tube is a visual statement that a mushroom heater doesn't offer. After dark, it’s more like a lantern than a heater, and for covered patios or outdoor dining spaces where atmosphere matters, the difference is noticeable.
 There are some practical trade-offs though. Heat distribution is concentrated closer to the column rather than radiating broadly. Guests seated six feet away from the side get less heat than they would from an overhead model. The quartz glass tube is also fragile. Tip it over and it will crack most likely. Replacement tubes are available on Amazon for around $25-$35, and the built-in tip-over shutoff means a knocked-over heater won't become a fire. But you will be waiting for a replacement part before you can use it again.
 The wheels built into the base are useful for moving it between spaces without lifting. That works well enough on a flat deck or patio, less so on flagstone or gravel.
 
 ### Solo Stove Bonfire 2.0
-The [Solo Stove Bonfire 2.0](https://www.amazon.com/dp/B0B7B7R8HL?tag=fourseasong-20) isn't a propane product. It's in this roundup because it competes directly for the same budget and the same use case, and the smoke question is one a lot of buyers get wrong.
+The [Solo Stove Bonfire 2.0](product:solo-stove-bonfire-2) isn't a propane product. It's in this roundup because it competes directly for the same budget and the same use case, and the smoke question is one a lot of buyers get wrong.
 "Smokeless" is a marketing claim. "Low smoke with dry seasoned hardwood" is more accurate. The double-wall airflow design pulls air up from the base and creates a secondary combustion ring at the top, which burns off much of the particulate before it escapes. The result is noticeably less smoke than a standard steel bowl fire pit at the same temperature, and almost no smoke once the fire is hot and stable. The caveat is that green or wet wood defeats the design entirely and produces as much smoke as any other open fire pit.
 
 ![Fire Pit With Propane Tank Inside](/images/articles/fire-and-heat-3.jpg)
@@ -110,13 +110,13 @@ The [Solo Stove Bonfire 2.0](https://www.amazon.com/dp/B0B7B7R8HL?tag=fourseason
 At around $300, it's sitting between the Gas One budget pit and the Outland table. The removable ash pan is a genuine convenience. The 20 lb stainless steel body is portable in a way that the Outland table isn't. If you'd rather have a traditional wood fire and are willing to source and store dry seasoned hardwood, this is the product to get. No cooking grate is included, the Solo Stove Camp Grate sells separately for around $35 and fits the Bonfire.
 
 ### Gas One 22" Wood Burning Fire Pit
-The [Gas One fire pit](https://www.amazon.com/dp/B09VS4NGQC?tag=fourseasong-20) costs under $50. That number does a lot of work in this category.
+The [Gas One fire pit](product:gas-one-22in-wood-burning-fire-pit) costs under $50. That number does a lot of work in this category.
 For someone who wants to know whether they'll actually use a fire pit before spending more, this is a reasonable entry point to opt for. The 22-inch bowl handles split logs without modification, the mesh spark screen reduces flying ember risk, and assembly takes under 20 minutes.
 The honest conversation is about smoke and longevity. This is a traditional campfire in a steel bowl, producing traditional campfire smoke. If you have guests who displace slightly from the wind direction, they will be in the smoke. That's not a design flaw, it's just what a single-wall steel fire pit does. The Solo Stove at $300 solves that problem, but this one doesn’t.
 Without a cover and indoor storage in the off-season, expect surface rust within two seasons and through-rust within three or four. A cover runs around $15. Store it. If this sits on a deck all winter under snow, it will show it by April.
 
 ### Bond Manufacturing Lara TableFire Firebowl
-The [Bond Lara TabletopFire](https://www.amazon.com/dp/B071KG5G7C?tag=fourseasong-20) runs around $60-$80 and operates on a 1 lb propane cylinder, the kind you'd use for a camping lantern. One cylinder lasts roughly 1.5 to 2 hours.
+The [Bond Lara TabletopFire](product:bond-lara-tabletop-fire-bowl) runs around $60-$80 and operates on a 1 lb propane cylinder, the kind you'd use for a camping lantern. One cylinder lasts roughly 1.5 to 2 hours.
 The size is the value proposition. This fits on any standard patio side table or balcony railing table. If you have a small deck, an apartment balcony, or an existing patio set with no room for a fire table, this is the only product in this category that fits.
 
 ![Fire Pit With Propane Tank Inside](/images/articles/fire-and-heat-4.jpg)

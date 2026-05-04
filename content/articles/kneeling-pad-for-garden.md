@@ -52,7 +52,7 @@ The four products below cover the range of what most gardeners actually need: a 
 
 ### Gorilla Grip Extra Thick Garden Kneeling Pad
 
-**[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](https://www.amazon.com/dp/B08SZQTWJV?tag=fourseasong-20)**
+**[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](product:gorilla-grip-kneeling-pad)**
 
 The Gorilla Grip is a foam rectangle. That's the whole product. 17.5 by 11 inches, about an inch and a half of compressed foam, water-resistant surface, beige. It does what it says: cushions your knees on hard surfaces. On concrete paths, gravel beds, brick edging, flagstone, any surface that would otherwise grind into your kneecap inside of five minutes, this pad buys you the time you need to work without the distraction of pain.
 
@@ -76,7 +76,7 @@ If you kneel on hard surfaces regularly and want something you can grab from a b
 
 ### Ohuhu Garden Kneeler and Seat
 
-**[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](https://www.amazon.com/dp/B00YQUSERQ?tag=fourseasong-20)**
+**[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](product:ohuhu-garden-kneeler-seat)**
 
 The Ohuhu is the product I'd recommend to most gardeners over forty who spend real time on their knees. Flip it one way and it's a kneeling pad with padded EVA foam and metal side handles. Flip it the other way and it's a low seat, 8 or so inches off the ground, for when your knees need a break but you want to keep working. The metal frame handles serve double duty: they steady the structure as a seat, and when you're kneeling, they give you something to push against when you stand back up.
 
@@ -103,7 +103,7 @@ The one practical warning: the metal frame will rust if you leave it outdoors th
 
 ### Pine Tree Tools Bamboo Garden Gloves
 
-**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)**
+**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)**
 
 The bamboo fiber story here is legitimate, not marketing copy. Bamboo is naturally moisture-wicking and breathable in a way that standard nitrile or polyester gloves are not. If you've ever finished a two-hour weeding session and peeled off a pair of gloves with hands that look like they've been in a swimming pool, that's the problem bamboo addresses. Your hands stay dry. That matters for grip, for comfort, and for the skin of people who garden for hours at a time.
 
@@ -125,7 +125,7 @@ These are not the right gloves for rose pruning, bramble clearance, or anything 
 
 ### Foxgloves Original Gardening Gloves
 
-**[Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)**
+**[Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)**
 
 ![Kneeling Pad For Garden](/images/articles/hand-tools-2.jpg)
 

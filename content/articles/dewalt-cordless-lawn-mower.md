@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're already running DeWalt's 20V MAX platform across your shop, garage, or garden shed, the [DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)](https://www.amazon.com/dp/B078YZ6Y4S?tag=fourseasong-20) is the obvious first mower to look at. It runs on the same batteries as your drill, your circular saw, your string trimmer. No separate chargers, no new ecosystem to buy into. That's either the whole pitch or it's not relevant to you, depending on where you already are with your tool collection.
+If you're already running DeWalt's 20V MAX platform across your shop, garage, or garden shed, the [DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)](product:dewalt-dcmw220p2-cordless-mower) is the obvious first mower to look at. It runs on the same batteries as your drill, your circular saw, your string trimmer. No separate chargers, no new ecosystem to buy into. That's either the whole pitch or it's not relevant to you, depending on where you already are with your tool collection.
 
 I've been testing cordless outdoor power equipment seriously for the past several years, building out coverage for our [Battery & Cordless Tools](/battery-equipment/) section, and the DCMW220P2 sits at the more accessible end of what DeWalt offers. It currently runs around $299 on Amazon (at the time of writing), includes two 5.0Ah 20V MAX batteries and a charger, and is aimed squarely at homeowners with smaller yards who want to cut the gas cord without spending EGO or Greenworks money on a different battery platform.
 

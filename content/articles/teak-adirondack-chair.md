@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time shopping for outdoor seating, you already know the teak vs. resin argument. Resin wins on maintenance. Teak wins on everything else you actually look at when you're sitting in your yard. The [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20) by TITAN Great Outdoors is the version of that argument that made me put my credit card down. Whether it was the right call is what this review is about. You can browse the broader [Outdoor Furniture](/outdoor-furniture/) category if you want to compare across material types first, but if you've already decided real wood is the direction, read on.
+If you've spent any time shopping for outdoor seating, you already know the teak vs. resin argument. Resin wins on maintenance. Teak wins on everything else you actually look at when you're sitting in your yard. The [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) by TITAN Great Outdoors is the version of that argument that made me put my credit card down. Whether it was the right call is what this review is about. You can browse the broader [Outdoor Furniture](/outdoor-furniture/) category if you want to compare across material types first, but if you've already decided real wood is the direction, read on.
 
 ## Quick Verdict
 
@@ -113,7 +113,7 @@ The chair is less suited for someone who needs lightweight or portable seating, 
 
 Not for structural reasons. Grade A teak handles freeze-thaw conditions without cracking or joint failure under normal circumstances. I leave mine out through hard winters without covering it. If you're preserving the oiled color, a furniture cover will slow the re-weathering process, but it's a convenience, not a requirement.
 
-### How often does the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20) need to be oiled?
+### How often does the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) need to be oiled?
 
 Once a year is the conservative answer. In practice, with moderate sun exposure and normal rainfall, you can stretch to every two years without visible degradation. If the wood starts looking dry or the gray tone is coming in faster than you want, that's the signal. Sunnyside and Star Brite both make teak oils in the $15 to $20 per quart range that work well.
 
@@ -147,7 +147,7 @@ POLYWOOD's Classic Adirondack runs around $250 to $300 and requires no maintenan
     },
     {
       "@type": "Question",
-      "name": "How often does the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20) need to be oiled?",
+      "name": "How often does the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) need to be oiled?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Once a year is the conservative answer. In practice, with moderate sun exposure and normal rainfall, you can stretch to every two years without visible degradation. If the wood starts looking dry or the gray tone is coming in faster than you want, that's the signal. Sunnyside and Star Brite both make teak oils in the $15 to $20 per quart range that work well."

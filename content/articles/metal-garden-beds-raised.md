@@ -40,7 +40,7 @@ Before we get into the head-to-head, if you're still figuring out whether metal 
 
 ## At-a-Glance
 
-Both the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) and the [VEGEGA 17-Inch Tall 6-in-1 Modular Metal Raised Garden Bed](https://www.amazon.com/dp/B09WH84SRK?tag=fourseasong-20) sit in the mid-price range, currently around $180 to $220 depending on configuration and seller. Both offer 17-inch depth, six-panel modularity, and a metal coating upgrade over standard galvanized steel. On paper, they're nearly twins.
+Both the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) and the [VEGEGA 17-Inch Tall 6-in-1 Modular Metal Raised Garden Bed](product:vegega-17inch-6in1-metal-bed) sit in the mid-price range, currently around $180 to $220 depending on configuration and seller. Both offer 17-inch depth, six-panel modularity, and a metal coating upgrade over standard galvanized steel. On paper, they're nearly twins.
 
 The practical differences come down to three things: coating chemistry, edge finish, and color availability. Vego Garden uses an Aluzinc coating and offers a wider color range including the Olive Green that's become something of a calling card for the brand. VEGEGA uses a zinc-aluminum-magnesium coating and has invested more obviously in rounded safety edges. Those two choices reflect different assumptions about what the buyer cares about most.
 
@@ -97,12 +97,12 @@ Color selection is narrower than Vego Garden's. If you have a specific finish in
 
 ## Verdict
 
-Both products do what they claim, and either one will outlperform standard galvanized or a typical wood kit over a decade-plus service life. If I had to direct someone to one or the other, I'd send most people to the [Vego Garden 17" 6-in-1](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) first. The Aluzinc coating has a track record I've observed directly, the color options are better, and the modular shapes give genuine configuration flexibility. For the price difference, which is minimal, the Vego Garden product has more going for it.
+Both products do what they claim, and either one will outlperform standard galvanized or a typical wood kit over a decade-plus service life. If I had to direct someone to one or the other, I'd send most people to the [Vego Garden 17" 6-in-1](product:vego-garden-6in1-17inch) first. The Aluzinc coating has a track record I've observed directly, the color options are better, and the modular shapes give genuine configuration flexibility. For the price difference, which is minimal, the Vego Garden product has more going for it.
 
 ![Metal Garden Beds Raised](/images/articles/raised-beds-5.jpg)
 
 
-The [VEGEGA](https://www.amazon.com/dp/B09WH84SRK?tag=fourseasong-20) is not a consolation prize. The rounded edges are a real safety improvement, and if you're assembling these solo or with limited dexterity, that matters. I'd also reach for VEGEGA immediately if the Vego Garden beds are out of stock in the configuration I needed. The coating technology is sound, the depth is identical, and you won't be disappointed with the growing results.
+The [VEGEGA](product:vegega-17inch-6in1-metal-bed) is not a consolation prize. The rounded edges are a real safety improvement, and if you're assembling these solo or with limited dexterity, that matters. I'd also reach for VEGEGA immediately if the Vego Garden beds are out of stock in the configuration I needed. The coating technology is sound, the depth is identical, and you won't be disappointed with the growing results.
 
 One thing both beds share: they won't solve a poor soil mix or a bad site. Seventeen inches of depth is only useful if you fill it with something worth growing in. If you're thinking about irrigation at the same time, it's worth looking at [self-watering elevated garden beds](/self-watering-elevated-garden-beds/) as a comparison point, particularly if you travel or deal with inconsistent summer rainfall.
 

@@ -59,15 +59,15 @@ Everything reviewed here is part of the broader world of [Bird Feeders & Baths](
 
 ## Our Top Picks
 
-**Best overall:** [WHITEHORSE Bird House Pole with Baffle](https://www.amazon.com/dp/B0DK7Y8QDB?tag=fourseasong-20). Most stable, best baffle design, suited for serious feeding setups.
+**Best overall:** [WHITEHORSE Bird House Pole with Baffle](product:whitehorse-squirrel-proof-feeder-pole). Most stable, best baffle design, suited for serious feeding setups.
 
-**Best for multiple feeders:** [FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](https://www.amazon.com/dp/B0FB942Y4R?tag=fourseasong-20). Three hooks, 19-inch baffle, handles a real load.
+**Best for multiple feeders:** [FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](product:feed-garden-3hook-squirrel-pole). Three hooks, 19-inch baffle, handles a real load.
 
-**Best complete station kit:** [Bird Feeding Station Kit with Squirrel Baffle](https://www.amazon.com/dp/B093B3PYQK?tag=fourseasong-20). Suet cage, mesh tray, fruit hook all included.
+**Best complete station kit:** [Bird Feeding Station Kit with Squirrel Baffle](product:bird-feeding-station-kit-baffle). Suet cage, mesh tray, fruit hook all included.
 
-**Best budget double hook:** [Gtongoko 92 Inch Double Shepherds Hook](https://www.amazon.com/dp/B0CXP5R13F?tag=fourseasong-20). Reliable two-feeder setup at a fair price.
+**Best budget double hook:** [Gtongoko 92 Inch Double Shepherds Hook](product:gtongoko-92in-feeder-pole-with-baffle). Reliable two-feeder setup at a fair price.
 
-**Best for soft or uneven ground:** [eWonLife 92 Inch Squirrel Proof Bird Feeder Pole](https://www.amazon.com/dp/B0DZWSMQXF?tag=fourseasong-20). Nine-prong base is the most stable I've tested on loose soil.
+**Best for soft or uneven ground:** [eWonLife 92 Inch Squirrel Proof Bird Feeder Pole](product:ewonlife-92in-squirrel-proof-pole). Nine-prong base is the most stable I've tested on loose soil.
 
 ## How We Tested
 
@@ -84,7 +84,7 @@ I'm not measuring in a lab. But I am measuring. Baffle diameter with a tape meas
 
 ### WHITEHORSE Bird House Pole with Baffle
 
-[WHITEHORSE Bird House Pole with Baffle](https://www.amazon.com/dp/B0DK7Y8QDB?tag=fourseasong-20) currently runs around $45 to $55 on Amazon, which puts it at the higher end of this mid-price group.
+[WHITEHORSE Bird House Pole with Baffle](product:whitehorse-squirrel-proof-feeder-pole) currently runs around $45 to $55 on Amazon, which puts it at the higher end of this mid-price group.
 
 The baffle design is what sets this one apart. It's a true wrap-around cone, not a flimsy plastic disc, and it's positioned at a height that actually intercepts a climbing squirrel before it gets close to the feeder. I've seen baffles mounted so low that a determined squirrel simply reaches around the top. That's not a problem here if you install it correctly, which the instructions explain reasonably well.
 
@@ -96,7 +96,7 @@ My honest assessment: if you're setting up one serious feeding station and you w
 
 ### Gtongoko 92 Inch Double Shepherds Hook
 
-[Gtongoko Bird Feeder Pole Squirrel Proof, 92 Inch Double Shepherds Hook](https://www.amazon.com/dp/B0CXP5R13F?tag=fourseasong-20) is priced around $30 to $38, which is the most accessible price in this group.
+[Gtongoko Bird Feeder Pole Squirrel Proof, 92 Inch Double Shepherds Hook](product:gtongoko-92in-feeder-pole-with-baffle) is priced around $30 to $38, which is the most accessible price in this group.
 
 At 92 inches installed height, the two shepherd's hooks give you enough clearance that a squirrel leaping from a moderate distance can't make the jump cleanly, assuming you've sited the pole correctly. The 5-prong base is a step up from the 2- or 3-prong designs that were common a couple of years ago. It held firm through several weeks of testing on lawn, though I'd be cautious about very soft or waterlogged soil.
 
@@ -111,7 +111,7 @@ For two feeders on a budget, this is a solid choice. If you're comparing it agai
 
 ### eWonLife 92 Inch Squirrel Proof Bird Feeder Pole
 
-[eWonLife 92 Inch Squirrel Proof Bird Feeder Pole with 9 Prongs Base](https://www.amazon.com/dp/B0DZWSMQXF?tag=fourseasong-20) runs around $35 to $45 at the time of writing.
+[eWonLife 92 Inch Squirrel Proof Bird Feeder Pole with 9 Prongs Base](product:ewonlife-92in-squirrel-proof-pole) runs around $35 to $45 at the time of writing.
 
 The 9-prong base is the standout feature and the reason this one earns the "best for soft or uneven ground" designation. Most competitors use 5 prongs. Nine prongs distribute the load more evenly and bite into soft soil at more angles. On the wet, soft section of lawn I tested it on, this pole stayed plumb after six weeks when others had developed a visible lean.
 
@@ -126,7 +126,7 @@ One limitation: the included hardware for connecting sections could be more prec
 
 ### FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole
 
-[FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](https://www.amazon.com/dp/B0FB942Y4R?tag=fourseasong-20) is priced around $38 to $48.
+[FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](product:feed-garden-3hook-squirrel-pole) is priced around $38 to $48.
 
 Three hooks and a 19-inch baffle diameter. That's what makes this one different. Nineteen inches is the largest baffle in this roundup, and it shows in performance. During the four weeks I ran this pole, I had zero squirrel successes. The wider cone simply intercepts more climbing angles. If you've been reading about [squirrel domes for bird feeders](/squirrel-dome-for-bird-feeder/) as an alternative approach, the baffle on this unit is comparable in effective coverage area.
 
@@ -138,7 +138,7 @@ If your priority is running multiple feeders from one location, this is the prac
 
 ### Bird Feeding Station Kit with Squirrel Baffle
 
-[Bird Feeding Station Kit with Squirrel Baffle](https://www.amazon.com/dp/B093B3PYQK?tag=fourseasong-20) runs around $40 to $50 and includes more hardware than anything else in this roundup.
+[Bird Feeding Station Kit with Squirrel Baffle](product:bird-feeding-station-kit-baffle) runs around $40 to $50 and includes more hardware than anything else in this roundup.
 
 Suet cage, mesh tray, fruit hook, the baffle, and the pole itself. For someone setting up a feeding station from scratch, this is genuinely convenient. You don't need to figure out what accessories are compatible with the pole or source them separately. For anyone who's spent 20 minutes on a product page trying to determine if a feeder hook fits a 1-inch pole, that simplification has real value.
 

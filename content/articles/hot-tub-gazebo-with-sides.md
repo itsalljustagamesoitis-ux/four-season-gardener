@@ -11,8 +11,15 @@ hero_image_alt: "Hot Tub Gazebo With Sides"
 description: "Find a hot tub gazebo with sides that blocks wind and rain. We review 4 real options and explain why open pergolas fall short."
 target_keyword: "hot tub gazebo with sides"
 products:
-  - id: "palram-martinique-10x12-gazebo"
+  - id: "purple-leaf-12x14-hot-tub-gazebo"
     role: "best_overall"
+    article_specific_pros:
+      - "Vented double roof releases steam year-round , purpose-built for hot tub environments"
+      - "Includes mosquito netting and privacy curtains , genuine side enclosure out of the box"
+    article_specific_cons:
+      - "Premium price; permanent installation is not easily relocated once anchored"
+  - id: "palram-martinique-10x12-gazebo"
+    role: "also_consider"
     article_specific_pros:
       - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
@@ -25,13 +32,6 @@ products:
       - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
-  - id: "arrow-select-10x8-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "80 sq ft of storage handles a full complement of lawn and garden equipment"
-      - "Padlockable doors; reinforced corners resist wind racking"
-    article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
   - id: "suncast-sutton-7x7-shed"
     role: "also_consider"
     article_specific_pros:
@@ -50,13 +50,13 @@ Before we get into individual picks, it helps to know that most of what's market
 
 ## Our Top Picks
 
-**Best permanent structure:** [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) , the only pick here with a roof material designed to last a decade without replacement.
+**Best permanent structure:** [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) , the only pick here with a roof material designed to last a decade without replacement.
 
-**Best natural wood option:** [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) , handsome structure, faster assembly than raw lumber, but budget for the polycarbonate roof add-on and biennial restaining.
+**Best natural wood option:** [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) , handsome structure, faster assembly than raw lumber, but budget for the polycarbonate roof add-on and biennial restaining.
 
-**Best budget steel shed:** [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) , not a gazebo, but if enclosed storage adjacent to a hot tub space is part of your plan, this handles it at mid-range cost.
+**Best budget steel shed:** [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) , not a gazebo, but if enclosed storage adjacent to a hot tub space is part of your plan, this handles it at mid-range cost.
 
-**Best low-maintenance enclosed shed:** [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](https://www.amazon.com/dp/B00NP34O56?tag=fourseasong-20) , resin wins on long-term upkeep, though the footprint limits what you can store.
+**Best low-maintenance enclosed shed:** [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) , resin wins on long-term upkeep, though the footprint limits what you can store.
 
 ## How We Tested
 
@@ -71,7 +71,7 @@ None of these structures were tested over a single afternoon. Structures that li
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof
 
-If you're going to install a permanent structure over a hot tub, the roof material is where the decision actually lives. Fabric canopy gazebos from most mid-range brands are replaced every two to three seasons. They sag, they fade, they pool water, and in a heavy snow year they fail outright. The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) uses twin-wall polycarbonate panels that block 99.9% of UV while diffusing light so you're not sitting under harsh glare. That roof will be in the same condition in year eight that it was in year one, which is not something you can say about a fabric canopy.
+If you're going to install a permanent structure over a hot tub, the roof material is where the decision actually lives. Fabric canopy gazebos from most mid-range brands are replaced every two to three seasons. They sag, they fade, they pool water, and in a heavy snow year they fail outright. The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) uses twin-wall polycarbonate panels that block 99.9% of UV while diffusing light so you're not sitting under harsh glare. That roof will be in the same condition in year eight that it was in year one, which is not something you can say about a fabric canopy.
 
 The powder-coated aluminum frame won't rust. That matters directly for a hot tub application, where steam and humidity are constant. A painted steel frame in the same environment would need monitoring and touch-up. The aluminum doesn't.
 
@@ -86,7 +86,7 @@ For a comparison point: this is a step up in roof durability from the Sunjoy 10x
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-The [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) is the choice if you want natural wood and are willing to maintain it. North American cedar is naturally rot-resistant without chemical treatment, which gives it a practical advantage over pressure-treated pine in a humid hot tub environment. The pre-cut, pre-drilled, pre-stained components reduce assembly time significantly compared to building from raw lumber, which anyone who has tried to source, cut, and square-up dimensional lumber for a 10x12 structure will appreciate.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the choice if you want natural wood and are willing to maintain it. North American cedar is naturally rot-resistant without chemical treatment, which gives it a practical advantage over pressure-treated pine in a humid hot tub environment. The pre-cut, pre-drilled, pre-stained components reduce assembly time significantly compared to building from raw lumber, which anyone who has tried to source, cut, and square-up dimensional lumber for a 10x12 structure will appreciate.
 
 The base kit is a pergola, meaning open-slat overhead coverage that provides filtered shade but not rain protection. The polycarbonate roof panel add-on from Yardistry is a separate purchase, currently running around $300 to $400, and I'd call it close to mandatory if you want year-round usability in a climate with real winters. Without it, you have an attractive structure that you won't want to sit under in rain or heavy snow season.
 
@@ -98,7 +98,7 @@ If I were choosing between the Yardistry and a comparable vinyl-frame kit at a s
 
 ### Arrow Select 10' x 8' Steel Storage Shed, Charcoal
 
-This is not a gazebo and does not go over a hot tub. Including it here because a fair number of people searching for hot tub enclosure solutions are actually solving a combined problem: covered hot tub area plus enclosed storage for towels, chemicals, equipment, and the general accumulation of outdoor living. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) addresses the second part of that problem at a mid-range price, currently around $500 to $600.
+This is not a gazebo and does not go over a hot tub. Including it here because a fair number of people searching for hot tub enclosure solutions are actually solving a combined problem: covered hot tub area plus enclosed storage for towels, chemicals, equipment, and the general accumulation of outdoor living. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) addresses the second part of that problem at a mid-range price, currently around $500 to $600.
 
 ![Hot Tub Gazebo With Sides](/images/articles/structures-5.jpg)
 
@@ -111,7 +111,7 @@ For storage-only use adjacent to a hot tub setup, this performs well at the pric
 
 ### Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed
 
-The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](https://www.amazon.com/dp/B00NP34O56?tag=fourseasong-20) is the maintenance argument in physical form. No painting. No staining. No rust treatment. No rot. Resin sheds ask nothing of you year to year, which makes them appealing for anyone who has spent a weekend restaining cedar or touching up a painted metal shed and decided they'd rather not do that again.
+The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) is the maintenance argument in physical form. No painting. No staining. No rust treatment. No rot. Resin sheds ask nothing of you year to year, which makes them appealing for anyone who has spent a weekend restaining cedar or touching up a painted metal shed and decided they'd rather not do that again.
 
 The double-wall panel construction is more rigid than the thin single-wall resin sheds that flex and creak when you push against them. A skylight panel lets natural light in without requiring a power run. The door is lockable. At 49 square feet, this is a tool and equipment shed, not a workshop. It fits what it fits.
 
@@ -148,7 +148,7 @@ You can find more guidance on planning permanent structures on our [Greenhouses,
 
 ### What is the best gazebo to put over a hot tub?
 
-The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) is the best fit for most permanent installations. The polycarbonate roof handles rain and UV without replacement, the powder-coated aluminum frame holds up in the humid environment a hot tub creates, and the 10-year warranty backs it up. The trade-off is that it's an open-air design. Side panels would need to be sourced separately for wind and privacy coverage.
+The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) is the best fit for most permanent installations. The polycarbonate roof handles rain and UV without replacement, the powder-coated aluminum frame holds up in the humid environment a hot tub creates, and the 10-year warranty backs it up. The trade-off is that it's an open-air design. Side panels would need to be sourced separately for wind and privacy coverage.
 
 ![Hot Tub Gazebo With Sides](/images/articles/structures-7.jpg)
 
@@ -179,7 +179,7 @@ A standard six-person hot tub is roughly 84 by 84 inches, or 7 by 7 feet. A 10x1
       "name": "What is the best gazebo to put over a hot tub?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) is the best fit for most permanent installations. The polycarbonate roof handles rain and UV without replacement, the powder-coated aluminum frame holds up in the humid environment a hot tub creates, and the 10-year warranty backs it up. The trade-off is that it's an open-air design. Side panels would need to be sourced separately for wind and privacy coverage."
+        "text": "The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) is the best fit for most permanent installations. The polycarbonate roof handles rain and UV without replacement, the powder-coated aluminum frame holds up in the humid environment a hot tub creates, and the 10-year warranty backs it up. The trade-off is that it's an open-air design. Side panels would need to be sourced separately for wind and privacy coverage."
       }
     },
     {

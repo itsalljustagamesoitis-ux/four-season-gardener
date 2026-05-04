@@ -36,7 +36,7 @@ product_b: "mr-beams-solar-wedge-plus"
 
 If you've spent any time looking at outdoor security flood lights, you already know the market splits pretty cleanly into two camps: hardwired fixtures that draw from your home's electrical supply, and solar-powered units that go up with a screwdriver and no permit. Both have legitimate uses. The mistake most buyers make is treating this as a quality divide, when it's actually a commitment divide.
 
-This comparison covers two budget-friendly options that represent each camp honestly. The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20) is a hardwired fixture with three independently adjustable heads and selectable color temperatures. The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) mounts on any sun-facing wall in about ten minutes and never touches your electrical panel. For a broader look at how these fit into a full property lighting plan, the site's [Garden Lighting](/lighting/) hub is a good starting point.
+This comparison covers two budget-friendly options that represent each camp honestly. The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light) is a hardwired fixture with three independently adjustable heads and selectable color temperatures. The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) mounts on any sun-facing wall in about ten minutes and never touches your electrical panel. For a broader look at how these fit into a full property lighting plan, the site's [Garden Lighting](/lighting/) hub is a good starting point.
 
 The verdict here is clear, and it depends almost entirely on one question: do you have an outdoor junction box, or are you willing to have one installed?
 
@@ -92,7 +92,7 @@ For permanent installations over driveways, garages, or barn entries where you n
 
 ### Installation Without Commitment
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) goes up with a few screws. No breaker panel, no wire fish, no permit in most jurisdictions. If you're renting, this is probably your only practical option for a motion-activated security light. If you own but the location you need covered has no nearby electrical access, this solves the problem without a construction project.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) goes up with a few screws. No breaker panel, no wire fish, no permit in most jurisdictions. If you're renting, this is probably your only practical option for a motion-activated security light. If you own but the location you need covered has no nearby electrical access, this solves the problem without a construction project.
 
 The self-contained design, with the solar panel integrated into the top of the unit rather than requiring a separate panel and cable run, is a genuine advantage over older solar security light designs. You're not trying to position a remote panel for sun exposure while also optimizing the light head for coverage. The whole unit goes in the best sun position, and the wedge shape means the panel faces up and out while the light head faces downward and forward.
 
@@ -118,9 +118,9 @@ If you're uncertain about sun exposure at your intended location, check it at no
 
 ## Verdict
 
-Buy the [LEONLITE 3CCT LED Security Light](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20) if you have an existing outdoor junction box or are willing to have one installed. The light output difference alone makes this the right choice for any location where you need genuine flood coverage. Three adjustable heads, ETL certification, IP65 waterproofing, and selectable color temperature at under $45 for the fixture itself is hard to argue with. This is the better security light in almost every objective measure.
+Buy the [LEONLITE 3CCT LED Security Light](product:leonlite-3cct-security-light) if you have an existing outdoor junction box or are willing to have one installed. The light output difference alone makes this the right choice for any location where you need genuine flood coverage. Three adjustable heads, ETL certification, IP65 waterproofing, and selectable color temperature at under $45 for the fixture itself is hard to argue with. This is the better security light in almost every objective measure.
 
-Buy the [Mr Beams Solar Wedge Plus](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) if the LEONLITE's installation requirement isn't feasible. Renters, anyone covering a remote outbuilding far from electrical access, or anyone who wants a functional motion light at a secondary entry without a project. At $25-$35, the no-wiring advantage is real, and 410 lumens is sufficient for single-point entry illumination.
+Buy the [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) if the LEONLITE's installation requirement isn't feasible. Renters, anyone covering a remote outbuilding far from electrical access, or anyone who wants a functional motion light at a secondary entry without a project. At $25-$35, the no-wiring advantage is real, and 410 lumens is sufficient for single-point entry illumination.
 
 Don't buy the Mr Beams hoping it performs like the LEONLITE. It won't. Different tools, different jobs.
 

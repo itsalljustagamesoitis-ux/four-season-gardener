@@ -38,9 +38,9 @@ Before getting into the specifics, if you're building out a broader seating arra
 
 ## Quick Verdict
 
-The [Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests](https://www.amazon.com/dp/B07VYSP2N2?tag=fourseasong-20) is the buy. At around $660, it's not cheap, but Grade A teak at this price point is actually competitive if you've shopped the category seriously. The classic bowed-back silhouette is exactly what a garden bench should look like. It seats two comfortably, three if they're friendly, and it will outlast most of what else you'd spend $660 on for the garden.
+The [Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests](product:ash-ember-hawthorne-teak-bench-b07v) is the buy. At around $660, it's not cheap, but Grade A teak at this price point is actually competitive if you've shopped the category seriously. The classic bowed-back silhouette is exactly what a garden bench should look like. It seats two comfortably, three if they're friendly, and it will outlast most of what else you'd spend $660 on for the garden.
 
-The [Tangkula 51" Teak Wood Outdoor Bench](https://www.amazon.com/dp/B0GVJ98FKW?tag=fourseasong-20) is an honest second option. It's solid teak, it looks the part, and at roughly $280 to $320 (prices fluctuate), it's a reasonable entry point. But you're getting a different grade of wood, and that matters in climates with real freeze-thaw ground movement and wet springs.
+The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv) is an honest second option. It's solid teak, it looks the part, and at roughly $280 to $320 (prices fluctuate), it's a reasonable entry point. But you're getting a different grade of wood, and that matters in climates with real freeze-thaw ground movement and wet springs.
 
 ## Key Specs
 

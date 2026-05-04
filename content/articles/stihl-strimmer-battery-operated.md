@@ -25,7 +25,7 @@ noindex: false
 
 If you've been searching for a Stihl strimmer battery operated option and keep running into the same wall , Stihl's battery lineup isn't broadly available through Amazon in the US market , you're not imagining things. The FSA 57, FSA 86, and FSA 90 R are genuinely good machines, but getting your hands on one typically means going through a dealer, and that's before you factor in the cost of buying into Stihl's AK or AP battery system separately. For a lot of buyers, that's a reasonable trade-off. For many others, it isn't.
 
-The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD, 56V 2.5Ah Kit](https://www.amazon.com/dp/B07BBW8P9Y?tag=fourseasong-20) is where I'd point most people instead. It's available now, it ships with battery and charger, and it comes from a brand that has built one of the more coherent [battery-powered cordless tool ecosystems](/battery-equipment/) in the outdoor power category. Whether it's worth your money depends on what you're actually cutting and how much of it. Here's my assessment.
+The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD, 56V 2.5Ah Kit](product:ego-st1521s-string-trimmer) is where I'd point most people instead. It's available now, it ships with battery and charger, and it comes from a brand that has built one of the more coherent [battery-powered cordless tool ecosystems](/battery-equipment/) in the outdoor power category. Whether it's worth your money depends on what you're actually cutting and how much of it. Here's my assessment.
 
 ## Quick Verdict
 

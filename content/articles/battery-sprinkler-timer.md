@@ -59,7 +59,7 @@ This roundup covers five products that work together across a complete hose-end 
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)
+[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)
 
 **Currently around $13 on Amazon.**
 
@@ -86,7 +86,7 @@ The limitations are real and worth stating plainly. There's one zone, one time s
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)
+[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-3.jpg)
 
@@ -99,7 +99,7 @@ The WeatherSense feature auto-skips watering when rain has fallen or is forecast
 
 Two notes on battery performance. The B-hyve XD runs on AA batteries, and cold weather reduces runtime noticeably. If you're running this through shoulder seasons with overnight temperatures dropping into the 30s, check the batteries before you leave for a week. The second note: the Wi-Fi hub is a separate physical device that plugs into an outlet near your router. It's included in the bundle, but it does add a dependency. If the hub loses power or your Wi-Fi drops, the timer still runs its last programmed schedule locally, so it's not a complete failure point, but remote control goes away.
 
-Compared to the older [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20), this is a different category of product. The mechanical timer asks nothing of you but a twist. This asks you to install an app, connect a hub, and maintain a Wi-Fi signal. If that tradeoff feels right for your setup, the two-zone capability and weather skipping are worth it.
+Compared to the older [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer), this is a different category of product. The mechanical timer asks nothing of you but a twist. This asks you to install an app, connect a hub, and maintain a Wi-Fi signal. If that tradeoff feels right for your setup, the two-zone capability and weather skipping are worth it.
 
 **Pros.**
 - Two independent zones from one faucet.
@@ -121,7 +121,7 @@ Compared to the older [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](h
 
 ### Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
 
-[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20)
+[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller)
 
 **Currently around $170-$180 on Amazon.**
 
@@ -151,7 +151,7 @@ Alexa and Google Home compatibility is there if you use either platform. EPA Wat
 
 ### Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.
 
-[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](https://www.amazon.com/dp/B00OHRTKLM?tag=fourseasong-20)
+[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](product:flexzilla-garden-hose-50ft)
 
 **Currently around $55-$65 on Amazon.**
 
@@ -182,7 +182,7 @@ The weight when filled is real. At 50 feet, this hose is not light when there's 
 
 ### RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut
 
-[RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](https://www.amazon.com/dp/B003H9WJMI?tag=fourseasong-20)
+[RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](product:rts-50gal-rain-barrel)
 
 **Currently around $90-$100 on Amazon.**
 
@@ -215,11 +215,11 @@ The caveat: 50 gallons empties fast in a dry stretch. During the dry weeks I get
 
 The mechanical-to-smart progression here is real, and each tier requires more from you in exchange for more capability.
 
-The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20) asks nothing of you except that you set the dial before you walk away. There's no scheduling, no weather awareness, no app. If you have one zone and you just want to stop forgetting to turn the hose off, this is the correct and sufficient answer. Spending more doesn't improve outcomes for that use case.
+The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer) asks nothing of you except that you set the dial before you walk away. There's no scheduling, no weather awareness, no app. If you have one zone and you just want to stop forgetting to turn the hose off, this is the correct and sufficient answer. Spending more doesn't improve outcomes for that use case.
 
-The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) is the right step up when you have multiple zones running from a single faucet, or when you want the system to respond to weather without your involvement. The Wi-Fi hub dependency is a real complexity addition. If your internet goes down regularly or you're not comfortable with app-based setup, the mechanical timer stays more reliable in practice, though I appreciate that's not everyone's situation.
+The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) is the right step up when you have multiple zones running from a single faucet, or when you want the system to respond to weather without your involvement. The Wi-Fi hub dependency is a real complexity addition. If your internet goes down regularly or you're not comfortable with app-based setup, the mechanical timer stays more reliable in practice, though I appreciate that's not everyone's situation.
 
-The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20) belongs in a different conversation entirely. It's the right product for homeowners with inground systems who are ready to replace aging infrastructure. It does not belong in a hose-end setup.
+The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller) belongs in a different conversation entirely. It's the right product for homeowners with inground systems who are ready to replace aging infrastructure. It does not belong in a hose-end setup.
 
 ### Battery Ecosystem and Cold Weather Performance
 
@@ -246,11 +246,11 @@ Battery life varies significantly by timer model, usage frequency, and temperatu
 
 ### Can I use a hose-end timer with a rain barrel?
 
-A standard hose-end timer can physically connect to a rain barrel spigot, but the gravity pressure from a 50-gallon barrel is much lower than municipal water pressure. Soaker hoses and drip lines will run adequately. Spray heads and sprinklers will not. The [RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](https://www.amazon.com/dp/B003H9WJMI?tag=fourseasong-20) is best paired with soaker hose systems for exactly this reason.
+A standard hose-end timer can physically connect to a rain barrel spigot, but the gravity pressure from a 50-gallon barrel is much lower than municipal water pressure. Soaker hoses and drip lines will run adequately. Spray heads and sprinklers will not. The [RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](product:rts-50gal-rain-barrel) is best paired with soaker hose systems for exactly this reason.
 
 ### What's the difference between a hose-end timer and an inground sprinkler controller?
 
-A hose-end timer attaches to an outdoor faucet and controls water flow through a standard garden hose connection. No wiring, no installation in the ground. An inground sprinkler controller, like the [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20), connects to a system of buried pipes and valve boxes. The two categories do not overlap. If you don't have
+A hose-end timer attaches to an outdoor faucet and controls water flow through a standard garden hose connection. No wiring, no installation in the ground. An inground sprinkler controller, like the [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller), connects to a system of buried pipes and valve boxes. The two categories do not overlap. If you don't have
 
 <script type="application/ld+json">
 {
@@ -270,7 +270,7 @@ A hose-end timer attaches to an outdoor faucet and controls water flow through a
       "name": "Can I use a hose-end timer with a rain barrel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A standard hose-end timer can physically connect to a rain barrel spigot, but the gravity pressure from a 50-gallon barrel is much lower than municipal water pressure. Soaker hoses and drip lines will run adequately. Spray heads and sprinklers will not. The [RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](https://www.amazon.com/dp/B003H9WJMI?tag=fourseasong-20) is best paired with soaker hose systems for exactly this reason."
+        "text": "A standard hose-end timer can physically connect to a rain barrel spigot, but the gravity pressure from a 50-gallon barrel is much lower than municipal water pressure. Soaker hoses and drip lines will run adequately. Spray heads and sprinklers will not. The [RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](product:rts-50gal-rain-barrel) is best paired with soaker hose systems for exactly this reason."
       }
     },
     {
@@ -278,7 +278,7 @@ A hose-end timer attaches to an outdoor faucet and controls water flow through a
       "name": "What's the difference between a hose-end timer and an inground sprinkler controller?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A hose-end timer attaches to an outdoor faucet and controls water flow through a standard garden hose connection. No wiring, no installation in the ground. An inground sprinkler controller, like the [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20), connects to a system of buried pipes and valve boxes. The two categories do not overlap. If you don't have"
+        "text": "A hose-end timer attaches to an outdoor faucet and controls water flow through a standard garden hose connection. No wiring, no installation in the ground. An inground sprinkler controller, like the [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller), connects to a system of buried pipes and valve boxes. The two categories do not overlap. If you don't have"
       }
     }
   ]

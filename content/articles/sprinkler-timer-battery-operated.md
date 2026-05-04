@@ -59,7 +59,7 @@ This roundup covers five products that together form a complete picture of batte
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-**[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)**
+**[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)**
 
 Currently around $13 on Amazon.
 
@@ -83,7 +83,7 @@ The limitation is real: one zone, one duration, no scheduling. If you want to wa
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-**[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)**
+**[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)**
 
 ![Sprinkler Timer Battery Operated](/images/articles/irrigation-8.jpg)
 
@@ -114,7 +114,7 @@ For raised bed and container gardens where running new wiring isn't an option, t
 
 ### Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
 
-**[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20)**
+**[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller)**
 
 Currently around $170 to $200 on Amazon.
 
@@ -144,7 +144,7 @@ The Wi-Fi requirement catches people out. Controllers typically live in garages 
 
 ### DIG GE200 Drip and Micro Sprinkler Kit, 122-Piece
 
-**[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20)**
+**[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit)**
 
 Currently around $45 to $55 on Amazon.
 
@@ -172,7 +172,7 @@ One note on the component count: 122 pieces sounds overwhelming, and the first t
 
 ### Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit
 
-**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20)**
+**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed)**
 
 Currently around $35 to $45 on Amazon.
 

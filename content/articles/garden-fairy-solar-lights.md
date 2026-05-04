@@ -54,7 +54,7 @@ My recommendation is at the top. The rest follows.
 
 ### TomCare Solar Lanterns Outdoor Flickering Flame, 4-Pack
 
-[TomCare Solar Lanterns Outdoor Flickering Flame, 4-Pack](https://www.amazon.com/dp/B08QV8LTF4?tag=fourseasong-20) runs around $35 to $40 for the four-pack at the time of writing, which works out to roughly $9 per light. For an evening garden or a garden party setup, that's a reasonable price for what they actually do.
+[TomCare Solar Lanterns Outdoor Flickering Flame, 4-Pack](product:tomcare-solar-flame-lanterns) runs around $35 to $40 for the four-pack at the time of writing, which works out to roughly $9 per light. For an evening garden or a garden party setup, that's a reasonable price for what they actually do.
 
 What they do is flicker. The LED flame effect is warm amber and moves in the way that candle flames move, unevenly, with occasional brief surges. In a pathway or border installation at dusk, the effect reads as lit candles from twenty feet away. Up close, you can tell it's LED, and I'm not going to pretend otherwise. If you're placing these on a dinner table where guests will be sitting inches away, the illusion breaks down. Staked along a garden path or at the corners of a border planting, it holds.
 
@@ -82,7 +82,7 @@ The honest caveat is sunlight dependency. A full day of direct sun gets you six 
 
 ### LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack
 
-The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) is currently around $55 to $60 for four, so roughly $14 per unit. For a budget solar spotlight with motion sensing and three operating modes, that's a fair price.
+The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) is currently around $55 to $60 for four, so roughly $14 per unit. For a budget solar spotlight with motion sensing and three operating modes, that's a fair price.
 
 The three modes are worth understanding before you buy. Mode one is motion-activated from off, which gives you a burst of bright light when something moves through the detection zone and then returns to dark. Mode two is a permanent dim light that brightens on motion. Mode three is permanent full brightness. Most people will run these in mode two along a front pathway, where you want some baseline illumination with a boost when someone approaches.
 
@@ -110,7 +110,7 @@ The limitation worth knowing: the rechargeable battery is built in and not repla
 
 ### Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) sits around $45 to $55 at the time of writing. It is a self-contained, wall-mounted, solar-powered motion light with 410 lumens from 102 LEDs, and it installs with three screws in about fifteen minutes.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) sits around $45 to $55 at the time of writing. It is a self-contained, wall-mounted, solar-powered motion light with 410 lumens from 102 LEDs, and it installs with three screws in about fifteen minutes.
 
 The solar panel is built into the top of the unit. There is no separate panel to position, no cable running between components, nothing to align. You find a wall surface that gets reasonable direct sun, mark three holes, drive the screws, and you're done. For renters who cannot run wiring, or for anyone who wants lighting on a garage wall or shed without hiring an electrician, that self-contained design is a meaningful advantage over hardwired alternatives.
 
@@ -137,7 +137,7 @@ It is not compatible with smart home systems, which won't matter to most buyers 
 
 ### VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights
 
-The [VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights](https://www.amazon.com/dp/B07CBV7HVW?tag=fourseasong-20) runs around $270 to $300 at time of writing. That is more than the other three products in this roundup combined, and I'm including it because it solves a different problem.
+The [VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights](product:volt-landscape-lighting-kit) runs around $270 to $300 at time of writing. That is more than the other three products in this roundup combined, and I'm including it because it solves a different problem.
 
 ![Garden Fairy Solar Lights](/images/articles/lighting-3.jpg)
 

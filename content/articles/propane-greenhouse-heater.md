@@ -61,20 +61,20 @@ If you're building out a new structure, take a look at what a [cedar greenhouse 
 
 ### Mr. Heater 9,000 BTU Portable Buddy
 
-The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](https://www.amazon.com/dp/B002G51BZU?tag=fourseasong-20) is the most widely used portable propane heater for greenhouse applications, and there's a reason for that. It has two safety features that matter in an enclosed growing space: a low-oxygen shutoff sensor (ODS) and a tip-over auto-shutoff. Both are standard on this unit and neither is something you should compromise on.
+The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](product:mr-heater-portable-buddy-b002) is the most widely used portable propane heater for greenhouse applications, and there's a reason for that. It has two safety features that matter in an enclosed growing space: a low-oxygen shutoff sensor (ODS) and a tip-over auto-shutoff. Both are standard on this unit and neither is something you should compromise on.
 
 At 9,000 BTU on its high setting, it's rated for spaces up to 225 square feet. That's a small greenhouse, a cold frame shelter, or a seedling area you've partitioned off for the winter. It is not going to heat a medium or large structure in any weather that would actually threaten your plants.
 
 ![Propane Greenhouse Heater](/images/articles/structures-7.jpg)
 
 
-The unit runs on 1-lb propane canisters, which burn through fast at full output. Figure roughly 3 to 4 hours on a small canister at high. For overnight frost protection, you will need the adapter hose to connect to a 20-lb tank (the [F273702](https://www.amazon.com/dp/B0002YTX98?tag=fourseasong-20) hose is the standard fit, around $25 at the time of writing). That's an extra purchase, and it should be factored into the total cost. The heater itself currently runs around $80 to $90 on Amazon.
+The unit runs on 1-lb propane canisters, which burn through fast at full output. Figure roughly 3 to 4 hours on a small canister at high. For overnight frost protection, you will need the adapter hose to connect to a 20-lb tank (the [F273702](product:f273702-propane-adapter-hose) hose is the standard fit, around $25 at the time of writing). That's an extra purchase, and it should be factored into the total cost. The heater itself currently runs around $80 to $90 on Amazon.
 
 What the Portable Buddy does well: it's reliable, the safety features work, it starts easily in cold temperatures, and it has a decades-long track record. I've seen these in more small greenhouse setups than I can count. What it doesn't do: it won't save you in a serious cold snap if your greenhouse is over 200 square feet and poorly insulated.
 
 ### 18,000 BTU Propane Heater with Regulator and Hose
 
-The [18,000 BTU Propane Heater for Garages & Yards with Regulator and Hose](https://www.amazon.com/dp/B0G52CH12D?tag=fourseasong-20) is the step up from the Portable Buddy for growers who need more coverage. At 18,000 BTU, it's rated for spaces up to 450 square feet, and it ships with the regulator and hose already included, which matters because the Portable Buddy doesn't.
+The [18,000 BTU Propane Heater for Garages & Yards with Regulator and Hose](product:propane-heater-18kbtu-b0g5) is the step up from the Portable Buddy for growers who need more coverage. At 18,000 BTU, it's rated for spaces up to 450 square feet, and it ships with the regulator and hose already included, which matters because the Portable Buddy doesn't.
 
 The real advantage here is output. If you have a 12-by-20 or 14-by-20 greenhouse and you're trying to keep temperatures above freezing through a cold night, this unit gets you closer to viable coverage than the Mr. Heater can. It's currently priced around $90 to $110, which puts it in a similar range to the Portable Buddy with its hose adapter, making it more straightforward value for anyone with a larger space.
 

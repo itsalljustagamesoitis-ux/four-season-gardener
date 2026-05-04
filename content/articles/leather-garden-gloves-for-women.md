@@ -36,7 +36,7 @@ A note on scope: this article focuses on lighter-weight gloves suited to everyda
 
 ## Top Picks
 
-### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)
+### [Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)
 
 Pine Tree Tools made the right call leading with bamboo fiber. The material is legitimately breathable in a way that cheaper nitrile-coated gloves aren't, and after a few hours of weeding in warm weather, that difference is noticeable. The moisture-wicking properties hold up across a session rather than failing once your hands start to warm up.
 
@@ -65,7 +65,7 @@ The touchscreen-compatible fingertips are a genuinely practical addition rather 
 
 ,
 
-### [Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)
+### [Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)
 
 The Foxgloves Original has one feature that most garden gloves don't bother with: the gauntlet extension past the wrist. It sounds minor until the first time you reach into a shrub border and drag your forearm across rough bark, or lean over a bed of rosemary and come up with a line of scratches across your wrist. If you've spent any time gardening in short sleeves, you know exactly what that costs you in minor annoyances that accumulate.
 

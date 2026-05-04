@@ -75,7 +75,7 @@ Plastic bins left in direct sun crack over time. Lid design matters more than mo
 
 ## Top Picks
 
-### Best Tumbler: [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20)
+### Best Tumbler: [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](product:fcmp-im4000-tumbling-composter)
 
 This is the most-reviewed tumbling composter on Amazon, and in this case the review volume reflects real merit rather than marketing spend. The dual-chamber design is the primary reason to buy it over anything single-chamber. You fill one side while the other finishes curing. That sounds minor until you've stood in front of a single-chamber tumbler trying to decide whether to add fresh kitchen scraps to a batch that's three weeks into a five-week cycle.
 
@@ -85,7 +85,7 @@ Currently around $100 to $115 on Amazon, which is fair for what it delivers. Mad
 
 The limitations are real and worth stating clearly. The 37-gallon total capacity (split across two chambers) fills up quickly for larger households. And if you're placing this in full Connecticut summer sun without any shade, the drum will show stress fractures within a few years. Placement matters. I'd compare it favorably to the Envirocycle 35-Gallon Composter, which I used for two seasons before switching to the dual-chamber format. The single-chamber Envirocycle is better-looking, but the FCMP is more functional for continuous use.
 
-### Best Vermicomposting System: [Worm Factory 360 Black Vermicomposting System, 4-Tray](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20)
+### Best Vermicomposting System: [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black)
 
 If you're composting indoors or in a small-space environment, the Worm Factory 360 is the most sensible system available at this price point (currently around $130 to $145). The modular tray design expands up to eight trays as your worm population grows, and it produces two useful outputs. Worm castings go into the soil or as a top dressing. The liquid collected at the base, called worm tea, dilutes into a foliar spray or soil drench that's genuinely effective on potted plants.
 
@@ -98,7 +98,7 @@ The constraints matter here. Red wiggler worms (Eisenia fetida) are not included
 
 If you're comparing this to the Urban Worm Bag Version 2 (currently around $120), the Worm Factory offers more structure and better liquid collection. The Urban Worm Bag produces castings faster, but the liquid runoff management is messier.
 
-### Essential Add-On: [Uncle Jim's Worm Farm 1,000 Count Red Wiggler Composting Worms](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20)
+### Essential Add-On: [Uncle Jim's Worm Farm 1,000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers)
 
 The Worm Factory 360 without worms is a plastic tray system. These are the worms you need, and 1,000 is the right starting quantity for a four-tray setup. Uncle Jim's ships live with moisture-absorbing material and offers an arrival guarantee if you report losses within 48 hours of delivery. Currently around $40 to $45.
 
@@ -111,7 +111,7 @@ Live shipping has real risks. If your order is arriving in July heat or January 
 
 Allow four to six weeks for the population to acclimate and reach full processing capacity. A well-established colony will process kitchen scraps at up to four times their body weight per week.
 
-### Best for No Outdoor Space: [Lomi 1 Smart Waste and Food Composter, 3L, White](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20)
+### Best for No Outdoor Space: [Lomi 1 Smart Waste and Food Composter, 3L, White](product:lomi-electric-composter)
 
 The Lomi is the only product in this guide that works entirely on a kitchen counter with no outdoor access required. It runs on electricity, processes food waste in four to eight hours depending on the mode selected, and produces a dry organic material that can go into potted soil or a garden bed for further curing. Currently around $500 on Amazon, which is the highest price point here by a significant margin.
 
@@ -128,11 +128,11 @@ The choice largely comes down to your setup, not your ambition.
 ![Black Soldier Fly Compost Bin](/images/articles/composting-7.jpg)
 
 
-If you have outdoor space and want the most useful finished compost with minimal ongoing cost, buy the [FCMP IM4000](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20). Place it in partial shade, maintain a rough carbon-to-nitrogen balance, and tumble it every two to three days during active decomposition. You'll have finished material in four to six weeks.
+If you have outdoor space and want the most useful finished compost with minimal ongoing cost, buy the [FCMP IM4000](product:fcmp-im4000-tumbling-composter). Place it in partial shade, maintain a rough carbon-to-nitrogen balance, and tumble it every two to three days during active decomposition. You'll have finished material in four to six weeks.
 
-If you're composting indoors or in a small-space environment and you have somewhere that stays between 40 and 80 degrees year-round, buy the [Worm Factory 360](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) and the [Uncle Jim's red wigglers](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20) together. Budget around $175 to $190 for the combination. The worm tea alone justifies the system if you have houseplants or a container garden.
+If you're composting indoors or in a small-space environment and you have somewhere that stays between 40 and 80 degrees year-round, buy the [Worm Factory 360](product:worm-factory-360-black) and the [Uncle Jim's red wigglers](product:uncle-jims-1000-red-wigglers) together. Budget around $175 to $190 for the combination. The worm tea alone justifies the system if you have houseplants or a container garden.
 
-If you have no outdoor access at all, the [Lomi](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20) is the only product here that works for you. Go in with accurate expectations about the output, factor in the LomiPod cost over time, and recognize you're paying a premium for a unique use case.
+If you have no outdoor access at all, the [Lomi](product:lomi-electric-composter) is the only product here that works for you. Go in with accurate expectations about the output, factor in the LomiPod cost over time, and recognize you're paying a premium for a unique use case.
 
 One thing worth saying plainly before you decide: none of these systems benefit from neglect. A tumbler that doesn't get turned, a worm bin that goes cold, or a Lomi with a clogged filter all underperform. The best composter is the one you'll actually maintain, which sometimes means choosing the simpler system over the technically superior one. The site's [Composting](/composting/) section has more on matching system complexity to realistic maintenance habits.
 

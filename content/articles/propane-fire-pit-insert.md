@@ -34,7 +34,7 @@ product_b: "napoleon-st-tropez-fire-table"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you're shopping for a propane fire pit insert or a fire table that uses one, you've probably already noticed the price spread is wide and the marketing language is nearly identical across brands. "Elegant." "Durable." "Perfect for entertaining." Every product page says the same thing. What you actually want to know is which one holds up, which one is worth the price, and whether the cheaper option is genuinely inferior or just less expensive. I've spent time with both the [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20), and I have a clear preference. More on that below.
+If you're shopping for a propane fire pit insert or a fire table that uses one, you've probably already noticed the price spread is wide and the marketing language is nearly identical across brands. "Elegant." "Durable." "Perfect for entertaining." Every product page says the same thing. What you actually want to know is which one holds up, which one is worth the price, and whether the cheaper option is genuinely inferior or just less expensive. I've spent time with both the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table), and I have a clear preference. More on that below.
 
 For broader context on what to pair with either of these, or how they sit within a larger patio heating plan, the [Fire Pits & Patio Heaters](/fire-and-heat/) section of this site covers the full range.
 
@@ -85,7 +85,7 @@ This is the right table for someone who wants to add a fire feature to a patio t
 
 ## Why Choose the Napoleon St. Tropez
 
-The [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) costs three to four times more than the Outland Living. That price difference needs to earn its way, and in some situations it does.
+The [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) costs three to four times more than the Outland Living. That price difference needs to earn its way, and in some situations it does.
 
 ### Build Quality and Materials
 
@@ -117,9 +117,9 @@ Someone who is building or refining a permanent outdoor living space, has or can
 
 ## Verdict
 
-Buy the [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) if you want a functional, good-value fire table that heats a normal-sized patio and doubles as surface space. It does what it promises at a price that doesn't require a long justification. The propane logistics are manageable, the heat output is solid, and at under $300 it's a reasonable purchase without needing to overthink it.
+Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional, good-value fire table that heats a normal-sized patio and doubles as surface space. It does what it promises at a price that doesn't require a long justification. The propane logistics are manageable, the heat output is solid, and at under $300 it's a reasonable purchase without needing to overthink it.
 
-Buy the [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) if you're furnishing a patio for the long term, want natural gas capability, and are willing to pay for construction that won't require attention after a few seasons. The price gap is real but so is the quality gap.
+Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're furnishing a patio for the long term, want natural gas capability, and are willing to pay for construction that won't require attention after a few seasons. The price gap is real but so is the quality gap.
 
 What I would not do is split the difference and buy a mid-range table from a brand with no history in combustion products. The Outland Living is a known quantity at the low end. Napoleon is a known quantity at the premium end. The middle of the market is where the uncertainty lives.
 

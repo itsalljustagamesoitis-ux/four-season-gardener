@@ -34,7 +34,7 @@ product_b: "birdies-metal-raised-bed-patio"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you've been shopping for self watering elevated garden beds long enough, you've probably noticed that the category splits pretty cleanly into two groups: beds designed for in-ground or lawn installation, and beds designed to sit on a hard surface without destroying your deck. These two products land in each of those camps, and buying the wrong one for your situation is an expensive mistake. The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) is built for gardeners who want depth and flexibility on soil or lawn. The [Birdies Metal Raised Garden Bed with Thermoplastic Base](https://www.amazon.com/dp/B07NS6QRQ2?tag=fourseasong-20) is built for decks, patios, and balconies where surface protection matters as much as growing performance.
+If you've been shopping for self watering elevated garden beds long enough, you've probably noticed that the category splits pretty cleanly into two groups: beds designed for in-ground or lawn installation, and beds designed to sit on a hard surface without destroying your deck. These two products land in each of those camps, and buying the wrong one for your situation is an expensive mistake. The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is built for gardeners who want depth and flexibility on soil or lawn. The [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) is built for decks, patios, and balconies where surface protection matters as much as growing performance.
 
 I've been testing and evaluating raised bed options across my 12-acre property for years, and if you want the full picture on what's worth your money in this category, the [Raised Beds](/raised-beds/) hub on this site covers the landscape in detail. For now, here's how these two stack up.
 
@@ -73,7 +73,7 @@ The other thing to know: in full afternoon sun, the metal panels absorb heat and
 
 If you're coming from a wood bed background and comparing your options, the discussion in our [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) article covers why metal tends to outlast cedar and pine at this price range, which informs whether the Vego's price premium makes sense for your situation.
 
-The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) currently runs around $185-$220 on Amazon depending on the configuration and any active promotions.
+The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) currently runs around $185-$220 on Amazon depending on the configuration and any active promotions.
 
 ## Why Choose the Birdies Metal Raised Garden Bed
 
@@ -97,15 +97,15 @@ The single-size configuration is a real limitation compared to the Vego. You get
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-6.jpg)
 
 
-The [Birdies Metal Raised Garden Bed with Thermoplastic Base](https://www.amazon.com/dp/B07NS6QRQ2?tag=fourseasong-20) is the cleaner choice if surface protection is your primary constraint.
+The [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) is the cleaner choice if surface protection is your primary constraint.
 
 ## Verdict
 
 These two beds are not competing for the same buyer, which makes the choice more straightforward than most comparisons in this category.
 
-Buy the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) if you're installing on soil or lawn and growing deep-rooted vegetables. The 17-inch depth justifies the price premium on its own if you're serious about tomatoes or root crops. The modular flexibility adds long-term value if your growing setup is likely to change. Expect to pay around $185-$220. Assembly requires gloves and about 30-40 minutes.
+Buy the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) if you're installing on soil or lawn and growing deep-rooted vegetables. The 17-inch depth justifies the price premium on its own if you're serious about tomatoes or root crops. The modular flexibility adds long-term value if your growing setup is likely to change. Expect to pay around $185-$220. Assembly requires gloves and about 30-40 minutes.
 
-Buy the [Birdies Metal Raised Garden Bed with Thermoplastic Base](https://www.amazon.com/dp/B07NS6QRQ2?tag=fourseasong-20) if you're on a deck, patio, or balcony. The surface protection justifies the entire purchase price before you've grown a single vegetable. The 15-inch depth is sufficient for the majority of kitchen garden crops. Budget around $135-$160 and plan to bring it in before serious cold if you're in a climate with hard winters.
+Buy the [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) if you're on a deck, patio, or balcony. The surface protection justifies the entire purchase price before you've grown a single vegetable. The 15-inch depth is sufficient for the majority of kitchen garden crops. Budget around $135-$160 and plan to bring it in before serious cold if you're in a climate with hard winters.
 
 If you're still working through whether a metal raised bed is the right choice at all versus a cedar or composite option, the full range of options is covered in our [raised bed guides](/raised-beds/). The [cedar raised garden bed kit](/cedar-raised-garden-bed-kit/) article in particular covers when wood still makes sense at this price tier.
 

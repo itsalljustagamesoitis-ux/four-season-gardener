@@ -25,27 +25,6 @@ products:
       - "Moving water attracts birds more effectively than static baths"
     article_specific_cons:
       - "Pump stops when sunlight is insufficient"
-  - id: "droll-yankees-yankee-flipper"
-    role: "also_consider"
-    article_specific_pros:
-      - "Weight-activated motor spins the perch when a squirrel lands , reliably deters them"
-      - "5 lb seed capacity; wide seed tube fits sunflower and mixed seed"
-    article_specific_cons:
-      - "Requires charging , dead battery means squirrels have free access"
-  - id: "squirrel-buster-plus-feeder"
-    role: "also_consider"
-    article_specific_pros:
-      - "Passive weight-activated cage closes seed ports when squirrels grab on , no batteries needed"
-      - "5.1 lb capacity with 6 feeding ports; cardinal ring accommodates larger birds"
-    article_specific_cons:
-      - "More involved cleaning than simple tray feeders"
-  - id: "first-nature-3055-hummingbird-feeder"
-    role: "also_consider"
-    article_specific_pros:
-      - "Wide-mouth base unscrews completely for easy cleaning , the biggest hummingbird feeder frustration solved"
-      - "10 feeding ports accommodate multiple hummingbirds simultaneously during peak migration"
-    article_specific_cons:
-      - "32 oz capacity requires frequent cleaning in summer heat , nectar ferments in 3-5 days"
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
@@ -61,7 +40,7 @@ One honest note before we get into it: two of the five products below are feeder
 
 ### Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath
 
-[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20)
+[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)
 
 **Price: currently around $45 on Amazon**
 
@@ -89,7 +68,7 @@ The durability concern is real. Resin under sustained UV exposure loses color an
 
 ### Smart Solar AquaNura Bubbler Birdbath
 
-[Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20)
+[Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)
 
 **Price: currently around $40 on Amazon**
 
@@ -114,7 +93,7 @@ Performance drops on overcast days. In a wet spring or heavily wooded setting wi
 
 ### First Nature 3055 32-oz Hummingbird Feeder
 
-[First Nature 3055 32-oz Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+[First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)
 
 ![Modern Bird Bath](/images/articles/birds-wildlife-4.jpg)
 
@@ -140,7 +119,7 @@ The plastic construction is functional and nothing more. It won't win any shelf 
 
 ### Squirrel Buster Plus Bird Feeder with Cardinal Ring
 
-[Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+[Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
 **Price: currently around $65 on Amazon**
 
@@ -168,7 +147,7 @@ If you're already using a [bird feeder pole with squirrel baffle](/bird-feeder-p
 
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
 
-[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+[Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
 **Price: currently around $120 on Amazon**
 

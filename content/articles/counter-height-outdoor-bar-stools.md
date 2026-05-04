@@ -61,7 +61,7 @@ If you're still working through the broader question of what kind of outdoor sea
 
 ### POLYWOOD Nautical Bar Chair, White
 
-[POLYWOOD Nautical Bar Chair, White](https://www.amazon.com/dp/B085FWR6ZN?tag=fourseasong-20) is my main recommendation for anyone building or extending a proper outdoor bar setup. The seat sits at 30 inches, which fits standard outdoor bar tables and aligns with most kitchen-height pass-through counters.
+[POLYWOOD Nautical Bar Chair, White](product:polywood-nautical-bar-stool) is my main recommendation for anyone building or extending a proper outdoor bar setup. The seat sits at 30 inches, which fits standard outdoor bar tables and aligns with most kitchen-height pass-through counters.
 
 The construction is POLYWOOD's signature HDPE lumber, made from recycled plastic. It doesn't rust, rot, crack, or need paint. If you've ever left metal stools out through a wet spring and come back to orange streaks on your patio, you'll understand the appeal of a material that simply doesn't do that. I've had POLYWOOD pieces on a north-facing terrace through multiple hard winters and they look exactly as they arrived.
 
@@ -87,7 +87,7 @@ If you're working with teak elsewhere in your outdoor setup, the POLYWOOD's cool
 
 ### Keter Pacific Cool Bar, Espresso Brown
 
-The [Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](https://www.amazon.com/dp/B007O1CAZQ?tag=fourseasong-20) is technically a bar table, not a stool, but it belongs in this roundup because it defines the bar setup that the stools go around. It's the number one bestselling patio bar table on Amazon with over 22,000 reviews, and there's a specific reason for that: it has a 7.5-gallon built-in ice cooler under a lid that doubles as the table surface.
+The [Keter Pacific Cool Bar Outdoor Patio Furniture with Ice Cooler, Espresso Brown](product:keter-pacific-cool-bar) is technically a bar table, not a stool, but it belongs in this roundup because it defines the bar setup that the stools go around. It's the number one bestselling patio bar table on Amazon with over 22,000 reviews, and there's a specific reason for that: it has a 7.5-gallon built-in ice cooler under a lid that doubles as the table surface.
 
 When the lid is closed, you have a side table or bar-height surface at counter height. When it's open, you have 50-plus cans of cold storage without a separate cooler taking up floor space. For any setup where you're serving outside and you don't have refrigerator access within twenty feet, this product solves a real problem.
 
@@ -108,7 +108,7 @@ Pair the Keter Pacific with the POLYWOOD Nautical bar chairs and you have a comp
 
 ### Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table
 
-This one requires a caveat: the [Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](https://www.amazon.com/dp/B01MXS7121?tag=fourseasong-20) is a dining table, not a bar-height piece, and it doesn't pair with counter-height bar stools directly. I'm including it here because readers shopping for outdoor bar setups frequently want to compare real wood against synthetic alternatives, and this table is the honest mid-price option for that comparison.
+This one requires a caveat: the [Christopher Knight Home Spanish Bay Outdoor Acacia Wood Dining Table](product:christopher-knight-acacia-dining-table) is a dining table, not a bar-height piece, and it doesn't pair with counter-height bar stools directly. I'm including it here because readers shopping for outdoor bar setups frequently want to compare real wood against synthetic alternatives, and this table is the honest mid-price option for that comparison.
 
 ![Counter Height Outdoor Bar Stools](/images/articles/outdoor-furniture-8.jpg)
 
@@ -133,7 +133,7 @@ Currently around $200 to $240. Some assembly required, and a small number of rev
 
 ### POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set
 
-The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](https://www.amazon.com/dp/B085G1ZKXV?tag=fourseasong-20) is not a bar stool and it is not counter height. I'm including it in this roundup because anyone building out an outdoor bar area often needs a companion seating zone, and the POLYWOOD Edge is the product I would pair with the Nautical bar chairs if budget allowed.
+The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set) is not a bar stool and it is not counter height. I'm including it in this roundup because anyone building out an outdoor bar area often needs a companion seating zone, and the POLYWOOD Edge is the product I would pair with the Nautical bar chairs if budget allowed.
 
 The six-piece modular configuration adapts to different patio shapes. The HDPE frame carries a 20-year warranty. The olefin cushions are UV and mold resistant with removable, machine-washable covers. In practice, this means you're not hand-scrubbing outdoor cushions in the driveway or replacing them every three seasons.
 
@@ -155,7 +155,7 @@ The price is the honest obstacle. Premium all-weather sectionals in this categor
 
 ### RSH Decor Sunbrella Deep Seating Replacement Cushion
 
-If you have existing outdoor chairs or a sectional whose frames are structurally sound but whose cushions have faded or mildewed beyond use, the [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20) is the practical answer. Genuine Sunbrella fabric is solution-dyed acrylic, which means the color is embedded in the fiber rather than applied as a surface treatment. It holds color in direct sun better than any polyester alternative I've used, and mold doesn't bond to it the way it does to foam-backed polyester cushions left in humid conditions.
+If you have existing outdoor chairs or a sectional whose frames are structurally sound but whose cushions have faded or mildewed beyond use, the [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion) is the practical answer. Genuine Sunbrella fabric is solution-dyed acrylic, which means the color is embedded in the fiber rather than applied as a surface treatment. It holds color in direct sun better than any polyester alternative I've used, and mold doesn't bond to it the way it does to foam-backed polyester cushions left in humid conditions.
 
 This cushion set replaces worn cushions on deep seating chairs, loveseats, and sectionals. Fill options include high-density polyester and quick-dry versions, which is worth knowing if your furniture doesn't drain well. Currently around $85 to $130 depending on fill option.
 

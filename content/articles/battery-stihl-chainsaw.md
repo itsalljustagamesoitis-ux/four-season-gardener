@@ -1,5 +1,5 @@
 ---
-title: "Battery Stihl Chainsaw Review: Why EGO Power+ Wins"
+title: "Battery Chainsaw Guide: EGO vs Gas-Powered Alternatives"
 slug: "battery-stihl-chainsaw"
 type: "review"
 date: 2026-05-01
@@ -12,18 +12,25 @@ description: "Stihl battery chainsaws aren't sold on Amazon. This review compare
 target_keyword: "battery stihl chainsaw"
 products:
   - id: "ego-cs1804-chainsaw"
-    role: "primary"
+    role: "best_overall"
     article_specific_pros:
       - "18-inch bar handles trees up to 32\" diameter in multiple cuts"
       - "Brushless motor delivers gas-equivalent cutting power with 3-second chain brake safety"
     article_specific_cons:
       - "Not suited for sustained professional logging"
+  - id: "milwaukee-m18-fuel-16in-chainsaw"
+    role: "also_consider"
+    article_specific_pros:
+      - "Auto-tensioning chain system eliminates mid-job adjustment stops — a real advantage in heavy work"
+      - "M18 platform covers 250+ Milwaukee tools, making this the obvious pick for existing Milwaukee users"
+    article_specific_cons:
+      - "Premium price over EGO; standalone buyers pay more for ecosystem value they may not need"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
 ---
 
-If you search "battery Stihl chainsaw" long enough, you will eventually hit a wall: Stihl does not sell through Amazon. Their battery lineup, including the well-regarded MSA 220 C-B and the compact MSA 140 C-B, is available in the US only through authorized dealers. For some people that's fine. For people who buy tools online, compare prices in a browser tab, and don't want to drive forty minutes to a dealer who may or may not have what they want in stock, that wall is real. This review covers what I'd actually buy in that situation. The [EGO POWER+ CS1804 18" Battery Powered Chainsaw](https://www.amazon.com/dp/B07YLXDK5K?tag=fourseasong-20) sits in the same performance class as the mid-range Stihl battery saws, ships to your door, and fits into one of the most practical battery ecosystems available to residential buyers right now.
+If you search "battery Stihl chainsaw" long enough, you will eventually hit a wall: Stihl does not sell through Amazon. Their battery lineup, including the well-regarded MSA 220 C-B and the compact MSA 140 C-B, is available in the US only through authorized dealers. For some people that's fine. For people who buy tools online, compare prices in a browser tab, and don't want to drive forty minutes to a dealer who may or may not have what they want in stock, that wall is real. This review covers what I'd actually buy in that situation. The [EGO POWER+ CS1804 18" Battery Powered Chainsaw](product:ego-cs1804-chainsaw) sits in the same performance class as the mid-range Stihl battery saws, ships to your door, and fits into one of the most practical battery ecosystems available to residential buyers right now.
 
 If you're building out a cordless tool setup from scratch, the ecosystem question matters more than any single tool. I've written about this across several pieces in [Battery & Cordless Tools](/battery-equipment/), and the short version is: the battery you already own is often worth more than a marginal spec advantage from a competing brand.
 
@@ -34,7 +41,7 @@ The EGO CS1804 is the battery chainsaw I'd recommend to most people maintaining 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-3.jpg)
 
 
-At the time of writing, the tool-only version runs around $230 on Amazon, and the kit with a 5Ah battery and charger is currently around $350. The [EGO POWER+ CS1804](https://www.amazon.com/dp/B07YLXDK5K?tag=fourseasong-20) is consistently in stock, which I mention only because Stihl battery inventory at dealers can be patchy.
+At the time of writing, the tool-only version runs around $230 on Amazon, and the kit with a 5Ah battery and charger is currently around $350. The [EGO POWER+ CS1804](product:ego-cs1804-chainsaw) is consistently in stock, which I mention only because Stihl battery inventory at dealers can be patchy.
 
 ## Key Specs
 

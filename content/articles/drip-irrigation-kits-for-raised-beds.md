@@ -59,7 +59,7 @@ For broader context on planning a drip system from scratch, the [Irrigation](/ir
 
 ### Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit
 
-**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20)** is the one I'd recommend first. Currently around $30 to $35 at the time of writing, it's priced as a budget product but built to Rain Bird's professional emitter tolerances, which is not something you get in most kits at this price.
+**[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed)** is the one I'd recommend first. Currently around $30 to $35 at the time of writing, it's priced as a budget product but built to Rain Bird's professional emitter tolerances, which is not something you get in most kits at this price.
 
 The kit is sized specifically for one 4x4 to 4x8 raised bed, which I know sounds limiting but is actually the right way to approach this. Most competing kits throw enough tubing at you to cover a quarter-acre, which sounds generous until you realize you've spent an afternoon cutting and fitting tubing you'll never use. This one comes configured for a single bed and includes a pressure regulator and inline filter, both of which matter more than most buyers realize. Without a pressure regulator, standard residential water pressure (60 to 80 psi at the tap) will blow apart drip emitter connections. The regulator steps that down to around 25 to 30 psi, which is where these emitters are rated. The filter keeps sediment out of the emitters. Neither component is exciting, but both are things you'd spend another $15 to $20 buying separately if they weren't included.
 
@@ -83,7 +83,7 @@ This kit pairs well with the [Gilmour Flat Weeper Soaker Hose](#gilmour-flat-soa
 
 ### Gilmour Flat Weeper Soaker Hose, 50 Ft.
 
-**[Gilmour Flat Weeper Soaker Hose, 50 Ft.](https://www.amazon.com/dp/B001IKVWVW?tag=fourseasong-20)** runs around $18 to $22 at the time of writing. It's not a drip emitter kit in the traditional sense, but it belongs in this roundup because for certain raised bed configurations it outperforms individual emitters on simplicity alone.
+**[Gilmour Flat Weeper Soaker Hose, 50 Ft.](product:gilmour-flat-soaker-hose-50ft)** runs around $18 to $22 at the time of writing. It's not a drip emitter kit in the traditional sense, but it belongs in this roundup because for certain raised bed configurations it outperforms individual emitters on simplicity alone.
 
 The flat design matters: it sits flush against the soil surface with no ridging that would lift the hose away from the root zone. Cheap vinyl soaker hoses tend to be round, which means they perch on top of the soil and lose water laterally before it reaches roots. The Gilmour is made from recycled rubber, which is more durable in freeze-thaw conditions than vinyl and resists kinking when you're running it in the U-pattern that works best in rectangular beds.
 
@@ -107,7 +107,7 @@ One thing you will need: a pressure regulator at the tap. The Gilmour's flat des
 
 ### DIG GE200 Drip and Micro Sprinkler Kit, 122-Piece
 
-The **[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20)** is a different kind of product. At around $30 to $40 at the time of writing, it's not a ready-to-run bed kit. It's a component library. If you're the kind of person who wants to design a drip system across multiple raised beds, containers, and mixed plantings, this is where you start.
+The **[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit)** is a different kind of product. At around $30 to $40 at the time of writing, it's not a ready-to-run bed kit. It's a component library. If you're the kind of person who wants to design a drip system across multiple raised beds, containers, and mixed plantings, this is where you start.
 
 The 122 pieces include 1/2-inch mainline fittings, 1/4-inch distribution tubing, both drip emitters and micro-sprinkler heads, stakes, caps, and hole punches. Everything is compatible with standard sizing across all major brands, so if you expand later with Rain Bird or Netafim components, they'll connect. That compatibility matters more than the piece count.
 
@@ -128,7 +128,7 @@ Where this kit falls short is in what it omits. No timer, no pressure regulator.
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-The **[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)** currently runs around $80 to $100 for the timer unit, with the Wi-Fi Hub sold separately at around $30 to $40 at the time of writing. That's a meaningful number. I want to be clear about why it might be worth it before I get to the caveats.
+The **[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)** currently runs around $80 to $100 for the timer unit, with the Wi-Fi Hub sold separately at around $30 to $40 at the time of writing. That's a meaningful number. I want to be clear about why it might be worth it before I get to the caveats.
 
 ![Drip Irrigation Kits For Raised Beds](/images/articles/irrigation-7.jpg)
 
@@ -155,7 +155,7 @@ Battery life is reduced in cold weather. I bring the timer indoors after the fir
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-The **[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)** costs under $15. It has a clockwork dial, no batteries, no app, no pairing process, and no scheduled programs. You twist the dial to set a run duration between 0 and 120 minutes, and it shuts the water off when time is up.
+The **[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)** costs under $15. It has a clockwork dial, no batteries, no app, no pairing process, and no scheduled programs. You twist the dial to set a run duration between 0 and 120 minutes, and it shuts the water off when time is up.
 
 If you've been hand-watering your raised beds because you keep forgetting to turn the hose off, this solves that problem completely and costs less than a bag of fertilizer. It's not automation in any meaningful sense. It's a shutoff with a countdown. But for a beginner running one bed with the Rain Bird kit, or anyone who wants to stop babysitting the hose, it does exactly what it claims.
 
@@ -200,9 +200,9 @@ For raised bed drip design that goes beyond single-kit coverage, the guide to [g
 
 ## My Actual Recommendation
 
-Buy the [Rain Bird GARDENKIT](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20) for each raised bed you want to irrigate, add the [Orbit 62034 mechanical timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20) if you're running one or two beds, and upgrade to the [Orbit B-hyve XD](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) if you have two zones to manage and want rain-skip functionality. If you're growing dense leafy crops and want the simplest possible system, swap the Rain Bird emitter kit for the [Gilmour soaker hose](https://www.amazon.com/dp/B001IKVWVW?tag=fourseasong-20) and add a $10 inline pressure regulator at the tap.
+Buy the [Rain Bird GARDENKIT](product:rain-bird-gardenkit-raised-bed) for each raised bed you want to irrigate, add the [Orbit 62034 mechanical timer](product:orbit-62034-single-dial-hose-timer) if you're running one or two beds, and upgrade to the [Orbit B-hyve XD](product:orbit-bhyve-xd-2port-timer) if you have two zones to manage and want rain-skip functionality. If you're growing dense leafy crops and want the simplest possible system, swap the Rain Bird emitter kit for the [Gilmour soaker hose](product:gilmour-flat-soaker-hose-50ft) and add a $10 inline pressure regulator at the tap.
 
-The [DIG GE200](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20) is for readers who want to design a system rather than deploy a kit. If you have three or more beds and the patience to plan the layout, it's the most flexible option at this price point.
+The [DIG GE200](product:dig-ge200-drip-kit) is for readers who want to design a system rather than deploy a kit. If you have three or more beds and the patience to plan the layout, it's the most flexible option at this price point.
 
 More detail on every category in this roundup, including timers, mainline components, and emitter types, is available through the [Irrigation](/irrigation/) hub.
 

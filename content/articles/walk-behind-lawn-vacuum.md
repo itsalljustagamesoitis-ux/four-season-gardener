@@ -50,7 +50,7 @@ This roundup covers four tools across different price points and use cases. One 
 
 ## Top Picks
 
-### [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) , Best Corded Option
+### [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac) , Best Corded Option
 
 **Current price: around $70 on Amazon at the time of writing.**
 
@@ -80,7 +80,7 @@ Operation runs loud. Toro rates it above 70 dB, which is consistent with what I'
 
 ,
 
-### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) , Budget Cordless Pick
+### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac) , Budget Cordless Pick
 
 **Current price: around $120 to $140 on Amazon, battery and charger included.**
 
@@ -107,7 +107,7 @@ One practical note on the platform: the 40V battery doesn't cross-share with Gre
 
 ,
 
-### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) , Best for Large Properties
+### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower) , Best for Large Properties
 
 **Current price: around $280 to $300 for the tool only; battery sold separately. A 56V 5.0Ah EGO battery runs around $150 to $180 at the time of writing.**
 
@@ -140,7 +140,7 @@ This tool doesn't have a vacuum or mulch mode. It's a blower. If you need vacuum
 
 ,
 
-### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20) , Best for Riding Mower Owners
+### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](product:agri-fab-45-0492-tow-behind-sweeper) , Best for Riding Mower Owners
 
 **Current price: around $260 to $280 on Amazon at the time of writing.**
 

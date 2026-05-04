@@ -45,7 +45,7 @@ The cost argument is straightforward. A decent freestanding mower garage runs be
 
 ### Step 1: Measure Before You Buy
 
-This is where most people go wrong first. Robot mower garages are not universal. The clearance height, entry width, and interior depth vary significantly between models, and a garage that fits a [Husqvarna Automower 430X](https://www.amazon.com/dp/B07T4VNGB4?tag=fourseasong-20) will not necessarily fit a [WORX Landroid L WR155](https://www.amazon.com/dp/B08CF3BLQR?tag=fourseasong-20) or a [Mammotion LUBA 2 AWD](https://www.amazon.com/dp/B0CW1JZFBK?tag=fourseasong-20). Measure your mower's height, width, and the footprint of the charging station. Add at least two inches of clearance on each side. The mower needs to enter and exit without grinding against the frame.
+This is where most people go wrong first. Robot mower garages are not universal. The clearance height, entry width, and interior depth vary significantly between models, and a garage that fits a [Husqvarna Automower 430X](product:mammotion-luba-2-awd) will not necessarily fit a [WORX Landroid L WR155](product:mammotion-luba-2-awd-b08) or a [Mammotion LUBA 2 AWD](product:mammotion-luba-2-awd-bcw). Measure your mower's height, width, and the footprint of the charging station. Add at least two inches of clearance on each side. The mower needs to enter and exit without grinding against the frame.
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-8.jpg)
 
@@ -56,7 +56,7 @@ Also measure the cable run from your nearest outdoor power outlet to the intende
 
 Wood garages look good initially and are easy to customize, but untreated wood in a lawn environment absorbs moisture, warps, and eventually rots at the base. If you're buying or building a wood unit, pressure-treated lumber for the base rails is non-negotiable. Cedar or teak for the body will hold up better than pine, though you'll pay for it.
 
-Polyethylene garages are lower maintenance and UV-stabilized on the better models. The [Hartman Mow House](https://www.amazon.com/dp/B0D4G4JWQX?tag=fourseasong-20) is a well-regarded option in this category, currently around $140 to $160. It's not pretty, but it's functional and it holds up.
+Polyethylene garages are lower maintenance and UV-stabilized on the better models. The [Hartman Mow House](product:hartman-mow-house) is a well-regarded option in this category, currently around $140 to $160. It's not pretty, but it's functional and it holds up.
 
 Steel garages are durable but need to be powder-coated, not just painted. Bare or thinly-coated steel in a lawn environment will rust at the anchor points within two seasons.
 

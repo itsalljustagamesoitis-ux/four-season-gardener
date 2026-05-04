@@ -52,7 +52,7 @@ One clarification before the picks: in common usage, "outdoor sofa iron" and "wr
 
 ### Incbruce 2-Piece Wrought Iron Patio Loveseat with Coffee Table
 
-[Incbruce 2-Piece Wrought Iron Patio Loveseat with Coffee Table, Red Cushion](https://www.amazon.com/dp/B084VHTCJM?tag=fourseasong-20)
+[Incbruce 2-Piece Wrought Iron Patio Loveseat with Coffee Table, Red Cushion](product:incbruce-wrought-iron-loveseat-b084)
 
 **Best Classic Wrought Iron Pick**
 
@@ -75,7 +75,7 @@ If you're already building out a traditional garden setting and want metal furni
 
 ### Solaste Outdoor Loveseat Aluminum Patio Furniture Sofa, All-Weather
 
-[Solaste Outdoor Loveseat Aluminum Patio Furniture Sofa, All-Weather, Light gray](https://www.amazon.com/dp/B08D6KC1TZ?tag=fourseasong-20)
+[Solaste Outdoor Loveseat Aluminum Patio Furniture Sofa, All-Weather, Light gray](product:solaste-aluminum-loveseat-b08d)
 
 **Best Overall Modern Pick**
 
@@ -95,7 +95,7 @@ This is the pick I'd make for most buyers. It's not the most interesting choice 
 
 ### Kiss the Water Outdoor Patio Aluminum Loveseat, 5-Inch Thick Cushion
 
-[Kiss the Water Outdoor Patio Aluminum Loveseat, 5-Inch Thick Cushion, Wide Arm](https://www.amazon.com/dp/B0CC5YSVBJ?tag=fourseasong-20)
+[Kiss the Water Outdoor Patio Aluminum Loveseat, 5-Inch Thick Cushion, Wide Arm](product:kiss-the-water-aluminum-loveseat-b0cc)
 
 **Best Comfort Pick**
 
@@ -118,7 +118,7 @@ If cushion comfort is the primary driver and you're willing to manage the drying
 
 ### Never-Rust Aluminum Outdoor Loveseat, Modern Deep Seat, Dark Bronze
 
-[Never-Rust Aluminum Outdoor Loveseat, Modern Deep Seat, Dark Bronze](https://www.amazon.com/dp/B0GFCZWV5D?tag=fourseasong-20)
+[Never-Rust Aluminum Outdoor Loveseat, Modern Deep Seat, Dark Bronze](product:never-rust-aluminum-loveseat-b0gf)
 
 **Best Durability Pick**
 

@@ -80,7 +80,7 @@ This is why purpose-built greenhouse heaters are worth the premium over repurpos
 
 ### BioGreen PALMA: The Best Overall Pick
 
-The [BioGreen PALMA Electric Greenhouse Heater & Fan with Digital Thermostat, 1500W](https://www.amazon.com/dp/B06XCJGNJK?tag=fourseasong-20) is my primary recommendation for anyone with electrical service to their greenhouse. Currently around $130 to $160 on Amazon, depending on when you're looking.
+The [BioGreen PALMA Electric Greenhouse Heater & Fan with Digital Thermostat, 1500W](product:biogreen-palma-greenhouse-heater-b06x) is my primary recommendation for anyone with electrical service to their greenhouse. Currently around $130 to $160 on Amazon, depending on when you're looking.
 
 The credentials that matter: IPX4 water resistance rating, stainless steel construction, and a digital thermostat that actually maintains the temperature you set rather than cycling through a wide range. IPX4 means it handles splashing from any direction, which is a real concern in a space where you're watering overhead or running misters.
 
@@ -93,7 +93,7 @@ The con is the price relative to a basic space heater. A $40 box fan heater will
 
 ### Bio Green Phoenix PHX 2.8/US: For Serious Growers with 240V
 
-The [Bio Green Phoenix PHX 2.8/US Greenhouse Heater](https://www.amazon.com/dp/B000MQX1HG?tag=fourseasong-20) runs around $290 and requires 240V wiring. Stop reading this section if you don't have 240V service to your greenhouse and aren't prepared to wire it. That's not a knock on the product. It's just a different category.
+The [Bio Green Phoenix PHX 2.8/US Greenhouse Heater](product:bio-green-phoenix-240v-b000) runs around $290 and requires 240V wiring. Stop reading this section if you don't have 240V service to your greenhouse and aren't prepared to wire it. That's not a knock on the product. It's just a different category.
 
 If you do have 240V, the Phoenix delivers 9,553 BTU and handles both heating and cooling, which makes it a genuine year-round climate controller rather than a single-season solution. The frost detection feature is worth calling out: it activates automatically when temperatures fall below a set threshold, which means it functions as a backup even if you forget to switch it on. For growers overwintering anything you can't afford to lose, that matters.
 
@@ -101,7 +101,7 @@ The build quality is premium throughout. This is the heater for someone running 
 
 ### Dr. Infrared Heater DR218: A Different Philosophy
 
-The [DR. INFRARED HEATER DR218 Greenhouse Infrared Heater, 3000W](https://www.amazon.com/dp/B00J6B2G10?tag=fourseasong-20) also requires 240V at full output, and it's priced in the mid range relative to what it delivers. The key distinction from the fan-forced heaters above is how it heats.
+The [DR. INFRARED HEATER DR218 Greenhouse Infrared Heater, 3000W](product:dr-infrared-dr218-greenhouse-b00j) also requires 240V at full output, and it's priced in the mid range relative to what it delivers. The key distinction from the fan-forced heaters above is how it heats.
 
 Infrared heaters don't warm the air. They warm surfaces, including the soil in your beds, the pots on your benches, and the foliage of your plants. This more closely resembles natural solar radiation than convective heat does. Root zone warming in particular tends to produce better plant responses than ambient air temperature alone.
 
@@ -114,7 +114,7 @@ I'd use this in a dedicated propagation bench setup more readily than as a whole
 
 ### Mr. Heater Portable Buddy: The Propane Standard
 
-The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](https://www.amazon.com/dp/B002G51BZU?tag=fourseasong-20) runs around $80 to $95 and doesn't require any electrical infrastructure at all. It's the benchmark for portable propane heating in small greenhouses and the most widely trusted option in this category.
+The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](product:mr-heater-portable-buddy-b002) runs around $80 to $95 and doesn't require any electrical infrastructure at all. It's the benchmark for portable propane heating in small greenhouses and the most widely trusted option in this category.
 
 The safety features matter in an enclosed space. Low-oxygen shutoff and tip-over shutoff are both present, which isn't universal in portable propane heaters. At 9,000 BTU, it covers up to roughly 225 square feet adequately in moderate cold.
 
@@ -124,7 +124,7 @@ The small 1-lb canisters run out faster than you'd expect on a cold night. An ad
 
 ### Kerosene Heater 2-in-1: Off-Grid Backup
 
-The [2-in-1 Portable Kerosene Heater & Stove, 9,000 BTU](https://www.amazon.com/dp/B0CJ6F6LZN?tag=fourseasong-20) is currently around $60 to $75. It's a generic product, and I'd treat it as such. The reason it earns a place here is the use case it solves: no electrical service, no propane, power outage, or a remote greenhouse location where fuel delivery is irregular.
+The [2-in-1 Portable Kerosene Heater & Stove, 9,000 BTU](product:kerosene-heater-stove-b0cj) is currently around $60 to $75. It's a generic product, and I'd treat it as such. The reason it earns a place here is the use case it solves: no electrical service, no propane, power outage, or a remote greenhouse location where fuel delivery is irregular.
 
 Kerosene is harder to source than propane in most suburban and rural areas, but it stores well and burns reliably. The same ventilation requirements apply as with propane. The 2-in-1 stove function is more novelty than greenhouse feature, but the heater function is serviceable for small spaces.
 

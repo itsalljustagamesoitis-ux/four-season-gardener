@@ -48,13 +48,13 @@ Most outdoor LED security lighting fails for one of two reasons: it's undersized
 
 This roundup covers four products across two categories: hardwired and low-voltage systems that deliver consistent, reliable output regardless of season, and solar options that make sense when wiring simply isn't practical. If you're building out a full outdoor lighting plan, the [Garden Lighting](/lighting/) section of this site covers the broader picture. For this article, I'm focused on security and perimeter lighting specifically, where output, reliability, and placement constraints matter most.
 
-My top pick for most properties is the [LEONLITE 3CCT LED Security Light with Motion Sensor](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20). It's hardwired, it's bright, and it doesn't depend on sunlight. If wiring is off the table, the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) is the solar option I'd actually trust on a back door.
+My top pick for most properties is the [LEONLITE 3CCT LED Security Light with Motion Sensor](product:leonlite-3cct-security-light). It's hardwired, it's bright, and it doesn't depend on sunlight. If wiring is off the table, the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) is the solar option I'd actually trust on a back door.
 
 ## Top Picks
 
 ### LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head
 
-[View on Amazon](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20)
+[View on Amazon](product:leonlite-3cct-security-light)
 
 **Price: around $45 at time of writing**
 
@@ -85,7 +85,7 @@ The limitation is real: hardwired means hardwired. If you don't have an existing
 
 ### Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light
 
-[View on Amazon](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20)
+[View on Amazon](product:mr-beams-solar-wedge-plus)
 
 **Price: around $35 at time of writing**
 
@@ -117,7 +117,7 @@ For decorative solar options in different categories, the [Solar Globe Lights Fo
 
 ### LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack
 
-[View on Amazon](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20)
+[View on Amazon](product:litom-solar-motion-spotlights)
 
 **Price: around $38 for the 4-pack at time of writing**
 
@@ -144,7 +144,7 @@ The battery is built-in and not replaceable. This is a category-wide limitation 
 
 ### VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights
 
-[View on Amazon](https://www.amazon.com/dp/B07CBV7HVW?tag=fourseasong-20)
+[View on Amazon](product:volt-landscape-lighting-kit)
 
 **Price: around $280 at time of writing**
 

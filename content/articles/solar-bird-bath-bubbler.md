@@ -27,7 +27,7 @@ Moving water attracts birds. Standing water holds mosquitoes. This is not a comp
 
 I've been covering bird feeding and bath setups in our [Bird Feeders & Baths](/birds-wildlife/) section for a while, and this category gets more questions than almost any other. People buy static baths, birds ignore them, and then the bath sits empty for a season. The fix is usually motion and sound. A bubbler or fountain head changes the calculus completely.
 
-The [Smart Solar AquaNura Bubbler Birdbath](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20) is one of the more sensibly designed options in the mid-price range. Here's my assessment.
+The [Smart Solar AquaNura Bubbler Birdbath](product:smart-solar-aquanura-birdbath) is one of the more sensibly designed options in the mid-price range. Here's my assessment.
 
 ## Quick Verdict
 

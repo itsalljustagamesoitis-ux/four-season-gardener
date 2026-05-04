@@ -44,7 +44,7 @@ Before I get into the specific product, it's worth being clear about quantity. S
 
 ## My Recommendation: Uncle Jim's Worm Farm
 
-The product I'd point you toward is the [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20). Uncle Jim's has been selling live worms by mail long enough to have worked out the logistics. The worms ship packed in moisture-absorbing material, which handles the condensation and oxygen problems that kill worms in poorly packed shipments.
+The product I'd point you toward is the [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers). Uncle Jim's has been selling live worms by mail long enough to have worked out the logistics. The worms ship packed in moisture-absorbing material, which handles the condensation and oxygen problems that kill worms in poorly packed shipments.
 
 The 1,000-count listing runs around $40 to $45 at the time of writing, depending on the season. That's a reasonable price for a guaranteed live count, and the guarantee itself is worth noting. If you report losses within two days of arrival, Uncle Jim's will address it. That two-day window is tight, so open the package the day it arrives and assess the worms. Don't leave it until the weekend.
 

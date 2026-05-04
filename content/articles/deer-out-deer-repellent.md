@@ -63,7 +63,7 @@ Egg- and sulfur-based repellents are non-toxic once dry. Motion-activated sprink
 
 ## Top Picks
 
-### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20)
+### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
 **Best for: spray-and-forget coverage of defined ornamental and vegetable beds**
 
@@ -86,7 +86,7 @@ For large properties, the ready-to-use gallon gets expensive. The concentrate ve
 
 **Verdict.** This is where I'd start if you're new to spray repellents, or if you want something you can deploy in an afternoon without any equipment. Reapplication is the discipline it requires. Build that habit and it holds up.
 
-### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20)
+### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
 
 **Best for: garden beds you want protected without repeated spray applications**
 
@@ -120,7 +120,7 @@ The motion sprinkler is a permanent fixture for the season, requires correct pos
 
 If I were protecting a small-to-medium kitchen garden and had one clear exposure point, I'd use both. Spray the plants directly and position the Enforcer across the approach. The spray addresses what the sprinkler misses (deer that come in from angles outside the detection zone), and the sprinkler addresses what spray alone can't do (prevent deer from getting close enough to test whether the plants taste bad). That layered approach is not overkill on a property with serious deer pressure.
 
-If budget is the constraint, start with [Liquid Fence](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20). It's the lower-risk investment and it works. Add the [Orbit Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) once you've identified the specific entry point that needs more stopping power.
+If budget is the constraint, start with [Liquid Fence](product:liquid-fence-deer-rabbit-repellent). It's the lower-risk investment and it works. Add the [Orbit Yard Enforcer](product:orbit-yard-enforcer-sprinkler) once you've identified the specific entry point that needs more stopping power.
 
 For anyone managing a broader yard setup with feeders, baths, and wildlife considerations, the full [wildlife and feeder guides](/birds-wildlife/) are worth a look before you finalize your layout.
 

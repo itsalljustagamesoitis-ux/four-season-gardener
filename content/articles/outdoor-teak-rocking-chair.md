@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time looking at outdoor teak rocking chairs, you already know the options split into two camps: actual teak (expensive, maintenance-heavy, beautiful) and everything else. The [POLYWOOD Nautical Rocker in teak color](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) sits in an interesting third category. It's not teak. It doesn't pretend to be. What it is, is a premium recycled plastic lumber chair designed to look like the classic nautical rocker, hold up through whatever weather you can throw at it, and still be on your porch in fifteen years. Whether that trade-off works for you depends on what you actually want from a chair.
+If you've spent any time looking at outdoor teak rocking chairs, you already know the options split into two camps: actual teak (expensive, maintenance-heavy, beautiful) and everything else. The [POLYWOOD Nautical Rocker in teak color](product:polywood-nautical-rocker-teak) sits in an interesting third category. It's not teak. It doesn't pretend to be. What it is, is a premium recycled plastic lumber chair designed to look like the classic nautical rocker, hold up through whatever weather you can throw at it, and still be on your porch in fifteen years. Whether that trade-off works for you depends on what you actually want from a chair.
 
 This review focuses specifically on the POLYWOOD Nautical Rocker in the teak color finish. I've been sitting in it, leaving it out through hard winters, and comparing it to the real-teak options I've owned before. For more context on outdoor seating choices across different materials and price points, see our [Outdoor Furniture](/outdoor-furniture/) hub.
 
@@ -33,7 +33,7 @@ The POLYWOOD Nautical Rocker in teak is the right chair for a specific kind of b
 
 ## Key Specs
 
-The [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) runs around $380 to $420 on Amazon at the time of writing, depending on timing and color. Prices have drifted upward over the past two years, so check current pricing before you budget.
+The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) runs around $380 to $420 on Amazon at the time of writing, depending on timing and color. Prices have drifted upward over the past two years, so check current pricing before you budget.
 
 ![Outdoor Teak Rocking Chair](/images/articles/outdoor-furniture-1.jpg)
 
@@ -103,7 +103,7 @@ Assembly took me 25 minutes with a power driver. (I timed this.) The instruction
 
 ## Who It's For
 
-The honest case for this chair is fairly specific. Buy the [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20) if:
+The honest case for this chair is fairly specific. Buy the [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) if:
 
 You want a rocking chair that stays on your porch year-round with no seasonal storage and no maintenance routine. If you've ever dragged teak furniture inside for winter or spent a weekend oiling a set of chairs you mostly sit in twice a year, this solves that problem directly.
 

@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've been searching for a Stihl battery operated lawn mower and keep landing on the EGO Power+ instead, there's a reason for that. Stihl doesn't sell its battery mowers through Amazon or most big-box retail channels. Their distribution model runs through independent dealers, which keeps them off the comparison pages where most people shop. That leaves the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) as the machine that actually shows up when you go looking, and after running one through a full season on my property, I can tell you it earns that visibility on its own merits, not just by default.
+If you've been searching for a Stihl battery operated lawn mower and keep landing on the EGO Power+ instead, there's a reason for that. Stihl doesn't sell its battery mowers through Amazon or most big-box retail channels. Their distribution model runs through independent dealers, which keeps them off the comparison pages where most people shop. That leaves the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) as the machine that actually shows up when you go looking, and after running one through a full season on my property, I can tell you it earns that visibility on its own merits, not just by default.
 
 This review covers the LM2135SP specifically. If you're building out a battery-powered yard setup, the platform question matters as much as the mower itself, and I'll get to that. For context on how this fits into a broader cordless approach, the [Battery & Cordless Tools](/battery-equipment/) section of this site covers the wider category.
 
 ## Quick Verdict
 
-The [EGO POWER+ LM2135SP](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) is the most capable battery mower I've used at this price point. It handles an acre of mixed terrain without drama, the self-propel system works the way self-propel is supposed to work, and the cut quality is genuinely competitive with mid-range gas. The weight is real and the tool-only pricing requires attention, but neither of those is a dealbreaker if you go in with clear expectations. If you're running other EGO tools or planning to, the 56V platform makes this decision easier.
+The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the most capable battery mower I've used at this price point. It handles an acre of mixed terrain without drama, the self-propel system works the way self-propel is supposed to work, and the cut quality is genuinely competitive with mid-range gas. The weight is real and the tool-only pricing requires attention, but neither of those is a dealbreaker if you go in with clear expectations. If you're running other EGO tools or planning to, the 56V platform makes this decision easier.
 
 ## Key Specs
 

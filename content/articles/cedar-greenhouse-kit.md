@@ -43,11 +43,11 @@ This review covers three kits currently available on Amazon, ranging from around
 
 ## Quick Verdict
 
-**Best entry-level:** [Jocisland 6x8 Ft Wooden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in](https://www.amazon.com/dp/B0F9DK5Y79?tag=fourseasong-20). The pre-assembled frame is a genuine differentiator at this price. Not the most feature-rich kit, but the most accessible starting point in the category.
+**Best entry-level:** [Jocisland 6x8 Ft Wooden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in](product:jocisland-cedar-greenhouse-6x8-b0f9). The pre-assembled frame is a genuine differentiator at this price. Not the most feature-rich kit, but the most accessible starting point in the category.
 
-**Best mid-range:** [Backyard Discovery Willow 9x6 Cedar Wood Walk-in Greenhouse with Exhaust Fan & PowerPort](https://www.amazon.com/dp/B0CRSKH1T6?tag=fourseasong-20). A legitimately functional greenhouse, not a dressed-up cold frame. The exhaust fan and PowerPort are standard equipment here, which is unusual at this price tier.
+**Best mid-range:** [Backyard Discovery Willow 9x6 Cedar Wood Walk-in Greenhouse with Exhaust Fan & PowerPort](product:backyard-discovery-willow-greenhouse-b0cr). A legitimately functional greenhouse, not a dressed-up cold frame. The exhaust fan and PowerPort are standard equipment here, which is unusual at this price tier.
 
-**Best premium:** [Backyard Discovery Bellerose XL 13x11 Cedar Wood Walk-in Greenhouse with Pergola](https://www.amazon.com/dp/B0DDZSSVK8?tag=fourseasong-20). Around $5,000 and worth a conversation with your town's planning office before you order. The integrated pergola section is unique in the kit greenhouse category, and the overall spec is the most complete I've seen on Amazon.
+**Best premium:** [Backyard Discovery Bellerose XL 13x11 Cedar Wood Walk-in Greenhouse with Pergola](product:backyard-discovery-bellerose-xl-b0dd). Around $5,000 and worth a conversation with your town's planning office before you order. The integrated pergola section is unique in the kit greenhouse category, and the overall spec is the most complete I've seen on Amazon.
 
 ## Key Specs
 
@@ -82,7 +82,7 @@ If you're currently using a plastic pop-up greenhouse and want a meaningful stru
 
 ### Backyard Discovery Willow 9x6: Where the Category Gets Interesting
 
-The [Backyard Discovery Willow 9x6](https://www.amazon.com/dp/B0CRSKH1T6?tag=fourseasong-20) is where the cedar greenhouse kit category becomes worth taking seriously as a year-round growing solution rather than a seasonal shelter.
+The [Backyard Discovery Willow 9x6](product:backyard-discovery-willow-greenhouse-b0cr) is where the cedar greenhouse kit category becomes worth taking seriously as a year-round growing solution rather than a seasonal shelter.
 
 The built-in exhaust fan changes the management equation significantly. Summer overheating is a real failure mode for greenhouse growing, and a lot of mid-range structures either ignore it or leave you to retrofit a solution. Backyard Discovery ships this with the fan already in the design. Combined with the adjustable roof vents, you have active temperature management that makes late-spring and early-summer use practical rather than an exercise in checking the thermometer every twenty minutes.
 
@@ -97,7 +97,7 @@ At around $1,800, the Willow sits in a category where it doesn't have many direc
 
 ### Backyard Discovery Bellerose XL 13x11: The One You Plan For
 
-The [Backyard Discovery Bellerose XL 13x11](https://www.amazon.com/dp/B0DDZSSVK8?tag=fourseasong-20) runs approximately $5,000 at the time of writing. That figure requires a different kind of evaluation. This is a planned purchase with site preparation, potentially permitting, and a committed assembly timeline. It is not an impulse buy.
+The [Backyard Discovery Bellerose XL 13x11](product:backyard-discovery-bellerose-xl-b0dd) runs approximately $5,000 at the time of writing. That figure requires a different kind of evaluation. This is a planned purchase with site preparation, potentially permitting, and a committed assembly timeline. It is not an impulse buy.
 
 The 13x11 footprint is large enough to run as a functional growing space rather than an overflow storage unit. The integrated pergola section is genuinely unusual in this category. A cedar pergola attached to a greenhouse gives you covered outdoor prep space, a place to stage plants being hardened off, or simply a transition zone that makes the whole structure feel more intentional and less like a bolted-on shed. If you've looked at our coverage of [cedar pergola kits](/cedar-pergola-kit/) as standalone structures, the Bellerose XL essentially combines that function with the greenhouse in a single integrated design.
 

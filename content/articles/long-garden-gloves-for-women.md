@@ -42,9 +42,9 @@ This roundup covers two options worth considering, both available on Amazon. Nei
 
 **Price:** Currently around $14 to $17 on Amazon, depending on size and availability at time of writing.
 
-[Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)
+[Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)
 
-The [Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20) are an Amazon bestseller in the gardening gloves category, and the sales numbers are not a mystery. At under $17, they offer something most budget gloves don't: breathable fabric that actually performs. The bamboo fiber construction pulls moisture away from the skin, which matters more than it sounds once you're an hour into a weeding session in July and your hands are sweating inside a pair of synthetic nitrile gloves.
+The [Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves) are an Amazon bestseller in the gardening gloves category, and the sales numbers are not a mystery. At under $17, they offer something most budget gloves don't: breathable fabric that actually performs. The bamboo fiber construction pulls moisture away from the skin, which matters more than it sounds once you're an hour into a weeding session in July and your hands are sweating inside a pair of synthetic nitrile gloves.
 
 ![Long Garden Gloves For Women](/images/articles/hand-tools-5.jpg)
 
@@ -80,9 +80,9 @@ Sizing runs small for some users. Check the recent reviews before ordering, part
 
 **Price:** Around $18 to $22 depending on color and size variant. Multiple color and size combinations are listed as separate ASINs on Amazon, so confirm you're ordering the right variant before checking out.
 
-[Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)
+[Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)
 
-The [Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) do something structurally different from standard garden gloves: they extend past the wrist, covering the lower forearm. If you've ever reached into a shrub rose to deadhead spent blooms and pulled your arm back with three parallel scratches across your inner wrist, this is the glove that addresses that specific moment.
+The [Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves) do something structurally different from standard garden gloves: they extend past the wrist, covering the lower forearm. If you've ever reached into a shrub rose to deadhead spent blooms and pulled your arm back with three parallel scratches across your inner wrist, this is the glove that addresses that specific moment.
 
 The fabric is a spandex blend, which is where the ergonomic case gets interesting. Spandex conforms to hand and forearm shape rather than holding a fixed form, so there's no gap at the wrist where debris works its way in, and no bunching at the knuckle joints. The fit is close without being constrictive. After a full session, your hands don't carry the indentation marks you get from gloves with rigid cuffs.
 

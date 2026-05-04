@@ -25,13 +25,13 @@ noindex: false
 
 If you grow roses with any seriousness, your forearms know it. The scratches from reaching into a shrub to deadhead, the drag of a cane across bare skin when you're pruning Rosa 'Carefree Beauty' back in March , standard gardening gloves stop at the wrist and leave everything above it unprotected. I've used nitrile-grip gloves, leather palm gloves, and rubberized work gloves across a range of tasks, and the one gap all of them share is the same: they end too soon.
 
-The [Foxgloves Original Gardening Gloves](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) are built around solving that specific problem. They're not thick leather gauntlets. They're not chemical-resistant PPE. They're a spandex-blend slip-on glove with a silicone grip pattern and a sleeve that extends several inches past the wrist. For rose work , deadheading, light pruning, training canes onto a trellis , that difference matters more than I expected it to.
+The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves) are built around solving that specific problem. They're not thick leather gauntlets. They're not chemical-resistant PPE. They're a spandex-blend slip-on glove with a silicone grip pattern and a sleeve that extends several inches past the wrist. For rose work , deadheading, light pruning, training canes onto a trellis , that difference matters more than I expected it to.
 
 Most of what I review for our [Hand Tools](/hand-tools/) coverage falls into established categories where the differences between products are marginal. The Foxgloves don't quite fit that pattern, and this review will tell you whether that's a reason to buy them or a reason to be skeptical.
 
 ## Quick Verdict
 
-The [Foxgloves Original Gardening Gloves](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20) are currently around $22 to $26 depending on color and size combination on Amazon. For that price, they deliver something most gloves in the $15,$40 range don't: forearm coverage that actually stays in place. The silicone grip is adequate for hand tools, the fit holds after washing, and the extended sleeve makes a real difference in rose work specifically.
+The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves) are currently around $22 to $26 depending on color and size combination on Amazon. For that price, they deliver something most gloves in the $15,$40 range don't: forearm coverage that actually stays in place. The silicone grip is adequate for hand tools, the fit holds after washing, and the extended sleeve makes a real difference in rose work specifically.
 
 They are not heavy-duty pruning gloves. If you're cutting back established shrub roses with bypass loppers or tackling climbing roses on a brick wall, you want leather or reinforced nitrile. These are light-use gloves for the tasks that make up the majority of a rose gardener's hours: deadheading, tying in, weeding between plants, light thinning. For that use case, they're the most sensible pick under $30 I've found.
 

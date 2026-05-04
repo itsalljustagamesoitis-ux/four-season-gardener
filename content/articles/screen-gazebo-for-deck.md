@@ -11,8 +11,29 @@ hero_image_alt: "Screen Gazebo For Deck"
 description: "Compare screen gazebos for decks across price ranges and styles. Find covered outdoor solutions that fit your deck size and budget."
 target_keyword: "screen gazebo for deck"
 products:
-  - id: "palram-martinique-10x12-gazebo"
+  - id: "domi-12x14-hardtop-gazebo"
     role: "best_overall"
+    article_specific_pros:
+      - "Full curtains and netting included — genuine screen enclosure for insect and privacy protection"
+      - "Amazon's Choice with strong 4.5-star reviews at a mid-range price point"
+    article_specific_cons:
+      - "Less premium build quality than higher-end aluminum-frame alternatives"
+  - id: "mellcom-12x14-hardtop-gazebo"
+    role: "also_consider"
+    article_specific_pros:
+      - "Galvanized steel hardtop handles real weather loads without sagging like fabric canopy alternatives"
+      - "12x14 footprint provides generous deck coverage for dining and lounge configurations"
+    article_specific_cons:
+      - "Heavier than aluminum-frame models , two-person assembly strongly recommended"
+  - id: "wonwon-gazebo-mosquito-netting"
+    role: "also_consider"
+    article_specific_pros:
+      - "Universal fit works with most standard hardtop gazebo frames without modification"
+      - "Full perimeter netting coverage keeps insects out while maintaining an open outdoor feel"
+    article_specific_cons:
+      - "Netting alone does not add structural weather protection , pairs with a hardtop, not a replacement for one"
+  - id: "palram-martinique-10x12-gazebo"
+    role: "also_consider"
     article_specific_pros:
       - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
@@ -25,27 +46,6 @@ products:
       - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
-  - id: "arrow-select-10x8-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "80 sq ft of storage handles a full complement of lawn and garden equipment"
-      - "Padlockable doors; reinforced corners resist wind racking"
-    article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
-  - id: "suncast-sutton-7x7-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "Resin construction never needs painting, staining, or rot treatment"
-      - "Double-wall panel construction is more rigid than thin single-wall resin sheds"
-    article_specific_cons:
-      - "Floor not included , requires a prepared level base or deck frame"
-  - id: "palram-plant-inn-mini-greenhouse"
-    role: "also_consider"
-    article_specific_pros:
-      - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
-      - "Polycarbonate panels diffuse light evenly without scorching seedlings"
-    article_specific_cons:
-      - "Very small growing area , best for seedlings and overwintering a few tender plants"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -59,7 +59,7 @@ For a broader look at how these fit into permanent outdoor structures, the [Gree
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof
 
-[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20) is the one I'd buy if I were putting something permanent on a deck and expected it to still look presentable in five years. Currently around $1,400 to $1,600 depending on where you catch it.
+[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) is the one I'd buy if I were putting something permanent on a deck and expected it to still look presentable in five years. Currently around $1,400 to $1,600 depending on where you catch it.
 
 The roof is twin-wall polycarbonate, which matters more than most product listings explain. It blocks 99.9% UV and diffuses light rather than letting it beat straight through. Fabric canopy gazebos look fine in year one. By year three, the canopy is faded, saggy, or has a small tear you keep meaning to patch. Polycarbonate doesn't do that. It handles hard winters and doesn't care about wet springs.
 
@@ -83,7 +83,7 @@ The frame is powder-coated aluminum, which means no rust and no painting. At 120
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-The [Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20) is the right pick if you want a structure that looks like it belongs in a garden rather than a big-box store parking lot. Price runs around $1,200 to $1,400 currently.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the right pick if you want a structure that looks like it belongs in a garden rather than a big-box store parking lot. Price runs around $1,200 to $1,400 currently.
 
 North American cedar is naturally rot-resistant. No chemical treatment required, which matters if you're growing vegetables nearby or just don't want to think about it. The kit comes pre-cut, pre-drilled, and pre-stained, which eliminates the most time-consuming and error-prone parts of working with raw lumber. If you've looked at the [cedar pergola kit](/cedar-pergola-kit/) options we've covered elsewhere on this site, the Yardistry sits at the better-built end of that market.
 
@@ -104,7 +104,7 @@ One thing worth planning for: the base kit is a pergola, not a roof. It provides
 
 ### Arrow Select 10' x 8' Steel Storage Shed, Charcoal
 
-If the project is covered storage rather than a living space, the [Arrow Select 10' x 8' Steel Storage Shed](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) covers 80 square feet at a mid-range price, currently around $400 to $500. This is the practical, unglamorous option.
+If the project is covered storage rather than a living space, the [Arrow Select 10' x 8' Steel Storage Shed](product:arrow-select-10x8-shed) covers 80 square feet at a mid-range price, currently around $400 to $500. This is the practical, unglamorous option.
 
 Electro-galvanized steel panels don't rot and don't attract termites. The corners are reinforced against wind racking, the doors padlock, and there's no painting required. Compared to a cedar shed, the upfront cost is lower and the maintenance over ten years is genuinely minimal. If your comparison is between this and a [flat roof garden shed](/flat-roof-garden-shed/) built from pressure-treated lumber, the Arrow wins on cost and rot resistance, though not on aesthetics.
 
@@ -126,7 +126,7 @@ Electro-galvanized steel panels don't rot and don't attract termites. The corner
 
 ### Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed
 
-The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](https://www.amazon.com/dp/B00NP34O56?tag=fourseasong-20) runs around $600 to $700 and sits directly between the Arrow's price point and the Yardistry's. The selling point is that resin requires nothing from you after installation. No painting, no staining, no rust prevention, no rot treatment.
+The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) runs around $600 to $700 and sits directly between the Arrow's price point and the Yardistry's. The selling point is that resin requires nothing from you after installation. No painting, no staining, no rust prevention, no rot treatment.
 
 The double-wall panel construction is meaningfully more rigid than thin single-wall resin sheds, which tend to flex visibly and look cheap within a few years. There's a built-in skylight panel for natural light, and the hinged door locks. At 49 square feet, this is sized for tools, a lawnmower, and seasonal equipment rather than a workshop. If that's your actual use case, it's well-matched.
 
@@ -150,7 +150,7 @@ Compared to the Arrow Select steel shed, resin wins on long-term maintenance eff
 
 ### Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter
 
-The [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](https://www.amazon.com/dp/B006GX8EOO?tag=fourseasong-20) is a different category from the rest of this list, and I'm including it because a lot of readers who come looking for deck structures are also trying to solve a growing season problem. Price is around $180 to $220.
+The [Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](product:palram-plant-inn-mini-greenhouse) is a different category from the rest of this list, and I'm including it because a lot of readers who come looking for deck structures are also trying to solve a growing season problem. Price is around $180 to $220.
 
 This is a cold frame with an elevated planter base, not a greenhouse. It adds four to six weeks of growing season at each end of summer, which is a real gain if you're starting seeds indoors under lights and then losing weeks waiting for safe outdoor temperatures. The polycarbonate panels diffuse light without scorching seedlings, and the elevated planter base eliminates ground weeds and improves drainage. If you've looked at options like a [12x20 greenhouse kit](/12x20-greenhouse-kit/) and decided it's more than you need right now, this is an honest starting point.
 

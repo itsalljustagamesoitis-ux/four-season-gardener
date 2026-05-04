@@ -18,13 +18,6 @@ products:
       - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
-  - id: "palram-martinique-10x12-gazebo"
-    role: "also_consider"
-    article_specific_pros:
-      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
-      - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
-    article_specific_cons:
-      - "Premium price for a permanent structure; installation requires two people and half a day"
   - id: "all-things-cedar-ga87-garden-arbor"
     role: "also_consider"
     article_specific_pros:
@@ -32,13 +25,6 @@ products:
       - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
     article_specific_cons:
       - "Cedar will grey without staining or oiling every 2-3 years"
-  - id: "palram-plant-inn-mini-greenhouse"
-    role: "also_consider"
-    article_specific_pros:
-      - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
-      - "Polycarbonate panels diffuse light evenly without scorching seedlings"
-    article_specific_cons:
-      - "Very small growing area , best for seedlings and overwintering a few tender plants"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -52,7 +38,7 @@ If you're still early in deciding what kind of permanent structure makes sense f
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-[Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)
+[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)
 
 **Best for:** Homeowners who want natural wood aesthetics with a meaningful reduction in assembly misery.
 
@@ -83,7 +69,7 @@ At around $1,000 for the base kit, this sits at the top of the wood pergola cate
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof
 
-[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)
+[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)
 
 **Best for:** Anyone building a permanent outdoor dining or entertaining space who is done replacing fabric canopies.
 
@@ -116,7 +102,7 @@ If you've been replacing a fabric canopy gazebo on a three-year cycle, the math 
 
 ### All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels
 
-[All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](https://www.amazon.com/dp/B00YYEW556?tag=fourseasong-20)
+[All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](product:all-things-cedar-ga87-garden-arbor)
 
 **Best for:** A garden path entrance, a gate feature, or an established climbing plant structure.
 
@@ -147,7 +133,7 @@ At $280 to $320, this is the honest mid-tier choice for a garden entrance featur
 
 ### Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter
 
-[Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](https://www.amazon.com/dp/B006GX8EOO?tag=fourseasong-20)
+[Palram Canopia Plant Inn 4 Ft. x 4 Ft. Season Extender and Raised Planter](product:palram-plant-inn-mini-greenhouse)
 
 **Best for:** Getting seedlings started four to six weeks earlier, or keeping tender herbs alive through the first hard frosts.
 

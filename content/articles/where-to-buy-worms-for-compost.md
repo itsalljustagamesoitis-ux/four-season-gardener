@@ -42,7 +42,7 @@ Live worm orders are not all equivalent. The survival rate from point of packing
 ![Where To Buy Worms For Compost](/images/articles/composting-7.jpg)
 
 
-The reason I recommend [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](https://www.amazon.com/dp/B000Q5S7RM?tag=fourseasong-20) is the combination of quantity, live arrival guarantee, and the fact that 1,000 worms is the right starting number for a Worm Factory 360. Not 500, not 2,000. You want enough worms to establish a working population without overcrowding the bin before the food supply ramps up.
+The reason I recommend [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers) is the combination of quantity, live arrival guarantee, and the fact that 1,000 worms is the right starting number for a Worm Factory 360. Not 500, not 2,000. You want enough worms to establish a working population without overcrowding the bin before the food supply ramps up.
 
 Uncle Jim's ships with moisture-absorbing material in the packing, which matters more than most people realize. The worms need humidity but not standing water. They also offer a live arrival guarantee, but you have to report within 48 hours of delivery. Take a photo of the bag when it arrives. If something looks wrong, contact them immediately. Do not wait three days and then try to file a claim.
 

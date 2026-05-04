@@ -55,7 +55,7 @@ The insulation itself is not complicated. A roll of kraft-faced fiberglass batt 
 
 ### Steel Sheds
 
-Steel sheds like the [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) are the budget-to-mid option for most buyers, currently around $600 to $700 on Amazon. The 80 square feet of floor space handles a full set of lawn equipment plus tool storage without crowding, the reinforced corners resist wind racking, and the electro-galvanized panels hold up to rust over time better than older painted steel. Padlockable doors are standard on this unit, which matters if your shed is not line-of-sight from your house.
+Steel sheds like the [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) are the budget-to-mid option for most buyers, currently around $600 to $700 on Amazon. The 80 square feet of floor space handles a full set of lawn equipment plus tool storage without crowding, the reinforced corners resist wind racking, and the electro-galvanized panels hold up to rust over time better than older painted steel. Padlockable doors are standard on this unit, which matters if your shed is not line-of-sight from your house.
 
 The honest limitation is thermal performance out of the box. Bare steel walls condensate in humid conditions, and without insulation you'll find moisture on your tools and inside your seed packets by midsummer. The fix is a ventilation kit (Arrow sells one for around $20) plus insulation panels fitted to the wall studs. The Arrow Select ships without a floor, and the floor kit is sold separately at roughly $130 to $160. A lot of buyers miss this on the product listing and then spend a Saturday problem-solving on a gravel pad. Factor that in when you're pricing the total project.
 
@@ -66,7 +66,7 @@ Assembly takes most people a full day solo, or four to five hours with a second 
 
 ### Resin Sheds
 
-The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](https://www.amazon.com/dp/B00NP34O56?tag=fourseasong-20) sits in a different category from thin single-wall resin sheds you'll see at the big box stores. The double-wall panel construction is noticeably more rigid, and the skylight panel means the interior doesn't feel like a storage closet. A lockable hinged door comes standard. Pricing is currently around $500 to $600 depending on retailer and timing.
+The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) sits in a different category from thin single-wall resin sheds you'll see at the big box stores. The double-wall panel construction is noticeably more rigid, and the skylight panel means the interior doesn't feel like a storage closet. A lockable hinged door comes standard. Pricing is currently around $500 to $600 depending on retailer and timing.
 
 At 49 square feet, this is a tools-and-equipment shed rather than a workshop. If you're thinking about a larger structure with vertical storage potential, the [garden shed with loft](/garden-shed-with-loft/) article covers that configuration specifically. But for a dedicated garden tool shed, a potting station, or overwintering storage, the 7x7 footprint is workable.
 

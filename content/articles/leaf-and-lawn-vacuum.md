@@ -52,7 +52,7 @@ For anyone thinking through their broader [Lawn Care](/lawn-care/) setup, the ch
 
 ### Toro 51621 UltraPlus Leaf Blower Vacuum
 
-**[Toro 51621 UltraPlus Leaf Blower Vacuum, 250 MPH, 12 Amp](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20)**
+**[Toro 51621 UltraPlus Leaf Blower Vacuum, 250 MPH, 12 Amp](product:toro-51621-ultraplus-blower-vac)**
 
 Currently around $80 on Amazon, the Toro 51621 is what I'd recommend to anyone who wants reliable power, doesn't want to think about battery management, and has an outdoor outlet within reasonable reach. The 12-amp motor pushes 250 MPH of airspeed, which is genuinely enough to move wet, matted leaves that would defeat most cordless models at this price range.
 
@@ -80,7 +80,7 @@ Operation is loud. Toro rates it above 70 dB, which is enough to require ear pro
 
 ### Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum
 
-**[Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20)**
+**[Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac)**
 
 This one runs around $120 to $140 with the 4.0Ah battery and charger included, which is the detail that makes it interesting. You're getting a brushless motor at a price point where most manufacturers are still shipping brushed motors and calling it a day. Brushless matters here because it extends both battery life per charge and overall motor longevity. For someone buying their first cordless blower-vac, that's a real advantage, not a marketing distinction.
 
@@ -107,7 +107,7 @@ For readers thinking through cordless blower options more broadly, it's worth ch
 
 ### EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower
 
-**[EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20)**
+**[EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower)**
 
 ![Leaf And Lawn Vacuum](/images/articles/lawn-care-2.jpg)
 
@@ -138,7 +138,7 @@ The EGO 56V platform is one of the strongest reasons to buy in. Chainsaw, hedge 
 
 ### Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper
 
-**[Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper, 28 cu.ft. Hopper](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20)**
+**[Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper, 28 cu.ft. Hopper](product:agri-fab-45-0492-tow-behind-sweeper)**
 
 Around $280 to $320 on Amazon, the Agri-Fab 45-0492 is built for a different job than the three machines above. This is not a blower-vac. Read that again before you order it. The Agri-Fab collects leaves through contact brushes that sweep debris up into a 28 cubic-foot hopper as you tow it behind a riding mower or garden tractor. There is no suction. This distinction matters because a lot of buyers have returned this machine under the impression that it vacuums. It sweeps.
 
@@ -204,9 +204,9 @@ If you're buying a cordless tool, the battery platform decision is often more co
 
 ## The Honest Pick
 
-For most property owners reading this, the [Toro 51621 UltraPlus](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20) is the buy. It outperforms its price by a meaningful margin, the metal impeller is a genuine differentiator, and the 10:1 mulch ratio changes the math on fall cleanup. The cord is a real limitation, but for a yard up to about a third of an acre, it's a manageable one.
+For most property owners reading this, the [Toro 51621 UltraPlus](product:toro-51621-ultraplus-blower-vac) is the buy. It outperforms its price by a meaningful margin, the metal impeller is a genuine differentiator, and the 10:1 mulch ratio changes the math on fall cleanup. The cord is a real limitation, but for a yard up to about a third of an acre, it's a manageable one.
 
-If you're committed to cordless and buying your first kit, the [Greenworks 40V](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20) is the value play. If you have a large property and you've already lost sessions to arm fatigue, the [EGO LB6004](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20) is worth the premium. And if you're running a riding mower over an acre of leaf cover and want to collect rather than mulch, the [Agri-Fab 45-0492](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20) is the right tool for that specific job.
+If you're committed to cordless and buying your first kit, the [Greenworks 40V](product:greenworks-40v-blower-vac) is the value play. If you have a large property and you've already lost sessions to arm fatigue, the [EGO LB6004](product:ego-lb6004-backpack-blower) is worth the premium. And if you're running a riding mower over an acre of leaf cover and want to collect rather than mulch, the [Agri-Fab 45-0492](product:agri-fab-45-0492-tow-behind-sweeper) is the right tool for that specific job.
 
 More on seasonal [lawn care](/lawn-care/) strategy, tool maintenance, and fall prep is available in the hub if you're building out the rest of your approach for the season.
 

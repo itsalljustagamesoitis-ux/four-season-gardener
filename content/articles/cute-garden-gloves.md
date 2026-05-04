@@ -38,7 +38,7 @@ Before getting into the picks, a note on scope: this article covers lightweight 
 
 ### Pine Tree Tools Bamboo Garden Gloves
 
-**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)**
+**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)**
 
 Price at time of writing: around $13 to $16 for a single pair.
 
@@ -69,7 +69,7 @@ The touchscreen-compatible fingertips are a minor convenience, not a headline fe
 
 ### Foxgloves Original Gardening Gloves
 
-**[Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)**
+**[Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)**
 
 Price at time of writing: around $19 to $24, depending on color and size combination.
 

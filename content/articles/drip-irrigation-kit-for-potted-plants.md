@@ -61,7 +61,7 @@ I've been running drip setups across my property for about eight years, across c
 
 ### DIG GE200 Drip and Micro Sprinkler Kit, 122-Piece
 
-[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20) currently runs around $28 to $35 depending on where you catch it. For that price, you get 122 pieces including both drip emitters and micro-sprinkler heads, 1/2" mainline tubing, 1/4" distribution tubing, stakes, connectors, and end caps. Everything uses standard sizing, which matters more than people realize: if you buy a cheap kit that uses proprietary fittings, you're locked into that brand forever, and most cheap brands don't sell replacement parts reliably. DIG uses industry-standard 1/2" and 1/4" barbed fittings that are compatible with Rain Bird, Orbit, and any other drip brand you might want to add later.
+[DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit) currently runs around $28 to $35 depending on where you catch it. For that price, you get 122 pieces including both drip emitters and micro-sprinkler heads, 1/2" mainline tubing, 1/4" distribution tubing, stakes, connectors, and end caps. Everything uses standard sizing, which matters more than people realize: if you buy a cheap kit that uses proprietary fittings, you're locked into that brand forever, and most cheap brands don't sell replacement parts reliably. DIG uses industry-standard 1/2" and 1/4" barbed fittings that are compatible with Rain Bird, Orbit, and any other drip brand you might want to add later.
 
 The inclusion of both drip emitters and micro-sprinklers in the same kit is actually useful for a mixed container and border setup. Drip emitters deliver water precisely at the base of one plant. The micro-sprinklers cover a wider radius, better suited to low ground covers, dense container plantings, or herb boxes where you want even moisture across the whole surface.
 
@@ -81,7 +81,7 @@ The component count is only overwhelming if you try to use everything at once. I
 
 ### Rain Bird GARDENKIT Drip Irrigation Raised Bed Watering Kit
 
-The [Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20) is specifically designed for raised beds in the 4x4 to 4x8 range, and it shows in the sizing. Everything in the kit is proportioned for that footprint. One kit handles approximately one 4x8 bed, which means if you have four beds, you need four kits, or you buy the components separately once you know what you're doing.
+The [Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed) is specifically designed for raised beds in the 4x4 to 4x8 range, and it shows in the sizing. Everything in the kit is proportioned for that footprint. One kit handles approximately one 4x8 bed, which means if you have four beds, you need four kits, or you buy the components separately once you know what you're doing.
 
 What sets this apart from the DIG kit is the included pressure regulator and filter. This is a detail most buyers skip over and then regret. Residential water pressure typically runs 40 to 80 PSI. Drip emitters are designed to operate at 15 to 30 PSI. Run full household pressure through a drip emitter and you'll blow them out or get wildly uneven flow rates within the first season. Rain Bird includes the regulator in the box. You don't have to think about it or buy it separately.
 
@@ -100,7 +100,7 @@ If you're pairing this with the [Gilmour soaker hose](#gilmour-flat-soaker-hose)
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) currently lists around $65 to $80, which is a meaningful price jump from the mechanical timer below. The jump buys you two independent zones from a single outdoor faucet, Wi-Fi scheduling through the B-hyve app, and WeatherSense rain detection that auto-skips a watering cycle when it's already rained.
+The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) currently lists around $65 to $80, which is a meaningful price jump from the mechanical timer below. The jump buys you two independent zones from a single outdoor faucet, Wi-Fi scheduling through the B-hyve app, and WeatherSense rain detection that auto-skips a watering cycle when it's already rained.
 
 ![Drip Irrigation Kit For Potted Plants](/images/articles/irrigation-3.jpg)
 
@@ -122,7 +122,7 @@ If managing a connected watering timer sounds like more overhead than you want, 
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20) costs under $15. It has no battery, no app, no Wi-Fi, and no moving parts beyond a mechanical clockwork dial. You twist it to set a duration up to 120 minutes and it shuts off automatically when the time is up.
+The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer) costs under $15. It has no battery, no app, no Wi-Fi, and no moving parts beyond a mechanical clockwork dial. You twist it to set a duration up to 120 minutes and it shuts off automatically when the time is up.
 
 That's the whole product. And that simplicity is exactly right for a large portion of readers who just need to stop forgetting to water and aren't interested in managing another app. I've seen people spend $80 on a smart timer and then spend two weekends troubleshooting the Wi-Fi pairing. This will never happen with the Orbit 62034 because there's nothing to pair.
 
@@ -144,7 +144,7 @@ For more context on how mechanical timers compare to battery-powered options at 
 
 ### Gilmour Flat Weeper Soaker Hose, 50 Ft.
 
-The [Gilmour Flat Weeper Soaker Hose, 50 Ft.](https://www.amazon.com/dp/B001IKVWVW?tag=fourseasong-20) runs around $20 to $25. It's made from recycled rubber, not cheap vinyl, and that distinction matters over several seasons. Vinyl soaker hoses crack after one or two winters in climates with hard freezes. The Gilmour holds up better, though you should still bring it inside once temperatures drop reliably below 25 degrees F. (I store mine coiled in a 5-gallon bucket in the barn, for what that's worth.)
+The [Gilmour Flat Weeper Soaker Hose, 50 Ft.](product:gilmour-flat-soaker-hose-50ft) runs around $20 to $25. It's made from recycled rubber, not cheap vinyl, and that distinction matters over several seasons. Vinyl soaker hoses crack after one or two winters in climates with hard freezes. The Gilmour holds up better, though you should still bring it inside once temperatures drop reliably below 25 degrees F. (I store mine coiled in a 5-gallon bucket in the barn, for what that's worth.)
 
 The flat design is worth understanding. A flat soaker hose sits flush against the soil surface, which means water seeps directly into the root zone with minimal evaporation. A round soaker hose sits on top of its own curvature, which lifts the seep points slightly away from the soil and loses more water to evaporation and runoff in dry, sandy mixes. For raised beds with a loose, well-draining soil mix, the flat design performs better.
 

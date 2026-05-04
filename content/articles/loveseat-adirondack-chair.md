@@ -40,9 +40,9 @@ The question is which one you should buy. They're not interchangeable. The choic
 
 ## At a Glance
 
-The [SERWALL Adirondack Bench, HDPE All-Weather Adirondack Loveseat](https://www.amazon.com/dp/B0DZWT47B3?tag=fourseasong-20) is the fixed version. It sits in one place, looks like a traditional two-seat Adirondack, and doesn't move unless you physically drag it. It's available in gray, which reads as a neutral against most exterior color schemes.
+The [SERWALL Adirondack Bench, HDPE All-Weather Adirondack Loveseat](product:hdpe-adirondack-loveseat-fixed) is the fixed version. It sits in one place, looks like a traditional two-seat Adirondack, and doesn't move unless you physically drag it. It's available in gray, which reads as a neutral against most exterior color schemes.
 
-The [SERWALL Outdoor Folding Adirondack Bench, HDPE All-Weather Adirondack Loveseat](https://www.amazon.com/dp/B0FJF5NGNF?tag=fourseasong-20) is the same basic concept but folds flat for storage. It comes in navy and carries a 660-lb weight capacity, which is a meaningful number if you're buying furniture for a household that actually sits in it. Both are built from HDPE lumber, which means no painting, no sealing, and no splinters after year three.
+The [SERWALL Outdoor Folding Adirondack Bench, HDPE All-Weather Adirondack Loveseat](product:folding-adirondack-loveseat-hdpe) is the same basic concept but folds flat for storage. It comes in navy and carries a 660-lb weight capacity, which is a meaningful number if you're buying furniture for a household that actually sits in it. Both are built from HDPE lumber, which means no painting, no sealing, and no splinters after year three.
 
 Pricing for both is mid-range. At the time of writing, the fixed version runs around $280 to $310 depending on timing and availability, and the folding version is priced similarly, typically $290 to $320. Neither is a bargain-bin buy, but neither is the kind of investment that requires a spreadsheet.
 

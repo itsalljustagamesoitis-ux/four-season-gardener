@@ -34,7 +34,7 @@ product_b: "fcmp-im4000-tumbling-composter"
 # winner_reason: ""  # SET THIS after review
 ---
 
-Both of these products will improve your soil. That's about where the easy comparison ends. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) and the [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) are solving different problems for different gardeners, and picking the wrong one means you'll either have a plastic drum sitting half-full in your yard or a worm bin that freezes solid in November. The worm castings vs compost question sounds like a chemistry debate, but in practice it's a space, temperature, and volume question. Here's how to figure out which one is actually right for your situation.
+Both of these products will improve your soil. That's about where the easy comparison ends. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black) and the [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](product:fcmp-im4000-tumbling-composter) are solving different problems for different gardeners, and picking the wrong one means you'll either have a plastic drum sitting half-full in your yard or a worm bin that freezes solid in November. The worm castings vs compost question sounds like a chemistry debate, but in practice it's a space, temperature, and volume question. Here's how to figure out which one is actually right for your situation.
 
 If you're building out your composting practice more broadly, the [Composting](/composting/) hub has deeper coverage on inputs, methods, and timing.
 
@@ -92,9 +92,9 @@ The FCMP IM4000 doesn't produce worm tea, it doesn't work indoors, and it doesn'
 
 ## Verdict
 
-Buy the [Worm Factory 360](https://www.amazon.com/dp/B002LH47PY?tag=fourseasong-20) if your composting is primarily about kitchen scraps, you're working with limited outdoor space or no outdoor space, or you want a supply of worm tea for container plants and raised beds. Factor in the cost of worms and your realistic all-in price is around $130 to $140. If you're in an apartment or have a small urban lot, this is the better tool.
+Buy the [Worm Factory 360](product:worm-factory-360-black) if your composting is primarily about kitchen scraps, you're working with limited outdoor space or no outdoor space, or you want a supply of worm tea for container plants and raised beds. Factor in the cost of worms and your realistic all-in price is around $130 to $140. If you're in an apartment or have a small urban lot, this is the better tool.
 
-Buy the [FCMP IM4000](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) if you're composting outdoors with a mix of kitchen and yard waste, you want finished compost on a seasonal timeline rather than waiting through a full year, and you have a spot in your yard that gets reasonable sun. The dual-chamber design is a genuine improvement over single-chamber tumblers, and the elevated frame is more useful than it sounds on paper.
+Buy the [FCMP IM4000](product:fcmp-im4000-tumbling-composter) if you're composting outdoors with a mix of kitchen and yard waste, you want finished compost on a seasonal timeline rather than waiting through a full year, and you have a spot in your yard that gets reasonable sun. The dual-chamber design is a genuine improvement over single-chamber tumblers, and the elevated frame is more useful than it sounds on paper.
 
 If you're running a larger property and need volume, the FCMP IM4000 is closer to what you need, though you may end up buying two. The Worm Factory 360 makes a strong case as a supplemental system even then, producing castings and liquid fertilizer that a tumbler can't match.
 

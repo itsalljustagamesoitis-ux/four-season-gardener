@@ -44,7 +44,7 @@ Most metal elevated beds fall into one of two configurations. Some are fixed-sha
 
 Standard galvanized steel is zinc-coated and resists corrosion reasonably well in dry climates. In wet climates with freeze-thaw cycles, heavy rainfall, and soil contact for six or eight months a year, "reasonably well" translates to visible rust streaking within three to five years on cheaper panels. I've watched it happen with beds I bought in 2019 that looked fine the first season and were staining the patio by 2022.
 
-The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) uses Aluzinc-coated steel, which is a zinc-aluminum alloy coating rather than plain zinc. Aluzinc resists corrosion three to five times longer than standard galvanized steel, according to Vego's materials data, and my observation over two growing seasons tracks with that claim. The panels have shown no oxidation on the exterior, including over winter under a wet layer of mulch.
+The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) uses Aluzinc-coated steel, which is a zinc-aluminum alloy coating rather than plain zinc. Aluzinc resists corrosion three to five times longer than standard galvanized steel, according to Vego's materials data, and my observation over two growing seasons tracks with that claim. The panels have shown no oxidation on the exterior, including over winter under a wet layer of mulch.
 
 This matters if you're considering a $90 galvanized bed versus a $280 modular kit and wondering what you're actually paying for. A significant part of it is the coating.
 
@@ -115,7 +115,7 @@ The [Raised Beds](/raised-beds/) section also has a full range of comparisons if
 
 ## My Recommendation
 
-The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20) is the one I'd buy again, and did. The depth is the thing. At $280, it's not the cheapest option in this category, but it's the only elevated metal bed I've used at this price point that can actually grow tomatoes and root vegetables without compromise. The Aluzinc coating has held through two hard winters with no signs of failure. The modular configuration is legitimately useful if your space isn't a clean rectangle.
+The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is the one I'd buy again, and did. The depth is the thing. At $280, it's not the cheapest option in this category, but it's the only elevated metal bed I've used at this price point that can actually grow tomatoes and root vegetables without compromise. The Aluzinc coating has held through two hard winters with no signs of failure. The modular configuration is legitimately useful if your space isn't a clean rectangle.
 
 If budget is the priority and you're growing mainly herbs and greens, a shallower bed at a lower price is defensible, though I'd still avoid anything under $150 if longevity matters to you. For full vegetable production in an elevated format, the Vego 17-inch is where I'd start.
 

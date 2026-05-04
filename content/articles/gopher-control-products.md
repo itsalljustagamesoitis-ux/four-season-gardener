@@ -1,5 +1,5 @@
 ---
-title: "Gopher Control Products: What Actually Works"
+title: "Gopher and Small Yard Pest Control: Products That Actually Work"
 slug: "gopher-control-products"
 type: "buyer_guide"
 date: 2026-05-01
@@ -63,7 +63,7 @@ Some repellents need reapplication every two weeks, more frequently after heavy 
 
 ### Best Budget Option: Liquid Fence Deer and Rabbit Repellent
 
-The [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20) is not subtle. I want to lead with that. The formula is sulfur and egg solids based, which means it smells genuinely bad on application, and for a short window afterward, your garden smells like something went wrong. The odor dissipates within an hour or two once it dries, but if you were planning to sit on the terrace immediately after spraying, reschedule.
+The [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent) is not subtle. I want to lead with that. The formula is sulfur and egg solids based, which means it smells genuinely bad on application, and for a short window afterward, your garden smells like something went wrong. The odor dissipates within an hour or two once it dries, but if you were planning to sit on the terrace immediately after spraying, reschedule.
 
 With that said, it works. The ready-to-use 1-gallon format comes with a trigger sprayer and currently runs around $20 to $22 on Amazon. You apply it directly to plant foliage, stems, and the surrounding ground, and the scent profile is unpleasant enough to deer and rabbits that they consistently avoid treated areas. The formula is rain-resistant and holds for two to four weeks under normal conditions, though I'd put it closer to two weeks during genuinely wet stretches.
 
@@ -82,7 +82,7 @@ Once fully dry, it's safe around pets and children, which matters for real-world
 
 ### Best Mid-Range Option: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
 
-The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) currently runs around $35 to $42 depending on where you buy it. For what it does, that's a reasonable price. It connects to a standard garden hose, stakes into the ground, and delivers a sharp burst of water when its infrared sensor detects movement.
+The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler) currently runs around $35 to $42 depending on where you buy it. For what it does, that's a reasonable price. It connects to a standard garden hose, stakes into the ground, and delivers a sharp burst of water when its infrared sensor detects movement.
 
 The detection range is 120 degrees up to 40 feet, which covers a full garden bed from a single stake position. You can set it to day-only, night-only, or 24-hour detection, which is genuinely useful. Deer tend to browse at dawn and dusk. Raccoons work nights. Cats and rabbits are variable. Being able to configure the detection window means you're not getting soaked every time you walk past the bed at noon. (I learned this the hard way during setup, which I don't recommend.)
 

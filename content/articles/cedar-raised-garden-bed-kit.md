@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time researching [Raised Beds](/raised-beds/) online, you already know the options run from flimsy galvanized rectangles to pressure-treated lumber you'd need a contractor to assemble. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](https://www.amazon.com/dp/B00NY2FFEC?tag=fourseasong-20) sits in a different category: North American cedar, made in the USA, no tools required. Whether it earns its mid-range price is what I was actually trying to figure out.
+If you've spent any time researching [Raised Beds](/raised-beds/) online, you already know the options run from flimsy galvanized rectangles to pressure-treated lumber you'd need a contractor to assemble. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](product:greenes-premium-cedar-4x8) sits in a different category: North American cedar, made in the USA, no tools required. Whether it earns its mid-range price is what I was actually trying to figure out.
 
 I've been building out production beds on my 12-acre property for several years now, and I've run through enough kit options to have opinions. This one came in at around $120 to $140 depending on the seller and timing, which puts it squarely in the range where you're paying more than the box-store pine alternatives but less than powder-coated steel. That's a meaningful spread, and it should mean something in terms of what you're actually getting.
 

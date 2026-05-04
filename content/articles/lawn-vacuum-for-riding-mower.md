@@ -50,7 +50,7 @@ The category is messier than it looks, though. "Lawn vacuum" gets applied to tow
 
 ## Top Picks
 
-### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](https://www.amazon.com/dp/B00B7E75VU?tag=fourseasong-20)
+### [Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper](product:agri-fab-45-0492-tow-behind-sweeper)
 
 **Best for: Riding mower owners with a half-acre or more**
 
@@ -78,7 +78,7 @@ If you're coming from the [DR Leaf and Lawn Vacuum](/dr-leaf-and-lawn-vacuum/) c
 
 ,
 
-### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](https://www.amazon.com/dp/B07KB4QT6G?tag=fourseasong-20)
+### [EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower](product:ego-lb6004-backpack-blower)
 
 **Best for: Large properties, supplemental cleanup around the riding mower's edges**
 
@@ -110,7 +110,7 @@ Price: currently around $500 to $550 with battery and charger, at time of writin
 
 ,
 
-### [Toro 51621 UltraPlus Leaf Blower Vacuum](https://www.amazon.com/dp/B00TNCJU3E?tag=fourseasong-20)
+### [Toro 51621 UltraPlus Leaf Blower Vacuum](product:toro-51621-ultraplus-blower-vac)
 
 **Best for: Corded cleanup where power and mulch ratio matter more than mobility**
 
@@ -137,7 +137,7 @@ Price: currently around $60 to $70 on Amazon, at time of writing.
 
 ,
 
-### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](https://www.amazon.com/dp/B00DRBBRVU?tag=fourseasong-20)
+### [Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac)
 
 **Best for: First-time cordless buyers, smaller properties**
 

@@ -34,7 +34,7 @@ product_b: "vevor-36x12-rectangular-burner"
 # winner_reason: ""  # SET THIS after review
 ---
 
-If you're building a custom fire pit and need a propane burner insert, the two products that keep coming up in this category are the [Stanbroil 19-Inch Round Fire Pit Burner Pan](https://www.amazon.com/dp/B01AL32LQQ?tag=fourseasong-20) and the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20). Both are drop-in components, both are stainless steel, both work with natural gas or propane. So the real question isn't which one is "better" in the abstract. It's which one fits your fire pit opening, your aesthetic, and what you're actually trying to build. That's what I'll walk through here.
+If you're building a custom fire pit and need a propane burner insert, the two products that keep coming up in this category are the [Stanbroil 19-Inch Round Fire Pit Burner Pan](product:stanbroil-19in-round-burner-pan) and the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner). Both are drop-in components, both are stainless steel, both work with natural gas or propane. So the real question isn't which one is "better" in the abstract. It's which one fits your fire pit opening, your aesthetic, and what you're actually trying to build. That's what I'll walk through here.
 
 For broader context on the category, including complete fire pit tables and freestanding heaters, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub is worth browsing before you commit to anything.
 
@@ -84,7 +84,7 @@ Nineteen inches is the product's ceiling, not just its size. If you want a longe
 
 ## Why Choose the VEVOR 36 x 12 Inch Rectangular Burner
 
-The [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20) is built for a fundamentally different project shape. At 36 inches long and 12 inches wide, it produces a linear flame that reads as architectural rather than campfire-style. This is the burner category that most upscale outdoor furniture manufacturers use in their linear fire tables, and the VEVOR makes that format accessible for custom builds.
+The [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner) is built for a fundamentally different project shape. At 36 inches long and 12 inches wide, it produces a linear flame that reads as architectural rather than campfire-style. This is the burner category that most upscale outdoor furniture manufacturers use in their linear fire tables, and the VEVOR makes that format accessible for custom builds.
 
 ### Construction and Materials
 
@@ -117,12 +117,12 @@ Rectangular fire pit builds also tend to be more complex structurally. You need 
 
 These two products don't actually compete with each other in any meaningful way. The choice is almost entirely determined by the shape of your fire pit opening.
 
-Build a round fire pit. Use the [Stanbroil 19-Inch Round Fire Pit Burner Pan](https://www.amazon.com/dp/B01AL32LQQ?tag=fourseasong-20). It's priced fairly, it's a proven component, and the 19-inch ring burner is the right specification for that format.
+Build a round fire pit. Use the [Stanbroil 19-Inch Round Fire Pit Burner Pan](product:stanbroil-19in-round-burner-pan). It's priced fairly, it's a proven component, and the 19-inch ring burner is the right specification for that format.
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-6.jpg)
 
 
-Build a rectangular fire pit table or linear installation. Use the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](https://www.amazon.com/dp/B0CL7DNDVX?tag=fourseasong-20). The linear flame is architecturally appropriate, the 36-inch length produces meaningful heat across a longer seating arrangement, and there's no round equivalent that produces the same effect.
+Build a rectangular fire pit table or linear installation. Use the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner). The linear flame is architecturally appropriate, the 36-inch length produces meaningful heat across a longer seating arrangement, and there's no round equivalent that produces the same effect.
 
 If you haven't decided on your fire pit shape yet, I'd resolve that question before you research burners further. The burner format should follow the build design, not the other way around. And if you're still in the early planning stages, spending time on the [fire and heat product coverage](/fire-and-heat/) on this site, including complete fire pit tables and freestanding options, may save you from committing to a custom build when an off-the-shelf solution would serve you better.
 

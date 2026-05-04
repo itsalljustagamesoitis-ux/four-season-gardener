@@ -57,7 +57,7 @@ This roundup covers five composters worth considering, from a countertop electri
 
 ## Top Picks
 
-### [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20)
+### [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](product:fcmp-im4000-tumbling-composter)
 
 The IM4000 is the most reviewed tumbling composter on Amazon by a wide margin, and the reviews are largely justified. The dual-chamber design is the reason most people buy it: you load one side while the other cures, which means you're not waiting for the whole drum to finish before adding new material. In practice, this shortens active composting time to around four to six weeks versus the six to twelve months you'd typically wait with an open ground-level bin.
 
@@ -79,7 +79,7 @@ Currently around $120 on Amazon. For a tumbler at this price, it's a solid buy. 
 
 ,
 
-### [FCMP Outdoor IM4000-WK Tumbling Composter with Wheels, 37 Gallon](https://www.amazon.com/dp/B07YX6BH17?tag=fourseasong-20)
+### [FCMP Outdoor IM4000-WK Tumbling Composter with Wheels, 37 Gallon](product:fcmp-im4000-wk-wheeled-composter)
 
 Same drum, same dual-chamber design, same lid system as the IM4000. The difference is a set of wheels on the base frame that allow you to roll the entire composter to wherever you need to unload it, rather than carrying a wheelbarrow to the composter.
 
@@ -100,7 +100,7 @@ Currently around $140 on Amazon. The price difference over the standard IM4000 i
 
 ,
 
-### [Good Ideas EZCJR-BLK Junior Wizard Compost Bin, 7 cu. ft., Black](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20)
+### [Good Ideas EZCJR-BLK Junior Wizard Compost Bin, 7 cu. ft., Black](product:good-ideas-junior-wizard-compost-bin)
 
 The Junior Wizard is a ground-level open-bottom bin, which makes it the opposite of the tumblers above in almost every relevant way. There's no turning mechanism. The lid is a simple molded cap that lifts off for loading and sits on top to keep rain and debris out. It's not sophisticated, and it doesn't pretend to be.
 
@@ -124,7 +124,7 @@ Currently around $50 on Amazon. If the FCMP tumblers feel like more mechanism th
 
 ,
 
-### [Envirocycle Most Beautiful Composter in the World, Black](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20)
+### [Envirocycle Most Beautiful Composter in the World, Black](product:envirocycle-composter-black)
 
 The name is marketing, but the base is genuinely useful. The Envirocycle sits in a collection tray that captures compost tea as it drains from the drum. You drain off the liquid periodically and use it as a diluted liquid fertilizer. No other composter in this roundup does this automatically, and if you grow in containers or raised beds where liquid feeding is part of the routine, it's a real functional difference.
 
@@ -148,7 +148,7 @@ Currently around $150 on Amazon, though pricing has fluctuated. Worth checking b
 
 ,
 
-### [Lomi 1 Smart Waste & Food Composter, 3L, White](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20)
+### [Lomi 1 Smart Waste & Food Composter, 3L, White](product:lomi-electric-composter)
 
 The Lomi is not a composter in the traditional sense, and calling it one does it a disservice in both directions. What it actually does is process food waste on your countertop in four to eight hours using heat and mechanical grinding, producing a dry, soil-like material that can be worked into garden beds or potting mix. The output is not finished compost. It's pre-compost, and if you put it directly into planting holes without further curing, you'll see mixed results. Read the instructions on the LomiPod tablets, which you use to activate microbial breakdown and improve the end product.
 
@@ -205,7 +205,7 @@ For more guidance on matching the right composting approach to your specific sit
 
 ### What is the best compost bin lid for keeping out animals?
 
-Tumbler-style composters like the [FCMP Outdoor IM4000](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) offer the best animal resistance because the drum sits elevated off the ground and the chamber doors lock into the drum wall. For ground-level bins like the [Good Ideas Junior Wizard](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20), the lid alone won't stop rodents. Add a hardware cloth base under the bin for meaningful protection.
+Tumbler-style composters like the [FCMP Outdoor IM4000](product:fcmp-im4000-tumbling-composter) offer the best animal resistance because the drum sits elevated off the ground and the chamber doors lock into the drum wall. For ground-level bins like the [Good Ideas Junior Wizard](product:good-ideas-junior-wizard-compost-bin), the lid alone won't stop rodents. Add a hardware cloth base under the bin for meaningful protection.
 
 ### How long does composting take in a tumbler versus an open bin?
 
@@ -213,15 +213,15 @@ A dual-chamber tumbler like the FCMP IM4000 will produce finished compost in app
 
 ### Can I compost in an apartment with no outdoor space?
 
-The [Lomi 1 Smart Waste & Food Composter](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20) is the only product in this roundup designed for that situation. It processes food scraps on a kitchen counter in four to eight hours. The output is not fully finished compost and benefits from additional curing before use in garden beds, but it handles the kitchen waste problem without any outdoor access.
+The [Lomi 1 Smart Waste & Food Composter](product:lomi-electric-composter) is the only product in this roundup designed for that situation. It processes food scraps on a kitchen counter in four to eight hours. The output is not fully finished compost and benefits from additional curing before use in garden beds, but it handles the kitchen waste problem without any outdoor access.
 
 ### Is a wheeled composter worth the extra cost?
 
-For most people composting within ten or fifteen feet of where they'll use the finished material, probably not. If your compost station is far from your vegetable beds, or if repositioning heavy equipment is physically difficult for you, the [FCMP IM4000-WK](https://www.amazon.com/dp/B07YX6BH17?tag=fourseasong-20) is worth the modest price difference over the standard IM4000. Just confirm you have firm, stable ground to roll it on.
+For most people composting within ten or fifteen feet of where they'll use the finished material, probably not. If your compost station is far from your vegetable beds, or if repositioning heavy equipment is physically difficult for you, the [FCMP IM4000-WK](product:fcmp-im4000-wk-wheeled-composter) is worth the modest price difference over the standard IM4000. Just confirm you have firm, stable ground to roll it on.
 
 ### What is compost tea and do I need a composter that collects it?
 
-Compost tea is the liquid that drains from decomposing organic material. It contains soluble nutrients and microbial activity and can be used diluted as a liquid fertilizer for plants. Most composters don't collect it. The [Envirocycle composter](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20) is the only unit in this roundup with a built-in collection base. If you grow in containers or raised beds where liquid feeding is already part of your routine, that feature has real practical value. If you're composting into open garden beds and not feeding liquid fertilizer regularly, you won't miss it.
+Compost tea is the liquid that drains from decomposing organic material. It contains soluble nutrients and microbial activity and can be used diluted as a liquid fertilizer for plants. Most composters don't collect it. The [Envirocycle composter](product:envirocycle-composter-black) is the only unit in this roundup with a built-in collection base. If you grow in containers or raised beds where liquid feeding is already part of your routine, that feature has real practical value. If you're composting into open garden beds and not feeding liquid fertilizer regularly, you won't miss it.
 
 <script type="application/ld+json">
 {
@@ -233,7 +233,7 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
       "name": "What is the best compost bin lid for keeping out animals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tumbler-style composters like the [FCMP Outdoor IM4000](https://www.amazon.com/dp/B009378AG2?tag=fourseasong-20) offer the best animal resistance because the drum sits elevated off the ground and the chamber doors lock into the drum wall. For ground-level bins like the [Good Ideas Junior Wizard](https://www.amazon.com/dp/B002D925D6?tag=fourseasong-20), the lid alone won't stop rodents. Add a hardware cloth base under the bin for meaningful protection."
+        "text": "Tumbler-style composters like the [FCMP Outdoor IM4000](product:fcmp-im4000-tumbling-composter) offer the best animal resistance because the drum sits elevated off the ground and the chamber doors lock into the drum wall. For ground-level bins like the [Good Ideas Junior Wizard](product:good-ideas-junior-wizard-compost-bin), the lid alone won't stop rodents. Add a hardware cloth base under the bin for meaningful protection."
       }
     },
     {
@@ -249,7 +249,7 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
       "name": "Can I compost in an apartment with no outdoor space?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The [Lomi 1 Smart Waste & Food Composter](https://www.amazon.com/dp/B0B3FSQTRS?tag=fourseasong-20) is the only product in this roundup designed for that situation. It processes food scraps on a kitchen counter in four to eight hours. The output is not fully finished compost and benefits from additional curing before use in garden beds, but it handles the kitchen waste problem without any outdoor access."
+        "text": "The [Lomi 1 Smart Waste & Food Composter](product:lomi-electric-composter) is the only product in this roundup designed for that situation. It processes food scraps on a kitchen counter in four to eight hours. The output is not fully finished compost and benefits from additional curing before use in garden beds, but it handles the kitchen waste problem without any outdoor access."
       }
     },
     {
@@ -257,7 +257,7 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
       "name": "Is a wheeled composter worth the extra cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most people composting within ten or fifteen feet of where they'll use the finished material, probably not. If your compost station is far from your vegetable beds, or if repositioning heavy equipment is physically difficult for you, the [FCMP IM4000-WK](https://www.amazon.com/dp/B07YX6BH17?tag=fourseasong-20) is worth the modest price difference over the standard IM4000. Just confirm you have firm, stable ground to roll it on."
+        "text": "For most people composting within ten or fifteen feet of where they'll use the finished material, probably not. If your compost station is far from your vegetable beds, or if repositioning heavy equipment is physically difficult for you, the [FCMP IM4000-WK](product:fcmp-im4000-wk-wheeled-composter) is worth the modest price difference over the standard IM4000. Just confirm you have firm, stable ground to roll it on."
       }
     },
     {
@@ -265,7 +265,7 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
       "name": "What is compost tea and do I need a composter that collects it?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Compost tea is the liquid that drains from decomposing organic material. It contains soluble nutrients and microbial activity and can be used diluted as a liquid fertilizer for plants. Most composters don't collect it. The [Envirocycle composter](https://www.amazon.com/dp/B0121G9ZJW?tag=fourseasong-20) is the only unit in this roundup with a built-in collection base. If you grow in containers or raised beds where liquid feeding is already part of your routine, that feature has real practical value. If you're composting into open garden beds and not feeding liquid fertilizer regularly, you won't miss it."
+        "text": "Compost tea is the liquid that drains from decomposing organic material. It contains soluble nutrients and microbial activity and can be used diluted as a liquid fertilizer for plants. Most composters don't collect it. The [Envirocycle composter](product:envirocycle-composter-black) is the only unit in this roundup with a built-in collection base. If you grow in containers or raised beds where liquid feeding is already part of your routine, that feature has real practical value. If you're composting into open garden beds and not feeding liquid fertilizer regularly, you won't miss it."
       }
     }
   ]

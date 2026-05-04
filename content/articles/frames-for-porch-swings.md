@@ -18,20 +18,6 @@ products:
       - "500 lb capacity; accommodates two adults comfortably on 54-inch seat width"
     article_specific_cons:
       - "Hanging hardware (S-hooks, chain) typically sold separately for ceiling/beam mounting"
-  - id: "anderson-teak-gl101-glider-bench"
-    role: "also_consider"
-    article_specific_pros:
-      - "Solid Grade A teak construction with stainless steel hardware that won't rust or stain"
-      - "Smooth gliding motion on precision bearings , more relaxing than a static bench"
-    article_specific_cons:
-      - "Premium price ($2,000+) , this is a long-term investment piece, not an impulse buy"
-  - id: "polywood-nautical-rocker-teak"
-    role: "also_consider"
-    article_specific_pros:
-      - "Marine-grade POLYWOOD lumber"
-      - "Classic nautical rocker design"
-    article_specific_cons:
-      - "Premium price point"
   - id: "belord-wicker-rocker-set-b0c7"
     role: "also_consider"
     article_specific_pros:
@@ -64,25 +50,25 @@ Seat width matters for comfort. A 54-inch seat is genuinely two-person. Anything
 
 ## Top Picks for Porch Swing Frames and Outdoor Seating
 
-### Best Teak Swing Frame: [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](https://www.amazon.com/dp/B0117O4MYC?tag=fourseasong-20)
+### Best Teak Swing Frame: [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](product:all-things-cedar-ts50-teak-porch-swing)
 This is the only solid Grade A teak porch swing consistently available on Amazon, and it's well made. The TS50 uses brass hardware throughout, which won't rust or stain the wood with iron oxidation the way lesser hardware does over time. Seat width is 54 inches, which is actual two-person sizing. Weight capacity is 500 lbs. Hanging ropes are included, so you can get it up quickly if you're mounting from a porch beam or pergola cross member.
 The honest caveat: if you're mounting from a ceiling beam, you'll need S-hooks and chain rated for the load, and those are sold separately. Budget an extra $30 to $50 for proper hanging hardware from a hardware store, not an aftermarket kit. Don't wing it.
 Currently around $580 to $620 on Amazon at the time of writing. The Amazon listing has a thin review count, which I'd note but wouldn't treat as a quality signal. All Things Cedar is a legitimate brand with a solid reputation in outdoor wood furniture. Check their brand site if you want broader review context.
 One thing to plan for: teak weathers to a silver-gray patina over time if you don't maintain it. That patina is structurally fine, but if you want the warm honey-brown color, you're committing to oiling once or twice a year. I oil my own teak pieces every spring, which takes about 45 minutes per piece. (I've timed this.) If that's not in your maintenance budget, the silver-gray is honest and not unattractive.
 If you're already investing in teak for the porch, pairing this swing with a [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) or a [teak Adirondack chair](/teak-adirondack-chair/) makes for a coherent porch that ages together.
 
-### Best Teak Glider Bench: [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20)
+### Best Teak Glider Bench: [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench)
 If you don't have an overhead structure for hanging and you want teak, this is the pick. The GL-101 is a glider bench, meaning the seat moves on a forward-and-back glide mechanism on precision bearings. No ceiling required. You place it on a porch or patio and it works.
 Anderson Teak is a specialist brand. They do one thing, which is teak outdoor furniture, and they do it well. The stainless steel hardware used in the GL-101 won't corrode even in coastal conditions. Grade A teak construction throughout. The gliding motion is smooth and quiet, which is not guaranteed at this category.
 At around $2,000 or above, this is not an impulse purchase. It's a piece you buy once and keep. Budget for teak oil every year or two if you want to maintain the color. The Amazon review count is thin, which is common for premium specialty furniture. I'd direct you to Anderson Teak's own website for the broader review picture before buying at this price point.
 Position this as the equivalent of a [teak outdoor dining set](/teak-outdoor-dining-set/) in terms of commitment level. It's furniture that outlasts the people who bought it, if it's maintained.
 
-### Best Low-Maintenance Rocker: [POLYWOOD Nautical Rocker](https://www.amazon.com/dp/B07T99GP72?tag=fourseasong-20)
+### Best Low-Maintenance Rocker: [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak)
 The POLYWOOD Nautical Rocker in teak color sits at the opposite end of the maintenance spectrum from the solid teak options above. Marine-grade recycled plastic lumber, built for full outdoor exposure. Fade resistant, won't absorb water, and requires nothing from you except an occasional wipe-down. It doesn't expand and contract through wet-dry or freeze-thaw cycles. In a climate with hard winters and wet springs, that stability matters more than it sounds.
 The teak colorway approximates the look of weathered teak without the actual material. It won't fool anyone up close, but it reads cleanly on a porch. Currently around $350 to $400 on Amazon.
 The only real drawback is weight. POLYWOOD furniture is heavy, which is part of why it doesn't blow around in wind, but if you're rearranging your porch seasonally, you'll notice it. This is not a rocker you move casually.
 
-### Best Matched Set: [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set](https://www.amazon.com/dp/B0C7GQCPN6?tag=fourseasong-20)
+### Best Matched Set: [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set](product:belord-wicker-rocker-set-b0c7)
 If you've been buying porch furniture in pieces and ending up with a visual jumble, this set solves that problem. Two high-back rocking chairs and a matching side table arrive as a coordinated unit. The high-back design gives neck and shoulder support that most standard rockers skip. Two chairs and a table purchased separately at this quality level would cost considerably more than the set price of around $369.
 For a covered porch with reasonable protection from direct rain, this is the value pick in the group. The wicker-over-steel construction holds up well when it's not sitting in pooling water. If your porch is fully exposed, look at the POLYWOOD option instead.
 Adding chair cushions makes a real difference to comfort over long sessions. For matching cushion options that hold their color, look at [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) as a reference point for what fabric grade you want, even if the exact dimensions differ.

@@ -1,5 +1,5 @@
 ---
-title: "Gopher Pest Control: What Actually Works"
+title: "Yard Pest Control Products: Repellents and Motion Deterrents"
 slug: "gopher-pest-control"
 type: "informational"
 date: 2026-05-02
@@ -57,7 +57,7 @@ A property under persistent deer and rabbit pressure is also harder to protect f
 
 This is where I'll focus on the two products I'd actually recommend for this kind of layered approach.
 
-### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20)
+### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
 Liquid Fence is currently around $22 to $25 for the one-gallon ready-to-use version on Amazon. The concentrate (ASIN B014UUZ8AC) is more economical if you're covering more than two or three large beds regularly. For a 12-acre property I'd go straight to the concentrate, but the gallon ready-to-use is a reasonable starting point if you're protecting a defined area.
 
@@ -72,7 +72,7 @@ Reapplication schedule matters more than initial application. The common mistake
 
 Safe around pets and children once dry. That's not marketing language. It's genuinely the case that the active ingredients are food-derived, and the product is EPA-registered. Give it thirty to forty-five minutes of drying time before letting animals or kids back into the treated area.
 
-### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20)
+### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
 
 The Orbit Yard Enforcer runs around $55 to $65 currently and is probably the most useful single-device deterrent I've tested for garden bed protection. The 120-degree detection range covers up to 40 feet, which is enough to protect a full garden bed with one unit. Day-only, night-only, or 24-hour detection modes let you avoid soaking yourself every time you walk past it, which is a practical feature that matters more than it sounds.
 

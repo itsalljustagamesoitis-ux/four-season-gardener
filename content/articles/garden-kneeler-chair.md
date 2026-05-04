@@ -52,7 +52,7 @@ Before the picks: if you're reading this after a long weeding session with sore 
 
 ### Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches
 
-**[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](https://www.amazon.com/dp/B00YQUSERQ?tag=fourseasong-20)**
+**[Ohuhu Garden Kneeler and Seat with EVA Foam Pad and 2 Tool Pouches](product:ohuhu-garden-kneeler-seat)**
 
 Currently around $30 to $35 on Amazon, which is a reasonable ask for something that solves two separate problems at once.
 
@@ -83,7 +83,7 @@ Paired with a good pair of gloves (the Pine Tree Tools bamboo gloves are my curr
 
 ### Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch
 
-**[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](https://www.amazon.com/dp/B08SZQTWJV?tag=fourseasong-20)**
+**[Gorilla Grip Extra Thick Garden Kneeling Pad, 17.5x11 Inch, Beige](product:gorilla-grip-kneeling-pad)**
 
 Around $12 to $15 at time of writing. That's the whole value proposition.
 
@@ -111,7 +111,7 @@ One honest warning: foam compresses. After a season of regular use, you will fee
 
 ### Pine Tree Tools Bamboo Garden Gloves for Women and Men
 
-**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](https://www.amazon.com/dp/B00W5TGD3W?tag=fourseasong-20)**
+**[Pine Tree Tools Bamboo Garden Gloves for Women & Men](product:pine-tree-tools-bamboo-gloves)**
 
 Currently around $10 to $13. Among the better-selling gardening gloves on Amazon, which in this case actually reflects quality rather than just algorithm positioning.
 
@@ -139,7 +139,7 @@ Sizing note: runs small for some users. Check the reviews before ordering if you
 
 ### Foxgloves Original Gardening Gloves
 
-**[Foxgloves Original Gardening Gloves, Purple/Medium](https://www.amazon.com/dp/B006C61Y42?tag=fourseasong-20)**
+**[Foxgloves Original Gardening Gloves, Purple/Medium](product:foxgloves-original-gloves)**
 
 Around $18 to $22 depending on size and color variant. Worth checking which ASIN you're on, since Foxgloves lists multiple size and color combinations separately and it's easy to land on the wrong one.
 

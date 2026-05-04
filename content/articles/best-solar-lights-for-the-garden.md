@@ -56,7 +56,7 @@ One clarification upfront: the VOLT kit included here is not solar. It runs on 1
 
 **Best for: Budget solar spotlights with serious weatherproofing**
 
-[LITOM 30 LED Solar Motion Sensor Landscape Spotlights](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) run around $35 to $45 for the four-pack at time of writing, which puts per-unit cost under $12. At that price, most buyers expect IP44 weatherproofing and functional-if-mediocre performance. What LITOM is actually delivering here is an IP67 rating, which means the fixture can be submerged in up to one meter of water for 30 minutes and survive. For a garden spotlight that may sit in a flooded border or under heavy wet snow for days at a time, that's not a minor distinction.
+[LITOM 30 LED Solar Motion Sensor Landscape Spotlights](product:litom-solar-motion-spotlights) run around $35 to $45 for the four-pack at time of writing, which puts per-unit cost under $12. At that price, most buyers expect IP44 weatherproofing and functional-if-mediocre performance. What LITOM is actually delivering here is an IP67 rating, which means the fixture can be submerged in up to one meter of water for 30 minutes and survive. For a garden spotlight that may sit in a flooded border or under heavy wet snow for days at a time, that's not a minor distinction.
 
 The three operating modes are worth understanding before you buy. Mode one is motion-activated only, with the light off until triggered. Mode two runs a dim continuous light that brightens on motion detection. Mode three is continuous bright. Most solar spotlights offer motion-only or continuous, not all three, and the middle mode is the one that earns its keep in practice. You get ambient coverage for a path or patio, with the security function still active when something moves.
 
@@ -78,7 +78,7 @@ Detection range is rated at about 26 feet with a 120-degree angle. In my experie
 
 **Best for: No-commitment wall installation, renters included**
 
-The [Mr Beams Solar Wedge Plus](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) is a self-contained solar security light that mounts to any exterior wall surface with three screws. The solar panel sits on top of the unit, angled to collect light throughout the day, so there's no separate panel to position, no wire to run between panel and fixture, and no decision to make about cable routing. You put four screws in a wall and you're done. (I've wired enough exterior fixtures to appreciate this more than I probably should.)
+The [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) is a self-contained solar security light that mounts to any exterior wall surface with three screws. The solar panel sits on top of the unit, angled to collect light throughout the day, so there's no separate panel to position, no wire to run between panel and fixture, and no decision to make about cable routing. You put four screws in a wall and you're done. (I've wired enough exterior fixtures to appreciate this more than I probably should.)
 
 At 410 lumens from 102 LEDs, this is brighter than most solar motion lights in the same price range, which currently sits around $40 to $55. Motion-only operation means the battery lasts longer per charge than fixtures running continuous modes. The wedge form factor is compact enough that it doesn't look provisional on a finished wall, which matters if the wall faces the street.
 
@@ -102,7 +102,7 @@ For readers who need security lighting without hardwiring, see also the [outdoor
 ![Best Solar Lights For The Garden](/images/articles/lighting-1.jpg)
 
 
-Let's be clear about what the [TomCare Solar Lanterns](https://www.amazon.com/dp/B08QV8LTF4?tag=fourseasong-20) are. They are mood lights. They produce a flickering amber LED effect that reads as candlelight at six feet in a dark garden and reads as clearly LED at two feet in daylight. If you want functional security illumination, stop reading this entry and look at the LITOM or Mr Beams above. If you want the kind of lighting that makes a garden path feel like it belongs somewhere pleasant on a June evening, these are excellent.
+Let's be clear about what the [TomCare Solar Lanterns](product:tomcare-solar-flame-lanterns) are. They are mood lights. They produce a flickering amber LED effect that reads as candlelight at six feet in a dark garden and reads as clearly LED at two feet in daylight. If you want functional security illumination, stop reading this entry and look at the LITOM or Mr Beams above. If you want the kind of lighting that makes a garden path feel like it belongs somewhere pleasant on a June evening, these are excellent.
 
 The four-pack runs around $35 to $45, the units stake directly into the ground, and they auto-on at dusk with no setup beyond getting them into sunlight during the day. IP65 weatherproofing covers rain and wind without any issue. The flickering animation has three settings, from a slow gentle flicker to a more active flame effect, which is a more refined design choice than the single static options most comparable decorative stakes offer.
 
@@ -124,7 +124,7 @@ If the TomCare aesthetic appeals but you're also interested in more purely decor
 
 **Best for: Permanent landscape lighting that will outlast the garden itself**
 
-The [VOLT Landscape Lighting Starter Kit](https://www.amazon.com/dp/B07CBV7HVW?tag=fourseasong-20) is the only hardwired option in this roundup, and the only one I'd stake a long-term planting plan on. It runs around $270 to $300 depending on current pricing, which is a real number compared to the sub-$50 solar options above. What you're buying is eight solid brass spotlight fixtures and a 12V transformer with a built-in photocell timer.
+The [VOLT Landscape Lighting Starter Kit](product:volt-landscape-lighting-kit) is the only hardwired option in this roundup, and the only one I'd stake a long-term planting plan on. It runs around $270 to $300 depending on current pricing, which is a real number compared to the sub-$50 solar options above. What you're buying is eight solid brass spotlight fixtures and a 12V transformer with a built-in photocell timer.
 
 Those brass fixtures are not a cosmetic choice. Brass doesn't corrode, doesn't crack in freeze-thaw ground movement, and doesn't fade in UV the way powder-coated aluminum or plastic eventually does. In my experience, plastic landscape fixtures from Malibu or Hampton Bay need replacement within four to seven years. VOLT's brass fixtures are still going strong after a decade in the ground from what independent reviewers consistently report, and that tracks with the material logic. If you're planting a bed you intend to look at for fifteen years, the $250 price differential over cheap plastic starts looking different.
 

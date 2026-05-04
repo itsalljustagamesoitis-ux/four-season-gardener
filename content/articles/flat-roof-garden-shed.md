@@ -63,7 +63,7 @@ Mark out the footprint with stakes before you order anything.
 
 ### Step 2. Decide on flooring before you order the shed
 
-This is the most commonly missed step in steel shed purchases. Most steel flat roof sheds are sold without a floor kit. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) is a good example: the shed runs around $480 to $520 at the time of writing, and the Arrow floor kit is sold separately at roughly $80 to $100 additional. That's a meaningful line item that doesn't show up in the headline price.
+This is the most commonly missed step in steel shed purchases. Most steel flat roof sheds are sold without a floor kit. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) is a good example: the shed runs around $480 to $520 at the time of writing, and the Arrow floor kit is sold separately at roughly $80 to $100 additional. That's a meaningful line item that doesn't show up in the headline price.
 
 Your options for flooring: the manufacturer's steel floor kit, a pressure-treated lumber frame you build yourself, a poured concrete pad, or pavers set level. Concrete is the most permanent and the most stable, but overkill for most residential uses. A pressure-treated 2x4 skid foundation is what most people end up with, and it works fine if it's level.
 
@@ -86,7 +86,7 @@ Steel sheds condensate. Warm air inside, cooler steel panels, and you get moistu
 
 ## The Arrow Select 10x8: What You Get and What You Don't
 
-The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20) gives you 80 square feet of usable floor space in a charcoal steel shell with a low-profile roof. The walls are electro-galvanized steel, which is the rust-resistance process that makes steel sheds viable long-term without painting. The corners are reinforced, and the structure handles wind racking better than cheaper welded-seam alternatives. Doors are padlockable, though the padlock is not included.
+The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) gives you 80 square feet of usable floor space in a charcoal steel shell with a low-profile roof. The walls are electro-galvanized steel, which is the rust-resistance process that makes steel sheds viable long-term without painting. The corners are reinforced, and the structure handles wind racking better than cheaper welded-seam alternatives. Doors are padlockable, though the padlock is not included.
 
 What you don't get: a floor (as covered above), any interior shelving, and a particularly fast assembly experience. This is not a shed you set up in two hours. Plan accordingly.
 

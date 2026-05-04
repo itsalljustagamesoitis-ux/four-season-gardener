@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-Most of us running hose-end irrigation are making do with something mechanical, something dumb, or something that requires us to remember to turn it off. If you've ever come home to a waterlogged container bed because a cheap twist timer got stuck, you already understand why the orbit smart sprinkler controller category exists. The question is whether any of these devices are actually worth the premium over a $15 mechanical timer, or whether you're paying for an app you'll use twice and ignore. I've been testing the [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) for one full growing season, and I have a clear opinion.
+Most of us running hose-end irrigation are making do with something mechanical, something dumb, or something that requires us to remember to turn it off. If you've ever come home to a waterlogged container bed because a cheap twist timer got stuck, you already understand why the orbit smart sprinkler controller category exists. The question is whether any of these devices are actually worth the premium over a $15 mechanical timer, or whether you're paying for an app you'll use twice and ignore. I've been testing the [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) for one full growing season, and I have a clear opinion.
 
 For more context on how smart timers fit into a broader watering setup, the site's [Irrigation](/irrigation/) hub is a good starting point before committing to any specific product.
 

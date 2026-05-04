@@ -38,7 +38,7 @@ Below are the two best deer repellent devices I'd actually recommend buying.
 
 ## Top Picks
 
-### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20)
+### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
 **Price: currently around $22 on Amazon**
 
@@ -49,7 +49,7 @@ The ready-to-use 1-gallon jug comes with a trigger sprayer attached. No mixing, 
 ![Best Deer Repellent Devices](/images/articles/birds-wildlife-8.jpg)
 
 
-One note on economics: the ready-to-use format at $22 per gallon is fine for a small property or a few beds, but if you're covering a larger area consistently, the [Liquid Fence concentrate version (B014UUZ8AC)](https://www.amazon.com/dp/B014UUZ8AC?tag=fourseasong-20) works out to significantly less per application. For a large property, buying the concentrate and a dedicated pump sprayer pays for itself within a season.
+One note on economics: the ready-to-use format at $22 per gallon is fine for a small property or a few beds, but if you're covering a larger area consistently, the [Liquid Fence concentrate version (B014UUZ8AC)](product:liquid-fence-concentrate) works out to significantly less per application. For a large property, buying the concentrate and a dedicated pump sprayer pays for itself within a season.
 
 The product is labeled as safe around children and pets once dry, and I have no reason to doubt that. The egg-and-garlic chemistry is the same formulation Liquid Fence has used for years, and it has a reasonable safety record.
 
@@ -68,7 +68,7 @@ The product is labeled as safe around children and pets once dry, and I have no 
 
 ,
 
-### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20)
+### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
 
 **Price: currently around $35-$40 on Amazon**
 
@@ -136,7 +136,7 @@ Liquid Fence is safe once dry. The Orbit sprinkler is physically harmless, thoug
 
 ### Budget
 
-For under $60, you can have both products running simultaneously, which is the setup I'd recommend to anyone asking me what to actually buy. That's around $22 for the Liquid Fence gallon and $35-$40 for the Orbit sprinkler. If you have a large property, add the [Liquid Fence concentrate](https://www.amazon.com/dp/B014UUZ8AC?tag=fourseasong-20) and a pump sprayer to that equation, but the core investment is still modest for what you get.
+For under $60, you can have both products running simultaneously, which is the setup I'd recommend to anyone asking me what to actually buy. That's around $22 for the Liquid Fence gallon and $35-$40 for the Orbit sprinkler. If you have a large property, add the [Liquid Fence concentrate](product:liquid-fence-concentrate) and a pump sprayer to that equation, but the core investment is still modest for what you get.
 
 ### When Nothing Works
 

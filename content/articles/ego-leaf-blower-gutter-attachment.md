@@ -23,13 +23,13 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're here because you searched "EGO leaf blower gutter attachment," you probably already know the basic concept: a cordless backpack or handheld blower with an angled wand that lets you clear gutters without climbing a ladder every ten feet. What you want to know is whether the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) actually delivers on that promise, and whether the gutter kit makes it worth choosing over the alternatives. I've been running this blower on my 12-acre property for two full seasons, including one of the wetter falls I can remember, and I have a reasonably clear answer.
+If you're here because you searched "EGO leaf blower gutter attachment," you probably already know the basic concept: a cordless backpack or handheld blower with an angled wand that lets you clear gutters without climbing a ladder every ten feet. What you want to know is whether the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) actually delivers on that promise, and whether the gutter kit makes it worth choosing over the alternatives. I've been running this blower on my 12-acre property for two full seasons, including one of the wetter falls I can remember, and I have a reasonably clear answer.
 
 Before we get into specifics, if you're in the process of building out a battery yard system rather than buying one-off tools, it's worth browsing the [Battery & Cordless Tools](/battery-equipment/) hub on this site. There's context there that will help you make smarter purchasing decisions across the whole lineup.
 
 ## Quick Verdict
 
-The [EGO POWER+ LB6504](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) is the best cordless handheld blower I've used for gutter clearing specifically, with one significant caveat: the gutter attachment is sold separately. Plan on spending an additional $30 to $40 for EGO's gutter cleaning kit, which includes the curved wand and nozzle designed for overhead use. Factor that in from the start. The blower itself currently runs around $249 to $269 as a kit on Amazon, which includes the 5.0Ah battery and rapid charger. That's a fair price for what you get.
+The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the best cordless handheld blower I've used for gutter clearing specifically, with one significant caveat: the gutter attachment is sold separately. Plan on spending an additional $30 to $40 for EGO's gutter cleaning kit, which includes the curved wand and nozzle designed for overhead use. Factor that in from the start. The blower itself currently runs around $249 to $269 as a kit on Amazon, which includes the 5.0Ah battery and rapid charger. That's a fair price for what you get.
 
 If you came from a gas blower and you're skeptical about cordless performance, the 650 CFM output will settle that quickly. This is not underpowered. The question is weight and runtime, and I'll cover both.
 
@@ -99,7 +99,7 @@ For a larger property where you're also clearing paths and beds in the same sess
 
 ## Who It's For
 
-If you're running a property with significant leaf fall and gutters you need to clear at least twice a season, the [EGO POWER+ LB6504](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) earns its price. The complete kit at around $249 to $269 is a better value than buying a stripped blower and sourcing the battery separately. The gutter attachment adds $30 to $35 and makes the overhead clearing job manageable on single-story sections without a ladder.
+If you're running a property with significant leaf fall and gutters you need to clear at least twice a season, the [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) earns its price. The complete kit at around $249 to $269 is a better value than buying a stripped blower and sourcing the battery separately. The gutter attachment adds $30 to $35 and makes the overhead clearing job manageable on single-story sections without a ladder.
 
 ![Ego Leaf Blower Gutter Attachment](/images/articles/battery-equipment-8.jpg)
 

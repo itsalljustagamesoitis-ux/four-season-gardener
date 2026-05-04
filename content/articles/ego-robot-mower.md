@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-The title "EGO robot mower" gets searched often enough, and I want to address that upfront: EGO does not currently make a fully autonomous robot mower. What they make is the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20), which is a self-propelled walk-behind mower with enough technology packed into it that people apparently confuse the two. If you landed here looking for a sit-back-and-watch autonomous unit, you'll want to read our [robot lawn mower garage](/robot-lawn-mower-garage/) piece instead. If you're here because you want a battery-powered mower that does most of the physical work for you, you're in the right place.
+The title "EGO robot mower" gets searched often enough, and I want to address that upfront: EGO does not currently make a fully autonomous robot mower. What they make is the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower), which is a self-propelled walk-behind mower with enough technology packed into it that people apparently confuse the two. If you landed here looking for a sit-back-and-watch autonomous unit, you'll want to read our [robot lawn mower garage](/robot-lawn-mower-garage/) piece instead. If you're here because you want a battery-powered mower that does most of the physical work for you, you're in the right place.
 
 I've been running the LM2135SP for two full mowing seasons on roughly two acres of active lawn on my 12-acre property. My previous mower was a Husqvarna HU700F with the Honda GCV 160 engine. The EGO replaced it. That's the context.
 

@@ -34,7 +34,7 @@ product_b: "gas-one-22in-wood-burning-fire-pit"
 # winner_reason: ""  # SET THIS after review
 ---
 
-There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](https://www.amazon.com/dp/B0B7B7R8HL?tag=fourseasong-20) runs around $300. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](https://www.amazon.com/dp/B09VS4NGQC?tag=fourseasong-20) runs under $50. That gap is the whole story, if you want the short version. If you want to know whether the $250 difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.
+There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](product:solo-stove-bonfire-2) runs around $300. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) runs under $50. That gap is the whole story, if you want the short version. If you want to know whether the $250 difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.
 
 I've covered the broader category over at our [Fire Pits & Patio Heaters](/fire-and-heat/) hub if you're still in the early stages of figuring out what type of unit makes sense for your situation. This article assumes you've landed on wood-burning and you're trying to decide how much to spend.
 
@@ -83,7 +83,7 @@ The 19.5-inch interior is comfortable for four to six people seated around it, a
 
 ## Why Choose the Gas One 22" Fire Pit
 
-The honest case for the [Gas One 22" Wood Burning Fire Pit](https://www.amazon.com/dp/B09VS4NGQC?tag=fourseasong-20) is simple. If you want a wood fire on a patio this weekend and you're not ready to spend $300, this gets you there for under $50. It includes a mesh spark screen and a poker. The 22-inch bowl is large enough to take standard split logs without further cutting. That's a reasonable entry point.
+The honest case for the [Gas One 22" Wood Burning Fire Pit](product:gas-one-22in-wood-burning-fire-pit) is simple. If you want a wood fire on a patio this weekend and you're not ready to spend $300, this gets you there for under $50. It includes a mesh spark screen and a poker. The 22-inch bowl is large enough to take standard split logs without further cutting. That's a reasonable entry point.
 
 If you have children or pets, or you're positioning this on a wooden deck, the included mesh lid matters. Flying embers are a genuine concern with any open wood fire, and a spark screen reduces (not eliminates) that risk. The Solo Stove's design naturally reduces embers through more complete combustion, but the Gas One ships with physical protection included. That's worth acknowledging.
 

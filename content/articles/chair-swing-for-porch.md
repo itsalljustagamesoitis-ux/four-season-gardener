@@ -11,8 +11,29 @@ hero_image_alt: "Chair Swing For Porch"
 description: "We tested six porch swings from $100 to $2000 to find which ones actually hold up. Here's what we learned about durability and comfort."
 target_keyword: "chair swing for porch"
 products:
-  - id: "all-things-cedar-ts50-teak-porch-swing"
+  - id: "greenstell-macrame-swing-b07m"
     role: "best_overall"
+    article_specific_pros:
+      - "Handwoven macrame design adds texture and visual interest that plain fabric or plastic swings can't match"
+      - "Spreader bar construction keeps the seat open and stable for comfortable solo sitting"
+    article_specific_cons:
+      - "Macrame cotton requires covering or bringing in during extended rain , not leave-out-all-season material"
+  - id: "joyview-macrame-swing-b0c1"
+    role: "also_consider"
+    article_specific_pros:
+      - "Wider seat dimensions accommodate a comfortable cross-legged sitting position"
+      - "Includes hanging hardware , no separate chain or S-hook purchase needed"
+    article_specific_cons:
+      - "Soft rope construction compresses over time , replacement every 2-3 seasons under regular use"
+  - id: "ystop-macrame-swing-chair-b07y"
+    role: "also_consider"
+    article_specific_pros:
+      - "High-volume reviews with strong ratings , well-established track record for durability"
+      - "Fringed design and natural cotton gives a boho-porch aesthetic that suits wood or brick surroundings"
+    article_specific_cons:
+      - "Cotton material is not UV-stabilized , extended direct sun will fade and weaken the fibers over time"
+  - id: "all-things-cedar-ts50-teak-porch-swing"
+    role: "also_consider"
     article_specific_pros:
       - "Solid Grade A teak construction with brass hardware that won't rust or stain"
       - "500 lb capacity; accommodates two adults comfortably on 54-inch seat width"
@@ -32,20 +53,6 @@ products:
       - "20-year residential warranty against cracking, chipping, and peeling"
     article_specific_cons:
       - "HDPE plastic lacks the warm, natural grain look of real teak wood"
-  - id: "vivere-combo2-stnd-hammock-stand"
-    role: "also_consider"
-    article_specific_pros:
-      - "Complete set , hammock and steel stand included, no tree required"
-      - "Cotton hammock is soft and breathable; 450 lb total capacity"
-    article_specific_cons:
-      - "Cotton is not weatherproof , must bring inside or use a cover when not in use"
-  - id: "rsh-decor-sunbrella-deep-seat-cushion"
-    role: "also_consider"
-    article_specific_pros:
-      - "Genuine Sunbrella fabric (solution-dyed acrylic) is the category standard for fade and mold resistance"
-      - "Deep seat + back cushion set replaces worn cushions on sectionals, loveseats, and chairs"
-    article_specific_cons:
-      - "Sunbrella fabric carries a premium price over standard polyester cushion covers"
   - id: "keter-corfu-2seat-loveseat"
     role: "also_consider"
     article_specific_pros:
@@ -63,7 +70,7 @@ This roundup covers six products across the porch and outdoor seating spectrum, 
 
 ## Top Picks
 
-### [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](https://www.amazon.com/dp/B0117O4MYC?tag=fourseasong-20)
+### [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](product:all-things-cedar-ts50-teak-porch-swing)
 **Best traditional porch swing for long-term use**
 This is the only teak porch swing consistently available on Amazon at the time of writing, and it earns that position on materials alone. Grade A teak, brass hardware, 54-inch seat width, 500 lb capacity. The wood is plantation-grown with a tight, oily grain that sheds moisture without the rot issues you get with cheaper timber. The brass hardware won't leave rust streaks on your porch boards the way zinc or steel fittings can. Which matters more than it sounds after a few wet seasons.
 At around $499 currently, it sits in a strange market position. Not cheap enough to be a casual buy, but not expensive enough that buyers feel compelled to research it thoroughly. The Amazon listing has a thin review count (fewer than 20 at the time of writing), which I understand makes some buyers nervous. That's a fair concern. But look at the construction rather than the crowd. Teak furniture at this grade is well understood, and All Things Cedar has a direct brand presence with more customer context than the Amazon listing shows.
@@ -82,7 +89,7 @@ The one commitment this swing does demand, teak weathers to a silver-grey if lef
 - Ceiling/beam mounting hardware sold separately
 - Requires annual oiling to maintain warm brown color
 
-### [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20)
+### [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench)
 **Best teak glider for a permanent outdoor installation**
 Anderson Teak makes teak furniture and pretty much nothing else. That’s important to note when you're spending over $2,000 on something that's going to sit on your patio for twenty years. The GL-101 uses the same Grade A plantation teak as the All Things Cedar swing, but the mechanism is fundamentally different. Precision bearings on a gliding track rather than a hanging swing. The motion is quieter, more controlled, and easier on the joints than the arc of a traditional swing, which some people find disorienting (just ask my sister).
 If you're deciding between a hanging swing and this, the distinction isn't just aesthetic. A glider needs no overhead structure. No porch beam, no pergola, no engineering questions about load capacity. It sits on its own frame, on flat ground, and that's that.
@@ -99,7 +106,7 @@ This is not an impulse purchase, and I'm not pretending it is either.
 - Thin Amazon review count, supplement research on Anderson Teak's site
 - Teak oiling every 1-2 years to maintain color
 
-### [POLYWOOD Classic Folding Adirondack Chair](https://www.amazon.com/dp/B001VNCJ36?tag=fourseasong-20)
+### [POLYWOOD Classic Folding Adirondack Chair](product:polywood-classic-adirondack-chair)
 **Best low-maintenance option**
 POLYWOOD makes its furniture from recycled HDPE lumber. This is a manufacturing approach that produces a product genuinely indifferent to weather. No painting, no staining, no sealing, no covering. Leave it out through a Connecticut winter and it will look the same in April as it did in October. The 20-year residential warranty against cracking, chipping, and peeling is meaningful, not marketing spin, because HDPE does not structurally degrade the way wood or standard resin does.
 
@@ -118,7 +125,7 @@ At around $230 to $260 depending on color, it's mid-range pricing for what amoun
 - Plastic surface, not a natural material look
 - Some color fading over many years of direct UV exposure
 
-### [Vivere Double Cotton Hammock with Steel Stand, 9 Ft.](https://www.amazon.com/dp/B004YJCP7O?tag=fourseasong-20)
+### [Vivere Double Cotton Hammock with Steel Stand, 9 Ft.](product:vivere-combo2-stnd-hammock-stand)
 **Best budget option for yards without trees**
 There is a strong case for this combo. It's a complete, self-contained unit with no installation required. No trees, no porch beam, no lag bolts. The steel stand folds flat for storage, and the whole package runs around $80 to $100. That’s a reasonable entry point for anyone who isn't sure whether they'll actually use a hammock. Hammocks are not for everyone! 
 450 lb combined capacity, cotton weave that's soft and breathable in summer heat. These are all positives.
@@ -137,7 +144,7 @@ Compared to a polyester hammock like the Koolatron or the ENO DoubleNest, the Vi
 - Cotton must be covered or stored when not in use
 - Steel stand rusts without seasonal treatment
 
-### [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20)
+### [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion)
 **Best cushion upgrade for existing furniture**
 Sunbrella is solution-dyed acrylic, which means the color runs through the fiber rather than sitting on the surface. The result is a fabric that holds color under UV exposure way better than polyester covers and resists mold better than cotton. It is the standard that outdoor furniture manufacturers point to when they want to signal quality, and for good reason.
 RSH Decor's deep seat and back cushion set, at around $80 to $120 depending on fill and color choice, is a good option for anyone with aging outdoor furniture whose frame is still sound but with cushions have faded, gone flat, or grown mildew. Replacing cushions is a lot cheaper than replacing furniture, and the Sunbrella fabric on this replacement will outlast the factory cushions that came with most mid-range outdoor sets.
@@ -152,7 +159,7 @@ Measure carefully before ordering. A 25x25-inch cushion is a common size, but ou
 - Premium price over standard polyester covers
 - Sizing requires careful measurement before ordering
 
-### [Keter Corfu 2-Seat Outdoor Loveseat Sofa](https://www.amazon.com/dp/B00C5C7OMI?tag=fourseasong-20)
+### [Keter Corfu 2-Seat Outdoor Loveseat Sofa](product:keter-corfu-2seat-loveseat)
 **Best value outdoor loveseat with storage**
 The differentiator here is the built-in storage compartment under the seat, and I love storage. It holds cushions, garden accessories, or anything else you want within arm's reach but out of sight. For a small deck or patio where storage is tight, that's a functional advantage that most outdoor loveseats don't offer.
 The resin weave construction is all-weather, so no rust, no rot, no painting. UV-resistant fabric on the included cushions. At around $200 to $250, it's a good price for a two-seater with storage.

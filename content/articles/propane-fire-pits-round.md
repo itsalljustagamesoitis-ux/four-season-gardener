@@ -34,7 +34,7 @@ product_b: "napoleon-st-tropez-fire-table"
 # winner_reason: ""  # SET THIS after review
 ---
 
-Round propane fire pit tables have gotten genuinely good in the last few years, and the category is now crowded enough that picking one requires actual homework. Two products keep surfacing in that research: the [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20). They're both propane-fueled, both table-format, and both marketed to people who want a permanent outdoor living setup rather than a backyard bonfire situation. But they're aimed at different buyers, and the price difference between them is substantial enough to matter. I'll give you a straight read on both.
+Round propane fire pit tables have gotten genuinely good in the last few years, and the category is now crowded enough that picking one requires actual homework. Two products keep surfacing in that research: the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table). They're both propane-fueled, both table-format, and both marketed to people who want a permanent outdoor living setup rather than a backyard bonfire situation. But they're aimed at different buyers, and the price difference between them is substantial enough to matter. I'll give you a straight read on both.
 
 If you're still working out what category of product makes sense for your space, the [Fire Pits & Patio Heaters](/fire-and-heat/) section covers the broader range of options before you commit to a table-format fire pit.
 
@@ -107,12 +107,12 @@ At $600 to $700, the Napoleon is not an impulse purchase. But if you're building
 
 ## Verdict
 
-Buy the [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) if your priority is a functional fire table that doubles as outdoor furniture at a price that leaves room in the budget for the rest of your patio. It's a solid mid-tier product. It heats well, it's practical, and it doesn't require you to overthink the purchase.
+Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if your priority is a functional fire table that doubles as outdoor furniture at a price that leaves room in the budget for the rest of your patio. It's a solid mid-tier product. It heats well, it's practical, and it doesn't require you to overthink the purchase.
 
 ![Propane Fire Pits Round](/images/articles/fire-and-heat-2.jpg)
 
 
-Buy the [Napoleon St. Tropez](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) if you're investing in a permanent space and want a product built to last. The electronic ignition, the cast aluminum frame, and the natural gas conversion option are not marketing extras. They're the reasons this costs more, and they're worth the money if the use case fits.
+Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're investing in a permanent space and want a product built to last. The electronic ignition, the cast aluminum frame, and the natural gas conversion option are not marketing extras. They're the reasons this costs more, and they're worth the money if the use case fits.
 
 Between these two, I'd go Napoleon for a patio I was actually building out with intent to keep. I'd go Outland Living for a rental situation, a secondary outdoor space, or anywhere the budget is a real constraint. There isn't a wrong answer here, there's just a mismatch to avoid. A buyer who stretches to buy a premium product for a space they use four times a year is worse off than a buyer who spends $300 on exactly the right product for their situation.
 

@@ -61,7 +61,7 @@ The five products below are not equal alternatives. They serve different situati
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20)
+[Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)
 
 **Currently around $12 on Amazon.**
 
@@ -86,7 +86,7 @@ One zone. One time window per day. You can't schedule it to water twice daily at
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20)
+[Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)
 
 **Currently around $75 to $85 on Amazon, depending on whether you buy the hub separately.**
 
@@ -106,7 +106,7 @@ The Wi-Fi hub is a separate purchase if you don't have it. That can push the tot
 
 ### Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
 
-[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](https://www.amazon.com/dp/B087CSZNR5?tag=fourseasong-20)
+[Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller)
 
 **Currently around $170 to $185 on Amazon for the 8-zone model.**
 
@@ -131,7 +131,7 @@ Requires Wi-Fi within range of the controller location. If your controller is mo
 
 ### Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.
 
-[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](https://www.amazon.com/dp/B00OHRTKLM?tag=fourseasong-20)
+[Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](product:flexzilla-garden-hose-50ft)
 
 **Currently around $55 on Amazon.**
 
@@ -154,7 +154,7 @@ Heavier than expandable hoses when filled with water. At $55 for 50 feet, it's a
 
 ### Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit
 
-[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20)
+[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed)
 
 **Currently around $30 on Amazon.**
 

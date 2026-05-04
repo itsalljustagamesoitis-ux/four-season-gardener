@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're researching aluminum greenhouse frame kits and want a single honest answer before wading through spec sheets, here it is: the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20) is the one I'd buy again. I did buy it. It's been standing through two hard winters and one genuinely miserable wet spring without a single panel failure or frame wobble. That's the short version. The longer version follows.
+If you're researching aluminum greenhouse frame kits and want a single honest answer before wading through spec sheets, here it is: the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse) is the one I'd buy again. I did buy it. It's been standing through two hard winters and one genuinely miserable wet spring without a single panel failure or frame wobble. That's the short version. The longer version follows.
 
 For anyone earlier in the decision process, our full coverage of garden structures, including sheds, pergolas, and gazebos, lives in [Greenhouses, Sheds & Gazebos](/structures/), where you'll find side-by-side comparisons and buying guides beyond what this single review covers.
 

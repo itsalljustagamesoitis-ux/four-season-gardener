@@ -54,7 +54,7 @@ For more context on how security and decorative lighting work together across a 
 
 **Best for: wireless installation with no electrical work**
 
-[Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) runs around $35 to $40 at the time of writing, which puts it firmly in the budget category, though it performs above its price point in the daylight hours when the panel is charging. The 102-LED array produces 410 lumens of motion-activated light, which is brighter than most solar wall lights at this price by a meaningful margin. The built-in solar panel sits on top of the unit, so there's no separate panel to mount, cable, or angle. You put the light where you want it and the panel follows.
+[Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) runs around $35 to $40 at the time of writing, which puts it firmly in the budget category, though it performs above its price point in the daylight hours when the panel is charging. The 102-LED array produces 410 lumens of motion-activated light, which is brighter than most solar wall lights at this price by a meaningful margin. The built-in solar panel sits on top of the unit, so there's no separate panel to mount, cable, or angle. You put the light where you want it and the panel follows.
 
 Installation is four screws. If you can read a level and hold a drill, you're done in fifteen minutes. There's no junction box, no conduit, no electrician to schedule. For renters, for outbuildings without electrical service, or for anyone who wants a security light on a detached garage without committing to a wiring project, this is the most practical option on the list.
 
@@ -78,7 +78,7 @@ The tradeoff is placement. The panel needs direct sun exposure to stay charged, 
 
 **Best for: permanent hardwired installation with serious output**
 
-If you have an existing outdoor junction box or you're willing to have one installed, the [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](https://www.amazon.com/dp/B0C4PD4LLJ?tag=fourseasong-20) is the light I'd put over a driveway or garage entrance. Currently around $45 to $55, it's the most capable hardwired option at a budget price point.
+If you have an existing outdoor junction box or you're willing to have one installed, the [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light) is the light I'd put over a driveway or garage entrance. Currently around $45 to $55, it's the most capable hardwired option at a budget price point.
 
 Three independently adjustable heads give you genuine coverage flexibility. Fixed dual-head lights often leave a dead zone at a corner or an awkward angle where the second head just misses the gate. With three heads, you can address a wider arc or concentrate coverage on two specific zones simultaneously. The three selectable color temperatures (3000K warm, 4000K neutral, 5000K daylight) let you match the fixture to whatever else is already installed without a second trip to the electrical supply house.
 
@@ -104,7 +104,7 @@ Compared to a solar option, the difference is consistency. No battery degradatio
 ![Best Security Lights Outdoor](/images/articles/lighting-3.jpg)
 
 
-The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) runs around $30 to $40 for the full pack at time of writing, which makes each spotlight roughly $8 to $10. At that price, the IP67 waterproof rating is the specification worth stopping on. IP65 means protected against water jets. IP67 means the unit can be submerged in up to one meter of water for thirty minutes. For a ground-level spotlight in a location that sees spring flooding, aggressive sprinkler overspray, or standing water after heavy rain, IP67 is the more meaningful rating. Most solar spotlights at this price are IP65 at best.
+The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) runs around $30 to $40 for the full pack at time of writing, which makes each spotlight roughly $8 to $10. At that price, the IP67 waterproof rating is the specification worth stopping on. IP65 means protected against water jets. IP67 means the unit can be submerged in up to one meter of water for thirty minutes. For a ground-level spotlight in a location that sees spring flooding, aggressive sprinkler overspray, or standing water after heavy rain, IP67 is the more meaningful rating. Most solar spotlights at this price are IP65 at best.
 
 The three lighting modes add practical flexibility. Motion-activated mode is the obvious use case. Permanent-on dim mode works as a low-level pathway marker that runs through the night without draining the battery as fast. Permanent-on bright mode gives you full output continuously, though battery life will depend heavily on how much charge the panel accumulated that day. For a front path that needs consistent visibility rather than motion-triggered bursts, the dim mode is the setting I'd use as the default.
 
@@ -127,7 +127,7 @@ The limitation to flag is the non-replaceable built-in battery. After several ye
 
 **Best for: permanent landscape lighting that won't need replacing in five years**
 
-The [VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights](https://www.amazon.com/dp/B07CBV7HVW?tag=fourseasong-20) is the expensive option on this list, currently around $280 to $320 depending on where you find it. It is also the only option here that I'd describe as a one-time purchase. The brass fixtures do not rust, corrode, or degrade. The 12V low-voltage system is the same specification used by professional landscape contractors. The transformer includes a timer with an integrated photocell, so the lights come on at dusk and go off at dawn without any app, hub, or phone involved.
+The [VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights](product:volt-landscape-lighting-kit) is the expensive option on this list, currently around $280 to $320 depending on where you find it. It is also the only option here that I'd describe as a one-time purchase. The brass fixtures do not rust, corrode, or degrade. The 12V low-voltage system is the same specification used by professional landscape contractors. The transformer includes a timer with an integrated photocell, so the lights come on at dusk and go off at dawn without any app, hub, or phone involved.
 
 ![Best Security Lights Outdoor](/images/articles/lighting-4.jpg)
 

@@ -18,13 +18,6 @@ products:
       - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
-  - id: "palram-martinique-10x12-gazebo"
-    role: "also_consider"
-    article_specific_pros:
-      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
-      - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
-    article_specific_cons:
-      - "Premium price for a permanent structure; installation requires two people and half a day"
   - id: "all-things-cedar-ga87-garden-arbor"
     role: "also_consider"
     article_specific_pros:
@@ -32,13 +25,6 @@ products:
       - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
     article_specific_cons:
       - "Cedar will grey without staining or oiling every 2-3 years"
-  - id: "arrow-select-10x8-shed"
-    role: "also_consider"
-    article_specific_pros:
-      - "80 sq ft of storage handles a full complement of lawn and garden equipment"
-      - "Padlockable doors; reinforced corners resist wind racking"
-    article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -54,7 +40,7 @@ One note before the picks: "pergola kit" means different things to different bra
 
 ### Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-**[Yardistry 10' x 12' Cedar Wood Pergola Kit](https://www.amazon.com/dp/B08Q8QVFCC?tag=fourseasong-20)**
+**[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)**
 
 **Currently around $1,099 on Amazon.**
 
@@ -85,7 +71,7 @@ The optional polycarbonate roof panels, sold separately by Yardistry for around 
 
 ### Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo
 
-**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](https://www.amazon.com/dp/B07RCWNPT9?tag=fourseasong-20)**
+**[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)**
 
 **Currently around $1,799 to $1,999 on Amazon, pricing fluctuates.**
 
@@ -119,7 +105,7 @@ At 120 square feet of coverage, it accommodates a full outdoor dining set with s
 
 ### All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels
 
-**[All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](https://www.amazon.com/dp/B00YYEW556?tag=fourseasong-20)**
+**[All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](product:all-things-cedar-ga87-garden-arbor)**
 
 **Currently around $220 to $250 on Amazon.**
 
@@ -151,7 +137,7 @@ Cedar will gray without oiling or staining every two to three years. Unlike a la
 
 ### Arrow Select 10' x 8' Steel Storage Shed, Charcoal
 
-**[Arrow Select 10' x 8' Steel Storage Shed, Charcoal](https://www.amazon.com/dp/B08WC39N93?tag=fourseasong-20)**
+**[Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed)**
 
 **Currently around $499 to $599 on Amazon.**
 

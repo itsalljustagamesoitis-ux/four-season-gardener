@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you're putting a raised bed on a deck, a patio, or any surface you'd like to keep intact, the options narrow fast. Most metal raised beds are designed for ground installation. The [Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](https://www.amazon.com/dp/B07NS6QRQ2?tag=fourseasong-20) is one of the few designed specifically for hard surfaces, and it's been the most requested deck bed recommendation in my inbox for the better part of two years. I've been running mine on a stone patio for two full growing seasons, so I have a clear view of what it does well and where it falls short.
+If you're putting a raised bed on a deck, a patio, or any surface you'd like to keep intact, the options narrow fast. Most metal raised beds are designed for ground installation. The [Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](product:birdies-metal-raised-garden-bed) is one of the few designed specifically for hard surfaces, and it's been the most requested deck bed recommendation in my inbox for the better part of two years. I've been running mine on a stone patio for two full growing seasons, so I have a clear view of what it does well and where it falls short.
 
 For anyone earlier in the decision process, the broader [Raised Beds](/raised-beds/) guide covers the full landscape of materials, configurations, and sizing trade-offs before you commit to any particular product.
 

@@ -50,7 +50,7 @@ So this roundup is narrower than most. Four products, each meaningfully differen
 
 ## Top Picks at a Glance
 
-Before the individual breakdowns: the outright recommendation is the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights](https://www.amazon.com/dp/B075GQ54CY?tag=fourseasong-20) for most buyers. IP67 waterproofing at that price point is the short answer. The rest of the picks serve specific use cases, which I'll explain.
+Before the individual breakdowns: the outright recommendation is the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights](product:litom-solar-motion-spotlights) for most buyers. IP67 waterproofing at that price point is the short answer. The rest of the picks serve specific use cases, which I'll explain.
 
 ,
 
@@ -86,7 +86,7 @@ For a front pathway or a garden border, the 4-pack covers a reasonable run. Spac
 
 ### Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light
 
-**Currently around $35 on Amazon.** The [Mr Beams Solar Wedge Plus](https://www.amazon.com/dp/B07W464JPY?tag=fourseasong-20) is a wall-mount motion light with a self-contained solar panel on top of the unit. No separate panel, no cable to run between panel and fixture, no decisions about panel placement.
+**Currently around $35 on Amazon.** The [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) is a wall-mount motion light with a self-contained solar panel on top of the unit. No separate panel, no cable to run between panel and fixture, no decisions about panel placement.
 
 410 lumens from 102 LEDs is more output than most solar motion lights at this price. For context, a standard porch incandescent might run 450-500 lumens. You're in the same ballpark. It won't replace a hardwired floodlight, but for a garage side wall, a back gate, or a garden shed entrance, it's enough to be useful rather than merely decorative.
 
@@ -113,7 +113,7 @@ If security lighting is your primary goal, also worth reading through our [Best 
 
 ### TomCare Solar Lanterns Outdoor Flickering Flame, 4-Pack
 
-**Currently around $30 for the 4-pack.** The [TomCare Solar Lanterns](https://www.amazon.com/dp/B08QV8LTF4?tag=fourseasong-20) are not security lights. They're not even really illumination lights. They're atmosphere lights, and being clear about that upfront is more useful than pretending they're something else.
+**Currently around $30 for the 4-pack.** The [TomCare Solar Lanterns](product:tomcare-solar-flame-lanterns) are not security lights. They're not even really illumination lights. They're atmosphere lights, and being clear about that upfront is more useful than pretending they're something else.
 
 The LED flame effect inside each lantern mimics a candle flicker. In low light or at a conversational distance, it reads convincingly enough. In close inspection or in direct comparison with an actual flame, it's clearly LED. There's a slight regularity to the flicker pattern that real fire doesn't have. If someone holds one up and examines it, the illusion breaks. Set four of them along a garden path at dusk for a dinner party, and they earn their keep entirely.
 
@@ -141,7 +141,7 @@ If this aesthetic appeals to you, it's also worth looking at [solar flower garde
 
 ### VOLT Landscape Lighting Starter Kit with 12V Transformer and 8 Brass Spotlights
 
-**Currently around $280 on Amazon.** The [VOLT Landscape Lighting Starter Kit](https://www.amazon.com/dp/B07CBV7HVW?tag=fourseasong-20) is the one non-solar product in this roundup, and it's here because anyone seriously planning outdoor garden lighting should weigh it against the solar options before committing.
+**Currently around $280 on Amazon.** The [VOLT Landscape Lighting Starter Kit](product:volt-landscape-lighting-kit) is the one non-solar product in this roundup, and it's here because anyone seriously planning outdoor garden lighting should weigh it against the solar options before committing.
 
 The fixtures are solid brass. Not brass-coated, not brass-finished aluminum. Solid brass, which means they won't corrode, won't pit, and won't fade in UV. I've been running brass low-voltage fixtures for years and the ones I installed first look the same as the ones I installed last. The Malibu and Hampton Bay kits you'll find for $60 at a home improvement store use plastic housings that discolor, crack in cold temperatures, and start looking tired inside two or three seasons.
 

@@ -65,7 +65,7 @@ If you're maintaining habitat for birds or pollinators, and many readers here ar
 
 ### Best Spray Repellent: Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon
 
-[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20) is currently around $18 to $22 for the one-gallon trigger-spray bottle, which is a reasonable entry point if you're treating a defined area.
+[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent) is currently around $18 to $22 for the one-gallon trigger-spray bottle, which is a reasonable entry point if you're treating a defined area.
 
 The active mechanism is putrescent egg solids and garlic. It smells exactly as bad as that sounds during and immediately after application. Not bad-for-a-garden-product bad, but actually unpleasant, in a way that will have whoever is standing near you at the time making pointed remarks. The smell dissipates for humans within a few hours. For deer, the residual deterrent effect is the point.
 
@@ -86,7 +86,7 @@ Compared to [Deer Out Deer Repellent](/deer-out-deer-repellent/), which uses pep
 
 ### Best Physical Deterrent: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
 
-The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) runs around $35 to $45 at the time of writing and is, in my view, the most practical non-chemical deer deterrent for a garden bed or defined perimeter zone.
+The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler) runs around $35 to $45 at the time of writing and is, in my view, the most practical non-chemical deer deterrent for a garden bed or defined perimeter zone.
 
 The core advantage is the learning effect. Deer, rabbits, raccoons, and most other animals will learn to avoid a zone that has repeatedly startled them within two to three weeks of consistent deterrence. A spray repellent has to be refreshed on a schedule. A properly positioned motion sprinkler trains the animal to route around the area entirely. That's a different kind of protection.
 
@@ -105,12 +105,12 @@ One use case this device handles that sprays don't: raccoons raiding feeders. If
 
 ## How to Choose
 
-If you have a relatively compact garden, say two or three defined beds you're trying to protect, and your primary issue is deer and rabbits browsing ornamentals and vegetables, start with [Liquid Fence Deer and Rabbit Repellent](https://www.amazon.com/dp/B00TS4WBUQ?tag=fourseasong-20). The entry cost is low, the application is immediate, and you'll know within a week whether you're dealing with a level of pressure the spray can handle.
+If you have a relatively compact garden, say two or three defined beds you're trying to protect, and your primary issue is deer and rabbits browsing ornamentals and vegetables, start with [Liquid Fence Deer and Rabbit Repellent](product:liquid-fence-deer-rabbit-repellent). The entry cost is low, the application is immediate, and you'll know within a week whether you're dealing with a level of pressure the spray can handle.
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-8.jpg)
 
 
-If you have a persistent deer problem across a larger area, or you've used spray repellents and found the reapplication burden isn't sustainable for your schedule, add the [Orbit 62100 Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) to your highest-traffic entry point. The two work well together. The spray creates an aversive smell across the treated area. The sprinkler creates a startle deterrent at the approach zone. A deer that gets hit with water while also encountering a sulfur odor is going to reconsider that bed much more thoroughly than one encountering either stimulus alone.
+If you have a persistent deer problem across a larger area, or you've used spray repellents and found the reapplication burden isn't sustainable for your schedule, add the [Orbit 62100 Yard Enforcer](product:orbit-yard-enforcer-sprinkler) to your highest-traffic entry point. The two work well together. The spray creates an aversive smell across the treated area. The sprinkler creates a startle deterrent at the approach zone. A deer that gets hit with water while also encountering a sulfur odor is going to reconsider that bed much more thoroughly than one encountering either stimulus alone.
 
 For large properties with serious deer pressure, the layered approach is not optional. A single spray application or a single sprinkler covering one entry point isn't going to hold against a persistent herd. You need perimeter coverage on multiple sides, consistent reapplication of the spray, and patience through the first two to three weeks while the animals learn the area is not safe.
 
@@ -133,7 +133,7 @@ Liquid Fence and most putrescent egg-based repellents are safe for plants, pets,
 
 ### Can I use a motion-activated sprinkler year-round?
 
-Not in climates with freezing winters. Drain the unit and bring it inside before the first hard freeze. The internal water chamber will crack if it freezes with water inside. The [Orbit 62100 Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) is a three-season device in most of the northern US. Resume deployment in early spring as soon as overnight temperatures stay reliably above freezing.
+Not in climates with freezing winters. Drain the unit and bring it inside before the first hard freeze. The internal water chamber will crack if it freezes with water inside. The [Orbit 62100 Yard Enforcer](product:orbit-yard-enforcer-sprinkler) is a three-season device in most of the northern US. Resume deployment in early spring as soon as overnight temperatures stay reliably above freezing.
 
 ### Do deer eventually get used to spray repellents?
 
@@ -169,7 +169,7 @@ Most putrescent egg and garlic-based repellents are labeled as safe for use on e
       "name": "Can I use a motion-activated sprinkler year-round?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not in climates with freezing winters. Drain the unit and bring it inside before the first hard freeze. The internal water chamber will crack if it freezes with water inside. The [Orbit 62100 Yard Enforcer](https://www.amazon.com/dp/B009F1R0GC?tag=fourseasong-20) is a three-season device in most of the northern US. Resume deployment in early spring as soon as overnight temperatures stay reliably above freezing."
+        "text": "Not in climates with freezing winters. Drain the unit and bring it inside before the first hard freeze. The internal water chamber will crack if it freezes with water inside. The [Orbit 62100 Yard Enforcer](product:orbit-yard-enforcer-sprinkler) is a three-season device in most of the northern US. Resume deployment in early spring as soon as overnight temperatures stay reliably above freezing."
       }
     },
     {

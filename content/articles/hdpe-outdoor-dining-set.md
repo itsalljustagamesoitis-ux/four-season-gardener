@@ -23,7 +23,7 @@ disclosure_required: true
 noindex: false
 ---
 
-If you've spent any time researching outdoor dining furniture, you already know the basic choice: real wood that looks beautiful and demands annual attention, or synthetic materials that look like plastic lawn furniture from 1987. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20) makes the case that you don't have to choose between appearance and durability. I've had this set on my back terrace for two full seasons now, and I have some specific things to say about it.
+If you've spent any time researching outdoor dining furniture, you already know the basic choice: real wood that looks beautiful and demands annual attention, or synthetic materials that look like plastic lawn furniture from 1987. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) makes the case that you don't have to choose between appearance and durability. I've had this set on my back terrace for two full seasons now, and I have some specific things to say about it.
 
 This review is part of a broader look at [Outdoor Furniture](/outdoor-furniture/) that I've been building out over the past year. If you're comparing materials and categories before committing to a dining set specifically, that's a reasonable place to start.
 
@@ -31,7 +31,7 @@ This review is part of a broader look at [Outdoor Furniture](/outdoor-furniture/
 
 Buy it if you want a good-looking dining set that you can leave outside year-round without a storage plan, a maintenance schedule, or a recurring regret about the purchase. Don't buy it if you need to move furniture frequently, or if your budget ceiling is under $1,500.
 
-The [POLYWOOD Nautical Trestle 7-Piece Dining Set](https://www.amazon.com/dp/B085G5FVR5?tag=fourseasong-20) currently runs around $1,800 to $2,100 on Amazon depending on timing and color, at the time of writing. For context: a comparable real [teak outdoor dining set](/teak-outdoor-dining-set/) seats six for anywhere between $3,000 and $8,000, and it will need oiling every twelve to eighteen months if you want it to stay in presentable condition. The POLYWOOD requires neither oil nor storage. That math works in its favor even at the premium price point.
+The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) currently runs around $1,800 to $2,100 on Amazon depending on timing and color, at the time of writing. For context: a comparable real [teak outdoor dining set](/teak-outdoor-dining-set/) seats six for anywhere between $3,000 and $8,000, and it will need oiling every twelve to eighteen months if you want it to stay in presentable condition. The POLYWOOD requires neither oil nor storage. That math works in its favor even at the premium price point.
 
 ## Key Specs
 

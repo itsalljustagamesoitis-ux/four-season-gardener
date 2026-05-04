@@ -39,13 +39,6 @@ products:
       - "Deep seat + back cushion set replaces worn cushions on sectionals, loveseats, and chairs"
     article_specific_cons:
       - "Sunbrella fabric carries a premium price over standard polyester cushion covers"
-  - id: "titan-grade-a-teak-adirondack-chair"
-    role: "also_consider"
-    article_specific_pros:
-      - "Grade A teak (heartwood-only) is the top tier , densest, most oil-rich, longest-lasting"
-      - "Traditional Adirondack design in real wood , warm grain aesthetic POLYWOOD resin can't replicate"
-    article_specific_cons:
-      - "Requires oiling every 1-2 years to maintain golden brown color; weathers to silver-grey without treatment"
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
@@ -61,7 +54,7 @@ One note on the "curved" label before we get into picks: most genuine curved out
 
 ### POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set
 
-[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](https://www.amazon.com/dp/B085G1ZKXV?tag=fourseasong-20)
+[POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set)
 
 POLYWOOD's Edge sectional is the closest thing to a permanent outdoor seating solution in this price range. The six-piece modular configuration includes corner, armless, and end pieces that you can arrange in a traditional L, a wide C, or a genuine curve depending on your patio geometry. HDPE (high-density polyethylene) construction means the frame will not rust, crack, splinter, or absorb moisture regardless of what weather throws at it.
 
@@ -88,7 +81,7 @@ The Olefin cushions are UV- and mold-resistant, and the covers are removable and
 
 ### Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, gray
 
-[Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, gray](https://www.amazon.com/dp/B00C5C7OMI?tag=fourseasong-20)
+[Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, gray](product:keter-corfu-2seat-loveseat)
 
 The Keter Corfu runs around $180 to $220 depending on current stock, which puts it in a completely different conversation than the POLYWOOD. It's not competing on prestige or longevity in the same category. What it's doing is solving a specific problem: you need functional, weather-resistant outdoor seating with somewhere to put the cushions when it rains, and you don't want to spend $3,000 to get it.
 
@@ -117,7 +110,7 @@ On cushions: the included ones are basic. Several owners swap them out after a s
 
 ### Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench
 
-[Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](https://www.amazon.com/dp/B00EW05EW8?tag=fourseasong-20)
+[Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench)
 
 Anderson Teak is a specialist brand, which is worth saying plainly. They're not a general outdoor furniture company that happens to sell some teak pieces. Teak furniture is what they do, and the Balboa glider reflects that focus. Solid Grade A teak frame, stainless steel hardware that won't rust or leave staining streaks on your stone, and precision bearings that produce a genuinely smooth gliding motion. Not the jerky, mechanical rock of a cheap glider. Smooth.
 
@@ -145,7 +138,7 @@ Maintenance note: teak needs oiling every one to two years if you want to mainta
 
 ### RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"
 
-[RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](https://www.amazon.com/dp/B08JCJKMT9?tag=fourseasong-20)
+[RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 Sunbrella fabric is solution-dyed acrylic, which means the color runs through the fiber rather than sitting on the surface. It doesn't fade the way printed or surface-dyed outdoor fabrics do. RSH Decor uses genuine Sunbrella fabric in these deep seating cushions, and that matters because a lot of outdoor cushions sold as "UV resistant" use polyester blends that hold up for a season or two before looking washed out. Sunbrella holds for years.
 
@@ -167,7 +160,7 @@ Sizing note, and this is where people get into trouble: measure your existing cu
 
 ### Ash & Ember Grade A Solid Teak Wood Adirondack Chair
 
-[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](https://www.amazon.com/dp/B0C4DWCVD9?tag=fourseasong-20)
+[Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair)
 
 Grade A teak is heartwood-only material: the densest part of the tree, highest in natural oils, most resistant to moisture and insects. Grade B uses a mix of heartwood and sapwood, which is less consistent and ages differently. The Ash & Ember Adirondack uses Grade A, and you can see the difference in the grain density and color consistency when it arrives.
 

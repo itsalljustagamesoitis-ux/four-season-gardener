@@ -44,7 +44,7 @@ disclosure_required: true
 noindex: false
 ---
 
-EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](https://www.amazon.com/dp/B0799QY4TW?tag=fourseasong-20) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in under $150 at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.
+EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in under $150 at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.
 
 But "low-risk entry point" and "right tool for your hedges" are not always the same thing. This guide covers the EGO hedge trimmer honestly, puts it in context with the rest of the EGO lineup, and tells you when to buy it and when to spend more.
 
@@ -65,7 +65,7 @@ The included 2.5Ah battery gives you roughly 45 minutes of continuous cutting. T
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-4.jpg)
 
 
-Platform compatibility is the stronger argument for EGO. That same 56V battery pulls double duty in the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20), the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20), and the [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](https://www.amazon.com/dp/B07BBW8P9Y?tag=fourseasong-20). If you're buying into a system, you're not just buying a hedge trimmer.
+Platform compatibility is the stronger argument for EGO. That same 56V battery pulls double duty in the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower), the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower), and the [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](product:ego-st1521s-string-trimmer). If you're buying into a system, you're not just buying a hedge trimmer.
 
 ### Weight and Ergonomics
 
@@ -75,7 +75,7 @@ The HT2411 comes in at 7 lbs with battery installed. That's lighter than most ga
 
 ### EGO POWER+ HT2411: The Hedge Trimmer
 
-At around $130 to $150 as a kit with battery and charger, the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](https://www.amazon.com/dp/B0799QY4TW?tag=fourseasong-20) is the most affordable way into the EGO platform. The brushless motor is the right technology at this price. Brushless motors run cooler, last longer, and extract more runtime from the same battery than brushed alternatives. For a hedge trimmer that may sit unused for months between seasons, that durability matters.
+At around $130 to $150 as a kit with battery and charger, the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is the most affordable way into the EGO platform. The brushless motor is the right technology at this price. Brushless motors run cooler, last longer, and extract more runtime from the same battery than brushed alternatives. For a hedge trimmer that may sit unused for months between seasons, that durability matters.
 
 The 1-inch cut capacity stands out in this price bracket. The Greenworks 22-inch cordless hedge trimmer, for comparison, tops out at 9/16-inch cut capacity. The Ryobi ONE+ 22-inch runs at 3/8-inch. The HT2411 handles material those tools won't.
 
@@ -86,7 +86,7 @@ Where it falls short is runtime. Forty-five minutes is workable, not generous. I
 
 ### EGO POWER+ ST1521S: The String Trimmer
 
-The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](https://www.amazon.com/dp/B07BBW8P9Y?tag=fourseasong-20) sits in the mid-price range, typically around $179 to $199 as a kit. The headline feature is POWERLOAD: you thread a new line cartridge into the head and press a button. No unwinding, no manual threading, no bent-over fumbling at the base of a fence line.
+The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](product:ego-st1521s-string-trimmer) sits in the mid-price range, typically around $179 to $199 as a kit. The headline feature is POWERLOAD: you thread a new line cartridge into the head and press a button. No unwinding, no manual threading, no bent-over fumbling at the base of a fence line.
 
 The catch is that POWERLOAD only accepts EGO's proprietary line cartridges. You cannot wind your own string from a bulk spool. Replacement cartridges run around $10 to $12 each, which adds up if you're trimming frequently. For buyers who prioritize convenience and are already in the EGO ecosystem, the tradeoff is easy. For buyers who are cost-sensitive and don't mind the manual reload, the Stihl FSA 57 is worth a look, though getting one on Amazon is less straightforward than picking up the EGO kit.
 
@@ -94,7 +94,7 @@ The carbon fiber split shaft reduces vibration noticeably compared to aluminum s
 
 ### EGO POWER+ LB6504: The Leaf Blower
 
-At 650 CFM, the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](https://www.amazon.com/dp/B087RRLLQ3?tag=fourseasong-20) is among the highest-output handheld cordless blowers available. The turbine fan design runs quieter than axial-fan competitors. I've run a Husqvarna 125BVx gas blower for several seasons and the LB6504 moves comparable volume with less noise and no fumes. The tradeoff is weight: with the 5.0Ah battery installed, this blower is heavier than smaller cordless alternatives like most of what you'll find in the [40V cordless leaf blower](/40v-cordless-leaf-blower/) category.
+At 650 CFM, the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) is among the highest-output handheld cordless blowers available. The turbine fan design runs quieter than axial-fan competitors. I've run a Husqvarna 125BVx gas blower for several seasons and the LB6504 moves comparable volume with less noise and no fumes. The tradeoff is weight: with the 5.0Ah battery installed, this blower is heavier than smaller cordless alternatives like most of what you'll find in the [40V cordless leaf blower](/40v-cordless-leaf-blower/) category.
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-6.jpg)
 
@@ -105,7 +105,7 @@ For anyone building a full EGO yard setup, this is the blower I'd start with ove
 
 ### EGO POWER+ LM2135SP: The Self-Propelled Mower
 
-The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](https://www.amazon.com/dp/B0857KWHHC?tag=fourseasong-20) is where the EGO platform earns its reputation. The 56V 7.5Ah ARC Lithium battery delivers up to 60 minutes of runtime, which covers roughly a third to half an acre in a single charge depending on conditions. The Touch Drive self-propel system is genuinely different from the fixed-speed lever systems on most self-propelled mowers. It responds to hand pressure, so you set the pace by how hard you push, not by toggling a speed selector. (I tested this over an entire mowing season before accepting it wasn't a gimmick.)
+The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) is where the EGO platform earns its reputation. The 56V 7.5Ah ARC Lithium battery delivers up to 60 minutes of runtime, which covers roughly a third to half an acre in a single charge depending on conditions. The Touch Drive self-propel system is genuinely different from the fixed-speed lever systems on most self-propelled mowers. It responds to hand pressure, so you set the pace by how hard you push, not by toggling a speed selector. (I tested this over an entire mowing season before accepting it wasn't a gimmick.)
 
 The Select Cut multi-blade system handles mulch, bag, and side-discharge without swapping parts. At around 68 lbs with the battery installed, it's not a lightweight machine, but that's comparable to a mid-range gas self-propelled mower. The tool-only version does not include the battery or charger, so confirm which version you're buying before checkout. The kit version runs significantly more.
 

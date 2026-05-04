@@ -66,27 +66,27 @@ Polycarbonate holds up better than standard acrylic in temperature swings. Clear
 
 ## Top Picks
 
-### Best Entry-Level Feeder: [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+### Best Entry-Level Feeder: [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 **Currently around $30 on Amazon.**
 Droll Yankees has been making tube feeders in Rhode Island since 1969, and this one is about as straightforward as feeders get. The 20-inch polycarbonate tube is UV-stabilized, which means it won't yellow or crack the way cheaper imported tubes do. Six feeding ports handle multiple birds simultaneously. The Ring Pull Advantage lid lifts off with one hand for refilling, which sounds minor until you're balancing a seed scoop in the other hand in November.
 The honest limitation is capacity. At 1 pound, you're refilling frequently during peak season. More relevant to this guide, there's no built-in seed tray and no squirrel deterrent. The feeder itself won't solve your ground-mess problem without accessories. What it does give you is a well-made, American-manufactured starting point with a lifetime guarantee, which is more than most feeders at this price offer.
 If you're new to feeding birds and want something reliable before spending more, this is where I'd start. Add a baffle separately, and consider a catch tray if your setup allows for one.
 **Pairs with:** The Perky-Pet dome below, or a pole-mounted baffle system.
 
-### Best Clear Dome Baffle: [Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](https://www.amazon.com/dp/B0006G52ME?tag=fourseasong-20)
+### Best Clear Dome Baffle: [Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle)
 **Currently around $14 on Amazon.**
 This is the classic solution to overhead squirrel access and partial rain protection. The 16-inch clear dome mounts above the feeder on your hanging cable and works on both hanging and pole-mount setups. Because it's transparent, it doesn't obstruct your view of the birds below.
 The limits are straightforward. Sixteen inches is adequate for most gray squirrels but may not discourage larger or more aggressive individuals that have learned to swing around it. The plastic will eventually yellow. And this is squirrel management, not a seed catcher per se. It reduces scatter by blocking squirrels from getting in and raking seed out, but it won't catch what birds themselves drop.
 At $14, the price makes the limitations forgivable. This is the accessory you add to the Droll Yankees feeder above if you want a complete, functional setup without spending much.
 
-### Best Window Feeder for Close-Up Viewing: [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](https://www.amazon.com/dp/B00YSU3WG2?tag=fourseasong-20)
+### Best Window Feeder for Close-Up Viewing: [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 **Currently around $30 on Amazon.**
 This one operates differently from everything else in this guide. It mounts directly to a window via suction cups rated to hold for 12-plus months without repositioning, and the built-in seed tray is the seed catcher. Seed that falls from birds feeding at the ports lands in the tray rather than on the ground.
 The appeal here is proximity. Chickadees and nuthatches at 8 inches from your face, through glass. If you have children who are learning to identify birds, or if your outdoor space is limited to a balcony or small deck, the [bird feeder for window](/bird-feeder-for-window/) experience is categorically different from a feeder at the end of the yard. (I'd also point you to our dedicated [Bird Feeder For Deck](/bird-feeder-for-deck/) guide if a deck or balcony is your primary feeding space.)
 Practical notes: birds take time to find and trust a new window feeder. Give it a week or two before concluding it isn't working. Cleaning requires pulling the feeder off the glass, which is slightly more effort than a pole-mounted tray. The 4-plus cup capacity handles mixed seed well, and the award-winning design has held up under real-use reviews better than competing acrylic window feeders I've seen crack within a season.
 This is the pick for anyone feeding birds in a limited outdoor space or who wants the closest possible viewing experience.
 
-### Best All-In-One Squirrel-Proof Feeder: [Squirrel Buster Plus Bird Feeder with Cardinal Ring](https://www.amazon.com/dp/B0007LQ3RQ?tag=fourseasong-20)
+### Best All-In-One Squirrel-Proof Feeder: [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 **Currently around $55-65 on Amazon.**
 This is the product I'd buy if I were starting over. The Squirrel Buster Plus uses a weight-activated shroud: when a squirrel grabs the feeder, its weight causes the outer cage to drop and cover the seed ports. No batteries. No electricity. No moving parts beyond the mechanism itself. The squirrel gets nothing and eventually stops trying. (I have run this for two seasons now against eastern gray squirrels that had previously defeated three other feeder designs. The record stands.)
 The 5.1-pound capacity means weekly refills at most, rather than daily. Six feeding ports with the cardinal ring accommodate everything from chickadees up to cardinals and larger. The adjustable weight sensitivity is the genuinely useful engineering feature: you can set the threshold to close for squirrels only, or tighten it enough to also exclude grackles and European starlings if you're managing what species you're feeding. That's a decision worth making deliberately rather than by default.

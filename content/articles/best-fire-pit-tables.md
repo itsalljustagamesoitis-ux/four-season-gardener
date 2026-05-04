@@ -52,7 +52,7 @@ The short version: there's a genuine best pick for most people, and I'll name it
 
 ## Top Picks
 
-### [Outland Living Series 403 44" Propane Fire Pit Table](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) (Best Overall)
+### [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) (Best Overall)
 
 Currently around $230 to $260 on Amazon depending on finish. The espresso colorway is the most widely available.
 
@@ -80,7 +80,7 @@ The other practical issue is weight. Once assembled, the concrete-look top is no
 
 ,
 
-### [Napoleon St. Tropez Rectangle Patioflame Fire Table](https://www.amazon.com/dp/B07DJKP28G?tag=fourseasong-20) (Premium Pick)
+### [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) (Premium Pick)
 
 At the time of writing, this runs around $650 to $750 on Amazon. It is significantly more expensive than the Outland Living table, and whether that gap is worth it depends on a few specific things.
 
@@ -106,7 +106,7 @@ The glass ember bed does require periodic cleaning. Debris and spider activity i
 
 ,
 
-### [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](https://www.amazon.com/dp/B09VS4NGQC?tag=fourseasong-20) (Budget Pick)
+### [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) (Budget Pick)
 
 Under $50. Often under $45. This is the lowest barrier entry point in the roundup, and I want to be clear about what that means.
 
@@ -129,7 +129,7 @@ The steel will rust. Without a cover or dry storage, expect visible rust within 
 
 ,
 
-### [Bond Manufacturing 50857N Lara TableFire Firebowl](https://www.amazon.com/dp/B071KG5G7C?tag=fourseasong-20) (Best for Small Spaces)
+### [Bond Manufacturing 50857N Lara TableFire Firebowl](product:bond-lara-tabletop-fire-bowl) (Best for Small Spaces)
 
 Currently around $55 to $70. This is a tabletop propane fire bowl, and it solves a specific problem the other three products in this roundup don't address: what do you do when you have a balcony or a small urban patio where a full fire table won't fit?
 
@@ -186,7 +186,7 @@ For all the products in this category across different price points and styles, 
 
 ### My Actual Recommendation
 
-The [Outland Living Series 403](https://www.amazon.com/dp/B07SR7MMF9?tag=fourseasong-20) is the right purchase for most people. It's priced fairly, it heats an actual gathering space, it functions as patio furniture year-round, and the propane setup is about as low-friction as this category gets. The Napoleon is worth the premium if you're building a permanent outdoor room and intend to run natural gas. The Gas One is fine for what it is, as long as you go in knowing what it is. The Bond is the right answer for a balcony situation where nothing else in this list would fit.
+The [Outland Living Series 403](product:outland-living-403-fire-table) is the right purchase for most people. It's priced fairly, it heats an actual gathering space, it functions as patio furniture year-round, and the propane setup is about as low-friction as this category gets. The Napoleon is worth the premium if you're building a permanent outdoor room and intend to run natural gas. The Gas One is fine for what it is, as long as you go in knowing what it is. The Bond is the right answer for a balcony situation where nothing else in this list would fit.
 
 ,
 

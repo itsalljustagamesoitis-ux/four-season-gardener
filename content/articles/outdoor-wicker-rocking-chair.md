@@ -54,13 +54,13 @@ If you spend any real time on your porch, the chair you sit in matters more than
 
 Before getting into detail, here's where each chair lands.
 
-The [VIVIJASON Outdoor Wicker Rocking Chair with Cushions & Steel Frame, All-Weather](https://www.amazon.com/dp/B09BHZBWYL?tag=fourseasong-20) is the budget entry. Currently around $90 to $110 on Amazon at the time of writing. Steel frame, all-weather rattan weave, cushions included. The 265 lb weight capacity is the main structural limitation.
+The [VIVIJASON Outdoor Wicker Rocking Chair with Cushions & Steel Frame, All-Weather](product:vivijason-wicker-rocker-b09b) is the budget entry. Currently around $90 to $110 on Amazon at the time of writing. Steel frame, all-weather rattan weave, cushions included. The 265 lb weight capacity is the main structural limitation.
 
-The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](https://www.amazon.com/dp/B0D78BSXD5?tag=fourseasong-20) sits in the mid-range, around $150 to $175. Classic styling, neutral brown and beige colorway, solid construction. Single chair only at this listing, which is worth knowing upfront.
+The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](product:belord-wicker-rocker-b0d7) sits in the mid-range, around $150 to $175. Classic styling, neutral brown and beige colorway, solid construction. Single chair only at this listing, which is worth knowing upfront.
 
-The [CHITA Patio Wicker 360-Degree Rocking Swivel Chair with Thickened Cushions](https://www.amazon.com/dp/B0CZRDFBKC?tag=fourseasong-20) is the outlier in this group. It rocks and swivels 360 degrees. Priced around $180 to $220 depending on timing. Thicker cushions than the others, more mechanical complexity.
+The [CHITA Patio Wicker 360-Degree Rocking Swivel Chair with Thickened Cushions](product:chita-swivel-rocker-b0cz) is the outlier in this group. It rocks and swivels 360 degrees. Priced around $180 to $220 depending on timing. Thicker cushions than the others, more mechanical complexity.
 
-The [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set with Side Table, High-Back](https://www.amazon.com/dp/B0C7GQCPN6?tag=fourseasong-20) is the set option. Two high-back rockers plus a matching side table, currently around $369. If you're furnishing a porch for two people and want a coordinated look, this is the only listing here that solves that problem outright.
+The [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set with Side Table, High-Back](product:belord-wicker-rocker-set-b0c7) is the set option. Two high-back rockers plus a matching side table, currently around $369. If you're furnishing a porch for two people and want a coordinated look, this is the only listing here that solves that problem outright.
 
 ## Why Choose the VIVIJASON: Best Budget Wicker Rocker
 
@@ -81,7 +81,7 @@ The brand warranty support is limited. VIVIJASON isn't a company with a track re
 
 ## Why Choose the Belord Single Rocker: Best Overall
 
-The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](https://www.amazon.com/dp/B0D78BSXD5?tag=fourseasong-20) is my overall recommendation for most buyers. The price premium over the VIVIJASON is real but not large, and what you get for it is a chair that's more confidently built and better finished.
+The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](product:belord-wicker-rocker-b0d7) is my overall recommendation for most buyers. The price premium over the VIVIJASON is real but not large, and what you get for it is a chair that's more confidently built and better finished.
 
 The brown and beige colorway is deliberately neutral. That's a feature, not a lack of imagination. It sits alongside teak, painted wood, stone, and most patio surface colors without looking like a mistake. If you've ever bought outdoor furniture that clashed with everything else on the patio and then lived with it for three years because you weren't going to spend money again so soon, you understand why neutral matters (I have done exactly this, with a set of green resin chairs I'd rather not discuss).
 
@@ -98,7 +98,7 @@ One limitation worth stating plainly: this listing is a single chair. If you're 
 
 ## Why Choose the CHITA Swivel Rocker: Best for Versatility
 
-The [CHITA Patio Wicker 360-Degree Rocking Swivel Chair with Thickened Cushions](https://www.amazon.com/dp/B0CZRDFBKC?tag=fourseasong-20) does something none of the other chairs here do: it swivels. Full 360 degrees, plus the standard rocking motion. This is either exactly what you want or completely irrelevant to you, and that's fine.
+The [CHITA Patio Wicker 360-Degree Rocking Swivel Chair with Thickened Cushions](product:chita-swivel-rocker-b0cz) does something none of the other chairs here do: it swivels. Full 360 degrees, plus the standard rocking motion. This is either exactly what you want or completely irrelevant to you, and that's fine.
 
 The practical value of the swivel is real in specific situations. If you're sitting on a corner of a deck and want to turn to face a conversation without repositioning the whole chair, the swivel handles that. If you use the chair as a reading or lounging chair and want to track sun exposure across the afternoon without getting up, same answer. It's also useful on a covered porch where you might want to face the garden at certain times and face indoors at others.
 
@@ -115,7 +115,7 @@ At around $180 to $220, it's the priciest single chair in this comparison. The c
 
 ## Why Choose the Belord 3-Piece Set: Best Matched Set
 
-The [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set with Side Table, High-Back](https://www.amazon.com/dp/B0C7GQCPN6?tag=fourseasong-20) is a different kind of purchase than the single chairs above. At around $369, it's a porch furnishing decision rather than a single chair decision.
+The [Belord Wicker Porch Rocking Chairs 3-Piece Bistro Set with Side Table, High-Back](product:belord-wicker-rocker-set-b0c7) is a different kind of purchase than the single chairs above. At around $369, it's a porch furnishing decision rather than a single chair decision.
 
 What you get is two high-back rockers and a matching side table, all in the same wicker finish and frame color. The high-back design is worth calling out specifically: most wicker rockers, including the other three in this comparison, have mid-back frames that offer no head or neck support. If you're taller than average, or if you simply want to lean back fully without your head hanging, a high-back chair is the right choice. Comparable individual high-back wicker rockers would cost $150 to $180 each. Two of them plus a coordinated table for $369 is reasonable value.
 
@@ -132,9 +132,9 @@ For anyone buying for a teak-anchored porch aesthetic, I'd note that while wicke
 
 ## Verdict
 
-The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](https://www.amazon.com/dp/B0D78BSXD5?tag=fourseasong-20) is my recommendation for most people reading this. The construction is confident, the styling is neutral enough to work in almost any setting, cushions are included, and the price is fair. It's not the cheapest option and it's not the most feature-rich, but it's the one I'd put on a porch without hesitation and expect to be happy with for several seasons.
+The [Belord Outdoor Wicker Rocking Chair with Cushions, Brown/Beige](product:belord-wicker-rocker-b0d7) is my recommendation for most people reading this. The construction is confident, the styling is neutral enough to work in almost any setting, cushions are included, and the price is fair. It's not the cheapest option and it's not the most feature-rich, but it's the one I'd put on a porch without hesitation and expect to be happy with for several seasons.
 
-Buy the [VIVIJASON](https://www.amazon.com/dp/B09BHZBWYL?tag=fourseasong-20) if your budget is firm under $120 and you're not pushing the weight capacity. Buy the [CHITA swivel rocker](https://www.amazon.com/dp/B0CZRDFBKC?tag=fourseasong-20) if the swivel function is genuinely relevant to how you'll use the chair. Buy the [Belord 3-piece set](https://www.amazon.com/dp/B0C7GQCPN6?tag=fourseasong-20) if you're furnishing a porch for two and want a coordinated high-back setup. Each of those is a real use case with a clear answer.
+Buy the [VIVIJASON](product:vivijason-wicker-rocker-b09b) if your budget is firm under $120 and you're not pushing the weight capacity. Buy the [CHITA swivel rocker](product:chita-swivel-rocker-b0cz) if the swivel function is genuinely relevant to how you'll use the chair. Buy the [Belord 3-piece set](product:belord-wicker-rocker-set-b0c7) if you're furnishing a porch for two and want a coordinated high-back setup. Each of those is a real use case with a clear answer.
 
 If you're still deciding on the broader direction for your outdoor space, the [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) comparison covers a completely different material approach worth reading before committing to wicker.
 

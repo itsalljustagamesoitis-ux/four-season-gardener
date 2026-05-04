@@ -61,7 +61,7 @@ I've tested or run long-term versions of all five products covered here on my pr
 
 **Best overall for a single raised bed.** If you have one or two 4x8 beds and want a system designed specifically for them rather than adapted from a landscape kit, start here.
 
-[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](https://www.amazon.com/dp/B0BCH7PYCD?tag=fourseasong-20) runs around $25 to $30 at the time of writing. For that price, you get professional-grade Rain Bird emitters, a pressure regulator, an inline filter, and tubing sized for a single raised bed. The pressure regulator alone is worth calling out because it's the component most cheap drip kits omit and most beginners don't know they need. Home water pressure, typically 40 to 80 PSI, will blow out standard drip emitters within a season. The regulator steps it down to around 25 PSI, which is what the emitters are rated for.
+[Rain Bird GARDENKIT Drip Irrigation Raised Bed Garden Watering Kit](product:rain-bird-gardenkit-raised-bed) runs around $25 to $30 at the time of writing. For that price, you get professional-grade Rain Bird emitters, a pressure regulator, an inline filter, and tubing sized for a single raised bed. The pressure regulator alone is worth calling out because it's the component most cheap drip kits omit and most beginners don't know they need. Home water pressure, typically 40 to 80 PSI, will blow out standard drip emitters within a season. The regulator steps it down to around 25 PSI, which is what the emitters are rated for.
 
 Rain Bird's emitters are meaningfully more clog-resistant than what you'll find in generic kits. This matters in raised beds, where you're often running nutrient-rich water or water from a rain barrel that hasn't been filtered. The inline filter adds another layer of protection, and it's easy to remove and rinse clean.
 
@@ -85,7 +85,7 @@ Coverage limitation is real. One kit handles approximately one 4x8 bed. If you h
 
 **Best low-complexity option.** There's a legitimate question about whether you need drip emitters at all in a raised bed. If your beds are planted densely (tomatoes, peppers, squash), a soaker hose laid along the planting rows delivers water along the entire root zone without the per-emitter setup that drip systems require.
 
-The [Gilmour Flat Weeper Soaker Hose, 50 Ft.](https://www.amazon.com/dp/B001IKVWVW?tag=fourseasong-20) costs around $20 to $25. The flat profile is the key functional difference from round soaker hoses. It lies flush against the soil rather than sitting on top of it, which keeps water delivery closer to the root zone. The recycled rubber construction is noticeably more durable than cheap vinyl soakers, which crack after a season or two of freeze-thaw cycles. I've had vinyl soaker hoses fail at the connectors in March. This one has held up through hard winters without that problem.
+The [Gilmour Flat Weeper Soaker Hose, 50 Ft.](product:gilmour-flat-soaker-hose-50ft) costs around $20 to $25. The flat profile is the key functional difference from round soaker hoses. It lies flush against the soil rather than sitting on top of it, which keeps water delivery closer to the root zone. The recycled rubber construction is noticeably more durable than cheap vinyl soakers, which crack after a season or two of freeze-thaw cycles. I've had vinyl soaker hoses fail at the connectors in March. This one has held up through hard winters without that problem.
 
 The trade-off versus drip emitters is precision. A soaker hose waters everything along its length, which is fine for densely planted beds but wasteful if you're spacing plants far apart. You're also not getting the point-source delivery that keeps the surface dry between plants, which matters for disease pressure on crops like squash and melons.
 
@@ -109,7 +109,7 @@ One note on pressure: use a pressure regulator at the tap. Without one, the hose
 
 ### Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
 
-**Best timer for readers running multiple beds.** The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](https://www.amazon.com/dp/B09KK433KF?tag=fourseasong-20) runs around $60 to $80 depending on whether the Wi-Fi hub is included in the bundle you find. That price range puts it well above the mechanical options below, but two independent zones from a single faucet is a meaningful capability that most hose-end timers don't offer.
+**Best timer for readers running multiple beds.** The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) runs around $60 to $80 depending on whether the Wi-Fi hub is included in the bundle you find. That price range puts it well above the mechanical options below, but two independent zones from a single faucet is a meaningful capability that most hose-end timers don't offer.
 
 Two zones means you can run the front beds on one schedule and the back beds on another without splitting your water supply across multiple faucets or running separate timers. For a property with beds in different locations and different crops with different water needs, that's not a luxury feature.
 
@@ -132,7 +132,7 @@ For a simpler, no-app timer that still automates watering reliably, our [battery
 
 ### DIG GE200 Drip and Micro Sprinkler Kit, 122-Piece
 
-**Best for building a system from scratch.** The [DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](https://www.amazon.com/dp/B004NPSIDE?tag=fourseasong-20) is currently around $35 to $45 and gives you enough components to cover multiple beds, containers, and shrubs in a single purchase. Standard 1/2" mainline and 1/4" tubing means everything is compatible with Rain Bird, Orbit, and other major brand components. You're not locked into DIG fittings.
+**Best for building a system from scratch.** The [DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit) is currently around $35 to $45 and gives you enough components to cover multiple beds, containers, and shrubs in a single purchase. Standard 1/2" mainline and 1/4" tubing means everything is compatible with Rain Bird, Orbit, and other major brand components. You're not locked into DIG fittings.
 
 ![Raised Bed Garden Drip Irrigation Kit](/images/articles/irrigation-4.jpg)
 
@@ -154,7 +154,7 @@ No timer included. Plan to budget an additional $15 to $80 depending on how much
 
 ### Orbit 62034 Single-Dial Mechanical Hose Watering Timer
 
-**Best budget timer and the most reliable thing on this list.** The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](https://www.amazon.com/dp/B006FLGHGE?tag=fourseasong-20) costs under $15. No batteries, no app, no Wi-Fi, no hub to drop off your network. You twist the dial to set a duration up to 120 minutes, and the timer shuts the water off automatically. It runs on the water pressure itself, which means it operates indefinitely without any maintenance beyond occasional cleaning.
+**Best budget timer and the most reliable thing on this list.** The [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer) costs under $15. No batteries, no app, no Wi-Fi, no hub to drop off your network. You twist the dial to set a duration up to 120 minutes, and the timer shuts the water off automatically. It runs on the water pressure itself, which means it operates indefinitely without any maintenance beyond occasional cleaning.
 
 This is not a scheduling timer. It doesn't run at 6 AM every morning on its own. You turn it on, set the duration, and walk away. The water stops when the time is up. For people who aren't forgetting to turn the water on but are forgetting to turn it off, this solves the actual problem at minimal cost.
 

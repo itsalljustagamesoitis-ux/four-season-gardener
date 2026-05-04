@@ -61,7 +61,7 @@ For more context on soil depth, layout planning, and what to fill your beds with
 
 **Best for: Budget buyers, herbs, salad crops, flowers**
 
-[Land Guard Galvanized Raised Garden Bed Kit, Oval, 8x4x1ft](https://www.amazon.com/dp/B09C8HR4Z9?tag=fourseasong-20)
+[Land Guard Galvanized Raised Garden Bed Kit, Oval, 8x4x1ft](product:land-guard-galvanized-raised-bed)
 
 Currently around $35 to $45 depending on the color you choose, this is the number-one best-selling raised bed on Amazon with over 12,000 reviews. That kind of volume tells you something. It's not because it's the fanciest option on the market.
 
@@ -90,7 +90,7 @@ Assembly is tool-free and takes about fifteen minutes. The galvanized steel is s
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-8.jpg)
 
 
-[Frame It All One Inch Series 4' x 8' x 11" Composite Raised Garden Bed](https://www.amazon.com/dp/B0050B2TGM?tag=fourseasong-20)
+[Frame It All One Inch Series 4' x 8' x 11" Composite Raised Garden Bed](product:frame-it-all-composite-4x8)
 
 Priced around $80 to $95 at the time of writing, the Frame It All composite kit occupies a useful middle position: it looks more like wood than metal, it won't rot, and it's expandable if you decide 11 inches isn't deep enough after your first season.
 
@@ -116,7 +116,7 @@ Composite won't crack, splinter, or absorb moisture the way pressure-treated or 
 
 **Best for: Serious vegetable growing, long-term installation**
 
-[Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed, Olive Green](https://www.amazon.com/dp/B09FPXQGL5?tag=fourseasong-20)
+[Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed, Olive Green](product:vego-garden-6in1-17inch)
 
 This is the one I'd buy if I were starting fresh. Currently around $180 to $220 depending on size configuration, the Vego 17-inch is the most capable bed in this roundup by a meaningful margin.
 
@@ -147,7 +147,7 @@ The 6-in-1 modular system lets the same panels configure into six different shap
 
 **Best for: Cedar purists, natural material preference, edible gardens**
 
-[Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 10.5"](https://www.amazon.com/dp/B00E0ODFGI?tag=fourseasong-20)
+[Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 10.5"](product:greenes-cedar-4x8-standard)
 
 Priced around $70 to $90, the Greenes Fence cedar kit is the most popular cedar raised bed on Amazon, and for good reason. North American cedar contains natural oils that resist rot and insect damage without any chemical treatment. For edible gardens where you're thinking about what's in contact with your soil, that matters.
 
@@ -178,7 +178,7 @@ Cedar grays naturally as it weathers. Some people like the look. If you don't, a
 
 **Best for: Decks, patios, balconies, rooftop gardens**
 
-[Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](https://www.amazon.com/dp/B07NS6QRQ2?tag=fourseasong-20)
+[Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](product:birdies-metal-raised-garden-bed)
 
 Around $120 to $140 at current pricing, the Birdies patio bed solves a specific problem: how do you grow vegetables on a deck or balcony without damaging the surface below and without hauling something impossibly heavy up three flights of stairs?
 

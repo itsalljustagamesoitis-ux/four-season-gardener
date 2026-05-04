@@ -64,7 +64,7 @@ All three are cotton macramé, which means none of them belong outside in a hard
 
 ## Why Choose the Y-STOP Macramé Swing
 
-The [Y-STOP Macrame Hanging Swing Chair with Pocket & Cushions, 500 lb Capacity](https://www.amazon.com/dp/B07YRN6WC2?tag=fourseasong-20) is the pick I'd make for most households, and the reasoning isn't complicated.
+The [Y-STOP Macrame Hanging Swing Chair with Pocket & Cushions, 500 lb Capacity](product:ystop-macrame-swing-chair-b07y) is the pick I'd make for most households, and the reasoning isn't complicated.
 
 ![Porch Swing Rope](/images/articles/outdoor-furniture-7.jpg)
 
@@ -77,7 +77,7 @@ A 500 lb rating is unusual in this category. The majority of hanging chairs cap 
 
 I'm generally skeptical of review counts as a quality metric, but 12,900+ reviews is a different category from 400 or even 2,000. At that volume, you're getting a genuine cross-section of experience, including the negative reviews that matter. The failure modes are well-documented. The common complaints (dark gray shows dust, needs to come in during rain) are minor and consistent. The absence of structural failure patterns in that review set is reassuring.
 
-For comparison, the [Greenstell Macrame Swing Chair](https://www.amazon.com/dp/B07MWB6PHM?tag=fourseasong-20) has around 2,600 ratings, which is respectable. But Y-STOP's track record is simply longer and wider.
+For comparison, the [Greenstell Macrame Swing Chair](product:greenstell-macrame-swing-b07m) has around 2,600 ratings, which is respectable. But Y-STOP's track record is simply longer and wider.
 
 ### Two cushions included, plus a side pocket
 
@@ -96,7 +96,7 @@ Cotton macramé needs to come inside during heavy rain. Leave it out in a Connec
 
 ## Why Choose the Greenstell Macramé Swing
 
-The [Greenstell Macrame Swing Chair, Boho Hanging Chair](https://www.amazon.com/dp/B07MWB6PHM?tag=fourseasong-20) is the honest pick for a specific buyer: one who wants the porch to look a certain way and is willing to accept a lower weight capacity to get there.
+The [Greenstell Macrame Swing Chair, Boho Hanging Chair](product:greenstell-macrame-swing-b07m) is the honest pick for a specific buyer: one who wants the porch to look a certain way and is willing to accept a lower weight capacity to get there.
 
 ### The aesthetic is its actual selling point
 
@@ -119,7 +119,7 @@ No cushions are included. That's a budget addition of $30 to $60 depending on wh
 
 ## The Third Option: JoyView
 
-The [JoyView Macrame Hanging Swing Chair with 2 Cushions](https://www.amazon.com/dp/B0C17K6MZ6?tag=fourseasong-20) shares Greenstell's 330 lb capacity and beige colorway, but adds hand-knotted construction and includes two cushions in the box.
+The [JoyView Macrame Hanging Swing Chair with 2 Cushions](product:joyview-macrame-swing-b0c1) shares Greenstell's 330 lb capacity and beige colorway, but adds hand-knotted construction and includes two cushions in the box.
 
 Hand-knotted macramé is a meaningful detail, not a marketing word. It typically means tighter, more consistent knots that hold tension better over time than machine-finished alternatives. Whether that matters at this price point in the long run is hard to verify without years of comparison use, but it's a reasonable differentiator.
 
@@ -132,13 +132,13 @@ I'd treat it as a legitimate option for someone who wants the beige aesthetic, w
 
 ## Verdict
 
-Buy the [Y-STOP Macrame Hanging Swing Chair](https://www.amazon.com/dp/B07YRN6WC2?tag=fourseasong-20).
+Buy the [Y-STOP Macrame Hanging Swing Chair](product:ystop-macrame-swing-chair-b07y).
 
 The 500 lb capacity and 12,900+ review count are not minor advantages. For most buyers, they're decisive. The included cushions close the value gap against the alternatives, and the only real trade-off is a color choice. If dark gray doesn't work for your space, that's a legitimate reason to look elsewhere. It's the only legitimate reason.
 
-Choose the [Greenstell Macrame Swing Chair](https://www.amazon.com/dp/B07MWB6PHM?tag=fourseasong-20) if you have a specific visual scheme the gray simply won't work with, you're confident the 330 lb capacity covers your situation, and you're prepared to buy cushions separately.
+Choose the [Greenstell Macrame Swing Chair](product:greenstell-macrame-swing-b07m) if you have a specific visual scheme the gray simply won't work with, you're confident the 330 lb capacity covers your situation, and you're prepared to buy cushions separately.
 
-Choose [JoyView](https://www.amazon.com/dp/B0C17K6MZ6?tag=fourseasong-20) if you want Greenstell's aesthetic with cushions included and you're willing to accept the thinner review history.
+Choose [JoyView](product:joyview-macrame-swing-b0c1) if you want Greenstell's aesthetic with cushions included and you're willing to accept the thinner review history.
 
 All three need the same care: bring them in during heavy rain, store them through hard winters, and don't expect cotton macramé to behave like synthetic outdoor furniture. Pair any of these with quality cushions (Sunbrella fabric is worth the premium if you're buying separately, as I've covered in our [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) review) and they'll last multiple seasons.
 

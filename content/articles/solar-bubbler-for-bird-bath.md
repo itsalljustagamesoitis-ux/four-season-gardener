@@ -57,7 +57,7 @@ I've tested or used everything in this roundup on my 12-acre property in Litchfi
 
 ## Top Picks
 
-### [Smart Solar AquaNura Bubbler Birdbath, gray](https://www.amazon.com/dp/B07118T4ZP?tag=fourseasong-20)
+### [Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)
 
 **Best solar bubbler insert**
 
@@ -84,7 +84,7 @@ The 9-inch basin is genuinely small. Larger birds like robins can use it at grou
 
 ,
 
-### [Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](https://www.amazon.com/dp/B000W5NGMM?tag=fourseasong-20)
+### [Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)
 
 **Best budget pedestal bath**
 
@@ -108,7 +108,7 @@ Here's the honest assessment: this bath holds static water. Birds will use it, e
 
 ,
 
-### [First Nature 3055 32 oz. Hummingbird Feeder, Red](https://www.amazon.com/dp/B003R2SKIC?tag=fourseasong-20)
+### [First Nature 3055 32 oz. Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)
 
 **Best value hummingbird feeder**
 
@@ -136,7 +136,7 @@ This is not a glass feeder. It's not beautiful. If you want something that looks
 
 ,
 
-### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](https://www.amazon.com/dp/B003XR9SH8?tag=fourseasong-20)
+### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
 **Best entry-level seed feeder**
 
@@ -164,7 +164,7 @@ Six feeding ports means multiple species can use it at once, though at only 1 lb
 
 ,
 
-### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](https://www.amazon.com/dp/B00004ZB4U?tag=fourseasong-20)
+### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
 **Best squirrel-proof feeder**
 

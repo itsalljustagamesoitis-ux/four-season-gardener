@@ -54,7 +54,7 @@ Prices and availability shift, so treat any figures here as approximate at time 
 
 ### Palram Canopia Hybrid 4x8 Lean-To Greenhouse
 
-**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](https://www.amazon.com/dp/B01MR7O1MQ?tag=fourseasong-20)**
+**[Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse)**
 
 This is the only true lean-to in the group, meaning it's designed to mount directly against a house or outbuilding wall. That distinction matters more than it sounds. You're borrowing structural support from the existing wall, which reduces the hardware load on the frame itself. More practically, if that wall faces south or west and gets decent sun exposure, the masonry or siding absorbs heat during the day and releases it at night, giving you a warmer internal temperature with zero additional equipment. I've seen this effect described as "a few degrees" in product marketing, which is usually underselling it. On a clear October night, the difference between a freestanding poly greenhouse and one sharing a south-facing brick wall can be ten degrees or more.
 
@@ -82,7 +82,7 @@ If you've got a suitable wall, this is the most efficient small greenhouse you c
 
 ### Palram Canopia Hybrid 6x8 Greenhouse Kit
 
-**[Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit, Silver](https://www.amazon.com/dp/B00P0REDI8?tag=fourseasong-20)**
+**[Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit, Silver](product:palram-hybrid-6x8-greenhouse)**
 
 The step up to 48 square feet and a freestanding format. The twin-wall polycarbonate roof panels are the main reason to choose this over the Snap & Grow below. Twin-wall panels trap an insulating air layer between the two polycarbonate sheets, which meaningfully reduces heat loss on cold nights compared to single-wall alternatives. If you're in a climate with hard winters and you're trying to start seeds in February or keep anything alive through a cold snap, that insulation difference is real.
 
@@ -109,7 +109,7 @@ For a first greenhouse in a suburban yard with no room for an 8x12 or larger, th
 
 ### Palram Canopia Snap & Grow 6x12 Greenhouse Kit
 
-**[Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](https://www.amazon.com/dp/B07MJVT2Z9?tag=fourseasong-20)**
+**[Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit](product:palram-snap-grow-6x12-greenhouse)**
 
 The Snap & Grow series is Palram's tool-free assembly line, and the snap-together connection system actually works as advertised. I'm skeptical of "easy assembly" claims in general (most of them mean "the screws are pre-sorted"), but the SmartLock connectors on this frame click into place without a wrench. For someone assembling alone or with a non-mechanically inclined helper, that matters. The kit includes a starter shelf, mounting clips, and hardware, which means you're not immediately buying accessories just to make the space functional.
 
@@ -136,7 +136,7 @@ The Snap & Grow 6x12 is the pick if ease of assembly is your primary concern and
 
 ### Palram Canopia Essence 8x16 Greenhouse Kit
 
-**[Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](https://www.amazon.com/dp/B0C79LLJNF?tag=fourseasong-20)**
+**[Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse)**
 
 ![Lean To Greenhouse Kits](/images/articles/structures-4.jpg)
 
