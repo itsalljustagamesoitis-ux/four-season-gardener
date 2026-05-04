@@ -1,6 +1,6 @@
 import rss from '@astrojs/rss'
 import { getCollection } from 'astro:content'
-import { getSiteConfig } from '../lib/config'
+import { getSiteConfig } from '@platform/core/src/lib/config'
 
 export async function GET(context) {
   const cfg = getSiteConfig()

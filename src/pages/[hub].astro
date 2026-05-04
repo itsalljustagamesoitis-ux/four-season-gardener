@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content'
-import { getNav, getSiteConfig } from '../lib/config'
-import BaseLayout from '../layouts/BaseLayout.astro'
+import { getNav, getSiteConfig } from '@platform/core/src/lib/config'
+import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
 
 export async function getStaticPaths() {
   const nav = getNav()

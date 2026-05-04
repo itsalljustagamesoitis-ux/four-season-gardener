@@ -1,5 +1,5 @@
 import type { APIRoute } from 'astro'
-import { getSiteConfig } from '../lib/config'
+import { getSiteConfig } from '@platform/core/src/lib/config'
 
 export const GET: APIRoute = () => {
   const cfg = getSiteConfig()
