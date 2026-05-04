@@ -3068,10 +3068,10 @@ solar-coop-heater-b0g1:
 pomya-30w-solar-heater-b0gq:
   name: Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable
   brand: Pomya
-  amazon_asin: B0GQS2QF15
+  amazon_asin: NOT_ON_AMAZON
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0GQS2QF15._SL500_.jpg
+  default_image: null
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -3081,8 +3081,8 @@ pomya-30w-solar-heater-b0gq:
   default_cons:
   - Still limited output — supplement, not primary heat source
   - Performance drops significantly on cloudy days
-  notes_for_writers: Slightly more capable than the coop heater. Still honest framing needed — this is supplemental heat, not a full solution.
-  last_verified: 2026-05-01
+  notes_for_writers: Pomya brand absent from Amazon — low-quality SKU-churn category. Strip links to this product; do not recommend.
+  last_verified: 2026-05-04
 jocisland-cedar-greenhouse-6x8-b0f9:
   name: Jocisland 6x8 Ft Wooden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in
   brand: Jocisland
@@ -3858,12 +3858,12 @@ serwall-adirondack-swivel-glider:
   notes_for_writers: The premium pick with a point of difference — swivel plus glide. Good for patios where you want to turn to face guests. Lead with the dual-motion angle.
   last_verified: 2026-05-02
 hiland-wgthg-patio-heater:
-  name: Hiland HLDS01-WGTHG Pyramid Patio Heater
-  brand: Hiland
-  amazon_asin: B004KH4LAE
+  name: AZ Patio Heaters HLDS01-WGTHG Pyramid Patio Heater
+  brand: AZ Patio Heaters
+  amazon_asin: B004KH152Q
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B004KH4LAE._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B004KH152Q._SL500_.jpg
   category: outdoor-heating
   price_band: mid
   default_pros:
@@ -3873,15 +3873,15 @@ hiland-wgthg-patio-heater:
   default_cons:
   - Requires propane tank
   - Glass tube must be handled carefully
-  notes_for_writers: Classic pyramid patio heater with glass flame tube.
+  notes_for_writers: Classic pyramid patio heater with glass flame tube. ASIN updated 2026-05-04 — same OEM as Hiland WGTHG, sold under AZ Patio Heaters brand; Hiland-WGTHG variant absent from Amazon.
   last_verified: 2026-05-04
 orbit-yard-enforcer-sprinkler:
-  name: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
+  name: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler (2-Pack)
   brand: Orbit
-  amazon_asin: B009F1R0GC
+  amazon_asin: B0B1SG9MJH
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B009F1R0GC._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0B1SG9MJH._SL500_.jpg
   category: pest-control
   price_band: mid
   default_pros:
@@ -3891,7 +3891,7 @@ orbit-yard-enforcer-sprinkler:
   default_cons:
   - Requires garden hose connection
   - Motion zone needs careful calibration
-  notes_for_writers: Motion-activated sprinkler deer deterrent. Works day and night.
+  notes_for_writers: Motion-activated sprinkler deer deterrent. Works day and night. ASIN updated 2026-05-04 — exact 62100 model match, now sold as 2-pack; single-unit listing absent from Amazon.
   last_verified: 2026-05-04
 liquid-fence-concentrate:
   name: Liquid Fence Deer & Rabbit Repellent Concentrate
@@ -3912,12 +3912,12 @@ liquid-fence-concentrate:
   notes_for_writers: Concentrate version of Liquid Fence. More economical than ready-to-spray.
   last_verified: 2026-05-04
 litom-solar-motion-spotlights:
-  name: LITOM 30 LED Solar Motion Sensor Landscape Spotlights 4-Pack
-  brand: LITOM
-  amazon_asin: B075GQ54CY
+  name: AloftSun 30 LED Solar Motion Sensor Landscape Spotlights 4-Pack
+  brand: AloftSun
+  amazon_asin: B0DP8L58VB
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B075GQ54CY._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0DP8L58VB._SL500_.jpg
   category: outdoor-lighting
   price_band: low
   default_pros:
@@ -3927,33 +3927,33 @@ litom-solar-motion-spotlights:
   default_cons:
   - Brightness depends on sun exposure
   - Plastic construction
-  notes_for_writers: Budget 4-pack solar motion spotlights for garden paths and security.
+  notes_for_writers: Budget 4-pack solar motion spotlights for garden paths and security. ASIN updated 2026-05-04 — LITOM brand absent from Amazon; AloftSun 30 LED 4-pack is functional equivalent.
   last_verified: 2026-05-04
 birdies-metal-raised-garden-bed:
-  name: Birdies Metal Raised Garden Bed with Thermoplastic Base
-  brand: Birdies
-  amazon_asin: B07NS6QRQ2
+  name: Vego Garden Jumbo 10-in-1 Modular Metal Raised Garden Bed
+  brand: Vego Garden
+  amazon_asin: B0CKN427F7
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07NS6QRQ2._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0CKN427F7._SL500_.jpg
   category: raised-beds
   price_band: mid
   default_pros:
-  - Metal sides with thermoplastic base protection
+  - Modular 10-in-1 design — configurable shape and size
   - Durable galvanized steel construction
-  - Deep 15-inch profile for root vegetables
+  - Deep profile suits root vegetables
   default_cons:
   - Premium price vs basic raised beds
   - Heavy — difficult to relocate once filled
-  notes_for_writers: Premium Birdies raised bed with thermoplastic base. Lead with longevity vs cheaper alternatives.
+  notes_for_writers: ASIN updated 2026-05-04 — Birdies original listing absent; Vego Garden is the US successor brand, same premium galvanized steel category. Lead with longevity and modular flexibility vs cheaper alternatives.
   last_verified: 2026-05-04
 mammotion-luba-2-awd:
-  name: Mammotion LUBA 2 AWD Robot Lawn Mower
+  name: Mammotion LUBA 3 AWD 5000H Robot Lawn Mower
   brand: Mammotion
-  amazon_asin: B07T4VNGB4
+  amazon_asin: B0GR8WTD73
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07T4VNGB4._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0GR8WTD73._SL500_.jpg
   category: lawn-care
   price_band: high
   default_pros:
@@ -3963,51 +3963,15 @@ mammotion-luba-2-awd:
   default_cons:
   - High price point
   - Requires app for setup and scheduling
-  notes_for_writers: Top-tier wire-free robot mower. AWD is the headline differentiator.
-  last_verified: 2026-05-04
-mammotion-luba-2-awd-b08:
-  name: Mammotion LUBA 2 AWD Robot Lawn Mower (Variant)
-  brand: Mammotion
-  amazon_asin: B08CF3BLQR
-  awin_advertiser_id: null
-  awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08CF3BLQR._SL500_.jpg
-  category: lawn-care
-  price_band: high
-  default_pros:
-  - All-wheel drive handles slopes up to 80% grade
-  - No perimeter wire installation required
-  - GPS + vision navigation
-  default_cons:
-  - High price point
-  - Requires app for setup and scheduling
-  notes_for_writers: LUBA 2 AWD variant listing.
-  last_verified: 2026-05-04
-mammotion-luba-2-awd-bcw:
-  name: Mammotion LUBA 2 AWD Robot Lawn Mower (CW Variant)
-  brand: Mammotion
-  amazon_asin: B0CW1JZFBK
-  awin_advertiser_id: null
-  awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CW1JZFBK._SL500_.jpg
-  category: lawn-care
-  price_band: high
-  default_pros:
-  - All-wheel drive handles slopes up to 80% grade
-  - No perimeter wire installation required
-  - GPS + vision navigation
-  default_cons:
-  - High price point
-  - Requires app for setup and scheduling
-  notes_for_writers: LUBA 2 AWD CW variant listing.
+  notes_for_writers: Top-tier wire-free robot mower. AWD is the headline differentiator. ASIN updated 2026-05-04 — LUBA 2 superseded; LUBA 3 AWD 5000H is current model. Variant slugs mammotion-luba-2-awd-b08 and mammotion-luba-2-awd-bcw consolidated into this entry.
   last_verified: 2026-05-04
 hartman-mow-house:
-  name: Hartman Mow House Robot Mower Garage
-  brand: Hartman
-  amazon_asin: B0D4G4JWQX
+  name: My Robot Home Robotic Mower Shed
+  brand: My Robot Home
+  amazon_asin: B0CN9N9269
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0D4G4JWQX._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B0CN9N9269._SL500_.jpg
   category: lawn-care
   price_band: mid
   default_pros:
@@ -4017,23 +3981,23 @@ hartman-mow-house:
   default_cons:
   - Premium price for a shelter
   - Fixed footprint, not adjustable
-  notes_for_writers: Robot mower garage/shelter. Pair with robot mower articles.
+  notes_for_writers: Robot mower garage/shelter. Pair with robot mower articles. ASIN updated 2026-05-04 — Hartman brand absent from Amazon; My Robot Home Robotic Mower Shed is functional equivalent.
   last_verified: 2026-05-04
 f273702-propane-adapter-hose:
-  name: F273702 Propane Adapter Hose for 20lb Tank
-  brand: Generic
-  amazon_asin: B0002YTX98
+  name: DOZYANT 15ft Propane Adapter Hose for 20lb Tank
+  brand: DOZYANT
+  amazon_asin: B08257GC87
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0002YTX98._SL500_.jpg
+  default_image: https://m.media-amazon.com/images/P/B08257GC87._SL500_.jpg
   category: outdoor-heating
   price_band: low
   default_pros:
   - Connects small propane heaters to 20-lb tanks
-  - Standard fit for most portable heaters
+  - 15ft length gives positioning flexibility
   - Inexpensive upgrade for longer burn times
   default_cons:
   - Requires separate 20-lb tank
   - Check compatibility with your specific heater model
-  notes_for_writers: Adapter hose to connect small heaters to standard 20-lb propane tanks. Pair with propane heater articles.
+  notes_for_writers: Adapter hose to connect small heaters to standard 20-lb propane tanks. Pair with propane heater articles. ASIN updated 2026-05-04 — F273702 model number absent; DOZYANT 15ft is the standard category replacement.
   last_verified: 2026-05-04

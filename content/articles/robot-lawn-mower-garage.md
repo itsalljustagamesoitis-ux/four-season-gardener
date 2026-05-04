@@ -45,7 +45,7 @@ The cost argument is straightforward. A decent freestanding mower garage runs be
 
 ### Step 1: Measure Before You Buy
 
-This is where most people go wrong first. Robot mower garages are not universal. The clearance height, entry width, and interior depth vary significantly between models, and a garage that fits a [Husqvarna Automower 430X](product:mammotion-luba-2-awd) will not necessarily fit a [WORX Landroid L WR155](product:mammotion-luba-2-awd-b08) or a [Mammotion LUBA 2 AWD](product:mammotion-luba-2-awd-bcw). Measure your mower's height, width, and the footprint of the charging station. Add at least two inches of clearance on each side. The mower needs to enter and exit without grinding against the frame.
+This is where most people go wrong first. Robot mower garages are not universal. The clearance height, entry width, and interior depth vary significantly between models, and a garage that fits a Husqvarna Automower 430X will not necessarily fit a WORX Landroid L WR155 or a [Mammotion LUBA 3 AWD](product:mammotion-luba-2-awd). Measure your mower's height, width, and the footprint of the charging station. Add at least two inches of clearance on each side. The mower needs to enter and exit without grinding against the frame.
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-8.jpg)
 
