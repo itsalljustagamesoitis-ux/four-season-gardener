@@ -2,13 +2,13 @@
 import { getCollection } from 'astro:content'
 import BaseLayout from '@platform/core/src/layouts/BaseLayout.astro'
 import { getSiteConfig, getPersona, getNav } from '@platform/core/src/lib/config'
+import { selectFeaturedArticles } from '@platform/core/src/lib/featured-articles'
 
 const cfg = getSiteConfig()
 const persona = getPersona()
 const nav = getNav()
 const articles = await getCollection('articles')
-const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-const featured = sorted.slice(0, 12)
+const featured = selectFeaturedArticles(articles)
 ---
 
 <BaseLayout
@@ -26,7 +26,7 @@ const featured = sorted.slice(0, 12)
         </p>
       </div>
 
-      {sorted.length > 0 ? (
+      {articles.length > 0 ? (
         <div class="article-grid">
           {featured.map(article => (
             <a href={`/${article.data.slug}/`} class="article-card">
@@ -53,7 +53,7 @@ const featured = sorted.slice(0, 12)
           Reviews coming soon.
         </p>
       )}
-      {sorted.length > 12 && (
+      {articles.length > 12 && (
         <div class="home-view-all">
           <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
         </div>
