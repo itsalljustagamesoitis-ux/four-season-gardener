@@ -354,7 +354,7 @@ def build_review_txt(article: dict, body: str, title: str, description: str) -> 
 DESC: {description}
 
 ---
-Article ID {article['id']} | {article['type']} | Cluster: {article['cluster']}
+Article ID {article['id']} | {article['type']} | Hub: {article['hub']}
 Hub: {article.get('hub_label','')} ({article.get('hub_url','')}) | KD: {article.get('kd',0)} | Vol: {article.get('volume',0)}
 Products: {products_line}
 ---
@@ -419,7 +419,9 @@ product_b: "{assigned_keys[1]}"
 
     safe_title = _clean_yaml(title) if title else article['keyword'].title()
     safe_desc = _clean_yaml(description) if description else ""
-    hero_image = article.get('hero_image') or f"articles/{article['slug']}-hero.jpg"
+    hub = article.get("hub_slug", article.get("hub", ""))
+    img_n = (article.get("id", 1) - 1) % 8 + 1
+    hero_image = article.get('hero_image') or f"articles/{hub}-{img_n}.jpg"
     hero_alt = _clean_yaml(article.get('hero_image_alt', '') or safe_title)
 
     # Clean em dashes from product pros/cons

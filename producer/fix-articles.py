@@ -35,7 +35,7 @@ def has_schema(content: str) -> bool:
 def has_sibling_links(content: str, pipeline: list, article: dict) -> bool:
     """Check if article links to any sibling articles."""
     siblings = [a for a in pipeline
-                if a["cluster"] == article["cluster"]
+                if a["hub"] == article["hub"]
                 and a["status"] == "published"
                 and a["slug"] != article["slug"]]
     if not siblings:
@@ -133,7 +133,7 @@ def main():
 
     print(f"Articles missing sibling links: {len(needs_regen)}")
     for a in needs_regen:
-        print(f"  - {a['slug']} (cluster: {a['cluster']})")
+        print(f"  - {a['slug']} (hub: {a['hub']})")
 
     if args.regen_slugs or not args.regen:
         return
@@ -153,12 +153,12 @@ def main():
         # Attach siblings
         article["_siblings"] = [
             a for a in pipeline
-            if a["cluster"] == article["cluster"]
+            if a["hub"] == article["hub"]
             and a["status"] == "published"
             and a["slug"] != slug
         ]
 
-        eeat = get_eeat_for_cluster(vault, article["cluster"])
+        eeat = get_eeat_for_cluster(vault, article["hub"])
 
         try:
             body, title, description = generate_article(article, products, eeat, persona, client)

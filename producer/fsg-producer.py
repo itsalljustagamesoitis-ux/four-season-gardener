@@ -70,8 +70,8 @@ def select_articles(pipeline: list, args) -> list:
     if args.type:
         pending = [a for a in pending if a["type"].lower() == args.type.lower()]
 
-    if args.cluster:
-        pending = [a for a in pending if a["cluster"] == args.cluster]
+    if args.hub:
+        pending = [a for a in pending if a["hub"] == args.hub]
 
     # Sort: lower KD first (easier wins), then higher volume
     pending.sort(key=lambda a: (a.get("kd", 99), -a.get("volume", 0)))
@@ -121,12 +121,12 @@ def run(args):
             print(f"  Hub: {article.get('hub_label')} ({article.get('hub_url')})\n")
             continue
 
-        eeat = get_eeat_for_cluster(vault, article["cluster"])
+        eeat = get_eeat_for_cluster(vault, article["hub"])
 
-        # Attach published siblings in same cluster for internal linking
+        # Attach published siblings in same hub for internal linking
         article["_siblings"] = [
             a for a in pipeline
-            if a["cluster"] == article["cluster"]
+            if a["hub"] == article["hub"]
             and a["status"] == "published"
             and a["slug"] != article["slug"]
         ]
@@ -178,7 +178,7 @@ def main():
     parser.add_argument("--slug", help="Produce single article by slug")
     parser.add_argument("--count", type=int, help="Number of articles to produce")
     parser.add_argument("--type", help="Filter by type: Roundup, Review, Comparison, Informational, Buyer Guide")
-    parser.add_argument("--cluster", help="Filter by cluster slug")
+    parser.add_argument("--hub", help="Filter by hub slug")
     parser.add_argument("--dry-run", action="store_true", help="Plan without generating")
     parser.add_argument("--force", action="store_true", help="Regenerate even if already staged")
     parser.add_argument("--publish", action="store_true", help="Write directly to content/articles/ without staging")
