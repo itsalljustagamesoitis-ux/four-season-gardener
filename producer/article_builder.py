@@ -410,9 +410,8 @@ product_b: "{assigned_keys[1]}"
 # winner_reason: ""  # SET THIS after review
 """
 
-    # Tags derived from cluster + type
-    cluster = article.get("cluster", "")
-    tags = [cluster, article["type"].lower()]
+    # Tags derived from hub + type
+    tags = [article.get("hub", ""), article["type"].lower()]
 
     def _clean_yaml(s: str) -> str:
         return s.replace('\u2014', ',').replace('\u2013', ',').replace('"', '\\"')
