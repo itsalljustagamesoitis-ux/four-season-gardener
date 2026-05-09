@@ -9,7 +9,16 @@ import yaml
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
-SITE_URL = "https://fourseasongardener.com"
+
+
+def _get_site_url() -> str:
+    cfg_path = ROOT / "site.config.yaml"
+    cfg = yaml.safe_load(cfg_path.read_text())
+    domain = cfg["site"]["domain"]
+    return f"https://{domain}"
+
+
+SITE_URL = _get_site_url()
 
 
 def _load_nav() -> dict:
