@@ -4,3 +4,4 @@
 #
 # Example entry:
 # /Users/yourname/sites/four-season-cook
+/Users/keithlacy/my-little-tablespoon
