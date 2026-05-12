@@ -35,6 +35,17 @@ products:
 tags: ["battery-equipment", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is 40V enough power for a leaf blower?"
+    answer: "For most residential yards, yes. A quality 40V blower in the 450–650 CFM range moves leaves and light debris as effectively as a mid-range gas blower. Where 40V falls short is sustained heavy-debris clearing on large properties — that's where 60V or 80V battery platforms or backpack designs start to make sense."
+  - question: "How long does a 40V leaf blower battery last per charge?"
+    answer: "Run time depends heavily on the Ah rating of the battery and whether you're running at full or variable speed. A 40V 5.0Ah battery typically delivers 30–45 minutes at moderate throttle. For a large yard, carry a second battery or choose a turbo-speed mode sparingly."
+  - question: "Can I use my existing 40V batteries in a new leaf blower?"
+    answer: "Only if the blower is on the same battery platform as your existing tools. EGO, Ryobi, Greenworks, and Kobalt all run proprietary 40V systems — batteries do not cross over between brands. Check the brand of your current tools before buying and prioritize a blower on the same platform to share batteries."
+  - question: "What CFM rating should I look for in a 40V leaf blower?"
+    answer: "For a small to medium yard with light debris, 400–500 CFM is sufficient. For wet leaves, gravel driveways, or gutters, look for 550 CFM or higher. CFM (cubic feet per minute) measures volume of air moved and is more useful than MPH for real-world clearing ability."
+  - question: "Are cordless leaf blowers as powerful as gas ones?"
+    answer: "Modern 40V and higher cordless blowers match or exceed mid-range gas blowers in CFM output while being lighter, quieter, and zero-emissions. Where gas still leads is runtime for continuous professional use — cordless tools require battery swaps on large properties. For most homeowners the cordless experience is strictly better."
 ---
 
 The 40V cordless leaf blower category has gotten crowded enough that the voltage number alone tells you almost nothing. What matters more is CFM output, whether the battery platform connects to tools you already own, and whether the blower is weighted in a way you can actually use for 45 minutes straight in October. I've tested handheld and backpack cordless blowers since 2019, and the honest answer is that the right pick depends heavily on what's already in your garage.
