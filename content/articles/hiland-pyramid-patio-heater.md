@@ -1,15 +1,15 @@
 ---
-title: "Bromic Patio Heater Review: Performance & Design"
-slug: "bromic-patio-heater"
+title: "Hiland Pyramid Patio Heater Review: Looks Good, Works Better"
+slug: "hiland-pyramid-patio-heater"
 type: "review"
 date: 2026-05-01
 author: "wendy"
 category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-3.jpg"
-hero_image_alt: "Bromic Patio Heater"
-description: "Read our honest review of the Bromic patio heater. We tested its heating power, durability, and aesthetic appeal to help you decide if it's right for your space."
-target_keyword: "bromic patio heater"
+hero_image_alt: "Hiland Pyramid Patio Heater with flame column lit on an outdoor patio"
+description: "Honest review of the Hiland HLDS01-WGTHG pyramid patio heater. 40,000 BTU, propane, glass flame column. We cover performance, durability, and who it actually suits."
+target_keyword: "hiland pyramid patio heater"
 products:
   - id: "hiland-pyramid-patio-heater"
     role: "primary"
