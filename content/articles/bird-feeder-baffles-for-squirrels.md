@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size baffle do I actually need to stop squirrels?"
+    answer: "For dome-style baffles, 16 inches is the practical minimum. Smaller domes let squirrels reach the center from the outer edge. If you have large fox squirrels rather than smaller gray squirrels, the reach-span difference matters more than most people expect, so 16 inches is the realistic floor rather than the safe marketing number."
+  - question: "How high should I mount a squirrel baffle on a feeder pole?"
+    answer: "The baffle's lower edge should sit at least 4.5 to 5 feet above the ground, with the feeder positioned above that. The pole also needs to be 8 to 10 feet from any fence, tree branch, or structure a squirrel could use as a launch point. Get either of those numbers wrong and the baffle becomes irrelevant."
+  - question: "Is a metal baffle worth the extra cost over a plastic dome?"
+    answer: "In most climates with real winters, yes. Plastic baffles yellow from UV exposure and can crack at the mounting points after two or three seasons of freeze-thaw cycling. Metal baffles cost more upfront but don't need replacing on that cycle. If you're running multiple feeder stations, the math on steel pays off faster than people expect."
+  - question: "Do squirrel baffles interfere with the birds I'm trying to attract?"
+    answer: "Most stationary baffles have minimal impact on bird behavior after a brief adjustment period of a few days. The spring-loaded wobble-style baffle is the exception worth knowing about: the movement in wind can occasionally disrupt bird approach patterns at the feeder above it. Dome and cylinder baffles don't create that problem."
+  - question: "What type of baffle works for a 4x4 wooden post setup?"
+    answer: "Standard round-pole baffles won't fit a 4x4 post, and improvised solutions tend to be insecure. The Classic Black Metal Squirrel Baffle for 4x4 Post is purpose-built for that application and installs cleanly. If your post is a shepherd's hook or a standard round pipe, that product is the wrong choice and you'd want the Audubon Torpedo or a dome instead."
 ---
 
 Squirrels are smart, persistent, and completely indifferent to your frustration. If you've watched one hang upside down off a feeder you spent $40 on, calmly emptying it while you stood at the kitchen window, you already understand the problem. A good baffle doesn't require the squirrel to cooperate. It just puts something between the animal and the seed that physics won't allow it to get past.
@@ -186,74 +197,4 @@ For pole setups, the choice depends on your pole type. The Audubon Torpedo for s
 
 More guidance on the feeders, poles, and accessories that pair with these baffles is collected in the [Bird Feeders & Baths](/birds-wildlife/) section, if you're building out a setup rather than solving one specific problem.
 
-## Frequently Asked Questions
-
-### What size baffle do I need to actually stop squirrels?
-
-For dome-style baffles, 16 inches is the practical minimum. Smaller domes let squirrels reach the center from the outer edge. If you have large fox squirrels rather than smaller gray squirrels, consider whether a 16-inch dome gives adequate clearance for the animal's reach span.
-
-### How high should a squirrel baffle be placed on a pole?
-
-The baffle should be mounted so its lower edge is at least 4.5 to 5 feet above the ground, with the feeder positioned above that. This prevents squirrels from jumping over the baffle from the ground. The pole also needs to be 8 to 10 feet from any fence, tree, or structure a squirrel could use as a launch point.
-
-### Will a squirrel baffle also stop chipmunks?
-
-Pole-mount baffles are generally effective against chipmunks as well, since the climbing mechanism is the same. Dome baffles on hanging feeders are less reliable because chipmunks are lighter and more agile at smaller scales. If chipmunks are your primary problem, a taller pole with a pole-mount baffle is the more reliable solution.
-
-### Do squirrel baffles affect birds negatively?
-
-Most well-designed baffles have minimal impact on bird behavior after an initial adjustment period of a few days. The spring-loaded wobble baffle is the one exception worth noting: the movement in wind can occasionally disrupt bird approach patterns. Stationary dome or cylinder baffles don't create this problem.
-
-### Is a metal baffle worth the extra cost over plastic?
-
-In most cases, yes. Plastic baffles typically last two to three seasons before UV exposure yellows them and freeze-thaw cycling makes them brittle at the mounting points. Metal baffles cost more upfront but don't need replacing on that cycle. If you're buying one baffle for one feeder and price is genuinely the constraint, the Perky-Pet is a reasonable choice. For multiple stations or primary feeders, the metal options pay for themselves.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What size baffle do I need to actually stop squirrels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For dome-style baffles, 16 inches is the practical minimum. Smaller domes let squirrels reach the center from the outer edge. If you have large fox squirrels rather than smaller gray squirrels, consider whether a 16-inch dome gives adequate clearance for the animal's reach span."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How high should a squirrel baffle be placed on a pole?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The baffle should be mounted so its lower edge is at least 4.5 to 5 feet above the ground, with the feeder positioned above that. This prevents squirrels from jumping over the baffle from the ground. The pole also needs to be 8 to 10 feet from any fence, tree, or structure a squirrel could use as a launch point."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will a squirrel baffle also stop chipmunks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pole-mount baffles are generally effective against chipmunks as well, since the climbing mechanism is the same. Dome baffles on hanging feeders are less reliable because chipmunks are lighter and more agile at smaller scales. If chipmunks are your primary problem, a taller pole with a pole-mount baffle is the more reliable solution."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do squirrel baffles affect birds negatively?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most well-designed baffles have minimal impact on bird behavior after an initial adjustment period of a few days. The spring-loaded wobble baffle is the one exception worth noting: the movement in wind can occasionally disrupt bird approach patterns. Stationary dome or cylinder baffles don't create this problem."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is a metal baffle worth the extra cost over plastic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most cases, yes. Plastic baffles typically last two to three seasons before UV exposure yellows them and freeze-thaw cycling makes them brittle at the mounting points. Metal baffles cost more upfront but don't need replacing on that cycle. If you're buying one baffle for one feeder and price is genuinely the constraint, the Perky-Pet is a reasonable choice. For multiple stations or primary feeders, the metal options pay for themselves."
-      }
-    }
-  ]
-}
-</script>
 

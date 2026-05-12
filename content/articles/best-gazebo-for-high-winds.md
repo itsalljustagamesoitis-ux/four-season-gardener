@@ -28,6 +28,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What wind speed can a permanent gazebo handle?"
+    answer: "A properly anchored hardtop gazebo with a polycarbonate or metal roof is typically rated for sustained winds between 55 and 75 mph, depending on the manufacturer's specifications. The anchoring system matters as much as the structure's rating. A gazebo surface-mounted to a wood deck with four small bolts will fail before its rated wind speed. Check both the manufacturer's wind rating and the anchor specification before installing."
+  - question: "What's the difference between a pergola and a gazebo for wind resistance?"
+    answer: "A gazebo has a solid or near-solid overhead roof and a defined footprint. A pergola has an open rafter structure that provides partial shade but no rain coverage. The Palram Martinique is a gazebo. The Yardistry base kit is technically a pergola. Add the polycarbonate roof panels to the Yardistry and it functions as a gazebo. An open-rafter pergola actually handles wind load differently because there's less surface area for gusts to push against, but it provides no overhead protection without roof panels."
+  - question: "Can I leave a hardtop gazebo up year-round in a cold climate?"
+    answer: "The Palram Martinique is designed for year-round use and the polycarbonate roof handles snow load better than any fabric canopy. Check the snow load rating in the specifications before the first winter. The Yardistry cedar kit with polycarbonate panels can also remain up year-round, but inspect the wood joints and hardware after each winter and address any issues before they compound."
+  - question: "Do I need a permit to install a hardtop gazebo?"
+    answer: "In most of the Northeast, permanent structures over a certain square footage require a building permit, and the threshold often starts around 100 to 120 square feet. Check with your local zoning office before installation. Anchoring into a concrete pad almost always requires a permit. A surface-mount installation on an existing deck may not, but confirm before you start."
+  - question: "How long does it take to assemble a 10x12 gazebo kit?"
+    answer: "A realistic estimate for two capable adults is four to six hours for the Palram Martinique. The Yardistry cedar kit tends to run longer, six to eight hours, because the wood components are heavier and require more careful alignment during assembly. Neither estimate accounts for foundation work, which is a separate project that should be completed and cured before you start on the structure."
 ---
 
 Most gazebos fail in wind. Not catastrophically, not always, but the cheap pop-up canopies go first, then the fabric-top permanents start billowing and tearing at the seams, and eventually you're looking at a bent frame and a shredded roof that you paid four hundred dollars for. If you're shopping specifically because you've been through that cycle, this roundup is written for you.
@@ -172,77 +183,4 @@ If you're also thinking about a screened structure for a deck or patio, the [scr
 
 ,
 
-## Frequently Asked Questions
-
-### What wind speed can a permanent gazebo handle?
-
-A properly anchored hardtop gazebo with a polycarbonate or metal roof is typically rated for sustained winds between 55 and 75 mph, depending on the manufacturer's specifications. Fabric-top gazebos are rated lower, usually in the 35 to 50 mph range on paper, though real-world performance is often worse. The anchoring system matters as much as the structure's rating. A gazebo that's surface-mounted to a wood deck with four small bolts will fail before its rated wind speed. Check both the manufacturer's wind rating and the anchor specification before installing.
-
-![Best Gazebo For High Winds](/images/articles/structures-6.jpg)
-
-
-### Do I need a permit to install a hardtop gazebo?
-
-In most Connecticut municipalities and across much of the Northeast, permanent structures over a certain square footage require a building permit. The threshold varies by town, but 100 to 120 square feet is often where permit requirements start. Check with your local zoning office before installation. Anchoring into a concrete pad almost always requires a permit. A surface-mount installation on an existing deck may not, but don't assume. The cost of a permit is minor compared to being asked to remove a structure you've already built.
-
-### Can I leave a hardtop gazebo up year-round?
-
-The Palram Martinique is designed for year-round use, and the polycarbonate roof handles snow load better than any fabric canopy. That said, if you're in an area with significant snowfall, check the snow load rating in the specifications, which is listed in pounds per square foot. The Yardistry cedar kit with polycarbonate panels can also remain up year-round, but you'll want to inspect the wood joints and hardware after each winter and address any issues before they compound.
-
-### How long does it take to assemble a 10x12 gazebo kit?
-
-A realistic estimate for two reasonably capable adults working from provided instructions is four to six hours for the Palram Martinique. The Yardistry cedar kit tends to run longer, six to eight hours, because the wood components are heavier and require more careful alignment during assembly. Neither of these estimates accounts for foundation work, which is a separate project that should be completed and cured before you start on the structure.
-
-### What's the difference between a gazebo and a pergola?
-
-A gazebo has a solid or near-solid overhead roof and, typically, a defined footprint with a specific architectural form. A pergola has an open rafter structure that provides partial shade but no rain coverage. The Palram Martinique is a gazebo. The Yardistry base kit is technically a pergola. Add the polycarbonate roof panels to the Yardistry and it functions as a gazebo. The distinction matters for purchasing decisions because a pergola is not going to protect you from rain or provide meaningful overhead wind resistance without a roof panel system added to it.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What wind speed can a permanent gazebo handle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A properly anchored hardtop gazebo with a polycarbonate or metal roof is typically rated for sustained winds between 55 and 75 mph, depending on the manufacturer's specifications. Fabric-top gazebos are rated lower, usually in the 35 to 50 mph range on paper, though real-world performance is often worse. The anchoring system matters as much as the structure's rating. A gazebo that's surface-mounted to a wood deck with four small bolts will fail before its rated wind speed. Check both the manufacturer's wind rating and the anchor specification before installing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need a permit to install a hardtop gazebo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most Connecticut municipalities and across much of the Northeast, permanent structures over a certain square footage require a building permit. The threshold varies by town, but 100 to 120 square feet is often where permit requirements start. Check with your local zoning office before installation. Anchoring into a concrete pad almost always requires a permit. A surface-mount installation on an existing deck may not, but don't assume. The cost of a permit is minor compared to being asked to remove a structure you've already built."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I leave a hardtop gazebo up year-round?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Palram Martinique is designed for year-round use, and the polycarbonate roof handles snow load better than any fabric canopy. That said, if you're in an area with significant snowfall, check the snow load rating in the specifications, which is listed in pounds per square foot. The Yardistry cedar kit with polycarbonate panels can also remain up year-round, but you'll want to inspect the wood joints and hardware after each winter and address any issues before they compound."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does it take to assemble a 10x12 gazebo kit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A realistic estimate for two reasonably capable adults working from provided instructions is four to six hours for the Palram Martinique. The Yardistry cedar kit tends to run longer, six to eight hours, because the wood components are heavier and require more careful alignment during assembly. Neither of these estimates accounts for foundation work, which is a separate project that should be completed and cured before you start on the structure."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a gazebo and a pergola?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A gazebo has a solid or near-solid overhead roof and, typically, a defined footprint with a specific architectural form. A pergola has an open rafter structure that provides partial shade but no rain coverage. The Palram Martinique is a gazebo. The Yardistry base kit is technically a pergola. Add the polycarbonate roof panels to the Yardistry and it functions as a gazebo. The distinction matters for purchasing decisions because a pergola is not going to protect you from rain or provide meaningful overhead wind resistance without a roof panel system added to it."
-      }
-    }
-  ]
-}
-</script>
 

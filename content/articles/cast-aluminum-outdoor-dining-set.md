@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a POLYWOOD dining set actually better than a cast aluminum outdoor dining set?"
+    answer: "It depends what you're optimizing for. POLYWOOD HDPE has no rust risk, no powder coat to chip, and carries a 20-year frame warranty compared to the 1 to 3 years typical of cast aluminum sets. For a permanent setup where you want zero maintenance, POLYWOOD wins on long-term simplicity. If you move furniture around seasonally, cast aluminum's lighter weight is a real advantage."
+  - question: "Does POLYWOOD furniture look like plastic in person?"
+    answer: "The teak color option reads as wood from normal viewing distances. Up close the texture is smooth rather than grained, so it doesn't replicate the real thing for anyone paying attention. For outdoor dining where the furniture is a backdrop to the meal rather than a decorative focal point, it holds up well aesthetically. The photos on POLYWOOD's site are accurate to what you actually receive."
+  - question: "Do I need to store this set indoors for winter?"
+    answer: "No. POLYWOOD's HDPE material is engineered to stay outside year-round in any climate. Covering it during heavy snow or ice events is a reasonable precaution for keeping it clean, but the material will not degrade from winter exposure. This is one of the central arguments for choosing POLYWOOD over wood or standard metal alternatives."
+  - question: "What cushions work with the POLYWOOD Nautical chairs?"
+    answer: "POLYWOOD sells branded cushions designed to fit their chairs. Third-party cushions with Sunbrella fabric are also worth considering — Sunbrella resists fading and mildew significantly better than standard polyester outdoor fabric, which matters if cushions are staying outside through the season. For a six-chair set, budget the full cushion cost separately before committing to the set price."
+  - question: "How heavy is this set and will I be able to move it?"
+    answer: "Very heavy. The table alone runs around 100 pounds and each chair is approximately 29 pounds. POLYWOOD does not design this set for frequent repositioning, and that weight is a real constraint if you like to shift furniture toward sun or shade. Pick a permanent location before you assemble it."
 ---
 
 If you've spent any time searching for a cast aluminum outdoor dining set, you already know the problem: the category is flooded with sets that look adequate in photos and start wobbling within two seasons. Powder-coated frames pit, weld points crack, and cushions that weren't rated for actual weather end up in the trash by October. I've been through enough of this cycle on my 12-acre property that I stopped treating outdoor furniture as disposable, which is how I ended up spending more time than I probably should evaluating what actually holds up.
@@ -115,77 +126,4 @@ One more category worth flagging: if you're furnishing an outdoor space more com
 
 The broader picture on outdoor dining furniture, including cast aluminum, teak, and HDPE options across price points, is covered in our [outdoor furniture](/outdoor-furniture/) section if you're still deciding between categories.
 
-## Frequently Asked Questions
-
-### Is the POLYWOOD Nautical Trestle set actually better than a cast aluminum outdoor dining set?
-
-It depends what you're optimizing for. POLYWOOD HDPE is lighter to ship but heavier in place than most cast aluminum. It handles weather at least as well, requires less maintenance than most metal sets (no rust risk at all, no powder coat chipping), and carries a significantly longer warranty. If weight matters because you move furniture often, cast aluminum has the advantage. For a permanent setup, POLYWOOD wins on long-term simplicity.
-
-![Cast Aluminum Outdoor Dining Set](/images/articles/outdoor-furniture-5.jpg)
-
-
-### Does POLYWOOD furniture look cheap or obviously plastic in person?
-
-The teak color option, in particular, reads as wood from normal distances. Up close, the texture is smooth rather than grained, so it doesn't fool anyone who's looking. For outdoor dining purposes, where the furniture is a backdrop to the meal rather than a decorative focal point, it holds up well aesthetically. Photos on POLYWOOD's site are accurate to what you receive.
-
-### Do I need to store this set in winter?
-
-No. POLYWOOD's HDPE material is designed to stay outside year-round in any climate. Covering it during heavy snow or ice is a reasonable precaution, but it won't degrade from exposure. This is one of the primary reasons to choose POLYWOOD over wood or standard metal alternatives.
-
-### What cushions work with the POLYWOOD Nautical chairs?
-
-POLYWOOD sells branded cushions designed to fit their chairs, typically in the $30 to $60 range per cushion depending on style. Third-party options with Sunbrella fabric are worth considering at a similar or slightly higher price point. Sunbrella fabric resists fading and mildew significantly better than standard polyester outdoor fabric, which matters if cushions are staying outside through the season. For a six-chair set, budget the full cushion cost before committing to the set price.
-
-### How difficult is assembly?
-
-Moderately involved. The chairs are straightforward and can be assembled solo in about 20 minutes each. The table requires two people, both because of the weight and because aligning the trestle base while securing hardware is genuinely awkward alone. POLYWOOD's instructions are clear. Set aside a full morning for the complete seven-piece assembly and you won't feel rushed.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is the POLYWOOD Nautical Trestle set actually better than a cast aluminum outdoor dining set?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends what you're optimizing for. POLYWOOD HDPE is lighter to ship but heavier in place than most cast aluminum. It handles weather at least as well, requires less maintenance than most metal sets (no rust risk at all, no powder coat chipping), and carries a significantly longer warranty. If weight matters because you move furniture often, cast aluminum has the advantage. For a permanent setup, POLYWOOD wins on long-term simplicity."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does POLYWOOD furniture look cheap or obviously plastic in person?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The teak color option, in particular, reads as wood from normal distances. Up close, the texture is smooth rather than grained, so it doesn't fool anyone who's looking. For outdoor dining purposes, where the furniture is a backdrop to the meal rather than a decorative focal point, it holds up well aesthetically. Photos on POLYWOOD's site are accurate to what you receive."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need to store this set in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. POLYWOOD's HDPE material is designed to stay outside year-round in any climate. Covering it during heavy snow or ice is a reasonable precaution, but it won't degrade from exposure. This is one of the primary reasons to choose POLYWOOD over wood or standard metal alternatives."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What cushions work with the POLYWOOD Nautical chairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "POLYWOOD sells branded cushions designed to fit their chairs, typically in the $30 to $60 range per cushion depending on style. Third-party options with Sunbrella fabric are worth considering at a similar or slightly higher price point. Sunbrella fabric resists fading and mildew significantly better than standard polyester outdoor fabric, which matters if cushions are staying outside through the season. For a six-chair set, budget the full cushion cost before committing to the set price."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How difficult is assembly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Moderately involved. The chairs are straightforward and can be assembled solo in about 20 minutes each. The table requires two people, both because of the weight and because aligning the trestle base while securing hardware is genuinely awkward alone. POLYWOOD's instructions are clear. Set aside a full morning for the complete seven-piece assembly and you won't feel rushed."
-      }
-    }
-  ]
-}
-</script>
 

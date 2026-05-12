@@ -39,6 +39,11 @@ const ArticleSchema = z.object({
   product_b: z.string().optional(),
   winner: z.enum(['product_a', 'product_b']).optional(),
   winner_reason: z.string().optional(),
+  // FAQ items — drives FAQPage schema + FAQ component in layout
+  faq: z.array(z.object({
+    question: z.string(),
+    answer: z.string(),
+  })).optional(),
 })
 
 // ── Collections ───────────────────────────────────────────────────────────────

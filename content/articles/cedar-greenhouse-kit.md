@@ -35,6 +35,17 @@ products:
 tags: ["structures", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Cedar vs aluminum greenhouse frames: which actually holds up better long-term?"
+    answer: "Cedar handles freeze-thaw ground movement better than aluminum and doesn't conduct cold the way metal does, which matters in genuinely hard winters. The trade-off is maintenance: cedar needs a sealant or oil every two to three years to prevent cracking and greying. Aluminum is essentially maintenance-free but lacks cedar's thermal and aesthetic qualities. If you're building a permanent structure you plan to use year-round and you're willing to treat the wood, cedar is the better long-term material."
+  - question: "Do I need a building permit for a cedar greenhouse kit?"
+    answer: "It depends on your jurisdiction, but the answer is probably yes for the Bellerose XL 13x11 and possibly yes for the Willow 9x6. Most towns set a square footage threshold, often somewhere between 120 and 200 square feet, above which accessory structures require permit review. The Bellerose at 143 square feet falls at or above that range in many municipalities. Check with your town before ordering, not after."
+  - question: "Which cedar greenhouse kit is actually built for year-round growing?"
+    answer: "The Backyard Discovery Willow 9x6 is the honest pick for year-round use. It ships with a built-in exhaust fan for summer heat management, a PowerPort for running a heater or grow lights, and hose hook-ups — infrastructure the entry-level Jocisland 6x8 doesn't include. The Jocisland is a genuine structural upgrade from a plastic pop-up, but it's realistically a season-extension tool, not a year-round growing environment."
+  - question: "Is the Backyard Discovery Bellerose XL worth around $5,000?"
+    answer: "At that price, you're buying the most complete cedar greenhouse kit available on Amazon: 13x11 feet of growing space, an integrated pergola section for staging and hardening-off plants, plus the full utility package of exhaust fan, PowerPort, hose hook-ups, and staging shelves. Whether it's worth it depends on how seriously you grow. This is permanent property infrastructure, and it needs to be treated as a planned project with site prep, likely permitting, and a multi-person assembly commitment."
+  - question: "How long does assembly realistically take for these kits?"
+    answer: "The Jocisland 6x8 arrives with a partially pre-assembled frame, which cuts the most time-consuming portion of setup significantly; a two-person team can typically finish in a single day. The Backyard Discovery Willow and Bellerose XL are flat-pack kits and realistically take two full days with two people. Rushing the panel-fitting stages on either Backyard Discovery kit risks misalignment that's difficult to correct later."
 ---
 
 Cedar greenhouse kits have gotten serious. Not long ago, buying a cedar greenhouse meant either commissioning a custom build or assembling something flimsy from a big-box store that would list to one side by its second winter. The market has changed. There are now three distinct tiers worth discussing, and the differences between them are large enough that buying the wrong one is an expensive mistake.
@@ -142,78 +153,4 @@ The Backyard Discovery Willow 9x6 is for the gardener who already knows they wan
 The Bellerose XL is for the gardener who has reached the point where the growing space is a genuine priority on the property, not a peripheral project. At this investment level, you're treating the greenhouse as permanent infrastructure, which is how it should be approached.
 
 For anyone still deciding between a greenhouse and other covered structures for their property, our [Greenhouses, Sheds & Gazebos](/structures/) hub has coverage across the category. If a garden shed with integrated storage is also in consideration alongside a greenhouse, the [garden shed with loft](/garden-shed-with-loft/) article addresses a different kind of structure that sometimes competes for the same budget and site.
-
-## Frequently Asked Questions
-
-### How long does a cedar greenhouse kit take to assemble?
-
-For the Jocisland 6x8, the pre-assembled frame cuts the most labor-intensive portion of the job, and a two-person team can realistically complete assembly in a single day. For the Backyard Discovery Willow and Bellerose XL, plan for two full days minimum with two people. Rushing either of the Backyard Discovery kits risks misalignment during panel fitting, which is harder to correct after the fact.
-
-![Cedar Greenhouse Kit](/images/articles/structures-2.jpg)
-
-
-### Do cedar greenhouse kits require a foundation?
-
-A level, stable base is required for any of these structures. Options include a concrete slab, pressure-treated timber frame, or compacted gravel base. The Bellerose XL at 13x11 feet particularly warrants a concrete or paver base given the investment. For structures this size, a proper foundation also helps with any local permit requirements, which often reference how the structure is anchored.
-
-### Are cedar greenhouse kits suitable for cold winters?
-
-Cedar frames outperform aluminum in cold conditions because wood doesn't conduct cold the way metal does. All three kits reviewed here use solid cedar framing. The polycarbonate glazing panels on the Backyard Discovery models provide better insulation than single-pane glass alternatives. For genuinely hard winters where temperatures regularly drop below 10°F, supplemental heating (the Willow and Bellerose XL's PowerPort makes this straightforward) extends the practical growing season.
-
-### Do I need a building permit for a cedar greenhouse kit?
-
-This depends on your local jurisdiction, but at the sizes covered here, the answer is "possibly" for the Willow 9x6 and "probably" for the Bellerose XL 13x11. Most towns set a square footage threshold (often 120-200 sq ft) above which accessory structures require permit review. The Bellerose at 143 square feet falls in or above that range in many municipalities. Check before ordering.
-
-### How does cedar hold up compared to aluminum greenhouse frames?
-
-Cedar is warmer to the touch, looks better with age if maintained, and handles freeze-thaw ground movement without the rack and flex issues that can affect aluminum frames over time. The trade-off is that wood requires periodic treatment: a cedar sealant or oil every two to three years will prevent cracking and greying. Aluminum requires essentially no maintenance but lacks the thermal and aesthetic qualities of cedar. For a permanent structure you plan to use year-round, cedar is the better long-term material if you're prepared to treat it.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a cedar greenhouse kit take to assemble?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For the Jocisland 6x8, the pre-assembled frame cuts the most labor-intensive portion of the job, and a two-person team can realistically complete assembly in a single day. For the Backyard Discovery Willow and Bellerose XL, plan for two full days minimum with two people. Rushing either of the Backyard Discovery kits risks misalignment during panel fitting, which is harder to correct after the fact."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do cedar greenhouse kits require a foundation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A level, stable base is required for any of these structures. Options include a concrete slab, pressure-treated timber frame, or compacted gravel base. The Bellerose XL at 13x11 feet particularly warrants a concrete or paver base given the investment. For structures this size, a proper foundation also helps with any local permit requirements, which often reference how the structure is anchored."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are cedar greenhouse kits suitable for cold winters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cedar frames outperform aluminum in cold conditions because wood doesn't conduct cold the way metal does. All three kits reviewed here use solid cedar framing. The polycarbonate glazing panels on the Backyard Discovery models provide better insulation than single-pane glass alternatives. For genuinely hard winters where temperatures regularly drop below 10\u00b0F, supplemental heating (the Willow and Bellerose XL's PowerPort makes this straightforward) extends the practical growing season."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need a building permit for a cedar greenhouse kit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This depends on your local jurisdiction, but at the sizes covered here, the answer is \"possibly\" for the Willow 9x6 and \"probably\" for the Bellerose XL 13x11. Most towns set a square footage threshold (often 120-200 sq ft) above which accessory structures require permit review. The Bellerose at 143 square feet falls in or above that range in many municipalities. Check before ordering."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does cedar hold up compared to aluminum greenhouse frames?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cedar is warmer to the touch, looks better with age if maintained, and handles freeze-thaw ground movement without the rack and flex issues that can affect aluminum frames over time. The trade-off is that wood requires periodic treatment: a cedar sealant or oil every two to three years will prevent cracking and greying. Aluminum requires essentially no maintenance but lacks the thermal and aesthetic qualities of cedar. For a permanent structure you plan to use year-round, cedar is the better long-term material if you're prepared to treat it."
-      }
-    }
-  ]
-}
-</script>
 

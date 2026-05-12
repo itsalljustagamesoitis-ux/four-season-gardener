@@ -49,6 +49,17 @@ products:
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many BTUs do I need for a patio heater?"
+    answer: "For open outdoor use, plan on roughly 5,000 BTU per 50 square feet in mild conditions, more if you're exposed to wind or real cold. A 40,000 BTU standing heater like the Hiland pyramid handles a 10 to 12 foot social area adequately in still air. Manufacturer heating radius claims are consistently optimistic — reduce them by about 30 percent for a realistic outdoor estimate."
+  - question: "Can I use the Mr. Heater Big Buddy indoors?"
+    answer: "The Big Buddy carries CSA approval for indoor use, which sets it apart from most propane heaters in this category. The oxygen depletion sensor shuts it off automatically if air quality drops to an unsafe level. That said, indoor use means a well-ventilated space — a garage with a cracked door, an enclosed porch with air exchange — not a fully sealed room."
+  - question: "Is the Hiland pyramid heater worth buying if looks matter to me?"
+    answer: "If appearance is a real priority alongside heat output, yes. The flame column visible through the glass tube looks genuinely good at night, and the hammered bronze finish holds up better than polished surfaces in wet conditions. The practical tradeoff is the quartz glass tube, which will crack on a hard impact — keep a replacement on hand if the heater is on an exposed terrace."
+  - question: "When does a fire table make more sense than a standing patio heater?"
+    answer: "A fire table makes sense when you want a permanent gathering point that doubles as furniture. The Outland Living and Napoleon options in this roundup function as full outdoor tables when the burner cover is on, so the footprint earns its place year-round. If you need something you can move to different spots on your property, a standing heater or the Big Buddy is a better fit."
+  - question: "Is the Bond Lara tabletop firebowl actually worth buying?"
+    answer: "It depends entirely on what you expect from it. As a heat source it produces almost nothing — this is an atmosphere product. As a compact flame centerpiece for a balcony, a small deck, or a dinner table where there's no room for a full fire table, it does its job cleanly at a price around $35 to $50. Just don't buy it expecting to extend your season by a meaningful amount."
 ---
 
 Portable patio heaters cover a lot of ground, literally and figuratively. You've got 50,000 BTU fire tables doing double duty as furniture, and you've got $40 tabletop bowls that produce about as much heat as a large candle. Both get called "portable patio heaters" in product listings, which makes comparison shopping genuinely confusing. This roundup covers five products across that full range, with a clear recommendation for each use case. If you want to browse the broader category before committing, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub has additional context on fuel types, BTU ratings, and placement considerations.
@@ -233,39 +244,4 @@ For additional heater options that work without floor space at all, the [wall mo
 The full [Fire Pits & Patio Heaters](/fire-and-heat/) category hub covers additional fuel and format options if none of the five products here fit your specific setup.
 
 ,
-
-## Frequently Asked Questions
-
-### How many BTUs do I need for an outdoor patio?
-
-For open outdoor use, plan on roughly 5,000 BTU per 50 square feet in mild conditions, more if you're in a cold climate or exposed to wind. A 40,000 BTU standing heater like the Hiland pyramid handles a 10 to 12 foot social area adequately in still conditions. A 50,000 BTU fire table like the Outland Living covers a similar radius but distributes heat differently, outward from a low center rather than downward from height. Neither will overcome a 20 mph wind, and neither should be your primary heating strategy on a genuinely cold night.
-
-### Can I use the Mr. Heater Big Buddy inside?
-
-The Big Buddy carries CSA approval for indoor use, which sets it apart from most propane heaters in this category. The oxygen depletion sensor shuts the unit off if oxygen levels in the space drop to an unsafe level. That said, indoor use means a well-ventilated space, not a fully sealed room. Garages with a cracked door, enclosed three-season porches with some air exchange, workshops with
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many BTUs do I need for an outdoor patio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For open outdoor use, plan on roughly 5,000 BTU per 50 square feet in mild conditions, more if you're in a cold climate or exposed to wind. A 40,000 BTU standing heater like the Hiland pyramid handles a 10 to 12 foot social area adequately in still conditions. A 50,000 BTU fire table like the Outland Living covers a similar radius but distributes heat differently, outward from a low center rather than downward from height. Neither will overcome a 20 mph wind, and neither should be your primary heating strategy on a genuinely cold night."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use the Mr. Heater Big Buddy inside?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Big Buddy carries CSA approval for indoor use, which sets it apart from most propane heaters in this category. The oxygen depletion sensor shuts the unit off if oxygen levels in the space drop to an unsafe level. That said, indoor use means a well-ventilated space, not a fully sealed room. Garages with a cracked door, enclosed three-season porches with some air exchange, workshops with"
-      }
-    }
-  ]
-}
-</script>
 

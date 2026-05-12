@@ -49,6 +49,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a polycarbonate roof better than a fabric canopy for a deck gazebo?"
+    answer: "For longevity, yes. Fabric canopies typically last two to four years before fading, tearing, or sagging. Polycarbonate panels block UV effectively, diffuse light without harsh glare, and don't deteriorate the same way. The trade-off is cost and weight. A polycarbonate hardtop costs more upfront and requires a more substantial frame. If you're replacing a fabric canopy for the third time, the math on the polycarbonate option probably starts looking reasonable."
+  - question: "Can I attach a screen gazebo permanently to my deck?"
+    answer: "Most hardtop gazebo kits, including the Palram Martinique, can be anchored to a deck with appropriate hardware. The manufacturer documentation typically specifies anchor bolt placement and load requirements. Check your local building codes before anchoring any permanent structure to a deck, as permits may be required depending on square footage. If your deck is elevated, also verify that the joists can handle the added load."
+  - question: "How much wind can a hardtop gazebo withstand on a deck?"
+    answer: "This varies significantly by product and installation quality. A free-standing gazebo placed on a deck without anchor bolts is vulnerable to wind lift at speeds most summer storms can produce. Palram's installation documentation covers anchor requirements. Follow them precisely. A gazebo that blows over causes substantially more damage than the cost of the anchor kit."
+  - question: "Do screen gazebos for decks include bug protection?"
+    answer: "Not all of them do, and this is the key distinction to clarify before buying. A hardtop or pergola solves the overhead coverage problem. Bug protection requires side screens or walls, which neither the Palram Martinique nor the Yardistry cedar pergola includes in the base product. If insects are your primary issue, look specifically for gazebo kits that include mosquito netting panels as part of the package."
+  - question: "Do screen gazebos for decks come with floors?"
+    answer: "Almost none of them do. The Palram Martinique and Yardistry cedar pergola are designed to sit on an existing deck surface. Budget for a separately purchased floor kit if you are placing a storage shed on bare ground rather than an existing hard surface."
 ---
 
 A screen gazebo for your deck sounds straightforward until you start pricing them out and realize the term covers everything from a $180 pop-up canopy to a $2,000 permanent hardtop structure. I've spent a fair amount of time on this category, partly because my own deck situation has changed twice in the last decade and what works for a 12-foot square deck is not the same thing that works for a sprawling wraparound. The products below aren't all strictly "screen gazebos" in the technical sense, but they represent the realistic options when what you actually want is covered, usable outdoor space with some protection from the elements.
@@ -196,77 +207,4 @@ For more context on how permanent outdoor structures hold up across different we
 
 ,
 
-## Frequently Asked Questions
-
-### Can I attach a screen gazebo permanently to my deck?
-
-Most hardtop gazebo kits, including the Palram Martinique, can be anchored to a deck with appropriate hardware. The manufacturer documentation typically specifies anchor bolt placement and load requirements. Check your local building codes before anchoring any permanent structure to a deck, as permits may be required depending on square footage and whether the structure is classified as permanent. If your deck is elevated, also verify that the joists can handle the added load.
-
-![Screen Gazebo For Deck](/images/articles/structures-1.jpg)
-
-
-### Do screen gazebos for decks come with floors?
-
-Almost none of them do, and this surprises a lot of buyers. The Palram Martinique and Yardistry cedar pergola are designed to sit on an existing deck surface. The storage sheds in this roundup (Arrow Select and Suncast Sutton) also require a separately prepared floor or floor kit. Budget for this separately if you're placing a shed on bare ground rather than an existing hard surface.
-
-### How much wind can a hardtop gazebo withstand?
-
-This varies significantly by product and installation quality. The Palram Martinique, when properly anchored, is rated to handle moderate wind loads, but "properly anchored" is doing a lot of work in that sentence. A free-standing gazebo placed on a deck without anchor bolts is vulnerable to wind lift at speeds most summer storms can produce. Palram's installation documentation covers anchor requirements. Follow them. A gazebo that blows over causes substantially more damage than the cost of the anchor kit.
-
-### What's the difference between a pergola and a gazebo?
-
-For practical purposes: a pergola has an open or slatted roof that provides partial shade but no rain protection. A gazebo has a solid roof, typically with some enclosed or semi-enclosed sides. The Yardistry cedar kit in this roundup is technically a pergola in its base configuration. Adding the polycarbonate roof panels converts it to something closer to a gazebo. The terminology is used loosely by manufacturers and retailers, so it's worth looking at the actual roof construction rather than the product name.
-
-### Is a polycarbonate roof better than a fabric canopy for a deck gazebo?
-
-For longevity, yes. Fabric canopies typically last two to four years before fading, tearing, or sagging, depending on sun exposure and weather. Polycarbonate panels, as used in the Palram Martinique, block UV effectively, diffuse light without harsh glare, and don't deteriorate the same way. The trade-off is cost and weight. A polycarbonate hardtop costs more upfront and requires a more substantial frame. If you're replacing a fabric canopy for the third time, the math on the polycarbonate option probably starts looking reasonable.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I attach a screen gazebo permanently to my deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most hardtop gazebo kits, including the Palram Martinique, can be anchored to a deck with appropriate hardware. The manufacturer documentation typically specifies anchor bolt placement and load requirements. Check your local building codes before anchoring any permanent structure to a deck, as permits may be required depending on square footage and whether the structure is classified as permanent. If your deck is elevated, also verify that the joists can handle the added load."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do screen gazebos for decks come with floors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Almost none of them do, and this surprises a lot of buyers. The Palram Martinique and Yardistry cedar pergola are designed to sit on an existing deck surface. The storage sheds in this roundup (Arrow Select and Suncast Sutton) also require a separately prepared floor or floor kit. Budget for this separately if you're placing a shed on bare ground rather than an existing hard surface."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much wind can a hardtop gazebo withstand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This varies significantly by product and installation quality. The Palram Martinique, when properly anchored, is rated to handle moderate wind loads, but \"properly anchored\" is doing a lot of work in that sentence. A free-standing gazebo placed on a deck without anchor bolts is vulnerable to wind lift at speeds most summer storms can produce. Palram's installation documentation covers anchor requirements. Follow them. A gazebo that blows over causes substantially more damage than the cost of the anchor kit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a pergola and a gazebo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For practical purposes: a pergola has an open or slatted roof that provides partial shade but no rain protection. A gazebo has a solid roof, typically with some enclosed or semi-enclosed sides. The Yardistry cedar kit in this roundup is technically a pergola in its base configuration. Adding the polycarbonate roof panels converts it to something closer to a gazebo. The terminology is used loosely by manufacturers and retailers, so it's worth looking at the actual roof construction rather than the product name."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is a polycarbonate roof better than a fabric canopy for a deck gazebo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For longevity, yes. Fabric canopies typically last two to four years before fading, tearing, or sagging, depending on sun exposure and weather. Polycarbonate panels, as used in the Palram Martinique, block UV effectively, diffuse light without harsh glare, and don't deteriorate the same way. The trade-off is cost and weight. A polycarbonate hardtop costs more upfront and requires a more substantial frame. If you're replacing a fabric canopy for the third time, the math on the polycarbonate option probably starts looking reasonable."
-      }
-    }
-  ]
-}
-</script>
 

@@ -42,6 +42,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are polycarbonate greenhouse kits actually as good as glass?"
+    answer: "For residential use, polycarbonate is the better practical choice in almost every situation. It's lighter, doesn't shatter, and in twin-wall configurations insulates meaningfully better than a single pane of glass. UV-stabilized polycarbonate also diffuses light more evenly, which reduces the risk of scorching seedlings under direct sun. Horticultural glass still has a role in high-end custom construction, but for a kit greenhouse you're assembling yourself, polycarbonate outperforms it on nearly every practical measure."
+  - question: "What is the real difference between single-wall and twin-wall polycarbonate panels?"
+    answer: "Single-wall panels are thinner, cheaper, and transmit slightly more light. Twin-wall panels trap an air layer between two polycarbonate sheets, which meaningfully improves overnight heat retention in cold weather. If your winters are moderate and you're mainly adding a few weeks to your season, single-wall is adequate. If temperatures regularly drop into the 20s and you want to grow through October or start in March, twin-wall is worth the additional cost, and the roof is where that difference matters most."
+  - question: "Do I need to build a foundation before assembling a greenhouse kit?"
+    answer: "For any walk-in structure, yes. A prepared, level base is not optional in practical terms. Without it, frame alignment will be off from the start and the problem compounds through freeze-thaw ground movement over time. Gravel pads are the most common DIY approach; poured concrete perimeters give better long-term stability. The Palram Hybrid 6x8 and the Lean-To both include galvanized steel bases in the box, which eliminates one variable at setup. The Essence 8x16 does not include a base."
+  - question: "Which kit in this roundup is the right first greenhouse for a suburban backyard?"
+    answer: "The Palram Canopia Hybrid 6x8 is the clearest starting point for most home gardeners. It has a compact footprint that fits standard suburban lots, twin-wall polycarbonate roof panels for better insulation than comparably priced single-wall alternatives, and a galvanized steel base included. The Snap and Grow 6x12 gives you more length at a similar price but uses single-wall panels, which is a real trade-off if your winters are cold. If you have an appropriate wall and minimal yard space, the Lean-To 4x8 solves a specific problem well."
+  - question: "Is the Palram Essence 8x16 worth the higher price?"
+    answer: "If you're running a serious vegetable program and want year-round growing capability in a cold climate, yes. The 4mm twin-wall panels, powder-coated aluminum frame, built-in gutters, and 8-foot width distinguish it from the narrower, single-wall kits in this roundup. The 8-foot interior width means you can actually work without constantly moving things around. The trade-offs are real: the price is around double the next tier, no base is included, and assembly takes two people a full weekend. Treat it as permanent infrastructure and budget accordingly."
 ---
 
 If you've been searching "glass greenhouse kit" and keep landing on products that are actually polycarbonate, that's not an accident. The vast majority of residential greenhouse kits sold today use polycarbonate panels, not glass, and for most home gardeners that's the better choice anyway. Polycarbonate is lighter, doesn't shatter, diffuses light more evenly than transparent glass panes, and in a cold-weather climate insulates considerably better. The "glass greenhouse" search is really a proxy for "I want a proper, permanent-looking greenhouse structure" and that's exactly what this roundup addresses.
@@ -217,51 +228,4 @@ Overheating kills plants faster than cold in most home greenhouse scenarios. Pas
 Every kit in this roundup requires at minimum two people for the main frame assembly. The Snap & Grow's tool-free connection system genuinely reduces labor compared to bolt-together frames, but "tool-free" doesn't mean "quick." Plan a full day for the 6x8 and 6x12 kits and a full weekend for the 8x16 Essence. Reading the assembly instructions fully before you start, not during, will save you from a disassembly-and-restart midway through. (I say this from direct experience, which I will not elaborate on.)
 
 ,
-
-## Frequently Asked Questions
-
-### Are polycarbonate greenhouse kits as good as glass greenhouses?
-
-For residential use, polycarbonate is the better practical choice in most cases. It's lighter, impact-resistant, and available in twin-wall configurations that provide better insulation than a single glass pane. UV-stabilized polycarbonate panels also diffuse light more evenly than clear glass, which reduces the risk of scorching seedlings. Horticultural glass has a role in high-end custom construction, but for a kit greenhouse you're assembling yourself, polycarbonate outperforms it on nearly every practical measure.
-
-### What size greenhouse kit do I actually need?
-
-Start with how you intend to use it. If you're starting seeds, overwintering tender plants, and extending your season by a few weeks at each end, a 6x8 or 4x4 cold frame is sufficient. If you want to grow crops through shoulder seasons and need room to work without constantly rearranging, 8x12 is the practical minimum. The 8x16 Essence makes sense if you're managing a serious vegetable program or want to grow multiple crop types simultaneously. Width matters more than length for day-to-day usability.
-
-### Do I need a foundation before assembling a greenhouse kit?
-
-For anything larger than a cold frame like the Plant Inn, yes. A prepared, level base is not optional in practical terms. Without it, frame alignment will be off from the start, and the problem compounds over time as the ground shifts through freeze-thaw cycles. Gravel pads are the most common DIY solution. Poured concrete perimeters give better long-term stability. The Hybrid 6x8 and
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are polycarbonate greenhouse kits as good as glass greenhouses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For residential use, polycarbonate is the better practical choice in most cases. It's lighter, impact-resistant, and available in twin-wall configurations that provide better insulation than a single glass pane. UV-stabilized polycarbonate panels also diffuse light more evenly than clear glass, which reduces the risk of scorching seedlings. Horticultural glass has a role in high-end custom construction, but for a kit greenhouse you're assembling yourself, polycarbonate outperforms it on nearly every practical measure."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What size greenhouse kit do I actually need?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start with how you intend to use it. If you're starting seeds, overwintering tender plants, and extending your season by a few weeks at each end, a 6x8 or 4x4 cold frame is sufficient. If you want to grow crops through shoulder seasons and need room to work without constantly rearranging, 8x12 is the practical minimum. The 8x16 Essence makes sense if you're managing a serious vegetable program or want to grow multiple crop types simultaneously. Width matters more than length for day-to-day usability."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need a foundation before assembling a greenhouse kit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For anything larger than a cold frame like the Plant Inn, yes. A prepared, level base is not optional in practical terms. Without it, frame alignment will be off from the start, and the problem compounds over time as the ground shifts through freeze-thaw cycles. Gravel pads are the most common DIY solution. Poured concrete perimeters give better long-term stability. The Hybrid 6x8 and"
-      }
-    }
-  ]
-}
-</script>
 

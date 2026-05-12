@@ -42,6 +42,17 @@ products:
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How much propane does a fire pit table use per hour?"
+    answer: "At full output, most propane fire tables in the 40,000 to 50,000 BTU range consume roughly 1 to 2 lbs of propane per hour. A standard 20 lb tank gives you approximately 8 to 10 hours of run time at full flame, somewhat more at a moderate setting. At current tank exchange prices, that works out to roughly $2 to $3 per hour of use."
+  - question: "Can I convert a propane fire table to natural gas?"
+    answer: "Some models support it, some don't. The Napoleon St. Tropez comes with the natural gas conversion kit included. The Outland Living Series 403 is not designed for natural gas conversion and should not be modified. If natural gas connection matters to you, verify before purchasing that the model supports it, and budget for a licensed gas line installation if you don't have an existing outdoor connection."
+  - question: "Are fire pit tables safe on a wood deck?"
+    answer: "Propane fire tables produce no ash and no flying embers, which makes them significantly safer on wood decks than wood-burning pits. The Gas One includes a mesh spark screen that reduces but doesn't eliminate ember risk from wood fires. Any open flame warrants attention to clearances above and around the unit, and local ordinances vary by municipality."
+  - question: "Do fire pit tables put out enough heat to actually stay warm?"
+    answer: "A 50,000 BTU propane fire table like the Outland Living Series 403 provides meaningful warmth within roughly 8 to 12 feet on a mild evening in the 45 to 55 degree range. In genuinely cold conditions it will take the edge off rather than replace a coat. The Bond tabletop unit produces almost no usable heat and should not be purchased with warmth as a primary goal."
+  - question: "What is the difference between a fire pit table and a regular fire pit?"
+    answer: "A fire pit table integrates the burner into a table-height frame with a surrounding surface that functions as outdoor furniture when the cover is in place. A traditional fire pit is a standalone burning vessel without a table surface. Fire pit tables are generally taller, more furniture-integrated, and almost always gas-powered, while freestanding pits come in both wood-burning and gas versions."
 ---
 
 A fire pit table sounds simple enough until you start pricing them. Then you find yourself looking at a $49 steel bowl on one tab and a $1,200 cast aluminum centerpiece on another, wondering what exactly you're paying for and whether any of it matters. I've spent time with all four of the products in this roundup, and my goal here is to give you a clear answer to that question rather than a list of features lifted from product pages.
@@ -190,77 +201,4 @@ The [Outland Living Series 403](product:outland-living-403-fire-table) is the ri
 
 ,
 
-## Frequently Asked Questions
-
-### How much propane does a fire pit table use per hour?
-
-At full output, most propane fire tables in the 40,000 to 50,000 BTU range consume roughly 1 to 2 lbs of propane per hour. A standard 20 lb tank gives you approximately 8 to 10 hours of run time at full flame, somewhat more if you keep the flame at a moderate setting. At current tank exchange prices of $18 to $25, that works out to roughly $2 to $3 per hour of use.
-
-![Best Fire Pit Tables](/images/articles/fire-and-heat-8.jpg)
-
-
-### Can I convert a propane fire table to natural gas?
-
-Some fire tables are designed with conversion in mind. The Napoleon St. Tropez comes with the natural gas conversion kit included. The Outland Living Series 403 is not designed for natural gas conversion and should not be modified. If natural gas connection is important to you, verify before purchasing that the specific model you're buying supports it, and plan for a licensed gas line installation if you don't have an existing outdoor connection.
-
-### Are fire pit tables safe on a wood deck?
-
-Propane fire tables produce no ash and no flying embers, which makes them significantly safer on wood decks than wood-burning pits. The Gas One includes a mesh spark screen that reduces (but doesn't eliminate) ember risk. That said, any open flame on a wood deck warrants attention to clearances above and around the unit, and you should check local ordinances, which vary by municipality.
-
-### Do fire pit tables put out enough heat to actually stay warm?
-
-A 50,000 BTU propane fire table like the Outland Living Series 403 provides meaningful warmth within roughly 8 to 12 feet on a mild evening, say in the 45 to 55 degree range. In genuinely cold conditions, or if your seating area is spread out, it will take the edge off rather than replace a coat. The Bond tabletop unit produces almost no usable heat and should not be purchased with warmth as a primary goal.
-
-### What's the difference between a fire pit table and a regular fire pit?
-
-A fire pit table integrates the burner into a table-height frame with a surrounding surface. When the burner cover is in place, it functions as a standard outdoor table for drinks, food, or decor. A traditional fire pit, like the Gas One bowl in this roundup, is a standalone burning vessel without a surrounding table surface. Fire pit tables are generally taller (around 24 to 28 inches), more furniture-integrated, and almost always gas-powered, while freestanding pits come in both wood-burning and gas versions.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much propane does a fire pit table use per hour?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At full output, most propane fire tables in the 40,000 to 50,000 BTU range consume roughly 1 to 2 lbs of propane per hour. A standard 20 lb tank gives you approximately 8 to 10 hours of run time at full flame, somewhat more if you keep the flame at a moderate setting. At current tank exchange prices of $18 to $25, that works out to roughly $2 to $3 per hour of use."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I convert a propane fire table to natural gas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Some fire tables are designed with conversion in mind. The Napoleon St. Tropez comes with the natural gas conversion kit included. The Outland Living Series 403 is not designed for natural gas conversion and should not be modified. If natural gas connection is important to you, verify before purchasing that the specific model you're buying supports it, and plan for a licensed gas line installation if you don't have an existing outdoor connection."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are fire pit tables safe on a wood deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Propane fire tables produce no ash and no flying embers, which makes them significantly safer on wood decks than wood-burning pits. The Gas One includes a mesh spark screen that reduces (but doesn't eliminate) ember risk. That said, any open flame on a wood deck warrants attention to clearances above and around the unit, and you should check local ordinances, which vary by municipality."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do fire pit tables put out enough heat to actually stay warm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A 50,000 BTU propane fire table like the Outland Living Series 403 provides meaningful warmth within roughly 8 to 12 feet on a mild evening, say in the 45 to 55 degree range. In genuinely cold conditions, or if your seating area is spread out, it will take the edge off rather than replace a coat. The Bond tabletop unit produces almost no usable heat and should not be purchased with warmth as a primary goal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a fire pit table and a regular fire pit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A fire pit table integrates the burner into a table-height frame with a surrounding surface. When the burner cover is in place, it functions as a standard outdoor table for drinks, food, or decor. A traditional fire pit, like the Gas One bowl in this roundup, is a standalone burning vessel without a surrounding table surface. Fire pit tables are generally taller (around 24 to 28 inches), more furniture-integrated, and almost always gas-powered, while freestanding pits come in both wood-burning and gas versions."
-      }
-    }
-  ]
-}
-</script>
 

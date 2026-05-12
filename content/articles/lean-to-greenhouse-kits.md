@@ -42,6 +42,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the advantage of a lean-to greenhouse over a freestanding one?"
+    answer: "A lean-to attaches to an existing wall and borrows both structural support and passive heat from it. A south- or west-facing masonry or siding wall absorbs heat during the day and releases it at night, which can mean ten degrees or more of additional warmth inside the structure compared to a freestanding polycarbonate unit of the same size. The footprint is also smaller since one side of the structure is the house wall, which matters in a constrained yard."
+  - question: "Do lean-to greenhouse kits require a building permit if attached to the house?"
+    answer: "Potentially yes, and attached structures are sometimes treated differently than freestanding ones. Some municipalities require permits for any structure attached to a dwelling regardless of size. Others use square footage thresholds ranging from 100 to 200 square feet for freestanding accessory structures but have separate rules for additions. A ten-minute call to your local building department before ordering is worth the effort."
+  - question: "What is the realistic lifespan of a polycarbonate greenhouse kit?"
+    answer: "Palram's polycarbonate panels carry a 10-year warranty against yellowing, and the aluminum frames last considerably longer with basic maintenance. The weakest points are typically the connection hardware and any base components that aren't protected from ground moisture. Inspect fasteners annually and replace anything showing early corrosion. Scratched panels degrade faster from UV exposure, so avoid abrasive cleaning."
+  - question: "Can polycarbonate greenhouse kits handle heavy snow load?"
+    answer: "The Essence 8x16 is rated for 15 pounds per square foot of snow load, which covers most residential accumulations in hard-winter climates. The smaller Hybrid kits are not rated to the same specification. For those, plan to clear snow from the roof during heavy accumulation events with a soft-bristle roof rake rather than relying on the structure to bear it indefinitely."
+  - question: "Which is better for cold-climate season extension: the Hybrid 6x8 or the Snap and Grow 6x12?"
+    answer: "The Hybrid 6x8 has twin-wall polycarbonate roof panels, which retain heat more effectively on cold nights than the Snap and Grow's single-wall panels. If your priority is pushing into late fall or starting in late winter, the Hybrid's insulation advantage outweighs the Snap and Grow's larger footprint. If your winters are mild and extra floor space matters more than cold-night performance, the Snap and Grow's tool-free assembly and 72 square feet of floor space make it the better trade-off."
 ---
 
 A lean-to greenhouse is a specific solution to a specific problem: you want to grow year-round, you don't have unlimited yard space, and you'd like the structure to do more than sit in a corner looking decorative. The lean-to format uses an existing wall for support and passive heat retention, which means a smaller footprint, lower assembly complexity, and in cold climates, meaningful energy savings over a freestanding structure. The category has grown considerably in the last few years, and so has the noise around it. Not every kit justifies its price.
@@ -192,78 +203,4 @@ All four kits include at least one roof vent. For anything larger than the 4x8, 
 Every kit here requires two people for safe assembly, without exception. The Snap & Grow comes closest to a single-person job, but holding frame sections in alignment while connecting them is a two-person task. For the Essence 8x16, plan a full weekend and don't underestimate the foundation prep time that comes before the build itself.
 
 For anyone considering full-property structure planning, the [garden structures hub](/structures/) covers sheds, gazebos, and greenhouses together, which is useful context if you're making decisions about multiple structures at once.
-
-## Frequently Asked Questions
-
-### Can I attach a lean-to greenhouse to a vinyl-sided house?
-
-Yes, with some preparation. Vinyl siding requires a dedicated mounting strip or flashing to create a weatherproof seal at the attachment point. Mounting directly to vinyl without this step typically creates gaps that let water penetrate behind the siding. The Palram Canopia 4x8 kit includes wall attachment hardware, but the sealing is the owner's responsibility. If the siding is in poor condition or the wall has any moisture issues, resolve those before attaching anything to it.
-
-![Lean To Greenhouse Kits](/images/articles/structures-6.jpg)
-
-
-### Do these kits require a building permit?
-
-That depends entirely on your municipality, and the answer varies more than most product guides acknowledge. Structures under a certain square footage are often permit-exempt, but "certain square footage" ranges from 100 to 200 square feet depending on jurisdiction, and some areas require permits regardless of size if the structure is attached to a dwelling. Check with your local building department before ordering. This is a ten-minute phone call that can save a significant amount of trouble.
-
-### How much heat does a polycarbonate greenhouse actually retain on cold nights?
-
-More than a cold frame, less than a heated structure. A well-sited twin-wall polycarbonate greenhouse in a climate with hard winters will typically hold temperatures 10 to 20 degrees above ambient on a calm, clear night. Wind dramatically reduces that margin. The lean-to format, sharing a wall with a heated structure, adds another buffer. For overwintering tender plants that need to stay above 40 degrees, supplemental heat via a thermostatically controlled electric heater is worth planning for if your winters regularly hit the single digits.
-
-### What's the realistic lifespan of a polycarbonate greenhouse kit?
-
-Polycarbonate panels are UV-rated, typically for 10 years. The actual lifespan depends on climate, maintenance, and whether the panels have been scratched (which accelerates UV degradation). Palram's panels have a 10-year manufacturer warranty against yellowing. Aluminum frames, properly maintained, last considerably longer. The weakest points are typically the connection hardware and any untreated base components. Inspect fasteners annually and replace anything showing corrosion early.
-
-### Can these greenhouses handle heavy snow load?
-
-The Essence 8x16 is rated for 15 lbs per square foot of snow load, which covers most residential accumulations in areas with hard winters. The smaller Hybrid kits are not rated to the same specification. If you're in a climate with heavy, wet snowfall, the Essence is the appropriate choice. For the smaller kits, plan to brush snow off the roof during heavy accumulation events rather than relying on the structure to bear the load indefinitely. A soft-bristle roof rake works without scratching the panels.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I attach a lean-to greenhouse to a vinyl-sided house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with some preparation. Vinyl siding requires a dedicated mounting strip or flashing to create a weatherproof seal at the attachment point. Mounting directly to vinyl without this step typically creates gaps that let water penetrate behind the siding. The Palram Canopia 4x8 kit includes wall attachment hardware, but the sealing is the owner's responsibility. If the siding is in poor condition or the wall has any moisture issues, resolve those before attaching anything to it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do these kits require a building permit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "That depends entirely on your municipality, and the answer varies more than most product guides acknowledge. Structures under a certain square footage are often permit-exempt, but \"certain square footage\" ranges from 100 to 200 square feet depending on jurisdiction, and some areas require permits regardless of size if the structure is attached to a dwelling. Check with your local building department before ordering. This is a ten-minute phone call that can save a significant amount of trouble."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much heat does a polycarbonate greenhouse actually retain on cold nights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "More than a cold frame, less than a heated structure. A well-sited twin-wall polycarbonate greenhouse in a climate with hard winters will typically hold temperatures 10 to 20 degrees above ambient on a calm, clear night. Wind dramatically reduces that margin. The lean-to format, sharing a wall with a heated structure, adds another buffer. For overwintering tender plants that need to stay above 40 degrees, supplemental heat via a thermostatically controlled electric heater is worth planning for if your winters regularly hit the single digits."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the realistic lifespan of a polycarbonate greenhouse kit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Polycarbonate panels are UV-rated, typically for 10 years. The actual lifespan depends on climate, maintenance, and whether the panels have been scratched (which accelerates UV degradation). Palram's panels have a 10-year manufacturer warranty against yellowing. Aluminum frames, properly maintained, last considerably longer. The weakest points are typically the connection hardware and any untreated base components. Inspect fasteners annually and replace anything showing corrosion early."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can these greenhouses handle heavy snow load?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Essence 8x16 is rated for 15 lbs per square foot of snow load, which covers most residential accumulations in areas with hard winters. The smaller Hybrid kits are not rated to the same specification. If you're in a climate with heavy, wet snowfall, the Essence is the appropriate choice. For the smaller kits, plan to brush snow off the roof during heavy accumulation events rather than relying on the structure to bear the load indefinitely. A soft-bristle roof rake works without scratching the panels."
-      }
-    }
-  ]
-}
-</script>
 

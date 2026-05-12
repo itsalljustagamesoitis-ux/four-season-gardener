@@ -21,6 +21,17 @@ products:
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Birdies metal raised bed actually safe to put on composite decking?"
+    answer: "Yes, and that is the specific problem it is designed to solve. The thermoplastic base sits between the steel walls and whatever surface is below, acting as a moisture barrier and a physical buffer. After two full growing seasons on a stone patio, the surface underneath showed no staining, moisture damage, or warping. Standard raised beds without a sealed base will damage composite decking over time."
+  - question: "Will the thermoplastic base crack in cold winters?"
+    answer: "Birdies acknowledges this risk in their documentation, and it deserves to be taken seriously. Through two hard winters with temperatures regularly dropping to the mid-single digits Fahrenheit, the base held without issue. Sustained temperatures well below zero Fahrenheit over extended periods are the real risk zone. If your winters are that severe, removing and storing the base during the coldest months is a practical precaution."
+  - question: "Is Colorbond steel safe for growing vegetables?"
+    answer: "Yes. Colorbond is a baked-on paint coating system, not a galvanized finish, so there is no zinc layer and no lead-based component. Birdies positions this product specifically for food growing, and the material specification supports that claim. It is one of the reasons to choose this over cheaper import beds with less transparent coating documentation."
+  - question: "How much does this bed weigh when filled with soil?"
+    answer: "Expect roughly 200 to 250 pounds with a full soil load, depending on your mix. Lightweight potting mixes with perlite or coir bring the number down; dense soil blends push it higher. If you are placing this on an elevated deck, checking the deck's load-bearing capacity before filling is not optional."
+  - question: "Can I expand this bed or connect multiple units?"
+    answer: "No. The thermoplastic base unit is a standalone, fixed-size product at 43 by 20 by 15 inches with no modular expansion option. Birdies' standard ground-installation beds have a modular system for joining units into longer runs, but that system does not apply here. If a continuous run or larger footprint is the priority, you would need to place separate units end to end or look at a different product entirely."
 ---
 
 If you're putting a raised bed on a deck, a patio, or any surface you'd like to keep intact, the options narrow fast. Most metal raised beds are designed for ground installation. The [Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](product:birdies-metal-raised-garden-bed) is one of the few designed specifically for hard surfaces, and it's been the most requested deck bed recommendation in my inbox for the better part of two years. I've been running mine on a stone patio for two full growing seasons, so I have a clear view of what it does well and where it falls short.
@@ -116,79 +127,4 @@ The Birdies brand has a strong following in the Epic Gardening community, and fo
 
 If you're expanding beyond deck growing and want to think through the broader range of bed materials and configurations, the site's [raised bed](/raised-beds/) coverage is a reasonable place to continue.
 
-,
-
-## Frequently Asked Questions
-
-### Will the thermoplastic base crack in cold winters?
-
-Birdies flags this risk in their documentation, and I'd take it seriously. In my experience through two hard winters (with temperatures regularly dropping to the mid-single digits Fahrenheit), the base has held without issue. Sustained temperatures well below zero Fahrenheit over extended periods are the real risk. If your winters are that extreme, removing and storing the base during the coldest months is a practical precaution.
-
-![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-3.jpg)
-
-
-### How much does it weigh when fully planted?
-
-Expect 200 to 250 pounds with a full soil load, depending on your mix. Lightweight potting mixes with perlite or coir bring the number down. Dense soil blends push it higher. If you're placing this on an elevated deck, check your deck's posted weight limit before filling it.
-
-### Can I use this bed on a rooftop or balcony?
-
-The footprint and form factor are appropriate for rooftop and balcony installations, and the thermoplastic base protects membrane roofing and tile surfaces. The weight when filled is the constraint. Rooftop and balcony structures vary significantly in their load ratings. A structural assessment or review of your building's specifications before installation is not optional.
-
-### Is the Colorbond steel safe for vegetable growing?
-
-Yes. Colorbond is a baked-on paint coating system, not a galvanized finish. There is no zinc layer and no lead-based component in the coating. Birdies positions this product for food growing, and the material specification supports that. It's the reason I chose it over cheaper import alternatives with less transparent coating documentation.
-
-### How does this compare to the standard Birdies modular beds?
-
-The standard Birdies modular beds are designed for ground installation and offer the option to join units into longer configurations. The thermoplastic base unit is a standalone, fixed-size product (43x20x15 inches) with no modular expansion option. If you need flexibility in layout or length, the modular system is more practical for ground installs. The thermoplastic base version is the right choice only when you're placing a bed on a surface that needs protection.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will the thermoplastic base crack in cold winters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Birdies flags this risk in their documentation, and I'd take it seriously. In my experience through two hard winters (with temperatures regularly dropping to the mid-single digits Fahrenheit), the base has held without issue. Sustained temperatures well below zero Fahrenheit over extended periods are the real risk. If your winters are that extreme, removing and storing the base during the coldest months is a practical precaution."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does it weigh when fully planted?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Expect 200 to 250 pounds with a full soil load, depending on your mix. Lightweight potting mixes with perlite or coir bring the number down. Dense soil blends push it higher. If you're placing this on an elevated deck, check your deck's posted weight limit before filling it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use this bed on a rooftop or balcony?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The footprint and form factor are appropriate for rooftop and balcony installations, and the thermoplastic base protects membrane roofing and tile surfaces. The weight when filled is the constraint. Rooftop and balcony structures vary significantly in their load ratings. A structural assessment or review of your building's specifications before installation is not optional."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Colorbond steel safe for vegetable growing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Colorbond is a baked-on paint coating system, not a galvanized finish. There is no zinc layer and no lead-based component in the coating. Birdies positions this product for food growing, and the material specification supports that. It's the reason I chose it over cheaper import alternatives with less transparent coating documentation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does this compare to the standard Birdies modular beds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The standard Birdies modular beds are designed for ground installation and offer the option to join units into longer configurations. The thermoplastic base unit is a standalone, fixed-size product (43x20x15 inches) with no modular expansion option. If you need flexibility in layout or length, the modular system is more practical for ground installs. The thermoplastic base version is the right choice only when you're placing a bed on a surface that needs protection."
-      }
-    }
-  ]
-}
-</script>
 

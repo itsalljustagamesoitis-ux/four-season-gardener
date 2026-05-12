@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often do I need to reapply Liquid Fence?"
+    answer: "Every two to four weeks under normal conditions, and sooner after heavy rain. A two-week baseline works well during spring and fall when deer pressure and rainfall are both higher. The formula holds up better to light rain than to sustained downpours. Keeping a gallon on hand means you are not rationing it or skipping applications when it matters most."
+  - question: "Will the Orbit motion-activated sprinkler hurt deer or other animals?"
+    answer: "No. The water burst is enough to startle and deter but causes no harm. The more useful thing to know is that after two to three weeks of consistent activation, deer typically start avoiding the zone entirely even when the unit is not running. That conditioned avoidance is what makes it worth the setup effort compared to a repellent spray alone."
+  - question: "Should I use Liquid Fence and the motion sprinkler at the same time?"
+    answer: "Yes, and that is exactly the setup recommended here. Chemical repellents make the plants themselves unappealing through scent. The motion sprinkler creates an aversive experience when deer approach the perimeter. The two methods address different failure modes. A deer that pushes through the scent on a hungry night will still hit the sprinkler. Used together on a 12-acre property, this combination keeps deer away for weeks at a time rather than days."
+  - question: "Does the Orbit sprinkler work in winter?"
+    answer: "Not practically. Once overnight temperatures drop below freezing, the hose must be disconnected to prevent damage to the unit and hose. The sprinkler can stay in place but will not deter anything without water flowing. During winter months, Liquid Fence applied to evergreens and woody plants is the better option for protecting high-value plants when browse pressure is highest and natural forage is scarce."
+  - question: "Why do deer repellents smell so bad, and is there a low-odor alternative that actually works?"
+    answer: "The egg-sulfur smell in Liquid Fence is the active mechanism, not a side effect. It mimics predator activity and triggers a threat response in deer. Products marketed as low-odor are typically less effective because they are reducing the component that does the deterring. If the application-day odor is genuinely a problem, spray in the evening before a day you will not be in the garden. By the next morning, the smell humans detect is largely gone while the deterrent effect persists."
 ---
 
 Deer don't read signs. They don't respect borders, they don't care about your hostas, and they will absolutely walk through your vegetable garden at 2 a.m. and leave you with stalks. If you've been dealing with this long enough, you've probably already tried a few things that didn't work. This article is about two that do.
@@ -144,79 +155,4 @@ Deer pressure varies dramatically by season and local population. In areas with 
 
 For more on managing wildlife around your yard and garden, including how to keep feeding stations functional without attracting unwanted visitors, the [Bird Feeders & Baths](/birds-wildlife/) section has relevant coverage.
 
-,
-
-## Frequently Asked Questions
-
-### How often do I need to reapply Liquid Fence?
-
-Under normal conditions, every two to four weeks. After heavy rain, sooner. I treat two weeks as my working baseline during spring and fall, and I keep a gallon on hand so I'm not rationing it. If you're in a particularly wet season, budget for reapplication every 10 days. The product holds up better to light rain than it does to sustained downpours.
-
-![Best Deer Repellent Devices](/images/articles/birds-wildlife-4.jpg)
-
-
-### Will the Orbit sprinkler hurt deer or other animals?
-
-No. The water burst is enough to startle and deter, but it causes no harm. The value of the Orbit 62100 is precisely that it creates an aversive experience without injury. After consistent activation, deer typically avoid the zone even when the unit isn't running, which is the behavioral conditioning effect the product creates over two to three weeks.
-
-### Can I use these products together?
-
-Yes, and I'd recommend it. Apply Liquid Fence to the plants you want to protect and set up the Orbit sprinkler to cover the perimeter or the approach routes deer typically use. The two methods work through different mechanisms, chemical deterrence and conditioned avoidance, and using both is more reliable than either alone.
-
-### Does the Orbit sprinkler work in winter?
-
-Not practically. Once overnight temperatures drop below freezing, you need to disconnect the hose to prevent damage to the unit and the hose. The sprinkler itself can be left in place, but it won't deter anything without water flowing. If winter deer browse is a problem, Liquid Fence applied to evergreens and woody plants is your better option during cold months.
-
-### Are there deer repellents that don't have a strong odor?
-
-The egg-sulfur smell in products like Liquid Fence is actually what makes them work for deer. Products that advertise low odor are typically less effective because the deterrent mechanism relies partly on that smell profile. If the application-day odor is a serious issue, plan to spray in the evening before a workday when you won't be in the garden, and give it overnight to dry down. By morning, the odor humans notice is largely gone.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often do I need to reapply Liquid Fence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Under normal conditions, every two to four weeks. After heavy rain, sooner. I treat two weeks as my working baseline during spring and fall, and I keep a gallon on hand so I'm not rationing it. If you're in a particularly wet season, budget for reapplication every 10 days. The product holds up better to light rain than it does to sustained downpours."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will the Orbit sprinkler hurt deer or other animals?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. The water burst is enough to startle and deter, but it causes no harm. The value of the Orbit 62100 is precisely that it creates an aversive experience without injury. After consistent activation, deer typically avoid the zone even when the unit isn't running, which is the behavioral conditioning effect the product creates over two to three weeks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use these products together?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, and I'd recommend it. Apply Liquid Fence to the plants you want to protect and set up the Orbit sprinkler to cover the perimeter or the approach routes deer typically use. The two methods work through different mechanisms, chemical deterrence and conditioned avoidance, and using both is more reliable than either alone."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the Orbit sprinkler work in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not practically. Once overnight temperatures drop below freezing, you need to disconnect the hose to prevent damage to the unit and the hose. The sprinkler itself can be left in place, but it won't deter anything without water flowing. If winter deer browse is a problem, Liquid Fence applied to evergreens and woody plants is your better option during cold months."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there deer repellents that don't have a strong odor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The egg-sulfur smell in products like Liquid Fence is actually what makes them work for deer. Products that advertise low odor are typically less effective because the deterrent mechanism relies partly on that smell profile. If the application-day odor is a serious issue, plan to spray in the evening before a workday when you won't be in the garden, and give it overnight to dry down. By morning, the odor humans notice is largely gone."
-      }
-    }
-  ]
-}
-</script>
 

@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does HDPE outdoor furniture actually compare to real teak?"
+    answer: "Real teak has grain, warmth, and visual depth that HDPE does not fully replicate up close. The honest trade-off is that HDPE wins decisively on maintenance and weather resistance. Real teak dining sets run from around $3,000 to $8,000 and require annual oiling to stay in presentable condition. HDPE requires nothing. Which matters more depends on how honestly you will keep up with wood maintenance over time."
+  - question: "Will this set fade or look worn after a few years in the sun?"
+    answer: "Some lightening occurs over time, particularly at the highest UV-exposure points. POLYWOOD uses integral colorant rather than surface stain, so any fading is slow and even rather than patchy or peeling. After two full seasons of direct afternoon sun, the teak-color set shows minimal change from the original. It will not look factory-new after ten years, but it also will not look neglected."
+  - question: "Do I need to cover or store POLYWOOD furniture over winter?"
+    answer: "No. That is one of the central arguments for this material. HDPE does not absorb moisture, will not crack in freezing temperatures, and the stainless steel hardware will not rust. This set went through two Connecticut winters with hard freezes and wet springs without warping, joint separation, or surface damage. POLYWOOD specifically warranties against the conditions that destroy wood furniture."
+  - question: "Are the chairs comfortable without cushions?"
+    answer: "For a normal outdoor dinner, yes. For extended sitting over several hours, most people will want cushions. The chair profile is upright with a flat seat and a slight backward angle, which works for a meal but becomes less comfortable after a while. POLYWOOD sells matching cushions, and Sunbrella-fabric third-party options hold up well in all-weather applications."
+  - question: "Is the weight of this set a real problem?"
+    answer: "If you plan to leave it in one place, no. If you need to move it regularly, yes. The table weighs approximately 100 pounds and requires two people to reposition. The chairs are around 25 to 30 pounds each and move easily enough. This set is designed to be placed and left. Two seasons in, the table has moved once, and it required planning and a second person."
 ---
 
 If you've spent any time researching outdoor dining furniture, you already know the basic choice: real wood that looks beautiful and demands annual attention, or synthetic materials that look like plastic lawn furniture from 1987. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) makes the case that you don't have to choose between appearance and durability. I've had this set on my back terrace for two full seasons now, and I have some specific things to say about it.
@@ -120,77 +131,4 @@ The weight issue deserves one more mention. This set is designed to be placed an
 
 For anyone building out a full outdoor living space and looking at long-term [outdoor furniture](/outdoor-furniture/) decisions with a 10-plus-year horizon, the POLYWOOD Nautical set is the most defensible single purchase in this category at this price level. The warranty means something. The material will outlast most alternatives. And you will never oil it.
 
-## Frequently Asked Questions
-
-### How does HDPE outdoor furniture compare to real teak?
-
-Real teak has a grain, warmth, and visual depth that HDPE doesn't fully replicate up close. Teak also becomes more beautiful as it ages if properly maintained. HDPE wins on maintenance and weather resistance. Real teak dining sets typically run $3,000 to $8,000 and require annual oiling to prevent drying and graying. HDPE requires nothing. Which matters more depends on your priorities and how honestly you'll keep up with wood maintenance.
-
-![Hdpe Outdoor Dining Set](/images/articles/outdoor-furniture-4.jpg)
-
-
-### Will POLYWOOD furniture fade in direct sun?
-
-Some lightening occurs over time, particularly at the highest UV-exposure points. POLYWOOD uses integral colorant rather than surface stain, so fading is slow and even rather than patchy. After two full seasons of direct afternoon sun exposure, my teak-color set shows minimal change. It won't look factory-new after ten years, but it also won't look neglected.
-
-### Do I need to cover or store this set in winter?
-
-No. This is one of the central arguments for HDPE. The material doesn't absorb moisture, won't crack in freezing temperatures, and the stainless steel hardware won't rust. Leave it outside. POLYWOOD specifically warranties against the conditions that destroy wood furniture.
-
-### Is the POLYWOOD Nautical set comfortable without cushions?
-
-For a normal outdoor dinner, yes. For extended sitting over several hours, most people will want cushions. The chair profile is upright with a flat seat, which works fine for a meal but becomes less comfortable over time. POLYWOOD offers matching cushions, and third-party Sunbrella-fabric cushions are worth considering for durability in an outdoor application.
-
-### How long does assembly take?
-
-With two people and basic tools, roughly 90 minutes for the full seven-piece set. The instructions are clear and the hardware is stainless steel with no substitutions or improvisation required. Doing it solo is possible but slower, particularly for aligning the table trestle during initial bolt tightening.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does HDPE outdoor furniture compare to real teak?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Real teak has a grain, warmth, and visual depth that HDPE doesn't fully replicate up close. Teak also becomes more beautiful as it ages if properly maintained. HDPE wins on maintenance and weather resistance. Real teak dining sets typically run $3,000 to $8,000 and require annual oiling to prevent drying and graying. HDPE requires nothing. Which matters more depends on your priorities and how honestly you'll keep up with wood maintenance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will POLYWOOD furniture fade in direct sun?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Some lightening occurs over time, particularly at the highest UV-exposure points. POLYWOOD uses integral colorant rather than surface stain, so fading is slow and even rather than patchy. After two full seasons of direct afternoon sun exposure, my teak-color set shows minimal change. It won't look factory-new after ten years, but it also won't look neglected."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need to cover or store this set in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. This is one of the central arguments for HDPE. The material doesn't absorb moisture, won't crack in freezing temperatures, and the stainless steel hardware won't rust. Leave it outside. POLYWOOD specifically warranties against the conditions that destroy wood furniture."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the POLYWOOD Nautical set comfortable without cushions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a normal outdoor dinner, yes. For extended sitting over several hours, most people will want cushions. The chair profile is upright with a flat seat, which works fine for a meal but becomes less comfortable over time. POLYWOOD offers matching cushions, and third-party Sunbrella-fabric cushions are worth considering for durability in an outdoor application."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does assembly take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "With two people and basic tools, roughly 90 minutes for the full seven-piece set. The instructions are clear and the hardware is stainless steel with no substitutions or improvisation required. Doing it solo is possible but slower, particularly for aligning the table trestle during initial bolt tightening."
-      }
-    }
-  ]
-}
-</script>
 

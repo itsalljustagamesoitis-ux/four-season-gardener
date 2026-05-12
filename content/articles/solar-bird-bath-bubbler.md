@@ -21,6 +21,17 @@ products:
 tags: ["birds-wildlife", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a solar bird bath bubbler run on cloudy days?"
+    answer: "Weakly, or not at all. The solar panel needs direct sunlight to produce enough current to run the pump at normal output. Light overcast slows it down; heavy cloud cover stops it entirely. If you are in a region with long stretches of gray spring weather, a solar-only pump is not the reliable solution it appears to be in the product photos."
+  - question: "Can I use the AquaNura in a bird bath I already own?"
+    answer: "Yes, and that is arguably the better use case. You can drop the basin inside your existing bath bowl or simply set the pump and panel stem directly in the bowl with the panel extending out. Using a larger bath bowl means more water volume and less frequent refilling, which is a real advantage given the 9-inch basin's small capacity."
+  - question: "How often do I need to clean and refill a solar bubbler bath?"
+    answer: "Refilling every one to two days is realistic in summer heat with the pump running. Moving water stays cleaner than standing water, but algae still builds up around basin edges and under the pump in warm weather. Scrub with a stiff brush every few days. Do not use bleach or soap since residue can harm birds."
+  - question: "Is the AquaNura worth it if my bath location is partly shaded?"
+    answer: "No. The pump tested weakly and intermittently with only two hours of dappled sunlight reaching the panel. That is a physics constraint, not a product defect, and the AquaNura does nothing to overcome it. If your ideal bath location is shaded, you need a battery-backed or plug-in fountain rather than a solar unit."
+  - question: "What birds does a solar bubbler at ground level actually attract?"
+    answer: "Robins, house finches, sparrows, wrens, and warblers during migration are reliably drawn to moving water at ground level. Ground-level placement pulls in a somewhat different set of visitors than elevated pedestal baths, so if you are already running a standard pedestal setup, a ground-level solar bubbler can add species variety rather than just duplicate what you have."
 ---
 
 Moving water attracts birds. Standing water holds mosquitoes. This is not a complicated problem, and the solution doesn't require running electrical conduit to your garden bed or spending three hundred dollars on a recirculating fountain. A solar bird bath bubbler handles it with a small panel, a submersible pump, and no wiring at all. The question is whether the one you buy will actually work in ordinary garden conditions or will spend most of its life sitting motionless in partial shade.
@@ -115,77 +126,4 @@ It's not the right product if your ideal bath location is shaded, if you travel 
 
 If you want to do more with your bird yard generally, our full [bird feeding and bath resources](/birds-wildlife/) cover everything from feeder placement to species-specific setups worth reading before you buy more hardware.
 
-## Frequently Asked Questions
-
-### Will the pump run on overcast days?
-
-Weakly, or not at all, depending on how much cloud cover there is. The solar panel needs direct sunlight to produce enough current to run the pump at normal output. Light overcast will slow it down. Heavy cloud cover stops it. If you're in a region with long stretches of gray weather in the spring, factor that in.
-
-![Solar Bird Bath Bubbler](/images/articles/birds-wildlife-3.jpg)
-
-
-### Can I use this in an existing birdbath I already own?
-
-Yes, and it's arguably the better use case. Drop the basin inside your existing bath bowl, or just set the pump and panel directly in your bowl with the panel stem extending out. The pump connects to either fountain head the same way. Using a larger bath bowl means more water volume, so less frequent refilling.
-
-### How do I keep the basin clean?
-
-Rinse and scrub it with a stiff brush every few days. Moving water stays cleaner than standing water, but algae will still build up in warm weather, especially around the basin edges and under the pump. Do not use bleach or soap, as residue can harm birds. Plain water and mechanical scrubbing is all you need.
-
-### What birds is this most likely to attract?
-
-Robins, house finches, sparrows, wrens, and warblers during migration are all reliably drawn to moving water at ground level. Ground-level placement tends to attract a different set of visitors than elevated baths, so if you're already running a standard pedestal setup, a ground-level solar bubbler can bring in additional species. If you're building out a full wildlife setup and want to expand beyond water features, our [bird feeder for peanuts](/bird-feeder-for-peanuts/) article covers feeders that attract woodpeckers and nuthatches that a bath alone won't pull in.
-
-### Does the pump run continuously or cycle on and off?
-
-Continuously, as long as sunlight is hitting the panel. There is no timer or sensor beyond the basic solar input. When sunlight hits the panel, the pump runs. When it doesn't, the pump stops. There's no intermittent cycling or programmable schedule at this price point.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will the pump run on overcast days?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weakly, or not at all, depending on how much cloud cover there is. The solar panel needs direct sunlight to produce enough current to run the pump at normal output. Light overcast will slow it down. Heavy cloud cover stops it. If you're in a region with long stretches of gray weather in the spring, factor that in."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use this in an existing birdbath I already own?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, and it's arguably the better use case. Drop the basin inside your existing bath bowl, or just set the pump and panel directly in your bowl with the panel stem extending out. The pump connects to either fountain head the same way. Using a larger bath bowl means more water volume, so less frequent refilling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I keep the basin clean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rinse and scrub it with a stiff brush every few days. Moving water stays cleaner than standing water, but algae will still build up in warm weather, especially around the basin edges and under the pump. Do not use bleach or soap, as residue can harm birds. Plain water and mechanical scrubbing is all you need."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What birds is this most likely to attract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Robins, house finches, sparrows, wrens, and warblers during migration are all reliably drawn to moving water at ground level. Ground-level placement tends to attract a different set of visitors than elevated baths, so if you're already running a standard pedestal setup, a ground-level solar bubbler can bring in additional species. If you're building out a full wildlife setup and want to expand beyond water features, our [bird feeder for peanuts](/bird-feeder-for-peanuts/) article covers feeders that attract woodpeckers and nuthatches that a bath alone won't pull in."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the pump run continuously or cycle on and off?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Continuously, as long as sunlight is hitting the panel. There is no timer or sensor beyond the basic solar input. When sunlight hits the panel, the pump runs. When it doesn't, the pump stops. There's no intermittent cycling or programmable schedule at this price point."
-      }
-    }
-  ]
-}
-</script>
 

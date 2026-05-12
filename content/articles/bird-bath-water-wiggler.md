@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do bird bath water wigglers actually attract more birds?"
+    answer: "Yes, and the difference is not subtle. Birds locate water largely by sound, and moving water produces the ripple and drip sounds that signal a water source to birds overhead or moving through nearby trees. A bath with a working solar bubbler or wiggler will draw birds faster and more consistently than a static bath in the same spot. The first week after adding movement to a previously ignored bath is when the difference is most obvious."
+  - question: "Can I leave a solar bubbler in the bird bath over winter?"
+    answer: "Not in climates with hard freezes. The pump mechanism can crack if water freezes around it, and the basin can suffer the same way. Bring the solar insert inside when nighttime temperatures are consistently dropping below freezing. In early spring once overnight temps stay reliably above 32, it is safe to set back up."
+  - question: "How often does bird bath water actually need to be changed?"
+    answer: "Every two to three days in summer, about once a week in cooler weather. Algae grows quickly in warm still water, and mosquitoes can complete a breeding cycle in as little as a week in stagnant water. Moving water from a bubbler slows the process but does not stop it. The basin still needs scrubbing with a stiff brush on a regular schedule, and a small amount of white vinegar helps with algae if you rinse thoroughly before refilling."
+  - question: "What is the difference between a battery wiggler and a solar bubbler for a bird bath?"
+    answer: "Functionally similar, mechanically different. A battery-powered wiggler sits in the water and vibrates, creating surface ripples without moving much water. A solar bubbler like the AquaNura pumps water up through a fountain head, creating real water movement and audible sound. The solar bubbler is generally more effective at bird attraction because the sound carries further. The battery wiggler is more reliable in shaded positions where a solar panel cannot get enough light to run consistently."
+  - question: "Do I need a special bird bath to use a solar bubbler insert?"
+    answer: "Almost any existing bath bowl will work, including concrete, ceramic, or resin, as long as the basin is deep enough to submerge the pump inlet. The AquaNura needs at least 1.5 to 2 inches of water depth to function properly. Shallow decorative saucers will not work. If you are buying a new bath specifically to pair with a solar insert, the Alpine pedestal bath is a practical combination at a reasonable combined price."
 ---
 
 Moving water attracts birds. Static water does not, or at least not nearly as well. If you've ever set out a beautiful pedestal bath and watched it sit untouched for weeks, that's the reason. Birds locate water primarily by sound, and a still basin in a quiet yard is essentially invisible to them. A wiggler, bubbler, or solar fountain changes that immediately.
@@ -212,74 +223,4 @@ Water and food in the same area of the garden create a stronger draw than either
 
 ,
 
-## Frequently Asked Questions
-
-### Do bird bath water wigglers actually attract more birds?
-
-Yes, measurably so. Birds locate water largely by sound. Moving water produces the ripple and drip sounds that signal a water source to birds flying overhead or moving through nearby trees. A bath with a working solar bubbler or wiggler will draw birds faster and more consistently than an identical static bath. The difference is most obvious in the first week after adding movement to a previously ignored bath.
-
-### Can I leave a solar bubbler in the bird bath all winter?
-
-Not in climates with hard freezes. The pump mechanism and the basin itself can crack if water freezes around them. Bring the solar insert inside when nighttime temperatures are consistently dropping below freezing. In early spring when temperatures stay above 32 degrees at night, it's safe to set back up. The Alpine resin bath can stay outside over winter without water in it, but drain it completely before the first hard freeze.
-
-### How often does bird bath water need to be changed?
-
-Every two to three days in summer, once a week in cooler weather. Algae grows quickly in warm, still water, and mosquitoes can complete a breeding cycle in as little as a week in stagnant water. Moving water from a bubbler slows but does not stop this process. The basin still needs scrubbing with a stiff brush and fresh water on a regular schedule. A small amount of white vinegar helps with algae if you rinse thoroughly before refilling.
-
-### What's the difference between a water wiggler and a solar bubbler for a bird bath?
-
-Functionally similar, mechanically different. A battery-powered "wiggler" sits in the water and vibrates, creating ripples on the surface without moving much water. A solar bubbler like the AquaNura pumps water up through a fountain head, creating actual water movement and audible sound. The solar bubbler is generally more effective at bird attraction because the sound carries further. The battery wiggler is more reliable in shaded positions where a solar panel can't get enough light.
-
-### Do I need a special bird bath for a solar bubbler insert, or will any bath work?
-
-Almost any bath bowl will work, including existing concrete, ceramic, or resin baths, as long as the basin is deep enough to submerge the pump inlet. The AquaNura needs at least 1.5 to 2 inches of water depth to function properly. Shallow decorative saucers won't work. If you're buying a new bath specifically to pair with a solar insert, the Alpine pedestal bath above is a practical combination at a reasonable combined price.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do bird bath water wigglers actually attract more birds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, measurably so. Birds locate water largely by sound. Moving water produces the ripple and drip sounds that signal a water source to birds flying overhead or moving through nearby trees. A bath with a working solar bubbler or wiggler will draw birds faster and more consistently than an identical static bath. The difference is most obvious in the first week after adding movement to a previously ignored bath."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I leave a solar bubbler in the bird bath all winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not in climates with hard freezes. The pump mechanism and the basin itself can crack if water freezes around them. Bring the solar insert inside when nighttime temperatures are consistently dropping below freezing. In early spring when temperatures stay above 32 degrees at night, it's safe to set back up. The Alpine resin bath can stay outside over winter without water in it, but drain it completely before the first hard freeze."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often does bird bath water need to be changed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Every two to three days in summer, once a week in cooler weather. Algae grows quickly in warm, still water, and mosquitoes can complete a breeding cycle in as little as a week in stagnant water. Moving water from a bubbler slows but does not stop this process. The basin still needs scrubbing with a stiff brush and fresh water on a regular schedule. A small amount of white vinegar helps with algae if you rinse thoroughly before refilling."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a water wiggler and a solar bubbler for a bird bath?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Functionally similar, mechanically different. A battery-powered \"wiggler\" sits in the water and vibrates, creating ripples on the surface without moving much water. A solar bubbler like the AquaNura pumps water up through a fountain head, creating actual water movement and audible sound. The solar bubbler is generally more effective at bird attraction because the sound carries further. The battery wiggler is more reliable in shaded positions where a solar panel can't get enough light."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need a special bird bath for a solar bubbler insert, or will any bath work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Almost any bath bowl will work, including existing concrete, ceramic, or resin baths, as long as the basin is deep enough to submerge the pump inlet. The AquaNura needs at least 1.5 to 2 inches of water depth to function properly. Shallow decorative saucers won't work. If you're buying a new bath specifically to pair with a solar insert, the Alpine pedestal bath above is a practical combination at a reasonable combined price."
-      }
-    }
-  ]
-}
-</script>
 

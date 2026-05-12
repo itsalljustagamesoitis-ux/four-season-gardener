@@ -21,6 +21,17 @@ products:
 tags: ["fire-and-heat", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does a 20 lb propane tank last on the Hiland pyramid heater?"
+    answer: "At full 40,000 BTU output, a standard 20 lb tank runs roughly 8 to 10 hours. Running at medium heat extends that to 12 or more hours. Most people don't run these at full blast the entire session, so plan on 10 to 14 hours of real-world use per tank depending on your settings and ambient temperature."
+  - question: "Can I use the Hiland pyramid heater on a wood deck?"
+    answer: "Yes, with normal precautions. The base is wide and the flame is enclosed in the glass tube rather than open like a fire pit, so tip-over risk on a level surface is manageable. Keep it away from overhanging fabric, umbrellas, and low awnings, and check your HOA restrictions before use. CSA certification covers outdoor deck use."
+  - question: "What happens if the quartz glass tube breaks?"
+    answer: "Replacement tubes for this model are available online for roughly $35 to $50. The heater will still run without the tube but loses its signature pyramid flame effect and the flame becomes exposed to wind. Order a spare when you buy the heater rather than scrambling after a tip-over."
+  - question: "Is the Hiland heater better for standing gatherings or seated dinner parties?"
+    answer: "It performs better for standing, cocktail-style gatherings where people move around. The column heat pattern warms the space in a radius from the unit, which means standing guests get warmth on their faces and upper bodies. Seated guests at a table — particularly their feet — are better served by a mushroom-style overhead heater that distributes heat downward from above."
+  - question: "Is this heater safe for a covered pergola?"
+    answer: "Only with adequate clearance and ventilation. Propane combustion produces carbon monoxide, so fully enclosed spaces are not appropriate. A pergola with open sides and at least 8 to 10 feet of clearance above the burner head is generally workable, but confirm airflow before use. For a fixed, fully covered outdoor space, an electric or wall-mounted heater is a safer design choice."
 ---
 
 Most patio heaters disappear into the background. They're functional, forgettable, and about as interesting to look at as a parking lot lamppost. The [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is not that. It makes a case for itself on looks before it even ignites, and then the flame column comes on and your guests stop talking for a second. That's a real thing that happens.
@@ -118,77 +129,4 @@ For anyone building out a full outdoor heat and fire setup, the broader [outdoor
 
 ,
 
-## Frequently Asked Questions
-
-### How long will a 20 lb propane tank last on the Hiland pyramid heater?
-
-At full 40,000 BTU output, a standard 20 lb tank runs roughly 8 to 10 hours. Running at medium heat extends that to 12 or more hours. Most people don't run these at full blast for an entire session, so plan on 10 to 14 hours of real-world use per tank depending on your settings and ambient temperature.
-
-![Bromic Patio Heater](/images/articles/fire-and-heat-8.jpg)
-
-
-### Can I use this heater on a wood deck?
-
-Yes, with normal precautions. The base is wide enough that tip-over risk is low on a level surface, and the flame is enclosed in the glass tube rather than open like a fire pit. Keep it away from overhanging fabric, umbrellas, and low deck awnings. The CSA certification applies to outdoor use including decks. Check your deck material and any HOA restrictions before use.
-
-### What happens if the glass tube breaks?
-
-Replacement quartz glass tubes for this model are available on Amazon for roughly $35 to $50. The heater will function without the tube but loses the pyramid flame visual effect and exposes the flame to wind. Order a replacement before you need it rather than after.
-
-### Is the Hiland pyramid heater suitable for covered patios or pergolas?
-
-Only with adequate clearance. Propane combustion produces carbon monoxide and requires ventilation. Fully enclosed spaces are not appropriate. A pergola with open sides and at least 8 to 10 feet of clearance above the heater head is generally workable, but verify airflow before use. For fixed, covered outdoor spaces, an electric or wall-mounted heater is a safer design choice.
-
-### How difficult is assembly?
-
-Assembly takes most people 30 to 45 minutes with two people, or closer to an hour solo. The base, pole sections, and burner head connect with hardware included in the box. Instructions are adequate but not detailed. The pole sections are heavy enough that a second person makes getting the upper sections aligned easier. No special tools required beyond a wrench.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long will a 20 lb propane tank last on the Hiland pyramid heater?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At full 40,000 BTU output, a standard 20 lb tank runs roughly 8 to 10 hours. Running at medium heat extends that to 12 or more hours. Most people don't run these at full blast for an entire session, so plan on 10 to 14 hours of real-world use per tank depending on your settings and ambient temperature."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use this heater on a wood deck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with normal precautions. The base is wide enough that tip-over risk is low on a level surface, and the flame is enclosed in the glass tube rather than open like a fire pit. Keep it away from overhanging fabric, umbrellas, and low deck awnings. The CSA certification applies to outdoor use including decks. Check your deck material and any HOA restrictions before use."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What happens if the glass tube breaks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Replacement quartz glass tubes for this model are available on Amazon for roughly $35 to $50. The heater will function without the tube but loses the pyramid flame visual effect and exposes the flame to wind. Order a replacement before you need it rather than after."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Hiland pyramid heater suitable for covered patios or pergolas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Only with adequate clearance. Propane combustion produces carbon monoxide and requires ventilation. Fully enclosed spaces are not appropriate. A pergola with open sides and at least 8 to 10 feet of clearance above the heater head is generally workable, but verify airflow before use. For fixed, covered outdoor spaces, an electric or wall-mounted heater is a safer design choice."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How difficult is assembly?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assembly takes most people 30 to 45 minutes with two people, or closer to an hour solo. The base, pole sections, and burner head connect with hardware included in the box. Instructions are adequate but not detailed. The pole sections are heavy enough that a second person makes getting the upper sections aligned easier. No special tools required beyond a wrench."
-      }
-    }
-  ]
-}
-</script>
 

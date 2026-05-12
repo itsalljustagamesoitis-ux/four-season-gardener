@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does POLYWOOD compare to real teak for an outdoor dining set?"
+    answer: "Real teak has genuine grain, significant weight, and excellent durability when maintained, but it requires annual oiling to retain its color and prevent cracking. POLYWOOD is HDPE lumber made from recycled plastic — no maintenance beyond soap and water, no seasonal storage required. Real teak for a comparable 7-piece set runs notably higher than POLYWOOD. The trade-off is material character versus a completely hands-off ownership experience."
+  - question: "Can I leave a composite HDPE dining set outside through winter?"
+    answer: "Yes. HDPE lumber is engineered for year-round outdoor exposure and will not rot, absorb moisture, or crack through freeze-thaw cycles. No tarps, no storage, no treatment required before or after winter. The teak color finish holds better through cold and UV exposure than lighter POLYWOOD colorways, so if you're on a sun-exposed patio the teak finish is the safer choice."
+  - question: "Does the POLYWOOD teak color actually look like real wood?"
+    answer: "At a normal viewing distance, yes — most people won't distinguish it from stained wood furniture at six feet or more. Up close, the molded grain lines and uniform texture read as plastic to anyone who has handled real wood. Photographically it holds up well. If you regularly have guests who will be standing next to the furniture, manage expectations, but for practical outdoor dining use the approximation is convincing."
+  - question: "How heavy is this set and does that matter?"
+    answer: "The table runs around 98 pounds and each chair around 18 to 20 pounds. Two people are required to position the table. The weight is what makes the set stable in wind — chairs don't tip over in summer storms the way aluminum alternatives can — but it's a real constraint if you like to rearrange your outdoor space seasonally or need to store furniture. Place it once and plan to leave it."
+  - question: "What cushions fit the POLYWOOD Nautical chairs?"
+    answer: "POLYWOOD sells a cushion line designed for their chair profiles, available separately. Standard 2-inch seat pads cut to approximately 17 by 17 inches also fit reasonably well and give you more fabric options. For back cushions, POLYWOOD's own fit cleanly. Third-party options require checking dimensions against the chair back opening before ordering, as the fit is specific enough that guessing creates return hassles."
 ---
 
 If you've been shopping for a composite outdoor dining set for more than twenty minutes, you already know the problem. The cheap end is full of sets that look reasonable in the photos and turn green by August. The expensive end is real teak, which is beautiful and requires more seasonal attention than some people give their cars. There's a narrower category in the middle , HDPE lumber furniture, sometimes called poly lumber , that doesn't get talked about enough, probably because it photographs less dramatically than teak and costs more than the big-box resin sets people buy without thinking too hard.
@@ -103,77 +114,4 @@ Don't buy it if you need portability, you're planning to store furniture seasona
 
 If you're still working through what category of outdoor furniture suits your situation, the full [outdoor furniture buying guide](/outdoor-furniture/) on this site is a useful starting point before spending this kind of money.
 
-## Frequently Asked Questions
-
-### How does POLYWOOD compare to real teak for an outdoor dining set?
-
-Real teak is a natural hardwood with genuine grain, significant weight, and excellent durability when properly maintained. It requires annual oiling to retain its color and prevent surface cracking. POLYWOOD is HDPE lumber made from recycled plastic, designed to replicate the appearance of wood without any maintenance requirement. At a comparable 7-piece dining set size, real teak typically runs $3,000 to $8,000 from quality suppliers. POLYWOOD's Nautical Trestle set currently runs around $2,200 to $2,500. The trade-off is material character versus maintenance-free ownership.
-
-![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-1.jpg)
-
-
-### Can I leave the POLYWOOD Nautical Trestle set outside in winter?
-
-Yes. HDPE lumber is specifically engineered for year-round outdoor exposure. It won't rot, absorb moisture, or crack in freeze-thaw conditions. No tarps, no storage, no treatment required before or after winter. The teak color finish holds without fading or chalking in cold weather better than lighter POLYWOOD colorways in comparable conditions.
-
-### Does the POLYWOOD teak color look realistic?
-
-At a normal viewing distance, yes. The molded-in texture and teak color approximate natural wood well enough that most people won't distinguish it from stained wood furniture at six feet. Up close, the molded grain lines and uniform plastic texture are apparent to anyone who's handled real wood. If you regularly entertain guests who will be looking closely at your furniture, manage expectations accordingly. Photographically, it reads well.
-
-### What cushions work with the POLYWOOD Nautical chairs?
-
-POLYWOOD makes a cushion line designed for their chair profiles, sold separately, currently around $40 to $60 per chair cushion depending on color and fabric. Standard 2-inch seat pads cut to approximately 17 x 17 inches also fit reasonably well and give you more fabric options. For back cushions, POLYWOOD's own cushions fit cleanly. Third-party options require checking dimensions against the chair back opening, which on the Nautical style is approximately 16 inches wide.
-
-### How heavy is the POLYWOOD Nautical Trestle 7-Piece set?
-
-The table weighs approximately 98 pounds. Each chair runs around 18 to 20 pounds. The full 7-piece set ships in multiple boxes totaling around 220 pounds. Two people are required to position the table. The chairs are manageable solo but noticeably heavier than aluminum alternatives. If you're planning to store the set seasonally or move it regularly across your property, the weight is a real consideration, not a minor one.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does POLYWOOD compare to real teak for an outdoor dining set?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Real teak is a natural hardwood with genuine grain, significant weight, and excellent durability when properly maintained. It requires annual oiling to retain its color and prevent surface cracking. POLYWOOD is HDPE lumber made from recycled plastic, designed to replicate the appearance of wood without any maintenance requirement. At a comparable 7-piece dining set size, real teak typically runs $3,000 to $8,000 from quality suppliers. POLYWOOD's Nautical Trestle set currently runs around $2,200 to $2,500. The trade-off is material character versus maintenance-free ownership."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I leave the POLYWOOD Nautical Trestle set outside in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. HDPE lumber is specifically engineered for year-round outdoor exposure. It won't rot, absorb moisture, or crack in freeze-thaw conditions. No tarps, no storage, no treatment required before or after winter. The teak color finish holds without fading or chalking in cold weather better than lighter POLYWOOD colorways in comparable conditions."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the POLYWOOD teak color look realistic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At a normal viewing distance, yes. The molded-in texture and teak color approximate natural wood well enough that most people won't distinguish it from stained wood furniture at six feet. Up close, the molded grain lines and uniform plastic texture are apparent to anyone who's handled real wood. If you regularly entertain guests who will be looking closely at your furniture, manage expectations accordingly. Photographically, it reads well."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What cushions work with the POLYWOOD Nautical chairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "POLYWOOD makes a cushion line designed for their chair profiles, sold separately, currently around $40 to $60 per chair cushion depending on color and fabric. Standard 2-inch seat pads cut to approximately 17 x 17 inches also fit reasonably well and give you more fabric options. For back cushions, POLYWOOD's own cushions fit cleanly. Third-party options require checking dimensions against the chair back opening, which on the Nautical style is approximately 16 inches wide."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How heavy is the POLYWOOD Nautical Trestle 7-Piece set?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The table weighs approximately 98 pounds. Each chair runs around 18 to 20 pounds. The full 7-piece set ships in multiple boxes totaling around 220 pounds. Two people are required to position the table. The chairs are manageable solo but noticeably heavier than aluminum alternatives. If you're planning to store the set seasonally or move it regularly across your property, the weight is a real consideration, not a minor one."
-      }
-    }
-  ]
-}
-</script>
 

@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the best outdoor sofa material for a wet climate?"
+    answer: "HDPE, the material POLYWOOD uses, is the most straightforward choice for persistently wet conditions. It does not absorb water, won't rust or rot, and needs no seasonal treatment. Grade A teak also performs well in moisture when oiled annually. Avoid unsealed steel frames and wicker over a steel skeleton in wet climates — the skeleton corrodes before the weave shows visible deterioration."
+  - question: "How do I achieve a curved sofa configuration outdoors?"
+    answer: "Most genuine curved outdoor sofas are modular — you build the arc by combining corner, armless, and end pieces rather than buying a single curved unit. The POLYWOOD Edge set works this way, giving you the flexibility to configure an L, a wide C, or a true curve depending on your patio geometry. Single-piece curved loveseats like the Keter Corfu come closest to a true one-piece curved sofa but offer less configurability."
+  - question: "Is the POLYWOOD sectional actually worth the price compared to cheaper sets?"
+    answer: "The math works out over time if you run it honestly. A mid-grade wicker or resin set in the $500 to $800 range typically shows deterioration after two or three hard winters and needs replacing by year four or five. The POLYWOOD carries a 20-year frame warranty and is genuinely maintenance-free. If you're buying for a permanent outdoor room you intend to keep, the POLYWOOD is likely the last time you buy this particular piece."
+  - question: "When should I replace outdoor cushions rather than the whole set?"
+    answer: "If the frame is structurally sound but the cushions have faded or developed mildew, replacing cushions with Sunbrella-grade fabric is almost always the better investment. Sunbrella uses solution-dyed acrylic, meaning the color runs through the fiber rather than sitting on the surface — it holds up for years where polyester blends wash out in one or two seasons. The RSH Decor Sunbrella deep seat cushions are a straightforward upgrade path, but measure your existing cushions carefully before ordering."
+  - question: "How much maintenance does a teak outdoor bench or chair actually need?"
+    answer: "Oiling once every one to two years takes about 20 minutes per piece with a cloth and teak oil. Without treatment, teak weathers to a silver-gray patina that many people actually prefer. The wood is equally protected either way — the oils are about color, not structural protection. If you have multiple teak pieces, keep the maintenance consistent across them or they will age to visibly different colors."
 ---
 
 Curved outdoor sofas sit at a genuinely awkward intersection of furniture categories. They're not quite sectionals, not quite loveseats, and the product listings online don't help , half of what shows up under "outdoor sofa curved" is a straight two-seater photographed at an angle. So this roundup takes a broader approach: the best outdoor seating in curved or modular configurations, plus the cushion upgrade and companion pieces that complete a real setup, not a staged one.
@@ -217,38 +228,4 @@ Measure before you order anything over $500. A six-piece sectional set requires 
 
 For a broader look at how these pieces fit into a complete outdoor living setup, the [Outdoor Furniture](/outdoor-furniture/) hub covers companion tables, accent chairs, and accessory options across the same quality tiers.
 
-## Frequently Asked Questions
-
-### What is the best material for an outdoor curved sofa in a wet climate?
-
-HDPE (high-density polyethylene, as used in POLYWOOD furniture) is the most straightforward answer for wet conditions. It doesn't absorb water, won't rust or rot, and requires no seasonal treatment. Grade A teak is also highly resistant to moisture when maintained, but requires periodic oiling. Avoid unsealed steel frames and wicker over a steel skeleton in persistently wet environments , the skeleton corrodes before the weave shows any visible deterioration.
-
-### How do I maintain the color of teak outdoor furniture?
-
-Apply teak oil or a dedicated teak sealer once every one to two years. Clean the wood with a teak cleaner first, allow it to dry fully, then apply oil with a cloth or brush, let it penetrate, and wipe off the excess. Without treatment, teak we
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best material for an outdoor curved sofa in a wet climate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HDPE (high-density polyethylene, as used in POLYWOOD furniture) is the most straightforward answer for wet conditions. It doesn't absorb water, won't rust or rot, and requires no seasonal treatment. Grade A teak is also highly resistant to moisture when maintained, but requires periodic oiling. Avoid unsealed steel frames and wicker over a steel skeleton in persistently wet environments , the skeleton corrodes before the weave shows any visible deterioration."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I maintain the color of teak outdoor furniture?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Apply teak oil or a dedicated teak sealer once every one to two years. Clean the wood with a teak cleaner first, allow it to dry fully, then apply oil with a cloth or brush, let it penetrate, and wipe off the excess. Without treatment, teak we"
-      }
-    }
-  ]
-}
-</script>
 

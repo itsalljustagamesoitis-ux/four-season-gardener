@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do solar garden lights actually work in winter, or do they give out when the days get short?"
+    answer: "They work, but they perform meaningfully less well. Shorter days reduce charging hours and cold temperatures reduce lithium battery efficiency. A solar spotlight that runs six hours in July may only manage two to three hours on a January night in the northeastern US. If consistent winter illumination is a priority, a hardwired low-voltage system like the VOLT kit is the honest answer — it delivers the same output regardless of weather or season."
+  - question: "What is the difference between IP65 and IP67 on solar lights, and does it matter?"
+    answer: "Both ratings indicate full dust protection and resistance to water from any direction, including rain and sprinklers. The difference is submersion tolerance. IP67 adds survival up to one meter of water for 30 minutes — relevant for fixtures in low beds that flood after heavy rain, beside water features, or under standing snowmelt. For most garden placement, IP65 is sufficient. For anything near pooling water, IP67 is the safer specification."
+  - question: "How long will the batteries in solar garden lights last before I have to replace the fixtures?"
+    answer: "Most solar lights use built-in rechargeable batteries rated for 500 to 1,000 charge cycles before capacity drops significantly. That works out to roughly three to five years of daily use. Non-replaceable batteries, which most budget units have, mean the fixture becomes waste at that point rather than a simple battery swap. It is a real part of the long-term cost calculation that the packaging rarely makes clear."
+  - question: "When does it make more sense to buy hardwired landscape lights instead of solar?"
+    answer: "If the location gets fewer than four to five hours of direct sun per day, if the lighting needs to be completely reliable regardless of weather, or if you're planning a permanent installation you won't want to revisit in five years, a low-voltage hardwired system is worth the additional cost. Solar has real advantages in flexibility and installation simplicity, but it cannot match a hardwired system for consistency or longevity. The VOLT brass kit in this roundup is the honest answer for permanent landscape lighting."
+  - question: "Do I need to place the solar panel and the light fixture in the same spot?"
+    answer: "It depends on the design. Separate-panel spotlights like the LITOM let you angle the panel toward peak sun while placing the fixture wherever you want it — a significant advantage in gardens with tree coverage or shading. Integrated designs like the Mr Beams Wedge Plus are simpler to install but require the wall itself to receive direct sun. This is the variable most buyers overlook, and it is often why solar lights underperform even when everything else looks right."
 ---
 
 Solar lights have gotten meaningfully better over the past five years, and the market has gotten harder to read as a result. There are now hundreds of options between $15 and $300, most of them making the same claims about lumens and weatherproofing, and maybe a third of them delivering on those claims once November arrives and the days get short.
@@ -171,77 +182,4 @@ If the location you're lighting gets fewer than four to five hours of direct sun
 
 Every solar light has a built-in rechargeable battery that will degrade over time. Most are rated for 500 to 1,000 charge cycles before capacity drops significantly, which translates to roughly three to five years of daily cycling. Non-replaceable batteries mean the fixture becomes waste at that point. Some higher-end solar lights have user-replaceable batteries. For budget fixtures under $50, the expected replacement cycle is built into the economics.
 
-## Frequently Asked Questions
-
-### How long do solar garden lights stay on at night?
-
-Runtime depends on the battery capacity, the operating mode, and how much sun the panel received during the day. In motion-only mode, most solar spotlights can run through six to eight hours of intermittent triggers after a full charge day. In continuous-bright mode, runtime drops to two to four hours for most budget units. Continuous-dim mode extends that. After a cloudy day, expect roughly half the rated runtime, sometimes less.
-
-![Best Solar Lights For The Garden](/images/articles/lighting-4.jpg)
-
-
-### Do solar garden lights work in winter?
-
-They work, but they perform less well. Shorter days mean fewer charging hours, and cold temperatures reduce lithium battery efficiency. A solar spotlight that runs reliably for six hours in July may only manage two to three hours on a January night in the northeastern US. If consistent winter illumination is a priority, a hardwired low-voltage system like the VOLT kit handles this without any weather dependency.
-
-### What is the difference between IP65 and IP67 solar lights?
-
-Both ratings indicate full protection against dust ingress and against water projected from any direction. The difference is submersion tolerance. IP65 covers rain, splashing, and water jets. IP67 adds the ability to survive brief submersion up to one meter deep. For most garden placement, IP65 is sufficient. For fixtures installed in low beds, beside water features, or in areas prone to pooling after heavy rain, IP67 is the safer specification.
-
-### Can solar lights charge on cloudy days?
-
-Yes, but at significantly reduced rates. Solar panels respond to daylight, not direct sun, so they continue to collect energy through cloud cover. The practical reduction is substantial, typically 70 to 90% less energy gathered on a heavily overcast day compared to full sun. A week of overcast weather will deplete the battery in lights running nightly. For occasional cloudy days, most solar lights built on a good charging day will still run adequately the following night.
-
-### Are solar garden lights worth it compared to hardwired lights?
-
-For flexible placement, simple installation, and decorative or supplemental use, solar lights are worth the money. For permanent landscape lighting in high-visibility or security-critical locations, a hardwired low-voltage system delivers more consistent output with no battery degradation and no weather dependency. The [solar globe lights for garden](/solar-globe-lights-for-garden/) article covers the decorative solar category in more detail if that's the direction you're heading. The honest answer is that the right choice depends on what you're asking the lights to do and how long you need them to do it reliably.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do solar garden lights stay on at night?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Runtime depends on the battery capacity, the operating mode, and how much sun the panel received during the day. In motion-only mode, most solar spotlights can run through six to eight hours of intermittent triggers after a full charge day. In continuous-bright mode, runtime drops to two to four hours for most budget units. Continuous-dim mode extends that. After a cloudy day, expect roughly half the rated runtime, sometimes less."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do solar garden lights work in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They work, but they perform less well. Shorter days mean fewer charging hours, and cold temperatures reduce lithium battery efficiency. A solar spotlight that runs reliably for six hours in July may only manage two to three hours on a January night in the northeastern US. If consistent winter illumination is a priority, a hardwired low-voltage system like the VOLT kit handles this without any weather dependency."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between IP65 and IP67 solar lights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both ratings indicate full protection against dust ingress and against water projected from any direction. The difference is submersion tolerance. IP65 covers rain, splashing, and water jets. IP67 adds the ability to survive brief submersion up to one meter deep. For most garden placement, IP65 is sufficient. For fixtures installed in low beds, beside water features, or in areas prone to pooling after heavy rain, IP67 is the safer specification."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can solar lights charge on cloudy days?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but at significantly reduced rates. Solar panels respond to daylight, not direct sun, so they continue to collect energy through cloud cover. The practical reduction is substantial, typically 70 to 90% less energy gathered on a heavily overcast day compared to full sun. A week of overcast weather will deplete the battery in lights running nightly. For occasional cloudy days, most solar lights built on a good charging day will still run adequately the following night."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are solar garden lights worth it compared to hardwired lights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For flexible placement, simple installation, and decorative or supplemental use, solar lights are worth the money. For permanent landscape lighting in high-visibility or security-critical locations, a hardwired low-voltage system delivers more consistent output with no battery degradation and no weather dependency. The [solar globe lights for garden](/solar-globe-lights-for-garden/) article covers the decorative solar category in more detail if that's the direction you're heading. The honest answer is that the right choice depends on what you're asking the lights to do and how long you need them to do it reliably."
-      }
-    }
-  ]
-}
-</script>
 

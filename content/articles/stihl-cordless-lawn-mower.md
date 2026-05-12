@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Stihl make a cordless lawn mower in the US?"
+    answer: "No. As of this writing Stihl does not sell a battery-powered push or self-propelled lawn mower in the U.S. market. Their cordless lineup here covers handheld and backpack tools on the AP and AK battery platforms but stops well short of a full-size mower. That gap is real and it is why people searching for a Stihl cordless mower keep landing on alternatives like the EGO LM2135SP."
+  - question: "What is the real-world battery life on the EGO LM2135SP, not the marketing number?"
+    answer: "On dry grass at a moderate pace you can count on 45 to 55 minutes from the 7.5Ah battery. EGO's 60-minute claim is achievable under close to ideal conditions but is not what you should plan your mowing session around. Wet or thick grass pulls that figure toward the lower end. A second battery or a mid-session charge break is worth thinking about if you have more than three-quarters of an acre to cover."
+  - question: "Is the EGO LM2135SP loud enough to bother the neighbors?"
+    answer: "At the operator position I measured roughly 82 dB at full load, compared to 94 to 96 dB for the gas mowers I ran previously. That is a meaningful difference — enough that mowing early on a weekday became a non-issue for my neighbors. Whether that matters to you depends on your lot size and proximity to other houses, but the noise reduction over gas is real, not marginal."
+  - question: "Do I need to buy the battery separately, or does it come with the mower?"
+    answer: "The tool-only version does not include a battery or charger. The kit version includes the 7.5Ah battery and rapid charger. If you do not already own EGO 56V batteries, buy the kit — the tool-only listing looks cheaper but the math does not work out that way once you price the battery and charger separately."
+  - question: "How does the EGO 56V battery ecosystem compare to Stihl's cordless platform?"
+    answer: "For mowing specifically, EGO's 56V platform is the more developed option because Stihl does not make a U.S. cordless mower at all. For handheld tools, Stihl's AP and AK systems are strong. If your priority is a single battery family that runs both a mower and your other yard tools, EGO's 56V lineup — covering blowers, trimmers, hedge trimmers, and chainsaws — is the more complete ecosystem for that use case right now."
 ---
 
 The article brief calls this a "Stihl cordless lawn mower" review, which requires a quick clarification before anything else: Stihl does not currently sell a dedicated cordless push or self-propelled lawn mower in the U.S. market. They make battery-powered handheld and backpack tools, and their cordless line has expanded considerably in recent years, but a Stihl battery lawn mower is not available through U.S. dealers or online retail at the time of writing. If you've been searching that phrase and landing on confusing results, that's why.
@@ -121,77 +132,4 @@ If you're comparing within Stihl's cordless lineup for other yard tasks, the [St
 
 For anyone building out a full cordless yard equipment setup, I'd also point you toward our [cordless tools coverage](/battery-equipment/) more broadly, which covers blowers, trimmers, and handheld equipment alongside mowers.
 
-## Frequently Asked Questions
-
-### Does Stihl make a cordless lawn mower?
-
-Not for the U.S. market at this time. Stihl's cordless lineup in the U.S. includes handheld and backpack tools on their AP and AK battery platforms, but does not include a self-propelled or push battery lawn mower. This may change, but as of this writing, it hasn't. The EGO LM2135SP is the most direct alternative for buyers who were hoping to stay within the Stihl ecosystem for mowing.
-
-![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-3.jpg)
-
-
-### How long does the EGO LM2135SP battery last on a single charge?
-
-EGO rates it at up to 60 minutes on the 7.5Ah battery. In real conditions, expect 45 to 55 minutes depending on grass height, moisture, and terrain. Wet, dense grass will pull that toward the lower end. Dry, even grass on flat ground gets you closer to the advertised figure.
-
-### Is the battery included with the EGO LM2135SP?
-
-The tool-only version, currently around $449 on Amazon, does not include a battery or charger. The kit version at approximately $649 includes the 7.5Ah battery and the rapid charger. If you don't already own EGO 56V batteries, buy the kit.
-
-### Can the EGO LM2135SP handle a hilly lawn?
-
-Yes, within reason. The Touch Drive self-propel system handles moderate grades without straining. On steeper slopes above roughly 20 degrees, the 68-lb weight becomes a factor, particularly when mowing across a slope rather than straight up or down. For very steep terrain, a self-propelled gas mower with rear-wheel drive would be more appropriate.
-
-### Is the EGO 56V battery compatible with other EGO tools?
-
-Yes. The 56V ARC Lithium battery is cross-compatible across EGO's full 56V lineup, which includes blowers, string trimmers, hedge trimmers, chainsaws, and more. This is the central practical argument for committing to the EGO platform rather than buying individual cordless tools from different brands.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does Stihl make a cordless lawn mower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not for the U.S. market at this time. Stihl's cordless lineup in the U.S. includes handheld and backpack tools on their AP and AK battery platforms, but does not include a self-propelled or push battery lawn mower. This may change, but as of this writing, it hasn't. The EGO LM2135SP is the most direct alternative for buyers who were hoping to stay within the Stihl ecosystem for mowing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does the EGO LM2135SP battery last on a single charge?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "EGO rates it at up to 60 minutes on the 7.5Ah battery. In real conditions, expect 45 to 55 minutes depending on grass height, moisture, and terrain. Wet, dense grass will pull that toward the lower end. Dry, even grass on flat ground gets you closer to the advertised figure."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the battery included with the EGO LM2135SP?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The tool-only version, currently around $449 on Amazon, does not include a battery or charger. The kit version at approximately $649 includes the 7.5Ah battery and the rapid charger. If you don't already own EGO 56V batteries, buy the kit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the EGO LM2135SP handle a hilly lawn?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, within reason. The Touch Drive self-propel system handles moderate grades without straining. On steeper slopes above roughly 20 degrees, the 68-lb weight becomes a factor, particularly when mowing across a slope rather than straight up or down. For very steep terrain, a self-propelled gas mower with rear-wheel drive would be more appropriate."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the EGO 56V battery compatible with other EGO tools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The 56V ARC Lithium battery is cross-compatible across EGO's full 56V lineup, which includes blowers, string trimmers, hedge trimmers, chainsaws, and more. This is the central practical argument for committing to the EGO platform rather than buying individual cordless tools from different brands."
-      }
-    }
-  ]
-}
-</script>
 

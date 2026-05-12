@@ -32,6 +32,17 @@ product_a: "polywood-nautical-adirondack-chair"
 product_b: "titan-grade-a-teak-adirondack-chair"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What makes a large Adirondack chair different from a standard size?"
+    answer: "Large Adirondack chairs typically have seat widths of 29 inches or more, compared to 23 to 25 inches for standard models. Both chairs reviewed here fall into the large category. The wider armrests and deeper seat make them better for extended sitting, but they take up meaningfully more porch space. Measure your intended footprint before buying."
+  - question: "Is Grade A teak really worth the extra cost over lower teak grades?"
+    answer: "For outdoor furniture exposed to moisture, freeze-thaw cycles, and full sun, yes. Grade A teak comes from heartwood-only cuts of mature trees and has the highest natural oil content, which is what drives rot resistance and longevity without chemical treatment. Lower-grade teak can still perform well but requires more frequent maintenance and is more vulnerable to cracking in hard winters. If you are spending serious money on a teak chair, Grade A material is not where to cut the cost."
+  - question: "Can I leave a POLYWOOD or teak Adirondack chair outside year-round?"
+    answer: "The POLYWOOD Nautical Curveback is explicitly designed for year-round outdoor use and needs no winter storage. The Ash and Ember Grade A teak can also stay out year-round in temperate climates without structural damage, but if you want to keep the golden brown color rather than letting it silver, oil it every one to two years. If the silver patina is acceptable to you, it can remain outside without treatment."
+  - question: "How does POLYWOOD hold up compared to teak in extreme cold?"
+    answer: "HDPE lumber does not absorb water, so freeze-thaw cycles do not crack it the way they can crack wood. POLYWOOD is designed for year-round outdoor exposure in most climates. Teak is also cold-hardy, but wood moves with temperature changes, and repeated freeze-thaw without adequate oil content will eventually cause checking, especially in Grade B or C material. Grade A teak is considerably more resistant to this than lower grades."
+  - question: "Which chair is the better value for someone who wants to buy once and be done with it?"
+    answer: "The POLYWOOD Nautical Curveback is the stronger practical choice for most buyers. It costs less upfront than the Grade A teak, requires no maintenance, and will not surprise you with a degraded finish after one missed year of oiling. The Ash and Ember teak is the right chair if you specifically want real wood and will actually oil it on schedule. That is a smaller group of buyers than the marketing for teak furniture tends to assume."
 ---
 
 There are two chairs worth serious consideration if you're looking for a large Adirondack chair that will hold up beyond a single season. The [POLYWOOD Nautical Curveback Adirondack Chair](product:polywood-nautical-adirondack-chair) currently runs around $350 to $400 on Amazon depending on color, and the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) sits closer to $450 to $500. Both are large-format chairs. Both are built for actual outdoor use rather than three seasons of optimistic neglect followed by a trip to the curb. The question is what you want to manage, and what you want to look at.
@@ -114,77 +125,4 @@ If I'm being direct: the POLYWOOD Nautical Curveback is the better practical cho
 
 Both chairs are covered in our [outdoor furniture](/outdoor-furniture/) guides if you want to see how they compare across broader seating categories. If a loveseat configuration is on your shortlist, the [loveseat Adirondack chair](/loveseat-adirondack-chair/) review covers options in the same quality tier.
 
-## Frequently Asked Questions
-
-### What makes a "large" Adirondack chair different from a standard one?
-
-Large Adirondack chairs typically have seat widths of 29 inches or more, compared to 23 to 25 inches for standard models. Both chairs reviewed here fall into the large category. The wider armrests and deeper seat dimensions make them more comfortable for extended sitting but also mean they take up more porch or patio space. Measure your intended footprint before buying.
-
-### Is Grade A teak really worth the extra cost over other teak grades?
-
-For outdoor furniture that will be exposed to moisture, freeze-thaw cycles, and full sun, yes. Grade A teak's higher natural oil content is what drives its rot resistance and longevity. Lower-grade teak chairs can still perform well, but they require more frequent maintenance and are more vulnerable to cracking in cold winters. If you're spending $400 or more on a teak chair, buying Grade A material is not where to cut the cost.
-
-![Large Adirondack Chair](/images/articles/outdoor-furniture-3.jpg)
-
-
-### How does POLYWOOD compare to wood in extreme cold?
-
-HDPE lumber is not affected by freeze-thaw cycles the way wood is. It doesn't absorb water, so it doesn't crack when water expands on freezing. POLYWOOD recommends their chairs can remain outdoors year-round in most climates. Teak is also cold-hardy, but wood does move with temperature changes, and repeated freeze-thaw cycles without adequate sealing will eventually cause checking in lower-grade material. Grade A teak is more resistant to this than Grade B or C.
-
-### Can I leave either of these chairs out year-round?
-
-The POLYWOOD Nautical Curveback is explicitly designed for year-round outdoor use and requires no winter storage. The Ash & Ember teak chair can also be left out year-round in temperate climates, but if you want to retain the golden brown color rather than letting it silver, bring it into a dry space or cover it over winter. If you're happy with the silver patina, it can stay out without damage to the structure.
-
-### What cushion options work with large Adirondack chairs?
-
-Standard Adirondack cushions fit most large-format chairs, but contoured chairs like the POLYWOOD Nautical Curveback may not accommodate flat-profile cushions well due to the curved slat geometry. Look for cushions designed specifically for Adirondack chairs rather than generic outdoor seat pads. Sunbrella fabric is worth the price in an outdoor cushion context because it resists UV fading and dries quickly. We've covered the best options in our [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) guide.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes a \"large\" Adirondack chair different from a standard one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Large Adirondack chairs typically have seat widths of 29 inches or more, compared to 23 to 25 inches for standard models. Both chairs reviewed here fall into the large category. The wider armrests and deeper seat dimensions make them more comfortable for extended sitting but also mean they take up more porch or patio space. Measure your intended footprint before buying."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Grade A teak really worth the extra cost over other teak grades?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For outdoor furniture that will be exposed to moisture, freeze-thaw cycles, and full sun, yes. Grade A teak's higher natural oil content is what drives its rot resistance and longevity. Lower-grade teak chairs can still perform well, but they require more frequent maintenance and are more vulnerable to cracking in cold winters. If you're spending $400 or more on a teak chair, buying Grade A material is not where to cut the cost."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does POLYWOOD compare to wood in extreme cold?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "HDPE lumber is not affected by freeze-thaw cycles the way wood is. It doesn't absorb water, so it doesn't crack when water expands on freezing. POLYWOOD recommends their chairs can remain outdoors year-round in most climates. Teak is also cold-hardy, but wood does move with temperature changes, and repeated freeze-thaw cycles without adequate sealing will eventually cause checking in lower-grade material. Grade A teak is more resistant to this than Grade B or C."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I leave either of these chairs out year-round?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The POLYWOOD Nautical Curveback is explicitly designed for year-round outdoor use and requires no winter storage. The Ash & Ember teak chair can also be left out year-round in temperate climates, but if you want to retain the golden brown color rather than letting it silver, bring it into a dry space or cover it over winter. If you're happy with the silver patina, it can stay out without damage to the structure."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What cushion options work with large Adirondack chairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standard Adirondack cushions fit most large-format chairs, but contoured chairs like the POLYWOOD Nautical Curveback may not accommodate flat-profile cushions well due to the curved slat geometry. Look for cushions designed specifically for Adirondack chairs rather than generic outdoor seat pads. Sunbrella fabric is worth the price in an outdoor cushion context because it resists UV fading and dries quickly. We've covered the best options in our [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) guide."
-      }
-    }
-  ]
-}
-</script>
 

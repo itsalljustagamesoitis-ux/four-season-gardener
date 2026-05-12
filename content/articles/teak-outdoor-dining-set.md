@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is POLYWOOD worth the price compared to a real teak dining set?"
+    answer: "For most buyers, yes. A quality real teak dining set for six runs from around $3,000 on the low end to $8,000 or more for reputable brands, and it requires annual oiling to maintain its color. The POLYWOOD Nautical set runs around $2,800 to $3,200 and requires soap and water once a year. The 20-year warranty changes the math significantly. The only honest argument for real teak over POLYWOOD is if natural material matters to you on principle beyond economics."
+  - question: "Does POLYWOOD furniture need to be covered or stored in winter?"
+    answer: "No. POLYWOOD HDPE is rated for year-round outdoor exposure including snow, ice, and freeze-thaw cycles. After two full winters left outside without covers, the set showed no warping, surface lift, or color shift. Covering it for aesthetic reasons is fine but not required. This is the core practical advantage over real teak, which grays and checks if left untreated through a winter."
+  - question: "How close does the POLYWOOD teak color actually look to real teak wood?"
+    answer: "At normal conversational distances of four to five feet, most people will not distinguish it from wood. The color is a warm medium brown that holds without oiling. Up close with a hand on the surface, the texture difference is obvious. Whether that matters depends on your outdoor setting. In a garden dining context where people are sitting and eating rather than examining furniture, it reads as wood."
+  - question: "Is the 73-inch table actually big enough for six adults?"
+    answer: "Yes, and it is meaningfully more comfortable than the 60-inch tables most 7-piece outdoor sets ship with. At 73 inches there is actual room between place settings. The set is designed for six and functions correctly at that number. It will not comfortably seat eight regardless of how you arrange it."
+  - question: "How heavy is this set, and is that a real problem?"
+    answer: "The table weighs approximately 85 pounds, which makes it a two-person job to move. The chairs are around 18 pounds each and move easily. If you rearrange your outdoor space seasonally or need to shift furniture for large events, the table weight is a genuine limitation. Two years in, the table has moved twice, and both times it required planning and a second person. Treat it as a permanent installation and the weight stops being a problem."
 ---
 
 If you've spent any time researching outdoor dining furniture, you already know the basic problem: real teak is beautiful and lasts decades, but a quality teak outdoor dining set for six will run you $3,000 on the low end and closer to $8,000 for anything from a reputable maker. You can find cheaper options in the [Outdoor Furniture](/outdoor-furniture/) category, but most of them are aluminum sets dressed up with wood accents, or entry-level teak that's thin, dry, and will need replacing in five years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) is neither of those things. It's a serious piece of outdoor furniture that makes a specific argument: pay once, maintain nothing, regret nothing. Whether that argument holds up is what this review is about.
@@ -109,79 +120,4 @@ The set is also worth considering if you've been looking at supplemental seating
 
 For anyone building out a longer-term outdoor living space, the full picture on furniture categories and materials is covered in the site's [Outdoor Furniture](/outdoor-furniture/) section, which is a useful starting point if this is one of several decisions you're working through.
 
-,
-
-## Frequently Asked Questions
-
-### Is POLYWOOD actually worth the price compared to real teak?
-
-For most buyers, yes. A comparable real teak dining set from a quality manufacturer runs $3,000 to $8,000 and requires annual oiling to maintain its color. The POLYWOOD Nautical set runs around $2,800 to $3,200 at the time of writing and requires soap and water once a year. Over a 10-year ownership window, the economics are clear. The only real argument for real teak over POLYWOOD is if the natural material is important to you beyond aesthetics.
-
-![Teak Outdoor Dining Set](/images/articles/outdoor-furniture-7.jpg)
-
-
-### Can the POLYWOOD Nautical table seat more than six people?
-
-The set is designed for six. The 73-inch table could physically accommodate a seventh chair at one end in a pinch, but POLYWOOD doesn't sell a matching armchair or bench to complete that configuration in this collection. For regular gatherings of eight or more, this isn't the right table size regardless of brand.
-
-### Does POLYWOOD furniture need to be covered or stored in winter?
-
-No. POLYWOOD's HDPE material is rated for year-round outdoor exposure including snow, ice, and freeze-thaw conditions. I've left this set outside through two full winters without covers and without any visible degradation. If you want to cover it for aesthetic reasons, that's fine, but it's not required.
-
-### How does POLYWOOD teak color compare to real teak wood?
-
-At normal viewing and conversational distances, the color match is close. Real teak is warm honey-brown with visible grain. POLYWOOD's teak color is a similar warm medium brown, molded into the material. The grain simulation is subtle, not photorealistic. From 4 to 5 feet away, most people won't distinguish it from wood. Up close with hands on the surface, the texture difference is obvious. Whether that matters depends entirely on how you use your outdoor dining space.
-
-### Is assembly difficult on the POLYWOOD Nautical 7-Piece Set?
-
-Assembly is manageable for one person but easier with two, primarily because of the table weight. The instructions are straightforward, all hardware is included, and the joinery is pre-cut. Expect 60 to 90 minutes for the full set on first assembly. The main challenge is lifting and positioning the table components, not the mechanical assembly itself.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is POLYWOOD actually worth the price compared to real teak?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most buyers, yes. A comparable real teak dining set from a quality manufacturer runs $3,000 to $8,000 and requires annual oiling to maintain its color. The POLYWOOD Nautical set runs around $2,800 to $3,200 at the time of writing and requires soap and water once a year. Over a 10-year ownership window, the economics are clear. The only real argument for real teak over POLYWOOD is if the natural material is important to you beyond aesthetics."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the POLYWOOD Nautical table seat more than six people?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The set is designed for six. The 73-inch table could physically accommodate a seventh chair at one end in a pinch, but POLYWOOD doesn't sell a matching armchair or bench to complete that configuration in this collection. For regular gatherings of eight or more, this isn't the right table size regardless of brand."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does POLYWOOD furniture need to be covered or stored in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. POLYWOOD's HDPE material is rated for year-round outdoor exposure including snow, ice, and freeze-thaw conditions. I've left this set outside through two full winters without covers and without any visible degradation. If you want to cover it for aesthetic reasons, that's fine, but it's not required."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does POLYWOOD teak color compare to real teak wood?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At normal viewing and conversational distances, the color match is close. Real teak is warm honey-brown with visible grain. POLYWOOD's teak color is a similar warm medium brown, molded into the material. The grain simulation is subtle, not photorealistic. From 4 to 5 feet away, most people won't distinguish it from wood. Up close with hands on the surface, the texture difference is obvious. Whether that matters depends entirely on how you use your outdoor dining space."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is assembly difficult on the POLYWOOD Nautical 7-Piece Set?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Assembly is manageable for one person but easier with two, primarily because of the table weight. The instructions are straightforward, all hardware is included, and the joinery is pre-cut. Expect 60 to 90 minutes for the full set on first assembly. The main challenge is lifting and positioning the table components, not the mechanical assembly itself."
-      }
-    }
-  ]
-}
-</script>
 

@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many lumens do I actually need for an outdoor security light?"
+    answer: "For motion-activated coverage over a standard driveway or entry area, 300 to 500 lumens is the practical range. The Mr Beams unit at 410 lumens handles a single-car garage entrance or front path without issue. If you need to identify a person at distance across a large parking area or property perimeter, you're looking at 800 to 1500 lumens, which moves you into commercial-grade fixtures beyond this list."
+  - question: "Will solar security lights keep working through winter, or do they give out when the days get short?"
+    answer: "They work, but output and duration decrease as charging hours shorten. The Mr Beams and LITOM units will still trigger on motion in winter, but brightness and cycle duration in December and January will be noticeably less than in June. If consistent output regardless of season is the requirement, the LEONLITE hardwired option removes the weather variable entirely — it is exactly as bright in February as it was in June."
+  - question: "Do I need to hire an electrician to install a hardwired security light?"
+    answer: "If you already have an outdoor junction box with a weatherproof cover, most capable homeowners can swap or install a hardwired fixture themselves. If no outdoor junction box exists, running new electrical service from your panel requires a licensed electrician in most jurisdictions. Factor that cost into the total price before you compare the LEONLITE against a solar option and decide the hardwired fixture is cheaper."
+  - question: "What is the difference between IP65 and IP67 waterproofing on a security light?"
+    answer: "IP65 means the fixture is sealed against water jets from any direction — rain, sprinkler spray, garden hose overspray. IP67 adds brief submersion tolerance up to one meter of water. For a wall-mounted security light like the Mr Beams or LEONLITE, IP65 is adequate. For ground-level spotlights in areas prone to standing water or spring flooding, IP67 is the more meaningful rating."
+  - question: "Is the VOLT 12V low-voltage system safe to install yourself, or does it require an electrician?"
+    answer: "The 12V system is safe for DIY installation. The transformer steps down standard 120V household power to 12V before it reaches the cable and fixtures, so the only part operating at line voltage is inside the sealed transformer enclosure. You run the low-voltage cable through your beds, splice each fixture with the included connectors, and plug the transformer into a standard outdoor outlet. No electrical credentials are needed for the low-voltage side of the installation."
 ---
 
 Most outdoor security lights fall into one of two categories: cheap solar units that underperform by October, or hardwired fixtures that require a licensed electrician and a permit before you can feel safe walking to your car at night. Neither extreme is particularly helpful. After running various combinations of motion-activated and landscape lighting across my 12 acres in Litchfield County, I've settled on four products that actually hold up across seasons and don't require a leap of faith. This is what I'd recommend to a capable adult who wants reliable outdoor lighting without the usual headaches.
@@ -179,74 +190,4 @@ If you're reading this list and reaching for the cheapest option to solve an imm
 
 ,
 
-## Frequently Asked Questions
-
-### How many lumens do I need for a security light?
-
-For motion-activated security over a standard driveway or entry area, 300 to 500 lumens is a practical range. The Mr Beams unit at 410 lumens handles a single-car driveway or garage entrance without issue. Larger areas, loading zones, or properties where you want to identify a person at distance benefit from 800 to 1500 lumens, which moves you into commercial-grade fixtures beyond this list.
-
-### Can solar security lights work through winter?
-
-In climates with short winter days and significant cloud cover, solar lights will charge more slowly and run shorter cycles than in summer. The Mr Beams and LITOM units will still function in winter, but motion-triggered duration and brightness may decrease in December and January compared to June. If consistent winter performance is a priority, the LEONLITE hardwired option removes the variable entirely.
-
-### Do I need an electrician to install a hardwired security light?
-
-If you have an existing outdoor junction box with a weatherproof cover, most homeowners can replace or install a hardwired fixture themselves. If no outdoor junction box exists, running new electrical service from your panel requires a licensed electrician in most jurisdictions. Factor that cost into the total price when comparing hardwired against solar options.
-
-### What is the difference between IP65 and IP67 waterproofing?
-
-IP65 means the fixture is sealed against low-pressure water jets from any direction, which covers rain, sprinkler spray, and garden hose overspray. IP67 adds protection against submersion in up to one meter of water for thirty minutes. For wall-mounted lights, IP65 is adequate. For ground-level spotlights in areas prone to standing water or flooding, IP67 is the more reliable rating.
-
-### Is low-voltage landscape lighting safe for DIY installation?
-
-Yes. The VOLT 12V system operates at low voltage and does not present the same risks as line-voltage electrical work. The transformer steps down standard 120V household current to 12V before it reaches the fixtures and cable. You can splice fixtures, run cable, and connect to the transformer without electrical credentials. The transformer plugs into a standard outdoor outlet. The only part of the system that operates at line voltage is inside the transformer enclosure, which you do not open or modify.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many lumens do I need for a security light?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For motion-activated security over a standard driveway or entry area, 300 to 500 lumens is a practical range. The Mr Beams unit at 410 lumens handles a single-car driveway or garage entrance without issue. Larger areas, loading zones, or properties where you want to identify a person at distance benefit from 800 to 1500 lumens, which moves you into commercial-grade fixtures beyond this list."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can solar security lights work through winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In climates with short winter days and significant cloud cover, solar lights will charge more slowly and run shorter cycles than in summer. The Mr Beams and LITOM units will still function in winter, but motion-triggered duration and brightness may decrease in December and January compared to June. If consistent winter performance is a priority, the LEONLITE hardwired option removes the variable entirely."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need an electrician to install a hardwired security light?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you have an existing outdoor junction box with a weatherproof cover, most homeowners can replace or install a hardwired fixture themselves. If no outdoor junction box exists, running new electrical service from your panel requires a licensed electrician in most jurisdictions. Factor that cost into the total price when comparing hardwired against solar options."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between IP65 and IP67 waterproofing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "IP65 means the fixture is sealed against low-pressure water jets from any direction, which covers rain, sprinkler spray, and garden hose overspray. IP67 adds protection against submersion in up to one meter of water for thirty minutes. For wall-mounted lights, IP65 is adequate. For ground-level spotlights in areas prone to standing water or flooding, IP67 is the more reliable rating."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is low-voltage landscape lighting safe for DIY installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The VOLT 12V system operates at low voltage and does not present the same risks as line-voltage electrical work. The transformer steps down standard 120V household current to 12V before it reaches the fixtures and cable. You can splice fixtures, run cable, and connect to the transformer without electrical credentials. The transformer plugs into a standard outdoor outlet. The only part of the system that operates at line voltage is inside the transformer enclosure, which you do not open or modify."
-      }
-    }
-  ]
-}
-</script>
 

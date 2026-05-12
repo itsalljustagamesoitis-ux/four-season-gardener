@@ -21,6 +21,17 @@ products:
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is 17 inches of depth actually worth it, or is 10 to 12 inches enough?"
+    answer: "It depends on what you are growing. For lettuce, herbs, and shallow-rooted flowers, 10 to 12 inches is fine. For tomatoes, peppers, carrots, parsnips, and squash, 17 inches removes a real constraint. Scarlet Nantes carrots and Black Krim tomatoes grown in the Vego showed no root restriction at harvest; a 10-inch cedar kit running alongside the same season produced noticeably stunted carrots. If root crops or heavy fruiting plants are in your rotation, the extra depth earns its cost."
+  - question: "Is the Aluzinc coating safe for growing food?"
+    answer: "Aluzinc is an aluminum-zinc alloy used widely in construction and agricultural applications. It does not contain lead or cadmium, and Vego Garden explicitly markets these beds for food production. After two seasons of growing edibles in one, no concerns have come up. If you are gardening with young children or have specific sensitivities, avoid highly acidic soil amendments that could accelerate any surface interaction, which is standard advice for any metal bed."
+  - question: "How does Vego compare to Birdies raised beds?"
+    answer: "Both use Aluzinc-coated steel and sit in the same material tier. Birdies has a longer market track record, particularly in Australia where the company originated, and tends to run higher in price for comparable configurations. The Vego is the better value at current pricing unless you specifically want Birdies' longer documented lifespan data. Material quality appears comparable based on two seasons of side-by-side observation."
+  - question: "What is the actual assembly hazard with this bed?"
+    answer: "The panel edges are sharp and the corners are not deburred. During assembly you are handling cut metal edges and the risk is real enough that one session without gloves produced a small scar on a left index finger. The instructions mention it but do not emphasize it adequately. Wear gloves. Beyond that, assembly takes about 25 minutes and requires no tools beyond a rubber mallet."
+  - question: "Will the metal walls overheat the soil in summer?"
+    answer: "In Connecticut summers, which are warm but not extreme, no crop damage attributable to panel heat has been observed. In genuinely hot climates like Texas or Arizona, the walls absorb enough sun to be a real factor. A thick mulch layer against the interior walls mitigates it but does not eliminate it. This is a characteristic of all uninsulated metal raised beds, not specific to Vego. If heat is a serious concern for your conditions, wooden beds insulate better."
 ---
 
 If you've spent any time browsing [Raised Beds](/raised-beds/) options online, you've likely seen Vego Garden's modular metal beds showing up in results with suspicious regularity. The company has built real momentum in the last few years, and the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is their flagship product. I've been running one on my property for two growing seasons. Here's what it actually does well, what it doesn't, and whether the price makes sense.
@@ -110,79 +121,4 @@ For properties in the northeast or upper midwest with heavy rainfall and hard wi
 
 If you're evaluating several metal raised bed options side by side, the broader [raised bed](/raised-beds/) category on this site covers the range from budget galvanized to premium Corten, which may help narrow down what fits your situation.
 
-,
-
-## Frequently Asked Questions
-
-### How does the Vego 17" depth compare to standard raised beds?
-
-Most raised beds sold at mainstream garden centers run 6 to 10 inches deep. Some premium options reach 12 inches. The Vego's 17 inches is meaningfully deeper and makes a practical difference for root vegetables and fruiting crops like tomatoes and peppers. Carrots, in particular, need at least 12 inches to develop properly, and most beds don't provide that.
-
-![Vego Elevated Garden Bed](/images/articles/raised-beds-8.jpg)
-
-
-### Is the Aluzinc coating food-safe for growing vegetables?
-
-Aluzinc is an aluminum-zinc alloy coating used widely in construction and agricultural applications. It does not contain lead or cadmium, and Vego Garden explicitly markets these beds for food production. I've grown edibles in mine without concern. If you're gardening with young children or have specific sensitivities, the same standard advice applies as with any metal bed: use a quality soil mix and avoid acidic soil amendments that might accelerate any surface interaction.
-
-### How long does assembly actually take?
-
-About 20 to 30 minutes for a first-time assembly in the standard rectangle configuration. The panels are pre-drilled and the connectors clip in without tools. Wear gloves. The instructions are adequate but the edge hazard during assembly is understated in the documentation.
-
-### Can the panels be reconfigured after the first season?
-
-Yes. The connectors disengage and the panels separate. I haven't reconfigured mine, but the system is designed for it and the connectors show no signs of wear after two assembly cycles. The stakes that anchor the bed to the ground are the element most likely to complicate disassembly if your soil compacts around them, but they pull with reasonable effort.
-
-### How does the Vego 17" compare to Birdies raised beds?
-
-Both use Aluzinc-coated steel and are in the same material tier. Birdies beds have a longer market track record, particularly in Australia where the company originated. They currently run $240 to $300 for comparable configurations, versus $180 to $220 for the Vego. The Vego is the better value at current pricing unless you specifically want the Birdies' longer documented lifespan data. Material quality appears comparable.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does the Vego 17\" depth compare to standard raised beds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most raised beds sold at mainstream garden centers run 6 to 10 inches deep. Some premium options reach 12 inches. The Vego's 17 inches is meaningfully deeper and makes a practical difference for root vegetables and fruiting crops like tomatoes and peppers. Carrots, in particular, need at least 12 inches to develop properly, and most beds don't provide that."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the Aluzinc coating food-safe for growing vegetables?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aluzinc is an aluminum-zinc alloy coating used widely in construction and agricultural applications. It does not contain lead or cadmium, and Vego Garden explicitly markets these beds for food production. I've grown edibles in mine without concern. If you're gardening with young children or have specific sensitivities, the same standard advice applies as with any metal bed: use a quality soil mix and avoid acidic soil amendments that might accelerate any surface interaction."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does assembly actually take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "About 20 to 30 minutes for a first-time assembly in the standard rectangle configuration. The panels are pre-drilled and the connectors clip in without tools. Wear gloves. The instructions are adequate but the edge hazard during assembly is understated in the documentation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can the panels be reconfigured after the first season?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The connectors disengage and the panels separate. I haven't reconfigured mine, but the system is designed for it and the connectors show no signs of wear after two assembly cycles. The stakes that anchor the bed to the ground are the element most likely to complicate disassembly if your soil compacts around them, but they pull with reasonable effort."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does the Vego 17\" compare to Birdies raised beds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both use Aluzinc-coated steel and are in the same material tier. Birdies beds have a longer market track record, particularly in Australia where the company originated. They currently run $240 to $300 for comparable configurations, versus $180 to $220 for the Vego. The Vego is the better value at current pricing unless you specifically want the Birdies' longer documented lifespan data. Material quality appears comparable."
-      }
-    }
-  ]
-}
-</script>
 

@@ -21,6 +21,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does a 16-inch squirrel dome actually work, or do squirrels figure it out?"
+    answer: "For gray squirrels with correct positioning, yes. The dome works by physical geometry: a slippery convex surface they can't grip combined with a diameter wider than their reach. The failure mode is almost always placement, not the dome. If the feeder is within jumping range of a branch, fence, or roof edge, or the pole below the dome is climbable, squirrels bypass the dome entirely. At the right height and clearance, a 16-inch dome handles most gray squirrels reliably."
+  - question: "What placement rules actually matter for a squirrel dome to work?"
+    answer: "The feeder needs to be at least five feet off the ground, since squirrels can jump roughly four feet vertically from a standing start. Position the feeder no closer than ten feet horizontally from any tree trunk, branch, fence, or roof edge. Mount the dome twelve to eighteen inches above the top of the feeder, not flush. If you're using a pole, the pole section below the dome needs its own protection or the squirrel will simply climb past the dome from underneath."
+  - question: "Will a squirrel dome block birds from using the feeder?"
+    answer: "In a hang-above configuration, no. Birds approach the feeder from below and from the sides, which the dome doesn't obstruct. Most birds adapt within a few hours of installation. Large birds like blue jays and woodpeckers may take slightly longer, but the article notes that chickadees returned to the feeder within ten minutes of the dome going up."
+  - question: "How long does the Perky-Pet clear dome last before it starts yellowing?"
+    answer: "The Perky-Pet dome develops noticeable hazing after roughly two to three seasons of full sun exposure. It doesn't affect squirrel deterrence, but it reduces the optical clarity that's the main reason to choose a clear dome over an opaque one. If clarity matters to you, look specifically for UV-stabilized polycarbonate. At the current price point, replacing it every two to three years is an acceptable cost for most setups."
+  - question: "Is a dome baffle enough on its own, or do I need something else too?"
+    answer: "For most setups with casual squirrel pressure and correct feeder placement, a dome alone is sufficient. Against high-persistence squirrels, particularly fox squirrels or a large established colony, you may need to combine the dome with a pole-mounted torpedo or wrap-around baffle below the feeder. The dome removes the approach from above; the pole baffle removes the climb-up approach from below. Either problem on its own is fixable; both together require both solutions."
 ---
 
 Squirrels are not subtle. They will knock a feeder off a pole, chew through plastic, and return the next morning with what I can only describe as institutional optimism. A squirrel dome for bird feeder setups is one of the more reliable solutions to this problem, and unlike motion-activated sprinklers or cayenne-dusted seed (which works until it rains), a well-placed dome baffle is a passive, permanent fix.
@@ -127,78 +138,4 @@ If you're using a pole setup, the dome should be mounted on the pole below the f
 These are not new recommendations. But they're the ones most often skipped when a frustrated buyer writes a negative review about a dome "not working." In nearly every case I've investigated, the dome was fine. The positioning wasn't.
 
 For readers putting together a full station with multiple feeders, the resources in our [Bird Feeders & Baths](/birds-wildlife/) section include setup guides that address siting and spacing in more detail.
-
-## Frequently Asked Questions
-
-### Does a 16-inch squirrel dome actually work for larger squirrels?
-
-For gray squirrels, a 16-inch dome at correct positioning is effective. Fox squirrels, which are physically larger and stronger, can sometimes get leverage on the edge of a 16-inch dome, particularly if the dome is mounted as a pole baffle rather than hung above the feeder. If you're dealing with fox squirrels specifically, a wider dome (18 or 24 inches) or a wrap-around pole baffle below the feeder is a better fit.
-
-![Squirrel Dome For Bird Feeder](/images/articles/birds-wildlife-2.jpg)
-
-
-### Can I use a dome baffle on a shepherd's crook pole?
-
-Yes, and this is actually one of the better applications for a hang-above dome. Mount the dome above the feeder on the hanging wire or chain, with the dome between the hook and the feeder. The squirrel encounters the dome before it can reach the feeder. Make sure the crook itself is at the right height and distance from other surfaces before assuming the dome alone will handle the problem.
-
-### Will the dome interfere with birds using the feeder?
-
-In hang-above configuration, birds approach the feeder from below and from the sides, which the dome doesn't obstruct. Most birds adapt within a few hours to the presence of the dome above them. Large birds like blue jays and woodpeckers may take slightly longer, but I haven't seen a dome-above configuration that meaningfully reduced bird traffic once birds had located the feeder.
-
-### How do I know if my current placement is the problem versus the dome itself?
-
-Put a thin layer of petroleum jelly on the pole below the dome (temporary test only) and check it after 48 hours. If you see squirrel prints or disturbance below the dome level, they're climbing the pole and bypassing the dome from below. If there's no disturbance below but squirrels are still reaching the feeder, they're jumping from a nearby surface. Each scenario points to a different fix.
-
-### Does a clear dome yellow faster than an opaque one?
-
-Yes. Clear polycarbonate is more susceptible to UV degradation than pigmented or opaque plastics, because UV-absorbing additives are harder to incorporate without affecting clarity. The Perky-Pet dome develops noticeable hazing after two to three seasons in full sun exposure. It doesn't affect squirrel deterrence, but it does reduce visibility. If you want the dome to stay clear longer, look for UV-stabilized polycarbonate specifically, or budget for replacement every two to three years.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does a 16-inch squirrel dome actually work for larger squirrels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For gray squirrels, a 16-inch dome at correct positioning is effective. Fox squirrels, which are physically larger and stronger, can sometimes get leverage on the edge of a 16-inch dome, particularly if the dome is mounted as a pole baffle rather than hung above the feeder. If you're dealing with fox squirrels specifically, a wider dome (18 or 24 inches) or a wrap-around pole baffle below the feeder is a better fit."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use a dome baffle on a shepherd's crook pole?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, and this is actually one of the better applications for a hang-above dome. Mount the dome above the feeder on the hanging wire or chain, with the dome between the hook and the feeder. The squirrel encounters the dome before it can reach the feeder. Make sure the crook itself is at the right height and distance from other surfaces before assuming the dome alone will handle the problem."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will the dome interfere with birds using the feeder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In hang-above configuration, birds approach the feeder from below and from the sides, which the dome doesn't obstruct. Most birds adapt within a few hours to the presence of the dome above them. Large birds like blue jays and woodpeckers may take slightly longer, but I haven't seen a dome-above configuration that meaningfully reduced bird traffic once birds had located the feeder."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I know if my current placement is the problem versus the dome itself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Put a thin layer of petroleum jelly on the pole below the dome (temporary test only) and check it after 48 hours. If you see squirrel prints or disturbance below the dome level, they're climbing the pole and bypassing the dome from below. If there's no disturbance below but squirrels are still reaching the feeder, they're jumping from a nearby surface. Each scenario points to a different fix."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does a clear dome yellow faster than an opaque one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Clear polycarbonate is more susceptible to UV degradation than pigmented or opaque plastics, because UV-absorbing additives are harder to incorporate without affecting clarity. The Perky-Pet dome develops noticeable hazing after two to three seasons in full sun exposure. It doesn't affect squirrel deterrence, but it does reduce visibility. If you want the dome to stay clear longer, look for UV-stabilized polycarbonate specifically, or budget for replacement every two to three years."
-      }
-    }
-  ]
-}
-</script>
 

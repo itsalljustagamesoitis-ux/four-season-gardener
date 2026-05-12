@@ -21,6 +21,17 @@ products:
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long will a cedar raised bed kit actually last?"
+    answer: "With a basic annual application of raw linseed oil or tung oil, a North American cedar bed should hold up for 10 to 20 years. Left completely untreated, you're more likely looking at 7 to 10 years before you see significant degradation, depending on your drainage and how wet your winters are. The Greenes Fence beds installed three seasons ago show no sign of rot or structural failure without oil since year one."
+  - question: "Is cedar safe for growing vegetables and edible crops?"
+    answer: "Yes. Natural cedar contains no chemical preservatives. The rot resistance comes from the wood's own oils, not from added compounds. This is the relevant distinction from pressure-treated lumber, which you should not use for food-growing beds. The Greenes Fence kit uses untreated North American cedar throughout."
+  - question: "Should I choose cedar or metal for a raised bed?"
+    answer: "Cedar insulates soil temperature better in shoulder seasons, costs less upfront, and ages attractively if maintained. Metal panels like the Vego Garden beds will outlast the cedar by a decade or more with no maintenance. If you're setting up a permanent installation you plan never to move and longevity is the primary concern, metal is worth considering. Cedar is the better choice if thermal moderation, natural materials, and a lower entry price are priorities."
+  - question: "How much soil does a 4x8x17.5-inch raised bed require?"
+    answer: "A 4x8x17.5-inch bed holds approximately 28 to 30 cubic feet of soil, or roughly 1.1 cubic yards. In bags, that's around 18 to 20 cubic foot bags of a soil and compost mix at minimum. Budget accordingly, because the soil is almost always the larger expense when setting up a new raised bed."
+  - question: "Do I need to line the inside of a cedar raised bed?"
+    answer: "No. Cedar's natural oils provide rot resistance without a liner, and lining the interior can actually trap moisture against the wood in certain configurations and accelerate decay. If you're worried about weed intrusion from below, a layer of cardboard at the bottom before you add soil is inexpensive and effective."
 ---
 
 If you've spent any time researching [Raised Beds](/raised-beds/) for a vegetable garden, you've probably noticed that the options split into three rough categories: cheap pine that rots in two seasons, expensive metal corrugated panels, and natural wood kits that sit somewhere in between on both price and longevity. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](product:greenes-premium-cedar-4x8) falls into that third category, and it's the one I've had the most direct experience with. I have four of these on the property. Two went in three years ago, two more last spring. My opinion of the kit has shifted somewhat over that time, and I'll tell you exactly how.

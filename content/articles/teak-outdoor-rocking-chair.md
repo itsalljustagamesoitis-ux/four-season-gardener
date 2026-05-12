@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the POLYWOOD Nautical Rocker actually made of teak wood?"
+    answer: "No. It is built from POLYWOOD's recycled high-density polyethylene lumber in a teak color finish. The material replicates the look and outdoor durability of teak without the maintenance obligations of real wood. It will not warp, splinter, or go silver-gray the way untreated teak does when a season of oiling is missed."
+  - question: "How does POLYWOOD hold up through hard winters and freeze-thaw cycles?"
+    answer: "Well, based on a full year of outdoor exposure in Connecticut with no cover and no maintenance. The material does not become brittle in cold temperatures the way some plastics do, and the freeze-thaw cycle had no visible effect on the joinery or finish. In spring it needed nothing more than a hose-down."
+  - question: "Does the teak color on POLYWOOD furniture fade over time?"
+    answer: "Very slowly and evenly, because the color is UV-stabilized throughout the lumber itself rather than applied as a surface coat. After one full year of unprotected outdoor exposure I saw no visible color change. That is a meaningful difference from teak-stained wood furniture, which typically begins showing UV degradation within two to three seasons."
+  - question: "How does the POLYWOOD Nautical compare to the Trex Rockport Rocker?"
+    answer: "Both are recycled plastic lumber rockers in a similar price range. The Trex Rockport tends to be lighter at around 37 pounds versus the Nautical's 43, which gives it a real advantage if you need to move the chair regularly. The POLYWOOD has a more substantial feel in the frame and a broader color selection. If weight and mobility matter, look at the Trex. If build solidity and finish quality are the priority, the POLYWOOD is the stronger chair."
+  - question: "Is a maintenance-free synthetic rocker worth paying more than a basic wood chair?"
+    answer: "For most people who use their outdoor furniture regularly, yes. The honest cost of real wood outdoor furniture includes annual oiling, eventual refinishing, and replacement on a ten-to-fifteen-year cycle if maintained well, sooner if not. A POLYWOOD chair at a higher upfront price requires none of that and has a comparable or longer service life. The math changes if you genuinely enjoy the maintenance process or specifically want the texture of real wood grain."
 ---
 
 If you've spent any time researching outdoor seating, you already know that "teak" has become a marketing word applied to almost anything with a brown stain. Actual teak, with its natural oils and tight grain, behaves very differently outdoors than pine finished to approximate the look. But there's a third category worth taking seriously: high-quality recycled plastic lumber made to replicate teak's performance without the maintenance obligations. The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) sits in that third category, and after running it through a full year of hard use, I have a clear opinion about whether it's worth the price.
@@ -131,74 +142,4 @@ For anyone who wants a classic-looking, maintenance-free teak-color rocker that 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-8.jpg)
 
 
-## Frequently Asked Questions
-
-### Is the POLYWOOD Nautical Rocker actually teak wood?
-
-No. It's built from POLYWOOD's recycled high-density polyethylene lumber in a teak color finish. The material is designed to replicate the look and outdoor durability of teak without the maintenance requirements of real wood. It won't oil, warp, splinter, or go gray the way untreated teak does.
-
-### How does POLYWOOD hold up in very cold winters?
-
-Well, in my experience. The material doesn't become brittle in cold temperatures the way some plastics do, and the freeze-thaw cycle doesn't affect the joinery or finish. I left this chair out through a hard Connecticut winter without cover and found nothing to address in spring.
-
-### Does the teak color fade over time?
-
-POLYWOOD's color is UV-stabilized throughout the lumber itself, not applied as a surface coat. In practice, this means fading is very slow and even rather than patchy or dramatic. After one full year of outdoor exposure with no cover, I saw no visible color change.
-
-### Can I use cushions with this rocker?
-
-Yes. The seat dimensions are compatible with standard Adirondack-style chair cushions. If you want something built to handle outdoor conditions, Sunbrella-fabric cushions are the reliable choice for UV and moisture resistance.
-
-### How does it compare to the Trex Outdoor Furniture Rockport Rocker?
-
-Both are recycled plastic lumber chairs in the same price category. The Trex Rockport runs around $350-$400 depending on color and tends to be lighter (around 37 lbs), which gives it a mobility advantage. The POLYWOOD Nautical has slightly more substantial build feel and a better range of color options. If weight is a significant concern, the Trex is worth a look. If you prioritize build solidity and finish quality, the POLYWOOD is the stronger chair.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is the POLYWOOD Nautical Rocker actually teak wood?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. It's built from POLYWOOD's recycled high-density polyethylene lumber in a teak color finish. The material is designed to replicate the look and outdoor durability of teak without the maintenance requirements of real wood. It won't oil, warp, splinter, or go gray the way untreated teak does."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does POLYWOOD hold up in very cold winters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Well, in my experience. The material doesn't become brittle in cold temperatures the way some plastics do, and the freeze-thaw cycle doesn't affect the joinery or finish. I left this chair out through a hard Connecticut winter without cover and found nothing to address in spring."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the teak color fade over time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "POLYWOOD's color is UV-stabilized throughout the lumber itself, not applied as a surface coat. In practice, this means fading is very slow and even rather than patchy or dramatic. After one full year of outdoor exposure with no cover, I saw no visible color change."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use cushions with this rocker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. The seat dimensions are compatible with standard Adirondack-style chair cushions. If you want something built to handle outdoor conditions, Sunbrella-fabric cushions are the reliable choice for UV and moisture resistance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does it compare to the Trex Outdoor Furniture Rockport Rocker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both are recycled plastic lumber chairs in the same price category. The Trex Rockport runs around $350-$400 depending on color and tends to be lighter (around 37 lbs), which gives it a mobility advantage. The POLYWOOD Nautical has slightly more substantial build feel and a better range of color options. If weight is a significant concern, the Trex is worth a look. If you prioritize build solidity and finish quality, the POLYWOOD is the stronger chair."
-      }
-    }
-  ]
-}
-</script>
 

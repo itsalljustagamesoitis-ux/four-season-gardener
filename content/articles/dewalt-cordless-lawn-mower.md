@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the DeWalt DCMW220P2 self-propelled or do I have to push it?"
+    answer: "Push only. There is no self-propel option on this model. At 56 lbs with both batteries installed that is manageable on flat ground, but if your yard has any meaningful slope or you are covering more than a third of an acre, the lack of self-propel will become a real complaint by mid-summer. If self-propel is a requirement, the EGO LM2102SP is the closest comparison at a higher price."
+  - question: "How long do the batteries last and what yard size can this mower realistically handle?"
+    answer: "On dry, flat grass at a normal cutting height, two 5.0Ah batteries together give roughly 30 to 35 minutes of consistent cutting — enough for a quarter acre with capacity to spare. A third of an acre is the comfortable upper limit under typical conditions. Tall, wet, or dense grass shortens runtime meaningfully, and anything approaching half an acre will likely require a second pair of charged batteries standing by."
+  - question: "Can I use my existing DeWalt 20V MAX batteries instead of the ones in the kit?"
+    answer: "Yes. Any DeWalt 20V MAX battery is physically compatible. Use the highest-capacity packs you have — the included 5.0Ah packs are appropriate for mowing. Smaller packs in the 1.5Ah to 2.0Ah range will work but noticeably reduce your runtime. The mower draws from both battery slots simultaneously, so matched pairs are preferred."
+  - question: "How does the DeWalt DCMW220P2 compare to the EGO or Greenworks cordless mowers?"
+    answer: "The central difference is voltage. EGO's 56V and Greenworks' 40V or 80V platforms deliver more motor headroom for heavy grass and larger areas. If mowing performance is the only variable, the higher-voltage competitors have the advantage. The DeWalt makes sense if you are already running the 20V MAX platform across your tools — over 250 tools share that battery — and you want a mower that fits into infrastructure you have already paid for without starting a new ecosystem."
+  - question: "Does the DeWalt DCMW220P2 require any engine maintenance like a gas mower would?"
+    answer: "No. There is no engine, no fuel storage, no oil changes, no carburetor to drain at the end of the season. Starting the mower is pressing a button. The maintenance reduction compared to gas equipment is real, and for anyone who has spent enough Saturday mornings diagnosing a gummed carb or replacing a pull cord, that alone is a reasonable part of the value calculation."
 ---
 
 If you're already running DeWalt's 20V MAX platform across your shop, garage, or garden shed, the [DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)](product:dewalt-dcmw220p2-cordless-mower) is the obvious first mower to look at. It runs on the same batteries as your drill, your circular saw, your string trimmer. No separate chargers, no new ecosystem to buy into. That's either the whole pitch or it's not relevant to you, depending on where you already are with your tool collection.
@@ -119,77 +130,4 @@ It's also not the right choice if you're new to battery tools and have no existi
 
 If you're looking at expanding your cordless yard care lineup beyond mowing, it's worth browsing the full range of options in our [cordless and battery-powered tools](/battery-equipment/) coverage before you commit to any single platform.
 
-## Frequently Asked Questions
-
-### How long does the battery last on the DEWALT DCMW220P2?
-
-With both included 5.0Ah batteries installed, expect around 30 to 40 minutes of mowing on dry, level grass at a normal cutting height. That's sufficient for a quarter-acre yard under typical conditions. Tall, wet, or dense grass will reduce that meaningfully, and anything approaching half an acre will likely require a second set of charged batteries.
-
-![Dewalt Cordless Lawn Mower](/images/articles/battery-equipment-4.jpg)
-
-
-### Can I use my existing DeWalt 20V batteries with this mower?
-
-Yes, any 20V MAX battery is physically compatible. For practical mowing, use the largest capacity packs you have. The included 5.0Ah packs are appropriate. Smaller packs in the 1.5Ah to 2.0Ah range will work but deliver noticeably shorter runtime. The mower draws from both battery slots simultaneously, so matched pairs are preferred.
-
-### Is the DCMW220P2 self-propelled?
-
-No. It's a push mower. If self-propel is a priority, you'll need to look at a different model or a different brand. EGO's LM2102SP is the most direct comparison at a higher price point, and it includes self-propel with a 56V battery.
-
-### What yard size is the DEWALT DCMW220P2 suitable for?
-
-DeWalt recommends up to half an acre, and that's probably the ceiling under ideal conditions. In practical use, a third of an acre is the more comfortable upper limit if you're mowing regularly and the terrain is reasonably flat. Beyond that, runtime and the absence of self-propel both start to work against you.
-
-### How does the DCMW220P2 compare to the EGO or Greenworks cordless mowers?
-
-The main difference is voltage. DeWalt's 20V platform is well-established across hundreds of tools, making it attractive if you're already invested there. EGO's 56V and Greenworks' 40V or 80V platforms deliver more motor headroom for heavy grass and larger areas. If your decision is purely about mowing performance, the higher-voltage competitors have the advantage. If your decision is about consolidating around a tool system you already own, DeWalt's ecosystem logic is sound.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the battery last on the DEWALT DCMW220P2?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "With both included 5.0Ah batteries installed, expect around 30 to 40 minutes of mowing on dry, level grass at a normal cutting height. That's sufficient for a quarter-acre yard under typical conditions. Tall, wet, or dense grass will reduce that meaningfully, and anything approaching half an acre will likely require a second set of charged batteries."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use my existing DeWalt 20V batteries with this mower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, any 20V MAX battery is physically compatible. For practical mowing, use the largest capacity packs you have. The included 5.0Ah packs are appropriate. Smaller packs in the 1.5Ah to 2.0Ah range will work but deliver noticeably shorter runtime. The mower draws from both battery slots simultaneously, so matched pairs are preferred."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is the DCMW220P2 self-propelled?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. It's a push mower. If self-propel is a priority, you'll need to look at a different model or a different brand. EGO's LM2102SP is the most direct comparison at a higher price point, and it includes self-propel with a 56V battery."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What yard size is the DEWALT DCMW220P2 suitable for?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DeWalt recommends up to half an acre, and that's probably the ceiling under ideal conditions. In practical use, a third of an acre is the more comfortable upper limit if you're mowing regularly and the terrain is reasonably flat. Beyond that, runtime and the absence of self-propel both start to work against you."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does the DCMW220P2 compare to the EGO or Greenworks cordless mowers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main difference is voltage. DeWalt's 20V platform is well-established across hundreds of tools, making it attractive if you're already invested there. EGO's 56V and Greenworks' 40V or 80V platforms deliver more motor headroom for heavy grass and larger areas. If your decision is purely about mowing performance, the higher-voltage competitors have the advantage. If your decision is about consolidating around a tool system you already own, DeWalt's ecosystem logic is sound."
-      }
-    }
-  ]
-}
-</script>
 

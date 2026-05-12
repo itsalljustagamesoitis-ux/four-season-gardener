@@ -28,6 +28,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What's the difference between a pergola and a gazebo?"
+    answer: "A pergola has an open or slatted roof and no walls. It provides partial shade but no rain coverage. A gazebo has a solid or semi-solid roof and is a more fully enclosed structure. The Yardistry kit in this roundup is a pergola. The Palram Martinique is a hardtop gazebo. If you want to sit outside in light rain without getting wet, you need a solid roof and the gazebo category."
+  - question: "How long do cedar pergola kits last?"
+    answer: "Cedar that's properly maintained and installed with adequate footing and clearance from direct soil contact will last 20 to 30 years without structural degradation. If you restain every two to three years and keep the wood clean, you're looking at a long-lived structure. Left entirely untreated, the cedar won't rot, but the finish weathers and the overall appearance degrades faster than maintained wood."
+  - question: "Do I need a building permit for a pergola kit?"
+    answer: "It depends on your municipality and the size of the structure. Many jurisdictions exempt freestanding structures under a certain square footage from permit requirements, but that threshold varies widely, and some HOAs have additional rules regardless of local code. Check with your local building department before you pour a footing. A quick phone call takes ten minutes and is considerably less expensive than disassembly."
+  - question: "How difficult are pergola kits to assemble?"
+    answer: "The Yardistry cedar kit and Palram Martinique both take two people and a half day to a full day of work. The All Things Cedar arbor can be handled by one capable adult in less time. The main variable is footing work. If your installation requires setting posts in concrete, that's the part where rushing causes problems. Let the concrete cure fully before loading any weight onto the frame."
+  - question: "Can I add a solid roof to a cedar pergola kit?"
+    answer: "Yes. Yardistry sells polycarbonate roof panels as a separate add-on, currently around $200 to $250, which snap into the existing frame and convert this into a usable space in light rain. If year-round covered use is the goal, budget for those panels from the start rather than treating them as an afterthought."
 ---
 
 Pergola kits have gotten genuinely better in the last five years, and the range now runs from a $200 cedar arbor you can put up in an afternoon to a $1,500 hardtop gazebo that requires a level foundation and two sets of hands. The problem is that most roundups treat all of these as interchangeable, which they are not. A garden entrance arbor is not a substitute for a covered outdoor dining structure, and a season-extending cold frame is not a pergola by any reasonable definition. So this review separates them by what they actually do, and tells you which one to buy if you fall into that category.
@@ -187,78 +198,4 @@ The Palram Martinique at $1,400 to $1,600 is the largest upfront number in this 
 For readers who want to see how these structures fit alongside other outbuilding decisions, the full range of options on the [Greenhouses, Sheds & Gazebos](/structures/) hub covers everything from insulated garden buildings to flat-roof storage solutions worth comparing before committing to a site plan.
 
 ,
-
-## Frequently Asked Questions
-
-### How difficult are pergola kits to assemble, and do I need professional installation?
-
-For the products in this roundup: no professional installation required, but difficulty varies. The Yardistry cedar kit and Palram Martinique both take two people and a half day to a full day of work. The All Things Cedar arbor can be handled by one capable adult. The Palram Plant Inn goes together in under an hour. The main variable is footing work. If your installation requires setting posts in concrete (and on most permanent sites, it does), that's the part where rushing causes problems. Let the concrete cure fully before loading any weight onto the frame.
-
-![Best Pergola Kits](/images/articles/structures-7.jpg)
-
-
-### Do I need a building permit for a pergola kit?
-
-It depends on your municipality and the size of the structure. Many jurisdictions exempt freestanding structures under a certain square footage from permit requirements, but that threshold varies widely, and some HOAs have additional rules regardless of local code. The safest approach: check with your local building department before you pour a footing. A quick phone call takes ten minutes and is considerably less expensive than disassembly.
-
-### How long do cedar pergola kits last?
-
-Cedar that's properly maintained and installed with adequate footing and clearance from direct soil contact will last 20 to 30 years without structural degradation. The maintenance requirement is the variable. If you restain every two to three years and keep the wood surface clean, you're looking at a long-lived structure. If you leave it entirely untreated, the cedar won't rot, but the finish will weather and the overall appearance degrades faster than maintained wood.
-
-### What's the difference between a pergola and a gazebo?
-
-A pergola has an open or slatted roof and no walls. It provides partial shade and defines a space, but doesn't offer rain coverage or enclosure. A gazebo typically has a solid or semi-solid roof and is a more fully enclosed or defined structure. The Yardistry kit is a pergola. The Palram Martinique is technically a hardtop gazebo. The functional difference in most purchasing decisions comes down to rain protection: if you want to sit outside in light rain without getting wet, you need a solid roof and the gazebo category.
-
-### Can these pergola kits handle snow loads?
-
-The Palram Martinique is rated for snow loads and the manufacturer's spec sheet covers this. Cedar wood structures like the Yardistry kit are durable but the manufacturer guidance on snow accumulation is worth checking before the first winter. The main risk with any pergola in heavy snow country isn't structural collapse so much as fastener fatigue over multiple freeze-thaw cycles. For any kit installed in an area with significant winter snowfall, the best practice is to remove accumulated snow from the roof after major storms rather than treating the rated load as a reliable ceiling.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How difficult are pergola kits to assemble, and do I need professional installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For the products in this roundup: no professional installation required, but difficulty varies. The Yardistry cedar kit and Palram Martinique both take two people and a half day to a full day of work. The All Things Cedar arbor can be handled by one capable adult. The Palram Plant Inn goes together in under an hour. The main variable is footing work. If your installation requires setting posts in concrete (and on most permanent sites, it does), that's the part where rushing causes problems. Let the concrete cure fully before loading any weight onto the frame."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need a building permit for a pergola kit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on your municipality and the size of the structure. Many jurisdictions exempt freestanding structures under a certain square footage from permit requirements, but that threshold varies widely, and some HOAs have additional rules regardless of local code. The safest approach: check with your local building department before you pour a footing. A quick phone call takes ten minutes and is considerably less expensive than disassembly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long do cedar pergola kits last?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cedar that's properly maintained and installed with adequate footing and clearance from direct soil contact will last 20 to 30 years without structural degradation. The maintenance requirement is the variable. If you restain every two to three years and keep the wood surface clean, you're looking at a long-lived structure. If you leave it entirely untreated, the cedar won't rot, but the finish will weather and the overall appearance degrades faster than maintained wood."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between a pergola and a gazebo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A pergola has an open or slatted roof and no walls. It provides partial shade and defines a space, but doesn't offer rain coverage or enclosure. A gazebo typically has a solid or semi-solid roof and is a more fully enclosed or defined structure. The Yardistry kit is a pergola. The Palram Martinique is technically a hardtop gazebo. The functional difference in most purchasing decisions comes down to rain protection: if you want to sit outside in light rain without getting wet, you need a solid roof and the gazebo category."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can these pergola kits handle snow loads?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Palram Martinique is rated for snow loads and the manufacturer's spec sheet covers this. Cedar wood structures like the Yardistry kit are durable but the manufacturer guidance on snow accumulation is worth checking before the first winter. The main risk with any pergola in heavy snow country isn't structural collapse so much as fastener fatigue over multiple freeze-thaw cycles. For any kit installed in an area with significant winter snowfall, the best practice is to remove accumulated snow from the roof after major storms rather than treating the rated load as a reliable ceiling."
-      }
-    }
-  ]
-}
-</script>
 

@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does it take for birds to find a new window feeder?"
+    answer: "Expect one to three weeks for initial discovery, sometimes longer in areas with fewer established feeders nearby. The process speeds up if you already have other feeders in the yard that birds are visiting regularly. Placing the window feeder somewhere visible from existing perch trees helps. Black oil sunflower seed in the tray from day one gives you the widest appeal across species."
+  - question: "Do suction cup window feeders actually hold in cold weather?"
+    answer: "Quality suction cups on a clean glass surface hold reliably through cold temperatures. The Nature's Hangout cups are rated for outdoor use below freezing, and in my experience they've held through two full winters including nights at minus eight. The common failure point is dirty glass: oils, residue, or trapped moisture break the seal faster than cold does. Clean the glass with rubbing alcohol before mounting and recheck the seal after any temperature extreme."
+  - question: "What is the practical difference between the Squirrel Buster Plus and the Yankee Flipper for squirrel deterrence?"
+    answer: "The Squirrel Buster Plus is passive and weight-activated with no battery or motor, which means nothing can fail due to a dead charge. The Yankee Flipper spins squirrels off the perch using a motorized mechanism that requires USB-C recharging. Both reliably deter squirrels when working properly. The Buster is more reliable long-term; the Flipper is more entertaining to watch and costs around three times as much. If you travel or check feeders infrequently, the Buster's passive design is the safer choice."
+  - question: "What seed should I use in a window bird feeder tray?"
+    answer: "Black oil sunflower seed attracts the widest range of common feeder species and works in any tray. It has a thinner shell than striped sunflower, which smaller birds like chickadees and nuthatches handle more easily. Safflower is worth adding if you want to attract cardinals or reduce squirrel interest in the tray. Avoid cheap mixed seed bags with significant milo or wheat filler; most feeder birds reject it and it just accumulates and goes moldy."
+  - question: "Is a window feeder a reasonable substitute for a full pole-mounted feeding station?"
+    answer: "For close-up observation from inside, nothing else replicates the viewing distance of a window mount. For species variety and feeding volume, a properly positioned pole feeder twelve to fifteen feet from a window you sit near will outperform a window mount. If outdoor space is limited, you have mobility constraints, or you primarily want an indoor observation experience, the window feeder is the right tool. If you have yard space and want to support heavier feeding traffic, a tube or hopper feeder positioned for sightlines works better."
 ---
 
 Window feeders get dismissed as novelty items. I understand why: the category is full of cheap acrylic rectangles that fall off the glass every time a starling lands on them, and the whole premise sounds more like a conversation piece than a serious feeding station. But a well-placed window feeder, or a properly set-up outdoor feeder positioned near a window, is genuinely one of the better ways to observe birds at close range without building anything permanent. I've run feeders on this property for years, from pole-mounted tube feeders at the tree line to suction-cup setups on the mudroom window, and the viewing quality from three feet of glass is not something you replicate at twenty yards.
@@ -232,63 +243,4 @@ For water, if you're thinking about adding a water feature near your feeder setu
 You can find the full range of feeder and bath options we've tested in the [Bird Feeders & Baths](/birds-wildlife/) section of the site.
 
 ,
-
-## Frequently Asked Questions
-
-### How long does it take for birds to find a new window feeder?
-
-Expect one to three weeks for initial discovery, sometimes longer in areas with fewer established feeders nearby. The process goes faster if you already have other feeders in the yard that birds are using. Placing the window feeder in a location visible from existing perch trees helps. Black oil sunflower seed in the tray from day one gives you the broadest appeal across species.
-
-### Do suction cup window feeders actually hold in cold weather?
-
-Quality suction cups on a clean glass surface hold reliably through cold weather. The Nature's Hangout uses cups specifically rated for outdoor use and temperatures below freezing. The common failure point is dirty glass: oils, residue, or moisture between the cup and the surface break the seal faster than cold does. Clean the glass with rubbing alcohol before mounting, and recheck the seal after any temperature extreme.
-
-### What's the best seed for a window bird feeder?
-
-Black oil sunflower seed is the practical answer for the widest range of species. It has a thinner shell than striped sunflower, which smaller birds like chickadees and nuthatches handle more easily. Safflower is worth adding if you want to attract cardinals specifically or reduce squirrel interest in the tray. Avoid cheap mixed seed bags with a lot of milo and wheat filler, as most feeder birds reject it and it just accumulates in the tray.
-
-### How often do I need to clean a bird feeder?
-
-Tube and tray feeders need cleaning roughly once a month under dry conditions, more often in wet weather when seed can mold
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take for birds to find a new window feeder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Expect one to three weeks for initial discovery, sometimes longer in areas with fewer established feeders nearby. The process goes faster if you already have other feeders in the yard that birds are using. Placing the window feeder in a location visible from existing perch trees helps. Black oil sunflower seed in the tray from day one gives you the broadest appeal across species."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do suction cup window feeders actually hold in cold weather?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quality suction cups on a clean glass surface hold reliably through cold weather. The Nature's Hangout uses cups specifically rated for outdoor use and temperatures below freezing. The common failure point is dirty glass: oils, residue, or moisture between the cup and the surface break the seal faster than cold does. Clean the glass with rubbing alcohol before mounting, and recheck the seal after any temperature extreme."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the best seed for a window bird feeder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Black oil sunflower seed is the practical answer for the widest range of species. It has a thinner shell than striped sunflower, which smaller birds like chickadees and nuthatches handle more easily. Safflower is worth adding if you want to attract cardinals specifically or reduce squirrel interest in the tray. Avoid cheap mixed seed bags with a lot of milo and wheat filler, as most feeder birds reject it and it just accumulates in the tray."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often do I need to clean a bird feeder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tube and tray feeders need cleaning roughly once a month under dry conditions, more often in wet weather when seed can mold"
-      }
-    }
-  ]
-}
-</script>
 
