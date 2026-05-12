@@ -109,6 +109,28 @@ Soap and water. Occasionally a soft brush if there's mildew in the slats from a 
 - If you want actual cast aluminum construction for specific reasons (lighter weight, specific aesthetic), this doesn't deliver that.
 - Color options are limited compared to cast aluminum sets, which often come in a wider palette
 
+## What Actually Goes Wrong with Cast Aluminum
+
+Since this article is nominally about cast aluminum, I should be honest about how that category fails in practice, because it informs why I ended up where I did.
+
+The failure mode for entry-level cast aluminum is consistent: powder coating degrades faster than expected, chips at stress points like chair leg tips and table edge corners, and once it chips, moisture gets in and you get surface oxidation. On thin-framed sets, the chair welds at the back support are often the first structural failure point, typically showing up as a flex or creak after eighteen to twenty-four months of regular use. The frame isn't breaking catastrophically, it's just slowly becoming less rigid at the joint. On heavy sets, this gets worse because heavier people stress those joints more consistently.
+
+Premium cast aluminum from manufacturers like Telescope Casual or Brown Jordan is a different proposition. The casting is thicker, the powder coating is applied correctly and adheres longer, and the weld points are reinforced. If you specifically want aluminum construction for the weight advantage, those brands are where the category earns its reputation. But those sets run $1,500 to $3,500 for a full dining configuration, putting them in direct price overlap with POLYWOOD. At that point the comparison is genuine and the decision comes down to what you prioritize: lighter weight and a metal aesthetic, or a 20-year warranty and zero maintenance.
+
+I prioritized the latter. That's not the right answer for everyone, but it's the answer that made sense for a set that's going to live on my property for the next decade or more without being moved seasonally.
+
+## Buying Guide: What to Actually Evaluate Before Committing
+
+Whether you land on POLYWOOD, cast aluminum, or something else, there are a few considerations the usual buying guides skip.
+
+**Size relative to your space.** A 73-inch table requires roughly 12 feet of clear space to allow chairs to be pulled out on both sides with room to walk around. Measure before you order. The most common error I see is underestimating how much clearance a dining table with chairs actually needs.
+
+**Cushion budget.** No premium outdoor dining set comes with cushions that are worth keeping. Budget separately. For a six-chair set, you're looking at $200 to $400 for cushions that will actually hold up through seasons. Sunbrella fabric is the standard to hold other options against. It resists fading and mildew better than standard polyester outdoor fabric, which means cushions last three to five seasons instead of one to two.
+
+**Weight and permanence.** This is the question people underestimate until they've bought the wrong thing. If your outdoor setup is static, weight is mostly irrelevant. If you rearrange seasonally, move pieces to different areas of the yard for events, or have a small patio where flexibility matters, a 100-pound table is a constraint that will affect how you use the space.
+
+**Warranty as durability signal.** A 20-year warranty is not marketing if the company has been in business long enough to be liable against it. POLYWOOD has. It tells you something about how the manufacturer thinks about the material's failure rate. A one-year warranty on a cast aluminum set tells you something too.
+
 ## Who It's For
 
 This set makes sense if you have a fixed outdoor dining area and want to set it up once and stop thinking about it. Large family, regular outdoor dinners, property where the furniture lives outside year-round. The economics work most clearly if you're the kind of person who was already looking at real teak and balking at the maintenance.

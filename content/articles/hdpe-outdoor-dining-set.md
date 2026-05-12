@@ -114,6 +114,24 @@ Cleaning is soap and water. I use a stiff brush and a bucket twice a year and ca
 - Chair comfort doesn't extend to multi-hour lounging without cushions.
 - The teak color, while convincing, is a single tone without the grain variation of real wood. Up close, you know it isn't wood.
 
+## How HDPE Compares to Cast Aluminum in Practice
+
+Most people researching at this price point are choosing between HDPE and cast aluminum, not between HDPE and teak. The teak comparison gets attention because it's dramatic, but the practical comparison is aluminum, and it's worth being direct about.
+
+Cast aluminum at this price tier runs lighter. A comparable seven-piece cast aluminum dining set from a quality manufacturer like Telescope Casual or Brown Jordan will have a table that weighs 40 to 60 pounds rather than 100, and chairs closer to 15 pounds rather than 25 to 30. If you rearrange your outdoor space regularly, that weight difference is not trivial. For a patio where the furniture layout changes seasonally, or where you pull the table to a different area for larger gatherings, cast aluminum is the more practical choice on mobility alone.
+
+What cast aluminum doesn't do as well: the powder coating on even premium cast aluminum sets will eventually chip if you're not careful, and once it chips, you get oxidation at the exposed point. That's a slow process, but it happens. HDPE has no coating to chip. The color is integral to the material. There is no failure mode that produces a rust spot or a visually obvious patch of degradation. POLYWOOD's 20-year warranty versus the 1 to 3 years typical of cast aluminum sets reflects this difference in material longevity, not just company confidence.
+
+The thermal difference is also real and underappreciated. Aluminum conducts heat; HDPE does not. On a hot summer afternoon in direct sun, a metal chair back will be uncomfortably warm to the touch. HDPE runs cooler. This is a minor point but noticeable if your patio faces west and your set is in afternoon sun.
+
+## What Happens After Year Three
+
+Two seasons is what I can report from direct experience. But this material has a long enough track record to say something honest about what happens further out.
+
+HDPE doesn't degrade in the ways that create visible failure. No rot, no split seams, no hardware that seizes and won't move. What you will see over time is gradual surface chalking. The outer layer of the lumber develops a dull, slightly powdery texture from UV exposure. POLYWOOD sells a furniture cleaner and polish that restores the surface appearance, and the effect is real — cleaned HDPE looks noticeably fresher. This isn't mandatory maintenance the way teak oiling is, but it's something to know if you want the set looking close to new after five or seven years.
+
+The hardware is stainless steel, not coated steel, which matters at the hinge and fastener points where moisture collects. Stainless won't seize or strip the way coated or galvanized hardware eventually does. That's a material choice that earns its keep over a decade-plus ownership period.
+
 ## Who It's For
 
 The honest answer is that this set works best for people who have decided they're done maintaining outdoor furniture and are willing to pay a premium once to stop thinking about it.
@@ -128,6 +146,12 @@ If you already have teak pieces you're happy with, this doesn't replace them. I 
 This set is not ideal if you rent, move frequently, or have a small patio where furniture weight and portability matter. And if your budget is genuinely under $1,500, a mid-range aluminum set is serviceable, though you'll notice the difference in heat absorption and chair weight.
 
 The weight issue deserves one more mention. This set is designed to be placed and left. If your outdoor dining situation requires regular reconfiguration, you'll find it frustrating.
+
+## The Assembly Experience
+
+Ninety minutes for the full set with two people is accurate. The instructions are clear, the parts are labeled, and nothing requires forcing or improvisation. The table specifically wants two people not because any step is particularly heavy, but because aligning the trestle base while tightening hardware goes faster with one person holding and one tightening.
+
+The stainless steel hardware comes in labeled bags with enough of each fastener type that losing one in the grass isn't a crisis. The hex key is included, though I use my own with a longer handle. The chairs are simpler — each one under fifteen minutes. If you've assembled flat-pack furniture that required reading diagrams twice and guessing, this is not that experience.
 
 For anyone building out a full outdoor living space and looking at long-term [outdoor furniture](/outdoor-furniture/) decisions with a 10-plus-year horizon, the POLYWOOD Nautical set is the most defensible single purchase in this category at this price level. The warranty means something. The material will outlast most alternatives. And you will never oil it.
 

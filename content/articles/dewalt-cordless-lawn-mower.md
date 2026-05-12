@@ -87,6 +87,12 @@ Handle fold is functional and genuinely useful for storage. My garage has limite
 
 Single-lever height adjustment across six positions is better than the four-corner individual adjustments on older push mowers. I use the 3-inch setting almost exclusively for most of the season, dropping to 2.5 inches for a final fall cut. (I also cut at 3.5 inches during drought stress in late July and August, if that's relevant to your climate.)
 
+### Slope and Terrain Limits
+
+The DCMW220P2 is designed for relatively flat to gently rolling terrain. I've pushed it up grades that I'd estimate at 10 to 12 degrees without much difficulty, but above that the effort shifts noticeably — and remember, you're pushing 56 lbs with no self-propel assist. On a steeply sloped property, this mower becomes genuinely difficult to manage safely on the uphill passes, and I wouldn't recommend it for anyone with sustained grades steeper than about 15 degrees across a meaningful portion of their yard. The weight distribution also means that on downhill passes you're providing more resistance than the mower wants to offer. If your property has serious topography, this is a hard limit, not a soft one.
+
+Wet terrain adds another variable. The rear-wheel drive has decent traction on dry turf but can slip on wet grass, particularly on any incline. On a dewy morning in early spring, I've had the rear wheels spin slightly on a modest grade. Not dangerous, but worth knowing if wet conditions are routine where you live.
+
 ### Battery Ecosystem Practical Notes
 
 The DCMW220P2 takes the same batteries as DeWalt's full 20V MAX lineup, which currently covers over 250 tools. If you're already running a DEWALT 20V drill, impact driver, or circular saw, you likely have batteries and a charger you can use immediately. The included 5.0Ah packs are on the larger end of the 20V MAX range, which is what you want for a mower application. Smaller 1.5Ah or 2.0Ah packs will run the mower but significantly cut your runtime.
@@ -94,7 +100,17 @@ The DCMW220P2 takes the same batteries as DeWalt's full 20V MAX lineup, which cu
 ![Dewalt Cordless Lawn Mower](/images/articles/battery-equipment-2.jpg)
 
 
+One practical note on battery care that often goes unstated: lithium-ion batteries degrade faster when stored fully discharged or at extreme temperatures. If you're putting the mower away for winter, charge the batteries to around 50 to 60 percent before storage and keep them somewhere that doesn't freeze. A detached garage that drops below 20°F is not a good battery storage environment. This matters more for 20V batteries than for larger packs because each individual cell is doing proportionally more work. DeWalt's charger will occasionally run a diagnostic cycle when you connect a stored battery in spring; let it complete rather than yanking the pack off early.
+
 It's worth pairing this with other cordless tools if you're building out your yard care setup. For edging, the [Stihl Battery Edger](/stihl-battery-edger/) is what I use to follow up after mowing, and the combination of a tidy cut and clean edges makes a real difference in how the yard reads. For leaf clearing after the mowing season ends, I covered the [40V Cordless Leaf Blower](/40v-cordless-leaf-blower/) options in a separate piece, though those are a different battery platform.
+
+## Blade Maintenance and Seasonal Storage
+
+One area where cordless mowers often get undersold is maintenance — specifically, the blade. People hear "no engine maintenance" and assume the whole machine is care-free. The blade still needs attention. Check it at the start of each season and at least once mid-season if you're mowing regularly. Dull blades tear rather than cut grass, which stresses the turf and leaves a ragged brown edge on the tips. If your lawn looks slightly brown a day or two after mowing, the blade is the first thing to check before blaming the mower.
+
+Sharpening a mower blade isn't difficult. Remove both batteries first (both, not one), tip the mower on its side with the air filter side facing up, and use a file or a bench grinder to restore the cutting edge. If there are deep nicks from hitting a rock or a buried root, replace the blade rather than trying to grind out the damage. DeWalt replacement blades for the DCMW220P2 are available and not expensive.
+
+At the end of the season, scrape the underside of the deck. Accumulated clippings pack tightly under there and hold moisture, which can rust the deck over time. A plastic scraper or a putty knife handles this in five minutes. Wipe it down, store it somewhere dry, and you're done. The entire seasonal close-out takes about fifteen minutes compared to the hour-plus of fuel draining, carburetor prep, and oil change that a gas mower requires. That's not nothing.
 
 ## Pros and Cons
 

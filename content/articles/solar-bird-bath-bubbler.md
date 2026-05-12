@@ -116,6 +116,34 @@ Pump performance is entirely dependent on sunlight. This is the fundamental cons
 
 No battery backup or reservoir. When the sun drops, the water goes still. Some competing units in the $70 to $90 range include a small battery buffer that keeps the pump running for an hour or two after clouds move in. The AquaNura doesn't have that.
 
+## Placement: Ground Level vs. Existing Pedestal
+
+This is the decision that determines whether the AquaNura fits your setup, and it's worth being explicit about.
+
+Ground-level placement works well and draws a somewhat different set of species than elevated baths do. Robins are the clearest example. They're ground foragers by habit and strongly prefer bathing at or near ground level. I had robins at this bath within two days. They rarely use my elevated concrete bath even though it's twenty feet away. Sparrows, thrushes, catbirds, and warblers during migration also tend to come in more readily at ground level. If you have a variety of feeders and an elevated bath already, a ground-level solar bath adds genuine species variety rather than duplicating what you have.
+
+The tradeoff is predator exposure. A ground-level bath in an open area is visible to cats and other ground predators, which some birds will avoid regardless of how attractive the moving water is. Positioning it within six to ten feet of shrubby cover gives birds a quick escape route and meaningfully increases use. Don't put it so close that a cat can sit in the shrubs and ambush; visible open water with nearby cover is the right balance.
+
+Dropping the AquaNura into an existing pedestal bath is the other sensible option. Your existing bowl holds far more than the 9-inch basin, extending refills from daily to every three to five days depending on heat. The panel stem is 18 inches — check your bowl depth before assuming the panel will clear the rim at a functional angle.
+
+## Algae, Summer Maintenance, and Winterizing
+
+Moving water stays cleaner than standing water — that's genuinely true. But in warm weather there's no bath that maintains itself without attention.
+
+In July and August, I scrubbed the AquaNura basin every four to five days. The textured interior surface gives algae something to grip, and direct sun accelerates growth. A stiff plastic brush handles it in two minutes. Don't use bleach or soap — residue can harm birds, and it takes more rinsing than most people do to eliminate it. Plain water and a brush, even when the algae is stubborn.
+
+The pump intake needs rinsing every time you scrub the basin. Algae and debris partially block it and make the pump work harder. Thirty seconds under a hose; do it consistently and the motor lasts longer.
+
+In winter: bring the pump and panel assembly indoors before hard freezes. Water freezing in the basin while the pump runs can crack the motor housing. The basin itself is resin and survives outdoor storage without cracking. I pull the pump in late November and reinstall in mid-March. Reassembly takes five minutes.
+
+## Bird Response: What to Expect Realistically
+
+The first week is slower than product photos suggest. A new object takes time for birds to evaluate. They'll land nearby, watch, and eventually approach. Moving water accelerates this compared to static baths, but two to three days for the first visit is normal if you have active feeders nearby. A week or more if this is an isolated setup in a yard without established bird traffic.
+
+The more interesting migration visitors — catbirds, wood thrushes, warblers — take longer to commit but show up predictably during spring and fall movement if the bath is well-positioned near cover.
+
+One category that won't come regardless: hummingbirds. They prefer drippers or misters at height. If hummingbirds are the goal, this isn't the product.
+
 ## Who Should Buy This
 
 If you have a sunny garden bed, a deck in direct sun, or an existing bath bowl that birds have ignored, the AquaNura is a straightforward, low-cost way to add water movement without any installation work. At around $50, it's not a significant financial commitment.

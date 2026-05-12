@@ -61,6 +61,12 @@ The [Hiland HLDS01-WGTHG](product:hiland-wgthg-patio-heater) is a statement piec
 
 The 20 lb propane tank concealed inside the base is a design win. Other freestanding heaters in this price range leave the tank exposed or require a separate cover. If you've ever tripped over a propane cylinder at someone else's party, you understand why this matters.
 
+## Assembly
+
+Out of the box, the Hiland arrives in a single box with the glass tube packed separately and heavily padded. Reasonable call on their part — the tube is the most vulnerable part and the one that would be most aggravating to damage before the first use. Assembly takes about 30 to 40 minutes working alone. The instructions are clear, the hardware is labeled, and the pole sections stack and connect without ambiguity. The main awkwardness is threading the gas line through the pole sections before you close them up, which requires reading the instructions in order rather than just winging it as most of us do. If you miss that step you're partially disassembling the heater.
+
+The hammered bronze finish looks better in person than in product photographs, which is not something I say often. It has real weight and texture to it, not the thin spray-paint-over-aluminum look of cheaper heaters. It didn't show any scuffing during assembly, which surprised me given how often metal pieces rub against each other during setup.
+
 ## Performance and Testing
 
 ### Heat Output
@@ -107,6 +113,20 @@ The built-in wheels are a small thing that makes a meaningful difference. The ta
 - Heat distribution favors column pattern over even overhead spread, which matters for seated dinner-party use
 - Piezo ignition gets stubborn in freezing temperatures
 - No cover included at this price point (budget an additional $25 to $40 for a fitted cover, or look at options in our [propane fire pit cover](/propane-fire-pit-cover/) guide for comparable sizing notes)
+
+## Seasonal Storage and Propane Management
+
+This heater does not live outside year-round on my property. I use it from late September through early November and again in April, which is when Connecticut evenings make outdoor entertaining conditional. Between seasons, it goes into the garage. The disassembly is the reverse of assembly — it takes about 20 minutes — and the pole sections nest efficiently enough to store in a corner without taking up much space.
+
+If you're not willing to store it, budget for a fitted cover. The hammered bronze finish doesn't look like it would be particularly damaged by a winter outside, but the gas fittings and the valve assembly deserve protection from ice, moisture, and road salt if you're near the coast. A cover also keeps the glass tube cleaner — dust and pollen that settle inside the tube during storage create a faint haze until they burn off, which takes a few minutes of operation but produces a smell in the meantime. A covered unit avoids this entirely.
+
+On propane: the 20 lb tank hides cleanly inside the base, which is one of the better design choices on this heater. It looks finished rather than improvised. A full 20 lb tank at 40,000 BTU gets roughly 8 to 10 hours of runtime at full output, more if you're running at medium. My practical experience is that I don't run this at full blast all evening — too warm for the people standing close to it — so I get closer to 12 hours per tank. Keep a spare tank if you're hosting long events. Running out mid-party and swapping tanks in the dark while guests watch is avoidable.
+
+## Durability: Year Two Observations
+
+The bronze finish has held without meaningful change. No rust, no pitting, no color shift. The gas valve still turns smoothly. The wheels still roll without wobbling. The glass tube is the same tube that came in the box — I've been careful, and it's survived one near-tip on grass (the tip-over shutoff engaged immediately). Two seasons isn't a decade, but the construction quality suggests this is not a product that will embarrass you by year three.
+
+The one thing I'd watch is the connection point between the uppermost pole section and the burner head. After two seasons of assembly and disassembly, that joint is still solid, but it's the joint under the most thermal stress from the burner. Applying a small amount of anti-seize compound to the threads before reassembly each season is something I started doing after the second season, mostly out of habit from experience with other propane equipment. Whether that's strictly necessary is unclear, but it costs nothing and takes thirty seconds.
 
 ## Who It's For
 

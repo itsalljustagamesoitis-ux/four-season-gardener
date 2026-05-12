@@ -149,6 +149,18 @@ Liquid Fence is safe once dry. The Orbit sprinkler is physically harmless, thoug
 
 For under $60, you can have both products running simultaneously, which is the setup I'd recommend to anyone asking me what to actually buy. That's around $22 for the Liquid Fence gallon and $35-$40 for the Orbit sprinkler. If you have a large property, add the [Liquid Fence concentrate](product:liquid-fence-concentrate) and a pump sprayer to that equation, but the core investment is still modest for what you get.
 
+### Seasonal Timing and Deer Behavior
+
+Most gardeners deploy deer repellents in summer when they're noticing damage. That's backwards. The periods of highest deer pressure are spring and late fall to early winter, and those are the moments when a lapsed or absent repellent program does the most damage.
+
+In spring, deer are coming off months of reduced forage. They're hungry, they're emboldened, and they will hit newly emerging perennials and early vegetable transplants hard. This is when I start my Liquid Fence applications — before I see damage, not after. Reacting to browse means you're already behind.
+
+Late fall brings a second wave of pressure. Natural forage has died back, deer are packing on weight before winter, and plants that were ignored all summer can take serious damage in October and November. Woody shrubs and evergreens are particularly vulnerable because they retain foliage when everything else is gone. If you're going to let your repellent schedule slip anywhere, late fall is not the time to do it.
+
+The Orbit sprinkler is most effective from mid-spring through early fall, when hose lines are active and overnight temperatures stay above freezing. I run mine from April through mid-November in Connecticut, then switch to Liquid Fence alone for the remaining winter months when the sprinkler comes offline.
+
+Understanding this seasonal rhythm is genuinely useful for budgeting, too. Buy your Liquid Fence concentrate and your replacement AA batteries before the spring rush, not during it. The ready-to-use gallon disappears from local stores faster than you'd expect in late April.
+
 ### When Nothing Works
 
 Deer pressure varies dramatically by season and local population. In areas with very high deer density, no repellent device completely prevents damage. During late fall and winter, when natural forage is scarce, deer will push through deterrents they'd normally avoid. In those conditions, physical fencing is the only reliable answer, and that's a different article. The devices here are effective for moderate pressure and for protecting high-value plants from opportunistic browse, which covers most home gardening situations.

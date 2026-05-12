@@ -104,12 +104,36 @@ I've used the standard rectangle configuration for both seasons and haven't reco
 - Plastic corner connectors are the obvious long-term durability question mark. Two seasons in, mine are fine. I'll update this review if that changes.
 - At $180 to $220, this is not the budget option. If you need multiple beds, costs scale.
 
+## Soil Volume and What That Means in Practice
+
+Seventeen inches of depth sounds simple until you're actually filling the thing. The standard rectangle configuration holds around 17 to 18 cubic feet of soil depending on your exact configuration. Translated: you need approximately 12 to 13 bags of a quality 1.5 cubic foot potting mix, or a bulk cubic yard order if you're filling multiple beds at once. Don't underestimate this cost or the effort of transporting it. On my first fill I used a 60/30/10 mix of topsoil, compost, and perlite, which I'd recommend over standard bagged potting soil alone for beds this deep — the extra perlite keeps drainage functioning at the bottom of the column, which matters more the deeper the bed goes.
+
+The weight of a fully loaded bed is also worth acknowledging before you finalize placement. A bed with 17 to 18 cubic feet of moist soil mix is not moving. Once you've committed to a location, you're committed. Choose your spot carefully before you fill.
+
+## Maintenance Reality
+
+Two seasons in, the Vego has required less maintenance than the cedar beds I ran before it. That's a genuine advantage. The Aluzinc panels don't need sealing, staining, or treatment of any kind. End-of-season care is simple: cut back plants, remove dead roots, top off compost, and cover with a layer of mulch or burlap if you're in a hard-winter climate. That's it.
+
+What I do check once a year is the plastic corner connectors. They haven't shown any degradation, but they're clearly the component most likely to be the first failure point over a long lifespan. Run your thumb around each connector in spring before you plant. If you see cracking or deformation, contact Vego before those panels are under soil pressure. Two seasons in, mine look the same as they did on assembly day.
+
+The stakes that anchor the bed to the ground are worth re-checking in spring as well. Freeze-thaw cycles in Connecticut can heave stakes over a winter, and a loosened stake on a filled bed is more annoyance than crisis, but worth five minutes of attention before planting.
+
+## What Surprised Me
+
+The color holds up better than I expected. The Olive Green isn't a coating that chips or fades; it looks essentially the same now as it did when I assembled it two seasons ago. Metal products at this price often look fine in product photography and then start showing wear by year two. This one hasn't, which I acknowledge surprised me given some skepticism going in.
+
+I also expected more heat transfer to root systems than I've actually seen. I planted a thermometer probe at mid-depth during a July heat wave and the soil temperature at 9 inches was running about 4 to 5 degrees warmer than my in-ground beds at the same depth. That's measurable but hasn't been crop-damaging. The mulch I maintain on the surface is probably doing real work there.
+
 ## Who It's For
 
 The Vego 17" is the right choice if you're growing anything with a real root system and you want a bed that will outlast the typical three-to-five year lifespan of cheaper galvanized alternatives. Tomatoes, peppers, carrots, parsnips, squash, potatoes. Crops that need depth and drain well when they have it.
 
 ![Vego Elevated Garden Bed](/images/articles/raised-beds-7.jpg)
 
+
+**Beginners:** The Vego is accessible if you're willing to research soil composition before filling. The mistake I see newer gardeners make is treating this like an oversized pot and filling it with standard bagged potting soil. At 17 inches of depth you need a mix designed for drainage. Get that right and the bed is forgiving. Get it wrong and you'll spend a season troubleshooting drainage problems that are actually soil problems.
+
+**Experienced gardeners:** If you already know what you're doing with raised beds, the Vego is a genuine upgrade path. The depth unlocks crop variety that shallower beds don't support, and the material quality means you're not rebuilding every five years. The modular configuration is a nice-to-have for experienced growers who want to adapt their layout as their planting plans evolve.
 
 If you're primarily growing cut flowers, lettuces, or shallow-rooted herbs, the depth advantage is less relevant to you and a less expensive option makes more sense. A [cedar raised bed kit](/cedar-raised-bed-kit/) at a lower price point would serve that use case adequately and insulates better in heat.
 
