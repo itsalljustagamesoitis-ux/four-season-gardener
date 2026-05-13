@@ -15,6 +15,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the minimum shed size that makes a loft practical?"
+    answer: "A 10x12 footprint is generally the minimum for a usable loft, and 10x14 or larger is where it becomes genuinely functional. Smaller sheds produce lofts too shallow to store anything except flat items, and the reduced headroom on the main level becomes a frustration quickly."
+  - question: "What can I store in a garden shed loft?"
+    answer: "Lofts are best for lightweight seasonal items — empty planters, seed-starting supplies, holiday containers, grow light equipment, and bags you only need twice a year. Avoid storing heavy items like full bags of fertilizer or soil unless the loft is specifically rated for that load."
+  - question: "Do garden sheds with lofts need a special foundation?"
+    answer: "Yes — a loft adds concentrated weight at specific structural points, so the foundation needs to be level and stable. A 4-inch concrete slab is the most reliable long-term option, especially in climates with freeze-thaw cycles. A compacted gravel pad may work for smaller structures but should be assessed carefully."
+  - question: "Can I add a loft to an existing garden shed?"
+    answer: "A retrofitted loft is possible but requires the existing frame to be structurally adequate for the added load. Most prefab shed frames are not designed for retrofit lofts, and improperly added lofts have caused shed collapses. Loft storage is best designed into the shed from the start."
+  - question: "How do you access the loft in a garden shed?"
+    answer: "Most sheds with lofts use a fixed wooden ladder or steep access steps. Full staircases are only practical in larger (12x20+) sheds where the footprint allows it. A fixed ladder takes up minimal floor space and is sufficient for occasional seasonal access."
 ---
 
 A garden shed with loft space is one of those structures that sounds like a luxury until you've spent a season tripping over your bag spreader every time you need to reach the hose. Then it becomes obvious. The loft converts dead vertical space into actual storage, keeps seasonal items off the floor, and lets the main level function as a workspace rather than a warehouse. If you're already thinking about adding a permanent structure to your property, the full [Greenhouses, Sheds & Gazebos](/structures/) section of this site covers the broader landscape of options worth considering before you commit.

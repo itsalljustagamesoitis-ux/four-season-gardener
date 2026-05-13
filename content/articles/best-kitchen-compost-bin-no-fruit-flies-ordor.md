@@ -49,6 +49,17 @@ products:
 tags: ["composting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why does my kitchen compost bin attract fruit flies, and how do I stop it?"
+    answer: "Fruit flies are attracted to exposed fruit and vegetable scraps, not to composting itself. The fix is a tight-sealing lid, frequent emptying (every 2–3 days in warm weather), and keeping the bin away from direct sunlight. Carbon filter lids help with odor but don't prevent flies if the seal is inadequate."
+  - question: "What is the difference between a countertop compost bin and an outdoor tumbling composter?"
+    answer: "A countertop bin is simply a collection vessel for kitchen scraps — it doesn't compost anything, it just holds scraps temporarily until you transfer them outside. An outdoor tumbling composter like the FCMP IM4000 is where actual decomposition happens, taking 4–8 weeks to produce finished compost depending on conditions."
+  - question: "Does the Lomi electric composter produce real finished compost?"
+    answer: "Lomi produces a dry, granular organic material in 4–8 hours, but it is not fully finished compost — it is a pre-compost or soil amendment that needs additional curing in soil or an outdoor bin before it functions like mature compost. It is most useful for apartments and homes with no outdoor composting space."
+  - question: "Can I compost meat and dairy scraps in a kitchen compost bin?"
+    answer: "Standard aerobic composting bins (tumblers, open bins, countertop crocks) should not receive meat or dairy — they attract pests and create serious odor problems. Bokashi systems and the Lomi electric composter can handle meat and dairy. Worm bins like the Worm Factory 360 can handle small amounts of certain proteins but are better kept to fruit and vegetable scraps."
+  - question: "How often do I need to empty a kitchen compost bin to prevent odors?"
+    answer: "Every 2–3 days in warm weather, and up to 4–5 days in winter when decomposition is slower. The longer scraps sit at room temperature, the more anaerobic decomposition occurs, which produces the sulfur-based odors most people find objectionable. Activated carbon filters in the lid help but don't replace regular emptying."
 ---
 
 The fruit fly situation is not a composting problem. It's a container problem. Most kitchen compost bins fail not because the concept is flawed but because the design invites pests, traps odors, or makes the whole process unpleasant enough that people stop doing it. If you've ever opened a countertop crock and been greeted by a small cloud of insects, you know exactly what I mean.

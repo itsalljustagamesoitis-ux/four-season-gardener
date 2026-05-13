@@ -53,6 +53,17 @@ product_a: "dr-infrared-carbon-tripod-b08r"
 product_b: "serenelife-900w-infrared-b0db"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What wattage do I need for a patio infrared heater?"
+    answer: "For a standard covered patio up to 150 square feet, 1500W is the right starting point. Nine hundred watts works for small seating areas or mild climates, but it struggles when temperatures drop into the low 30s. Size your wattage to your square footage, not to your budget."
+  - question: "Do electric infrared patio heaters need a dedicated circuit?"
+    answer: "A 1500W unit draws about 12.5 amps on a standard 120V circuit. Most outdoor outlets share a 15- or 20-amp circuit breaker, so you'll want to verify nothing else heavy is running on the same breaker. Dedicated circuits are not usually required, but overloaded shared circuits are a common install mistake."
+  - question: "Can a patio infrared heater be used under a wood pergola safely?"
+    answer: "Yes, as long as you maintain the manufacturer's minimum clearance distance — typically 12 to 18 inches from combustible surfaces overhead. Carbon-tube and quartz infrared elements focus heat downward, not upward, so a properly mounted heater under a pergola presents low risk when clearances are respected."
+  - question: "How long do carbon infrared heating elements last?"
+    answer: "Carbon tube elements typically last 5,000 to 10,000 hours of use, compared to 3,000 to 5,000 hours for quartz. For average seasonal use of around 200 hours per year, a carbon element can last 25 or more years. Most failures occur from moisture damage or physical impact rather than element burnout."
+  - question: "Is a wall-mount or freestanding infrared heater better for a patio?"
+    answer: "Wall-mount saves floor space and is harder to knock over, making it better for small decks or high-traffic areas. Freestanding tripod units like the Dr. Infrared offer repositioning flexibility, which matters if your seating layout changes seasonally. If your patio setup is fixed, wall-mount wins on practicality."
 ---
 
 The market for patio infrared heaters has gotten genuinely crowded, and most buying guides handle this by listing specs and calling it a day. That's not useful when you're standing in your backyard trying to figure out whether you need 900 watts or 1500, propane or electric, wall-mounted or freestanding. I've been testing and swapping outdoor heaters on my 12-acre property for several years now, and my starting position is: most people buy more heater than they need, or they buy the wrong fuel type for their setup entirely.

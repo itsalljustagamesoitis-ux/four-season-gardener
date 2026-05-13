@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Is a round or rectangular propane fire pit table better for a circular seating arrangement?"
+    answer: "A round fire pit is better suited to circular seating because it distributes heat and flame view evenly to all seats. The Outland Living 403 at 44 inches diameter works well with 4 to 6 chairs arranged around it with no dead-angle seating. Rectangular tables favor a linear or L-shaped seating arrangement where fewer seats are at the short ends."
+  - question: "Does the Outland Living Series 403 round fire pit come pre-assembled?"
+    answer: "No — it requires moderate assembly, typically about an hour for one person. The concrete-look tabletop is heavy, so having a second person on hand for that portion is practical rather than optional. The regulator hose comes pre-attached, so connecting to your propane tank does not require additional plumbing."
+  - question: "What is the heat radius of the Outland Living 403 round fire pit table?"
+    answer: "The manufacturer rates it at approximately 15 feet at full 50,000 BTU output. In practice, people seated within 6 to 8 feet will feel direct warmth; the outer 15-foot claim reflects ambient heat that takes the edge off cooler air rather than delivering strong directed warmth at that distance."
+  - question: "How does powder-coated steel compare to cast aluminum for a round propane fire pit frame?"
+    answer: "Powder-coated steel is heavier and less expensive but can show surface oxidation and pitting after repeated wet seasons in cold climates. Cast aluminum does not rust and the finish holds significantly longer outdoors. For a permanent installation intended to last 10 years, aluminum construction like the Napoleon St. Tropez justifies its higher upfront cost. For a 3 to 5 year horizon with a covered storage option, powder-coated steel is adequate."
+  - question: "Can I store a 20-lb propane tank inside the Outland Living 403 fire pit cabinet?"
+    answer: "Yes — the enclosed cabinet base of the Outland 403 is designed to house a standard 20 lb propane tank during use. The tank fits inside with the lid closed, keeping it out of sight while the table is in use. Do not store additional tanks inside the cabinet; only the single connected tank should be in the enclosed space during operation."
 ---
 
 Round propane fire pit tables have gotten genuinely good in the last few years, and the category is now crowded enough that picking one requires actual homework. Two products keep surfacing in that research: the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table). They're both propane-fueled, both table-format, and both marketed to people who want a permanent outdoor living setup rather than a backyard bonfire situation. But they're aimed at different buyers, and the price difference between them is substantial enough to matter. I'll give you a straight read on both.

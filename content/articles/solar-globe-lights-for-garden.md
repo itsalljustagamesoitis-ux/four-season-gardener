@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do solar globe lights for garden stay on all night if the sun sets early in winter?"
+    answer: "Solar globe lights store charge in a built-in battery during daylight, then draw from that battery after dark. In winter, shorter days mean less charge, so nightly runtime is shorter — a light that runs 8 hours in summer may only run 4–5 hours in December. Models with larger battery capacity handle seasonal variation better."
+  - question: "What size solar globe light works best for a garden path or border?"
+    answer: "Globe lights in the 3–4 inch diameter range work well for path edging and garden borders — small enough to look tidy in a planting bed but large enough to emit useful ambient light. Larger 6–8 inch globes suit lawn focal points or spacing along a driveway."
+  - question: "Can solar globe garden lights stay out through winter?"
+    answer: "Most solar globes rated IP65 or higher handle rain, snow, and freezing temperatures without hardware damage, but battery performance drops significantly in cold weather. If you experience harsh winters, bringing them in during extended freezing spells prolongs battery lifespan."
+  - question: "Why do cheap solar globe lights stop working after a few months?"
+    answer: "Budget solar lights typically use low-capacity batteries and non-UV-stabilized plastic that yellows and cracks quickly, reducing both panel efficiency and light output. Paying slightly more for a known brand with an IP65 or higher rating and a stated battery capacity (in mAh) usually results in significantly better longevity."
+  - question: "Do solar globe lights need direct sun or can they charge in indirect light?"
+    answer: "They charge best in direct sun but will accumulate some charge in bright indirect light — just at a slower rate, resulting in shorter nightly runtime. For the best performance, position the solar panel portion of the light where it receives at least 6 hours of direct sun per day."
 ---
 
 Solar globe lights get searched constantly, and most of what you'll find is the same generic stake light repackaged under forty different brand names. The fixtures are interchangeable, the specs are padded, and the "800 lumen" claim on the box requires a level of charitable interpretation I'm not willing to offer. If you've spent any time browsing [Garden Lighting](/lighting/) options online, you've seen the pattern: identical product photos, suspiciously identical five-star counts, suspiciously identical descriptions.

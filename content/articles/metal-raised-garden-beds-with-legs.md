@@ -21,6 +21,17 @@ products:
 tags: ["raised-beds", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What height should a raised metal garden bed with legs be to avoid back strain?"
+    answer: "Most elevated metal garden beds with legs range from 24 to 36 inches at the rim. A bed at standing-work height — around 30 to 36 inches — lets most adults work without bending, which significantly reduces lower back fatigue during planting, weeding, and harvesting sessions."
+  - question: "Can metal raised garden beds with legs be used on a deck or patio?"
+    answer: "Yes — elevated metal beds are freestanding and do not need to be anchored into the ground, making them well-suited to patios, decks, driveways, and gravel areas where digging is not possible. Use saucers or check drainage clearance to avoid water staining on deck surfaces."
+  - question: "How deep does a metal raised bed with legs need to be to grow tomatoes or carrots?"
+    answer: "Tomatoes need at least 12–18 inches of depth for proper root development, and carrots need a minimum of 12 inches. Most budget elevated beds run only 6–10 inches deep, which limits you to herbs, lettuce, and shallow greens. A 17-inch-deep bed like the Vego Garden model handles full vegetable production without restriction."
+  - question: "Will a metal raised bed with legs rust?"
+    answer: "Standard galvanized steel beds can show rust streaking within 3–5 years in wet climates with freeze-thaw cycles. Beds made with upgraded coatings like Aluzinc (used by Vego Garden) resist corrosion 3–5 times longer than plain galvanized steel, making coating quality one of the most important factors to evaluate when buying."
+  - question: "Are metal raised garden beds with legs stable when filled with soil and wet?"
+    answer: "Well-designed elevated beds with wide leg bases and cross-bracing are stable when filled, even when soil is saturated. Avoid narrow-legged or shallow-pan designs that shift under weight. Modular panel systems with integrated leg frames, like the Vego Garden model, are generally more structurally sound than tray-style elevated planters."
 ---
 
 Metal raised garden beds with legs solve a specific problem that ground-level beds don't: they keep you upright. If you've spent a full morning of planting with your knees in wet soil and your lower back filing a formal complaint, you already know what I mean. But legs are just the beginning of what separates a genuinely useful elevated metal bed from one that rusts in three seasons and tips over when the soil is wet.

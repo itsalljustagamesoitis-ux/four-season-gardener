@@ -32,6 +32,17 @@ product_a: "worm-factory-360-black"
 product_b: "fcmp-im4000-tumbling-composter"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Are worm castings better than compost for vegetable gardens?"
+    answer: "Worm castings are more nutrient-dense per volume than conventional compost and are immediately plant-available without further breakdown. They're especially valuable for seed starting and container plants where small quantities of concentrated fertilizer matter. Conventional compost delivers higher bulk volume of organic matter at lower cost per pound, making it better suited for amending large garden beds."
+  - question: "Can worm castings burn plant roots if over-applied?"
+    answer: "No — worm castings are one of the few soil amendments that cannot burn roots regardless of application rate, unlike synthetic fertilizers or concentrated manures. This makes them safe to apply directly in planting holes, mix into seed-starting media, or use as a top dressing without risk of damaging seedlings."
+  - question: "How long does a tumbling composter take to produce finished compost?"
+    answer: "A well-managed tumbling composter like the FCMP IM4000 can produce finished compost in four to six weeks if you maintain the right carbon-to-nitrogen ratio, adequate moisture, and turn the drum every two to three days. Neglected or unbalanced bins take significantly longer — sometimes three to four months — approaching the timeline of a traditional open compost pile."
+  - question: "Can I use both a worm bin and a tumbling composter together?"
+    answer: "Yes — they complement each other well. The tumbling composter handles large volumes of kitchen scraps, yard waste, and carbon materials that would overwhelm a worm bin. The worm bin converts the most nutrient-rich scraps (coffee grounds, vegetable peels) into high-potency castings. Many experienced composters run both systems simultaneously."
+  - question: "What is worm tea and how is it different from worm castings?"
+    answer: "Worm tea (also called leachate) is the liquid that drains through a worm bin and collects in the base tray. It is diluted and applied directly to plant soil as a liquid fertilizer. Worm castings are the solid byproduct — darker, denser, and more concentrated than the liquid. Both are valuable, but castings are more shelf-stable and easier to apply precisely."
 ---
 
 Both of these products will improve your soil. That's about where the easy comparison ends. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black) and the [FCMP Outdoor IM4000 Dual Chamber Tumbling Composter, 37 Gallon](product:fcmp-im4000-tumbling-composter) are solving different problems for different gardeners, and picking the wrong one means you'll either have a plastic drum sitting half-full in your yard or a worm bin that freezes solid in November. The worm castings vs compost question sounds like a chemistry debate, but in practice it's a space, temperature, and volume question. Here's how to figure out which one is actually right for your situation.

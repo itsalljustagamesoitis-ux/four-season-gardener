@@ -28,6 +28,17 @@ products:
 tags: ["lighting", "comparison"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a solar security light and a hardwired security light?"
+    answer: "Solar security lights charge via built-in panels and require no wiring, making them easy to install anywhere with adequate sun. Hardwired lights connect to your home's electrical system and provide consistent, weather-independent output — particularly important in winter or shaded locations."
+  - question: "How bright is 410 lumens for an outdoor security light?"
+    answer: "410 lumens is adequate for a covered entryway, back step, or small pathway, but won't illuminate a full driveway or large yard. For broad coverage, look for hardwired fixtures rated at 1,000 lumens or more."
+  - question: "Can a solar security light work in a shaded location?"
+    answer: "Solar lights need direct sun for several hours daily to maintain their charge. In shaded areas or during winter, charging is insufficient and the light may not trigger reliably at night — a hardwired fixture is a better choice for shaded locations."
+  - question: "Does the LEONLITE security light require a junction box?"
+    answer: "Yes — it's a hardwired fixture that must connect to an existing outdoor junction box. If you don't have one, you'll need an electrician to install the wiring before mounting the light."
+  - question: "What does IP65 mean on a security light, and is it weatherproof enough for year-round outdoor use?"
+    answer: "IP65 means the fixture is dust-tight and protected against water jets from any direction. This rating is sufficient for year-round outdoor exposure including rain, snow, and garden hose splash — it's the standard spec for outdoor security lighting."
 product_a: "mr-beams-solar-wedge-plus"
 product_b: "leonlite-3cct-security-light"
 # winner: product_a  # SET THIS after review

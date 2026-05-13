@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between Grade A and Grade B teak for outdoor furniture?"
+    answer: "Grade A teak is cut from the heartwood — the dense, oil-saturated core of the tree — and offers superior resistance to warping, cracking, and fungal staining. Grade B teak includes sapwood from the outer rings, which is drier and more prone to uneven discoloration and weather damage over time. The Ash & Ember chair uses heartwood-only (Grade A) milling."
+  - question: "How often does a teak Adirondack chair need to be oiled?"
+    answer: "Teak should be oiled every 1 to 2 years to maintain its golden-brown color and slow surface weathering. Without oiling, teak naturally weathers to a stable silver-gray patina — this does not harm the wood structurally, but it is a significant color change that some buyers prefer to avoid."
+  - question: "Does the Ash & Ember teak Adirondack chair require assembly?"
+    answer: "Yes — the chair requires assembly, which takes approximately 35 minutes with a basic socket set. Hardware is included, and the stainless steel bolts are a quality detail that prevents the rust staining common with galvanized fasteners on furniture that gets wet regularly."
+  - question: "How heavy is the Ash & Ember teak Adirondack chair?"
+    answer: "The chair weighs 35 to 40 pounds, which is typical for solid Grade A teak construction. This weight gives it excellent stability in wind but means it is not a chair you will casually move around the yard on a daily basis."
+  - question: "Is a teak Adirondack chair worth the price premium over HDPE resin alternatives?"
+    answer: "Teak wins on aesthetics — the warm grain and natural wood look cannot be replicated by resin. HDPE wins on maintenance, requiring no oiling, painting, or weather treatment. At $350 to $400, the Ash & Ember teak chair is the right choice if the look of real wood matters to you and you're willing to commit to occasional oiling."
 ---
 
 If you've spent any time shopping for outdoor seating, you already know the teak vs. resin argument. Resin wins on maintenance. Teak wins on everything else you actually look at when you're sitting in your yard. The [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) by TITAN Great Outdoors is the version of that argument that made me put my credit card down. Whether it was the right call is what this review is about. You can browse the broader [Outdoor Furniture](/outdoor-furniture/) category if you want to compare across material types first, but if you've already decided real wood is the direction, read on.

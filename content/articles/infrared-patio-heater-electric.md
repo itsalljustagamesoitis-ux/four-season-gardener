@@ -49,6 +49,17 @@ products:
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does an electric infrared patio heater work?"
+    answer: "Electric infrared heaters emit radiant heat that warms people and objects directly rather than heating the surrounding air, much like the sun. This means they feel warm almost instantly and are not affected by wind the way convective heaters are, making them well-suited for covered outdoor spaces."
+  - question: "Do electric infrared patio heaters work well on a covered deck or screened porch?"
+    answer: "Yes — covered decks and screened porches are the ideal environment for electric infrared heaters because the structure contains some of the radiant warmth and protects the unit from direct rain. Most plug-in models can be wall or ceiling mounted for permanent installation."
+  - question: "What wattage electric infrared heater do I need for a patio?"
+    answer: "A 1,500W heater covers a small to medium patio area of roughly 150 square feet, while higher-wattage models in the 3,000–5,000W range are needed for larger spaces. Consider your patio's square footage and whether it's enclosed or open to the elements when sizing your heater."
+  - question: "Is a thermostat important in an electric infrared patio heater?"
+    answer: "A built-in thermostat like that on the Dr. Infrared Heater thermostat model cycles the heater on and off to maintain a set temperature, which saves electricity compared to running at full power continuously. For occasional use a manual on/off unit is fine, but frequent users will find thermostat control meaningfully reduces energy costs."
+  - question: "Are electric infrared patio heaters weatherproof?"
+    answer: "Weatherproofing varies by model — the Thermomate heater carries an IP65 rating meaning it's dust-tight and protected against water jets, while other models like the infrared tower heater carry IPX5 water resistance. Always check the specific IP rating before mounting in an exposed location."
 ---
 
 Electric infrared patio heaters have gotten considerably better in the past few years, and the price points have dropped to where it's hard to justify a propane setup for a covered deck or screened porch. I've tested several of these over the past two seasons on my property in Litchfield County, and I've also watched neighbors with smaller patios cycle through the same frustrations: uneven heat, fussy gas connections, heaters that take five minutes to do anything useful in cold weather. Infrared solves most of those problems. The question is which unit actually delivers on that promise, and which ones are dressing up mediocre output in a sleek housing.

@@ -21,6 +21,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many pallets do I need to build a small garden shed?"
+    answer: "A basic 8x8 foot shed footprint typically requires 12–16 standard 48x40-inch pallets for the walls alone. You'll also need lumber for the base frame, roof structure, and additional cladding or plywood to close the gaps between pallet boards."
+  - question: "Which type of pallets are safe to use for a garden shed?"
+    answer: "Only use pallets stamped HT (heat treated), DB (debarked), or KD (kiln dried) — these are safe for outdoor use. Avoid any pallets marked MB (methyl bromide treated), which were fumigated with a pesticide that can off-gas in enclosed spaces. Never use pallets with illegible or missing stamps."
+  - question: "How much does it actually cost to build a pallet shed?"
+    answer: "While pallets may be free or low-cost, the full material bill for a small pallet shed — including treated lumber for the base, roofing, fasteners, weatherproofing, and cladding — typically runs $300–$600 or more. That figure can approach or exceed the cost of a basic prefab metal shed kit."
+  - question: "How long will a pallet shed last?"
+    answer: "A well-built pallet shed using quality HT-stamped pallets, a raised treated-lumber base, and proper weatherproofing can last 8–10 years or more. Skipping the base elevation or weatherproofing typically leads to rot within 2–3 seasons in wet climates."
+  - question: "Do I need a building permit to build a pallet shed?"
+    answer: "Permit requirements vary by municipality, but most jurisdictions require a permit for any permanent outdoor structure over a certain square footage — commonly 100–120 sq ft, though some areas start at 64 sq ft. Check with your local building department before starting any shed project, including pallet builds."
 ---
 
 Pallet sheds show up constantly on Pinterest and homesteading blogs, usually photographed in golden light with a Mason jar of wildflowers nearby. The reality is somewhat different. Pallets are free or cheap, yes, but they are also inconsistent in size, often contaminated, structurally variable, and prone to exactly the kind of rot and pest problems you're trying to avoid when you build a garden shed in the first place. That doesn't mean a pallet shed is a bad idea. It means you should go in with accurate expectations and a clear plan, not a mood board.

@@ -28,6 +28,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What type of garden gloves work best for women with smaller hands?"
+    answer: "Look for gloves explicitly sized in XS and S with a close-fitting, seamless knit construction rather than a sewn fabric cut. Bamboo-fiber or spandex-blend gloves conform better to smaller hand shapes than stiff leather or heavy-duty work gloves."
+  - question: "Are bamboo garden gloves durable enough for regular use?"
+    answer: "Yes for light-to-medium tasks like weeding, planting, and transplanting. Bamboo-fiber gloves with nitrile-coated fingertips hold up well and are machine washable, extending their life considerably. They are not suitable for heavy-duty tasks or thorny plants like roses."
+  - question: "What garden gloves protect against rose thorns?"
+    answer: "For rose pruning and thorny shrubs, choose gauntlet-style gloves with a reinforced leather or double-layered palm and wrist-length cuff. Standard bamboo or spandex knit gloves offer little thorn protection; purpose-built thorn-resistant gloves are needed."
+  - question: "Can I use garden gloves on a touchscreen phone without taking them off?"
+    answer: "Some garden gloves include conductive fingertips that work with capacitive touchscreens. The Pine Tree Tools Bamboo Gloves are one example — the fingertip coating allows you to use your phone mid-task without removing the gloves."
+  - question: "How do I wash garden gloves to keep them from degrading quickly?"
+    answer: "Machine-washable bamboo or spandex-blend gloves should be washed in cold water on a gentle cycle and air dried rather than put in a dryer, which can degrade the nitrile coating and elastic. Leather gloves should never be machine washed — wipe clean and condition instead."
 ---
 
 Most garden gloves are designed to fit a generic hand. If yours are on the smaller side, you've likely dealt with bunching fabric at the fingertips, excess material at the palm, or wrist bands that gap and let debris in. None of that is a minor annoyance after an hour of weeding. It slows you down and, over time, contributes to fatigue in ways that are easy to blame on everything except the glove.

@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size table do I need for a 4-person outdoor dining set?"
+    answer: "A round table 42 to 48 inches in diameter or a rectangular table 60 inches long is typically comfortable for four adults. Round tables work especially well in smaller patio spaces because they allow conversation across the table without the formal end-to-end feel of a rectangle."
+  - question: "Is FSC-certified teak better than non-certified teak for outdoor dining furniture?"
+    answer: "FSC certification verifies that the teak was harvested from responsibly managed forests — it's a chain-of-custody guarantee, not a grade indicator. That said, reputable FSC suppliers generally source Grade A heartwood, so certification is a useful proxy for both ethical sourcing and material quality."
+  - question: "How does real teak compare to acacia for a 4-person outdoor dining set?"
+    answer: "Teak contains naturally higher oil content than acacia, making it more resistant to moisture and UV damage with less maintenance. Acacia is denser and attractive, but it requires annual oiling to prevent cracking and graying; teak tolerates neglect better and typically outlasts acacia in harsh climates."
+  - question: "Can a 4-person teak dining set be left outside year-round?"
+    answer: "Grade A solid teak can remain outdoors in most climates without damage, including through wet winters and hot summers. Using furniture covers during extended off-season periods will reduce weathering and slow the natural graying process, but it is not strictly required for structural survival."
+  - question: "What is the typical price range for a quality 4-person teak outdoor dining set?"
+    answer: "Expect to pay $900 to $2,000 for a genuine Grade A teak 4-person set from a reputable brand. Sets priced below $600 that claim solid teak are almost certainly using Grade B or Grade C wood, teak veneer, or a teak look-alike species — each of which has a shorter outdoor lifespan."
 ---
 
 A teak outdoor dining set for 4 is one of the few outdoor furniture purchases that genuinely rewards doing the research. The price range is wide, the quality signals are easy to fake, and the wrong choice either rots in three seasons or sits in storage half the year because it's too heavy to move. I've owned outdoor dining furniture long enough to have made several of those mistakes myself, and this guide is an attempt to save you from repeating them.

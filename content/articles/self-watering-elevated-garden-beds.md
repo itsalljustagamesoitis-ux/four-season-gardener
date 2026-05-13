@@ -32,6 +32,17 @@ product_a: "vego-garden-6in1-17inch"
 product_b: "birdies-metal-raised-bed-patio"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What makes a self-watering elevated garden bed different from a standard raised bed?"
+    answer: "Self-watering elevated beds include a built-in water reservoir at the bottom that allows roots to draw moisture up through a wicking layer, which reduces how often you need to water and prevents both overwatering and drought stress. Standard raised beds drain freely and depend entirely on the gardener for consistent irrigation."
+  - question: "Can I put a self-watering elevated garden bed on a wood deck?"
+    answer: "Only if the bed has a sealed base or drainage tray — open-bottom or free-draining beds will stain and eventually rot a wood or composite deck. Beds like the Birdies patio model include a thermoplastic base that contains moisture and protects the surface beneath."
+  - question: "How deep should a self-watering elevated garden bed be for growing tomatoes or carrots?"
+    answer: "Tomatoes need at least 12 inches of root depth, and carrots require 12–16 inches depending on the variety. A 17-inch-deep bed like the Vego Garden model comfortably accommodates both without root restriction."
+  - question: "Is galvanized metal safe for growing vegetables in raised beds?"
+    answer: "Standard galvanized steel uses a zinc coating that can leach small amounts of zinc into the soil over time, but at levels generally considered safe for food crops. Aluzinc-coated steel (used in premium beds like Vego Garden) offers better corrosion resistance and is also considered food-safe."
+  - question: "How often do I need to refill the reservoir in a self-watering raised bed?"
+    answer: "It depends on plant size, temperature, and sun exposure — in hot summer conditions with large plants, a reservoir may need refilling every 2–3 days, while in cooler weather it can last a week or more. Most self-watering beds include a fill tube or indicator window so you can check water level without disturbing the soil."
 ---
 
 If you've been shopping for self watering elevated garden beds long enough, you've probably noticed that the category splits pretty cleanly into two groups: beds designed for in-ground or lawn installation, and beds designed to sit on a hard surface without destroying your deck. These two products land in each of those camps, and buying the wrong one for your situation is an expensive mistake. The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is built for gardeners who want depth and flexibility on soil or lawn. The [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) is built for decks, patios, and balconies where surface protection matters as much as growing performance.

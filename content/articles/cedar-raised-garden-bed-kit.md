@@ -21,6 +21,17 @@ products:
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does a cedar raised garden bed kit last?"
+    answer: "Western Red Cedar is naturally rot-resistant and can last 10–15 years in a ground-contact raised bed application without chemical preservatives. Applying linseed or tung oil annually extends the lifespan further and slows the natural weathering to grey."
+  - question: "Is cedar safe for growing vegetables in a raised bed?"
+    answer: "Yes — untreated cedar contains no toxic preservatives and is one of the safest natural wood choices for edible gardens. Unlike pressure-treated lumber, it doesn't leach chemicals into the soil, making it a straightforward choice for organic growers."
+  - question: "What depth raised bed kit do I need for root vegetables?"
+    answer: "Carrots, parsnips, and deep-rooted herbs need at least 12–18 inches of soil depth to develop properly. A 17.5-inch deep kit like the Greenes Fence 4x8 is ideal for root crops; kits under 10 inches deep should be limited to lettuces, herbs, and shallow-rooted annuals."
+  - question: "Does the Greenes Fence cedar bed kit require tools to assemble?"
+    answer: "No — the Greenes Fence kit uses corner bracket connectors that lock boards together without screws, nails, or any tools. Most buyers report assembly time of 15–25 minutes."
+  - question: "Will a cedar raised bed kit warp or bow outward under soil pressure?"
+    answer: "Some outward bowing can occur with single-board walls under the pressure of dense soil, especially in a 4x8 span. Running a cross-brace or center stake along the long sides helps prevent this; some kits include them and some don't, so check before ordering if bow resistance is a priority."
 ---
 
 If you've spent any time researching [Raised Beds](/raised-beds/) online, you already know the options run from flimsy galvanized rectangles to pressure-treated lumber you'd need a contractor to assemble. The [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5"](product:greenes-premium-cedar-4x8) sits in a different category: North American cedar, made in the USA, no tools required. Whether it earns its mid-range price is what I was actually trying to figure out.

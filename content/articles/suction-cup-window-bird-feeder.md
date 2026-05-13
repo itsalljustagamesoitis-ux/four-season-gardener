@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I get suction cups to stay on the window without falling off?"
+    answer: "Clean both the glass and the suction cup with rubbing alcohol before mounting, then press firmly and twist to seat fully. Avoid mounting in direct sunlight where heat softens the rubber, and never use suction cups on frosted, textured, or double-pane windows with an outer film — smooth flat glass holds best."
+  - question: "How long does it take for birds to find a suction cup window feeder?"
+    answer: "Birds can take days to several weeks to discover and trust a window-mounted feeder, especially if they're not already accustomed to visiting that area. Placing it near existing feeders or planting cover nearby speeds up the discovery process."
+  - question: "What type of seed is best for a window bird feeder?"
+    answer: "Black oil sunflower seed attracts the widest variety of birds and is the best general-purpose choice for window feeders. For finches, add nyjer (thistle) seed; for cardinals, make sure ports are large enough to accommodate their bill size. Avoid cheap mixed seed with milo or red millet, which most birds ignore."
+  - question: "Can squirrels reach a suction cup feeder mounted on a window?"
+    answer: "In most installations, squirrels cannot reach a window-mounted feeder because there is no pole, branch, or ledge to launch from. However, if the feeder is near a window ledge, tree limb, or porch railing, squirrels may find a way — in those cases, a squirrel-proof pole feeder nearby may draw them away from the window feeder."
+  - question: "How often should I clean a suction cup window bird feeder?"
+    answer: "Clean your window feeder every 1–2 weeks in cool weather and every 3–5 days in summer heat. Wet seed and debris accumulate quickly in feeders with trays, and mold can make birds sick. Use a diluted bleach solution (one part bleach to nine parts water), rinse thoroughly, and allow to dry before refilling."
 ---
 
 If you spend any time near a window in late afternoon, you already know the problem: the birds are out there, doing interesting things, and you're in here, looking at a smear on the glass where a feeder used to be. The suction cup window bird feeder solves that in a specific and satisfying way. Mount it directly to the glass, fill it, and the birds come to you. Inches away, not fifty feet across the yard.

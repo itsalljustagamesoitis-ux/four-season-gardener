@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do solar-powered bird baths actually attract more birds than static baths?"
+    answer: "Yes — moving water attracts birds significantly more effectively than still water. Birds detect the sound and sight of flowing water from a distance, and a solar-powered fountain like the Smart Solar AquaNura runs all day in sunlight without any wiring or electricity costs."
+  - question: "What is the best material for a bird bath that will survive winter outdoors?"
+    answer: "Resin bird baths are lighter and more frost-resistant than cast concrete, which can crack during freeze-thaw cycles after a few hard winters. However, resin degrades under UV exposure and may become brittle within 3–5 years in full sun. Both materials require bringing the bath in or draining it completely before hard freezes to maximize longevity."
+  - question: "How deep should the water in a bird bath be?"
+    answer: "Most songbirds prefer water that is 1–2 inches deep at the center and shallower at the edges so they can wade in gradually. A bath that is too deep will be used less frequently. Adding a large flat stone to the center of a deep basin can create a usable shallow perch."
+  - question: "How often should a modern bird bath be cleaned?"
+    answer: "Bird baths should be scrubbed and refilled every 2–3 days in warm weather to prevent algae growth and mosquito breeding. A stiff brush, diluted white vinegar, and a rinse are sufficient — avoid bleach near food and water sources that wildlife use."
+  - question: "Why does a tiered pedestal bird bath attract more birds than a single bowl?"
+    answer: "A tiered design like the Alpine 3-Tier model creates multiple water levels that appeal to different bird sizes. Smaller birds like sparrows use the higher, shallower basins while larger birds like robins and jays use the lower, deeper tiers — resulting in more bird activity per square foot of garden space."
 ---
 
 Finding a modern bird bath that actually works , holds water, survives winter, and doesn't look like it fell off a cemetery cart , is harder than it should be. The market is split between decorative pieces with no engineering behind them and purely functional options that belong in a laboratory. Most of the cheap resin options fade by year two. Most of the expensive ones are heavy enough to require a forklift and crack the first time the ground shifts.

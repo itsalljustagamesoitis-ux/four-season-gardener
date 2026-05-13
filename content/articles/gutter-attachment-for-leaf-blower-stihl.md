@@ -21,6 +21,17 @@ products:
 tags: ["lawn-care", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does STIHL make a dedicated gutter attachment for their leaf blowers?"
+    answer: "STIHL does not offer a dedicated gutter cleaning attachment for most of their consumer leaf blower lineup. The practical solution is a universal kit like the WORX WA4094, which fits STIHL nozzle dimensions along with most other major brands."
+  - question: "Will the WORX WA4094 fit my STIHL BGA or BG series blower?"
+    answer: "The WORX WA4094 GutterPro includes a universal adapter collar designed to fit most standard blower nozzles, and it pairs with STIHL models like the BGA 86 without modification. Check that your blower has at least 400 CFM for best results."
+  - question: "Can I clean gutters from the ground with the WORX WA4094?"
+    answer: "Yes — the kit's three 11-inch curved extension tubes let you direct airflow up into the gutter channel while standing on the ground, making ladder use unnecessary on single-story homes. On two-story rooflines the reach may be insufficient."
+  - question: "What CFM does my leaf blower need to use a gutter attachment effectively?"
+    answer: "At least 400 CFM is recommended to move dry leaves and light debris through the curved tubes efficiently. Lower-powered blowers may struggle with compacted or wet debris that has packed into the gutter channel."
+  - question: "How well does the WORX WA4094 handle wet or compacted gutter debris?"
+    answer: "The kit performs well with dry leaf fragments but is less reliable on compacted wet debris. If your gutters contain thick packed material from recent rain, manual clearing or a pressure washer may be needed before using the blower attachment."
 ---
 
 If you own a STIHL blower and you've been hunting for a gutter cleaning kit that actually fits it, you've probably noticed that STIHL doesn't make a dedicated gutter attachment for most of their consumer lineup. The brand-specific path hits a dead end fast. What actually works, and what most people land on after a bit of searching, is a universal kit designed to fit whatever blower you already own. The [WORX WA4094 GutterPro Universal Gutter Cleaning Kit](product:worx-wa4094-gutter-kit) is the one worth looking at seriously. I've been using it on my property in Connecticut, and this review covers whether it delivers on its central promise. For more on the full scope of fall and spring yard work, the [Lawn Care](/lawn-care/) hub has context on how gutter management fits into a broader seasonal maintenance plan.

@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What seating arrangement works best around a rectangular fire pit table?"
+    answer: "A rectangular fire table is best matched by a linear or U-shaped seating arrangement — chairs along the two long sides with chairs or a loveseat at one or both short ends. This maximizes the number of seats with a direct fire view and keeps everyone within the effective heat radius. Avoid placing chairs only at the ends, which creates poor sightlines to the flame for most guests."
+  - question: "Is the Outland Living Series 403 rectangular or square?"
+    answer: "The Outland Living Series 403 is a 44-inch square table, not strictly rectangular, though it is often categorized alongside rectangular fire pit tables. The Napoleon St. Tropez is a true rectangle with a longer profile better suited to linear seating arrangements. If table shape matters for your furniture layout, confirm the dimensions of the specific product before ordering."
+  - question: "How much clearance do I need between a rectangular fire pit table and patio furniture?"
+    answer: "A minimum of 24 to 36 inches between the table and any combustible furniture is the standard recommendation for open-flame gas tables. On a wood deck, check local fire codes, as some municipalities require larger clearances or restrict open-flame appliances on elevated wood surfaces entirely."
+  - question: "Does the Napoleon St. Tropez fire table hold its value better than the Outland Living 403?"
+    answer: "The Napoleon's aluminum frame, electronic ignition, and natural gas conversion capability make it a longer-lasting and more feature-complete product, which typically means better resale value than a composite-frame table. However, most buyers treat fire pit tables as outdoor furniture rather than resale assets — the more relevant question is whether the Napoleon's features justify its $550 to $700 higher upfront cost for your specific use case."
+  - question: "Can I use fire glass or lava rock in either the Outland 403 or Napoleon St. Tropez?"
+    answer: "The Outland Living 403 has a standard burner bowl that is compatible with fire glass and lava rock as decorative media. The Napoleon St. Tropez uses a glass ember bed that comes pre-filled; the media can be cleaned and supplemented but the design is less intended for media customization than a standard open bowl. Both are sold ready to use without additional media required."
 ---
 
 If you spend any time looking at rectangular fire pit tables, you'll hit the same fork in the road fairly quickly. There's the mid-range, does-what-it-says category, and there's the spend-more-and-get-more category. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) represent those two categories clearly enough that a real comparison is worth doing. One runs around $350,$400 on Amazon at time of writing. The other runs closer to $900,$1,100 depending on where you find it. That gap needs justification, and I'll tell you whether it gets one.

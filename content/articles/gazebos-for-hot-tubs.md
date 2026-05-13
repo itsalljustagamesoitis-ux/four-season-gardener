@@ -28,6 +28,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the minimum gazebo size to comfortably cover a hot tub?"
+    answer: "A 10x10 is the bare minimum for a standard 7x7 hot tub, but a 10x12 or 12x14 is recommended to provide clearance for stepping in and out without standing directly in rain. Larger footprints also allow for a small seating or towel area alongside the tub."
+  - question: "How long does a polycarbonate roof gazebo last compared to a fabric canopy?"
+    answer: "Twin-wall polycarbonate roofing typically lasts 10+ years with minimal maintenance. Fabric canopy gazebos usually show visible deterioration within 2–3 years and become genuinely shabby within 5 years under real weather exposure, making polycarbonate a much better long-term value despite higher upfront cost."
+  - question: "Do I need to remove or winterize a hot tub gazebo at the end of the season?"
+    answer: "Hardtop aluminum-frame gazebos are designed for year-round installation and do not need seasonal removal. Fabric canopy models should have the canopy removed and stored during winter in snowy climates to prevent damage from snow load and freeze-thaw cycling."
+  - question: "Is a cedar pergola a good alternative to a hardtop gazebo for a hot tub?"
+    answer: "Cedar pergolas work well aesthetically and cedar is naturally rot-resistant, but a pergola's open lattice roof provides no rain protection — only partial shade. For hot tub use where you want to soak in any weather, a fully enclosed hardtop roof is significantly more functional than a pergola."
+  - question: "Can a 10x12 hot tub gazebo be assembled by two people without professional help?"
+    answer: "Yes — most 10x12 hardtop gazebo kits are designed for two-person DIY assembly using pre-cut, labeled components. Budget a full morning (3–5 hours) and prepare a level base before you start. Attempting solo assembly is not recommended, as you need someone to hold frame sections while hardware is driven."
 ---
 
 A hot tub without shelter is a commitment test. You use it through summer, maybe into fall, and then the open sky starts winning. Rain hits your face while you're trying to relax. UV fades the shell. You stop going out after dark because there's nothing to keep the weather off you. A purpose-built structure changes that calculation entirely, and if you're reading this, you've probably already figured that out.

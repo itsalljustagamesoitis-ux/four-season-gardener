@@ -28,6 +28,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a solar heater actually keep a greenhouse warm overnight?"
+    answer: "Budget solar heaters without battery storage stop producing heat as soon as sunlight disappears, so they cannot maintain overnight warmth on their own. For overnight protection, you need a model with battery backup or a separate electric heater to supplement."
+  - question: "What size greenhouse can a solar heater effectively heat?"
+    answer: "Most purpose-built solar greenhouse heaters are only rated for very small enclosures — typically 20 to 50 cubic feet, such as a cold frame, mini greenhouse, or small chicken coop. Larger structures require higher-wattage electric or gas heating systems."
+  - question: "Is a 30W solar panel enough to heat a greenhouse?"
+    answer: "A 30W panel like the Pomya 30W unit can provide supplemental warmth in a very small, well-insulated space, but it is not sufficient as a primary heat source for a standard greenhouse. It works best as a frost-protection supplement combined with good passive heat retention."
+  - question: "Do solar greenhouse heaters work on cloudy days?"
+    answer: "Output drops significantly on overcast days since the heating element depends directly on solar generation. Monocrystalline panels perform better in low-light conditions than polycrystalline panels, but you should still expect sharply reduced heating on heavily cloudy days."
+  - question: "Are solar greenhouse heaters safe to leave unattended?"
+    answer: "Models with built-in overheating protection are generally safe for unattended use, but you should still follow manufacturer guidelines and ensure adequate ventilation in the enclosure. Always verify the specific model's safety features before leaving it running without supervision."
 ---
 
 Solar power and greenhouse heating make for an uneasy partnership, and anyone selling you otherwise is working harder on the pitch than the physics. That said, there is a real and legitimate use case here, and if you understand it going in, you can make these products work. The mistake most people make is expecting a solar heater to function like a plugged-in space heater with panels attached. It doesn't. But for cold frames, small coops, and mini greenhouses in the 20-to-50-cubic-foot range, a purpose-built solar heater can carry genuine weight, especially if you're combining it with good passive heat retention. I've been running small-scale experiments in a few outbuildings on my property over the past two winters, and what follows reflects that, not manufacturer specs.

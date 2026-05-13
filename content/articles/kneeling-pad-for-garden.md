@@ -42,6 +42,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What should I look for in a kneeling pad for garden work?"
+    answer: "Prioritize thickness, water resistance, and surface area — extra-thick foam cushions knees on hard surfaces like gravel and compacted clay, while a water-resistant surface prevents mud and fertilizer from soaking in. A pad in the 17x11 inch range provides enough coverage for most kneeling positions."
+  - question: "Are garden kneeling gloves necessary when using a kneeling pad?"
+    answer: "Gloves and kneeling pads solve different problems — the pad protects your knees while gloves protect your hands from soil, thorns, and abrasion. For thorny plants like roses, choose a heavier-duty glove rather than thin bamboo fiber options that offer minimal thorn protection."
+  - question: "Do bamboo garden gloves work for all types of gardening?"
+    answer: "Bamboo fiber gloves like the Pine Tree Tools style are breathable and moisture-wicking, making them excellent for general weeding, planting, and edging. However, they are not suitable for work with thorny plants — for roses and brambles, choose a reinforced leather or nitrile-coated glove instead."
+  - question: "Why do some garden kneeling pads have handles?"
+    answer: "The handles on kneeler-seat combos like the Ohuhu serve as push-up assists when rising from a kneeling position, which is particularly helpful for gardeners with knee pain, arthritis, or hip stiffness. Simple foam pads without handles provide cushioning only and offer no standing assistance."
+  - question: "Are Foxgloves garden gloves machine washable?"
+    answer: "Yes — Foxgloves Original Gloves are made from a machine-washable spandex-blend fabric that maintains its fit after repeated washing. The extended cuff past the wrist also protects forearms from scratches and sun exposure during longer sessions."
 ---
 
 Kneeling in the garden is not optional if you're doing it properly. You're going to be on your knees pulling weeds, planting bulbs, edging beds, and doing the hundred other things that require getting close to the ground. The question is whether you do it on bare soil or gravel and pay for it later, or whether you spend $20 and protect your knees. I've tested enough of these products on my 12-acre property to have clear opinions, and this article is those opinions.

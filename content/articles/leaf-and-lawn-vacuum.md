@@ -42,6 +42,17 @@ products:
 tags: ["lawn-care", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a leaf blower-vacuum and a tow-behind lawn sweeper?"
+    answer: "A blower-vacuum uses suction and airflow to collect and mulch leaves, and is typically handheld or backpack-style — best for smaller yards or detail work. A tow-behind sweeper uses rotating brushes to sweep debris into a hopper and is better suited for large open lawns over half an acre when pulled behind a riding mower or ATV."
+  - question: "Can leaf vacuums handle wet or matted leaves?"
+    answer: "Most consumer-grade leaf vacuums and blower-vacs struggle with wet or matted leaves. Models with higher CFM ratings and metal impellers — like the Toro UltraPlus — handle damp leaves better than budget plastic-impeller units, but saturated, packed-down leaves are a challenge for any handheld machine."
+  - question: "How much can a leaf vacuum mulch leaves down?"
+    answer: "A good 3-in-1 blower-vac with a metal impeller, such as the Toro 51621 UltraPlus, can reduce up to 10 bags of leaves into 1 bag of mulch. This makes disposal or composting significantly easier compared to bagging whole leaves."
+  - question: "Is a battery-powered leaf vacuum worth it over a corded model?"
+    answer: "Battery-powered models like the Greenworks 40V offer freedom of movement without an extension cord, which matters on larger properties. Corded models typically deliver more consistent power and never run out mid-job, making them a better fit for smaller yards close to an outlet."
+  - question: "What size property is a tow-behind leaf sweeper designed for?"
+    answer: "Tow-behind sweepers like the Agri-Fab 45-0492 are designed for properties of half an acre or larger where walking a blower-vac would take too long. The 44-inch sweeping width and large hopper capacity allow you to cover a full acre of leaves in fewer passes before needing to dump."
 ---
 
 Most leaf and lawn vacuums promise more than they deliver. You've read the specs, bought the thing, and spent a Saturday realizing the machine has opinions about wet leaves that its marketing copy did not share. This roundup is an attempt to cut through that. I've looked at four machines that cover the realistic range of what most property owners actually need, from a corded workhorse that punches well above its price to a tow-behind sweeper built for people running a riding mower over an acre or more. The honest answer to "which one should I buy" is below, and it depends almost entirely on your property size and whether you have a place to charge batteries.

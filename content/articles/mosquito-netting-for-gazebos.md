@@ -21,6 +21,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know if mosquito netting will fit my gazebo?"
+    answer: "Measure your gazebo footprint before ordering — replacement netting is sized to specific dimensions and is not truly universal. The Wonwon netting fits standard 10x12 gazebos specifically; if your structure is 10x10, 12x14, or another size, it will not fit correctly."
+  - question: "Does gazebo mosquito netting attach to the existing frame, or does it need its own frame?"
+    answer: "The Wonwon Universal Replacement Netting attaches directly to your existing gazebo's roof framing and leg posts — it does not require a separate support frame. This keeps installation simple and cost down, but it does mean you need a structurally sound gazebo frame already in place."
+  - question: "Will mosquito netting block no-see-ums as well as mosquitoes?"
+    answer: "Standard mosquito netting mesh blocks mosquitoes and most common flying insects, but it will not stop no-see-ums (biting midges), which are small enough to pass through typical mesh openings. Only very fine screen mesh or solid screen panels will reliably exclude no-see-ums."
+  - question: "How do you create a door opening in gazebo mosquito netting?"
+    answer: "The Wonwon 4-panel system includes a zipper opening on each panel, letting you designate whichever side you want as the entry point. Zipper openings are more durable and easier to use than velcro or tie closures, which tend to loosen or fail over a season."
+  - question: "Is gazebo mosquito netting worth buying versus a full replacement canopy with integrated netting?"
+    answer: "For a gazebo with a canopy that is still in good condition, standalone replacement netting at $45–$55 is a much more cost-effective solution than a full canopy kit with integrated netting at $80–$150. If both the canopy and the netting need replacement, a full integrated kit may be the better value."
 ---
 
 If you spend any real money on a gazebo, and then spend every summer evening retreating indoors because the mosquitoes found you first, that's a straightforward problem with a straightforward fix. Mosquito netting for gazebos is not complicated. The complication is buying the wrong size, installing it badly, or spending twice what you need to on a product that doesn't fit your structure. This article covers the one product I'd actually recommend for a standard 10x12 gazebo, how to hang it correctly, and where people go wrong.

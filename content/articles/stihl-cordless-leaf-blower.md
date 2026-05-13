@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does the Stihl BGA 86 compare to the EGO LB6504 in airflow?"
+    answer: "The EGO LB6504 delivers 650 CFM versus the Stihl BGA 86's 562 CFM, giving the EGO a meaningful edge in high-volume leaf clearing. The Stihl BGA 86 edges slightly ahead on top airspeed (188 MPH vs. 180 MPH), which matters more for dislodging stuck debris than for bulk clearing."
+  - question: "Does the Stihl BGA 86 cordless leaf blower come with a battery?"
+    answer: "No — the Stihl BGA 86 is sold tool-only, starting around $219, and requires a compatible Stihl AK battery purchased separately at an additional $80 to $130. By contrast, the EGO LB6504 kit includes a 5.0Ah battery and rapid charger for around $249 total."
+  - question: "Which Stihl battery platform do cordless leaf blowers use?"
+    answer: "Stihl's residential-focused cordless blowers like the BGA 57 and BGA 86 use the AK battery series, while their professional models use the larger AP battery series. The two platforms are not cross-compatible, so it's important to choose the correct series when building out a Stihl cordless tool set."
+  - question: "What noise level can I expect from a cordless leaf blower?"
+    answer: "The EGO LB6504 operates at approximately 64 dB on low and 70 dB on high — significantly quieter than gas leaf blowers, which typically run at 95–105 dB. This makes cordless blowers far more neighbor-friendly, especially in dense residential areas with local noise ordinances."
+  - question: "Is a battery-powered leaf blower strong enough to replace a gas blower for fall cleanup?"
+    answer: "For most residential and multi-acre properties, yes — modern 56V battery blowers like the EGO LB6504 at 650 CFM handle wet and matted leaves without the performance gap that defined earlier cordless models. The main trade-off is runtime, not power; gas blowers can run indefinitely with a full tank, while cordless models require recharging between extended sessions."
 ---
 
 If you've spent any time researching battery-powered outdoor tools, you've probably noticed that the conversation around "cordless leaf blowers" often circles back to one brand: Stihl. The name carries weight, and for good reason. But the Stihl cordless leaf blower lineup exists inside a larger question that most buyers don't ask until they're already committed: which battery platform are you building around? That decision matters more than any single tool spec, and it shapes whether a blower purchase saves you money over time or locks you into an expensive corner.

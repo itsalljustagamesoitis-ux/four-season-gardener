@@ -32,6 +32,17 @@ product_a: "stanbroil-19in-round-burner-pan"
 product_b: "vevor-36x12-rectangular-burner"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "How do I choose between a round and rectangular propane fire pit burner?"
+    answer: "The shape of your fire pit opening determines the burner shape — a round burner for circular bowl-style pits, a rectangular burner for long fire pit tables. The burner format should follow the build design, not the other way around, so confirm your opening dimensions before ordering either."
+  - question: "Does the Stanbroil 19-inch burner or VEVOR 36x12 burner include an ignition system?"
+    answer: "Neither product includes an ignition system or pressure regulator. Both are burner components only — you must source the valve, regulator, and ignition hardware separately or specify them through your gas installer. Budget for those additional components when pricing your project."
+  - question: "Can propane fire pit burner pans also run on natural gas?"
+    answer: "Yes, both the Stanbroil and VEVOR burners are rated for natural gas or propane. The burner pan itself does not change between fuel types, but the regulator, fittings, and orifice size must be configured for the correct fuel. Your licensed installer will handle that configuration."
+  - question: "Do I need a permit to install a drop-in propane fire pit burner?"
+    answer: "In most U.S. jurisdictions, connecting a fixed gas appliance requires a permit and must be done by a licensed gas fitter or plumber. Even where not legally required, homeowner's insurance often excludes damage from unlicensed gas work. Pull the permit and hire the professional — the burner component is inexpensive relative to the liability of skipping that step."
+  - question: "How much fire glass or lava rock do I need to cover a 19-inch round burner pan?"
+    answer: "A 19-inch round burner pan typically needs 10 to 20 pounds of fire glass or lava rock to achieve a clean look with the burner hidden beneath the media. The exact amount depends on how deep you want the fill and the particle size of your chosen media. Start with 15 pounds and adjust after your first burn."
 ---
 
 If you're building a custom fire pit and need a propane burner insert, the two products that keep coming up in this category are the [Stanbroil 19-Inch Round Fire Pit Burner Pan](product:stanbroil-19in-round-burner-pan) and the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner). Both are drop-in components, both are stainless steel, both work with natural gas or propane. So the real question isn't which one is "better" in the abstract. It's which one fits your fire pit opening, your aesthetic, and what you're actually trying to build. That's what I'll walk through here.

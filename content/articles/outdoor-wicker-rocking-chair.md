@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "comparison"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is outdoor wicker rocking chair wicker actually weatherproof?"
+    answer: "All-weather wicker used on outdoor furniture is synthetic resin rattan woven over a steel or aluminum frame — it is designed to resist UV fading, rain, and humidity. Natural wicker is not weatherproof and should not be used outdoors without full shelter."
+  - question: "What frame material should I look for in an outdoor wicker rocking chair?"
+    answer: "An aluminum frame is the most corrosion-resistant option and won't rust even if the wicker weave develops micro-cracks that let moisture through. Steel frames are heavier and more affordable, but can rust at welds or scratched areas over time in wet climates."
+  - question: "Do outdoor wicker rocking chairs come with cushions included?"
+    answer: "Many do — the Vivijason and Belord models in this comparison both include cushions. Verify the cushion fabric spec before purchasing; polyester covers are adequate for dry climates but solution-dyed acrylic (Sunbrella) holds up significantly better with repeated rain exposure."
+  - question: "What weight capacity do outdoor wicker rocking chairs typically support?"
+    answer: "Most mid-range outdoor wicker rockers support 250 to 300 lbs. The Vivijason model reviewed here is rated at 265 lbs. If weight capacity is a concern, check the listed spec carefully — heavier-framed aluminum rockers often carry higher ratings."
+  - question: "Can I leave an outdoor wicker rocking chair outside through winter?"
+    answer: "All-weather resin wicker over an aluminum frame can stay outside year-round. Steel-framed models should be covered or stored in prolonged wet or snowy conditions to protect against rust at the joints. Cushions should always be stored or covered when not in use regardless of frame material."
 product_a: "vivijason-wicker-rocker-b09b"
 product_b: "belord-wicker-rocker-b0d7"
 # winner: product_a  # SET THIS after review

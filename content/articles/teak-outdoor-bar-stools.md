@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are teak outdoor bar stools worth the higher cost compared to metal or resin stools?"
+    answer: "For permanent outdoor installations like a patio bar or pool deck, Grade A teak offers unmatched longevity and doesn't rust, corrode, or crack like metal or resin under UV and moisture exposure. The higher upfront cost is offset by the fact that quality teak stools can last 20 or more years with minimal care."
+  - question: "What seat height should I choose for outdoor bar stools — counter height or bar height?"
+    answer: "Counter-height stools (24–26 inches) pair with surfaces around 36 inches tall, typical of outdoor kitchen counters. Bar-height stools (28–30 inches) suit taller bars around 40–42 inches. Measure your bar surface before ordering, as the wrong height makes the stool uncomfortable regardless of build quality."
+  - question: "Do teak bar stools need cushions for outdoor use?"
+    answer: "Teak bar stools are comfortable without cushions for short periods, but the flat, hard surface becomes fatiguing during longer gatherings. If you plan to use them for extended outdoor dining or entertaining, a weather-resistant seat pad rated for outdoor UV exposure adds significant comfort without compromising the wood."
+  - question: "How much weight can a teak outdoor bar stool hold?"
+    answer: "Well-constructed teak bar stools typically support 300 to 400 lbs — the Lahaap model reviewed here is rated to 400 lbs. Always verify the published weight rating before purchasing, especially for heavier users or if the stools will be used by children who may stand on the rungs."
+  - question: "Will teak bar stools turn gray outdoors and is that a problem?"
+    answer: "Untreated teak naturally weathers to a silver-gray patina within 6 to 12 months of outdoor exposure — this is a normal and expected process, not deterioration. If you prefer to preserve the original golden-brown color, apply teak oil every season; if you prefer the weathered look, no treatment is needed."
 ---
 
 There is a specific moment most of us have had. You pull a wood chair out of storage, and it looks like it spent the winter at the bottom of a lake. Swollen joints, grey surface, maybe a crack along the arm. That moment is what teak is supposed to prevent, and why Grade A teak specifically commands the prices it does.

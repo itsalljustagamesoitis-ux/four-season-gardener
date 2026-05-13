@@ -63,6 +63,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How much weight can a porch chair swing hold?"
+    answer: "Most macrame and rope chair swings are rated for 250–330 lbs for a single occupant. Solid wood and teak porch swings designed for two people typically have capacity ratings of 400–500 lbs. Always verify the weight rating of both the swing and the ceiling hardware before hanging."
+  - question: "What hardware do I need to hang a chair swing from a porch ceiling?"
+    answer: "You'll typically need a heavy-duty swivel ceiling hook rated above the swing's weight capacity, plus chain or rope to adjust height, and S-hooks to connect components. The hook must be anchored into a ceiling joist — never just drywall — and for heavier swings, a structural beam mount is safest."
+  - question: "Can a macrame porch swing stay outside in the rain?"
+    answer: "Natural cotton macrame swings are not weatherproof — prolonged rain and UV exposure will cause fading, mildew, and fiber weakening. Bring them inside during extended rain or off-season, or choose a UV-treated synthetic rope alternative if you want a swing that can stay out all season."
+  - question: "What is the most durable material for a porch chair swing?"
+    answer: "Grade A teak is the most durable natural material for outdoor porch swings — it contains natural oils that resist rot and moisture without requiring chemical treatment, and quality teak hardware uses brass or stainless steel to prevent rust. POLYWOOD (recycled HDPE) is the most durable synthetic option and requires virtually no maintenance."
+  - question: "How high should I hang a porch swing chair?"
+    answer: "The seat of a porch chair swing should sit roughly 17–19 inches off the ground — the same as a standard chair seat height. Adjust the chain or rope length from the ceiling mount to achieve this, keeping in mind the swing will shift slightly under the weight of a seated person."
 ---
 
 Porch swings are one of those categories where the marketing is almost uniformly useless. Everything is "perfect for relaxing" and "built to last." What you actually want to know is will this hold two adults without flexing. What happens to it after three Connecticut winters, and does the company selling it have any track record worth trusting?

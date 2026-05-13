@@ -28,6 +28,17 @@ products:
 tags: ["outdoor-furniture", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What weight capacity should I look for in a porch swing frame?"
+    answer: "Look for a minimum 500 lb capacity to safely accommodate two adults plus a child or pet. The capacity rating should apply to the complete hanging system — frame, hardware, and mounting point — not just the seat itself."
+  - question: "What is the best material for an outdoor porch swing frame that can stay out year-round?"
+    answer: "Grade A teak and recycled POLYWOOD lumber are the top choices for year-round outdoor exposure. Teak resists rot and moisture naturally; POLYWOOD won't absorb water, rot, or splinter and requires zero maintenance beyond an occasional rinse."
+  - question: "Do porch swing frames come with hanging hardware included?"
+    answer: "It varies by product — some include ropes or chains, while others require you to purchase S-hooks, chain, and anchor hardware separately. Always verify what's included and buy hardware rated for at least 500 lbs from a hardware store rather than using generic aftermarket kits."
+  - question: "How wide should a porch swing be for two people?"
+    answer: "A 54-inch seat width is the comfortable standard for two adults. Anything under 48 inches will feel cramped for two full-size adults, though it works fine as an oversized single or for smaller adults."
+  - question: "Does teak outdoor furniture require maintenance to keep its color?"
+    answer: "Left untreated, teak weathers to a silver-gray patina over time — which is structurally fine and considered attractive by many. If you prefer the warm honey-brown original color, apply teak oil once or twice a year, which typically takes about 45 minutes per piece."
 ---
 
 A porch swing frame is structural furniture. It takes weight, weather, and years of use, and if it fails, it fails with someone sitting in it. That narrows the field quickly. What's left after you remove the flimsy import-grade hardwood, the powder-coated steel that rusts through in three seasons, and the wicker that looks reasonable in a product photo but deteriorates the first time it sits in standing water? Fewer options than most buyers expect, which is actually useful information. Browse our full [Outdoor Furniture](/outdoor-furniture/) guide for the broader porch picture, but if swing frames and outdoor seating with serious structure are what you're after, the choices below are the ones worth your time.

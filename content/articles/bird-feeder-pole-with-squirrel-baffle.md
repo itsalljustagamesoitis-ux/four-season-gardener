@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How high should a squirrel baffle be mounted on a bird feeder pole?"
+    answer: "Mount the baffle so its top sits at least 4–5 feet off the ground — squirrels can jump from the ground up to about 4 feet. Higher is better if your pole allows it."
+  - question: "What's the difference between a wrap-around baffle and a torpedo baffle on a feeder pole?"
+    answer: "A wrap-around (cylinder) baffle surrounds the pole and prevents squirrels from climbing up, while a torpedo (cone or dome) baffle sits above the feeder and blocks squirrels descending from above. Pole-mounted systems typically use a cylinder baffle since feeders hang from the pole rather than a tree."
+  - question: "Can I add a squirrel baffle to any existing bird feeder pole?"
+    answer: "Most universal baffles clamp around poles ranging from 1/2 inch to 1.5 inches in diameter, so they fit many standard poles. Check the pole diameter and baffle clamp range before buying — some baffles are sold as complete pole systems and aren't compatible with other brands."
+  - question: "Do squirrel baffles work if my yard has trees or fences nearby?"
+    answer: "Baffles stop climbing and dropping, but squirrels can leap horizontally up to 10 feet. Position the pole at least 10 feet from any tree, fence, deck railing, or structure squirrels could use to launch from for best results."
+  - question: "How many feeder hooks do I need on a squirrel-proof pole?"
+    answer: "Most backyard setups work well with 2–5 hooks — enough to hang feeders for different seed types without overcrowding. Look for poles with adjustable arms so you can space feeders to prevent seed from one feeder contaminating another below it."
 ---
 
 Squirrels are not deterred by optimism. If you've run a bird feeder for more than one season, you already know this. They'll climb smooth poles, leap from nearby branches, hang upside down from feeder edges, and generally treat whatever you've installed as a personal challenge. A bird feeder pole with squirrel baffle solves the problem mechanically, not aspirationally: the baffle physically blocks the climbing route, and a well-designed pole keeps the whole system stable enough that a frustrated squirrel can't simply knock it over.

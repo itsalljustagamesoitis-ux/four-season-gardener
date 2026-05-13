@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What material is best for a bird bath pedestal that survives winter without cracking?"
+    answer: "Resin and HDPE are the best choices for cold climates — both are frost-resistant and won't crack through freeze-thaw cycles the way cast concrete commonly does. Concrete pedestals look beautiful but absorb water into their porous structure, which expands on freezing and causes cracking, sometimes in the first or second winter."
+  - question: "How heavy should a pedestal bird bath be to stay stable in wind?"
+    answer: "Heavier is more stable, but cast concrete baths that provide that weight can crack in cold climates and are difficult to move for cleaning. Resin pedestals in the 15–25 lb range are a practical compromise — stable enough for most conditions, light enough to tip out and scrub easily, and frost-resistant."
+  - question: "Should I bring my bird bath pedestal inside for winter?"
+    answer: "If the basin and pedestal are resin or HDPE, they can stay outdoors but should be emptied to prevent ice from expanding and stressing joints. Cast concrete baths must be moved indoors or the basin must be removed and stored dry — water that freezes in a concrete basin will crack it, often at the base of the bowl."
+  - question: "What height should a pedestal bird bath be to attract the most birds?"
+    answer: "A pedestal height of 24–36 inches (placing the basin 28–36 inches above ground) is the standard for attracting most songbirds. This height gives birds a clear sightline in all directions, which they need to feel safe while bathing. Placing the bath near shrubs (within 10 feet but not directly under branches) lets birds retreat quickly if startled."
+  - question: "Does a tiered pedestal bird bath function as a fountain, and do birds prefer it?"
+    answer: "A tiered design like the Alpine three-tier pedestal allows water to overflow from the upper basin to lower tiers, creating gentle movement that attracts birds more effectively than a static single basin. Birds at different levels can drink or bathe simultaneously, and the movement keeps the water oxygenated and slightly less hospitable to algae."
 ---
 
 A pedestal bird bath is one of the more straightforward purchases in the garden, until you start reading product listings and realize half of them are made from materials that won't survive a second winter, and the other half weigh as much as a garden bench. I've gone through several on my property in Litchfield County over the years, including one expensive cast concrete number that cracked clean through after two freeze-thaw cycles and now lives in pieces behind the potting shed as a cautionary tale.

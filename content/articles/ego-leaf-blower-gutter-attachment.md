@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the EGO LB6504 come with a gutter attachment included?"
+    answer: "No — the gutter cleaning wand and nozzle are sold as a separate kit, typically an additional $30–$40. Budget for this from the start if gutter clearing is your primary use case."
+  - question: "How powerful is the EGO LB6504 compared to gas leaf blowers?"
+    answer: "At 650 CFM and 180 MPH, the LB6504 matches or exceeds many mid-range gas blowers in air volume. It uses a turbine fan design rather than an axial fan, which delivers high airflow with notably less noise than comparable gas or cordless competitors."
+  - question: "Can the EGO gutter attachment actually replace ladder-based gutter cleaning?"
+    answer: "For single-story gutters and most two-story homes with standard eave heights, the angled wand provides enough reach to clear debris from the ground. Gutters at unusual heights or with overhanging rooflines may still require some ladder access."
+  - question: "How long does the battery last when clearing gutters with the EGO LB6504?"
+    answer: "The included 5.0Ah battery provides 60–75 minutes of use at moderate power settings, which is enough to clear gutters on most residential properties in one charge. Running at maximum CFM continuously will reduce that runtime significantly."
+  - question: "Is the EGO LB6504 compatible with other EGO 56V batteries I already own?"
+    answer: "Yes — all EGO 56V ARC Lithium batteries are cross-compatible across the full EGO product line. If you already own 5Ah or 7.5Ah packs from other EGO tools, they will work in the LB6504 and may extend your runtime beyond what the included battery delivers."
 ---
 
 If you're here because you searched "EGO leaf blower gutter attachment," you probably already know the basic concept: a cordless backpack or handheld blower with an angled wand that lets you clear gutters without climbing a ladder every ten feet. What you want to know is whether the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) actually delivers on that promise, and whether the gutter kit makes it worth choosing over the alternatives. I've been running this blower on my 12-acre property for two full seasons, including one of the wetter falls I can remember, and I have a reasonably clear answer.

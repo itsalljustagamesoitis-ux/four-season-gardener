@@ -56,6 +56,17 @@ products:
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does a 20 lb propane tank last in a fire pit?"
+    answer: "At full output (around 50,000 BTU), a standard 20 lb propane tank typically lasts 8–10 hours. Running the flame at medium or low settings can stretch a tank to 15+ hours."
+  - question: "Can I use a propane fire pit on a covered patio or pergola?"
+    answer: "Yes, propane fire pits are generally safer than wood-burning pits under covered structures because they produce no sparks or embers. Always verify the manufacturer's minimum clearance requirements and ensure adequate ventilation."
+  - question: "Do propane fire pit tables need to be professionally installed?"
+    answer: "Most propane fire pit tables are designed for DIY assembly and connect to a standard propane tank with a standard fitting — no professional installation required. Just follow the included instructions and perform a leak test with soapy water before first use."
+  - question: "What size propane tank fits inside a fire pit table base?"
+    answer: "Most fire pit tables are designed to conceal a standard 20 lb (5-gallon) propane tank inside the base. Check the table's interior cabinet dimensions before purchasing, as some smaller tables only fit a 1 lb disposable cylinder."
+  - question: "Are propane fire pits safe on composite or wood decks?"
+    answer: "Propane fire pits are generally deck-safe because they don't produce flying embers, but you should use a heat-resistant mat under the unit and follow the manufacturer's clearance guidelines. Wood-burning pits are not recommended on composite or wood decks."
 ---
 
 Ok so the phrase "fire pit with propane tank inside" covers a lot of ground. From a $45 bowl that sits on a bistro table to a 200-pound concrete-look table that anchors a whole patio layout. These are not the same product solving the same problem obviously and treating them as interchangeable, is how people end up with something they regret buying.

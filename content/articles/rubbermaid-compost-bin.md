@@ -21,6 +21,17 @@ products:
 tags: ["composting", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Rubbermaid still make compost bins?"
+    answer: "No — Rubbermaid discontinued its compost bin line, so the product is no longer available new. If you're searching for the classic Rubbermaid composter, the Good Ideas Junior Wizard is the closest current alternative in terms of size, shape, and ground-level open-bottom design."
+  - question: "What is the best alternative to the Rubbermaid compost bin?"
+    answer: "The Good Ideas Junior Wizard Compost Bin is the most comparable replacement — it has an open bottom for worm access, vented walls for airflow, and a similar footprint to the discontinued Rubbermaid unit. It works without turning and fits easily in most backyards."
+  - question: "How do I keep rodents out of a ground-level compost bin?"
+    answer: "Open-bottom bins like the Good Ideas Junior Wizard can allow rodents to enter from below. Line the bottom with 1/4-inch hardware cloth and bury the edges a few inches into the ground to block access without impeding worm activity."
+  - question: "Do I need to turn compost in a passive compost bin?"
+    answer: "No — bins with vented walls are designed for aerobic decomposition without turning. As long as you maintain a reasonable balance of greens and browns and the bin stays moist, the material will break down on its own, though it will take longer than actively managed hot compost."
+  - question: "How long does it take to get finished compost from a backyard bin?"
+    answer: "Passive composting in a ground-level bin typically takes 6–12 months depending on what you add, temperature, and moisture levels. Adding a mix of carbon-rich browns (leaves, cardboard) and nitrogen-rich greens (kitchen scraps, grass clippings) in roughly equal parts speeds the process."
 ---
 
 If you've searched "Rubbermaid compost bin" recently, you've probably already noticed the problem: Rubbermaid doesn't make one. They used to, briefly, and the name stuck around in search results the way bad product names tend to. What you're actually looking for is a ground-contact, stationary bin composter that works without a lot of fussing. The [Good Ideas EZCJR-BLK Junior Wizard Compost Bin](product:good-ideas-junior-wizard-compost-bin) is the closest thing to what most people picture when they search that term, and it's worth a direct look. For anyone building out a composting setup from scratch, the broader guide to [Composting](/composting/) on this site covers the full range of options before you spend a dollar.

@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do drip irrigation kits work for potted plants on a deck or patio?"
+    answer: "Yes — kits with individual emitters on adjustable stakes are specifically designed for containers and work well on decks and patios. The key is choosing emitters with the correct flow rate for your pot size, since small pots need very low flow (0.5–1 GPH) to avoid waterlogging."
+  - question: "Do I need a timer with a drip irrigation kit for container plants?"
+    answer: "A timer is essential for containers because they dry out faster than ground beds and can't tolerate skipped waterings. A mechanical dial timer like the Orbit single-dial works fine without batteries or Wi-Fi, while a smart timer lets you adjust schedules remotely during heat waves."
+  - question: "How do I prevent drip emitters from clogging in a container garden?"
+    answer: "Use a small filter or screen washer at the hose connection, flush the system periodically, and choose professional-grade emitters like Rain Bird over no-name kits. Hard water accelerates mineral buildup — soaking emitters in white vinegar occasionally keeps flow rates consistent."
+  - question: "Can one drip irrigation kit water both raised beds and potted plants at the same time?"
+    answer: "A large kit like the DIG GE200 with 122 pieces can supply both containers and raised beds, but you'll need a two-zone timer if they require different watering schedules. Containers typically need shorter, more frequent cycles than raised beds."
+  - question: "What flow rate should I look for in drip emitters for potted plants?"
+    answer: "For most container plants, 0.5–1 GPH (gallons per hour) emitters are appropriate — higher rates can saturate small pots before roots absorb the water. For large containers (15+ gallons) or thirsty plants, 1–2 GPH emitters may be needed."
 ---
 
 Drip irrigation for potted plants sounds like a solved problem. There are dozens of kits on the market, most of them under $40, and at first glance they look more or less identical. Buy a kit, push some emitters into some tubing, done.

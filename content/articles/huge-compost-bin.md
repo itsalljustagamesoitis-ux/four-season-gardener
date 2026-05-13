@@ -49,6 +49,17 @@ products:
 tags: ["composting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What capacity compost bin is considered 'large' or 'huge'?"
+    answer: "Most standard compost bins range from 7 to 37 gallons, while large-scale bins designed for serious gardeners start at around 37 gallons and can reach 80+ gallons for stationary models. If you're composting for a large property or garden, look for dual-chamber tumblers or open-bottom bins that can handle continuous input."
+  - question: "What is the advantage of a dual-chamber compost tumbler?"
+    answer: "A dual-chamber tumbler like the FCMP IM4000 lets you fill one side with fresh kitchen and yard waste while the other side cures into finished compost, so you always have a supply without interrupting the active pile. The elevated drum design also lets you position a wheelbarrow underneath for easy unloading."
+  - question: "Do large compost bins attract rodents?"
+    answer: "Open-bottom ground-level bins allow rodents to dig in from below, especially if food scraps are added. To prevent rodent access, line the base with hardware cloth or choose an elevated tumbler design with a fully enclosed drum."
+  - question: "How does a wheeled compost tumbler differ from a standard tumbler?"
+    answer: "A wheeled composter like the FCMP IM4000-WK has the same dual-chamber composting capacity as the standard IM4000 but can be rolled to wherever you need the finished compost, eliminating the need to shovel and carry heavy material across the yard."
+  - question: "Is an electric composter like Lomi a good replacement for a large outdoor bin?"
+    answer: "The Lomi processes food waste in hours but produces a dry organic material that still needs curing in soil before it functions as finished compost — it is not a direct replacement for a traditional outdoor bin. It works best for apartment dwellers or as a kitchen supplement for those who also maintain an outdoor composting system."
 ---
 
 If you've been searching "huge compost bin" and getting results that range from a 7-gallon kitchen pail to a commercial windrow system, you already know the problem. The category is a mess, and most roundups don't actually tell you which bin fits your situation. This one does.

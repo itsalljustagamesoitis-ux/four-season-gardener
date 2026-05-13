@@ -21,6 +21,17 @@ products:
 tags: ["composting", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use regular earthworms from my garden for composting instead of red wigglers?"
+    answer: "No — garden earthworms (nightcrawlers and similar species) are subsoil dwellers that burrow deep and do not tolerate the dense, confined, organically rich conditions of a worm bin. Red wigglers (Eisenia fetida) are surface-dwelling composters that thrive in exactly those conditions. Substituting garden earthworms results in the worms dying or escaping the bin."
+  - question: "How many compost worms do I need to start a vermicomposting bin?"
+    answer: "The minimum practical starting quantity is 500 worms, but 1,000 red wigglers is strongly recommended for a standard tray-based bin. Below 500, the colony takes a very long time to establish, early overfeeding mistakes are harder to avoid, and you'll wait months before seeing meaningful compost output."
+  - question: "Is it safe to buy live compost worms online and have them shipped?"
+    answer: "Yes, with caveats — reputable sellers like Uncle Jim's Worm Farm pack worms in moisture-absorbing material designed to handle transit conditions, and they offer live arrival guarantees. Extreme temperatures during transit are the main risk; order during mild weather when possible and open the package on arrival day to assess within any guarantee window (typically 48 hours)."
+  - question: "What is the difference between red wigglers and nightcrawlers for composting?"
+    answer: "Red wigglers (Eisenia fetida) are the correct species for vermicomposting — they process organic waste rapidly in confined bins and tolerate high-density environments. Nightcrawlers are subsoil worms sold primarily as fishing bait; they are unsuitable for worm bins and will not establish a functional colony in a composting setup."
+  - question: "How long does it take for a new worm colony to start producing vermicompost?"
+    answer: "A newly established colony of 1,000 red wigglers typically takes 60 to 90 days to begin producing usable vermicompost, as the worms first need to settle into the bin environment and grow their population. Regular feeding with appropriate kitchen scraps (vegetable peels, coffee grounds, eggshells, damp paper) accelerates this timeline by building organic matter for the worms to process."
 ---
 
 If you've spent any time reading about vermicomposting, you've probably hit the same wall: everyone explains *how* worm bins work, but nobody gives you a straight answer on where to actually buy the worms, or whether the seller you're looking at is worth trusting. This article is the straight answer. I'll cover what red wigglers are, why your source matters more than you'd think, and which product I'd recommend without hesitation to someone starting their first bin. If you want to read more broadly about composting methods before committing to a bin setup, the [Composting](/composting/) hub is a good place to orient yourself.

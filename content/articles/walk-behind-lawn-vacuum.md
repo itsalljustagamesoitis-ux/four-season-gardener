@@ -42,6 +42,17 @@ products:
 tags: ["lawn-care", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a walk-behind lawn vacuum and a leaf blower vacuum?"
+    answer: "A walk-behind lawn vacuum uses powered suction to pull leaves and debris into a collection bag as you push it across the lawn, similar to a push mower. A handheld blower-vacuum combo uses high-velocity air to blow leaves into piles or suck them into a smaller attached bag — suited to patios and borders rather than open lawn areas."
+  - question: "Can a walk-behind lawn vacuum handle wet leaves?"
+    answer: "Most consumer-grade walk-behind vacuums and blower-vac combos struggle with wet or matted leaves — airflow drops significantly when leaves clump together with moisture. If wet-leaf pickup is a common scenario on your property, a tow-behind sweeper with contact brushes or a model with a metal impeller (like the Toro UltraPlus) handles damp conditions better than plastic-impeller alternatives."
+  - question: "How much lawn area can a walk-behind lawn vacuum realistically cover in one session?"
+    answer: "A corded or battery-powered handheld blower-vac is practical for up to about a quarter-acre before range limitations or battery capacity become a constraint. For half an acre or more, a tow-behind sweeper like the Agri-Fab 45-0492 with its 28-cubic-foot hopper is more efficient — it covers a full acre before needing to dump."
+  - question: "What does a mulching ratio of 10-to-1 mean on a leaf vacuum?"
+    answer: "A 10-to-1 mulching ratio means the vacuum shreds leaves to roughly one-tenth their original volume before depositing them in the bag. Ten bags of whole leaves become one bag of finely chopped mulch, which can be used directly as garden bed top-dressing or added to a compost pile and broken down much faster than whole leaves."
+  - question: "Is a brushless motor worth the extra cost on a battery-powered lawn vacuum?"
+    answer: "Yes — brushless motors are more energy-efficient than brushed motors, which translates to longer run time per charge and a longer motor lifespan since there are no contact brushes to wear out. On a tool used seasonally for leaf cleanup, the longer lifespan matters more than run time, but both benefits compound over years of use."
 ---
 
 Most leaf cleanup articles will tell you that any blower-vac combo gets the job done. That's technically true the way a folding camp chair technically qualifies as seating. What actually matters is whether the tool matches your property size, your physical tolerance for handheld work, and what you're actually trying to do: clear a patio, collect leaves from a half-acre lawn, or reduce two seasons of accumulation into manageable mulch.

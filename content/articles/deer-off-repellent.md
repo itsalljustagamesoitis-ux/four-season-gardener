@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How often do I need to reapply Deer Off repellent?"
+    answer: "Most liquid deer repellents need reapplication every 2–4 weeks depending on rainfall and deer pressure. Plan to reapply after heavy rain events, as even rain-resistant formulas lose effectiveness faster in wet conditions."
+  - question: "Is Deer Off repellent safe to use around vegetable gardens?"
+    answer: "Check the label carefully — some formulas are approved for edibles while others are intended for ornamentals only. Liquid Fence, for example, lists specific edible-use instructions with required pre-harvest intervals."
+  - question: "Does Deer Off repellent work on rabbits too?"
+    answer: "Many deer repellents including Liquid Fence are formulated to deter both deer and rabbits simultaneously. This is useful since rabbits often browse the lower foliage that deer leave behind."
+  - question: "What causes the strong smell in deer repellent sprays?"
+    answer: "The odor comes from putrescent egg solids and sulfur compounds, which trigger a fear response in deer by mimicking predator scent or decay. The smell dissipates for humans within a few hours of drying but remains detectable to deer much longer."
+  - question: "Will a motion-activated sprinkler work as well as a spray repellent?"
+    answer: "Motion-activated sprinklers like the Orbit Yard Enforcer work through a startle response rather than scent aversion, and they deter multiple animal types including deer, cats, and raccoons. They require no chemical reapplication but depend on correct positioning to avoid false triggers from wind or foot traffic."
 ---
 
 Deer pressure in a suburban or rural garden is not a philosophical problem. It's a Tuesday morning problem: you walk out, the hostas are stripped, and something you planted in October is now a stub. If you've set up a [bird feeder for your deck](/bird-feeder-for-deck/) or a window feeder nearby, you already know that attracting one kind of wildlife tends to attract others, and deer are not interested in the distinction between your pollinator bed and a midnight snack.

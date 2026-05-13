@@ -42,6 +42,17 @@ products:
 tags: ["battery-equipment", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the EGO HT2411 hedge trimmer compatible with other EGO batteries?"
+    answer: "Yes — the EGO HT2411 runs on the EGO 56V ARC Lithium battery platform, which is compatible with all other EGO POWER+ tools including string trimmers, blowers, and mowers. A larger battery like the 5.0Ah or 7.5Ah will extend runtime beyond the 45 minutes offered by the included 2.5Ah battery."
+  - question: "How thick of branches can the EGO HT2411 cut?"
+    answer: "The EGO HT2411 has a 1-inch cut capacity, which handles most established hedge and shrub branches. For thicker hardwood branches, a pole pruner or chainsaw is more appropriate."
+  - question: "How does the EGO hedge trimmer compare to gas models in terms of weight?"
+    answer: "The EGO HT2411 weighs approximately 7 lbs with battery, which is lighter than most gas-powered hedge trimmers of similar blade length. The reduced weight makes overhead and extended-reach trimming significantly less fatiguing."
+  - question: "Can I use bulk trimmer line in the EGO ST1521S string trimmer?"
+    answer: "No — the EGO ST1521S uses EGO's POWERLOAD system, which requires specific EGO pre-wound line cartridges. It will not accept bulk string line from other brands, so factor in the ongoing cost of cartridge replacements."
+  - question: "Do EGO tools share batteries across the full product lineup?"
+    answer: "Yes — all EGO POWER+ tools use the same 56V ARC Lithium battery platform, so one battery can power your hedge trimmer, string trimmer, leaf blower, and mower. This cross-compatibility is one of the main advantages of building a single-brand cordless tool ecosystem."
 ---
 
 EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in under $150 at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.

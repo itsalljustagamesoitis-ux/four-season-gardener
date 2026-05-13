@@ -28,6 +28,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long should long garden gloves be to protect a woman's forearms?"
+    answer: "Long garden gloves that extend 3–5 inches past the wrist offer meaningful forearm protection from scratches, splinters, and sun exposure during tasks like reaching into dense shrubs or working in bramble beds. The Foxgloves Original Gloves are a good example of this extended cuff design."
+  - question: "Are long garden gloves suitable for fine tasks like transplanting seedlings?"
+    answer: "Yes, if the gloves are lightweight and have shaped fingers with good dexterity. Thick gauntlet-style gloves sacrifice tactile feedback, making fine work harder. The bamboo gloves from Pine Tree Tools are specifically well-suited to transplanting and weeding because of their lightweight, close-fitting construction."
+  - question: "Do women's long garden gloves run true to size?"
+    answer: "Fit varies by brand and construction. Bamboo and spandex-blend gloves tend to stretch to fit and maintain shape better than structured leather options. Always check the size chart for your hand circumference before ordering, as sizing between brands can vary by half an inch or more."
+  - question: "Can I machine wash long garden gloves?"
+    answer: "The Foxgloves Original Gloves are machine washable and hold their fit after repeated washing. Bamboo-fiber gloves like the Pine Tree Tools model are better hand-washed to preserve the material and moisture-wicking properties — check the manufacturer's care label to be sure."
+  - question: "Are long garden gloves for women suitable for rose pruning?"
+    answer: "Most lightweight long garden gloves, including both options in this roundup, are not designed for thorn protection and are not recommended for rose pruning. For thorny plants, look for purpose-built rose gloves with reinforced leather palms and full gauntlet sleeves."
 ---
 
 Most garden gloves are designed to a rough average that fits nobody particularly well. They gap at the wrist, bunch at the knuckles, or run so thick that you lose the tactile feedback you need for fine work like transplanting seedlings or deadheading. Long garden gloves for women address part of this by adding forearm coverage, but the better ones go further: lighter materials, shaped fingers, wrist openings that don't cut off circulation. The difference between a glove you wear for three hours and one you pull off after twenty minutes is usually fit and weight.

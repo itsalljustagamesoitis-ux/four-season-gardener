@@ -35,6 +35,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What kind of feeder do I need to offer mealworms to birds?"
+    answer: "Mealworms require an open tray or dish feeder, not a tube or port feeder. They need to be visible and accessible on a flat surface — bluebirds, robins, and wrens that are the primary mealworm consumers won't reach into a tube. A simple glazed ceramic or metal dish works, or a dedicated platform feeder with a tray."
+  - question: "Should I use live or dried mealworms in a bird feeder?"
+    answer: "Live mealworms are more effective at attracting birds quickly, particularly bluebirds, because the movement triggers the prey-detection instinct. Dried mealworms are more practical for most setups — they store easily, don't escape the dish, and most mealworm-eating birds will accept them once they've been trained to visit the feeding location."
+  - question: "Which birds eat mealworms from a feeder?"
+    answer: "Eastern and Western Bluebirds are the primary target species, but robins, Carolina wrens, mockingbirds, catbirds, and many warbler species during migration will also use a mealworm dish. Most of these birds don't use seed feeders at all, so a mealworm tray meaningfully expands the variety of birds in your yard."
+  - question: "How do I keep squirrels out of a mealworm dish feeder?"
+    answer: "A squirrel baffle on the feeder pole is the most effective solution for ground or post-mounted dish feeders. Alternatively, placing a high-quality squirrel-proof seed feeder nearby (like the Droll Yankees Yankee Flipper or Squirrel Buster Plus) may reduce squirrel pressure on the whole feeding station by satisfying them on a protected feeder."
+  - question: "How often do I need to refill a mealworm feeder?"
+    answer: "During bluebird nesting season (spring through early summer), a pair actively feeding nestlings can empty a dish of 50–100 dried mealworms in a single morning. Daily refilling is common during peak demand. Outside of nesting season, refill as needed when the dish is empty — mealworms don't spoil quickly in dry weather but should be replaced if they get wet and clump."
 ---
 
 Mealworms are one of those additions to a feeding station that will immediately expand the variety of birds coming to your yard. Bluebirds, robins, Carolina wrens, even the occasional mockingbird , birds that ignore a standard seed tube entirely will show up reliably for live or dried mealworms. The challenge is that most people searching for a "bird feeder for mealworms" end up staring at a product page for a standard tube feeder, which is precisely the wrong format. Mealworms need a tray or dish, not a port. They also need to stay dry, stay accessible to the right birds, and ideally not become a free buffet for every squirrel within a quarter mile.

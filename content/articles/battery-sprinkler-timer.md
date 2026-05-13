@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the simplest battery sprinkler timer for a beginner?"
+    answer: "The Orbit mechanical dial timer is the simplest option — no batteries, no programming, no app. You twist the dial to set watering duration up to 120 minutes and it shuts off automatically. It handles a single zone on a single hose connection, which covers most basic garden watering setups."
+  - question: "Can a battery sprinkler timer water two separate garden areas on different schedules?"
+    answer: "Yes, with a two-port timer like the Orbit B-hyve XD, which connects to one faucet and runs two independent zones on separate schedules. For more than two zones, a smart controller like the Rachio 3 is the appropriate step up — it handles up to 8 zones with full schedule control via app."
+  - question: "Does a smart sprinkler timer like the Rachio 3 actually save water?"
+    answer: "In practice, yes — Rachio's Weather Intelligence skips or shortens scheduled waterings when rain is forecast or has recently fallen, which eliminates the waste of watering before or during rainfall. Studies and user reports consistently show 20–50% water savings compared to fixed-schedule timers when the smart features are properly configured."
+  - question: "Will a battery sprinkler timer work with a drip irrigation system?"
+    answer: "Yes — most battery hose-end timers connect directly to a drip system that has a standard 3/4-inch hose thread input. You may need a pressure regulator and filter between the timer and the drip line, especially with systems using 1/4-inch emitter tubing that can be damaged by full mains pressure."
+  - question: "How do I winterize a battery sprinkler timer?"
+    answer: "Remove the timer from the faucet before the first hard freeze, drain any residual water from the valve body, and store it indoors. Leaving a timer connected through freezing temperatures can crack the solenoid housing or split the valve seat, which is not covered under most manufacturers' warranties."
 ---
 
 Most battery sprinkler timers solve a simple problem: you set a schedule, walk away, and the water runs without you. But the category has expanded enough that "battery timer" now covers everything from a $13 mechanical dial with no electronics whatsoever to app-connected two-zone controllers that check the weather forecast before deciding whether to run. Choosing the wrong tier wastes either money or time, and the wrong hose to go with it wastes both.

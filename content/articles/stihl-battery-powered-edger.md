@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Where can I buy a Stihl battery powered edger?"
+    answer: "Stihl battery powered edgers are sold exclusively through authorized Stihl dealers in the US — they are not available on Amazon or at big-box retailers. Use the dealer locator on Stihl's website to find the nearest location that carries their cordless FSA or HSA series tools."
+  - question: "What is included in the EGO Power+ ME0801 edger combo kit?"
+    answer: "The kit includes the EGO Multi-Head System power head, the 8-inch edger attachment, a 2.5Ah 56V ARC Lithium battery, and a standard charger. You can upgrade to a larger battery (5Ah or 7.5Ah) if you have a larger property or want to share batteries with other EGO tools."
+  - question: "Can the EGO ME0801 edger blade be angled for bevel cuts?"
+    answer: "Yes — the edger attachment offers three blade angle settings, allowing you to switch between a standard vertical edge cut and a slight bevel. This is useful for creating a defined trench along flower beds or driveways where a sloped edge is preferred."
+  - question: "Will the EGO 56V battery from the edger kit work with other EGO tools?"
+    answer: "Yes — the 56V ARC Lithium battery is fully compatible with all EGO 56V tools, including their mowers, leaf blowers, chainsaws, and hedge trimmers. This cross-compatibility is one of the main advantages of EGO's platform approach over single-purpose battery tools."
+  - question: "Is the EGO multi-head edger heavier than a standalone edger?"
+    answer: "The EGO ME0801 with battery weighs approximately 9 to 10 pounds, which is comparable to dedicated battery edgers like the Husqvarna 525iES. The multi-head power head adds some bulk compared to ultra-lightweight dedicated edgers, but the trade-off is the ability to run multiple attachments from one unit."
 ---
 
 If you've been searching for a Stihl battery powered edger and hitting a wall on Amazon, you're encountering a real distribution limitation, not a gap in the product category. Stihl sells its cordless lineup, including the excellent HSA and FSA series tools, exclusively through its dealer network. You won't find them fulfilled by Amazon. That matters if you rely on Prime shipping, want a straightforward return window, or simply aren't near a Stihl dealer. For a full breakdown of what Stihl's cordless edger line actually offers, the [Stihl Battery Edger](/stihl-battery-edger/) page covers the dealer-channel specs in detail. But if you're shopping online and want something that competes directly in terms of cut quality and battery flexibility, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is where I'd point you first.

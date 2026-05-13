@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between Deer Out and other deer repellent sprays?"
+    answer: "Deer Out uses a peppermint-oil base rather than the sulfur and putrescent egg compounds found in most competitors, which makes it significantly less offensive to humans while still providing deterrence. The tradeoff is that mint-based formulas may not trigger as strong a fear response in high-pressure deer populations."
+  - question: "How long does Deer Out deer repellent last after application?"
+    answer: "Under normal outdoor conditions, expect 2–4 weeks of effectiveness before reapplication is needed. Rain, heavy dew, and new plant growth all reduce coverage, so inspect treated plants weekly during active growing season."
+  - question: "Can I use deer repellent on my vegetable garden without contaminating the harvest?"
+    answer: "Some deer repellents are labeled safe for use on edibles with a specified pre-harvest interval — always check the product label before spraying on food crops. For vegetables, a motion-activated sprinkler is often a cleaner deterrent since it involves no chemicals at all."
+  - question: "Should I use both a spray repellent and a motion-activated sprinkler?"
+    answer: "A layered approach works best under heavy deer pressure: spray repellents cover large areas and work passively, while a motion sprinkler adds a startle deterrent at key entry points. Using both together is more effective than relying on either method alone."
+  - question: "Why do deer become less deterred by repellent over time?"
+    answer: "Deer can habituate to any single deterrent if food pressure is high enough and the threat never actually materializes. Rotating between repellent types or combining chemical and physical deterrents reduces the chance of habituation and keeps the deterrent effect stronger over the season."
 ---
 
 Deer pressure is not a casual problem. If you've walked out to find your hostas reduced to stubs or your vegetable beds stripped overnight, you know the specific frustration of having done everything right except account for a 150-pound animal that treats your garden as a salad bar. Finding a repellent that actually works, and that you'll keep using consistently, is where most people get tripped up.

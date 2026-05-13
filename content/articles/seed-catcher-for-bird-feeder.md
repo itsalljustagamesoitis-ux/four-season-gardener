@@ -42,6 +42,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do seed catchers for bird feeders actually reduce mess on the ground?"
+    answer: "Yes — a properly sized seed catcher tray can collect most of the seed that birds kick out while feeding, which is the primary cause of ground mess and weed growth. The reduction in waste also means you refill the feeder less often and spend less on seed overall."
+  - question: "How do I choose the right size seed catcher for my feeder?"
+    answer: "The catcher should be at least as wide as the feeder's widest point, and ideally wider — birds scatter seed sideways as much as straight down. Most universal seed tray attachments fit poles up to 1 inch in diameter, so confirm your pole size before ordering."
+  - question: "Will a seed catcher tray attract rats or squirrels?"
+    answer: "A tray that allows seed to accumulate can attract rodents if not cleaned regularly. Empty and rinse the tray at least once a week, and avoid letting wet seed sit in it, as that also promotes mold. A squirrel baffle on the pole is still necessary for keeping squirrels out of the feeder itself."
+  - question: "Can a seed catcher fit any bird feeder brand?"
+    answer: "Most aftermarket seed catchers are designed as universal trays that clamp onto a standard feeder pole, rather than attaching directly to the feeder. Feeder-specific trays that mount to the bottom of the feeder are less common but offer a cleaner look and better coverage."
+  - question: "What is the easiest way to clean a seed catcher tray?"
+    answer: "Remove it from the pole, dump the accumulated hulls and seed into a trash bag, and rinse with a diluted bleach solution (1 part bleach to 9 parts water) to kill mold and bacteria. Let it dry fully before reattaching, as wet trays can cause mold growth that is harmful to birds."
 ---
 
 The ground under a bird feeder tells you everything about how well it's working. If you're finding a spreading ring of hulls, husks, and rejected seed every morning, the feeder is doing its job but your lawn, deck, or patio is paying for it. A seed catcher addresses exactly that problem, and depending on your setup, it can be a tray attached to the feeder itself, a dome baffle above it, or simply a feeder design that limits scatter in the first place.

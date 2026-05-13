@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many raised beds can one drip irrigation kit cover?"
+    answer: "The Rain Bird GardenKit is designed for approximately one 4x8 raised bed. For multiple beds, you'll need additional kits or a larger general-purpose kit like the DIG GE200, which provides enough components and tubing to cover several beds in sequence."
+  - question: "Is a soaker hose or drip emitters better for raised beds?"
+    answer: "Soaker hoses are simpler to install and water evenly along their full length, making them well-suited for densely planted rows. Drip emitters give you more control over individual plant placement, which is better for mixed plantings with varied water needs."
+  - question: "Do drip irrigation kits for raised beds work with a standard garden hose faucet?"
+    answer: "Yes — all of the kits in this category connect to a standard 3/4-inch hose bib with no special plumbing. You'll want a timer at the faucet to automate watering, as raised beds dry out quickly and consistent scheduling matters more than it does in ground beds."
+  - question: "What is the biggest mistake people make when setting up drip irrigation for raised beds?"
+    answer: "The most common mistake is skipping a pressure regulator, which causes emitters to mist or blow out if your household water pressure exceeds 30 PSI. Most drip kits operate optimally at 15–25 PSI, so a simple inline pressure regulator protects the entire system."
+  - question: "Can I leave a drip irrigation kit in a raised bed over winter?"
+    answer: "Drip tubing and emitters should be disconnected and drained before the first hard freeze to prevent cracking. Store tubing loosely coiled indoors — tight coils create kink memory that causes flow problems the following season."
 ---
 
 Drip irrigation kits for raised beds occupy a strange middle ground in the garden market: most are either priced for the wholesale nursery trade or assembled from components so flimsy they'll fail before your tomatoes set fruit. The kits that fall between those extremes are worth knowing about, and that's what this roundup covers. I've tested or run long-term every product listed here on my 12-acre property in Litchfield County, and I've done my best to tell you not just what each one does but what it actually costs to get started, where it breaks down, and which one I'd buy if I were setting up a new bed tomorrow.

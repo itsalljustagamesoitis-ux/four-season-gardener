@@ -28,6 +28,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why does teak outlast other woods for outdoor garden benches?"
+    answer: "Teak's natural oil content and tight grain make it inherently resistant to moisture, warping, and rot without any treatment — properties that eucalyptus, acacia, and treated pine cannot match over many years. Mature teak heartwood (Grade A) is especially dense and oil-rich, which is why well-maintained teak benches can last decades outdoors."
+  - question: "What is Grade A teak and why does it matter for a garden bench?"
+    answer: "Grade A teak is milled exclusively from the heartwood of mature trees, giving it the highest density, natural oil content, and resistance to splitting and fungal staining. Non-Grade-A teak may include sapwood, which is more prone to cracking and uneven weathering — a meaningful difference in climates with freeze-thaw cycles or wet winters."
+  - question: "Will a teak garden bench turn gray if left untreated?"
+    answer: "Yes — untreated teak weathers to a silver-gray patina over one to two seasons of outdoor exposure. This is a stable, natural process that doesn't harm the wood structurally. If you prefer the original honey-brown color, apply teak oil or sealant annually and the gray patina can be reversed or prevented."
+  - question: "How does the Ash & Ember Hawthorne bench compare to the Tangkula teak bench in durability?"
+    answer: "The Ash & Ember Hawthorne uses certified Grade A teak at around $660 for a 73-inch bench, while the Tangkula is solid teak but not Grade A certified, at roughly $280 to $320 for a 51-inch bench. In climates with hard winters and wet springs, the higher-density Grade A teak is the more durable long-term investment."
+  - question: "How many people does a 73-inch teak garden bench seat?"
+    answer: "A 73-inch bench seats two adults comfortably and three if they are close. The Ash & Ember Hawthorne is designed with armrests at each end, which defines the seating boundaries and contributes to the classic garden bench silhouette."
 ---
 
 If you're buying outdoor furniture with any intention of keeping it longer than a single administration, teak is worth understanding before you spend. It's not hype. The oil content in mature teak resists moisture, warping, and rot in ways that eucalyptus, acacia, and treated pine simply don't match over a decade of hard winters and wet springs. A teak bench garden piece bought in your mid-fifties can still look presentable when you're collecting Social Security. That's the actual proposition.

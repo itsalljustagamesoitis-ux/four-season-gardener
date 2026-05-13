@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is a mechanical sprinkler timer and how does it work?"
+    answer: "A mechanical sprinkler timer attaches between your outdoor faucet and hose or irrigation line and controls when and how long water flows. Clockwork models like the Orbit 62034 require no batteries or apps — you twist the dial to set a duration up to 120 minutes and the timer shuts off automatically."
+  - question: "Do mechanical sprinkler timers require batteries or Wi-Fi?"
+    answer: "True clockwork mechanical timers like the Orbit 62034 single-dial model require no batteries, no app, and no Wi-Fi — they run entirely on water pressure and a spring mechanism. Smart controllers like the Rachio 3 require Wi-Fi and a power source but offer scheduling, weather skipping, and remote app control in return."
+  - question: "Can a single mechanical sprinkler timer water multiple zones?"
+    answer: "A basic single-dial mechanical timer controls only one zone at a time. If you need to water two separate areas independently, a dual-outlet timer like the Orbit B-hyve XD 2-port model lets you manage two zones from one faucet, each on its own schedule."
+  - question: "What does WeatherSense or Weather Intelligence mean on a sprinkler timer?"
+    answer: "WeatherSense (Orbit) and Weather Intelligence (Rachio) are automatic rain-skip features that pause or cancel scheduled watering when rain is detected or forecast. This prevents overwatering and saves water without requiring you to manually disable the timer."
+  - question: "Is a smart sprinkler controller worth the extra cost over a mechanical timer?"
+    answer: "For a small kitchen garden or single flower bed, a $12–$25 mechanical timer does the job reliably without setup complexity. For larger landscapes with multiple zones, a smart controller like the Rachio 3 pays for itself through water savings, remote scheduling, and weather integration within a season or two."
 ---
 
 A mechanical sprinkler timer is one of those purchases you make once, forget about for years, and then wonder how you managed without it. The concept is simple: set a duration, attach it to a faucet, and stop standing in your garden holding a hose like you have nothing else to do. But "mechanical timer" has become a loose term that covers everything from a $12 clockwork dial to a Wi-Fi controller managing eight separate zones, and the gap between those products is large enough that buying the wrong one is a real waste of money.

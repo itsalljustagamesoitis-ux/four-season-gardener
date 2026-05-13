@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes Sunbrella fabric different from regular outdoor cushion fabric?"
+    answer: "Sunbrella uses solution-dyed acrylic, meaning the color is baked into the fiber before it is spun — not printed or dyed on the surface. This makes the fabric dramatically more fade-resistant than standard polyester covers, and Sunbrella backs this with a 5-year warranty against fading under normal outdoor conditions."
+  - question: "Can Sunbrella Adirondack chair cushion covers be removed and washed?"
+    answer: "Yes — RSH Decor's Sunbrella cushions feature zipper closures so covers can be removed for washing. Sunbrella recommends hand washing or a gentle machine cycle with mild soap and air drying. Do not machine dry, as heat can affect the fabric's water-resistant finish."
+  - question: "What fill type is best for Adirondack chair cushions?"
+    answer: "High-density polyester foam is the better choice for Adirondack chairs because the reclined geometry already positions you well back — a soft fiberfill can feel unsupportive in that angle. High-density foam maintains its shape through the season and provides firmer back support over long sitting sessions."
+  - question: "Will the cushion ties hold the cushion in place on an Adirondack chair?"
+    answer: "The four corner ties work well on most Adirondack chairs, but you should verify that your chair has attachment points (holes or slat gaps) to thread the ties through before purchasing. Chairs without tie anchors may allow cushions to shift in wind."
+  - question: "How long do Sunbrella Adirondack cushions last compared to cheaper alternatives?"
+    answer: "Sunbrella cushions reliably last 5 or more seasons outdoors with minimal care, while generic polyester covers often show significant UV fading within a single summer and may need replacing after 1–2 seasons. For quality frames you plan to keep long-term, the Sunbrella price premium typically pays for itself in replacement cost avoidance."
 ---
 
 If your patio furniture is still structurally sound but the cushions look like they've survived a decade of hard use (because they have), replacing the fabric is almost always the smarter call than buying new furniture. That's the situation most of us with quality frames are actually in. The cushions fade, the fill compresses, the covers develop that particular gray-green tinge that no amount of scrubbing fixes. The frames? Usually fine. Which is exactly why replacement cushion options like the [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion) get so much attention from people who are otherwise done shopping for outdoor furniture.

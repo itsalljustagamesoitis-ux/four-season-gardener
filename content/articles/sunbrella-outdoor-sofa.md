@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the POLYWOOD Edge sectional use genuine Sunbrella fabric cushions?"
+    answer: "No — the POLYWOOD Edge sectional uses olefin fabric cushions, not Sunbrella. Olefin offers similar UV resistance and moisture-shedding performance to Sunbrella, but Sunbrella has a more established reputation and broader replacement fabric availability. For most outdoor uses, olefin performs well; if Sunbrella specifically matters for warranty or sourcing reasons, look for sets that explicitly state Sunbrella fabric."
+  - question: "What is POLYWOOD's warranty on the Edge sectional frame?"
+    answer: "POLYWOOD offers a 20-year warranty on the HDPE frame against defects, fading, and structural failure under normal residential outdoor use. Cushions carry a separate 3-year warranty. The frame warranty is one of the longest in the outdoor furniture category."
+  - question: "Can the POLYWOOD Edge sectional cushion covers be machine washed?"
+    answer: "Yes — cushion covers are removable and machine-washable, which is a significant advantage over sofas where the cushion and cover are bonded together. Regular washing prevents mold and mildew buildup and keeps the cushions looking fresh through multiple seasons."
+  - question: "How heavy is the POLYWOOD Edge sectional, and can I move it easily?"
+    answer: "Individual pieces weigh between 30 and 50 pounds each, making the full six-piece set quite heavy to relocate. For a permanent patio installation this is not an issue, but it is not a sectional you will casually rearrange or bring indoors seasonally without significant effort."
+  - question: "Is the POLYWOOD Edge sectional worth the $3,000+ price tag?"
+    answer: "For a permanent outdoor seating area you plan to use for a decade or more, yes — the math works out compared to replacing cheaper sets every 3 to 5 years. It is not the right choice for rental properties, temporary setups, or buyers whose budget caps below $3,000."
 ---
 
 If you've been replacing outdoor seating sets every three to five years, you already know the math doesn't work. A $600 wicker sectional sounds reasonable until you've bought three of them. The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set) sits at the opposite end of that calculation: a high upfront number backed by a 20-year frame warranty and cushions that are genuinely built for the outdoors. This review is for people who are done making the cheap-set mistake and want to know whether this particular investment is the right one.

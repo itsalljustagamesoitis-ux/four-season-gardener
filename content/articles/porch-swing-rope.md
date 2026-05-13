@@ -39,6 +39,17 @@ product_a: "ystop-macrame-swing-chair-b07y"
 product_b: "greenstell-macrame-swing-b07m"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What type of ceiling hardware do I need to hang a macrame swing chair?"
+    answer: "You need an eye bolt or ceiling hook rated for the dynamic load of the chair plus occupant weight — at minimum 500 lbs for a single-occupant chair. The hook must anchor into a structural joist, not just ceiling planking or drywall. Budget $15 to $30 for the hardware, and use a stud finder to confirm you are hitting solid wood before drilling."
+  - question: "Why does the Y-STOP macrame swing have a higher weight capacity than the Greenstell?"
+    answer: "The Y-STOP uses heavier cotton cord construction and a more reinforced hanging rope design that supports 500 lbs versus the Greenstell's 330 lbs. If two people may share the chair or you want meaningful safety margin, the Y-STOP's capacity advantage is the deciding factor. Both are cotton macrame, but the structural differences in the rope and ring hardware account for the gap."
+  - question: "How do I prevent a cotton macrame swing from getting mildew?"
+    answer: "Bring the chair indoors during sustained rain and store it inside through winter — cotton macrame absorbs moisture readily, and staying wet promotes mildew and knot weakening. Covered porches with good airflow can extend outdoor time, but no cotton macrame is truly weatherproof. Drying it completely before storage is the most important habit."
+  - question: "Does the Y-STOP macrame swing include cushions, or do I need to buy them separately?"
+    answer: "The Y-STOP includes both a seat cushion and a back cushion in the box, which is a meaningful advantage at its price point. The Greenstell does not include cushions, adding roughly $30 to $60 to your total cost if you want padded comfort."
+  - question: "Can a macrame hanging swing chair support two adults at once?"
+    answer: "The Y-STOP at 500 lbs capacity can support two average adults — a combined weight of 300 to 350 lbs falls well within the rating. The Greenstell and JoyView at 330 lbs are designed for a single occupant; two adults sharing them would approach or exceed the rated limit, which is not a situation you want to test. If two-person use is intended, the Y-STOP is the only safe choice among the three."
 ---
 
 Porch swing rope searches spike every spring, and most of them end at the same frustrating crossroads: macramé chairs that look beautiful in listing photos and fall apart in the first wet season, or plain cotton rope that can't hold an adult without creaking warnings. After spending more time than I'd like to admit testing hanging chairs across three very different porch situations on my property, I've narrowed the field to three picks worth actually buying.

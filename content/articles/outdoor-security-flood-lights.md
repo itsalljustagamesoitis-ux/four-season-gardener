@@ -28,6 +28,17 @@ products:
 tags: ["lighting", "comparison"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a security flood light and a regular outdoor security light?"
+    answer: "Flood lights emit a wide, high-lumen beam designed to illuminate a broad area like a driveway or yard perimeter. Regular outdoor security lights are typically smaller and designed for doorways or walkways with narrower, lower-output illumination."
+  - question: "How many lumens should an outdoor security flood light produce?"
+    answer: "For a standard residential driveway or backyard, 1,500 to 3,000 lumens per fixture is sufficient. The LEONLITE 3CCT reviewed here delivers up to 3,000 lumens with three adjustable heads. Solar flood lights typically max out at 400–800 lumens, limiting them to smaller coverage zones."
+  - question: "Do hardwired security flood lights require a permit to install?"
+    answer: "In most jurisdictions, connecting a new hardwired outdoor light to an existing junction box does not require a permit. Running new wiring from your electrical panel does, in most cases, require a licensed electrician and may require a permit — check your local building codes."
+  - question: "Can solar security flood lights replace hardwired ones?"
+    answer: "For small or low-priority areas with good sun exposure, solar flood lights are a practical and cost-effective option. For primary security coverage of driveways, large yards, or shaded locations, hardwired lights deliver far more consistent and powerful output that solar cannot match."
+  - question: "What color temperature is best for outdoor security flood lights?"
+    answer: "5000K (daylight white) provides the clearest visibility at night and the sharpest contrast for cameras or human recognition. 4000K (neutral white) is a common compromise. Warmer tones (3000K) are better for ambiance than security use."
 product_a: "leonlite-3cct-security-light"
 product_b: "mr-beams-solar-wedge-plus"
 # winner: product_a  # SET THIS after review

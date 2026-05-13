@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "How is the propane tank hidden in a fire pit table?"
+    answer: "Fire pit tables with hidden tanks have an enclosed base cabinet with a door or panel — the standard 20 lb propane tank sits inside the cabinet and connects to the burner via a regulator and hose. The cabinet keeps the tank out of sight while remaining ventilated for safe gas dissipation."
+  - question: "Is a 20 lb propane tank the right size for a fire pit table?"
+    answer: "Yes — standard fire pit tables are designed to connect to a 20 lb (5-gallon) tank, the same size used for gas grills. At 50,000 BTU, a full tank lasts approximately 8–10 hours at full flame, or considerably longer at medium to low settings."
+  - question: "Can I convert a propane fire pit table to natural gas?"
+    answer: "The Napoleon St. Tropez includes a natural gas conversion kit in the box, making it compatible with a permanent gas line. The Outland Living 403 is propane-only. Natural gas conversion eliminates the need to monitor and refill tanks but requires a licensed gas line installation."
+  - question: "What is the main reason to spend $700 on a fire pit table instead of $300?"
+    answer: "The Napoleon St. Tropez at $700+ adds electronic ignition, a premium rust-proof aluminum frame, and an included natural gas conversion kit. For a permanent high-use outdoor space, those features justify the cost; for a casual patio setup used seasonally, the Outland Living at $300 delivers the core function without the premium."
+  - question: "Is it safe to store a propane tank inside a fire pit table cabinet?"
+    answer: "Yes, provided the cabinet is properly ventilated as designed — fire pit table bases with enclosed tank compartments are built with ventilation gaps or slots to prevent gas accumulation. Never store a damaged or leaking tank inside any enclosure, and always open the tank valve only when you intend to use the fire."
 ---
 
 First off, both of these tables hide their propane tanks inside the base. But that's where the similarity ends, and the price difference between them, currently around $300 versus $700 or more, depending on retailer and timing, is not trivial. If you're spending real money on a fire pit table, you deserve a straight answer about which one earns it.

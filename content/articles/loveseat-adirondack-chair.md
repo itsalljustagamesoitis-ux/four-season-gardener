@@ -32,6 +32,17 @@ product_a: "hdpe-adirondack-loveseat-fixed"
 product_b: "folding-adirondack-loveseat-hdpe"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What is HDPE and why is it used for Adirondack loveseats?"
+    answer: "HDPE (high-density polyethylene) is a recycled plastic lumber that resists moisture, UV fading, and splintering without any painting, sealing, or staining. It is the preferred material for all-weather outdoor furniture because it holds up through freeze-thaw cycles and humid summers without the maintenance wood requires."
+  - question: "What is the weight capacity of the SERWALL folding Adirondack loveseat?"
+    answer: "The SERWALL folding Adirondack loveseat has a weight capacity of 660 lbs, which covers two adults comfortably and makes it a practical option for most households."
+  - question: "Should I choose the fixed or folding SERWALL Adirondack loveseat?"
+    answer: "Choose the fixed version if the loveseat will stay in one place year-round and you do not need to store it seasonally. Choose the folding version if you bring furniture in for winter, have limited storage space, or want the flexibility to move the seat between locations."
+  - question: "Do HDPE Adirondack loveseats need to be covered or stored in winter?"
+    answer: "HDPE furniture does not require seasonal storage or waterproof covers the way wood does — it is designed to stay outside year-round. However, storing or covering it in harsh climates can reduce surface fading and keep it cleaner over the long term."
+  - question: "How much does a SERWALL Adirondack loveseat typically cost?"
+    answer: "Both the fixed and folding SERWALL Adirondack loveseats are priced in the mid-range, typically $280–$320 depending on version and availability. This places them above budget resin furniture but well below premium teak or poly lumber options from specialty outdoor brands."
 ---
 
 If you've spent any time shopping for outdoor seating that fits two people without defaulting to a full patio set, you've probably noticed how thin the options get. Most Adirondack loveseats on the market are either flimsy resin or priced like heirloom furniture. SERWALL has carved out an interesting middle position with two versions of the same basic product: a fixed bench and a folding bench, both built from HDPE, both designed for two people, and both sitting in the mid-price range that actually makes sense for this category.

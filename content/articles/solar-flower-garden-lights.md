@@ -32,6 +32,17 @@ product_a: "litom-30led-solar-spotlight"
 product_b: "mr-beams-solar-wedge-plus"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Are solar flower garden lights bright enough to actually see the garden at night?"
+    answer: "Solar flower lights are primarily decorative — they create a warm glow that defines the garden's shape and adds ambiance, but are not bright enough to illuminate a path for safe navigation or to replace task lighting. For functional nighttime visibility, supplement with dedicated solar spotlights."
+  - question: "What IP rating should solar flower garden lights have to survive rain and sprinklers?"
+    answer: "Look for at least IP65 (dust-tight and jet-water resistant) for standard outdoor use. IP67-rated lights can handle brief submersion, which is useful in heavy rain climates or near irrigation zones. Cheaper lights rated IPX4 or lower may fail within a season in wet conditions."
+  - question: "How long do solar flower garden lights stay on each night?"
+    answer: "After a full day of sun, most solar flower lights run 6–10 hours depending on battery capacity and brightness mode. Performance drops in winter or cloudy stretches because the battery does not fully recharge, which is a key limitation compared to wired lighting."
+  - question: "Do solar flower garden lights work in partial shade?"
+    answer: "They charge less efficiently in partial shade, resulting in shorter nightly runtime. If your flower beds are under a tree canopy or on the north side of a structure, look for lights with a separate solar panel that can be positioned in a sunnier spot while the light stakes remain in the shade."
+  - question: "How long do solar flower garden lights last before the battery needs replacing?"
+    answer: "Most built-in lithium batteries in solar garden lights last 2–3 years before noticeably shorter runtime signals degradation. Models with replaceable batteries can be extended indefinitely; lights with sealed batteries will need to be replaced as a unit when the battery fails."
 ---
 
 Solar flower garden lights occupy a strange middle ground in outdoor lighting. They're decorative enough to soften a border or pathway, but the better ones pull real security duty too. The problem is the category is flooded with products that look identical in the listing photos and perform very differently once they're staked into your actual yard and left to charge through a partly cloudy week in November.

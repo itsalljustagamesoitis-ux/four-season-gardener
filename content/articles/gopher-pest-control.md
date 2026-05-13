@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do motion-activated sprinklers actually deter gophers?"
+    answer: "Motion-activated sprinklers like the Orbit Yard Enforcer are most effective against surface-feeding pests such as deer, rabbits, and raccoons rather than gophers, which tunnel underground. They can help reduce the broader pest pressure on your garden but won't eliminate an established gopher population on their own."
+  - question: "How long does liquid repellent like Liquid Fence last outdoors?"
+    answer: "Rain-resistant formulas typically last 2–4 weeks with normal outdoor exposure. Reapply after heavy rain or at least every 30 days during peak pest season for consistent protection."
+  - question: "Is Liquid Fence safe to use around vegetable gardens?"
+    answer: "Liquid Fence Deer & Rabbit Repellent is generally considered safe for use around edible gardens once dry, but always check the label for specific crops. Avoid spraying directly on edible portions of plants."
+  - question: "What's the difference between gopher repellents and gopher traps?"
+    answer: "Repellents deter gophers and other surface pests by creating an unpleasant environment, while traps physically capture or kill gophers underground. Repellents require consistent reapplication and work best as a preventive measure, whereas traps are more appropriate once an active infestation is confirmed."
+  - question: "Can I use a motion-activated sprinkler at night to protect my garden?"
+    answer: "Yes — many models including the Orbit Yard Enforcer offer a night-only or 24-hour detection mode, which lets you target nocturnal animals like raccoons without accidentally activating the sprinkler during the day when you're working in the garden."
 ---
 
 Gophers are underground animals that destroy root systems, collapse garden beds, and undermine the kind of patient planting work that takes years to build. If you've watched a healthy perennial simply keel over because something chewed through the root ball from below, you already know this. The problem is that most "gopher pest control" searches return a chaotic mix of traps, toxins, ultrasonic stakes, and repellents, and very little honest guidance about what actually works under real conditions.

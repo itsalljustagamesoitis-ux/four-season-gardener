@@ -21,6 +21,17 @@ products:
 tags: ["irrigation", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the Orbit B-hyve XD timer require a Wi-Fi Hub to function?"
+    answer: "Yes — the B-hyve XD uses the separate Wi-Fi Hub (sold as a bundle) to connect to the app and enable smart scheduling. Without the hub it works only as a manual or locally-programmed timer."
+  - question: "Can the Orbit B-hyve XD water two zones at the same time?"
+    answer: "No. The two ports run independently but not simultaneously — you schedule each zone on its own watering program, which is standard for hose-end timers to avoid pressure drops."
+  - question: "What batteries does the Orbit B-hyve XD use and how long do they last?"
+    answer: "It runs on four AA batteries. Under typical use with app-based scheduling, battery life is roughly one full season before a replacement is needed."
+  - question: "Does WeatherSense actually skip watering after rain automatically?"
+    answer: "Yes, when connected to the hub and the B-hyve app, WeatherSense pulls local forecast data and skips scheduled cycles if significant rain is detected — no physical rain sensor required."
+  - question: "Is the Orbit B-hyve XD compatible with a standard garden hose faucet?"
+    answer: "Yes, it uses a standard 3/4-inch female hose thread and attaches directly to any outdoor spigot without adapters in most cases."
 ---
 
 If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a $15 mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.

@@ -28,6 +28,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do cedar pergola kits require staining or sealing?"
+    answer: "Yes — cedar will weather to a silver-grey without periodic maintenance. Plan to re-stain or apply a UV-protective oil every 2–3 years to preserve the warm color and slow the natural greying process. Pre-stained kits like the Yardistry give you a head start but still need ongoing maintenance."
+  - question: "Is cedar better than pressure-treated pine for a pergola kit?"
+    answer: "Cedar is naturally rot-resistant without chemical treatment, making it safer near edibles and more pleasant to handle. It's also lighter and more attractive than pressure-treated pine. The trade-off is cost — cedar kits typically run 30–60% more than comparable pine kits."
+  - question: "How long does it take to assemble a cedar pergola kit?"
+    answer: "A pre-cut, pre-drilled cedar pergola kit like the Yardistry 10x12 typically takes two people one full day to assemble. Working solo adds time and makes lifting heavy beams significantly harder — a two-person crew is strongly recommended for any structure larger than a simple arbor."
+  - question: "What size cedar pergola kit fits a 6-person dining set?"
+    answer: "A 10x12 foot footprint (120 sq ft) accommodates a standard 6-person patio dining set with comfortable clearance around all sides. For larger sectionals or dining tables with extensions, consider a 12x14 or larger structure."
+  - question: "Can a cedar pergola kit support climbing plants?"
+    answer: "Yes — cedar pergolas are well-suited for climbing roses, clematis, wisteria, and hops. Cedar is naturally resistant to the moisture that accelerates rot where vines contact the wood. Lattice side panels, if included, provide ready attachment points; otherwise, add eye hooks and wire guides along the posts and beams."
 ---
 
 Cedar pergolas sit in an interesting middle ground in the garden structures market. They're not cheap, they're not maintenance-free, and yet they consistently outsell vinyl and aluminum alternatives because they look like something that belongs in a real garden rather than a catalog. If you've been pricing kits and wondering whether the premium over pressure-treated pine is worth it, or whether a polycarbonate roof is smarter than raw cedar in the long run, this roundup gives you a straight answer.

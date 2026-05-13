@@ -32,6 +32,17 @@ product_a: "vego-garden-6in1-17inch"
 product_b: "vegega-17inch-6in1-metal-bed"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What is the difference between Aluzinc and zinc-aluminum-magnesium coatings on metal raised beds?"
+    answer: "Both are significant upgrades over standard galvanized steel. Aluzinc, used by Vego Garden, adds aluminum to the zinc layer for 3 to 5 times better corrosion resistance than basic galvanized. VEGEGA's zinc-aluminum-magnesium coating adds magnesium as well, which improves edge and cut-surface protection specifically — the points where corrosion typically starts first on assembled metal panels."
+  - question: "Will a 17-inch metal raised bed get too hot for vegetable roots in summer?"
+    answer: "In regions with extended stretches above 90 degrees Fahrenheit and direct afternoon sun, metal panels can raise soil temperatures enough to stress heat-sensitive crops. Mulching the soil surface is the most effective mitigation. In cooler climates or beds with afternoon shade, soil temperature in a metal bed is not a meaningful concern."
+  - question: "Are Vego Garden and VEGEGA panels interchangeable if I want to expand later?"
+    answer: "No — the two brands use different connection hardware and panel dimensions. Panels from Vego Garden and VEGEGA are not cross-compatible. If you plan to expand a bed later, stay within the same brand and confirm that the expansion panel sets are compatible with the specific configuration you installed."
+  - question: "How much soil does a 17-inch deep 4x8 metal raised bed require?"
+    answer: "A standard 4x8 bed at 17 inches deep holds approximately 27 to 28 cubic feet of soil — roughly 1 cubic yard. At typical bagged soil prices of $8 to $12 per 1.5 cubic foot bag, filling a single 4x8 bed runs $150 to $225 in soil alone. Buying soil in bulk cubic yard quantities from a local landscape supplier is significantly more cost-effective for multiple beds."
+  - question: "Is it safe to grow vegetables in metal raised beds without a liner?"
+    answer: "Yes — both Vego Garden and VEGEGA use food-safe coatings that do not leach heavy metals into soil at meaningful levels under normal garden conditions. A liner is not required for food safety. Some gardeners add a breathable landscape fabric liner to the bottom to deter burrowing pests or slow weed intrusion from below, but this is a pest management choice, not a health requirement."
 ---
 
 If you've spent any time researching raised garden bed metal options, you've almost certainly landed on both of these products within the same browser session. The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) and the [VEGEGA 17-Inch Tall 6-in-1 Modular Metal Raised Garden Bed](product:vegega-17inch-6in1-metal-bed) are nearly identical on paper: same depth, same modular concept, overlapping price range, and names that are genuinely easy to confuse. I've had both assembled on my property, and the differences are real, even if they're not where the marketing materials suggest. This isn't a case where one product is clearly inferior. It's a case where the right answer depends on a few specifics that matter more than the overall star rating.

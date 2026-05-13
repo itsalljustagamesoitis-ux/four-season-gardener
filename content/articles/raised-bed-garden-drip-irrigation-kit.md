@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I know if I need drip emitters or a soaker hose for my raised bed?"
+    answer: "Use drip emitters for widely-spaced crops like tomatoes, peppers, and squash — point-source delivery keeps the surface between plants dry and reduces fungal disease pressure. Use a soaker hose for densely planted rows like beans, carrots, and greens where watering the entire row length is more efficient than placing individual emitters."
+  - question: "Why does a raised bed drip irrigation kit need a pressure regulator?"
+    answer: "Standard residential water pressure runs 40 to 80 PSI, but drip emitters are rated for 20 to 25 PSI. Running emitters at full tap pressure causes uneven water distribution and shortens emitter life. The Rain Bird GARDENKIT includes a pressure regulator; if your kit does not, add one at the hose bib for approximately $8 to $12."
+  - question: "How many Rain Bird GARDENKIT drip kits do I need for multiple raised beds?"
+    answer: "One Rain Bird GARDENKIT covers approximately one 4x8 raised bed. For multiple beds, either buy one kit per bed or step up to the DIG GE200 122-piece kit, which includes enough components for several beds from a single mainline with a separate timer purchase."
+  - question: "Does the Orbit B-hyve XD hose timer require a Wi-Fi hub to work?"
+    answer: "The B-hyve XD can run its saved watering schedule from internal memory without the Wi-Fi hub, but you lose app control, remote access, and WeatherSense rain-skip without it. The hub is sold separately in some configurations, so confirm whether it is included in the bundle you are purchasing before ordering."
+  - question: "How do I winterize a raised bed drip irrigation system in a cold climate?"
+    answer: "Drain the entire system before the first hard freeze and bring the pressure regulator and timer indoors — both can crack if water freezes inside them. Drip tubing can remain in place through winter if fully drained, though it will degrade faster from UV exposure over multiple years. Most drip tubing is rated for five to ten seasons with reasonable care."
 ---
 
 Raised bed vegetable gardening is one of the few areas where the watering problem has a genuinely good solution, and most people are still doing it the hard way. If you're hand-watering a 4x8 bed every morning in July, you're losing time, water, and probably some plants to inconsistency. A drip irrigation setup built specifically for raised beds fixes all three. The question is which components are worth buying and which are filler.

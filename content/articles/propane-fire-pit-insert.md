@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What BTU output do I need from a propane fire pit insert for a standard patio?"
+    answer: "For a typical patio with seating 6 to 8 people, 40,000 to 50,000 BTU is the practical range. The Outland Living 403 puts out 50,000 BTU and heats a 15-foot radius adequately on cool evenings. Below 40,000 BTU you will notice the ceiling on nights in the low 50s or below."
+  - question: "Is the manual ignition on the Outland Living 403 reliable in damp or windy weather?"
+    answer: "Manual push-button piezo igniters can become less reliable in sustained damp conditions and may require multiple attempts in wind. The Napoleon St. Tropez's electronic auto-ignition is more consistently reliable across weather conditions. For covered patios with reasonable wind protection, the Outland's ignition is adequate for most users."
+  - question: "What is the difference between a propane fire pit insert and a fire pit table?"
+    answer: "A fire pit insert is the drop-in burner component — the pan, ring, and gas fitting — that installs into a custom-built or existing surround. A fire pit table is the complete finished product including the insert, the surrounding table frame, and all hardware. The Outland 403 and Napoleon St. Tropez are complete tables, not standalone inserts."
+  - question: "How heavy is the Outland Living Series 403, and can one person move it?"
+    answer: "The Outland 403 weighs approximately 80 pounds assembled, which makes repositioning a two-person job. Unlike the lighter aluminum Napoleon, the concrete-look composite frame does not move easily. Position it where you want it before final assembly, because moving it after is not a solo task."
+  - question: "Does the Napoleon St. Tropez fire table require any special fuel connections beyond the conversion kit?"
+    answer: "The conversion kit handles the burner orifice and regulator swap, but the actual connection to a natural gas supply line must be made by a licensed plumber in most U.S. jurisdictions. Budget $150 to $250 for that service call when planning a natural gas setup. The propane configuration works out of the box with any standard 20 lb tank."
 ---
 
 If you're shopping for a propane fire pit insert or a fire table that uses one, you've probably already noticed the price spread is wide and the marketing language is nearly identical across brands. "Elegant." "Durable." "Perfect for entertaining." Every product page says the same thing. What you actually want to know is which one holds up, which one is worth the price, and whether the cheaper option is genuinely inferior or just less expensive. I've spent time with both the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table), and I have a clear preference. More on that below.

@@ -32,6 +32,17 @@ product_a: "all-things-cedar-ts50-teak-porch-swing"
 product_b: "anderson-teak-gl101-glider-bench"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What load-bearing capacity does a porch beam need to support a hanging teak swing?"
+    answer: "A porch beam needs to handle the combined dynamic load of the swing weight plus the occupants plus the force of swinging motion — plan for at least 600 to 700 lbs minimum at the anchor points. If you are unsure whether your overhead structure is adequate, have a contractor assess it before hanging any swing. Dynamic load from swinging exceeds static weight, which is why undersized anchor points fail."
+  - question: "What hardware do I need to buy separately to hang the All Things Cedar TS50 swing?"
+    answer: "The TS50 ships with hanging ropes but not the ceiling-side hardware. You will need to purchase S-hooks, eye bolts, or ceiling-mount hardware rated for the load separately, which typically adds $20 to $40. Confirm the thread size and weight rating of any hardware before purchasing to match the rope diameter included with the swing."
+  - question: "Is a freestanding glider bench or a hanging porch swing better for a covered patio without structural beams?"
+    answer: "A freestanding glider bench like the Anderson Teak GL-101 is the only viable option if your covered patio has no load-bearing overhead structure. Hanging swings require a confirmed structural anchor point — decorative pergola rafters or lightweight aluminum covers typically cannot handle the dynamic load of a swing."
+  - question: "How wide is the All Things Cedar TS50, and will it seat two adults comfortably?"
+    answer: "The TS50 has a 54-inch seat width with a 500 lb weight capacity, which accommodates two adults without feeling cramped. For context, most two-seat porch swings run 48 to 52 inches wide; the extra 2 to 6 inches makes a noticeable difference in shoulder room when both seats are occupied."
+  - question: "Can you use cushions on either the All Things Cedar TS50 or the Anderson Teak GL-101?"
+    answer: "Yes on both. Neither includes cushions, which is standard for premium teak furniture at this price level. For the hanging swing, look for swing cushions with ties to prevent sliding during motion. For the GL-101, a standard two-seat bench cushion in the 45 to 48 inch range fits well. Sunbrella fabric is the recommended choice for outdoor UV and moisture resistance."
 ---
 
 If you've been searching "porch swing daybed" and wondering whether a hanging swing or a gliding bench better fits your porch, you're dealing with a real choice, not just a style preference. The motion is different, the installation is different, and the long-term commitment is different. Both the [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](product:all-things-cedar-ts50-teak-porch-swing) and the [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench) are built from Grade A teak and are priced accordingly. Neither is an impulse purchase. Before we get into the specifics, the broader context on how these pieces fit into an outdoor space is worth reading through in our [Outdoor Furniture](/outdoor-furniture/) hub.

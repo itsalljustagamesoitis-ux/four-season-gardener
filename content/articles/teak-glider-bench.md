@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is Grade A teak and why does it matter for a glider bench?"
+    answer: "Grade A teak is cut from the heartwood of mature trees, giving it the highest natural oil content and tightest grain. For a glider bench that stays outdoors year-round, this means better resistance to cracking, warping, and moisture damage compared to Grade B or C teak."
+  - question: "Will the gliding mechanism rust or seize over time?"
+    answer: "Quality teak glider benches like the Anderson GL-101 use marine-grade stainless steel hardware and precision bearings that are rated for outdoor exposure. Inferior plated hardware will rust and stain the wood within a few seasons, so hardware grade is as important as wood grade."
+  - question: "How often does a teak glider bench need to be oiled or treated?"
+    answer: "Applying teak oil once every one to two years is generally sufficient to maintain the wood's color and suppleness. If you prefer the natural silver-gray weathered look, you can skip oiling entirely — teak is stable without treatment, though oil helps retain the golden-brown tone."
+  - question: "Is a teak glider bench the same as a teak glider chair?"
+    answer: "No — a glider bench seats two people and uses a synchronized gliding frame, while a glider chair is a single-seat piece. Glider benches are wider, heavier, and require a more robust mechanism to keep the motion smooth under varying weight distribution."
+  - question: "How long does it take to assemble a teak glider bench and what tools are needed?"
+    answer: "Most teak glider benches, including the Anderson GL-101, require 30 to 45 minutes to assemble using basic hand tools like a mallet and a socket wrench. Quality hardware that threads cleanly without stripping makes the process significantly easier than budget flat-pack alternatives."
 ---
 
 There are a handful of outdoor furniture categories where the difference between a good purchase and a frustrating one comes down to understanding exactly what you're buying. Teak glider benches sit squarely in that category. The gliding mechanism adds complexity, and complexity is where cheaper materials fail first. Get it wrong and you're looking at rust-stained wood, seized bearings, and a bench that rocks with a grinding noise by year three. Get it right and you have something that outlasts the deck it sits on.

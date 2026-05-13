@@ -21,6 +21,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a connector-only pergola hardware kit and a complete kit?"
+    answer: "Connector-only kits include just the brackets and fasteners — you source and cut the lumber yourself, which costs $80 to $200 but requires saw work. Complete kits like the Yardistry include pre-cut, pre-drilled lumber plus hardware for $900 to $1,200, saving significant time and reducing the chance of cutting errors."
+  - question: "What hardware is typically missing from budget pergola kits?"
+    answer: "Budget kits often omit post bases, anchor bolts, and footing hardware required to actually secure the structure to the ground or a concrete pad. Budget an additional $40 to $80 for these items regardless of which kit you choose, and confirm the hardware inventory in the product listing before purchasing."
+  - question: "Can I use standard steel screws with a cedar pergola kit?"
+    answer: "No — cedar is mildly acidic and accelerates corrosion in standard steel fasteners. Use hot-dipped galvanized, stainless steel, or coated screws rated for exterior use. Quality complete kits like the Yardistry include appropriate hardware; any supplemental fasteners you add should match that specification."
+  - question: "How do I know if my soil type requires deeper post footings for a pergola?"
+    answer: "Clay soil expands and contracts more than sandy loam, and in freeze-thaw climates it will heave shallow footings. A minimum of 24 inches is standard, but in colder regions the frost line can be 36 to 48 inches deep, which is the depth your footings need to reach. Check your local building department for the frost depth requirement in your area."
+  - question: "Is a 10x12 pergola kit large enough for a standard outdoor dining set?"
+    answer: "A 10x12 fits a four-person dining table with chairs or a loveseat plus two side chairs — but not both. The 10' by 12' dimension refers to post spacing, and rafter overhang adds a modest amount beyond that. Measure your intended furniture footprint on the ground with tape before ordering to confirm the size works."
 ---
 
 Pergola hardware kits sit in an interesting middle ground: more permanent than a shade sail, less committed than a full outbuilding, and available at price points ranging from genuinely affordable to "I need to think about this." If you've spent any time browsing the structural options covered in our [Greenhouses, Sheds & Gazebos](/structures/) section, you've probably noticed that pergolas come up repeatedly as the entry point for serious outdoor structure projects. That's because they're one of the few additions you can plan on a Saturday, order by Monday, and actually have standing in your yard before the month is out.

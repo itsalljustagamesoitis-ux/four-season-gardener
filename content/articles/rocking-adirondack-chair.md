@@ -49,6 +49,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes a rocking Adirondack chair different from a standard Adirondack?"
+    answer: "A rocking Adirondack adds a curved rocker base beneath the traditional wide-slat design, so you get the reclined, low-slung comfort of an Adirondack with a gentle rocking motion. The trade-off is added weight and slightly more ground clearance needed on uneven surfaces."
+  - question: "Are rocking Adirondack chairs safe on a wood deck?"
+    answer: "Yes, but rocker feet can scratch or gouge unfinished decking over time. Look for chairs with wide, flat-bottomed rockers or add felt glides to the contact points to protect the deck surface."
+  - question: "What is the best material for a rocking Adirondack chair left outdoors year-round?"
+    answer: "HDPE (high-density polyethylene) lumber is the most weather-resistant option — it won't rot, warp, or need painting, and holds up through freeze-thaw cycles. Teak is the premium wood alternative but requires annual oiling to maintain its color."
+  - question: "How much weight can a rocking Adirondack chair typically hold?"
+    answer: "Most standard rocking Adirondack chairs are rated for 250–300 lbs. If you need a higher capacity, look specifically for chairs labeled heavy-duty or XL, which are often rated to 400 lbs or more."
+  - question: "Do rocking Adirondack chairs require assembly?"
+    answer: "Most arrive partially assembled and require attaching the rocker base, armrests, and back slats, typically a 30–60 minute job with basic tools. HDPE models often include pre-drilled holes and stainless hardware to simplify the process."
 ---
 
 A rocking Adirondack chair sits in an odd middle ground between furniture categories. It's too substantial to be casual patio seating and too relaxed to be anything you'd call formal. What it actually is, for most people who buy one, is the chair they spend more time in than any other piece of outdoor furniture they own. That's worth getting right.

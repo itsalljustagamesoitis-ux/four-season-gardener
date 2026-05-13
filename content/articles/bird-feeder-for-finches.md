@@ -42,6 +42,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What type of feeder is best for goldfinches and finches?"
+    answer: "Mesh feeders are best for finches — the entire surface becomes a feeding zone, allowing birds to cling anywhere including upside down, which goldfinches prefer. Port-style tube feeders work but create queuing because birds can only land at discrete perch points. Sock feeders also work well but degrade faster than metal mesh."
+  - question: "What seed do finch feeders use, and does it matter?"
+    answer: "Nyjer (also called thistle) seed is the primary draw for goldfinches, house finches, and purple finches. It requires fine mesh or small port openings — standard tube feeder ports are too large and the seed falls through. Finely milled sunflower chips are a secondary option that finches accept and that works in more feeder types."
+  - question: "Why won't finches use my new finch feeder?"
+    answer: "New feeders can take days to weeks for finches to discover and trust, especially if the location is new or if the birds are not yet present in your area. Goldfinches are more seasonally variable than year-round species — peak activity is spring and fall migration. Keep the seed fresh (nyjer goes stale and is rejected if old) and be patient."
+  - question: "How often should I clean a finch feeder and refill nyjer seed?"
+    answer: "Clean mesh and tube finch feeders every 2–4 weeks — wet or clumped nyjer inside the feeder will mold and the birds will stop using it. Nyjer seed has a shorter shelf life than sunflower and should be replaced if it's been in the feeder more than 3–4 weeks in warm weather, even if not visibly moldy."
+  - question: "Can I hang a finch feeder from a deck railing without a permanent mount?"
+    answer: "Yes — a railing clamp hook like the IDZO two-pack attaches to most standard deck railings without drilling and extends outward to provide a hanging point. A two-pack lets you hang a finch feeder alongside a second feeder or plant hook for a complete deck feeding station setup."
 ---
 
 Goldfinches will show up whether you make it easy for them or not. But the right feeder means a dozen birds working the mesh at once instead of two taking turns at a port. If you've spent any time watching finches feed, you know they don't operate like chickadees or nuthatches. They cling, rotate, hang upside down if they feel like it, and mob a food source when conditions are right. The feeder either accommodates that behavior or it doesn't.

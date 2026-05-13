@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Stihl make a battery powered edger?"
+    answer: "Stihl does offer cordless edging capability through their KombiSystem attachments and select AP-series tools, but these are primarily sold through authorized Stihl dealers and are rarely available on major retail platforms like Amazon. If you need a battery edger with wide retail availability today, alternatives like the EGO Power+ ME0801 are easier to source."
+  - question: "Is the EGO Power+ ME0801 a standalone edger or an attachment?"
+    answer: "The ME0801 is an attachment designed for EGO's Multi-Head power head (MHC1001). You need the power head to use it, which is included in the combo kit. This architecture means one battery and one motor can power multiple EGO attachments, making it cost-effective if you're building out a full battery tool setup."
+  - question: "What battery does the EGO ME0801 edger combo kit include?"
+    answer: "The kit includes a 2.5Ah 56V ARC Lithium battery and a standard EGO charger. The battery is compatible with all other EGO 56V tools, and larger capacity batteries (5Ah, 7.5Ah) can be used if you need longer runtime for larger properties."
+  - question: "How does the EGO battery edger compare to a gas edger for edge quality?"
+    answer: "The EGO ME0801 uses a steel blade (not nylon) and produces clean, defined edges comparable to gas edgers on concrete sidewalks and driveway borders. The depth wheel keeps cuts consistent, and debris is thrown away from the operator rather than toward your legs."
+  - question: "Can I use the EGO Multi-Head power head with other attachments besides the edger?"
+    answer: "Yes — the EGO Multi-Head system supports a range of attachments including a string trimmer, hedge trimmer, pole saw, and cultivator. Buying the combo kit as your entry point into the EGO platform means that one battery and one motor eventually power your entire cordless tool lineup."
 ---
 
 If you've been searching "Stihl battery edger" hoping to find a cordless version of the KA 85 or the HSA line, you've probably already noticed that Stihl's cordless edger options are either unavailable on Amazon or difficult to source outside of authorized dealers. That's not a knock on Stihl. Their battery platform is serious equipment, as anyone who's run their AP series tools can tell you. But if you need to buy today, from a platform with wide retail availability and a mature battery ecosystem, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is what I'd point you toward.

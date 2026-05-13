@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What battery and charger come with the EGO HT2411 hedge trimmer kit?"
+    answer: "The HT2411 kit includes a 2.5Ah 56V ARC Lithium battery and EGO's standard 56V charger. The included charger is not the rapid-charge model, so plan for about 50 minutes to fully recharge the battery from empty."
+  - question: "How long does the battery last on the EGO HT2411 hedge trimmer?"
+    answer: "The included 2.5Ah battery provides approximately 45 minutes of continuous cutting. For larger properties or extended sessions, a spare battery or upgrading to a 5Ah or 7.5Ah pack will significantly extend runtime without interruption."
+  - question: "Can the EGO HT2411 cut thick branches, or is it only for light trimming?"
+    answer: "The HT2411 has a genuine 1-inch cutting capacity, which is above average for cordless hedge trimmers and handles most formal hedging shrubs and moderate overgrowth. For branches above 1 inch in diameter, a pruning saw or loppers is a better tool."
+  - question: "Is the EGO HT2411 kit worth buying if I already own EGO batteries?"
+    answer: "If you already own 56V EGO batteries from other tools, the bare tool at $90–$100 is the better value since you don't pay for a battery and charger you don't need. The kit is most useful when you're entering the EGO platform for the first time."
+  - question: "How does the EGO HT2411 compare to a gas hedge trimmer for homeowners?"
+    answer: "The HT2411 is lighter, quieter, and requires zero fuel or carburetor maintenance compared to gas models. Its main limitation is battery runtime for very long sessions, but for the average homeowner trimming 30–60 minutes at a time it performs comparably to entry-level gas trimmers."
 ---
 
 I've been trimming the hedges on this property for close to fifteen years, and for most of that time I ran a Husqvarna 122HD45 gas trimmer. It worked. It also smelled, needed a carburetor clean every spring, and required a cord pull that would test the patience of someone half my age. When I started moving toward the EGO battery platform a few years ago, starting with their mower, the hedge trimmer was always the next logical step. The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is the entry point to that category for EGO: kit-priced, battery and charger included, and marketed as a serious cutting tool rather than a weekend-warrior toy. I've been running it for two full seasons. Here's my read.

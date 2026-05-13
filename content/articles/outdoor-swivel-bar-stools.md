@@ -49,6 +49,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What materials make outdoor swivel bar stools most durable?"
+    answer: "Powder-coated aluminum and HDPE (high-density polyethylene) are the two most weather-resistant frame materials for outdoor swivel stools. HDPE won't rust or splinter; aluminum is lighter and equally rust-resistant. Avoid steel-core frames with only a surface coating in wet climates."
+  - question: "Do outdoor swivel bar stool mechanisms wear out or get stiff over time?"
+    answer: "The swivel bearing can stiffen or develop play after extended outdoor exposure, particularly in humid or salty coastal environments. Stainless-steel or fully enclosed swivel mechanisms last longest — check the mechanism spec before purchasing if longevity is a priority."
+  - question: "What height swivel bar stool fits a 42-inch outdoor bar table?"
+    answer: "A 30-inch swivel bar stool is the standard pairing for a 42-inch bar-height table, leaving approximately 12 inches of clearance between the seat and the table surface — the ergonomic standard for comfortable seating."
+  - question: "Can outdoor swivel bar stools be used on a deck or uneven surface?"
+    answer: "Most outdoor swivel stools have flat glide feet designed for level patio surfaces. On decking with gaps or slightly uneven ground, stools with wider foot bases provide better stability. Adjustable leveling feet are available on some commercial-grade models."
+  - question: "How many swivel stools do I need for a standard outdoor bar table?"
+    answer: "Allow 22 to 26 inches of table width per stool for comfortable seating. A 60-inch bar table comfortably seats two to three stools; an 84-inch table can fit three to four. Swivel stools need slightly more clearance than fixed-seat stools due to rotation."
 ---
 
 Outdoor swivel bar stools occupy a specific and sometimes frustrating corner of patio furniture shopping. You want something that holds up through wet springs and hard winters, looks intentional rather than improvised, and doesn't wobble like a bar cart after two seasons of use. Finding all three at the same price point is harder than it should be.

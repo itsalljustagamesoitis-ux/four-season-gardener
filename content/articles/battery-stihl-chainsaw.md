@@ -28,6 +28,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why can't I buy a Stihl battery chainsaw on Amazon?"
+    answer: "Stihl does not sell through Amazon or any online retailer — their full product line is exclusively available through authorized Stihl dealers. This is a deliberate brand policy, meaning if you want a Stihl battery chainsaw, you need to visit a physical dealer location where inventory can be unpredictable."
+  - question: "How does the EGO CS1804 battery chainsaw compare to a Stihl MSA 220 C-B?"
+    answer: "Both saws operate in a similar power class — the EGO's 56V brushless motor is rated equivalent to roughly a 40cc gas engine, which is comparable to the Stihl MSA 220 C-B. The EGO has an 18-inch bar vs. the Stihl's 16-inch, ships directly to your door, and is typically cheaper. The Stihl has stronger dealer service support."
+  - question: "What size trees can the EGO CS1804 cut?"
+    answer: "The 18-inch bar handles trees up to approximately 32 inches in diameter using multiple cuts from opposite sides. For routine property maintenance — downed limbs, firewood splitting, deadwood removal, taking down a tree in sections — it handles the vast majority of residential situations effectively."
+  - question: "Is the EGO CS1804 battery chainsaw compatible with other EGO tools I already own?"
+    answer: "Yes — the EGO CS1804 runs on EGO's 56V ARC Lithium platform, which is shared across EGO's full lineup of outdoor power tools including blowers, mowers, hedge trimmers, and string trimmers. If you already own any 56V EGO battery, it will power this chainsaw without any additional purchase."
+  - question: "How long does a battery last on the EGO CS1804 chainsaw per charge?"
+    answer: "With a 5Ah battery, the CS1804 delivers roughly 45–70 cuts through 12-inch diameter logs per charge, depending on wood density and chain sharpness. For a typical residential session of limb cleanup or a cord of firewood cut in stages, one battery is usually sufficient. A spare 5Ah battery is worthwhile for longer work sessions."
 ---
 
 If you search "battery Stihl chainsaw" long enough, you will eventually hit a wall: Stihl does not sell through Amazon. Their battery lineup, including the well-regarded MSA 220 C-B and the compact MSA 140 C-B, is available in the US only through authorized dealers. For some people that's fine. For people who buy tools online, compare prices in a browser tab, and don't want to drive forty minutes to a dealer who may or may not have what they want in stock, that wall is real. This review covers what I'd actually buy in that situation. The [EGO POWER+ CS1804 18" Battery Powered Chainsaw](product:ego-cs1804-chainsaw) sits in the same performance class as the mid-range Stihl battery saws, ships to your door, and fits into one of the most practical battery ecosystems available to residential buyers right now.

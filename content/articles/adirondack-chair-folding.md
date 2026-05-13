@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What material is best for a folding Adirondack chair left outdoors year-round?"
+    answer: "HDPE (high-density polyethylene) is the most practical choice for chairs that stay outside permanently — it won't rot, crack, splinter, or need painting. Brands like POLYWOOD use recycled HDPE and back it with 20-year warranties. Teak is also excellent but requires annual oiling to maintain its appearance."
+  - question: "How much weight can a folding Adirondack chair typically hold?"
+    answer: "Most HDPE folding Adirondack chairs are rated for 250–300 lbs. Heavy-duty or commercial-rated models can reach 400 lbs. Check the manufacturer's listed weight capacity before purchasing, especially if the chair will see regular use by multiple users."
+  - question: "Are folding Adirondack chairs comfortable for sitting extended periods?"
+    answer: "Standard flat-back folding Adirondacks are comfortable for casual use, but curved-back designs like the POLYWOOD Nautical Curveback provide meaningfully better lumbar support for longer sitting sessions. Adding a cushion improves comfort on any Adirondack design."
+  - question: "Can folding Adirondack chairs be left out in rain and snow?"
+    answer: "HDPE models can be left outside year-round without damage from rain, snow, or UV exposure. Teak can also weather outdoors but will gray and require re-oiling if you want to maintain the warm wood tone. Metal-framed folding chairs should be brought in during winter to prevent rust at joints."
+  - question: "Is MUCHENGHY Adirondack chair quality comparable to POLYWOOD?"
+    answer: "MUCHENGHY uses HDPE construction similar to POLYWOOD's material, which is why it earns strong reviews at a lower price point. The main differences are thinner HDPE stock, a shorter warranty period, and fewer color options — POLYWOOD's 20-year residential warranty is a significant advantage if you plan to keep the chairs long-term."
 ---
 
 Folding Adirondack chairs occupy a strange middle ground in outdoor furniture: they're casual enough that people assume quality doesn't matter, and they're bought often enough that the market is flooded with chairs that will crack, fade, or wobble within two seasons. If you've spent any time looking at what's available, you've also noticed the price range is genuinely wide. You can spend $89 or $589 on what is, structurally, the same silhouette. The difference is real, but it's not always proportional to the price gap.

@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many raised beds does a single drip irrigation kit cover?"
+    answer: "Most entry-level raised bed drip kits (like the Rain Bird GARDENKIT) are sized to cover roughly one 4x8 raised bed. Larger 100+ piece kits can cover multiple beds, but you'll likely need to purchase additional emitters and tubing for a full vegetable garden."
+  - question: "Do garden bed drip irrigation kits come with a timer?"
+    answer: "Many kits do not include a timer — it's often sold separately. Adding a simple mechanical hose timer (around $15–25) or a smart Wi-Fi timer converts a manual drip setup into a fully automated watering system."
+  - question: "What is the difference between drip emitters and a soaker hose for raised beds?"
+    answer: "Drip emitters deliver water to specific points near individual plant roots, making them ideal for widely spaced plants like tomatoes or peppers. Soaker hoses weep water along their full length and work better for densely planted rows like lettuce or carrots."
+  - question: "Do drip irrigation kits require a pressure regulator?"
+    answer: "Yes — most home water lines run at 40–80 PSI, which is too high for typical drip emitters rated at 15–30 PSI. Without a pressure regulator, emitters can blow off fittings or deliver inconsistent flow. Quality kits include a regulator; budget kits often omit it."
+  - question: "Can I leave a drip irrigation kit installed over winter?"
+    answer: "In climates with hard freezes you should drain and remove the tubing before the first frost, as trapped water expands and can crack emitters, fittings, and tubing. In mild climates drip systems can often stay installed year-round with minimal winterization."
 ---
 
 Drip irrigation for garden beds is one of those purchases that sounds straightforward until you're standing in a hardware store aisle staring at a wall of fittings, emitters, and pressure regulators with no obvious way to know whether the $18 kit and the $65 kit will do the same job. They won't, but the reasons why aren't printed on the box.

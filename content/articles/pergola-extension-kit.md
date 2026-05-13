@@ -21,6 +21,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a pergola extension kit attach to a custom-built pergola?"
+    answer: "It depends on whether your existing post dimensions and hardware points match the kit's specifications. Same-brand modular kits like Yardistry-to-Yardistry will align; custom-built structures require you to verify compatibility before purchasing. In some cases, custom connector plates can bridge the gap, but that is a carpentry decision, not a kit-assembly one."
+  - question: "How much does a pergola extension kit cost compared to hiring a contractor?"
+    answer: "A quality 10x12 cedar pergola kit runs $850 to $950 installed by the buyer, while contractor-built additions in most areas cost $150 to $250 per square foot for labor and materials. On a comparable 120 square foot addition, a kit saves $17,000 or more even after factoring in your own assembly time."
+  - question: "Do pergola extension kits come with all the hardware?"
+    answer: "Better kits like the Yardistry include posts, beams, rafters, connection brackets, and fasteners organized by numbered bags. Lower-cost kits often omit post bases or anchors, so confirm the hardware inventory in the product listing before purchasing. You should not need to source any structural hardware separately from a complete kit."
+  - question: "What is the difference between a pergola shade kit and a weather-protected pergola?"
+    answer: "A standard pergola kit provides shade through horizontal overhead boards but does not shed rain. Weather protection requires adding polycarbonate or solid roof panels, which Yardistry sells separately for approximately $200 to $280. If you plan to use the space during rain, budget for the panels at the time of your initial order."
+  - question: "Do I need a building permit to install a pergola extension kit?"
+    answer: "Permit requirements vary by municipality and typically depend on structure size and setback from property lines. Additions to existing structures can also trigger re-inspection of the base structure. Check with your local building department before assembly — not after — since unpermitted additions can create issues when selling the property."
 ---
 
 If your existing pergola covers the dining area but leaves the adjacent sitting space fully exposed, or your deck grew when you added that section off the back of the house and the original structure no longer fits the footprint, you're in familiar territory. A pergola extension kit is exactly what it sounds like: a modular addition that attaches to or expands an existing pergola, or in some cases serves as a standalone unit sized to slot against a structure you already have. Before you start pricing custom lumber, it's worth knowing that the kit market has matured enough to offer real options, including one that I'd actually recommend without reservation.

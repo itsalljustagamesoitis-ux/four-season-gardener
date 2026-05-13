@@ -42,6 +42,17 @@ products:
 tags: ["lawn-care", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between MPH and CFM on a leaf blower, and which matters more?"
+    answer: "MPH measures how fast air exits the nozzle; CFM measures how much air is moving. For pushing large volumes of leaves across open lawn, CFM is the more useful number. For clearing hard surfaces and tight crevices, MPH matters more. A blower with 600 CFM like the EGO LB6004 will clear more ground faster than a 185 MPH blower with half the CFM."
+  - question: "Can the Toro 51621 leaf blower vacuum mulch wet leaves?"
+    answer: "The Toro 51621 handles dry to moderately damp leaves well and mulches them at roughly a 10:1 reduction ratio. Heavily saturated, matted leaves that have been sitting through sustained rain will resist both pickup and mulching in any handheld blower-vac. The metal impeller on the Toro is more durable than plastic alternatives, but it cannot overcome genuinely soaked leaf mats."
+  - question: "How long does the Greenworks 40V battery last when blowing leaves?"
+    answer: "At moderate output on the Greenworks 40V, the included 4.0Ah battery provides approximately 25 to 40 minutes of run time depending on how hard the motor is working. On heavy, wet debris at full output, run time will be shorter. A second battery extends a session without pausing, but the 40V platform does not interchange with Greenworks 24V or 80V batteries."
+  - question: "Is the EGO LB6004 backpack leaf blower compatible with other EGO tools?"
+    answer: "Yes — the EGO 56V ARC Lithium battery used by the LB6004 is shared across the EGO platform including their chainsaw, string trimmer, and mower. This is one of the primary arguments for EGO: a battery purchased for the blower also powers the rest of your tool lineup, which reduces the total cost of building a complete yard care system."
+  - question: "Does the Agri-Fab 45-0492 tow-behind sweeper work on slopes or hilly terrain?"
+    answer: "The Agri-Fab 45-0492 works best on flat to gently rolling terrain. On slopes, the hopper fill can shift the tow-behind's balance, and contact brushes are less effective when leaf accumulation is uneven across the slope face. For hilly properties with significant grade changes, a backpack blower gives you more directional control than any sweeper approach."
 ---
 
 Leaf blowers get marketed as though the problem is always the same: too many leaves, not enough airflow. But the actual problem varies considerably depending on whether you're clearing a 40-foot suburban driveway or pushing leaves across three-quarters of an acre of mixed lawn and beds. The tool that solves one situation badly undermines the other. This roundup covers four products across different approaches to fall cleanup, with a real recommendation at the end rather than a diplomatic non-answer.

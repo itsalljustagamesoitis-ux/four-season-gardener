@@ -32,6 +32,17 @@ product_a: "toro-51621-ultraplus-blower-vac"
 product_b: "ego-lb6004-backpack-blower"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What is the main difference between a corded and cordless leaf blower for yard cleanup?"
+    answer: "Corded blowers like the Toro UltraPlus offer consistent power without battery management and are ideal for smaller yards near an outlet. Cordless backpack blowers like the EGO LB6004 give you freedom to cover large properties without dragging an extension cord, at the cost of a higher upfront price and battery runtime limits."
+  - question: "Is the EGO LB6004 backpack blower powerful enough for heavy fall leaf cleanup?"
+    answer: "Yes — at 600 CFM, the EGO LB6004 matches mid-range commercial gas backpack blowers and is more than adequate for heavy fall leaf loads on residential properties up to several acres. Its backpack design also reduces arm fatigue during extended sessions."
+  - question: "Does the Toro 51621 UltraPlus mulch as well as blow?"
+    answer: "Yes — the Toro UltraPlus is a 3-in-1 blower, vacuum, and mulcher. Its metal impeller reduces up to 10 bags of leaves into a single bag of mulch, making it a much more versatile cleanup tool than a dedicated blower."
+  - question: "How long does the EGO LB6004 battery last during leaf blowing?"
+    answer: "Runtime varies based on the battery capacity used and blower speed, but the EGO LB6004 is compatible with all EGO 56V ARC Lithium batteries. With the 5.0Ah or 7.5Ah battery, most users report 30–60 minutes of continuous run time, sufficient for most residential properties."
+  - question: "Which leaf blower is better for a small suburban yard versus a large rural property?"
+    answer: "The Toro UltraPlus corded model is the better value for smaller yards where an outlet is accessible, especially given its mulching capability. The EGO LB6004 backpack blower is the better choice for properties of half an acre or more where cordless freedom and reduced fatigue matter more."
 ---
 
 The "little wonder leaf blower" search lands people in different places depending on what they actually need. Some want a no-fuss corded workhorse that handles wet fall leaves without dying mid-session. Others are looking for the freedom to cover a large property without dragging 100 feet of orange extension cord through their beds. These two machines represent opposite answers to the same problem, and only one of them is the right fit for most readers who land here.

@@ -28,6 +28,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a garden kneeling pad and a garden kneeler seat?"
+    answer: "A kneeling pad is a simple foam mat you kneel on, while a kneeler seat like the Ohuhu converts between a padded kneeling position and a raised bench seat by flipping over. The kneeler seat also has side handles that help gardeners push up from the ground, making it better for those with knee or hip mobility issues."
+  - question: "How thick should a garden kneeling pad be?"
+    answer: "A good kneeling pad should be at least 1.5 inches thick to provide meaningful cushioning on hard surfaces like concrete, gravel, or compacted clay. The Gorilla Grip pad at 17.5x11 inches offers extra-thick foam construction that noticeably reduces knee pressure compared to thin budget pads."
+  - question: "How long does a foam garden kneeling pad last?"
+    answer: "Foam kneeling pads compress with use and typically lose noticeable cushioning after one to two full seasons of regular heavy use on hard surfaces. At the $12–$15 price point, replacing the pad annually is a practical and affordable solution."
+  - question: "Is the Ohuhu garden kneeler seat safe to leave outside?"
+    answer: "The Ohuhu kneeler seat has a metal frame that can rust if left outdoors through wet seasons. Store it in a shed or garage when not in use, or dry it thoroughly before storage to extend its life."
+  - question: "Can a garden kneeler help with bad knees or limited mobility?"
+    answer: "Yes — the Ohuhu kneeler seat's metal side handles provide support when pushing up from a kneeling position, which is particularly helpful for gardeners with knee pain, arthritis, or hip mobility limitations. A simple foam pad like the Gorilla Grip offers cushioning but no standing assistance."
 ---
 
 If you garden on hard ground, or if your knees have started registering complaints that your brain hasn't fully processed yet, a kneeling pad is one of those purchases you'll wonder why you delayed. Not a luxury. Not a specialty item. A basic piece of equipment that belongs in the same category as your [hand tools](/hand-tools/) and gloves.

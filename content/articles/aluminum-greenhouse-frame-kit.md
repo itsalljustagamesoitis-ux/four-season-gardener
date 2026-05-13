@@ -21,6 +21,17 @@ products:
 tags: ["structures", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why choose an aluminum frame greenhouse over a galvanized steel frame?"
+    answer: "Aluminum doesn't rust, which is the primary advantage in wet climates and areas with freeze-thaw cycles. Powder-coated aluminum frames like those on Palram Canopia kits maintain their finish for years without maintenance. Galvanized steel is heavier and stronger but requires more vigilance about scratches and chips that can lead to rust."
+  - question: "What is the snow load rating for the Palram Canopia Essence greenhouse, and is it enough?"
+    answer: "The Palram Canopia Essence is rated for 15 lbs per square foot of snow load, which is adequate for most mid-Atlantic and New England winters. If you're in a region with heavy, frequent snowfall exceeding 24 inches at a time, plan to clear the roof manually after major storms rather than relying solely on the rating."
+  - question: "How does the Palram Canopia Essence perform over multiple winters?"
+    answer: "In real-world use through two winters and a wet spring, the powder-coated aluminum frame shows no rust, warping, or joint separation. The corner extrusions are notably heavier gauge than competing brands, which prevents the frame from diamond-shifting (slowly going out of square) over time."
+  - question: "Is a gravel pad a suitable base for the Palram Canopia Essence greenhouse?"
+    answer: "A well-compacted, leveled gravel pad works as a base but is more prone to settling than a poured concrete pad. Minor settling can cause door alignment issues and frame stress over time. A concrete perimeter or full slab provides a more stable foundation for a long-term installation."
+  - question: "How does the Palram Canopia Essence compare to the Juliana Compact greenhouse?"
+    answer: "The Palram Canopia Essence uses heavier corner extrusions and 4mm twin-wall polycarbonate panels, versus the thinner construction found on the Juliana Compact. The Juliana Compact developed stress cracks at corner brackets after four seasons — the Essence has not shown similar issues in the same timeframe."
 ---
 
 If you're researching aluminum greenhouse frame kits and want a single honest answer before wading through spec sheets, here it is: the [Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse) is the one I'd buy again. I did buy it. It's been standing through two hard winters and one genuinely miserable wet spring without a single panel failure or frame wobble. That's the short version. The longer version follows.

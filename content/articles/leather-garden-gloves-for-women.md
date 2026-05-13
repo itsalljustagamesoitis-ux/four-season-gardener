@@ -28,6 +28,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are bamboo garden gloves a good alternative to leather gloves for women?"
+    answer: "Bamboo gloves like the Pine Tree Tools model are lighter and more breathable than leather, making them better for warm-weather planting and weeding sessions where comfort and dexterity matter most. However, they offer less thorn and puncture protection than leather, so they are not ideal for rose pruning or heavy bramble work."
+  - question: "Do women's garden gloves come in sizes that actually fit smaller hands?"
+    answer: "Yes — both options in this roundup are sized to fit smaller women's hands, which is often the main complaint with unisex gardening gloves. Getting the right size is critical for dexterity and preventing fatigue during long garden sessions."
+  - question: "What are touchscreen-compatible garden gloves and do they actually work?"
+    answer: "Touchscreen-compatible gloves have conductive material in the fingertips that registers on capacitive touchscreens, letting you use your phone without removing the glove. The Pine Tree Tools bamboo gloves include this feature, and reviewers find it works reliably even on older phone screens."
+  - question: "Can these women's garden gloves be machine washed?"
+    answer: "The Foxgloves Original Gloves are made from a machine-washable spandex-blend fabric that holds its shape after repeated washing. Bamboo-fiber gloves like the Pine Tree Tools model are generally hand-wash recommended — check the label before machine washing to preserve fit."
+  - question: "Are these leather or bamboo gloves suitable for working with thorny plants like roses?"
+    answer: "Neither glove in this roundup is designed for heavy thorn protection. The Pine Tree Tools bamboo gloves are specifically noted as unsuitable for roses. If you regularly prune thorny shrubs, look for purpose-built rose or thorn-resistant gloves with reinforced leather palms and extended cuffs."
 ---
 
 Most garden gloves marketed to women are either too thick to feel anything through or so flimsy they shred on the second use. Finding a pair that fits a smaller hand properly, holds up across a full season, and doesn't turn your hands into a sweat bath by mid-morning takes more effort than it should. This roundup covers two options I'd actually recommend, both chosen for fit, weight, and the specific kind of work each one handles well. If you're building out your toolkit more broadly, the [Hand Tools](/hand-tools/) section has additional coverage of gloves and related equipment worth knowing about.

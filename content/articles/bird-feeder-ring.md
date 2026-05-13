@@ -21,6 +21,17 @@ products:
 tags: ["birds-wildlife", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What birds does a peanut wreath ring feeder attract?"
+    answer: "Peanut wreath feeders are especially popular with blue jays, red-bellied woodpeckers, downy woodpeckers, and hairy woodpeckers. Larger corvids love working the open grid to extract whole peanuts in the shell."
+  - question: "Can I use shelled peanuts in a bird feeder ring?"
+    answer: "Peanut wreath rings are designed for whole peanuts in the shell — shelled peanuts or peanut hearts will fall through the open grid. For shelled peanuts, use a mesh tube peanut feeder with smaller openings instead."
+  - question: "Do bird feeder rings work against squirrels?"
+    answer: "Open wreath-style rings provide no squirrel deterrence on their own — squirrels can cling to the ring just as easily as birds. To protect a peanut ring, mount it on a pole with a cylinder squirrel baffle positioned at least 4–5 feet off the ground."
+  - question: "How do I fill a peanut wreath ring feeder?"
+    answer: "Simply press whole in-shell peanuts into the open grid squares around the ring's circumference until each cell holds a peanut. Most rings fill in under two minutes and don't require any tools or disassembly."
+  - question: "Is a bird feeder ring weatherproof?"
+    answer: "Quality peanut wreath rings are typically made from powder-coated steel wire, which handles rain and frost well without rusting quickly. Whole peanuts in the shell also tolerate moderate moisture better than loose seed, making the open ring design suitable for year-round outdoor use."
 ---
 
 If you feed birds seriously, you already know that whole peanuts in the shell are a completely different proposition from sunflower seeds or suet. Blue jays will work a peanut wreath for twenty minutes straight. Woodpeckers will come back four times in an hour. Squirrels will arrive within about forty-five seconds of you walking back inside. The feeder you choose for whole peanuts has to handle all three of those realities, and most of them don't do it particularly well. The [Songbird Essentials Whole Peanut Black Wreath Feeder](product:songbird-essentials-peanut-wreath-feeder) is a simple, unpretentious option in the budget tier that gets the basics right for two of those three problems. The third one, squirrels, you're largely on your own with. More on that shortly.

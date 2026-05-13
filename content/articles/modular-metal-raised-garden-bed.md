@@ -32,6 +32,17 @@ product_a: "vego-garden-6in1-17inch"
 product_b: "vegega-17inch-6in1-metal-bed"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What shapes can a 6-in-1 modular metal raised bed be configured into?"
+    answer: "The six-panel system on both Vego Garden and VEGEGA beds can be arranged into a long rectangle, a wide square, an L-shape, a U-shape, and other configurations depending on your space. This modularity lets you adapt the bed to an irregular yard or expand in sections over time."
+  - question: "Which is better — Vego Garden or VEGEGA for a home vegetable garden?"
+    answer: "Both are high-quality options at similar price points. Vego Garden offers a wider color range including the popular Olive Green and has a strong track record with serious vegetable growers. VEGEGA has rounded safety edges on all panels, which makes solo assembly safer and easier. The choice comes down to color preference and whether edge finish or brand documentation matters more to you."
+  - question: "How long will a modular metal raised garden bed last outdoors?"
+    answer: "Both Vego Garden's Aluzinc coating and VEGEGA's zinc-aluminum-magnesium coating are significant upgrades over standard galvanized steel, and both should provide 15–20 years of corrosion resistance in most climates. Standard galvanized beds in wet climates often show rust within 3–5 years."
+  - question: "Does a modular metal raised bed require any tools to assemble?"
+    answer: "Most modular metal raised bed kits including Vego Garden and VEGEGA require minimal tools — typically just a rubber mallet to lock panels into their connectors. Assembly can be done solo in under an hour for most configurations, though a second person makes it easier to hold panels steady."
+  - question: "Is it safe to grow vegetables in a metal raised bed — will the zinc coating leach into the soil?"
+    answer: "Research and industry guidance indicate that food-grade galvanized and zinc-aluminum-coated steel raised beds are safe for vegetable growing. The zinc levels that may leach into soil at the contact points are well below levels that would affect plant health or food safety, and both Vego Garden and VEGEGA have published data supporting food-safe use."
 ---
 
 If you've spent any time researching modular metal raised garden beds, you've probably noticed that the names Vego Garden and VEGEGA blur together quickly. Similar names, similar specs on paper, similar price points. This article is about cutting through that and giving you a straight answer on which one to buy. I've looked at both closely, and my recommendation is at the bottom if you want to skip ahead. But the reasoning matters here because the differences are real, even if they're not immediately obvious from a product listing. If you're still deciding whether a metal raised bed is the right move at all, our [Raised Beds](/raised-beds/) hub covers the broader material tradeoffs worth reading first.

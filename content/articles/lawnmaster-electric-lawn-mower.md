@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does the EGO Power+ LM2135SP battery last on a single charge?"
+    answer: "The included 7.5Ah 56V ARC Lithium battery delivers up to 60 minutes of runtime per charge under normal conditions. On dense or wet grass, runtime may be closer to 40–50 minutes, which is typically enough to mow half an acre to an acre per charge."
+  - question: "Does the EGO LM2135SP come with the battery and charger included?"
+    answer: "It depends on which version you purchase. The combo kit includes the 7.5Ah battery and rapid charger, but a tool-only version is also sold separately at a lower price for buyers who already own EGO 56V batteries from other tools."
+  - question: "Can the EGO LM2135SP handle slopes and uneven terrain?"
+    answer: "Yes — the rear-wheel-drive self-propel system and Touch Drive variable speed control make it manageable on moderate slopes. The reviewer used it across two acres including sloped sections and areas that stay soft into spring without significant traction issues."
+  - question: "What cutting options does the EGO LM2135SP support?"
+    answer: "The mower supports mulching, side discharge, and bagging via the Select Cut multi-blade system. A bagging bag is included. Cutting height adjusts across 6 positions from 1.5 to 4 inches."
+  - question: "Is the EGO LM2135SP worth the price compared to a gas mower?"
+    answer: "For yards between half an acre and two acres, the long-term savings on gas, oil changes, carburetor maintenance, and fuel storage typically justify the higher upfront cost. The reviewer found it worth the premium after three seasons of heavy use."
 ---
 
 The search for a reliable cordless mower that actually delivers on runtime is long enough that most people give up and keep buying gas. I did not want to do that. After three seasons of maintaining roughly two acres of mown lawn on my 12-acre property, including slopes, a section of dense clover, and ground that stays soft well into May, I spent the better part of last summer putting the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) through its paces. What follows is a direct account of how it performed, what it costs, and whether I think it's worth your money.

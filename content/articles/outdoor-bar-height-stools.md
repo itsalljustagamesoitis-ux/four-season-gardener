@@ -49,6 +49,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the standard seat height for outdoor bar height stools?"
+    answer: "Outdoor bar stools are typically 28 to 30 inches tall, designed to pair with bar tables or counters that stand 40 to 42 inches high. Always measure your table height before buying — counter-height (24–26 inch) stools are a separate category."
+  - question: "What is the most weather-resistant material for outdoor bar stools?"
+    answer: "HDPE (high-density polyethylene) lumber, used by brands like POLYWOOD and Muchenghy, is the most maintenance-free option — it won't rust, rot, splinter, or need painting. Aluminum is also a strong choice for wet climates."
+  - question: "Do outdoor bar stools need to be brought inside in winter?"
+    answer: "HDPE and powder-coated aluminum stools can stay outside year-round in most climates. Acacia wood stools should be covered or stored during harsh winters and oiled 1–2 times per year to prevent cracking."
+  - question: "How do I know if a bar stool will fit my outdoor bar table?"
+    answer: "Leave 10 to 12 inches between the stool seat height and the table surface for comfortable seating. For a 42-inch bar table, a 30-inch stool works well; for a 36-inch counter, a 24-inch stool is appropriate."
+  - question: "Are backless outdoor bar stools less stable than ones with backs?"
+    answer: "Backless stools are generally lighter and easier to tuck under a table, but stools with backs offer more support for longer gatherings. For windy patios, heavier materials like HDPE or aluminum provide better stability regardless of back style."
 ---
 
 Bar height stools are one of those outdoor purchases that people get wrong more often than they should. The standard mistake is buying dining-height chairs (around 18 inches) and pairing them with a bar table or kitchen counter that sits at 40 to 42 inches. The result is an awkward perch, a lot of table-edge chin-height, and furniture that gets replaced faster than it should. The second common mistake is buying on aesthetics and ignoring how the material holds up through freeze-thaw cycles, wet springs, and six months of UV exposure.

@@ -49,6 +49,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many weeks of growing season can a miniature greenhouse kit add?"
+    answer: "A compact cold-frame style greenhouse like the Palram Plant Inn can extend your growing season by 4–6 weeks at each end of summer, letting you start seedlings earlier in spring and protect tender plants into late fall before hard frost sets in."
+  - question: "What is the difference between single-wall and twin-wall polycarbonate panels in a greenhouse?"
+    answer: "Twin-wall polycarbonate panels trap a layer of air between two sheets, providing significantly better insulation and heat retention than single-wall panels. Twin-wall is the better choice if you want to extend the season into cold weather; single-wall is lighter and cheaper but loses heat faster on cold nights."
+  - question: "Do Palram Canopia greenhouses require a concrete foundation?"
+    answer: "Most Palram Canopia greenhouse kits can be anchored to a flat surface such as pavers, compacted gravel, or a wood deck using ground anchors or floor frame kits sold separately. A poured concrete slab is not required but does provide the most stable long-term foundation."
+  - question: "How much assembly time and help does a Palram greenhouse kit require?"
+    answer: "Smaller models like the Snap & Grow 6x12 use a tool-free SmartLock connection system and can be assembled by one person in a day. Larger models like the Essence 8x16 require two people and a full weekend to assemble properly."
+  - question: "Is a lean-to greenhouse kit a good option for a small garden?"
+    answer: "A lean-to greenhouse attaches to an existing house wall, which saves footprint space and borrows structural support and wall heat for better efficiency. However, it requires a south- or west-facing wall with adequate sun exposure — a shaded or north-facing wall will not provide enough light for most crops."
 ---
 
 If you've searched "miniature greenhouse kit" recently, you already know the market is flooded with flimsy pop-up tents, overpriced cedar kits that ship direct-only, and a bewildering number of products that look almost identical in listing photos. Sorting through them takes longer than it should, so I'll save you the work.

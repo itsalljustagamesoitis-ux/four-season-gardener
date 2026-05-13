@@ -35,6 +35,17 @@ products:
 tags: ["structures", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a solar chandelier bright enough to actually light a gazebo at night?"
+    answer: "Most solar chandeliers provide ambient or accent-level lighting — enough for relaxed evening atmosphere but not bright enough for reading or task work. If you need functional task lighting, consider supplementing with a solar lantern or a wired fixture; for ambiance only, solar chandeliers are fully adequate."
+  - question: "How does a solar chandelier charge if it is hanging inside a gazebo?"
+    answer: "Most solar chandeliers have a separate solar panel on a long cable (typically 12–16 feet) that mounts on the gazebo roof or an adjacent sunny surface. The chandelier itself hangs inside where the panel cannot see direct sun."
+  - question: "How long does a solar chandelier run on a full charge?"
+    answer: "After a full day of sun exposure, most solar chandeliers run 6–10 hours in low or medium brightness mode. Running at full brightness reduces runtime significantly, which is why most buyers use the dim or warm-glow setting in the evening."
+  - question: "Can a solar gazebo chandelier stay up in rain?"
+    answer: "Most are rated IP44 or IP65 for water resistance, meaning they handle rain and splashing water without failing. However, they should not be fully submerged, and panels should be tilted to prevent standing water. Check the IP rating before purchase if your gazebo is open-sided and exposed to weather."
+  - question: "What style of solar chandelier works best in a cedar or wood pergola?"
+    answer: "Rattan, wicker, or warm-metal finishes complement natural wood tones best and avoid the clinical look of chrome or polished steel. Warm white LEDs (2700K–3000K) also read as more natural against wood than cool white, which tends to look harsh in outdoor evening settings."
 ---
 
 Solar chandeliers for gazebos occupy a strange middle ground in the outdoor lighting market. They're decorative enough to matter aesthetically, but they need to function well enough that you're not squinting over dinner at 8pm. The problem is that most buying guides treat them as purely decorative objects, which undersells what the better options can actually do, or they oversell lumen counts without accounting for how solar panels actually perform in real evening conditions.

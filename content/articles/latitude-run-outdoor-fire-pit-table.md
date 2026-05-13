@@ -21,6 +21,17 @@ products:
 tags: ["fire-and-heat", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Outland Living Series 403 fire table worth the price?"
+    answer: "At around $350, the Outland Living Series 403 delivers genuine 50,000 BTU heat output, a functional tempered glass tabletop, and clean propane ignition — making it one of the better values in the propane fire table category. It earns its price for a fixed patio installation where you want both a fire feature and a usable table surface."
+  - question: "How long does a 20 lb propane tank last in the Outland Living 403 fire table?"
+    answer: "At full 50,000 BTU output, a standard 20 lb propane tank lasts approximately 8–10 hours. Running the flame at a lower setting for visual effect rather than maximum heat will extend tank life considerably."
+  - question: "Does the Outland Living 403 work as a regular outdoor table when not in use as a fire pit?"
+    answer: "Yes — the burner pan cover converts the fire pit into a flat usable table surface. This dual function makes it practical for everyday outdoor dining or entertaining without the fire element taking up permanent visual space."
+  - question: "Does the Outland Living 403 require any special tools or adapters to connect propane?"
+    answer: "No — the table ships with a pre-attached regulator hose that connects directly to a standard 20 lb propane tank stored in the enclosed cabinet base. No additional adapters are required."
+  - question: "What happens if the electronic ignition fails on the Outland Living 403?"
+    answer: "The electronic ignition is powered by a standard AA battery, so if ignition becomes unreliable after extended use, replacing the battery is the first and usually only fix needed. No specialized components or service calls are required."
 ---
 
 If you've spent any time looking at the [Fire Pits & Patio Heaters](/fire-and-heat/) category, you already know the market is full of products that look reasonable in a photo and disappoint in a driveway. The Latitude Run outdoor fire pit table segment on Amazon is particularly cluttered with rebranded imports that share the same factory specs but wildly different quality control. When I started seeing the [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](product:outland-living-403-fire-table) consistently appear in search results and buyer recommendations, I decided to test it properly rather than take the star ratings at face value.

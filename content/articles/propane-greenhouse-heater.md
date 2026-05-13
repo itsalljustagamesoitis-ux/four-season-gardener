@@ -28,6 +28,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What safety features should a propane greenhouse heater have?"
+    answer: "At minimum, look for a low-oxygen shutoff (ODS) sensor and a tip-over auto-shutoff. The Mr. Heater Portable Buddy has both, which is why it is the most widely recommended portable propane heater for enclosed growing spaces. Without an ODS sensor, a propane heater in a sealed greenhouse can produce dangerous levels of carbon monoxide before any visible warning."
+  - question: "Do I need a carbon monoxide detector if I use a propane heater in a greenhouse?"
+    answer: "Yes — propane combustion produces carbon monoxide, and in a small enclosed greenhouse it can accumulate to dangerous concentrations quickly. A CO detector rated for enclosed spaces costs $20 to $40 and is non-negotiable when running any combustion heater in a greenhouse. Do not rely on the heater's built-in ODS sensor as a substitute for a dedicated CO detector."
+  - question: "What size propane heater do I need for a 10x12 greenhouse?"
+    answer: "A 10x12 greenhouse with 8-foot walls has roughly 960 cubic feet of space. Using the standard 40 BTU per cubic foot cold-climate rule, you need about 38,400 BTU for serious freeze protection. A 9,000 BTU portable heater is inadequate as a sole heat source for this size; the 18,000 BTU unit is marginal. For a 10x12 in a genuinely cold climate, consider propane as supplemental backup to an electric heating system."
+  - question: "Can I run the Mr. Heater Portable Buddy off a 20-lb propane tank in a greenhouse?"
+    answer: "Yes — the Portable Buddy requires the F273702 adapter hose (approximately $25) to connect to a 20 lb tank. On high at 9,000 BTU, a 20-lb tank lasts 40 to 50 hours, which is practical for multi-night frost protection. Running off 1-lb canisters at full output provides only 3 to 4 hours of heat and is not viable for overnight protection."
+  - question: "How much ventilation does a propane greenhouse heater require?"
+    answer: "Enough to allow continuous air exchange — at minimum, a 2-inch gap at ground level and a partially open top vent. This lets carbon monoxide and excess humidity escape while bringing in fresh air for combustion. Yes, this lets some heat out; that is the required trade-off for safe propane use in any enclosed structure."
 ---
 
 A propane greenhouse heater is one of those purchases that sounds simple until you're standing in a frost-killed propagation house in March trying to figure out what went wrong. The stakes are real: a single hard freeze can wipe out months of seedlings, overwintering perennials, or a collection you've spent years building. So I want to be direct about what these heaters actually are, which ones are worth buying, and what you need to do to run them safely.

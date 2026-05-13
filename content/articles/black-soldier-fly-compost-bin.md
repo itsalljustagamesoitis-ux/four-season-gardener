@@ -42,6 +42,17 @@ products:
 tags: ["composting", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What do black soldier fly larvae eat in a compost bin?"
+    answer: "Black soldier fly larvae are voracious and will consume nearly any organic kitchen waste, including meat, dairy, cooked food, fruit scraps, and vegetable trimmings — materials that standard compost bins and worm bins can't safely handle. This makes them uniquely useful for households that generate a wide range of food waste."
+  - question: "How fast do black soldier fly larvae break down food waste?"
+    answer: "Under warm conditions (75–95°F), BSF larvae can process a pound of food waste in 24–48 hours — many times faster than traditional hot composting or vermicomposting. Breakdown slows significantly below 60°F, so performance drops in cold climates during winter."
+  - question: "Do I need to buy black soldier fly larvae, or will they colonize on their own?"
+    answer: "In warmer climates (roughly USDA zones 7 and above), adult BSF will naturally find and colonize an open outdoor bin during warm months. In cooler climates you'll need to purchase larvae to start a colony, or choose a tumbler or worm bin system that doesn't depend on BSF at all."
+  - question: "Is the output from a black soldier fly bin safe to use in the garden?"
+    answer: "The frass (waste) and pre-pupae from BSF composting are nutrient-rich and generally safe for garden use, though frass from bins processing meat or dairy should be composted further before applying to edible crops. Most gardeners use BSF outputs on ornamentals or mix them into compost piles for further curing."
+  - question: "What's the difference between a black soldier fly bin and a standard worm bin?"
+    answer: "BSF larvae tolerate a much wider range of food waste including meat and cooked scraps, tolerate higher temperatures, and process material faster than red wiggler worms. Worm bins produce superior castings (worm tea and vermicompost) for soil amendment, while BSF bins excel at rapid volume reduction of difficult food waste."
 ---
 
 Black soldier fly composting has become one of those topics that generates a lot of noise online, most of it enthusiastic, some of it misleading. The actual larvae (Hermetia illucens) are exceptional decomposers under the right conditions, but the term "black soldier fly compost bin" has expanded to cover nearly anything that accelerates organic waste breakdown faster than a traditional open pile. For the purposes of this guide, that's how I'm using it too. Whether you're processing kitchen scraps on a countertop or running a dual-chamber system outside, the goal is the same. You want finished material faster than a slow heap gives you, and you want it to be useful.

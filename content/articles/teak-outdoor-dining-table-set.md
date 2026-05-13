@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is POLYWOOD HDPE lumber and how is it made?"
+    answer: "POLYWOOD HDPE lumber is manufactured from high-density polyethylene sourced primarily from recycled plastic milk jugs and similar containers. The material is extruded into boards that mimic the profile of wood, then colored and textured — it does not rot, splinter, absorb moisture, or require painting, staining, or sealing."
+  - question: "Does the POLYWOOD Nautical set come with an umbrella hole in the table?"
+    answer: "The Nautical Trestle table does not include a center umbrella hole as standard — the trestle base design and solid tabletop make post-purchase drilling difficult. If shade coverage is important to your setup, consider a freestanding cantilever umbrella or pergola instead."
+  - question: "How does the teak colorway on POLYWOOD furniture compare visually to real teak wood?"
+    answer: "At conversational distance, the teak colorway reads convincingly as warm honey-brown hardwood. Up close, the surface texture differs from natural wood grain, and there is no variation between boards since the color is part of the material, not a stain. Whether that visual difference matters depends entirely on personal preference."
+  - question: "What does the POLYWOOD 20-year warranty actually cover?"
+    answer: "POLYWOOD's 20-year limited warranty covers defects in material and workmanship — fading, cracking, peeling, and structural failure under normal residential use. This is one of the longest furniture warranties in the outdoor category and meaningfully reduces the long-term ownership risk compared to wood sets with one to five year coverage."
+  - question: "Is a teak outdoor dining table set worth buying over a metal or aluminum set?"
+    answer: "Teak and teak-look sets prioritize aesthetics and natural warmth over the lighter weight and lower cost of aluminum. For a dining area that stays in place and where visual appeal matters, teak or POLYWOOD teak-colorway sets are generally worth the premium; for a setup that needs frequent repositioning, aluminum is more practical."
 ---
 
 If you've spent any time researching a [teak outdoor dining table set](/teak-outdoor-dining-set/), you already know the basic problem. Real teak is beautiful, ages well, and costs a fortune to buy and maintain. Budget teak alternatives look fine for about two seasons before they start checking, greying unevenly, and asking to be oiled. Somewhere in that gap lives a category of products that aren't teak at all but want to be considered alongside it. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) is one of them. Whether it earns a place at that table is what this review is for.

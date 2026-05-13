@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many lumens do I need for outdoor LED security lighting?"
+    answer: "For a standard driveway or backyard perimeter, 1,000 to 3,000 lumens per fixture provides effective coverage. Larger areas or dark driveways benefit from 3,000+ lumens. Solar security lights typically max out at 400–800 lumens, which is adequate for walkways but not large open areas."
+  - question: "What is the difference between hardwired and solar outdoor LED security lights?"
+    answer: "Hardwired fixtures connect to your home's electrical system and provide consistent, season-proof output regardless of sunlight. Solar lights require direct sun to charge and may perform poorly in winter or shaded locations — the right choice depends on access to wiring and your site's sun exposure."
+  - question: "Do outdoor LED security lights work in cold winter temperatures?"
+    answer: "Quality hardwired LED fixtures function reliably in extreme cold. Solar models can experience reduced battery capacity in freezing temperatures, which shortens both charge cycles and lighting duration in winter months."
+  - question: "What does the IP rating mean on outdoor security lights?"
+    answer: "IP (Ingress Protection) ratings indicate resistance to dust and water. IP65 means dust-tight and protected against water jets — suitable for most outdoor installations. IP67 means the fixture can handle temporary submersion, making it appropriate for areas prone to heavy rain or flooding."
+  - question: "Can I install an outdoor LED security light myself without an electrician?"
+    answer: "Solar and battery-powered security lights can be mounted by any homeowner — no wiring required. Hardwired lights like the LEONLITE require connecting to an existing junction box; if you don't have one, an electrician is needed to run the wiring safely."
 ---
 
 Most outdoor LED security lighting fails for one of two reasons: it's undersized for the area it's supposed to cover, or it's positioned somewhere that gets four hours of sun in December and the battery is dead by February. Neither problem is complicated to avoid, but it requires picking the right type of fixture for your specific situation before you buy, not after.

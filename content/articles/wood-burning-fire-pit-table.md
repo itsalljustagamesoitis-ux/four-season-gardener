@@ -32,6 +32,17 @@ product_a: "solo-stove-bonfire-2"
 product_b: "gas-one-22in-wood-burning-fire-pit"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What makes the Solo Stove Bonfire 2.0 produce less smoke than a traditional fire pit?"
+    answer: "The Solo Stove uses a double-wall design that draws cool air in through bottom vents, heats it in the cavity between the walls, and releases it through top vents as a secondary burn above the primary fire. This secondary combustion burns off most of the smoke-producing gases before they can escape, provided you use only dry, seasoned hardwood."
+  - question: "Can the Solo Stove Bonfire 2.0 be used on a wood deck?"
+    answer: "The Solo Stove gets extremely hot on its base and should not be placed directly on a wood deck or composite decking without a heat-resistant pad or stand underneath. Solo Stove sells purpose-built stands for this purpose; alternative solutions include concrete pavers or a fire-rated deck protector mat."
+  - question: "How long does seasoned hardwood last in a wood-burning fire pit?"
+    answer: "A standard fire in a Solo Stove Bonfire 2.0 using seasoned hardwood typically burns for two to three hours before needing significant restocking. Denser hardwoods like oak, hickory, and maple burn longer and produce more heat per log than softer woods like pine, which also produce more creosote and more smoke."
+  - question: "Is the Gas One 22-inch fire pit a good choice for occasional use?"
+    answer: "For occasional backyard fires a few times per season, the Gas One at under $50 is a reasonable entry point — it includes a spark screen and poker and functions as a traditional campfire bowl. Its painted steel construction will rust within two to three seasons without a cover or indoor storage, so longevity depends entirely on how well you protect it between uses."
+  - question: "How easy is it to clean ash out of the Solo Stove Bonfire 2.0?"
+    answer: "The Bonfire 2.0 includes a removable ash pan that slides out from the bottom, allowing you to dispose of ash without scooping. Allow the fire pit to cool completely before handling the ash pan, and empty it before ash accumulation begins to block the bottom airflow vents, which would reduce combustion efficiency and increase smoke output."
 ---
 
 There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](product:solo-stove-bonfire-2) runs around $300. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) runs under $50. That gap is the whole story, if you want the short version. If you want to know whether the $250 difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.

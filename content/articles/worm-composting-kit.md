@@ -32,6 +32,17 @@ product_a: "worm-factory-360-black"
 product_b: "uncle-jims-1000-red-wigglers"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Why are worm composting bins sold separately from the worms?"
+    answer: "Retailers cannot ship live worms inside a fully assembled bin, and the worms and bin have separate supply chains — one is manufactured goods, the other is live agricultural product. Budget approximately $120 to $130 to purchase both the Worm Factory 360 bin and 1,000 red wigglers from Uncle Jim's for a complete operational setup."
+  - question: "How many trays should I start with in the Worm Factory 360?"
+    answer: "Start with the base four-tray configuration and add trays only as the worm population grows and fills each tray. Adding too many trays at once spreads the worms too thin, slows decomposition, and makes it harder to manage moisture levels. The modular system supports up to eight trays as the colony matures over several months."
+  - question: "What temperature range does a worm composting kit need to function correctly?"
+    answer: "Red wigglers thrive between 55°F and 77°F and become sluggish or begin dying outside the range of 40°F to 80°F. In most climates, this means the bin should be kept indoors or in a temperature-controlled garage during winter. A kitchen, basement, or utility room all work well as long as the bin is properly managed to avoid odor."
+  - question: "What does a worm composting kit produce and how do I use the output?"
+    answer: "A worm bin produces two outputs: solid worm castings (scraped from the lowest tray once processed) and liquid leachate collected in the base reservoir via a spigot. Castings are mixed into potting soil or applied as a top dressing; leachate is diluted to a light tea-color with water before applying to avoid over-concentration at the root zone."
+  - question: "How long before a new Worm Factory 360 starts producing usable worm castings?"
+    answer: "Expect 60 to 90 days from initial setup before the first tray is ready to harvest as finished castings. The worms need several weeks to acclimate to the bin, begin processing food at full rate, and migrate upward into newer trays as lower trays are consumed. Consistent feeding, proper moisture, and avoiding overfeeding all accelerate this timeline."
 ---
 
 If you've been looking at worm composting and wondering whether to start with the bin or the worms, the answer is: you need both, and they're sold separately. That's the first thing most buyers don't realize when they search for a worm composting kit. The [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black) is the system. The [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers) are what you put inside it. Buy one without the other and you have either an empty plastic tower or a bag of worms with nowhere to go.

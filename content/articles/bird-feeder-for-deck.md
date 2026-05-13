@@ -49,6 +49,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the best squirrel-proof bird feeder for a deck?"
+    answer: "The Droll Yankees Yankee Flipper is the most reliably squirrel-proof option — its weight-activated spinning perch physically removes squirrels before they can access seed. The Brome Squirrel Buster Plus is a strong passive alternative that uses a weighted cage to block seed ports without any battery or motor."
+  - question: "How do I hang a bird feeder from a deck railing without drilling?"
+    answer: "Deck railing hook clamps (such as the IDZO two-pack) attach to the top of a railing with a set screw and extend outward, providing a hanging point for feeders and baths. They work on most standard railings up to about 3 inches thick and allow repositioning without damaging the deck."
+  - question: "What seed attracts the most birds to a deck feeder?"
+    answer: "Black-oil sunflower seed attracts the widest variety of common feeder birds including chickadees, nuthatches, finches, cardinals, and sparrows. Avoid mixed seed blends with milo or millet filler, which many birds discard onto the deck. Nyjer (thistle) seed in a separate feeder targets goldfinches specifically."
+  - question: "Is the Droll Yankees Yankee Flipper worth the price for deck use?"
+    answer: "For decks with serious squirrel pressure, yes — it's the feeder people buy after losing two or three cheaper ones. The motor is reliable and the battery life is long. The main risk is forgetting to recharge it, which leaves the feeder unprotected. At around $130–$170, it's a significant purchase but typically ends the squirrel problem definitively."
+  - question: "Can I attract hummingbirds to a deck feeder setup?"
+    answer: "Yes, but hummingbirds require a completely separate nectar feeder — they won't use a seed feeder. The First Nature 3055 is a practical option with a wide-mouth base for easy cleaning, which matters because nectar ferments in 3–5 days in summer heat and a feeder that is difficult to clean will stop being cleaned regularly."
 ---
 
 Hanging a bird feeder off a deck railing sounds simple enough until you factor in squirrels dismantling it by noon, hummingbirds that want something completely different, a railing that may not support a pole mount, and a neighbor who apparently never has any of these problems. The range of feeders marketed for deck use is wide, and most of the buying guides online will tell you everything is great. This one won't.

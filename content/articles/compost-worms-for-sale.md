@@ -28,6 +28,18 @@ products:
 tags: ["composting", "comparison"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many red wiggler worms do I need to start a worm bin?"
+    answer: "1,000 red wiggler worms (roughly 1 lb) is the standard starter quantity for a small to medium vermicompost bin like the Worm Factory 360. This population will double every 60–90 days under good conditions and can eventually process up to half a pound of food waste per day."
+  - question: "What's the difference between red wigglers and regular earthworms for composting?"
+    answer: "Red wigglers (Eisenia fetida) are surface-dwelling worms that thrive in decaying organic matter and densely populated bins — they're the right worm for vermicomposting. Common garden earthworms are soil-dwelling and don't survive in the concentrated environment of a worm bin; they won't perform well in a Worm Factory or similar system."
+  - question: "Do live compost worms ship safely in summer or winter?"
+    answer: "Live worm shipments are weather-sensitive — extreme heat above 85°F or cold below 35°F during transit can cause significant losses. Reputable suppliers like Uncle Jim's include moisture-absorbing material and offer an arrival guarantee, but shipping in mild spring or fall weather gives worms the best survival odds."
+  - question: "What do I feed composting worms in a worm bin?"
+    answer: "Red wigglers thrive on vegetable and fruit scraps, coffee grounds and filters, tea bags, crushed eggshells, and shredded cardboard or newspaper as bedding. Avoid meat, dairy, oily foods, onions, citrus in large quantities, and anything heavily salted — these harm worms or create odor problems."
+  - question: "How long does it take a worm bin to produce usable castings?"
+    answer: "A fully stocked worm bin typically produces its first harvestable castings in 2–3 months. The Worm Factory 360's tray system makes harvesting easier — worms migrate upward to fresh food as lower trays fill with finished castings, which you then remove from the bottom."
+---
 product_a: "worm-factory-360-black"
 product_b: "uncle-jims-1000-red-wigglers"
 # winner: product_a  # SET THIS after review

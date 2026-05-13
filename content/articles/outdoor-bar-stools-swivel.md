@@ -56,6 +56,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do outdoor swivel bar stools require maintenance to keep the swivel working?"
+    answer: "Most outdoor swivel mechanisms benefit from occasional tightening of the bolt under the seat, especially after wet seasons. Some aluminum and stainless-steel swivel bases are fully weather-sealed and need no maintenance at all."
+  - question: "What materials hold up best for outdoor swivel bar stools in wet climates?"
+    answer: "Powder-coated aluminum and HDPE (high-density polyethylene) frames are the most durable choices for wet or coastal environments — neither rusts, and both handle repeated wetting and drying without degrading the swivel mechanism."
+  - question: "Can outdoor swivel bar stools be left outside year-round?"
+    answer: "Aluminum and HDPE stools can generally stay outside through all seasons. Wicker or wood-framed swivel stools should be covered or stored in winter to protect both the frame and the swivel bearing from freeze-thaw damage."
+  - question: "What table height pairs with a 30-inch outdoor swivel bar stool?"
+    answer: "A 30-inch swivel stool is designed for bar-height tables that stand 40 to 42 inches tall. If your table is 36 inches (counter height), you need a 24 to 26-inch stool instead."
+  - question: "Do outdoor swivel bar stools come with backs, or are they backless?"
+    answer: "Both styles are widely available. Backed swivel stools offer more support for longer outdoor gatherings, while backless models tuck neatly under a bar and take up less visual space — the right choice depends on how long guests typically sit."
 ---
 
 The patio bar stool market is one of those categories where the product descriptions and the actual outdoor reality rarely match up. "All-weather" can mean anything. "Swivel" sometimes refers to a mechanism that loosens after one season. And the difference between a stool that looks good in April and one that still looks presentable in October is mostly a materials question that the listing photos don't answer.

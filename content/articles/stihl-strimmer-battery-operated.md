@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I buy a Stihl battery strimmer on Amazon in the US?"
+    answer: "Generally no — Stihl's battery strimmer lineup (FSA 57, FSA 86, FSA 90 R) is sold through authorized Stihl dealers rather than Amazon or major online retailers in the US. If you need to buy online, alternatives like the EGO ST1521S are more accessible and come with battery and charger included."
+  - question: "What is EGO POWERLOAD and how does it work?"
+    answer: "POWERLOAD is EGO's automatic line-feeding system — instead of manually winding trimmer line onto a spool, you insert a pre-wound cartridge and the motor winds it for you. This eliminates the most common frustration with string trimmers, but it does require EGO's proprietary line cartridges rather than bulk trimmer line from other brands."
+  - question: "Is the 2.5Ah battery included with the EGO ST1521S kit enough for a full yard?"
+    answer: "For a typical residential lot, the 2.5Ah battery is sufficient for one full trimming session. If your property is larger or you're doing heavy cutting, you can upgrade to a 5Ah or 7.5Ah EGO battery for significantly more runtime — all EGO 56V batteries are cross-compatible with the ST1521S."
+  - question: "How does the EGO ST1521S compare to the Stihl FSA 86 strimmer?"
+    answer: "The EGO ST1521S has a 15-inch cutting width on a 56V platform and includes battery and charger in the kit for around $199. The Stihl FSA 86 is a capable machine but is sold tool-only through dealers, requiring a separate AK battery purchase. For most residential users, the EGO offers better availability and comparable performance."
+  - question: "Can the EGO ST1521S cut through thick weeds and brush?"
+    answer: "The ST1521S excels at lawn maintenance — established grass, fence lines, and light weeds — but is not designed for heavy brush clearing. Thick-stemmed woody growth above about 3/8-inch diameter will slow it down. For heavier work, EGO's ST1623T or a dedicated gas machine is a better choice."
 ---
 
 If you've been searching for a Stihl strimmer battery operated option and keep running into the same wall , Stihl's battery lineup isn't broadly available through Amazon in the US market , you're not imagining things. The FSA 57, FSA 86, and FSA 90 R are genuinely good machines, but getting your hands on one typically means going through a dealer, and that's before you factor in the cost of buying into Stihl's AK or AP battery system separately. For a lot of buyers, that's a reasonable trade-off. For many others, it isn't.

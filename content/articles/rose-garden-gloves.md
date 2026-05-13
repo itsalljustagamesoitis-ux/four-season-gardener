@@ -21,6 +21,17 @@ products:
 tags: ["hand-tools", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long should the cuff be on rose garden gloves to protect against thorns?"
+    answer: "Look for gloves with a cuff that extends at least 12 inches from the wrist to cover the forearm, which is where most thorn scratches happen when reaching into rose canes. Gauntlet-style cuffs in the 16–18 inch range offer the best protection for heavily thorned climbing or shrub roses."
+  - question: "Are rose garden gloves puncture-proof?"
+    answer: "The best rose gloves use thorn-resistant leather or reinforced synthetic fabric on the palm and fingers to resist punctures, but no glove is entirely puncture-proof against sharp rose thorns. Thick leather gauntlets offer the highest protection; lighter spandex-blend gloves prioritize dexterity with moderate thorn resistance."
+  - question: "Can I machine wash rose garden gloves?"
+    answer: "It depends on the material — spandex-blend gloves are often machine washable, while leather gloves should be hand-washed or spot-cleaned and air-dried to prevent stiffening or cracking. Always check the manufacturer's care instructions before washing."
+  - question: "What size should I choose for rose garden gloves?"
+    answer: "Fit is critical — gloves that are too loose lose grip and dexterity, while gloves too tight cause hand fatigue during extended pruning. Most brands offer a size guide based on hand circumference measured at the knuckles; when in doubt, size up for leather gloves since they don't stretch."
+  - question: "Do rose garden gloves work for other thorny plants like blackberries or hawthorn?"
+    answer: "Yes — any glove designed for rose pruning will also work well on blackberries, raspberries, hawthorn, or barberry since the thorn-resistance and extended cuff protection apply equally. For very aggressive thorns like bougainvillea or honey locust, choose the thickest leather gauntlet option available."
 ---
 
 If you grow roses with any seriousness, your forearms know it. The scratches from reaching into a shrub to deadhead, the drag of a cane across bare skin when you're pruning Rosa 'Carefree Beauty' back in March , standard gardening gloves stop at the wrist and leave everything above it unprotected. I've used nitrile-grip gloves, leather palm gloves, and rubberized work gloves across a range of tasks, and the one gap all of them share is the same: they end too soon.

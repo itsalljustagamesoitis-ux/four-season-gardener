@@ -49,6 +49,17 @@ products:
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long do batteries typically last in a battery operated sprinkler timer?"
+    answer: "Most battery operated sprinkler timers run for an entire season on a fresh set of AA batteries — roughly 100–200 watering cycles. Timers with Bluetooth or Wi-Fi radios drain batteries faster, so check the manufacturer's estimate if you're choosing a smart model."
+  - question: "Can a battery operated sprinkler timer handle multiple watering zones?"
+    answer: "Single-zone timers are the most common, but two-zone models like the Orbit B-hyve XD let you water two areas independently from one faucet. For more than two zones you'll need a multi-port manifold or a separate timer per zone."
+  - question: "Do battery operated timers work with drip irrigation systems?"
+    answer: "Yes — any battery timer with a standard 3/4-inch male hose thread can be paired with a drip kit. Just make sure the timer's minimum flow rate matches the low flow of drip emitters, as some timers won't activate at very low pressure."
+  - question: "What happens to my watering schedule if the batteries die?"
+    answer: "When batteries die, mechanical timers stop mid-cycle and won't restart until replaced. Smart timers with non-volatile memory (like Rachio) retain your schedule but suspend watering until power is restored. Always replace batteries at the start of each season."
+  - question: "Can I use a battery operated sprinkler timer with a smart home assistant?"
+    answer: "Only Wi-Fi enabled timers like the Rachio 3 support Alexa and Google Home voice control. Mechanical and basic digital timers operate independently and cannot be integrated into a smart home system."
 ---
 
 Most garden irrigation decisions come down to a single question: how much do you want to think about this? A purely mechanical timer asks almost nothing of you. A smart controller with weather sensing and app access asks quite a bit more, and costs accordingly. The products between those two poles vary by zone count, connectivity, power source, and how much infrastructure they assume you already have.

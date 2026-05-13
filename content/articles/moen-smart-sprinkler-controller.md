@@ -21,6 +21,17 @@ products:
 tags: ["irrigation", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Did Moen make a smart sprinkler controller, and is it still available?"
+    answer: "Moen made a brief push into smart irrigation through their Flo system, but their sprinkler controller line never gained a substantial user base or support ecosystem. It is no longer a competitive option in the market, and the Rachio 3 has become the de facto standard for smart residential sprinkler control."
+  - question: "How many sprinkler zones does the Rachio 3 support?"
+    answer: "The Rachio 3 is available in an 8-zone and a 16-zone version. The 8-zone model is sufficient for most residential inground sprinkler systems, while the 16-zone model handles larger properties or more complex layouts with separated turf, garden, and drip zones."
+  - question: "Does the Rachio 3 work with Alexa and Google Home?"
+    answer: "Yes — the Rachio 3 integrates with both Amazon Alexa and Google Home, allowing voice commands for starting or stopping zones, checking scheduled runtimes, and adjusting the watering schedule hands-free."
+  - question: "What does the Rachio 3 Weather Intelligence feature actually do?"
+    answer: "Weather Intelligence automatically skips or shortens scheduled watering sessions when rain is forecast or has recently fallen, using local weather station data. This prevents overwatering and can meaningfully reduce water bills over a full irrigation season without any manual intervention."
+  - question: "Can the Rachio 3 be used with drip irrigation or soaker hoses?"
+    answer: "The Rachio 3 is designed for inground sprinkler systems with standard 24VAC zone wiring. While it can technically run drip and soaker zones on that same wiring infrastructure, it is not designed for standalone drip or hose-bib setups — those are better served by a dedicated hose-end timer."
 ---
 
 If you've been searching for a Moen smart sprinkler controller and keep landing on the Rachio 3 instead, there's a reason for that. Moen made a brief push into smart irrigation with their Flo system, but their sprinkler controller line never gained the traction or the support ecosystem that serious irrigation users need. The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller) is, at this point, the product that occupies the space Moen was aiming for. If your goal is hands-off scheduling, genuine water savings, and a controller that actually integrates with the rest of your smart home, the Rachio 3 is where the conversation starts. My coverage of sprinkler controllers, timers, and irrigation upgrades lives over at [Irrigation](/irrigation/) , if you're still sorting out what type of watering system you have or need, that's worth reading first.

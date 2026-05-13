@@ -21,6 +21,17 @@ products:
 tags: ["composting", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Where is the best place to buy live red wiggler worms for composting?"
+    answer: "Reputable mail-order suppliers like Uncle Jim's Worm Farm are the most reliable source for most gardeners, since local bait shops typically carry nightcrawlers rather than red wigglers (Eisenia fetida). Uncle Jim's ships 1,000-count live orders with a 48-hour arrival guarantee and moisture-buffered packing material that significantly improves transit survival rates."
+  - question: "What is the best time of year to order composting worms by mail?"
+    answer: "Spring and fall are ideal — mild transit temperatures reduce the risk of heat or cold stress during shipping. Avoid ordering in peak summer heat (above 90°F) or during winter cold snaps (below freezing), as extreme temperatures are the most common cause of live worm losses during shipping."
+  - question: "How quickly do red wigglers establish in a new worm bin after arrival?"
+    answer: "Newly arrived red wigglers typically take two to four weeks to acclimate and settle into a new bin before they begin actively processing food at their full capacity. During this period, add small amounts of soft kitchen scraps rather than large quantities, as overfeeding a new colony is one of the most common early mistakes."
+  - question: "What should I do if my worm order arrives with significant die-off?"
+    answer: "Document the condition immediately with photos and contact the seller within 48 hours — most live arrival guarantees, including Uncle Jim's, require claims to be made within that window. Do not wait until the weekend or the next workday; the guarantee period is tight and begins from the delivery timestamp."
+  - question: "How long does it take for 1,000 red wigglers to grow into a productive colony?"
+    answer: "A healthy starting colony of 1,000 red wigglers will roughly double in population every 60 to 90 days under good conditions (right moisture, temperature between 55–77°F, steady food supply). Within three to six months, a well-managed bin will be producing usable vermicompost and the worm population will be self-sustaining."
 ---
 
 If you've decided to start vermicomposting and found yourself staring at a search bar typing "where to buy worms for compost," you're past the philosophical stage. You've already decided this is worth doing. What you need now is a straight answer about where to get worms that will actually arrive alive, establish quickly, and get to work.

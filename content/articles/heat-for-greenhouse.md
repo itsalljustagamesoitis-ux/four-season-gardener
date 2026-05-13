@@ -49,6 +49,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What type of heater is best for a greenhouse?"
+    answer: "Purpose-built electric greenhouse heaters like the BioGreen Palma are the safest and most controllable option, with moisture-resistant ratings and precise digital thermostats. Propane heaters like the Mr. Heater Portable Buddy work well where electricity isn't available but require adequate ventilation to prevent CO buildup."
+  - question: "Do I need 240V wiring to heat a greenhouse?"
+    answer: "Only some higher-output heaters require 240V — the Bio Green Phoenix and Dr. Infrared DR218 at full power both need 240V wiring. Many smaller greenhouse heaters run on standard 120V outlets, making them easier to install without an electrician."
+  - question: "Can I use a propane heater inside a greenhouse safely?"
+    answer: "Propane heaters like the Mr. Heater Portable Buddy can be used in greenhouses if you provide adequate ventilation to prevent CO accumulation and oxygen depletion. Always choose a model with low-oxygen shutoff and tip-over protection, and crack a vent or door slightly during operation."
+  - question: "How many BTUs do I need to heat a greenhouse?"
+    answer: "A 9,000 BTU heater is generally sufficient for a small greenhouse up to around 225 square feet in mild climates. Larger structures, colder climates, or poorly insulated glazing will require more BTUs — calculate based on your greenhouse's square footage, minimum outside temperature, and insulation quality."
+  - question: "Is infrared heating good for greenhouses?"
+    answer: "Infrared heaters like the Dr. Infrared DR218 heat plants and soil surfaces directly rather than warming air, which can be more efficient in drafty greenhouses. The tradeoff is that they require 240V power at full output and create uneven heat distribution compared to fan-assisted heaters."
 ---
 
 A greenhouse without heat is a cold frame with ambitions. It might protect your plants from wind and frost for a few weeks in fall, but once temperatures drop hard, you're managing a slow decline rather than extending a season. The question isn't whether to heat your greenhouse. It's how to do it without spending a fortune on equipment that wasn't designed for the job.

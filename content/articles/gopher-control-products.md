@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the most effective method for getting rid of gophers in a garden?"
+    answer: "A layered approach works best — combine physical exclusion (buried wire mesh under beds) with a surface repellent for active plants. Exclusion is the most permanent solution but requires upfront labor; repellents reduce pressure while exclusion is being installed and help protect areas you cannot fully barrier."
+  - question: "Are gopher repellent sprays safe to use around dogs and children?"
+    answer: "Many repellents use sulfur-based or capsaicin-based formulas that are low-toxicity once dry, but you should always read the full label rather than relying on the product headline. Keep pets and children out of treated areas until the spray is completely dry, and store products out of reach."
+  - question: "How often do I need to reapply gopher and deer repellent spray?"
+    answer: "Most liquid repellents last 2–4 weeks under dry conditions, but heavy or frequent rain can wash them off sooner and require more frequent reapplication. In wet spring climates with multiple soaking rains per week, budget for reapplication every 1–2 weeks during the peak period."
+  - question: "Do motion-activated sprinklers work against gophers?"
+    answer: "Motion-activated sprinklers like the Orbit Yard Enforcer deter above-ground mammals like deer, rabbits, raccoons, and cats effectively, but gophers tunnel underground and are less affected. For gophers specifically, underground exclusion mesh or subsurface repellent granules are more targeted tools."
+  - question: "What is the difference between gopher exclusion and gopher repelling?"
+    answer: "Exclusion uses physical barriers — typically buried galvanized wire mesh — to prevent gophers from accessing raised beds or specific planting areas. It is permanent and highly effective but requires significant installation labor. Repellents use scent or taste to discourage gophers from a general area but do not physically block access and must be reapplied regularly."
 ---
 
 Gophers are not a subtle problem. If you've walked out to find a row of newly planted perennials collapsed sideways into a fresh mound, you already know what you're dealing with. The tunneling, the root damage, the way they seem to operate on a schedule timed specifically to undermine whatever you just planted last week. And if you're also trying to keep deer off your beds and rabbits out of your kitchen garden, you're managing multiple pressures at once, often with products that address only one animal and do it poorly.

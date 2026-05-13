@@ -49,6 +49,17 @@ products:
 tags: ["structures", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are outdoor gazebo curtains universal or do they have to match a specific gazebo brand?"
+    answer: "Most aftermarket curtain panels are sized for common gazebo footprints (10x10, 10x12) but are not universally compatible — tab spacing, panel width, and attachment method vary by gazebo frame. Always check the listed compatibility dimensions before purchasing."
+  - question: "What fabric holds up best for outdoor gazebo curtains?"
+    answer: "Solution-dyed polyester and olefin fabrics resist UV fading and mold better than standard woven polyester. Mesh or mosquito netting panels offer airflow but less privacy and no weather blocking."
+  - question: "Can outdoor gazebo curtains block mosquitoes?"
+    answer: "Dedicated mosquito net curtains (like those with fine mesh and zipper closures) are effective at keeping insects out if they close fully with no gaps. Decorative fabric curtains do not provide meaningful insect protection."
+  - question: "Do hardtop gazebos come with curtains included?"
+    answer: "Some do and some do not — it varies by model and price point. Several of the hardtop gazebos reviewed here (such as the DOMI and Yoleny models) include mesh side curtains; others sell curtain panels as separate accessories."
+  - question: "How do I attach aftermarket curtains to a gazebo that didn't come with them?"
+    answer: "Most aftermarket curtain panels use grommet tops that hang from a rod or the gazebo's corner posts. Some use hook-and-loop tape or clips. Check whether your gazebo's roof rail has a groove or rail designed for curtain attachments before buying an add-on set."
 ---
 
 Outdoor gazebo curtains occupy an odd corner of the outdoor living market. Some are sold as aftermarket add-ons for bare gazebo frames. Some come bundled with the structure itself. A few are little more than mesh screens dressed up with marketing copy, and a few others are genuinely well-made panels that will still look decent after three wet seasons. Figuring out which is which takes more effort than it should.

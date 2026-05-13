@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size cover do I need for an outdoor sectional sofa?"
+    answer: "Measure your sectional's full assembled length, depth, and height including any attached chaise or ottoman. L-shaped sectionals require an L-shaped cover — rectangular covers will leave corners exposed. Most manufacturers list dimensions in inches; always compare before purchasing."
+  - question: "What material makes the best outdoor sectional sofa cover?"
+    answer: "Heavy-duty polyester with a water-resistant or waterproof coating is the most common and practical choice. Look for covers rated at least 600D polyester with heat-sealed seams. Marine-grade fabrics last longer but cost significantly more."
+  - question: "Is it better to buy a waterproof sectional or use a protective cover?"
+    answer: "An all-weather sectional (HDPE or aluminum with Sunbrella-grade cushions) eliminates the need to cover and uncover furniture seasonally. A protective cover is the better investment if your existing sectional frame is sound but the cushions or fabric are vulnerable to weather."
+  - question: "Can I replace just the cushions on my outdoor sectional instead of buying a new set?"
+    answer: "Yes — replacement deep-seat cushion sets in Sunbrella or UV-resistant polyester fabric are widely available and significantly cheaper than replacing the full sectional. This makes sense if your frame is structurally solid but the existing cushions are faded, flattened, or moldy."
+  - question: "How do I keep my outdoor sectional cover from blowing off in wind?"
+    answer: "Look for covers with adjustable drawstring hems, buckle straps, or click-close ties that anchor under the frame legs. Covers without any fastening system will shift or blow off in moderate wind — this is a key feature to verify before buying."
 ---
 
 A sectional sofa cover that actually fits is harder to find than it should be. Part of the problem is that "outdoor sectional sofa cover" means three different things depending on who's asking: some people want a protective cover for a sectional they already own, some want an all-weather sectional set that doesn't need covering, and some have a perfectly good frame but worn-out cushions that need replacing. This guide covers all three angles, because the right answer depends on which problem you're actually solving.

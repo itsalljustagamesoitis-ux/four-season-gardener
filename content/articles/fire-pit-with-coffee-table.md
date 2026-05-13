@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Can a fire pit coffee table be used as a regular outdoor table when the fire is off?"
+    answer: "Yes — both the Outland Living 403 and Napoleon St. Tropez include a cover panel that fits over the burner opening, converting the table into a functional outdoor surface. This makes the furniture usable year-round, not just when the fire is lit."
+  - question: "How much propane does a fire pit coffee table use per hour?"
+    answer: "At full output, the Outland Living 403 at 50,000 BTU consumes a 20 lb propane tank in roughly 8–10 hours. Running at lower flame settings extends that significantly — most people use medium to low settings for ambiance, where a tank can last 15–20 hours."
+  - question: "What is the difference between 50,000 BTU and 40,000 BTU in a fire pit table?"
+    answer: "50,000 BTU produces noticeably more radiant heat and a larger flame, effectively warming a wider seating area (up to a 15-foot radius). 40,000 BTU is still substantial for a patio setting and is more typical for furniture-integrated designs where flame aesthetics matter more than maximum heat output."
+  - question: "Does the Napoleon St. Tropez fire table work with natural gas or only propane?"
+    answer: "The Napoleon St. Tropez includes a natural gas conversion kit, making it compatible with a permanent gas line as well as standard propane. This eliminates the recurring cost and logistics of tank refills for buyers who have natural gas service at their home."
+  - question: "How difficult is it to assemble a fire pit coffee table?"
+    answer: "Most fire pit tables in this category assemble in 30–60 minutes with basic tools — the main steps are attaching the legs, connecting the burner assembly, and hooking up the gas line with a standard hose connection. No plumbing expertise is required for propane models."
 ---
 
 If you've spent any time looking at [fire pit tables on rectangular frames](/rectangular-fire-pit-table/), you've probably noticed that the category splits pretty cleanly into two camps: furniture-first designs that happen to have a burner, and fire-first designs that happen to have a surface. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) are the clearest representatives of each camp I've found at their respective price points. One is a practical, good-looking patio table with serious heat output. The other is a permanent outdoor living investment with the kind of hardware that doesn't apologize for its price. Neither is wrong. But they're not interchangeable, and I'd rather give you a straight read than a "both are great" shrug.

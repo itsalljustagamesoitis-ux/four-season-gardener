@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the EGO Power HT2411 hedge trimmer worth buying at $130?"
+    answer: "For most homeowners with established hedges and moderate trimming needs, yes — the 1-inch cut capacity, brushless motor, and included battery and charger represent strong value at this price point. If you have more than 45 minutes of hedging per session, budget for a second battery."
+  - question: "What is the blade length on the EGO Power HT2411?"
+    answer: "The HT2411 has a 24-inch dual-action hardened steel blade, which is a full-size cutting length suitable for hedgerows, formal topiary, and established shrub borders. The dual-action design reduces vibration compared to single-action blades."
+  - question: "How heavy is the EGO HT2411 hedge trimmer with the battery installed?"
+    answer: "With the 2.5Ah battery installed, the HT2411 weighs approximately 7.9 lbs — noticeably lighter than comparable gas hedge trimmers and comfortable for overhead work for extended periods."
+  - question: "Does the EGO Power hedge trimmer work with any EGO battery I already own?"
+    answer: "Yes — all EGO 56V ARC Lithium batteries are fully cross-compatible across the EGO power tool lineup. A larger 5Ah or 7.5Ah battery will extend runtime significantly beyond the 45 minutes the included 2.5Ah pack delivers."
+  - question: "How does the EGO HT2411 handle thick or overgrown hedges?"
+    answer: "The HT2411 manages branches up to 1 inch in diameter reliably, which covers most ornamental hedging. For heavily overgrown material with dense woody stems, working in multiple lighter passes rather than forcing the blade through in a single cut produces cleaner results and reduces motor strain."
 ---
 
 The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is currently sitting around $130 for the kit, battery and charger included. That price has made it one of the more popular starter picks in the cordless tool category, and I've seen enough of these tools come and go to know that popular doesn't always mean good. So I ran it through a full season on my property, and what follows is a straightforward account of what it does well, where it falls short, and whether I'd actually recommend spending your money on it.

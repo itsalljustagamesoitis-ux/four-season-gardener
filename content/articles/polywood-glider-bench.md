@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Grade A teak worth the cost premium over polywood for a glider bench?"
+    answer: "Grade A teak is denser, heavier, and more durable than recycled HDPE polywood, and it ages more attractively. Polywood wins on zero-maintenance convenience and is the right choice for buyers who do not want any upkeep. Teak rewards buyers who are willing to apply teak oil annually and want a piece that looks better at year 15 than polywood does."
+  - question: "How smooth is the gliding motion on the Anderson Teak GL-101 compared to budget gliders?"
+    answer: "The GL-101 uses precision bearings rather than simple pivot points, which produces a smooth, consistent motion that does not degrade noticeably over seasons of use. Budget gliders with metal-on-metal pivots often become jerky or grinding within a year or two as the contact surfaces wear. The bearing mechanism is one of the primary reasons the GL-101 justifies its price."
+  - question: "Does the Anderson Teak GL-101 glider bench include cushions?"
+    answer: "No — like most premium teak furniture, it is sold without cushions. Standard two-seat bench cushions in the 45 to 48 inch range typically fit; measure your seat before buying. For outdoor use, Sunbrella-fabric cushions are the recommended choice for UV and moisture resistance."
+  - question: "How often does a teak outdoor glider bench need to be oiled?"
+    answer: "Once a year is sufficient to maintain the warm honey-amber color. Left untreated, teak weathers to silver-gray, which is not structural damage but is a different aesthetic outcome. A single coat of teak oil with a foam brush takes about 25 minutes and resets the color. Some owners prefer the silver patina and never oil; both approaches are valid."
+  - question: "Can the Anderson Teak GL-101 stay outdoors through a hard winter?"
+    answer: "Yes — Grade A teak's high natural oil content provides genuine cold-weather resistance, and the stainless steel hardware will not rust or stain. The bench will weather faster if left fully exposed through freeze-thaw cycles, but it will not suffer structural damage. Covering it or storing it under a roof in winter will preserve the finish and slow the graying process."
 ---
 
 If you've been looking at polywood glider benches and ended up here, I'll save you some time: I'm going to tell you about a teak glider instead, and why I think that's the right outcome for most serious buyers. The [Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench](product:anderson-teak-gl101-glider-bench) is the only genuine teak glider bench that's consistently available on Amazon, and after spending a season with one on my property in Connecticut, I have a clear opinion about it. It's not for everyone. But if it's for you, it's genuinely one of the better pieces of [Outdoor Furniture](https://fourseasongardener.com/outdoor-furniture/) you can buy.

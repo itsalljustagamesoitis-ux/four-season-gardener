@@ -32,6 +32,17 @@ product_a: "vego-garden-6in1-17inch"
 product_b: "vegega-17inch-6in1-metal-bed"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "How deep should a raised metal garden bed be for growing vegetables?"
+    answer: "A 17-inch depth is sufficient for the majority of vegetables including tomatoes, carrots, squash, and peppers. Both the Vego Garden and VEGEGA beds reach this depth, which is deep enough to avoid root restriction for all but the most deep-rooted crops."
+  - question: "What is the difference between Aluzinc and zinc-aluminum-magnesium coating on metal raised beds?"
+    answer: "Aluzinc (used by Vego Garden) and zinc-aluminum-magnesium (used by VEGEGA) are both upgrades over standard galvanized steel, offering significantly longer corrosion resistance. The practical difference for most gardeners is minimal — both should last 15–20 years outdoors with no maintenance."
+  - question: "Do metal raised garden beds heat up too much in hot climates?"
+    answer: "Metal panels can absorb and radiate heat in direct sun, which may elevate soil temperatures in hot climates like the Southwest or Southeast. Lining the inside with cardboard or adding a thick mulch layer on the soil surface helps buffer this effect."
+  - question: "Are Vego Garden and VEGEGA the same product?"
+    answer: "No — despite similar names and comparable specs, Vego Garden and VEGEGA are distinct brands. The main differences are coating chemistry, edge finish (VEGEGA emphasizes rounded safety edges), and color availability (Vego Garden offers a wider range including the popular Olive Green)."
+  - question: "Are 6-in-1 modular metal raised beds easy to configure and resize?"
+    answer: "Yes — the 6-in-1 modular design lets you arrange the six panels into multiple shapes, from a long rectangle to a square or L-shape. This flexibility is one of the primary reasons buyers choose modular metal beds over fixed-size wooden kits."
 ---
 
 If you've spent any time looking at metal garden beds raised to the 17-inch mark, you've probably noticed that two brands keep appearing side by side: Vego Garden and VEGEGA. The names are similar enough to cause confusion at checkout, and both companies make nearly identical claims about depth, modularity, and coating technology. I've used both on my property in Litchfield County, and I can tell you they are not the same product, even if the spec sheets make them look interchangeable.

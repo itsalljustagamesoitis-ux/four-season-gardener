@@ -42,6 +42,17 @@ products:
 tags: ["structures", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size gazebo do I need to cover a hot tub?"
+    answer: "Most standard hot tubs are 7x7 or 8x8 feet, so a 12x12 or 12x14 gazebo is the minimum comfortable fit — it covers the tub and leaves 2 feet of clearance on each side for stepping in and out. A 12x20 footprint allows for a seating area alongside the tub."
+  - question: "Why does a hot tub gazebo need a vented double roof?"
+    answer: "A single-roof gazebo traps steam from the hot tub, which causes mildew on fabric panels, accelerates corrosion of metal components, and warps any wood parts within a couple of seasons. A vented double roof lets steam exhaust upward through the ridge gap while keeping rain out."
+  - question: "Can a gazebo for a hot tub handle winter snow loads?"
+    answer: "Quality hardtop gazebos with aluminum frames and galvanized steel roofing panels are designed for year-round use and rated for 20–30+ lbs per square foot of snow load. Always verify the specific snow load rating for your climate and clear heavy accumulation after major storms."
+  - question: "What material should a hot tub gazebo frame be made of?"
+    answer: "Powder-coated aluminum is the best choice for a hot tub environment because it does not rust, requires no seasonal maintenance, and handles temperature and humidity swings better than painted steel. Avoid wood-frame gazebos for hot tub use, as the constant moisture exposure degrades wood rapidly."
+  - question: "Do hot tub gazebos come with privacy curtains?"
+    answer: "Most quality hot tub gazebos include full curtains on all sides, but curtain quality varies widely. Look for thicker fabric with reinforced grommets rather than lightweight polyester panels that fade and shred within a season. Mosquito netting is sometimes included as an added panel layer."
 ---
 
 A hot tub sitting in the open air is a hot tub you'll use four months a year. The steam, the weather exposure, the lack of privacy , all of it adds up to an expensive piece of equipment that gets ignored from November through March. A proper gazebo changes that, but only if you choose one built for the actual conditions a hot tub creates. That means accounting for steam ventilation, structural load from wet winters, and privacy from neighbors who didn't sign up to watch your spa routine. This guide covers what actually matters in a hot tub gazebo, four products worth considering at different price points, and one clear recommendation. If you're also looking at broader garden structure options, the [Greenhouses, Sheds & Gazebos](/structures/) hub has additional coverage organized by structure type.

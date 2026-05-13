@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between wrought iron and aluminum outdoor sofas?"
+    answer: "Wrought iron is denser and heavier with a traditional, often ornate appearance, and is extremely durable when properly powder-coated. Aluminum is significantly lighter, rust-proof by nature, and more common in modern styles — both are long-lasting outdoor materials, but wrought iron is harder to move and aluminum is easier to handle."
+  - question: "Do iron outdoor sofas rust, and how do I prevent it?"
+    answer: "Cast or wrought iron will rust if the protective coating is chipped or worn through. Keeping the powder-coat intact by touching up scratches promptly, storing cushions when not in use, and applying a metal wax or rust-inhibiting spray annually will significantly extend the life of the frame."
+  - question: "Are iron outdoor sofas heavy to move?"
+    answer: "Yes — wrought iron outdoor furniture is among the heaviest patio seating available, which actually helps stability in wind. If you frequently rearrange your patio or need to bring furniture indoors seasonally, powder-coated aluminum models offer a similar look at roughly half the weight."
+  - question: "Can iron outdoor sofas stay outside year-round?"
+    answer: "Aluminum outdoor sofas can stay outside year-round without issue. Wrought iron should ideally be covered or stored in wet climates during winter to protect the coating from freeze-thaw moisture cycling that can crack paint and accelerate rust."
+  - question: "What kind of cushions should I use with an iron outdoor sofa?"
+    answer: "Look for cushions with solution-dyed acrylic (Sunbrella or equivalent) or outdoor-rated polyester covers, which resist UV fading, mold, and moisture. Avoid cotton or standard indoor foam — they'll absorb rain and degrade quickly in outdoor conditions."
 ---
 
 Iron outdoor sofas sit in an interesting category. They're heavier than aluminum, more traditional-looking than resin wicker, and they tend to outlast both if you treat them reasonably well. The category covers everything from ornate scrollwork loveseats that would look at home on a Victorian porch to clean-lined powder-coated aluminum frames that read as modern without trying too hard. If you're sorting through your options for the patio or a garden seating area, the choices below are worth your time. If you want the broader context for how metal seating fits into a complete outdoor setup, the [Outdoor Furniture](/outdoor-furniture/) hub is a good starting point.

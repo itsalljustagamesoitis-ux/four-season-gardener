@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the EGO HT2411 a pole hedge trimmer or a standard handheld model?"
+    answer: "The HT2411 is a standard handheld hedge trimmer, not a pole trimmer. For extended overhead reach without a ladder, you would need the EGO HTA2000 attachment on the PH1400E power head, or EGO's dedicated pole hedge trimmer model."
+  - question: "What is the battery runtime on the EGO HT2411 hedge trimmer?"
+    answer: "The included 2.5Ah battery provides approximately 45 minutes of continuous use. For longer sessions, purchasing a 5Ah or 7.5Ah EGO 56V battery will substantially extend runtime, as all EGO 56V packs are cross-compatible."
+  - question: "How thick of branches can the EGO HT2411 cut?"
+    answer: "The HT2411 has a 1-inch cut capacity, which is above average for a cordless trimmer at this price point and handles most formal hedging shrubs cleanly. For stems approaching or exceeding 1 inch, running the blade slowly and letting it cycle fully through the cut gives the best results."
+  - question: "Does the EGO HT2411 include a battery and charger?"
+    answer: "The kit version includes a 2.5Ah 56V battery and a standard charger. A bare-tool version is also available at a lower price for buyers who already own EGO 56V batteries from other tools."
+  - question: "How does the EGO HT2411 compare to a gas hedge trimmer in terms of maintenance?"
+    answer: "The HT2411 requires virtually no maintenance beyond occasional blade oiling and cleaning — there is no fuel, carburetor, air filter, or spark plug to service. For most homeowners this is a significant practical advantage over gas trimmers that need spring carburetor cleaning."
 ---
 
 The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) sits at the lower end of EGO's hedge trimmer lineup in terms of price, but it runs on the same 56V Arc Lithium battery platform as their premium tools. That matters if you're already running EGO equipment or considering building out a battery-powered yard setup. I've been testing cordless outdoor tools across my 12-acre property for several years now, and I have a reasonably clear picture of what separates the honest performers from the ones that look good in spec sheets. This trimmer is mostly the former, with a few caveats worth spelling out before you hand over money.

@@ -49,6 +49,17 @@ products:
 tags: ["raised-beds", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long do wooden raised garden bed kits last before needing replacement?"
+    answer: "Untreated pine or fir beds typically last 3 to 5 years in contact with moist soil before the wood begins to rot at the base. Cedar beds last significantly longer — 10 to 20 years — because cedar contains natural oils that resist decay without chemical treatment, making it the preferred wood for edible gardens."
+  - question: "What soil depth do I need in a raised garden bed kit for growing tomatoes?"
+    answer: "Tomatoes need a minimum of 12 inches of soil depth for adequate root development, with 17 to 18 inches preferred for unrestricted growth. Shallow beds of 6 to 10 inches work well for lettuce, herbs, and annual flowers, but will limit root vegetables and large fruiting crops like tomatoes, peppers, and squash."
+  - question: "Is cedar or composite material better for a raised bed garden kit?"
+    answer: "Cedar is the better choice for aesthetics, rigidity, and natural rot resistance without chemicals — it's the gold standard for safe edible growing. Composite boards (recycled plastic and wood fiber) resist rot comparably but are thinner and less structurally rigid; they work well for low-profile beds but are less satisfying in taller configurations."
+  - question: "Can I use a raised bed garden kit directly on my deck or patio?"
+    answer: "Most raised bed kits with open bottoms should not be placed directly on wood decks, as trapped moisture will damage decking within one season. Kits with solid thermoplastic bases, like the Birdies patio model, are specifically designed for hard surfaces. Alternatively, line any open-bottom bed with landscape fabric before placing it on a deck."
+  - question: "How does galvanized metal compare to wood for raised garden bed kits?"
+    answer: "Galvanized and aluzinc-coated metal beds outlast wood significantly — quality steel beds last 20 or more years — and they don't rot, splinter, or absorb moisture. The main trade-off is that metal panels heat up in direct summer sun, which can warm the soil and stress plant roots in hot climates; this is manageable with mulching but worth considering before purchasing."
 ---
 
 Wooden raised beds get most of the Pinterest attention, but the kits that actually sell , and hold up , span wood, composite, and metal. If you've searched "wooden raised beds garden kits" and ended up here, I'll save you some time: the best kit for your situation depends on what you're growing, where you're placing it, and how long you want it to last before it turns into a composting project of its own. This roundup covers five kits across three materials and three price points, with a clear recommendation at each level. No padding, no false equivalencies.

@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do I stop my outdoor motion sensor security light from triggering on animals or passing cars?"
+    answer: "Adjust the PIR sensitivity setting (most fixtures have a dial or switch on the housing) to low, and angle the sensor head downward so it covers your immediate property rather than the street or treeline. Some models also let you reduce the detection range."
+  - question: "What is a good detection range for an outdoor motion sensor security light?"
+    answer: "Most residential motion sensor lights have a detection range of 20 to 70 feet. For a driveway or backyard, 30 to 50 feet is typically sufficient. Wider coverage requires a three-head adjustable fixture like the LEONLITE reviewed here."
+  - question: "Can solar motion sensor lights work in winter or cloudy climates?"
+    answer: "They can, but performance degrades significantly in regions with short winter days or extended cloud cover. Hardwired motion sensor lights are the reliable choice for year-round coverage in northern or overcast climates."
+  - question: "How long does the light stay on after detecting motion?"
+    answer: "Most motion sensor lights stay on for 20 seconds to 5 minutes after triggering — the duration is usually adjustable via a control on the fixture. Some models also offer a permanent dim-on mode with motion-activated bright mode, like the LITOM spotlight reviewed here."
+  - question: "Is a motion sensor security light a real deterrent to intruders?"
+    answer: "Studies on outdoor lighting as a deterrent show mixed results, but motion-activated lights do eliminate the cover of darkness, can startle an intruder, and signal to neighbors that movement is occurring — they're most effective when combined with cameras or other security measures."
 ---
 
 Motion sensor security lights have a way of multiplying on a property once you realize how much you actually need them. The driveway gets one, then the side path, then the back gate, and suddenly you're looking at the garage and thinking about it. I've gone through this cycle on my 12-acre property more than once, and the honest lesson is that one product type does not suit every situation. Solar makes sense in some spots and is completely wrong for others. Hardwired is the reliable choice where you have the infrastructure, and a low-voltage landscape system is a different category altogether. The picks in this roundup reflect all three approaches, and my recommendation changes depending on what you're actually solving for.

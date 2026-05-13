@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does POLYWOOD HDPE compare to real teak for a 6-person outdoor dining set?"
+    answer: "POLYWOOD HDPE is made from recycled plastic and requires zero maintenance — no oiling, sanding, or seasonal storage — while genuine Grade A teak needs annual treatment to preserve its color. Real teak has a warmer, more authentic wood look and feel, but typically costs two to four times more and demands ongoing care that many homeowners skip."
+  - question: "What table length do I need for a 6-person outdoor dining set?"
+    answer: "A 70 to 76 inch rectangular table seats six adults comfortably with room for place settings and centerpieces. Tables shorter than 66 inches tend to feel crowded at six, especially with armchairs, and can make serving awkward during meals."
+  - question: "Does the POLYWOOD Nautical dining set require cushions to be comfortable?"
+    answer: "The slatted Nautical chairs are usable without cushions for shorter meals, but many owners add outdoor seat pads for extended dinner gatherings. POLYWOOD chairs have a slight ergonomic contour that helps, and the absence of cushions actually simplifies maintenance since you avoid mildewed foam during wet seasons."
+  - question: "Can a 6-person outdoor dining set stay outside in winter?"
+    answer: "POLYWOOD HDPE sets can remain outdoors year-round in any climate, including through hard freezes and snow, with no damage. Real teak sets can also overwinter outdoors but benefit from furniture covers to slow weathering and preserve the natural oil content of the wood."
+  - question: "Is a $1,800 to $2,100 POLYWOOD dining set a good value compared to teak for 6?"
+    answer: "Against real teak sets for six — which typically run $3,000 to $8,000 — POLYWOOD represents strong value given its zero-maintenance profile and comparable 20-plus year lifespan. If you're comparing to a $600 aluminum or resin set, the math depends on how long you plan to use it and how much time you're willing to spend on upkeep."
 ---
 
 If you've spent any time looking at outdoor dining sets for six people, you already know the decision tree collapses into two uncomfortable choices: buy real teak and accept the maintenance and the cost, or buy something cheaper and replace it in four years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is making a third argument, and it's worth hearing out before you dismiss it on the grounds that it isn't wood.

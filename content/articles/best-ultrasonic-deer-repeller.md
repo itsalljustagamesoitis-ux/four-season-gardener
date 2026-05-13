@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do ultrasonic deer repellers actually work?"
+    answer: "Most peer-reviewed research on ultrasonic animal deterrents shows limited and inconsistent results — deer habituate to unfamiliar sounds within days to weeks. Motion-activated water sprayers and scent-based repellents have stronger documented behavioral responses and are more reliable for protecting garden beds."
+  - question: "How does the Orbit Yard Enforcer motion-activated sprinkler deter deer?"
+    answer: "The Yard Enforcer detects motion via infrared sensor and delivers a sharp burst of water within the 120-degree detection arc, startling deer and other animals. With repeated encounters, deer begin to associate the area with an unpleasant experience and avoid it even when the sprinkler isn't active — a genuine training effect rather than just a temporary deterrent."
+  - question: "How long do batteries last in the Orbit Yard Enforcer?"
+    answer: "The Orbit Yard Enforcer runs on a 9V battery rated for approximately 7,500 activations. In high deer-traffic areas, that can deplete in a few weeks during peak season. Check the battery every 2–3 weeks during active use periods, and position the unit carefully to avoid false triggers from blowing plants that burn through the count unnecessarily."
+  - question: "Does Liquid Fence deer repellent wash off in rain?"
+    answer: "Liquid Fence is rain-resistant once dried and typically lasts 2–4 weeks outdoors per application. It should be reapplied after heavy rain events or every 2–3 weeks during the growing season. The odor (sulfur and putrescent egg) is strong during and shortly after application but fades to below human-detectable levels within a day."
+  - question: "Where should I position a motion-activated deer repeller in my garden?"
+    answer: "Position it where the detection arc covers the entry point deer actually use — along established trails or at the corners of beds. Avoid placement near ornamental grasses, tall shrubs, or fence lines that will false-trigger in wind. Spend time observing where deer enter before locking in placement, and adjust stake height to account for late-season foliage."
 ---
 
 If you've been searching for the best ultrasonic deer repeller, you've probably landed on a category full of plastic stakes with blinking lights that deer learn to ignore within a week. I've tested several of those. They go in the trash. What actually works to keep deer and other wildlife out of garden beds involves a different approach entirely, and the two products I'm recommending here are the ones I keep coming back to after years of dealing with a property that borders active deer corridors. Before we get into the picks, if you're also managing bird feeders and baths alongside a deer problem, the [Birds & Wildlife section](/birds-wildlife/) has broader coverage of both sides of that equation.

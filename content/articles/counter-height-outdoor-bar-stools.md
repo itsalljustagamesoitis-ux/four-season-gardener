@@ -49,6 +49,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between counter height and bar height outdoor stools?"
+    answer: "Counter height stools have a seat height of 24–26 inches and pair with counters or tables 34–36 inches tall. Bar height stools have a seat height of 28–30 inches and pair with standard bar-height tables at 40–42 inches. Measure your table or counter before ordering — the wrong height makes stools uncomfortable or unusable."
+  - question: "What materials hold up best for outdoor bar stools?"
+    answer: "POLYWOOD (recycled HDPE) and powder-coated aluminum are the most weather-resistant options — neither rusts, rots, or requires painting. Teak and acacia hardwoods are also durable but need annual oiling to prevent cracking and greying in outdoor conditions."
+  - question: "Do outdoor bar stools need to be brought inside during winter?"
+    answer: "POLYWOOD and powder-coated aluminum stools can typically stay outside year-round in most climates. Wood stools should be stored or covered over winter in regions with freeze-thaw cycles. Cushions should always be brought indoors or stored under covers to prevent mildew and UV damage."
+  - question: "Should I get swivel or non-swivel outdoor counter stools?"
+    answer: "Swivel stools are more convenient for getting on and off at an outdoor bar or kitchen counter and allow you to turn to face guests without moving the stool. Non-swivel stools are simpler, typically lower cost, and less likely to have moving parts that corrode over time outdoors."
+  - question: "How many bar stools fit at a standard outdoor bar?"
+    answer: "Allow 26–30 inches of bar width per stool for comfortable seating without crowding. A 6-foot (72-inch) outdoor bar comfortably seats 2–3 stools; an 8-foot bar fits 3–4. Reduce the count by one if the bar is in a corner and stools need to be pulled out at an angle."
 ---
 
 Counter-height outdoor bar stools occupy a specific and underserved niche in the outdoor furniture market. They're not lounge seating. They're not dining chairs. They're purpose-built for 34-to-36-inch bar tables and kitchen-pass-through counters, and if you buy the wrong height, the whole setup is miserable. I've spent enough time sorting through this category to have opinions, and this article is where I'll share them.

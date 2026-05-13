@@ -49,6 +49,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between single-wall and twin-wall polycarbonate panels in a greenhouse kit?"
+    answer: "Twin-wall polycarbonate creates an insulating air gap between two layers, which retains heat overnight and buffers temperature swings that stress seedlings. Single-wall is essentially a thicker plastic sheet with no insulating value — adequate for a season extender but not for year-round growing in cold climates."
+  - question: "Do I need a permit to install a 12x20 greenhouse kit in my backyard?"
+    answer: "Permit requirements vary by municipality, but a freestanding structure over roughly 100–120 square feet often triggers a permit in suburban areas. A 12x20 greenhouse at 240 square feet will almost certainly require one — check with your local building department before purchasing and definitely before installation."
+  - question: "What type of foundation does a Palram Canopia greenhouse require?"
+    answer: "Palram Canopia greenhouse kits do not include a base, but they are designed to anchor to a poured concrete pad, pressure-treated wood frame, or compacted gravel pad. A level, stable base is critical — an unlevel foundation causes frame stress and door alignment problems that are very difficult to correct after assembly."
+  - question: "Can I heat a 12x20 polycarbonate greenhouse through winter in a cold climate?"
+    answer: "Yes, with supplemental heat. Twin-wall polycarbonate panels provide meaningful insulation, but in USDA Zones 5 and colder you will need an electric or propane heater to maintain growing temperatures through hard freezes. The insulation reduces the heating load significantly compared to single-wall structures."
+  - question: "How many people does it take to assemble a Palram Canopia greenhouse, and how long does it take?"
+    answer: "Assembly requires a minimum of two people and typically takes a full weekend — roughly 12–16 hours total. Sorting all hardware bags before starting saves significant time, and Palram's instruction manual, while organized, assumes advance preparation."
 ---
 
 A 12x20 greenhouse is a specific aspiration. You've moved past cold frames and grow lights on a wire shelf, and you want something you can actually walk into, work in, and heat through a hard winter. The problem is that most of what shows up when you search for greenhouse kits is either too small to be useful, too expensive to justify without a commercial operation, or assembled from panels that will yellow and crack inside three seasons.

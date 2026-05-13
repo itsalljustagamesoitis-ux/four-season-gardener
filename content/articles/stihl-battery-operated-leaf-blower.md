@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How does the Stihl battery leaf blower compare to the EGO LB6504 in terms of power?"
+    answer: "The EGO LB6504 delivers 650 CFM and 200 MPH, which is among the highest output of any handheld cordless blower on the market. Stihl's cordless blowers are serious tools, but they're sold exclusively through authorized dealers and are generally unavailable on Amazon, making the EGO a more accessible high-performance alternative."
+  - question: "What battery does the EGO LB6504 leaf blower use?"
+    answer: "The LB6504 runs on EGO's 56V ARC Lithium battery platform. The kit version includes a 5.0Ah battery rated for up to 75 minutes of runtime on lower speed settings. Any EGO 56V battery is compatible, so it shares power with EGO mowers, trimmers, and other tools in the lineup."
+  - question: "Is the EGO LB6504 powerful enough to move wet leaves?"
+    answer: "Yes — the 650 CFM turbine fan moves wet, matted leaves off grass and gravel without requiring a rake first. The turbine design produces a broader, more even airstream than axial-fan blowers, which allows you to cover more ground per pass even in difficult fall cleanup conditions."
+  - question: "How much does the EGO LB6504 kit cost?"
+    answer: "The kit version — which includes the blower, a 56V 5.0Ah battery, and a rapid charger — runs around $249 on Amazon. A tool-only version is available at a lower price if you already own compatible EGO 56V batteries."
+  - question: "How heavy is the EGO battery leaf blower?"
+    answer: "The EGO LB6504 weighs approximately 10.8 pounds with the battery installed. This is heavier than lighter 40V blowers, so it's worth considering if fatigue is a concern over long cleanup sessions. The lock-on trigger helps reduce hand strain during sustained operation."
 ---
 
 If you've been circling the Stihl battery ecosystem for a while, wondering whether to commit, the leaf blower is usually the piece that tips the decision. It's the tool you reach for most in fall, the one that determines whether battery power actually keeps up with what you're asking of it. I've spent the last several seasons testing cordless blowers across different platforms, and the question I get most often isn't really about one blower. It's about whether a single battery system can run everything without compromises. That context matters here, and I'll come back to it.

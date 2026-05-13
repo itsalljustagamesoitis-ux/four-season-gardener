@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is Grade A teak and why does it matter for outdoor dining sets?"
+    answer: "Grade A teak comes from the mature heartwood of the teak tree, which has the highest natural oil content and density. This makes it the most weather-resistant grade — it resists rot, warping, and insects without any treatment, which is why quality outdoor furniture specifies it."
+  - question: "Does a teak outdoor dining set need to be oiled or sealed?"
+    answer: "Teak does not need oil or sealant to remain structurally sound — its natural oils provide protection. However, without oiling, teak weathers to a silver-gray patina within one to two seasons. If you prefer the warm honey-brown color, apply teak oil once or twice a year."
+  - question: "Can a round teak dining set stay outside year-round?"
+    answer: "Yes — teak is one of the few hardwoods that holds up through freeze-thaw cycles, rain, and humidity without deteriorating. A breathable furniture cover during winter prolongs the finish, but the wood itself will not rot or crack from outdoor exposure."
+  - question: "How many people does a round teak outdoor dining set seat comfortably?"
+    answer: "A standard 5-piece set with four chairs seats four adults comfortably. A round table around 48 inches in diameter is ideal for four; if you need to seat five or six, look for a set with a 54–60 inch table and matching additional chairs."
+  - question: "Is a round teak dining set worth the price compared to HDPE alternatives?"
+    answer: "Teak's main advantages over HDPE are aesthetics and long-term resale value — it looks and feels like genuine wood because it is. HDPE is more maintenance-free and typically cheaper. If budget is the priority or you want zero-maintenance furniture, HDPE is a reasonable alternative; if you want the warmth and prestige of real hardwood, Grade A teak justifies the premium."
 ---
 
 If you're shopping for a round teak outdoor dining set and finding the market cluttered with HDPE plastic dressed up to look like wood, the [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-casual-sierra-teak-dining-set) is a straightforward answer to that frustration. This is actual teak. Grade A teak, milled and assembled into a five-piece set that includes a round table with an umbrella hole and four armrest chairs with seat pads. The price reflects that. Currently around $1,100 to $1,300 depending on when you're reading this and whether Amazon is running a promotion. Whether that's justified is what this review is about.

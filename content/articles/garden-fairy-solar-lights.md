@@ -42,6 +42,17 @@ products:
 tags: ["lighting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long do garden solar fairy lights stay lit each night?"
+    answer: "Most solar garden lights run 6–10 hours on a full charge, depending on the size of the solar panel and battery capacity. After a full day of direct sun exposure, expect them to stay lit through the night; partial shade will reduce runtime significantly."
+  - question: "Do solar garden fairy lights work in cloudy or shady gardens?"
+    answer: "They work, but with reduced performance. Solar lights need at least 4–6 hours of direct or bright indirect sun to fully charge. In shaded gardens, look for models with a larger separate solar panel that can be positioned in a sunnier spot while the lights go where you want them."
+  - question: "How long do the batteries in solar garden lights last before they need replacing?"
+    answer: "Most solar lights use built-in rechargeable NiMH or lithium batteries that degrade over 2–4 years of daily charge cycles. Some quality lights allow battery replacement to extend the product's life; budget models with sealed batteries typically become unreliable after 2–3 seasons."
+  - question: "Are solar garden fairy lights weatherproof enough to leave out year-round?"
+    answer: "IP65-rated or higher solar lights are weatherproof enough for year-round outdoor use including rain and snow. Lights with lower ratings or exposed wire strands should be brought in or covered during prolonged wet or freezing conditions to prevent premature failure."
+  - question: "What color temperature looks best for garden fairy lights?"
+    answer: "Warm white (2700K–3000K) is the most popular choice for garden ambiance as it mimics candlelight and flatters foliage. Cool white or daylight LEDs look harsher and are better suited to security or task lighting rather than decorative garden use."
 ---
 
 Solar fairy lights get a lot of search traffic and, in my experience, a lot of disappointed buyers. The category sits in an awkward middle ground: too decorative for people who need real illumination, not decorative enough for people who want something that looks genuinely good after dark. Most of what's sold under "garden fairy solar lights" is thin wire with cold-white LEDs that flatten the minute you install it, and half of it stops charging reliably by the second summer.

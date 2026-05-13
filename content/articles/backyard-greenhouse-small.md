@@ -28,6 +28,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the smallest practical backyard greenhouse size for year-round growing?"
+    answer: "A 6x8 foot freestanding kit or a lean-to model in the 4x8 range is the smallest footprint that gives you standing access and enough thermal mass to make a meaningful difference on cold nights. Structures smaller than this are effectively cold frames — useful for season extension but not for year-round growing."
+  - question: "Do small backyard greenhouses require permits?"
+    answer: "Many municipalities allow accessory structures under a certain footprint (often 100–120 square feet) without a permit. A 6x8 greenhouse at 48 square feet typically falls below that threshold, but lean-to models attached to a house structure can trigger different rules. Check with your local building department before purchasing."
+  - question: "What is the advantage of a lean-to greenhouse over a freestanding small greenhouse?"
+    answer: "A lean-to attaches to an existing house wall, which provides structural support and passive heat transfer from the building — reducing heating costs significantly. It also minimizes footprint on small properties. The tradeoff is that it requires a south- or west-facing wall to get adequate light."
+  - question: "How much does a small backyard greenhouse extend the growing season?"
+    answer: "A properly insulated small greenhouse with twin-wall polycarbonate panels can add 4–8 weeks of growing season at each end of summer in most temperate climates. In USDA Zones 6 and warmer, cold-season crops can often be grown throughout winter without supplemental heat."
+  - question: "Is polycarbonate or glass better for a small backyard greenhouse?"
+    answer: "Polycarbonate is the standard in this category for good reason — it's lighter, doesn't shatter, handles freeze-thaw cycles without cracking, and twin-wall versions insulate better than single-pane glass. Glass greenhouses look better and are easier to clean but cost significantly more and pose breakage risk in hail-prone areas."
 ---
 
 If your backyard measures less than a quarter acre, or your "garden" is technically a patio with ambitions, the phrase "backyard greenhouse small" probably describes exactly what you're looking for. Not a commercial growing operation. Not a 10x20 freestanding structure that requires a permit and a landscaper. Something that fits between the fence and the deck, extends your season by two months on each end, and doesn't become a structural project requiring a weekend with your brother-in-law and a level.

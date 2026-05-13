@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the POLYWOOD Nautical Rocker actually made of teak?"
+    answer: "No — despite the teak color option, it is made from HDPE (high-density polyethylene) recycled plastic lumber. The teak color runs through the material and resists fading, but it is not wood of any kind."
+  - question: "How heavy is the POLYWOOD Nautical Rocker, and can I move it easily?"
+    answer: "It weighs approximately 38 pounds, which is significantly heavier than comparable aluminum or resin rocking chairs. It's designed to stay in one spot — moving it casually around a patio is not practical for most people."
+  - question: "Does a POLYWOOD teak-color rocking chair require any maintenance?"
+    answer: "No staining, sealing, or painting is required. Occasional cleaning with soap and water is all that is needed to keep HDPE lumber looking its best. Unlike real teak, it will not gray, crack, or require annual oiling."
+  - question: "Can a POLYWOOD rocking chair stay outside in winter without damage?"
+    answer: "Yes — HDPE is fully weatherproof and freeze-thaw resistant. The stainless steel hardware on the POLYWOOD Nautical Rocker is also corrosion-proof, so the chair can remain outside year-round in all climates without deteriorating."
+  - question: "How does POLYWOOD compare to real teak for an outdoor rocking chair?"
+    answer: "Real teak offers a richer, more natural wood aesthetic and develops a distinguished silver patina over time, but requires oiling 1–2 times per year to maintain its color. POLYWOOD is virtually maintenance-free, more resistant to weathering, and typically less expensive — the right choice depends on whether natural wood appearance or zero maintenance is your priority."
 ---
 
 If you've spent any time looking at outdoor teak rocking chairs, you already know the options split into two camps: actual teak (expensive, maintenance-heavy, beautiful) and everything else. The [POLYWOOD Nautical Rocker in teak color](product:polywood-nautical-rocker-teak) sits in an interesting third category. It's not teak. It doesn't pretend to be. What it is, is a premium recycled plastic lumber chair designed to look like the classic nautical rocker, hold up through whatever weather you can throw at it, and still be on your porch in fifteen years. Whether that trade-off works for you depends on what you actually want from a chair.

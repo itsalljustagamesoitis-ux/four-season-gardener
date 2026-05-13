@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes Sunbrella fabric better than standard polyester for outdoor cushions?"
+    answer: "Sunbrella is solution-dyed acrylic, meaning the color is baked into the fiber rather than applied on top — so it doesn't fade after a season in direct sun the way polyester-covered cushions do. It's also inherently mold- and mildew-resistant, which matters for cushions that get rained on regularly."
+  - question: "Does Sunbrella fabric come with a warranty?"
+    answer: "The Sunbrella fabric itself carries a 5-year limited warranty against fading from sun exposure. This covers the fabric's performance, not the full cushion construction — the fill, zipper, and stitching are covered separately under the cushion manufacturer's own warranty terms."
+  - question: "What fill type should I choose for RSH Decor Sunbrella Adirondack cushions?"
+    answer: "For chairs that sit uncovered between uses, the quick-dry polyester fill is worth the slight upcharge — it dries significantly faster after rain than standard polyester. High-density foam feels firmer and holds its shape longer but can stay damp for hours after getting wet."
+  - question: "How do I clean Sunbrella chair cushions?"
+    answer: "Sunbrella covers can be removed via zipper and machine-washed on a gentle cycle with mild soap. For spot cleaning, a solution of mild dish soap and cool water works well — avoid bleach alternatives that can break down the acrylic fibers over time. Air-dry only; don't put Sunbrella covers in a dryer."
+  - question: "How do I know if the RSH Decor 25x25 cushion will fit my Adirondack chair?"
+    answer: "Measure your existing seat depth and back height before ordering. The 25\"x25\" set is a common Adirondack size but not universal — chairs with wider seats, taller backs, or non-standard angles may need a different size. Getting the measurement wrong on a bulky cushion means an awkward return process."
 ---
 
 If your Adirondack chairs are sound but the cushions look like they've been through three bad summers, replacing the fabric is a smarter move than replacing the furniture. Good outdoor frames last decades. Cushion fabric, depending on what it's made from, often doesn't. The [RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"](product:rsh-decor-sunbrella-deep-seat-cushion) sits squarely in the category of cushions worth buying once and not thinking about again for a long time. Whether that's true in practice is what this review is about.

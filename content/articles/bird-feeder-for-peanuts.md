@@ -42,6 +42,17 @@ products:
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What type of peanut feeder works best for woodpeckers?"
+    answer: "Woodpeckers prefer mesh tube or cage-style peanut feeders that let them cling and peck whole peanuts out. Avoid smooth-sided feeders — woodpeckers need textured surfaces to brace against while feeding."
+  - question: "Should I use whole peanuts or shelled peanuts in a peanut feeder?"
+    answer: "Whole in-shell peanuts attract blue jays and larger woodpeckers, while shelled peanuts (peanut hearts) appeal to smaller birds like nuthatches, chickadees, and titmice. Many feeders are designed for one or the other, so check the mesh size before buying."
+  - question: "How do I keep squirrels out of a peanut feeder?"
+    answer: "Use a weight-activated feeder that closes ports when a squirrel's heavier body lands, or mount the feeder on a pole with a squirrel baffle. Hanging feeders at least 10 feet from trees and structures also helps."
+  - question: "How often should I refill a peanut bird feeder?"
+    answer: "Peanuts can go rancid or grow mold quickly in warm or humid weather, so check the feeder every 1–2 days and refill only what birds will consume within a day or two. In cooler weather you can refill every 3–5 days."
+  - question: "Do peanut feeders attract different birds than seed feeders?"
+    answer: "Yes — peanut feeders specifically attract birds that rarely visit seed feeders, including red-bellied woodpeckers, white-breasted nuthatches, blue jays, Carolina wrens, and brown creepers. Adding a peanut feeder alongside a seed feeder significantly increases species diversity in your yard."
 ---
 
 Peanuts are one of the most reliable ways to attract a specific tier of bird: nuthatches, woodpeckers, blue jays, chickadees, titmice. If you've been putting out mixed seed in a standard tube feeder and wondering why your woodpecker sightings are inconsistent, seed mix is probably why. Peanuts change the visitor list, and a feeder designed for them changes the experience.

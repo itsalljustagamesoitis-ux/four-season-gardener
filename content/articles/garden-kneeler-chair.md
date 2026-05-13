@@ -42,6 +42,17 @@ products:
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is a garden kneeler chair and how does it work?"
+    answer: "A garden kneeler chair is a dual-function tool that flips between a foam-padded kneeling bench and a low seat. When used as a kneeler, the side handles give you a stable surface to push against when standing back up, which significantly reduces knee and back strain."
+  - question: "How much weight can a garden kneeler chair hold?"
+    answer: "Most steel-frame garden kneeler chairs are rated for 250–330 lbs. Check the specific product's weight rating before purchasing, especially if you plan to use the seat function regularly, as the frame takes more load when sitting than kneeling."
+  - question: "Are garden kneeler chairs suitable for people with bad knees or limited mobility?"
+    answer: "Yes — the side handles are specifically designed to help gardeners with limited mobility push up from a kneeling or seated position without straining joints. The foam padding also reduces pressure on knee caps compared to kneeling directly on soil or gravel."
+  - question: "Can I leave a garden kneeler chair outside permanently?"
+    answer: "Most garden kneeler chairs have a steel frame that will rust if left outdoors through wet seasons. Store it in a shed or garage when not in use, or cover it during rain. The EVA foam pad itself is water-resistant but may degrade faster with prolonged UV exposure."
+  - question: "What thickness of foam pad should I look for in a garden kneeler?"
+    answer: "Look for at least 1 inch of foam thickness for light work on soft soil; 1.5–2 inches is better for hard surfaces like concrete, gravel, or paving where the ground provides no give. The Gorilla Grip and Ohuhu pads are in the 1.5-inch range, which covers most situations."
 ---
 
 If your knees have started to register an opinion about ground-level work, you've probably already spent ten minutes staring at garden kneeler chairs on Amazon and closed the tab without buying anything. Too many options, too little useful information. This article cuts through it. I've covered the products that actually show up in gardeners' carts, assessed them honestly, and told you which one I'd put my own money on. All of these fall into the [Hand Tools](/hand-tools/) category in the practical sense: they go out with you, they sit next to the bed you're working, and they either hold up or they don't.

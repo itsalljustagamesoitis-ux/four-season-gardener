@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between counter height and bar height outdoor stools?"
+    answer: "Counter-height stools have a seat around 24 to 26 inches tall and pair with surfaces that are 34 to 36 inches high. Bar-height stools sit at 28 to 30 inches and are designed for bar tables or surfaces at 40 to 42 inches. The POLYWOOD Nautical stool in this roundup sits at 30 inches, which straddles the upper end of counter height and works for both."
+  - question: "How much weight can outdoor counter-height HDPE bar stools hold?"
+    answer: "Weight capacity varies by model. The Giantex tall Adirondack stools reviewed here are rated to 360 lbs per stool. Always check the specific product spec before purchasing if this is a concern."
+  - question: "Do HDPE outdoor bar stools fade in the sun over time?"
+    answer: "Quality HDPE lumber uses color pigment throughout the material, not just as a surface coat, so fading is minimal even after years of UV exposure. Cheap painted versions of HDPE will fade; solution-dyed or through-color HDPE will not."
+  - question: "Can outdoor counter height stools be used with a standard kitchen island?"
+    answer: "Yes, if your outdoor kitchen island or prep counter sits at 36 inches — the standard kitchen counter height — a 24 to 26-inch counter-height stool is the right fit. A 30-inch bar-height stool will feel too tall at a 36-inch surface."
+  - question: "Is HDPE or teak better for outdoor counter-height bar stools?"
+    answer: "HDPE is maintenance-free and virtually indestructible outdoors, making it the practical choice for most buyers. Teak develops a distinguished silver patina over time and can last decades, but requires oiling 1–2 times per year to keep its original color."
 ---
 
 Counter-height seating is one of those outdoor furniture decisions that sounds simple until you're standing in a showroom holding a tape measure and second-guessing everything. Bar stools for outdoor use need to be weather-resistant enough to stay outside, sturdy enough not to wobble after a season, and tall enough to actually pair with your bar table or kitchen-counter-height surface without turning every gathering into an ergonomic complaint session.

@@ -28,6 +28,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How do deer repellent granules work compared to spray repellents?"
+    answer: "Granules create a ground-level scent barrier that deer encounter before entering a bed, while sprays coat foliage directly and work on contact. Granules are better suited for perimeter protection and areas where spraying foliage is impractical, such as around tree bases or along pathways."
+  - question: "How often do I need to reapply deer repellent granules?"
+    answer: "Most granule products need reapplication every 30–60 days, though rain and irrigation can accelerate breakdown. Check the perimeter after significant rainfall and refresh any areas where the granule line has been washed or scattered."
+  - question: "Are deer repellent granules safe around pets and children?"
+    answer: "Most granule formulas use natural compounds like putrescent egg, garlic, or blood meal and are not acutely toxic, but you should keep pets away from freshly applied areas and wash hands after handling. Always read the specific product label for safety precautions."
+  - question: "Can deer repellent granules protect a whole yard or just garden beds?"
+    answer: "Granules work best as a perimeter barrier along fence lines, bed edges, and entry points rather than broadcast across an entire yard. For large properties, combine granules at key access points with a spray repellent applied directly to high-value plants."
+  - question: "Do deer repellent granules lose effectiveness in wet climates?"
+    answer: "Yes — rain and irrigation dissolve granules faster, shortening the effective window significantly in wet regions. In high-rainfall areas, a motion-activated sprinkler provides a more weather-independent deterrent that doesn't degrade with moisture."
 ---
 
 If you're finding chewed hostas at dawn and hoof prints in the mud by the bird bath, you already know what deer pressure looks like. The question isn't whether to do something about it. The question is what actually works, applied consistently, without turning your property into a chemistry experiment or a booby trap.

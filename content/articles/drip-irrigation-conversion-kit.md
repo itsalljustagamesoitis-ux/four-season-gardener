@@ -32,6 +32,17 @@ product_a: "dig-ge200-drip-kit"
 product_b: "rain-bird-lnddripkit"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What tools do I need to install a drip irrigation conversion kit?"
+    answer: "Most kits require only a punch tool to create emitter holes in the main tubing, plus the fittings and stakes included in the box. A hose timer is essential but is typically sold separately — budget for one before you buy the kit."
+  - question: "How many plants can a 122-piece drip kit like the DIG GE200 cover?"
+    answer: "A 122-piece kit can cover around 20–30 individual plants depending on spacing and layout, or a combination of drip emitters for containers and micro-sprinklers for ground beds. Larger plantings or multiple zones may require additional tubing and emitters."
+  - question: "What is the difference between drip emitters, micro-bubblers, and micro-sprays?"
+    answer: "Drip emitters deliver water slowly at a single point — ideal for individual plants and containers. Micro-bubblers flood a small area slowly, suitable for shrubs. Micro-sprays distribute water over a wider radius, working better for dense ground cover or mixed flower beds."
+  - question: "Does a drip irrigation conversion kit work with low water pressure?"
+    answer: "Drip systems generally perform well at lower pressures than sprinkler systems, but most kits recommend a minimum of 20–25 PSI at the faucet. If your pressure is very low or variable, add a pressure regulator to the hose connection to protect emitter performance."
+  - question: "Is Rain Bird or DIG better for a beginner setting up drip irrigation?"
+    answer: "Both are beginner-friendly, but the DIG GE200's 122-piece count gives more flexibility for mixed plantings right out of the box. Rain Bird's kit offers three distinct emitter types, which is useful if you have varied plant types but don't need as many total outlets."
 ---
 
 Most drip irrigation conversion kits promise the same thing: take your existing hose connection and turn it into a slow, targeted watering system without hiring anyone or digging anything up. The honest difference between kits isn't the promise, it's what you get when you open the box and what you're actually left solving on your own. The [DIG GE200 Drip & Micro Sprinkler Kit, 122-Piece](product:dig-ge200-drip-kit) and the [Rain Bird LNDDRIPKIT Drip Irrigation Landscape Kit](product:rain-bird-lnddripkit) both sit in the budget tier, both connect to a standard garden hose, and both can water a mixed planting without an in-ground system. That's where the similarity ends.

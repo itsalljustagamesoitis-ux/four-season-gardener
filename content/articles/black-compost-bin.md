@@ -42,6 +42,17 @@ products:
 tags: ["composting", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why are most compost bins black?"
+    answer: "Black absorbs solar heat, which raises the internal temperature of the bin and accelerates microbial decomposition. A warm compost pile can break down kitchen and yard waste significantly faster than a cold pile, especially in spring and fall."
+  - question: "How big a compost bin do I need for a typical household?"
+    answer: "A single household of 2–4 people typically generates enough organic waste to fill a 37–65 gallon bin over a season. Larger gardens or households that compost yard clippings and leaves will benefit from dual-chamber models or multiple bins."
+  - question: "Do I need to turn a black compost bin regularly?"
+    answer: "Tumbler-style bins on a frame need turning every few days to aerate the pile and speed decomposition. Stationary ground-level bins with vented walls can work with less frequent turning, though turning every 1–2 weeks still accelerates the process significantly."
+  - question: "Will a black plastic compost bin attract rodents?"
+    answer: "Enclosed tumbler bins elevated off the ground offer the best rodent resistance. Open-bottom stationary bins allow ground access, so in rodent-heavy areas it's wise to line the bottom with hardware cloth. Avoid adding meat, dairy, or cooked foods to any compost bin to reduce odors that attract pests."
+  - question: "How long does it take a black compost bin to produce finished compost?"
+    answer: "A hot, actively turned tumbler bin can produce finished compost in 4–8 weeks. A passive stationary bin with minimal turning typically takes 3–6 months. Shredding materials before adding them and maintaining the right carbon-to-nitrogen ratio speeds up both methods."
 ---
 
 Black is the right color for a compost bin, and not for aesthetic reasons. The dark exterior absorbs heat, which accelerates microbial activity and speeds breakdown. Most manufacturers figured this out years ago, which is why nearly every serious composter on the market is black. What varies is everything else: capacity, design, whether you have to turn it manually, whether it sits on the ground or spins on a frame, and whether it'll survive three winters without cracking at the seams.

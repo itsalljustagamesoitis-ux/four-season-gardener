@@ -42,6 +42,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Why does a hot tub gazebo need sides instead of just a roof?"
+    answer: "A hot tub without side enclosures provides no wind block or privacy protection, and steam escapes rapidly in cold weather making the experience uncomfortable. Sides with curtains or solid panels retain warmth, block wind-driven rain, and give you privacy from neighbors."
+  - question: "What is the best material for a hot tub gazebo frame?"
+    answer: "Powder-coated aluminum is the most durable choice for a wet, high-humidity hot tub environment because it won't rust or rot. Cedar is a natural alternative that resists moisture without chemical treatment but requires restaining every 2–3 years to maintain its appearance."
+  - question: "Does a hot tub gazebo need a vented roof?"
+    answer: "Yes — vented double-roof designs like the Purple Leaf 12x14 are purpose-built to release steam that rises from a hot tub. Without venting, steam condenses inside the structure, leading to moisture damage, mold, and reduced visibility."
+  - question: "Can I install a hot tub gazebo over an existing deck?"
+    answer: "Most permanent gazebos require anchoring to a level, stable base, which can be a concrete pad, deck framing, or compacted gravel. Check the manufacturer's anchoring requirements for your specific model, as some require footings that may require permits depending on your local building codes."
+  - question: "How does a hot tub gazebo compare to a pergola for year-round use?"
+    answer: "Open-frame pergolas provide shade but no wind, rain, or privacy protection, making them poorly suited for year-round hot tub use. A purpose-built gazebo with a solid or polycarbonate roof and curtained sides delivers the enclosure needed for comfortable use in cold or wet weather."
 ---
 
 The search term "hot tub gazebo with sides" gets typed in by people who want something specific: a structure that goes over or around a hot tub and actually blocks wind, rain, and prying eyes. What they often find instead are open pergolas, bare-frame kits, and fabric canopy gazebos that will look tired within two seasons. This roundup covers four structures worth considering, plus a clear recommendation if you want to skip straight to it.

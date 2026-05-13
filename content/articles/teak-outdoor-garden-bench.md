@@ -28,6 +28,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a Grade A and non-Grade A teak garden bench?"
+    answer: "Grade A teak is cut from the dense, oil-rich heartwood of mature trees and has the highest natural resistance to moisture, UV, and insects. Non-Grade A (B or C) teak comes from younger trees or outer wood with lower oil content — it weathers faster, requires more frequent treatment, and typically develops cracks or checking within a few seasons outdoors."
+  - question: "How wide should an outdoor garden bench be to seat two adults?"
+    answer: "A bench 48 to 60 inches wide (4 to 5 feet) comfortably seats two adults without feeling cramped. At 45 inches or less, two adults have limited elbow room; at 60 inches, the seat feels spacious and can accommodate a third person in a pinch."
+  - question: "Is a bow-back garden bench more comfortable than a flat-back bench?"
+    answer: "Yes — a bow-back design curves the backrest to follow the natural shape of the human spine, distributing support more evenly and reducing fatigue during longer periods of sitting. Flat-back benches are fine for brief rests but become uncomfortable for extended seating because they contact only the upper back."
+  - question: "Does a teak garden bench need to be covered or stored in winter?"
+    answer: "Solid teak garden benches can overwinter outdoors without structural damage in most climates, including those with hard freezes. Using a furniture cover protects against debris and slows surface weathering, but it is not required for the wood to survive the season intact."
+  - question: "What weight capacity should I look for in a 2-person outdoor garden bench?"
+    answer: "A two-person bench should ideally support at least 500 lbs to accommodate two larger adults safely. Some models, like the Sunnydaze Mission-style teak bench, are rated to 675 lbs — meaningfully above average and worth prioritizing if you have heavier users or expect the bench to see regular use by multiple people."
 ---
 
 A teak outdoor garden bench is one of those purchases where the difference between a good one and a mediocre one shows up slowly. The first season, everything looks fine. By year three, you know whether you bought furniture or you bought a maintenance project. I've had both on this property, and the gap in experience is significant enough that I'm not inclined to soften the comparison.

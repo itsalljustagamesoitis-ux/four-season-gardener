@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does the EGO HTA2000 hedge trimmer attachment work without the power head?"
+    answer: "No — the HTA2000 is an attachment only and requires the EGO PH1400E Multi-Head Power System power head to operate. The attachment has no motor of its own and cannot be used as a standalone tool."
+  - question: "What battery does the EGO hedge trimmer attachment use?"
+    answer: "The HTA2000 runs on EGO's 56V ARC Lithium batteries through the PH1400E power head. Any EGO 56V battery fits the power head, so if you already own EGO tools you can use your existing batteries."
+  - question: "How long can I reach with the EGO hedge trimmer attachment on the power head?"
+    answer: "The PH1400E power head has a telescoping shaft that extends your total reach significantly beyond shoulder height, typically allowing you to trim hedges up to 8–10 feet from the ground without a ladder. Exact reach depends on the user's height and the specific shaft extension position."
+  - question: "Is the EGO hedge trimmer attachment worth buying if I already own the PH1400E power head?"
+    answer: "At $100–$120, the HTA2000 is a cost-effective way to add pole hedge trimming capability if you already own the power head — you avoid buying a separate dedicated tool and a separate battery. If you don't own the power head, a dedicated pole hedge trimmer may offer better value."
+  - question: "How does the EGO HTA2000 compare to a dedicated pole hedge trimmer?"
+    answer: "Purpose-built pole hedge trimmers like the EGO HT2411DP offer longer blades (24 inches) and are optimized for extended overhead use. The HTA2000 is a practical add-on for existing EGO system users but isn't the best choice if hedge trimming is your primary or only need."
 ---
 
 The [EGO POWER+ HTA2000 20" Hedge Trimmer Attachment](product:ego-hta2000-hedge-trimmer-attachment) is not a standalone tool. That's the first thing to say, and it's the thing most people skip over before buying. It's an attachment for the EGO Multi-Head Power System, which means you need the PH1400E power head to run it. If you already own one, this attachment is a reasonable buy at around $100 to $120. If you don't own the power head, you're looking at a combined investment closer to $280 to $320 depending on current pricing and where you buy. That changes the math considerably, and any review that doesn't say so upfront is wasting your time.

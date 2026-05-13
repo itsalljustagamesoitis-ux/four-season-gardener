@@ -42,6 +42,17 @@ products:
 tags: ["outdoor-furniture", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between counter-height and bar-height tall Adirondack chairs?"
+    answer: "Counter-height Adirondack chairs have seat heights around 24 inches and pair with 34- to 36-inch tables. Bar-height chairs sit at 28 to 30 inches and pair with 40- to 42-inch bar tables. These heights are not interchangeable, so measure your table before choosing a seat height."
+  - question: "Are tall Adirondack chairs made from HDPE as durable as standard ones?"
+    answer: "Yes — HDPE (high-density polyethylene) tall Adirondack chairs are just as weatherproof and low-maintenance as standard HDPE Adirondack chairs. HDPE doesn't rot, splinter, crack, or require painting, making it one of the most durable outdoor chair materials available at any seat height."
+  - question: "Can I use a tall Adirondack chair around a fire pit without a table?"
+    answer: "Yes — tall Adirondack chairs work well around fire pits even without a table. For this use, counter height (around 24 inches) tends to be more comfortable over a long evening than bar height (28–30 inches), as the posture is slightly more relaxed and reclined."
+  - question: "How much weight can tall HDPE Adirondack chairs support?"
+    answer: "Weight ratings vary by model. The Giantex tall Adirondack is rated to 360 lbs, which is typical for quality HDPE construction. Check the specific weight rating before purchasing, especially for heavier users, as budget models may have lower limits."
+  - question: "Do teak tall Adirondack chairs require more maintenance than HDPE versions?"
+    answer: "Yes — Grade A teak requires oiling every 1 to 2 years to maintain its golden-brown color. Without treatment, teak weathers naturally to a silver-gray patina, which is stable and non-damaging but a significant aesthetic change. HDPE chairs require no oiling, painting, or sealing."
 ---
 
 The tall Adirondack chair is a specific solution to a specific problem: standard Adirondack chairs sit low, which is fine until you're pairing them with a bar-height table, working off a raised deck, or simply at a point in life where getting up from 12 inches off the ground has stopped being amusing. Counter-height and bar-height versions sit anywhere from 24 to 30 inches at the seat, which changes the geometry entirely. You sit in them rather than collapsing into them, and you stand up without the two-stage maneuver that low Adirondacks require.

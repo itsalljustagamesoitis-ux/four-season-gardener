@@ -49,6 +49,17 @@ products:
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are electric wall-mounted patio heaters as effective as propane patio heaters?"
+    answer: "Electric infrared wall heaters deliver heat comparably to propane for covered patios and pergolas, but with faster startup (typically under 30 seconds) and no fuel logistics. Propane still wins in open or windy spaces where the radiant warmth from infrared can dissipate before reaching occupants, but for enclosed or semi-enclosed patios, electric is often the better practical choice."
+  - question: "What wattage do I need in a wall-mounted electric patio heater?"
+    answer: "For a small covered patio up to about 100 square feet, a 1,500-watt unit is typically sufficient. Larger patios of 150 to 300 square feet generally need 2,000 to 3,000 watts or multiple units positioned for even coverage — ambient temperature and how exposed the space is to wind significantly affect the sizing calculation."
+  - question: "Can a wall-mounted patio heater be used under a covered porch or pergola?"
+    answer: "Yes — wall-mounted electric infrared heaters are specifically designed for covered outdoor spaces where they can reflect radiant heat downward without exposure to direct rain. Most models carry an IP65 or IP55 weatherproof rating suitable for sheltered outdoor use; check the rating before installing in any space where the heater could contact moisture."
+  - question: "How difficult is it to install a wall-mounted patio heater?"
+    answer: "Most electric wall-mounted patio heaters mount similarly to a large light fixture — a bracket attaches to the wall with screws, and the unit plugs into a standard 120V or 240V outdoor outlet. Units requiring a 240V circuit need a dedicated outlet installed by an electrician if one is not already present near your intended mounting location."
+  - question: "Do wall-mounted patio heaters work in cold climates, or only in mild weather?"
+    answer: "Infrared wall heaters work by warming objects and people directly rather than heating the air, so they remain effective in cold temperatures as long as occupants are within the radiant field. In very cold climates (below 20°F), most units become supplemental rather than primary heat sources, and a higher-wattage model or multiple units will be needed to maintain comfort."
 ---
 
 If you've been heating your patio with a freestanding propane unit, you already know the problems: tanks to swap, floor space eaten up by a stand, and a heater that tips over if the wind catches it wrong. A wall mounted patio heater solves most of that. Fixed position, no floor footprint, and on an electric model, no fuel logistics at all. You flip a switch and the heat arrives in about 30 seconds.

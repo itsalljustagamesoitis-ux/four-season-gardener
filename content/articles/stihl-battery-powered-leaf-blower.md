@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the EGO LB6504 a good alternative to a Stihl battery leaf blower?"
+    answer: "Yes — for shoppers who need to buy online, the EGO LB6504 is a strong alternative to Stihl's cordless blowers. At 650 CFM it matches or exceeds the output of most Stihl handheld cordless models, and it's available on Amazon with Prime shipping, whereas Stihl's battery lineup is dealer-only in the US."
+  - question: "How long does the EGO LB6504 run on a single charge?"
+    answer: "EGO rates the included 5.0Ah battery at approximately 45 minutes at variable speed, but in practice you can expect closer to 35 minutes at sustained high output, particularly in cold weather. Lower speed settings extend runtime significantly for lighter cleanup work."
+  - question: "What is the difference between the turbo button and standard variable speed on the EGO LB6504?"
+    answer: "The variable-speed trigger lets you dial in airflow from low to high continuously, while the turbo button delivers on-demand maximum output (650 CFM) with a single press. The turbo mode is most useful for dislodging compacted wet leaves from tight spots or along edges."
+  - question: "Does the EGO LB6504 kit include a battery and charger?"
+    answer: "Yes — the kit version includes the blower, a 5.0Ah 56V ARC Lithium battery, and a rapid charger for around $249 on Amazon. The rapid charger brings the 5.0Ah battery from empty to full in approximately 40 minutes, making it practical to recharge mid-session on large properties."
+  - question: "Why is the EGO blower's nozzle diameter considered a trade-off?"
+    answer: "The 2.5-inch nozzle diameter is slightly wider than some competitors, which is excellent for high-volume leaf clearing but makes the blower less precise in tight spaces like narrow planting beds or corners. If you frequently need to direct air into confined areas, a narrower-nozzle blower may serve you better for that specific task."
 ---
 
 The Stihl battery blower conversation usually starts with the same question: is it actually worth leaving gas behind? I ran the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) through a full fall season on twelve acres of mixed hardwood and lawn to find out. The short answer is yes, with conditions.

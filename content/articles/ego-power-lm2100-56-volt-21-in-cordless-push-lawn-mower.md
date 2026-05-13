@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long does the EGO LM2135SP battery last on a single charge?"
+    answer: "The included 7.5Ah 56V battery delivers up to 60 minutes of runtime under typical conditions, which is enough to mow approximately half an acre to an acre of maintained lawn. Tall or wet grass, inclines, and bag mode all reduce runtime."
+  - question: "Does the EGO LM2135SP come with a battery and charger?"
+    answer: "The kit version includes a 7.5Ah battery and rapid charger; the bare tool version does not. Given that the 7.5Ah battery alone sells for around $249, the kit is significantly better value for buyers new to the EGO platform."
+  - question: "What is the difference between the LM2100 and the LM2135SP?"
+    answer: "The LM2135SP is the current self-propelled model with EGO's Select Cut multi-blade system and Touch Drive variable-speed propulsion. The LM2100 was an earlier push-mower model without self-propel — if you see the LM2100 listed, confirm you're buying the current specification."
+  - question: "Can the EGO LM2135SP handle slopes and uneven terrain?"
+    answer: "Yes — the self-propel system is effective on moderate slopes and the mower's weight provides stability. Very steep inclines (above 15 degrees) are better handled with a wheeled drive that can be manually adjusted rather than relying on the automatic pace-matching system alone."
+  - question: "How much lawn can the EGO LM2135SP mow on a single charge?"
+    answer: "In real-world conditions on maintained grass, expect to cover 0.5–1 acre per charge with the 7.5Ah battery. A second battery or the optional 10Ah pack extends that range for larger properties without the need to stop and wait for a charge."
 ---
 
 The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) sits at the serious end of the battery-powered mower market, and it earns that position. I've been running it across roughly three acres of mixed terrain on my Litchfield County property for two full mowing seasons, and my assessment is straightforward: this is the machine that finally made me stop defending gas mowers to skeptical neighbors. Not because it's perfect, but because the tradeoffs have shifted decisively in EGO's favor. If you're already invested in the EGO 56V platform, or considering building a [battery-powered tool ecosystem](/battery-equipment/), the LM2135SP deserves a direct look.

@@ -21,6 +21,17 @@ products:
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What hardware do I need to hang a teak porch swing from a ceiling or beam?"
+    answer: "Most teak porch swings, including the All Things Cedar TS50, ship with hanging ropes but not the S-hooks and chain needed for ceiling-mount installations. Plan to purchase heavy-duty galvanized or stainless S-hooks and chain rated for at least double your expected load — an additional $20 to $40 depending on your ceiling height and preferred drop length."
+  - question: "How much weight can the All Things Cedar TS50 teak porch swing hold?"
+    answer: "The TS50 is rated to 500 pounds, which comfortably accommodates two average-sized adults. The 54-inch seat width means both occupants have adequate shoulder room without feeling crowded, which is not always the case with narrower 48-inch models."
+  - question: "Why does the All Things Cedar TS50 use brass hardware instead of stainless steel?"
+    answer: "Solid brass hardware is fully corrosion-proof and will not leave rust stains on the teak slats over time — a common failure mode on porch swings with plated steel hardware. Brass develops a natural patina outdoors but remains structurally sound and aesthetically neutral against the warm tone of teak."
+  - question: "How wide should a porch beam span be to safely hang a 5-foot teak swing?"
+    answer: "A 5-foot (54-inch) swing needs hanging points that are at minimum 54 inches apart, but a 6-foot or longer beam span is preferable to avoid the ropes rubbing against the posts during motion. Confirm that your beam or ceiling joists are structural members rated to hold the combined weight of the swing plus its occupants."
+  - question: "Does a teak porch swing need to be treated or oiled annually?"
+    answer: "Grade A teak naturally resists moisture and UV degradation without treatment due to its high oil content. Applying teak oil once a year will maintain the original golden-brown color; skipping treatment lets the wood weather to a silver-gray patina, which many owners prefer. Either approach is structurally sound — the choice is purely aesthetic."
 ---
 
 Teak porch swings occupy a narrow slice of the outdoor furniture market: expensive enough that a mistake stings, simple enough that the only real variables are wood quality, construction, and whether the thing will still look presentable in five years. The [All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing](product:all-things-cedar-ts50-teak-porch-swing) is currently the only major teak porch swing widely available on Amazon, which makes it easy to recommend in one sense and harder to evaluate in another. There's no obvious direct competitor sitting next to it on a shelf. So the real question isn't whether it beats the field. It's whether it's worth what they're asking. My answer is a qualified yes, with some caveats worth reading before you order.

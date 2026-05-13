@@ -42,6 +42,17 @@ products:
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What rail thickness will a deck hook for a bird feeder fit?"
+    answer: "Most deck hooks are designed to clamp onto rails 1–3 inches thick, which covers standard 2x4 lumber cap rails (nominally 1.5 inches) and most composite railing systems. Measure your rail thickness before ordering — composite rails with rounded profiles can run up to 3.5 inches and may exceed the clamp range of narrower hooks."
+  - question: "How long an arm do I need on a deck hook to keep the feeder clear of the railing?"
+    answer: "A 16–20 inch arm is ideal for most setups — it positions the feeder far enough from the railing that birds can approach from multiple angles without obstruction, and keeps the feeder seed-drop from landing directly on your deck boards. Shorter arms (under 14 inches) work in tight spaces but can result in birds feeling crowded."
+  - question: "Will a deck hook scratch my composite or vinyl railing?"
+    answer: "Many deck hooks include rubber or foam padding on the clamp jaws to protect railing surfaces. Check the product listing for pad protection before buying — bare metal clamps can mar composite or vinyl finishes over time, especially in freeze-thaw cycles when the clamp may tighten."
+  - question: "Can a deck hook hold a heavy bird feeder full of seed?"
+    answer: "Most quality deck hooks are rated for 10–30 lbs, which comfortably handles filled tube feeders and hopper feeders. Check the hook's weight rating against your filled feeder weight — a large hopper feeder holding 5+ lbs of seed plus the feeder itself can exceed the rating of undersized or flimsy hooks."
+  - question: "Is it better to buy a single deck hook or a 2-pack?"
+    answer: "A 2-pack makes sense if you want to hang multiple feeders or pair a bird feeder with a planter or suet cage — the cost per hook is usually lower and you can offer birds different food types from the same railing. A single heavy-duty hook is the better choice if you're hanging one large feeder and want maximum arm length and stability."
 ---
 
 A deck hook for a bird feeder sounds like a five-minute purchase. You'll spend longer choosing a sandwich. And yet the number of people who end up with a hook that wobbles, scratches their railing, or drops a $40 feeder onto their deck boards in the first windstorm suggests it's worth a few minutes of actual thought before you click buy.

@@ -42,6 +42,17 @@ products:
 tags: ["structures", "buyer guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does chlorine from a swimming pool damage a gazebo frame?"
+    answer: "Chlorine-laden splash and air can accelerate corrosion on uncoated or poorly coated steel frames. Powder-coated aluminum is the safest frame material for pool-adjacent installations because aluminum does not rust and resists chlorine degradation. Avoid bare or painted steel frames near pools."
+  - question: "What roof type is best for a gazebo next to a pool?"
+    answer: "A polycarbonate or galvanized steel hardtop roof is strongly preferred over fabric canopies for pool-side gazebos. Fabric degrades quickly from UV exposure and poolside moisture, typically needing replacement within 3–4 years. Hardtop roofs last a decade or more with minimal maintenance."
+  - question: "How far from the pool edge should a gazebo be placed?"
+    answer: "Check local building codes first, as many jurisdictions require a minimum setback from pool edges and have specific permit requirements for permanent outdoor structures. Practically, positioning the gazebo outside the primary splash zone (usually 6+ feet from the pool edge) protects the frame from the highest moisture exposure."
+  - question: "Can I add mosquito netting to a pool gazebo?"
+    answer: "Yes — replacement mosquito netting panels are widely available for standard 10x12 and 12x14 gazebo sizes. Universal-fit 4-panel zipper screen walls allow you to enclose the gazebo in summer evenings while keeping it open for ventilation and views during the day."
+  - question: "Do pool gazebos need to be anchored to the ground?"
+    answer: "Yes — even hardtop gazebos must be properly anchored to prevent tipping or movement in wind. Most manufacturers include ground anchors for soil installation; on a concrete deck, expansion bolt anchoring plates are used. An unanchored gazebo near a pool is a significant safety hazard."
 ---
 
 A gazebo positioned near a pool or hot tub isn't a decorative afterthought. It's a functional decision that affects how often you actually use the space, how long the structure lasts, and how much maintenance you're willing to take on. A fabric canopy that sags after two wet seasons isn't protecting anyone. A frame that rusts at the footings because it sits ten feet from a chlorinated pool is an expensive mistake.

@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Do propane fire pit tables come with a cover included?"
+    answer: "Neither the Outland Living 403 nor the Napoleon St. Tropez includes a cover in the box. Covers are sold separately and must be sized to the specific table footprint — the Outland 403's 44-inch square top takes a 44 to 46-inch square cover, while the Napoleon's rectangular footprint requires a different shape. Budget $30 to $100 for a properly fitted cover."
+  - question: "What should I look for in a propane fire pit cover material?"
+    answer: "Look for a water-resistant outer layer paired with a breathable, non-scratching inner lining. Fully waterproof covers with no breathability can trap condensation underneath, which accelerates surface oxidation on the base and corrodes regulator fittings. Avoid vinyl-only covers for extended storage."
+  - question: "Which fire table has higher heat output — the Outland 403 or the Napoleon St. Tropez?"
+    answer: "The Outland Living 403 puts out 50,000 BTU versus the Napoleon St. Tropez's 40,000 BTU. For heating a larger group or a cooler evening, the Outland wins on raw output. The Napoleon offers adjustable flame height and electronic ignition, which gives it more atmosphere control despite the lower maximum."
+  - question: "Can I convert the Napoleon St. Tropez fire table to natural gas?"
+    answer: "Yes — the natural gas conversion kit is included in the box, which is one of the Napoleon's strongest long-term value arguments. The table-side conversion is mechanical work, but connecting to a residential gas supply line requires a licensed plumber in most jurisdictions, typically a $150 to $250 service call. Once converted, you eliminate tank costs and refill logistics entirely."
+  - question: "Does the Outland Living 403 fire table double as an outdoor dining or coffee table?"
+    answer: "Yes — the tempered glass tabletop is functional as a full outdoor surface, and the burner is covered by a metal plate when not in use. This dual-purpose design is one of the Outland 403's strongest practical advantages: you get a working table and a fire feature in one footprint rather than needing two separate pieces of furniture."
 ---
 
 If you've landed on this page searching for a propane fire pit cover, you've probably already decided that a fire table beats a traditional wood-burning pit. Fair enough. No ash, no smoke drifting into your face, and you can turn it off and walk inside without waiting thirty minutes for embers to die. What you're actually trying to decide is which fire table to buy. These two products represent genuinely different points on the price-to-permanence spectrum, and this article will tell you plainly which one makes more sense for your situation.

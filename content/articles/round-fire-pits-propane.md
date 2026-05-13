@@ -32,6 +32,17 @@ product_a: "outland-living-403-fire-table"
 product_b: "napoleon-st-tropez-fire-table"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "How long does a 20 lb propane tank last in a round propane fire pit?"
+    answer: "At full output (50,000 BTU), a standard 20 lb tank typically lasts 8–10 hours. Running the burner at a lower flame setting can extend that to 15 hours or more, so most households refill once or twice per season with moderate use."
+  - question: "Can I use a round propane fire pit on a wood deck?"
+    answer: "Yes, propane fire pits are generally safer on wood decks than wood-burning pits because there are no flying embers, but you should still maintain the clearance distance specified in the manual — typically 3 feet from any combustible surface — and avoid placing the pit directly on composite decking that can warp from radiant heat."
+  - question: "What is the difference between the Outland Living 403 and the Napoleon St. Tropez?"
+    answer: "The Outland 403 is a value-focused option with a tempered glass tabletop and 50,000 BTU output, while the Napoleon St. Tropez is a premium unit with heavier aluminum construction and higher-end finishes. The Napoleon typically costs more than twice as much but offers electronic auto-ignition and natural gas conversion capability."
+  - question: "Do propane fire pit tables need to be covered when not in use?"
+    answer: "Yes — a fitted weatherproof cover protects the burner assembly and tabletop from rain, debris, and UV damage. Most propane fire pit tables are sold without covers, so budget an additional $30–$60 for a quality cover that fits your specific model."
+  - question: "Can I cook over a round propane fire pit?"
+    answer: "Most propane fire pit tables are not designed or approved for cooking — the burner placement, BTU output, and materials are optimized for ambiance, not food preparation. If you want a fire feature you can cook over, look for a propane fire pit specifically rated for cooking or a dedicated propane grill instead."
 ---
 
 Propane fire pit tables have gotten crowded enough as a category that picking one requires actual criteria, not just a budget and a size preference. Two products keep coming up in serious outdoor living discussions: the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table). They're both round propane fire pits in the broad sense of "table with fire in the middle," but they're solving different problems for different buyers. This comparison will tell you which one is actually worth your money based on what you plan to do with it. If you're still orienting yourself in the category, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub is a reasonable place to start.

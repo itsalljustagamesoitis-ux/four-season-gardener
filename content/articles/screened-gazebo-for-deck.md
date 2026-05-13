@@ -49,6 +49,17 @@ products:
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a screened gazebo be permanently installed on a wood deck?"
+    answer: "Yes, but the installation method matters — most hardtop gazebos anchor to a deck with lag bolts or post bases rather than being embedded in the ground. Check the manufacturer's anchoring requirements and confirm your deck framing can handle the added load, especially in areas with snow or high wind."
+  - question: "What is the difference between a screened gazebo and a pop-up canopy with netting?"
+    answer: "A screened gazebo has a rigid or semi-rigid frame with attached mesh panels designed for repeated use in one location, while a pop-up canopy with netting is lightweight and portable but less wind-resistant and not intended for permanent setup. For a deck you use all season, a hardtop screened gazebo offers significantly better durability and weather protection."
+  - question: "Do screened gazebos on decks require a permit?"
+    answer: "It depends on your municipality and whether the structure is permanent or temporary. Many jurisdictions require a permit for fixed structures over a certain square footage or height. Check with your local building department before anchoring a hardtop gazebo to your deck."
+  - question: "How do I keep the screen panels on a deck gazebo from tearing?"
+    answer: "Avoid using sharp furniture against the panels and remove any detachable screen walls during high-wind events. For maximum longevity, look for gazebos with reinforced mesh edges and rust-resistant frame hardware, as frame corrosion is often what causes screen panels to fail at the attachment points."
+  - question: "What size screened gazebo fits a typical 12x16 deck?"
+    answer: "A 10x12 or 12x12 gazebo fits comfortably on most 12x16 decks, leaving a small border for access and airflow. A 12x14 unit is feasible if the deck is structurally rated for it, but leaving at least 18 inches of clearance from the railing on each side is recommended for safe egress."
 ---
 
 A screened gazebo for your deck sounds straightforward until you start pricing them out, reading the fine print on warranties, and realizing that "gazebo" covers everything from a $180 pop-up canopy to a $3,000 permanent hardtop structure. This roundup focuses on what actually belongs on a deck or in a backyard garden space: structures that provide real weather and sun protection, hold up across hard winters and humid summers, and won't look embarrassed after three seasons of use.

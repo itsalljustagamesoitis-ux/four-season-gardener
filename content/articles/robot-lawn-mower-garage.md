@@ -14,6 +14,17 @@ products: []
 tags: ["battery-equipment", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do all robot lawn mower garages fit every mower brand?"
+    answer: "No — fit varies significantly between brands and models. Always measure your mower's height, width, and charging station footprint before buying, and confirm the garage's interior dimensions include at least two inches of clearance on each side."
+  - question: "Is a robot mower garage necessary if my mower is waterproof?"
+    answer: "Yes, because the charging dock is often rated to a lower IP standard than the mower itself, and direct sun accelerates plastic degradation. A garage protects both the station's contact points from corrosion and the mower's housing from UV damage."
+  - question: "What material is best for a robot lawn mower garage?"
+    answer: "Polyethylene garages are the lowest-maintenance option since they resist moisture and UV without any treatment. Wood garages look better but require pressure-treated base rails and a durable wood like cedar or teak to avoid warping and rot."
+  - question: "How much does a good robot mower garage cost?"
+    answer: "Decent freestanding garages run from about $80 to $220 depending on size and material. Compared to the cost of replacing a corroded charging dock or a UV-degraded mower, most buyers find the investment straightforward."
+  - question: "Can I use an extension cord to power the charging station inside the garage?"
+    answer: "Yes, but use an outdoor-rated extension cord and keep it as short as practical. Most charging stations ship with an eight-to-twelve foot cable, so measure the distance from your nearest outdoor outlet to the garage location before buying."
 ---
 
 If you've invested in a robot mower, you already know the first problem isn't the cutting. It's the charging, the weather exposure, and the slow degradation that comes from leaving a $1,500 piece of electronics sitting on wet grass through a Connecticut spring. A robot lawn mower garage solves all three of those problems at once, and yet most people buy one as an afterthought, if they buy one at all.

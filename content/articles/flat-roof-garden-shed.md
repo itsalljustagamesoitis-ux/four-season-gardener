@@ -21,6 +21,17 @@ products:
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do flat roof garden sheds handle rain and snow well?"
+    answer: "Flat roof sheds have a slight pitch (typically 2–5 degrees) to drain rain rather than pool it. In heavy snow regions they require more monitoring — check the manufacturer's stated load capacity (usually 20–30 lbs/sq ft) and plan to clear the roof after significant snowfalls."
+  - question: "What materials are flat roof sheds available in?"
+    answer: "Flat roof sheds come in wood, resin (plastic), and steel. Steel offers the best balance of structural rigidity, wind resistance, and long-term value; wood looks warmest but needs periodic painting or staining; resin is lightweight and maintenance-free but less rigid."
+  - question: "Can a flat roof shed fit under a deck or low eave?"
+    answer: "Yes — this is one of the key advantages of the flat roof design. Because there is no peaked apex, these sheds can fit under decks, low soffits, or against fence lines where a barn-style or apex shed would be too tall."
+  - question: "Do flat roof sheds need a concrete foundation?"
+    answer: "A solid, level base is required for any shed, but it does not have to be concrete. Compacted gravel, concrete deck blocks, or interlocking plastic shed pads are all common options. Check your local building codes, as permits may be required for permanent foundations."
+  - question: "Are flat roof garden sheds waterproof?"
+    answer: "Quality steel and resin flat roof sheds are designed to be weatherproof, with sealed panels and drainage pitch built into the roof. Over time, door seals and panel joints should be inspected annually and resealed as needed to prevent moisture infiltration."
 ---
 
 A flat roof garden shed sits lower and quieter than the barn-style alternatives. No ridge cap, no peaked overhang competing with the fence line, no visual argument with the rest of your property. If you've been circling the shed decision for a season or two and keep stalling on style, the flat roof option is often where people land once they stop overthinking it. It's also where some of the better-value steel sheds live, which matters if you'd rather spend money on what goes inside the shed than on the shed itself.

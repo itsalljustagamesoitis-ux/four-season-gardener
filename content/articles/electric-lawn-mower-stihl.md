@@ -21,6 +21,17 @@ products:
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does Stihl make an electric or battery-powered lawn mower?"
+    answer: "As of 2026, Stihl does not offer a 21-inch self-propelled battery push mower comparable to models from EGO or Greenworks. Stihl's battery platform focuses on handheld tools, trimmers, and chainsaws rather than walk-behind mowers in this format."
+  - question: "What is the best alternative to a Stihl electric lawn mower?"
+    answer: "The EGO POWER+ LM2135SP is the most direct alternative for buyers who want a serious battery-powered self-propelled mower — it offers 60-minute runtime, a self-propel system that works on slopes, and a broad battery ecosystem. Greenworks and Ryobi also make competing models at lower price points."
+  - question: "Can I use a Stihl battery in the EGO LM2135SP mower?"
+    answer: "No — EGO uses its own proprietary 56V ARC Lithium battery system, which is not compatible with Stihl's AP or AK battery platforms. The two systems are completely separate ecosystems."
+  - question: "Is the EGO LM2135SP sold as a kit with battery, or do I need to buy separately?"
+    answer: "Both options are available: the kit version includes a 7.5Ah battery and rapid charger for around $650–$700, while the bare tool runs closer to $449. If you don't own any EGO 56V batteries, the kit is the better value by a significant margin."
+  - question: "Why do people search for a Stihl electric mower if Stihl doesn't make one?"
+    answer: "Stihl has strong brand recognition among serious outdoor power equipment users, so buyers who trust the Stihl name naturally search for a Stihl electric mower when considering a switch from gas. The gap in Stihl's lineup is why EGO has captured so many former Stihl customers in the mower category."
 ---
 
 The search term "electric lawn mower Stihl" gets typed in by people who already know battery tools and are doing their homework. They want to know whether the EGO POWER+ is the better buy or whether they should stay in an existing platform. That's a fair question, and I'll answer it directly: Stihl does not currently make a 21-inch self-propelled battery mower in the same class as the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower). If you came here looking for a Stihl equivalent, it doesn't exist yet at this price point. What I'll do instead is tell you whether the EGO is worth your money, which is probably what you actually needed to know.
