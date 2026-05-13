@@ -53,6 +53,8 @@ faq:
     answer: "IP65-rated or higher solar lights are weatherproof enough for year-round outdoor use including rain and snow. Lights with lower ratings or exposed wire strands should be brought in or covered during prolonged wet or freezing conditions to prevent premature failure."
   - question: "What color temperature looks best for garden fairy lights?"
     answer: "Warm white (2700K–3000K) is the most popular choice for garden ambiance as it mimics candlelight and flatters foliage. Cool white or daylight LEDs look harsher and are better suited to security or task lighting rather than decorative garden use."
+safety_topics:
+  - electrical
 ---
 
 Solar fairy lights get a lot of search traffic and, in my experience, a lot of disappointed buyers. The category sits in an awkward middle ground: too decorative for people who need real illumination, not decorative enough for people who want something that looks genuinely good after dark. Most of what's sold under "garden fairy solar lights" is thin wire with cold-white LEDs that flatten the minute you install it, and half of it stops charging reliably by the second summer.

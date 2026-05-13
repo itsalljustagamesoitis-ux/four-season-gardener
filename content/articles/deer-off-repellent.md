@@ -39,6 +39,8 @@ faq:
     answer: "The odor comes from putrescent egg solids and sulfur compounds, which trigger a fear response in deer by mimicking predator scent or decay. The smell dissipates for humans within a few hours of drying but remains detectable to deer much longer."
   - question: "Will a motion-activated sprinkler work as well as a spray repellent?"
     answer: "Motion-activated sprinklers like the Orbit Yard Enforcer work through a startle response rather than scent aversion, and they deter multiple animal types including deer, cats, and raccoons. They require no chemical reapplication but depend on correct positioning to avoid false triggers from wind or foot traffic."
+safety_topics:
+  - chemical
 ---
 
 Deer pressure in a suburban or rural garden is not a philosophical problem. It's a Tuesday morning problem: you walk out, the hostas are stripped, and something you planted in October is now a stub. If you've set up a [bird feeder for your deck](/bird-feeder-for-deck/) or a window feeder nearby, you already know that attracting one kind of wildlife tends to attract others, and deer are not interested in the distinction between your pollinator bed and a midnight snack.

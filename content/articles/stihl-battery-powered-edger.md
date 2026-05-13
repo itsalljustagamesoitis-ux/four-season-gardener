@@ -32,6 +32,8 @@ faq:
     answer: "Yes — the 56V ARC Lithium battery is fully compatible with all EGO 56V tools, including their mowers, leaf blowers, chainsaws, and hedge trimmers. This cross-compatibility is one of the main advantages of EGO's platform approach over single-purpose battery tools."
   - question: "Is the EGO multi-head edger heavier than a standalone edger?"
     answer: "The EGO ME0801 with battery weighs approximately 9 to 10 pounds, which is comparable to dedicated battery edgers like the Husqvarna 525iES. The multi-head power head adds some bulk compared to ultra-lightweight dedicated edgers, but the trade-off is the ability to run multiple attachments from one unit."
+safety_topics:
+  - power-equipment
 ---
 
 If you've been searching for a Stihl battery powered edger and hitting a wall on Amazon, you're encountering a real distribution limitation, not a gap in the product category. Stihl sells its cordless lineup, including the excellent HSA and FSA series tools, exclusively through its dealer network. You won't find them fulfilled by Amazon. That matters if you rely on Prime shipping, want a straightforward return window, or simply aren't near a Stihl dealer. For a full breakdown of what Stihl's cordless edger line actually offers, the [Stihl Battery Edger](/stihl-battery-edger/) page covers the dealer-channel specs in detail. But if you're shopping online and want something that competes directly in terms of cut quality and battery flexibility, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is where I'd point you first.

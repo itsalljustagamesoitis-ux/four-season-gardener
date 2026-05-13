@@ -39,6 +39,8 @@ faq:
     answer: "A layered approach works best under heavy deer pressure: spray repellents cover large areas and work passively, while a motion sprinkler adds a startle deterrent at key entry points. Using both together is more effective than relying on either method alone."
   - question: "Why do deer become less deterred by repellent over time?"
     answer: "Deer can habituate to any single deterrent if food pressure is high enough and the threat never actually materializes. Rotating between repellent types or combining chemical and physical deterrents reduces the chance of habituation and keeps the deterrent effect stronger over the season."
+safety_topics:
+  - chemical
 ---
 
 Deer pressure is not a casual problem. If you've walked out to find your hostas reduced to stubs or your vegetable beds stripped overnight, you know the specific frustration of having done everything right except account for a 150-pound animal that treats your garden as a salad bar. Finding a repellent that actually works, and that you'll keep using consistently, is where most people get tripped up.

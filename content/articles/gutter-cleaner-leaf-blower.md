@@ -60,6 +60,8 @@ faq:
     answer: "A tow-behind sweeper like the Agri-Fab 45-0492 is designed for collecting leaves from large lawn areas rather than cleaning gutters — it uses brushes, not suction or airflow, and cannot reach gutter channels. Use a blower attachment for gutters and a tow-behind sweeper for clearing a large yard."
   - question: "Which is safer for gutter cleaning — a corded or cordless leaf blower?"
     answer: "Both can be used safely from the ground with the right attachment, but cordless blowers eliminate the trip hazard of an extension cord stretched around the house. A cordless model like the Greenworks 40V provides freedom of movement that makes the ground-cleaning approach more practical."
+safety_topics:
+  - power-equipment
 ---
 
 Gutter cleaning from a ladder sends roughly 500,000 people to emergency rooms every year. That number is not an argument for hiring someone else to do it. It's an argument for doing it differently. A leaf blower with a gutter attachment lets you clean from the ground, and a good [leaf blower with gutter attachment](/leaf-blower-with-gutter-attachment/) setup costs less than a single ER copay.

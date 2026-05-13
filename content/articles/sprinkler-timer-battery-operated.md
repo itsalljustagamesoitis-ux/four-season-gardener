@@ -60,6 +60,8 @@ faq:
     answer: "When batteries die, mechanical timers stop mid-cycle and won't restart until replaced. Smart timers with non-volatile memory (like Rachio) retain your schedule but suspend watering until power is restored. Always replace batteries at the start of each season."
   - question: "Can I use a battery operated sprinkler timer with a smart home assistant?"
     answer: "Only Wi-Fi enabled timers like the Rachio 3 support Alexa and Google Home voice control. Mechanical and basic digital timers operate independently and cannot be integrated into a smart home system."
+safety_topics:
+  - electrical
 ---
 
 Most garden irrigation decisions come down to a single question: how much do you want to think about this? A purely mechanical timer asks almost nothing of you. A smart controller with weather sensing and app access asks quite a bit more, and costs accordingly. The products between those two poles vary by zone count, connectivity, power source, and how much infrastructure they assume you already have.

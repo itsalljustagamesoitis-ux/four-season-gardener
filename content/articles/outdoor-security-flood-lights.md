@@ -43,6 +43,8 @@ product_a: "leonlite-3cct-security-light"
 product_b: "mr-beams-solar-wedge-plus"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+safety_topics:
+  - electrical
 ---
 
 If you've spent any time looking at outdoor security flood lights, you already know the market splits pretty cleanly into two camps: hardwired fixtures that draw from your home's electrical supply, and solar-powered units that go up with a screwdriver and no permit. Both have legitimate uses. The mistake most buyers make is treating this as a quality divide, when it's actually a commitment divide.

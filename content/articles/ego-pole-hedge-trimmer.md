@@ -32,6 +32,8 @@ faq:
     answer: "The kit version includes a 2.5Ah 56V battery and a standard charger. A bare-tool version is also available at a lower price for buyers who already own EGO 56V batteries from other tools."
   - question: "How does the EGO HT2411 compare to a gas hedge trimmer in terms of maintenance?"
     answer: "The HT2411 requires virtually no maintenance beyond occasional blade oiling and cleaning — there is no fuel, carburetor, air filter, or spark plug to service. For most homeowners this is a significant practical advantage over gas trimmers that need spring carburetor cleaning."
+safety_topics:
+  - power-equipment
 ---
 
 The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) sits at the lower end of EGO's hedge trimmer lineup in terms of price, but it runs on the same 56V Arc Lithium battery platform as their premium tools. That matters if you're already running EGO equipment or considering building out a battery-powered yard setup. I've been testing cordless outdoor tools across my 12-acre property for several years now, and I have a reasonably clear picture of what separates the honest performers from the ones that look good in spec sheets. This trimmer is mostly the former, with a few caveats worth spelling out before you hand over money.

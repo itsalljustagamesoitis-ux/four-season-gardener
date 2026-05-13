@@ -32,6 +32,8 @@ faq:
     answer: "No — the table ships with a pre-attached regulator hose that connects directly to a standard 20 lb propane tank stored in the enclosed cabinet base. No additional adapters are required."
   - question: "What happens if the electronic ignition fails on the Outland Living 403?"
     answer: "The electronic ignition is powered by a standard AA battery, so if ignition becomes unreliable after extended use, replacing the battery is the first and usually only fix needed. No specialized components or service calls are required."
+safety_topics:
+  - heating
 ---
 
 If you've spent any time looking at the [Fire Pits & Patio Heaters](/fire-and-heat/) category, you already know the market is full of products that look reasonable in a photo and disappoint in a driveway. The Latitude Run outdoor fire pit table segment on Amazon is particularly cluttered with rebranded imports that share the same factory specs but wildly different quality control. When I started seeing the [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](product:outland-living-403-fire-table) consistently appear in search results and buyer recommendations, I decided to test it properly rather than take the star ratings at face value.

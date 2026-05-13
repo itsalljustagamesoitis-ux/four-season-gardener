@@ -32,6 +32,8 @@ faq:
     answer: "Yes — the self-propel system is effective on moderate slopes and the mower's weight provides stability. Very steep inclines (above 15 degrees) are better handled with a wheeled drive that can be manually adjusted rather than relying on the automatic pace-matching system alone."
   - question: "How much lawn can the EGO LM2135SP mow on a single charge?"
     answer: "In real-world conditions on maintained grass, expect to cover 0.5–1 acre per charge with the 7.5Ah battery. A second battery or the optional 10Ah pack extends that range for larger properties without the need to stop and wait for a charge."
+safety_topics:
+  - power-equipment
 ---
 
 The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) sits at the serious end of the battery-powered mower market, and it earns that position. I've been running it across roughly three acres of mixed terrain on my Litchfield County property for two full mowing seasons, and my assessment is straightforward: this is the machine that finally made me stop defending gas mowers to skeptical neighbors. Not because it's perfect, but because the tradeoffs have shifted decisively in EGO's favor. If you're already invested in the EGO 56V platform, or considering building a [battery-powered tool ecosystem](/battery-equipment/), the LM2135SP deserves a direct look.

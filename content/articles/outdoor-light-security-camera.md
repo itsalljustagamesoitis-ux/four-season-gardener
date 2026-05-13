@@ -43,6 +43,8 @@ product_a: "mr-beams-solar-wedge-plus"
 product_b: "leonlite-3cct-security-light"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+safety_topics:
+  - electrical
 ---
 
 If you've spent any time looking at [outdoor led security lighting](/outdoor-led-security-lighting/) options on Amazon, you already know the problem: dozens of listings, overlapping specs, and marketing copy that tells you everything except whether the thing will actually work on your garage wall in February. So I'll keep this straightforward. This is a comparison between two budget-range security lights that take completely different approaches to the same job, and my recommendation will be plain by the end.

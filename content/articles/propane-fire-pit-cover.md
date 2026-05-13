@@ -43,6 +43,8 @@ faq:
     answer: "Yes — the natural gas conversion kit is included in the box, which is one of the Napoleon's strongest long-term value arguments. The table-side conversion is mechanical work, but connecting to a residential gas supply line requires a licensed plumber in most jurisdictions, typically a $150 to $250 service call. Once converted, you eliminate tank costs and refill logistics entirely."
   - question: "Does the Outland Living 403 fire table double as an outdoor dining or coffee table?"
     answer: "Yes — the tempered glass tabletop is functional as a full outdoor surface, and the burner is covered by a metal plate when not in use. This dual-purpose design is one of the Outland 403's strongest practical advantages: you get a working table and a fire feature in one footprint rather than needing two separate pieces of furniture."
+safety_topics:
+  - heating
 ---
 
 If you've landed on this page searching for a propane fire pit cover, you've probably already decided that a fire table beats a traditional wood-burning pit. Fair enough. No ash, no smoke drifting into your face, and you can turn it off and walk inside without waiting thirty minutes for embers to die. What you're actually trying to decide is which fire table to buy. These two products represent genuinely different points on the price-to-permanence spectrum, and this article will tell you plainly which one makes more sense for your situation.

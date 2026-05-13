@@ -43,6 +43,8 @@ faq:
     answer: "The Napoleon's aluminum frame, electronic ignition, and natural gas conversion capability make it a longer-lasting and more feature-complete product, which typically means better resale value than a composite-frame table. However, most buyers treat fire pit tables as outdoor furniture rather than resale assets — the more relevant question is whether the Napoleon's features justify its $550 to $700 higher upfront cost for your specific use case."
   - question: "Can I use fire glass or lava rock in either the Outland 403 or Napoleon St. Tropez?"
     answer: "The Outland Living 403 has a standard burner bowl that is compatible with fire glass and lava rock as decorative media. The Napoleon St. Tropez uses a glass ember bed that comes pre-filled; the media can be cleaned and supplemented but the design is less intended for media customization than a standard open bowl. Both are sold ready to use without additional media required."
+safety_topics:
+  - heating
 ---
 
 If you spend any time looking at rectangular fire pit tables, you'll hit the same fork in the road fairly quickly. There's the mid-range, does-what-it-says category, and there's the spend-more-and-get-more category. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) represent those two categories clearly enough that a real comparison is worth doing. One runs around $350,$400 on Amazon at time of writing. The other runs closer to $900,$1,100 depending on where you find it. That gap needs justification, and I'll tell you whether it gets one.

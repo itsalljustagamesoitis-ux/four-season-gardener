@@ -53,6 +53,8 @@ faq:
     answer: "Yes — the EGO 56V ARC Lithium battery used by the LB6004 is shared across the EGO platform including their chainsaw, string trimmer, and mower. This is one of the primary arguments for EGO: a battery purchased for the blower also powers the rest of your tool lineup, which reduces the total cost of building a complete yard care system."
   - question: "Does the Agri-Fab 45-0492 tow-behind sweeper work on slopes or hilly terrain?"
     answer: "The Agri-Fab 45-0492 works best on flat to gently rolling terrain. On slopes, the hopper fill can shift the tow-behind's balance, and contact brushes are less effective when leaf accumulation is uneven across the slope face. For hilly properties with significant grade changes, a backpack blower gives you more directional control than any sweeper approach."
+safety_topics:
+  - power-equipment
 ---
 
 Leaf blowers get marketed as though the problem is always the same: too many leaves, not enough airflow. But the actual problem varies considerably depending on whether you're clearing a 40-foot suburban driveway or pushing leaves across three-quarters of an acre of mixed lawn and beds. The tool that solves one situation badly undermines the other. This roundup covers four products across different approaches to fall cleanup, with a real recommendation at the end rather than a diplomatic non-answer.

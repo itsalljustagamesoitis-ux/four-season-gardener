@@ -39,6 +39,8 @@ faq:
     answer: "Liquid Fence is rain-resistant once dried and typically lasts 2–4 weeks outdoors per application. It should be reapplied after heavy rain events or every 2–3 weeks during the growing season. The odor (sulfur and putrescent egg) is strong during and shortly after application but fades to below human-detectable levels within a day."
   - question: "Where should I position a motion-activated deer repeller in my garden?"
     answer: "Position it where the detection arc covers the entry point deer actually use — along established trails or at the corners of beds. Avoid placement near ornamental grasses, tall shrubs, or fence lines that will false-trigger in wind. Spend time observing where deer enter before locking in placement, and adjust stake height to account for late-season foliage."
+safety_topics:
+  - electrical
 ---
 
 If you've been searching for the best ultrasonic deer repeller, you've probably landed on a category full of plastic stakes with blinking lights that deer learn to ignore within a week. I've tested several of those. They go in the trash. What actually works to keep deer and other wildlife out of garden beds involves a different approach entirely, and the two products I'm recommending here are the ones I keep coming back to after years of dealing with a property that borders active deer corridors. Before we get into the picks, if you're also managing bird feeders and baths alongside a deer problem, the [Birds & Wildlife section](/birds-wildlife/) has broader coverage of both sides of that equation.

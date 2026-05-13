@@ -53,6 +53,8 @@ faq:
     answer: "Tow-behind sweepers that rely on brush contact rather than suction struggle with compacted wet leaves that mat down into the grass. For best results, sweep leaves when they are dry, or use a leaf blower to loosen matted areas before sweeping."
   - question: "Is a handheld blower-vac useful for a large lawn alongside a riding mower?"
     answer: "Handheld blower-vac combos like the Toro UltraPlus or Greenworks 40V are useful for finishing and detail work — clearing debris from edges, beds, and hard surfaces that a tow-behind sweeper cannot reach. For the main lawn area, a tow-behind sweeper is far more efficient than a handheld unit on a half-acre or larger property."
+safety_topics:
+  - power-equipment
 ---
 
 If you own more than a half-acre of lawn and have ever spent a Saturday afternoon making twelve trips to the compost pile with an overstuffed tarp, you already know the problem. A lawn vacuum for riding mower use, or a tow-behind sweeper that hooks to one, changes the math considerably. Instead of raking and bagging by hand, you collect while you mow, dump once or twice, and the yard is done before noon.

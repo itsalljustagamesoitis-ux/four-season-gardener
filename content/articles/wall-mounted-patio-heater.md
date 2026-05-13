@@ -60,6 +60,9 @@ faq:
     answer: "Most electric wall-mounted patio heaters mount similarly to a large light fixture — a bracket attaches to the wall with screws, and the unit plugs into a standard 120V or 240V outdoor outlet. Units requiring a 240V circuit need a dedicated outlet installed by an electrician if one is not already present near your intended mounting location."
   - question: "Do wall-mounted patio heaters work in cold climates, or only in mild weather?"
     answer: "Infrared wall heaters work by warming objects and people directly rather than heating the air, so they remain effective in cold temperatures as long as occupants are within the radiant field. In very cold climates (below 20°F), most units become supplemental rather than primary heat sources, and a higher-wattage model or multiple units will be needed to maintain comfort."
+safety_topics:
+  - heating
+  - electrical
 ---
 
 If you've been heating your patio with a freestanding propane unit, you already know the problems: tanks to swap, floor space eaten up by a stand, and a heater that tips over if the wind catches it wrong. A wall mounted patio heater solves most of that. Fixed position, no floor footprint, and on an electric model, no fuel logistics at all. You flip a switch and the heat arrives in about 30 seconds.

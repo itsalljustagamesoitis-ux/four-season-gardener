@@ -32,6 +32,8 @@ faq:
     answer: "The central difference is voltage. EGO's 56V and Greenworks' 40V or 80V platforms deliver more motor headroom for heavy grass and larger areas. If mowing performance is the only variable, the higher-voltage competitors have the advantage. The DeWalt makes sense if you are already running the 20V MAX platform across your tools — over 250 tools share that battery — and you want a mower that fits into infrastructure you have already paid for without starting a new ecosystem."
   - question: "Does the DeWalt DCMW220P2 require any engine maintenance like a gas mower would?"
     answer: "No. There is no engine, no fuel storage, no oil changes, no carburetor to drain at the end of the season. Starting the mower is pressing a button. The maintenance reduction compared to gas equipment is real, and for anyone who has spent enough Saturday mornings diagnosing a gummed carb or replacing a pull cord, that alone is a reasonable part of the value calculation."
+safety_topics:
+  - power-equipment
 ---
 
 If you're already running DeWalt's 20V MAX platform across your shop, garage, or garden shed, the [DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)](product:dewalt-dcmw220p2-cordless-mower) is the obvious first mower to look at. It runs on the same batteries as your drill, your circular saw, your string trimmer. No separate chargers, no new ecosystem to buy into. That's either the whole pitch or it's not relevant to you, depending on where you already are with your tool collection.

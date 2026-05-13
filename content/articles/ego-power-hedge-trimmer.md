@@ -32,6 +32,8 @@ faq:
     answer: "Yes — all EGO 56V ARC Lithium batteries are fully cross-compatible across the EGO power tool lineup. A larger 5Ah or 7.5Ah battery will extend runtime significantly beyond the 45 minutes the included 2.5Ah pack delivers."
   - question: "How does the EGO HT2411 handle thick or overgrown hedges?"
     answer: "The HT2411 manages branches up to 1 inch in diameter reliably, which covers most ornamental hedging. For heavily overgrown material with dense woody stems, working in multiple lighter passes rather than forcing the blade through in a single cut produces cleaner results and reduces motor strain."
+safety_topics:
+  - power-equipment
 ---
 
 The [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is currently sitting around $130 for the kit, battery and charger included. That price has made it one of the more popular starter picks in the cordless tool category, and I've seen enough of these tools come and go to know that popular doesn't always mean good. So I ran it through a full season on my property, and what follows is a straightforward account of what it does well, where it falls short, and whether I'd actually recommend spending your money on it.

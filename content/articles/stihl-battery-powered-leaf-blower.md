@@ -32,6 +32,8 @@ faq:
     answer: "Yes — the kit version includes the blower, a 5.0Ah 56V ARC Lithium battery, and a rapid charger for around $249 on Amazon. The rapid charger brings the 5.0Ah battery from empty to full in approximately 40 minutes, making it practical to recharge mid-session on large properties."
   - question: "Why is the EGO blower's nozzle diameter considered a trade-off?"
     answer: "The 2.5-inch nozzle diameter is slightly wider than some competitors, which is excellent for high-volume leaf clearing but makes the blower less precise in tight spaces like narrow planting beds or corners. If you frequently need to direct air into confined areas, a narrower-nozzle blower may serve you better for that specific task."
+safety_topics:
+  - power-equipment
 ---
 
 The Stihl battery blower conversation usually starts with the same question: is it actually worth leaving gas behind? I ran the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) through a full fall season on twelve acres of mixed hardwood and lawn to find out. The short answer is yes, with conditions.

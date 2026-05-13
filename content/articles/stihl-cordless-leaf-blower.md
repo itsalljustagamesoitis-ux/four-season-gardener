@@ -32,6 +32,8 @@ faq:
     answer: "The EGO LB6504 operates at approximately 64 dB on low and 70 dB on high — significantly quieter than gas leaf blowers, which typically run at 95–105 dB. This makes cordless blowers far more neighbor-friendly, especially in dense residential areas with local noise ordinances."
   - question: "Is a battery-powered leaf blower strong enough to replace a gas blower for fall cleanup?"
     answer: "For most residential and multi-acre properties, yes — modern 56V battery blowers like the EGO LB6504 at 650 CFM handle wet and matted leaves without the performance gap that defined earlier cordless models. The main trade-off is runtime, not power; gas blowers can run indefinitely with a full tank, while cordless models require recharging between extended sessions."
+safety_topics:
+  - power-equipment
 ---
 
 If you've spent any time researching battery-powered outdoor tools, you've probably noticed that the conversation around "cordless leaf blowers" often circles back to one brand: Stihl. The name carries weight, and for good reason. But the Stihl cordless leaf blower lineup exists inside a larger question that most buyers don't ask until they're already committed: which battery platform are you building around? That decision matters more than any single tool spec, and it shapes whether a blower purchase saves you money over time or locks you into an expensive corner.

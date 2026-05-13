@@ -39,6 +39,8 @@ faq:
     answer: "Granules work best as a perimeter barrier along fence lines, bed edges, and entry points rather than broadcast across an entire yard. For large properties, combine granules at key access points with a spray repellent applied directly to high-value plants."
   - question: "Do deer repellent granules lose effectiveness in wet climates?"
     answer: "Yes — rain and irrigation dissolve granules faster, shortening the effective window significantly in wet regions. In high-rainfall areas, a motion-activated sprinkler provides a more weather-independent deterrent that doesn't degrade with moisture."
+safety_topics:
+  - chemical
 ---
 
 If you're finding chewed hostas at dawn and hoof prints in the mud by the bird bath, you already know what deer pressure looks like. The question isn't whether to do something about it. The question is what actually works, applied consistently, without turning your property into a chemistry experiment or a booby trap.

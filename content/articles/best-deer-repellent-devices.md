@@ -39,6 +39,8 @@ faq:
     answer: "Not practically. Once overnight temperatures drop below freezing, the hose must be disconnected to prevent damage to the unit and hose. The sprinkler can stay in place but will not deter anything without water flowing. During winter months, Liquid Fence applied to evergreens and woody plants is the better option for protecting high-value plants when browse pressure is highest and natural forage is scarce."
   - question: "Why do deer repellents smell so bad, and is there a low-odor alternative that actually works?"
     answer: "The egg-sulfur smell in Liquid Fence is the active mechanism, not a side effect. It mimics predator activity and triggers a threat response in deer. Products marketed as low-odor are typically less effective because they are reducing the component that does the deterring. If the application-day odor is genuinely a problem, spray in the evening before a day you will not be in the garden. By the next morning, the smell humans detect is largely gone while the deterrent effect persists."
+safety_topics:
+  - chemical
 ---
 
 Deer don't read signs. They don't respect borders, they don't care about your hostas, and they will absolutely walk through your vegetable garden at 2 a.m. and leave you with stalks. If you've been dealing with this long enough, you've probably already tried a few things that didn't work. This article is about two that do.

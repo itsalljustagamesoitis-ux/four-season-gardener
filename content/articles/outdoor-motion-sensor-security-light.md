@@ -53,6 +53,8 @@ faq:
     answer: "Most motion sensor lights stay on for 20 seconds to 5 minutes after triggering — the duration is usually adjustable via a control on the fixture. Some models also offer a permanent dim-on mode with motion-activated bright mode, like the LITOM spotlight reviewed here."
   - question: "Is a motion sensor security light a real deterrent to intruders?"
     answer: "Studies on outdoor lighting as a deterrent show mixed results, but motion-activated lights do eliminate the cover of darkness, can startle an intruder, and signal to neighbors that movement is occurring — they're most effective when combined with cameras or other security measures."
+safety_topics:
+  - electrical
 ---
 
 Motion sensor security lights have a way of multiplying on a property once you realize how much you actually need them. The driveway gets one, then the side path, then the back gate, and suddenly you're looking at the garage and thinking about it. I've gone through this cycle on my 12-acre property more than once, and the honest lesson is that one product type does not suit every situation. Solar makes sense in some spots and is completely wrong for others. Hardwired is the reliable choice where you have the infrastructure, and a low-voltage landscape system is a different category altogether. The picks in this roundup reflect all three approaches, and my recommendation changes depending on what you're actually solving for.

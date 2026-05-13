@@ -32,6 +32,8 @@ faq:
     answer: "The EGO ST1521S has a 15-inch cutting width on a 56V platform and includes battery and charger in the kit for around $199. The Stihl FSA 86 is a capable machine but is sold tool-only through dealers, requiring a separate AK battery purchase. For most residential users, the EGO offers better availability and comparable performance."
   - question: "Can the EGO ST1521S cut through thick weeds and brush?"
     answer: "The ST1521S excels at lawn maintenance — established grass, fence lines, and light weeds — but is not designed for heavy brush clearing. Thick-stemmed woody growth above about 3/8-inch diameter will slow it down. For heavier work, EGO's ST1623T or a dedicated gas machine is a better choice."
+safety_topics:
+  - power-equipment
 ---
 
 If you've been searching for a Stihl strimmer battery operated option and keep running into the same wall , Stihl's battery lineup isn't broadly available through Amazon in the US market , you're not imagining things. The FSA 57, FSA 86, and FSA 90 R are genuinely good machines, but getting your hands on one typically means going through a dealer, and that's before you factor in the cost of buying into Stihl's AK or AP battery system separately. For a lot of buyers, that's a reasonable trade-off. For many others, it isn't.

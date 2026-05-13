@@ -64,6 +64,9 @@ faq:
     answer: "Carbon tube elements typically last 5,000 to 10,000 hours of use, compared to 3,000 to 5,000 hours for quartz. For average seasonal use of around 200 hours per year, a carbon element can last 25 or more years. Most failures occur from moisture damage or physical impact rather than element burnout."
   - question: "Is a wall-mount or freestanding infrared heater better for a patio?"
     answer: "Wall-mount saves floor space and is harder to knock over, making it better for small decks or high-traffic areas. Freestanding tripod units like the Dr. Infrared offer repositioning flexibility, which matters if your seating layout changes seasonally. If your patio setup is fixed, wall-mount wins on practicality."
+safety_topics:
+  - heating
+  - electrical
 ---
 
 The market for patio infrared heaters has gotten genuinely crowded, and most buying guides handle this by listing specs and calling it a day. That's not useful when you're standing in your backyard trying to figure out whether you need 900 watts or 1500, propane or electric, wall-mounted or freestanding. I've been testing and swapping outdoor heaters on my 12-acre property for several years now, and my starting position is: most people buy more heater than they need, or they buy the wrong fuel type for their setup entirely.

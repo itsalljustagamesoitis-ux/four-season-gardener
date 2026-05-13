@@ -32,6 +32,8 @@ faq:
     answer: "It performs better for standing, cocktail-style gatherings where people move around. The column heat pattern warms the space in a radius from the unit, which means standing guests get warmth on their faces and upper bodies. Seated guests at a table — particularly their feet — are better served by a mushroom-style overhead heater that distributes heat downward from above."
   - question: "Is this heater safe for a covered pergola?"
     answer: "Only with adequate clearance and ventilation. Propane combustion produces carbon monoxide, so fully enclosed spaces are not appropriate. A pergola with open sides and at least 8 to 10 feet of clearance above the burner head is generally workable, but confirm airflow before use. For a fixed, fully covered outdoor space, an electric or wall-mounted heater is a safer design choice."
+safety_topics:
+  - heating
 ---
 
 Most patio heaters disappear into the background. They're functional, forgettable, and about as interesting to look at as a parking lot lamppost. The [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is not that. It makes a case for itself on looks before it even ignites, and then the flame column comes on and your guests stop talking for a second. That's a real thing that happens.

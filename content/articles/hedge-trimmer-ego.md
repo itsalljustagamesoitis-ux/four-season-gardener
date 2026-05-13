@@ -53,6 +53,8 @@ faq:
     answer: "No — the EGO ST1521S uses EGO's POWERLOAD system, which requires specific EGO pre-wound line cartridges. It will not accept bulk string line from other brands, so factor in the ongoing cost of cartridge replacements."
   - question: "Do EGO tools share batteries across the full product lineup?"
     answer: "Yes — all EGO POWER+ tools use the same 56V ARC Lithium battery platform, so one battery can power your hedge trimmer, string trimmer, leaf blower, and mower. This cross-compatibility is one of the main advantages of building a single-brand cordless tool ecosystem."
+safety_topics:
+  - power-equipment
 ---
 
 EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in under $150 at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.

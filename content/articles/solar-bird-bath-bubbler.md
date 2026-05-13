@@ -32,6 +32,8 @@ faq:
     answer: "No. The pump tested weakly and intermittently with only two hours of dappled sunlight reaching the panel. That is a physics constraint, not a product defect, and the AquaNura does nothing to overcome it. If your ideal bath location is shaded, you need a battery-backed or plug-in fountain rather than a solar unit."
   - question: "What birds does a solar bubbler at ground level actually attract?"
     answer: "Robins, house finches, sparrows, wrens, and warblers during migration are reliably drawn to moving water at ground level. Ground-level placement pulls in a somewhat different set of visitors than elevated pedestal baths, so if you are already running a standard pedestal setup, a ground-level solar bubbler can add species variety rather than just duplicate what you have."
+safety_topics:
+  - electrical
 ---
 
 Moving water attracts birds. Standing water holds mosquitoes. This is not a complicated problem, and the solution doesn't require running electrical conduit to your garden bed or spending three hundred dollars on a recirculating fountain. A solar bird bath bubbler handles it with a small panel, a submersible pump, and no wiring at all. The question is whether the one you buy will actually work in ordinary garden conditions or will spend most of its life sitting motionless in partial shade.

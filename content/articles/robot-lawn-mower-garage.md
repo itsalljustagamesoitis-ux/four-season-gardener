@@ -25,6 +25,8 @@ faq:
     answer: "Decent freestanding garages run from about $80 to $220 depending on size and material. Compared to the cost of replacing a corroded charging dock or a UV-degraded mower, most buyers find the investment straightforward."
   - question: "Can I use an extension cord to power the charging station inside the garage?"
     answer: "Yes, but use an outdoor-rated extension cord and keep it as short as practical. Most charging stations ship with an eight-to-twelve foot cable, so measure the distance from your nearest outdoor outlet to the garage location before buying."
+safety_topics:
+  - power-equipment
 ---
 
 If you've invested in a robot mower, you already know the first problem isn't the cutting. It's the charging, the weather exposure, and the slow degradation that comes from leaving a $1,500 piece of electronics sitting on wet grass through a Connecticut spring. A robot lawn mower garage solves all three of those problems at once, and yet most people buy one as an afterthought, if they buy one at all.

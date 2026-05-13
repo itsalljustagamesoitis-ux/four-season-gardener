@@ -43,6 +43,8 @@ faq:
     answer: "The Outland 403 weighs approximately 80 pounds assembled, which makes repositioning a two-person job. Unlike the lighter aluminum Napoleon, the concrete-look composite frame does not move easily. Position it where you want it before final assembly, because moving it after is not a solo task."
   - question: "Does the Napoleon St. Tropez fire table require any special fuel connections beyond the conversion kit?"
     answer: "The conversion kit handles the burner orifice and regulator swap, but the actual connection to a natural gas supply line must be made by a licensed plumber in most U.S. jurisdictions. Budget $150 to $250 for that service call when planning a natural gas setup. The propane configuration works out of the box with any standard 20 lb tank."
+safety_topics:
+  - heating
 ---
 
 If you're shopping for a propane fire pit insert or a fire table that uses one, you've probably already noticed the price spread is wide and the marketing language is nearly identical across brands. "Elegant." "Durable." "Perfect for entertaining." Every product page says the same thing. What you actually want to know is which one holds up, which one is worth the price, and whether the cheaper option is genuinely inferior or just less expensive. I've spent time with both the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table), and I have a clear preference. More on that below.

@@ -53,6 +53,8 @@ faq:
     answer: "IP (Ingress Protection) ratings indicate resistance to dust and water. IP65 means dust-tight and protected against water jets — suitable for most outdoor installations. IP67 means the fixture can handle temporary submersion, making it appropriate for areas prone to heavy rain or flooding."
   - question: "Can I install an outdoor LED security light myself without an electrician?"
     answer: "Solar and battery-powered security lights can be mounted by any homeowner — no wiring required. Hardwired lights like the LEONLITE require connecting to an existing junction box; if you don't have one, an electrician is needed to run the wiring safely."
+safety_topics:
+  - electrical
 ---
 
 Most outdoor LED security lighting fails for one of two reasons: it's undersized for the area it's supposed to cover, or it's positioned somewhere that gets four hours of sun in December and the battery is dead by February. Neither problem is complicated to avoid, but it requires picking the right type of fixture for your specific situation before you buy, not after.

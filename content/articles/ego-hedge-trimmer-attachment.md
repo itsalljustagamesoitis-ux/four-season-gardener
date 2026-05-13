@@ -32,6 +32,8 @@ faq:
     answer: "At $100–$120, the HTA2000 is a cost-effective way to add pole hedge trimming capability if you already own the power head — you avoid buying a separate dedicated tool and a separate battery. If you don't own the power head, a dedicated pole hedge trimmer may offer better value."
   - question: "How does the EGO HTA2000 compare to a dedicated pole hedge trimmer?"
     answer: "Purpose-built pole hedge trimmers like the EGO HT2411DP offer longer blades (24 inches) and are optimized for extended overhead use. The HTA2000 is a practical add-on for existing EGO system users but isn't the best choice if hedge trimming is your primary or only need."
+safety_topics:
+  - power-equipment
 ---
 
 The [EGO POWER+ HTA2000 20" Hedge Trimmer Attachment](product:ego-hta2000-hedge-trimmer-attachment) is not a standalone tool. That's the first thing to say, and it's the thing most people skip over before buying. It's an attachment for the EGO Multi-Head Power System, which means you need the PH1400E power head to run it. If you already own one, this attachment is a reasonable buy at around $100 to $120. If you don't own the power head, you're looking at a combined investment closer to $280 to $320 depending on current pricing and where you buy. That changes the math considerably, and any review that doesn't say so upfront is wasting your time.

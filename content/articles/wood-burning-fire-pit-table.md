@@ -43,6 +43,8 @@ faq:
     answer: "For occasional backyard fires a few times per season, the Gas One at under $50 is a reasonable entry point — it includes a spark screen and poker and functions as a traditional campfire bowl. Its painted steel construction will rust within two to three seasons without a cover or indoor storage, so longevity depends entirely on how well you protect it between uses."
   - question: "How easy is it to clean ash out of the Solo Stove Bonfire 2.0?"
     answer: "The Bonfire 2.0 includes a removable ash pan that slides out from the bottom, allowing you to dispose of ash without scooping. Allow the fire pit to cool completely before handling the ash pan, and empty it before ash accumulation begins to block the bottom airflow vents, which would reduce combustion efficiency and increase smoke output."
+safety_topics:
+  - heating
 ---
 
 There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](product:solo-stove-bonfire-2) runs around $300. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) runs under $50. That gap is the whole story, if you want the short version. If you want to know whether the $250 difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.

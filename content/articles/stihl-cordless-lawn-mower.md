@@ -32,6 +32,8 @@ faq:
     answer: "The tool-only version does not include a battery or charger. The kit version includes the 7.5Ah battery and rapid charger. If you do not already own EGO 56V batteries, buy the kit — the tool-only listing looks cheaper but the math does not work out that way once you price the battery and charger separately."
   - question: "How does the EGO 56V battery ecosystem compare to Stihl's cordless platform?"
     answer: "For mowing specifically, EGO's 56V platform is the more developed option because Stihl does not make a U.S. cordless mower at all. For handheld tools, Stihl's AP and AK systems are strong. If your priority is a single battery family that runs both a mower and your other yard tools, EGO's 56V lineup — covering blowers, trimmers, hedge trimmers, and chainsaws — is the more complete ecosystem for that use case right now."
+safety_topics:
+  - power-equipment
 ---
 
 The article brief calls this a "Stihl cordless lawn mower" review, which requires a quick clarification before anything else: Stihl does not currently sell a dedicated cordless push or self-propelled lawn mower in the U.S. market. They make battery-powered handheld and backpack tools, and their cordless line has expanded considerably in recent years, but a Stihl battery lawn mower is not available through U.S. dealers or online retail at the time of writing. If you've been searching that phrase and landing on confusing results, that's why.

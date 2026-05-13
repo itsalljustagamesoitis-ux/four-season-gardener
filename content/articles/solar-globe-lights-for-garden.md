@@ -53,6 +53,8 @@ faq:
     answer: "Budget solar lights typically use low-capacity batteries and non-UV-stabilized plastic that yellows and cracks quickly, reducing both panel efficiency and light output. Paying slightly more for a known brand with an IP65 or higher rating and a stated battery capacity (in mAh) usually results in significantly better longevity."
   - question: "Do solar globe lights need direct sun or can they charge in indirect light?"
     answer: "They charge best in direct sun but will accumulate some charge in bright indirect light — just at a slower rate, resulting in shorter nightly runtime. For the best performance, position the solar panel portion of the light where it receives at least 6 hours of direct sun per day."
+safety_topics:
+  - electrical
 ---
 
 Solar globe lights get searched constantly, and most of what you'll find is the same generic stake light repackaged under forty different brand names. The fixtures are interchangeable, the specs are padded, and the "800 lumen" claim on the box requires a level of charitable interpretation I'm not willing to offer. If you've spent any time browsing [Garden Lighting](/lighting/) options online, you've seen the pattern: identical product photos, suspiciously identical five-star counts, suspiciously identical descriptions.

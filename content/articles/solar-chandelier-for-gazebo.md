@@ -46,6 +46,8 @@ faq:
     answer: "Most are rated IP44 or IP65 for water resistance, meaning they handle rain and splashing water without failing. However, they should not be fully submerged, and panels should be tilted to prevent standing water. Check the IP rating before purchase if your gazebo is open-sided and exposed to weather."
   - question: "What style of solar chandelier works best in a cedar or wood pergola?"
     answer: "Rattan, wicker, or warm-metal finishes complement natural wood tones best and avoid the clinical look of chrome or polished steel. Warm white LEDs (2700K–3000K) also read as more natural against wood than cool white, which tends to look harsh in outdoor evening settings."
+safety_topics:
+  - electrical
 ---
 
 Solar chandeliers for gazebos occupy a strange middle ground in the outdoor lighting market. They're decorative enough to matter aesthetically, but they need to function well enough that you're not squinting over dinner at 8pm. The problem is that most buying guides treat them as purely decorative objects, which undersells what the better options can actually do, or they oversell lumen counts without accounting for how solar panels actually perform in real evening conditions.

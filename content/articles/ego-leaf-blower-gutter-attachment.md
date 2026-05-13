@@ -32,6 +32,8 @@ faq:
     answer: "The included 5.0Ah battery provides 60–75 minutes of use at moderate power settings, which is enough to clear gutters on most residential properties in one charge. Running at maximum CFM continuously will reduce that runtime significantly."
   - question: "Is the EGO LB6504 compatible with other EGO 56V batteries I already own?"
     answer: "Yes — all EGO 56V ARC Lithium batteries are cross-compatible across the full EGO product line. If you already own 5Ah or 7.5Ah packs from other EGO tools, they will work in the LB6504 and may extend your runtime beyond what the included battery delivers."
+safety_topics:
+  - power-equipment
 ---
 
 If you're here because you searched "EGO leaf blower gutter attachment," you probably already know the basic concept: a cordless backpack or handheld blower with an angled wand that lets you clear gutters without climbing a ladder every ten feet. What you want to know is whether the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower) actually delivers on that promise, and whether the gutter kit makes it worth choosing over the alternatives. I've been running this blower on my 12-acre property for two full seasons, including one of the wetter falls I can remember, and I have a reasonably clear answer.

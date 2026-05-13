@@ -43,6 +43,8 @@ faq:
     answer: "Runtime varies based on the battery capacity used and blower speed, but the EGO LB6004 is compatible with all EGO 56V ARC Lithium batteries. With the 5.0Ah or 7.5Ah battery, most users report 30–60 minutes of continuous run time, sufficient for most residential properties."
   - question: "Which leaf blower is better for a small suburban yard versus a large rural property?"
     answer: "The Toro UltraPlus corded model is the better value for smaller yards where an outlet is accessible, especially given its mulching capability. The EGO LB6004 backpack blower is the better choice for properties of half an acre or more where cordless freedom and reduced fatigue matter more."
+safety_topics:
+  - power-equipment
 ---
 
 The "little wonder leaf blower" search lands people in different places depending on what they actually need. Some want a no-fuss corded workhorse that handles wet fall leaves without dying mid-session. Others are looking for the freedom to cover a large property without dragging 100 feet of orange extension cord through their beds. These two machines represent opposite answers to the same problem, and only one of them is the right fit for most readers who land here.

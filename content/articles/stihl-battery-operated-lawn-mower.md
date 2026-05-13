@@ -32,6 +32,8 @@ faq:
     answer: "Yes — the Touch Drive self-propel system adjusts to your walking pace rather than a fixed speed setting, which makes it easier to manage on slopes. The LM2135SP handles meaningful inclines well, though like any self-propelled mower it requires more operator effort on very steep grades."
   - question: "How does the EGO LM2135SP cut quality compare to a gas mower?"
     answer: "The Select Cut dual-blade system produces finer clippings than single-blade battery mowers and is genuinely competitive with mid-range gas mowers in mulching performance. In heavy overgrowth conditions, some clumping can occur — but that's a limitation shared by most battery mowers at this price point, not an EGO-specific issue."
+safety_topics:
+  - power-equipment
 ---
 
 If you've been searching for a Stihl battery operated lawn mower and keep landing on the EGO Power+ instead, there's a reason for that. Stihl doesn't sell its battery mowers through Amazon or most big-box retail channels. Their distribution model runs through independent dealers, which keeps them off the comparison pages where most people shop. That leaves the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) as the machine that actually shows up when you go looking, and after running one through a full season on my property, I can tell you it earns that visibility on its own merits, not just by default.

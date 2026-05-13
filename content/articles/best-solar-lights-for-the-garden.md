@@ -53,6 +53,8 @@ faq:
     answer: "If the location gets fewer than four to five hours of direct sun per day, if the lighting needs to be completely reliable regardless of weather, or if you're planning a permanent installation you won't want to revisit in five years, a low-voltage hardwired system is worth the additional cost. Solar has real advantages in flexibility and installation simplicity, but it cannot match a hardwired system for consistency or longevity. The VOLT brass kit in this roundup is the honest answer for permanent landscape lighting."
   - question: "Do I need to place the solar panel and the light fixture in the same spot?"
     answer: "It depends on the design. Separate-panel spotlights like the LITOM let you angle the panel toward peak sun while placing the fixture wherever you want it — a significant advantage in gardens with tree coverage or shading. Integrated designs like the Mr Beams Wedge Plus are simpler to install but require the wall itself to receive direct sun. This is the variable most buyers overlook, and it is often why solar lights underperform even when everything else looks right."
+safety_topics:
+  - electrical
 ---
 
 Solar lights have gotten meaningfully better over the past five years, and the market has gotten harder to read as a result. There are now hundreds of options between $15 and $300, most of them making the same claims about lumens and weatherproofing, and maybe a third of them delivering on those claims once November arrives and the days get short.

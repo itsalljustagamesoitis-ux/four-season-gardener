@@ -53,6 +53,8 @@ faq:
     answer: "IP65 means the fixture is sealed against water jets from any direction — rain, sprinkler spray, garden hose overspray. IP67 adds brief submersion tolerance up to one meter of water. For a wall-mounted security light like the Mr Beams or LEONLITE, IP65 is adequate. For ground-level spotlights in areas prone to standing water or spring flooding, IP67 is the more meaningful rating."
   - question: "Is the VOLT 12V low-voltage system safe to install yourself, or does it require an electrician?"
     answer: "The 12V system is safe for DIY installation. The transformer steps down standard 120V household power to 12V before it reaches the cable and fixtures, so the only part operating at line voltage is inside the sealed transformer enclosure. You run the low-voltage cable through your beds, splice each fixture with the included connectors, and plug the transformer into a standard outdoor outlet. No electrical credentials are needed for the low-voltage side of the installation."
+safety_topics:
+  - electrical
 ---
 
 Most outdoor security lights fall into one of two categories: cheap solar units that underperform by October, or hardwired fixtures that require a licensed electrician and a permit before you can feel safe walking to your car at night. Neither extreme is particularly helpful. After running various combinations of motion-activated and landscape lighting across my 12 acres in Litchfield County, I've settled on four products that actually hold up across seasons and don't require a leap of faith. This is what I'd recommend to a capable adult who wants reliable outdoor lighting without the usual headaches.

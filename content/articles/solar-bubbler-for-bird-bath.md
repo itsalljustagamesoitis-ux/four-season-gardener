@@ -60,6 +60,8 @@ faq:
     answer: "Yes — most solar bubblers float freely in the bird bath basin and do not require any installation or modification to the bath itself. Confirm the pump's minimum water depth requirement (typically 1–2 inches) matches your bath's basin depth."
   - question: "Do I need to bring a solar bird bath bubbler inside for winter?"
     answer: "Yes — water left in the pump during freezing temperatures can crack the housing and damage the impeller. Store the pump indoors once temperatures drop near freezing, and use a separate bird bath heater or de-icer to keep water accessible to birds through winter."
+safety_topics:
+  - electrical
 ---
 
 Moving water attracts birds. That's not a marketing claim, it's just physics and bird behavior. The sound and shimmer of a bubbler or fountain draws species that walk right past a still bath, and in summer, that includes birds you'd never otherwise see at ground level. A solar bubbler for a bird bath is the simplest, lowest-maintenance way to add that movement without running an extension cord across your yard.

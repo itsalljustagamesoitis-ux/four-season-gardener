@@ -39,6 +39,8 @@ faq:
     answer: "Yes — the Portable Buddy requires the F273702 adapter hose (approximately $25) to connect to a 20 lb tank. On high at 9,000 BTU, a 20-lb tank lasts 40 to 50 hours, which is practical for multi-night frost protection. Running off 1-lb canisters at full output provides only 3 to 4 hours of heat and is not viable for overnight protection."
   - question: "How much ventilation does a propane greenhouse heater require?"
     answer: "Enough to allow continuous air exchange — at minimum, a 2-inch gap at ground level and a partially open top vent. This lets carbon monoxide and excess humidity escape while bringing in fresh air for combustion. Yes, this lets some heat out; that is the required trade-off for safe propane use in any enclosed structure."
+safety_topics:
+  - heating
 ---
 
 A propane greenhouse heater is one of those purchases that sounds simple until you're standing in a frost-killed propagation house in March trying to figure out what went wrong. The stakes are real: a single hard freeze can wipe out months of seedlings, overwintering perennials, or a collection you've spent years building. So I want to be direct about what these heaters actually are, which ones are worth buying, and what you need to do to run them safely.

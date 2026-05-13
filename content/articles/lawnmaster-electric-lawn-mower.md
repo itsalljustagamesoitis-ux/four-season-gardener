@@ -32,6 +32,9 @@ faq:
     answer: "The mower supports mulching, side discharge, and bagging via the Select Cut multi-blade system. A bagging bag is included. Cutting height adjusts across 6 positions from 1.5 to 4 inches."
   - question: "Is the EGO LM2135SP worth the price compared to a gas mower?"
     answer: "For yards between half an acre and two acres, the long-term savings on gas, oil changes, carburetor maintenance, and fuel storage typically justify the higher upfront cost. The reviewer found it worth the premium after three seasons of heavy use."
+safety_topics:
+  - power-equipment
+  - electrical
 ---
 
 The search for a reliable cordless mower that actually delivers on runtime is long enough that most people give up and keep buying gas. I did not want to do that. After three seasons of maintaining roughly two acres of mown lawn on my 12-acre property, including slopes, a section of dense clover, and ground that stays soft well into May, I spent the better part of last summer putting the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) through its paces. What follows is a direct account of how it performed, what it costs, and whether I think it's worth your money.

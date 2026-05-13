@@ -39,6 +39,9 @@ faq:
     answer: "Output drops significantly on overcast days since the heating element depends directly on solar generation. Monocrystalline panels perform better in low-light conditions than polycrystalline panels, but you should still expect sharply reduced heating on heavily cloudy days."
   - question: "Are solar greenhouse heaters safe to leave unattended?"
     answer: "Models with built-in overheating protection are generally safe for unattended use, but you should still follow manufacturer guidelines and ensure adequate ventilation in the enclosure. Always verify the specific model's safety features before leaving it running without supervision."
+safety_topics:
+  - heating
+  - electrical
 ---
 
 Solar power and greenhouse heating make for an uneasy partnership, and anyone selling you otherwise is working harder on the pitch than the physics. That said, there is a real and legitimate use case here, and if you understand it going in, you can make these products work. The mistake most people make is expecting a solar heater to function like a plugged-in space heater with panels attached. It doesn't. But for cold frames, small coops, and mini greenhouses in the 20-to-50-cubic-foot range, a purpose-built solar heater can carry genuine weight, especially if you're combining it with good passive heat retention. I've been running small-scale experiments in a few outbuildings on my property over the past two winters, and what follows reflects that, not manufacturer specs.

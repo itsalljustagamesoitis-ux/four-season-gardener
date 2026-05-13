@@ -43,6 +43,8 @@ faq:
     answer: "Solar motion lights like the Mr Beams Solar Wedge Plus provide a reasonable deterrent and are far easier to install than wired security lights. Their limitation is battery-dependent runtime — if the battery is depleted by extended cloudy weather, the light will not activate. For critical security applications, a wired or battery-backup option is more reliable."
   - question: "How do I compare solar garden lights before buying to avoid cheap repackaged models?"
     answer: "Look for stated lumen output, a specific IP waterproof rating (not just 'waterproof'), and a named battery capacity in mAh. Products that omit these specs or only list vague claims are often low-quality units. Buying from established brands like Mr Beams or LITOM with verified reviews reduces the risk of getting a poor-performing product."
+safety_topics:
+  - electrical
 ---
 
 If you're shopping for solar powered garden lights for sale and you want a straight answer about which product actually fits your situation, this comparison is for you. The market is full of solar motion lights that promise a lot and deliver inconsistently, so I'm going to focus on two products I've spent real time evaluating: the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) and the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights). They're both budget-range options. They're not trying to do the same job. And one of them is probably the right answer for your property.

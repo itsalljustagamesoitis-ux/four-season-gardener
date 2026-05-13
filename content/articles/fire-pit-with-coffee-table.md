@@ -43,6 +43,8 @@ faq:
     answer: "The Napoleon St. Tropez includes a natural gas conversion kit, making it compatible with a permanent gas line as well as standard propane. This eliminates the recurring cost and logistics of tank refills for buyers who have natural gas service at their home."
   - question: "How difficult is it to assemble a fire pit coffee table?"
     answer: "Most fire pit tables in this category assemble in 30–60 minutes with basic tools — the main steps are attaching the legs, connecting the burner assembly, and hooking up the gas line with a standard hose connection. No plumbing expertise is required for propane models."
+safety_topics:
+  - heating
 ---
 
 If you've spent any time looking at [fire pit tables on rectangular frames](/rectangular-fire-pit-table/), you've probably noticed that the category splits pretty cleanly into two camps: furniture-first designs that happen to have a burner, and fire-first designs that happen to have a surface. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) are the clearest representatives of each camp I've found at their respective price points. One is a practical, good-looking patio table with serious heat output. The other is a permanent outdoor living investment with the kind of hardware that doesn't apologize for its price. Neither is wrong. But they're not interchangeable, and I'd rather give you a straight read than a "both are great" shrug.

@@ -32,6 +32,8 @@ faq:
     answer: "The EGO ME0801 uses a steel blade (not nylon) and produces clean, defined edges comparable to gas edgers on concrete sidewalks and driveway borders. The depth wheel keeps cuts consistent, and debris is thrown away from the operator rather than toward your legs."
   - question: "Can I use the EGO Multi-Head power head with other attachments besides the edger?"
     answer: "Yes — the EGO Multi-Head system supports a range of attachments including a string trimmer, hedge trimmer, pole saw, and cultivator. Buying the combo kit as your entry point into the EGO platform means that one battery and one motor eventually power your entire cordless tool lineup."
+safety_topics:
+  - power-equipment
 ---
 
 If you've been searching "Stihl battery edger" hoping to find a cordless version of the KA 85 or the HSA line, you've probably already noticed that Stihl's cordless edger options are either unavailable on Amazon or difficult to source outside of authorized dealers. That's not a knock on Stihl. Their battery platform is serious equipment, as anyone who's run their AP series tools can tell you. But if you need to buy today, from a platform with wide retail availability and a mature battery ecosystem, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is what I'd point you toward.

@@ -32,6 +32,8 @@ faq:
     answer: "An adjustable nozzle lets you direct the airstream left, right, or straight ahead while driving, which is critical on irregular properties with tree lines, drainage swales, or no-go zones where you don't want debris landing. Fixed-nozzle models are cheaper but require more driving passes to direct leaves where you want them."
   - question: "How does the SuperHandy tow-behind blower compare to the Agri-Fab tow-behind models?"
     answer: "The SuperHandy runs about $280 to $320 — significantly less than Agri-Fab's 44-inch PTO-driven tow-behind models, which are closer to $500. The Agri-Fab units leverage tractor power rather than a separate engine, which can mean more consistent torque on hills, but the SuperHandy's self-contained engine is a reasonable trade-off for the price difference on flat or gently rolling properties."
+safety_topics:
+  - power-equipment
 ---
 
 If you're managing more than two or three acres of lawn, a handheld or backpack blower stops being a tool and starts being a punishment. I've been through several iterations of that particular mistake on my 12-acre property: the sore shoulders, the half-finished sessions, the leaf piles abandoned somewhere near the back pasture because I simply ran out of time and arm strength. A tractor leaf blower changes that calculation entirely, and the [SuperHandy Tow-Behind Leaf Blower, Adjustable](product:superhandy-tow-behind-leaf-blower) is one of the more accessible entry points into that category. I've put it through a full fall season, and this is what I found.

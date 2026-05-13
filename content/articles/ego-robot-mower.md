@@ -32,6 +32,8 @@ faq:
     answer: "On flat, dry grass the Select Cut multi-blade deck is genuinely close to what a well-tuned gas mower produces. The three-blade setup keeps tip speed high enough that cut quality doesn't noticeably degrade as the battery depletes, which is a real advantage over single-blade cordless mowers. In heavy or wet grass, gas still has a torque edge that you will feel. For 90 percent of normal mowing conditions the difference is small."
   - question: "Will EGO 56V batteries from my other tools work in this mower?"
     answer: "Yes. The 56V ARC Lithium platform is cross-compatible across the EGO Power+ lineup — trimmers, blowers, hedge trimmers, chainsaws, snow blowers. If you already own EGO 56V batteries from other tools, they work in the LM2135SP. That compatibility is one of the stronger arguments for buying into the platform rather than mixing brands."
+safety_topics:
+  - power-equipment
 ---
 
 The title "EGO robot mower" gets searched often enough, and I want to address that upfront: EGO does not currently make a fully autonomous robot mower. What they make is the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower), which is a self-propelled walk-behind mower with enough technology packed into it that people apparently confuse the two. If you landed here looking for a sit-back-and-watch autonomous unit, you'll want to read our [robot lawn mower garage](/robot-lawn-mower-garage/) piece instead. If you're here because you want a battery-powered mower that does most of the physical work for you, you're in the right place.

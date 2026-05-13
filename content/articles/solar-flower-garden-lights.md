@@ -43,6 +43,8 @@ faq:
     answer: "They charge less efficiently in partial shade, resulting in shorter nightly runtime. If your flower beds are under a tree canopy or on the north side of a structure, look for lights with a separate solar panel that can be positioned in a sunnier spot while the light stakes remain in the shade."
   - question: "How long do solar flower garden lights last before the battery needs replacing?"
     answer: "Most built-in lithium batteries in solar garden lights last 2–3 years before noticeably shorter runtime signals degradation. Models with replaceable batteries can be extended indefinitely; lights with sealed batteries will need to be replaced as a unit when the battery fails."
+safety_topics:
+  - electrical
 ---
 
 Solar flower garden lights occupy a strange middle ground in outdoor lighting. They're decorative enough to soften a border or pathway, but the better ones pull real security duty too. The problem is the category is flooded with products that look identical in the listing photos and perform very differently once they're staked into your actual yard and left to charge through a partly cloudy week in November.

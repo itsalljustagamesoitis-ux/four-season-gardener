@@ -46,6 +46,8 @@ faq:
     answer: "For a small to medium yard with light debris, 400–500 CFM is sufficient. For wet leaves, gravel driveways, or gutters, look for 550 CFM or higher. CFM (cubic feet per minute) measures volume of air moved and is more useful than MPH for real-world clearing ability."
   - question: "Are cordless leaf blowers as powerful as gas ones?"
     answer: "Modern 40V and higher cordless blowers match or exceed mid-range gas blowers in CFM output while being lighter, quieter, and zero-emissions. Where gas still leads is runtime for continuous professional use — cordless tools require battery swaps on large properties. For most homeowners the cordless experience is strictly better."
+safety_topics:
+  - power-equipment
 ---
 
 The 40V cordless leaf blower category has gotten crowded enough that the voltage number alone tells you almost nothing. What matters more is CFM output, whether the battery platform connects to tools you already own, and whether the blower is weighted in a way you can actually use for 45 minutes straight in October. I've tested handheld and backpack cordless blowers since 2019, and the honest answer is that the right pick depends heavily on what's already in your garage.

@@ -32,6 +32,8 @@ faq:
     answer: "Yes, when connected to the hub and the B-hyve app, WeatherSense pulls local forecast data and skips scheduled cycles if significant rain is detected — no physical rain sensor required."
   - question: "Is the Orbit B-hyve XD compatible with a standard garden hose faucet?"
     answer: "Yes, it uses a standard 3/4-inch female hose thread and attaches directly to any outdoor spigot without adapters in most cases."
+safety_topics:
+  - electrical
 ---
 
 If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a $15 mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.

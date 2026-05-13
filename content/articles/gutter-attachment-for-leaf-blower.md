@@ -53,6 +53,8 @@ faq:
     answer: "A blower-vac combo like the Toro UltraPlus or Greenworks 40V lets you blow debris out of gutters and then switch to vacuum mode to collect leaves on the ground, mulching them down to a fraction of their volume. This reduces the number of bags needed to dispose of yard waste."
   - question: "Is a backpack leaf blower worth it for gutter cleaning?"
     answer: "A backpack blower like the EGO LB6004 delivers 600 CFM — enough to handle packed debris — and the weight is distributed across your shoulders so fatigue is minimal during longer cleanups. The significantly higher cost is justified if you have a large property or clean gutters frequently."
+safety_topics:
+  - power-equipment
 ---
 
 Gutter cleaning sits in an uncomfortable middle ground in the tool world. It's not complicated enough that most people think about it carefully, but it's dangerous enough that it probably deserves more thought than a quick ladder climb in October. Falls from ladders account for a significant share of serious home injury hospitalizations every year, and a good portion of those happen during routine maintenance tasks like this one. So when a $30 attachment can keep your feet on the ground, that's worth knowing about.

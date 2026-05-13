@@ -43,6 +43,8 @@ faq:
     answer: "Powder-coated steel is heavier and less expensive but can show surface oxidation and pitting after repeated wet seasons in cold climates. Cast aluminum does not rust and the finish holds significantly longer outdoors. For a permanent installation intended to last 10 years, aluminum construction like the Napoleon St. Tropez justifies its higher upfront cost. For a 3 to 5 year horizon with a covered storage option, powder-coated steel is adequate."
   - question: "Can I store a 20-lb propane tank inside the Outland Living 403 fire pit cabinet?"
     answer: "Yes — the enclosed cabinet base of the Outland 403 is designed to house a standard 20 lb propane tank during use. The tank fits inside with the lid closed, keeping it out of sight while the table is in use. Do not store additional tanks inside the cabinet; only the single connected tank should be in the enclosed space during operation."
+safety_topics:
+  - heating
 ---
 
 Round propane fire pit tables have gotten genuinely good in the last few years, and the category is now crowded enough that picking one requires actual homework. Two products keep surfacing in that research: the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table). They're both propane-fueled, both table-format, and both marketed to people who want a permanent outdoor living setup rather than a backyard bonfire situation. But they're aimed at different buyers, and the price difference between them is substantial enough to matter. I'll give you a straight read on both.

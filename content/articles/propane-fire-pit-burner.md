@@ -43,6 +43,8 @@ faq:
     answer: "In most U.S. jurisdictions, connecting a fixed gas appliance requires a permit and must be done by a licensed gas fitter or plumber. Even where not legally required, homeowner's insurance often excludes damage from unlicensed gas work. Pull the permit and hire the professional — the burner component is inexpensive relative to the liability of skipping that step."
   - question: "How much fire glass or lava rock do I need to cover a 19-inch round burner pan?"
     answer: "A 19-inch round burner pan typically needs 10 to 20 pounds of fire glass or lava rock to achieve a clean look with the burner hidden beneath the media. The exact amount depends on how deep you want the fill and the particle size of your chosen media. Start with 15 pounds and adjust after your first burn."
+safety_topics:
+  - heating
 ---
 
 If you're building a custom fire pit and need a propane burner insert, the two products that keep coming up in this category are the [Stanbroil 19-Inch Round Fire Pit Burner Pan](product:stanbroil-19in-round-burner-pan) and the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner). Both are drop-in components, both are stainless steel, both work with natural gas or propane. So the real question isn't which one is "better" in the abstract. It's which one fits your fire pit opening, your aesthetic, and what you're actually trying to build. That's what I'll walk through here.

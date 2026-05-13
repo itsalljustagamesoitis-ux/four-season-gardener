@@ -53,6 +53,8 @@ faq:
     answer: "A 50,000 BTU propane fire table like the Outland Living Series 403 provides meaningful warmth within roughly 8 to 12 feet on a mild evening in the 45 to 55 degree range. In genuinely cold conditions it will take the edge off rather than replace a coat. The Bond tabletop unit produces almost no usable heat and should not be purchased with warmth as a primary goal."
   - question: "What is the difference between a fire pit table and a regular fire pit?"
     answer: "A fire pit table integrates the burner into a table-height frame with a surrounding surface that functions as outdoor furniture when the cover is in place. A traditional fire pit is a standalone burning vessel without a table surface. Fire pit tables are generally taller, more furniture-integrated, and almost always gas-powered, while freestanding pits come in both wood-burning and gas versions."
+safety_topics:
+  - heating
 ---
 
 A fire pit table sounds simple enough until you start pricing them. Then you find yourself looking at a $49 steel bowl on one tab and a $1,200 cast aluminum centerpiece on another, wondering what exactly you're paying for and whether any of it matters. I've spent time with all four of the products in this roundup, and my goal here is to give you a clear answer to that question rather than a list of features lifted from product pages.

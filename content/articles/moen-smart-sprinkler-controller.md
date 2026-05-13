@@ -32,6 +32,8 @@ faq:
     answer: "Weather Intelligence automatically skips or shortens scheduled watering sessions when rain is forecast or has recently fallen, using local weather station data. This prevents overwatering and can meaningfully reduce water bills over a full irrigation season without any manual intervention."
   - question: "Can the Rachio 3 be used with drip irrigation or soaker hoses?"
     answer: "The Rachio 3 is designed for inground sprinkler systems with standard 24VAC zone wiring. While it can technically run drip and soaker zones on that same wiring infrastructure, it is not designed for standalone drip or hose-bib setups — those are better served by a dedicated hose-end timer."
+safety_topics:
+  - electrical
 ---
 
 If you've been searching for a Moen smart sprinkler controller and keep landing on the Rachio 3 instead, there's a reason for that. Moen made a brief push into smart irrigation with their Flo system, but their sprinkler controller line never gained the traction or the support ecosystem that serious irrigation users need. The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller) is, at this point, the product that occupies the space Moen was aiming for. If your goal is hands-off scheduling, genuine water savings, and a controller that actually integrates with the rest of your smart home, the Rachio 3 is where the conversation starts. My coverage of sprinkler controllers, timers, and irrigation upgrades lives over at [Irrigation](/irrigation/) , if you're still sorting out what type of watering system you have or need, that's worth reading first.

@@ -32,6 +32,8 @@ faq:
     answer: "Yes, full remote control is available through the B-hyve app (iOS and Android) as long as the timer and hub are powered and connected to your home Wi-Fi."
   - question: "Is the Orbit B-hyve XD suitable for in-ground sprinkler systems?"
     answer: "No — it's a hose-end timer designed for standard 3/4-inch outdoor faucets. For in-ground systems with multiple valve zones, you'd need the B-hyve Smart Indoor/Outdoor Irrigation Controller instead."
+safety_topics:
+  - electrical
 ---
 
 Most of us running hose-end irrigation are making do with something mechanical, something dumb, or something that requires us to remember to turn it off. If you've ever come home to a waterlogged container bed because a cheap twist timer got stuck, you already understand why the orbit smart sprinkler controller category exists. The question is whether any of these devices are actually worth the premium over a $15 mechanical timer, or whether you're paying for an app you'll use twice and ignore. I've been testing the [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) for one full growing season, and I have a clear opinion.

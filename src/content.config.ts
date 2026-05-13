@@ -44,6 +44,8 @@ const ArticleSchema = z.object({
     question: z.string(),
     answer: z.string(),
   })).optional(),
+  // Safety topics — drives SafetyNotice component in layout
+  safety_topics: z.array(z.enum(['heating', 'power-equipment', 'electrical', 'chemical'])).optional(),
 })
 
 // ── Collections ───────────────────────────────────────────────────────────────

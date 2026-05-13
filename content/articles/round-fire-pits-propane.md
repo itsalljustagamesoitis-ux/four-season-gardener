@@ -43,6 +43,8 @@ faq:
     answer: "Yes — a fitted weatherproof cover protects the burner assembly and tabletop from rain, debris, and UV damage. Most propane fire pit tables are sold without covers, so budget an additional $30–$60 for a quality cover that fits your specific model."
   - question: "Can I cook over a round propane fire pit?"
     answer: "Most propane fire pit tables are not designed or approved for cooking — the burner placement, BTU output, and materials are optimized for ambiance, not food preparation. If you want a fire feature you can cook over, look for a propane fire pit specifically rated for cooking or a dedicated propane grill instead."
+safety_topics:
+  - heating
 ---
 
 Propane fire pit tables have gotten crowded enough as a category that picking one requires actual criteria, not just a budget and a size preference. Two products keep coming up in serious outdoor living discussions: the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table). They're both round propane fire pits in the broad sense of "table with fire in the middle," but they're solving different problems for different buyers. This comparison will tell you which one is actually worth your money based on what you plan to do with it. If you're still orienting yourself in the category, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub is a reasonable place to start.

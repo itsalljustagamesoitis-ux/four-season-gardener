@@ -67,6 +67,8 @@ faq:
     answer: "Most fire pit tables are designed to conceal a standard 20 lb (5-gallon) propane tank inside the base. Check the table's interior cabinet dimensions before purchasing, as some smaller tables only fit a 1 lb disposable cylinder."
   - question: "Are propane fire pits safe on composite or wood decks?"
     answer: "Propane fire pits are generally deck-safe because they don't produce flying embers, but you should use a heat-resistant mat under the unit and follow the manufacturer's clearance guidelines. Wood-burning pits are not recommended on composite or wood decks."
+safety_topics:
+  - heating
 ---
 
 Ok so the phrase "fire pit with propane tank inside" covers a lot of ground. From a $45 bowl that sits on a bistro table to a 200-pound concrete-look table that anchors a whole patio layout. These are not the same product solving the same problem obviously and treating them as interchangeable, is how people end up with something they regret buying.

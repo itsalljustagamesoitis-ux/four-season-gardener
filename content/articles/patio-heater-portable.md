@@ -60,6 +60,8 @@ faq:
     answer: "A fire table makes sense when you want a permanent gathering point that doubles as furniture. The Outland Living and Napoleon options in this roundup function as full outdoor tables when the burner cover is on, so the footprint earns its place year-round. If you need something you can move to different spots on your property, a standing heater or the Big Buddy is a better fit."
   - question: "Is the Bond Lara tabletop firebowl actually worth buying?"
     answer: "It depends entirely on what you expect from it. As a heat source it produces almost nothing — this is an atmosphere product. As a compact flame centerpiece for a balcony, a small deck, or a dinner table where there's no room for a full fire table, it does its job cleanly at a price around $35 to $50. Just don't buy it expecting to extend your season by a meaningful amount."
+safety_topics:
+  - heating
 ---
 
 Portable patio heaters cover a lot of ground, literally and figuratively. You've got 50,000 BTU fire tables doing double duty as furniture, and you've got $40 tabletop bowls that produce about as much heat as a large candle. Both get called "portable patio heaters" in product listings, which makes comparison shopping genuinely confusing. This roundup covers five products across that full range, with a clear recommendation for each use case. If you want to browse the broader category before committing, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub has additional context on fuel types, BTU ratings, and placement considerations.

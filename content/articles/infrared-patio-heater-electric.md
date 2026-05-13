@@ -60,6 +60,9 @@ faq:
     answer: "A built-in thermostat like that on the Dr. Infrared Heater thermostat model cycles the heater on and off to maintain a set temperature, which saves electricity compared to running at full power continuously. For occasional use a manual on/off unit is fine, but frequent users will find thermostat control meaningfully reduces energy costs."
   - question: "Are electric infrared patio heaters weatherproof?"
     answer: "Weatherproofing varies by model — the Thermomate heater carries an IP65 rating meaning it's dust-tight and protected against water jets, while other models like the infrared tower heater carry IPX5 water resistance. Always check the specific IP rating before mounting in an exposed location."
+safety_topics:
+  - heating
+  - electrical
 ---
 
 Electric infrared patio heaters have gotten considerably better in the past few years, and the price points have dropped to where it's hard to justify a propane setup for a covered deck or screened porch. I've tested several of these over the past two seasons on my property in Litchfield County, and I've also watched neighbors with smaller patios cycle through the same frustrations: uneven heat, fussy gas connections, heaters that take five minutes to do anything useful in cold weather. Infrared solves most of those problems. The question is which unit actually delivers on that promise, and which ones are dressing up mediocre output in a sleek housing.

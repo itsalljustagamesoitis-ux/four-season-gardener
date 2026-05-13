@@ -32,6 +32,8 @@ faq:
     answer: "At least 400 CFM is recommended to move dry leaves and light debris through the curved tubes efficiently. Lower-powered blowers may struggle with compacted or wet debris that has packed into the gutter channel."
   - question: "How well does the WORX WA4094 handle wet or compacted gutter debris?"
     answer: "The kit performs well with dry leaf fragments but is less reliable on compacted wet debris. If your gutters contain thick packed material from recent rain, manual clearing or a pressure washer may be needed before using the blower attachment."
+safety_topics:
+  - power-equipment
 ---
 
 If you own a STIHL blower and you've been hunting for a gutter cleaning kit that actually fits it, you've probably noticed that STIHL doesn't make a dedicated gutter attachment for most of their consumer lineup. The brand-specific path hits a dead end fast. What actually works, and what most people land on after a bit of searching, is a universal kit designed to fit whatever blower you already own. The [WORX WA4094 GutterPro Universal Gutter Cleaning Kit](product:worx-wa4094-gutter-kit) is the one worth looking at seriously. I've been using it on my property in Connecticut, and this review covers whether it delivers on its central promise. For more on the full scope of fall and spring yard work, the [Lawn Care](/lawn-care/) hub has context on how gutter management fits into a broader seasonal maintenance plan.
