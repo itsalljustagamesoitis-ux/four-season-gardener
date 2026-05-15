@@ -433,7 +433,7 @@ hiland-pyramid-patio-heater:
   amazon_asin: B07B94686C
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07B94686C._SL500_.jpg
+  default_image: /images/products/hiland-pyramid-patio-heater.jpg
   category: fire-and-heat
   price_band: premium
   default_pros:
@@ -794,7 +794,7 @@ ring-solar-pathlight-2pack:
   amazon_asin: B07YPB8TBS
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07YPB8TBS._SL500_.jpg
+  default_image: /images/products/ring-solar-pathlight-2pack.jpg
   category: lighting
   price_band: mid
   default_pros:
@@ -813,7 +813,7 @@ litom-30led-solar-spotlight:
   amazon_asin: B0F2FZPQSR
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0F2FZPQSR._SL500_.jpg
+  default_image: /images/products/litom-30led-solar-spotlight.jpg
   category: lighting
   price_band: budget
   default_pros:
@@ -933,7 +933,7 @@ vego-garden-raised-bed:
   amazon_asin: B09B17MDRR
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B09B17MDRR._SL500_.jpg
+  default_image: /images/products/vego-garden-raised-bed.jpg
   category: raised-beds
   price_band: mid
   default_pros:
@@ -1118,7 +1118,7 @@ fiskars-pro-bypass-pruner:
   amazon_asin: B00002N66H
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B00002N66H._SL500_.jpg
+  default_image: /images/products/fiskars-pro-bypass-pruner.jpg
   category: hand-tools
   price_band: budget
   default_pros:
@@ -1136,7 +1136,7 @@ felco-2-pruner:
   amazon_asin: B00023RYS6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B00023RYS6._SL500_.jpg
+  default_image: /images/products/felco-2-pruner.jpg
   category: hand-tools
   price_band: premium
   default_pros:
@@ -1731,7 +1731,7 @@ orbit-62100-yard-enforcer-sprinkler:
   amazon_asin: B0G1FPDBK2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0G1FPDBK2._SL500_.jpg
+  default_image: /images/products/orbit-62100-yard-enforcer-sprinkler.jpg
   category: birds-wildlife
   price_band: mid
   default_pros:
@@ -2216,7 +2216,7 @@ lahaap-teak-bar-stools:
   amazon_asin: B0DF2BNTXJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DF2BNTXJ._SL500_.jpg
+  default_image: /images/products/lahaap-teak-bar-stools.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -2747,7 +2747,7 @@ dewalt-dcmw220p2-cordless-mower:
   amazon_asin: B078YZ6Y4S
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/I/71zFAWcMcKL._SL500_.jpg
+  default_image: /images/products/dewalt-dcmw220p2-cordless-mower.jpg
   category: battery-equipment
   price_band: mid
   default_pros:
@@ -2765,7 +2765,7 @@ dr-infrared-heater-outdoor-b077:
   amazon_asin: B077JM5PB9
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B077JM5PB9._SL500_.jpg
+  default_image: /images/products/dr-infrared-heater-outdoor-b077.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2783,7 +2783,7 @@ dr-infrared-heater-thermostat-b0bp:
   amazon_asin: B0BPVDH521
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0BPVDH521._SL500_.jpg
+  default_image: /images/products/dr-infrared-heater-thermostat-b0bp.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2801,7 +2801,7 @@ paraheeter-1500w-infrared-b09f:
   amazon_asin: B09F36PFTF
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B09F36PFTF._SL500_.jpg
+  default_image: /images/products/paraheeter-1500w-infrared-b09f.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2819,7 +2819,7 @@ thermomate-infrared-patio-heater-b0c7:
   amazon_asin: B0C7ZQDQ62
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0C7ZQDQ62._SL500_.jpg
+  default_image: /images/products/thermomate-infrared-patio-heater-b0c7.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2837,7 +2837,7 @@ infrared-tower-heater-b0fm:
   amazon_asin: B0FMFPXVC7
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FMFPXVC7._SL500_.jpg
+  default_image: /images/products/infrared-tower-heater-b0fm.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2855,7 +2855,7 @@ dr-infrared-carbon-tripod-b08r:
   amazon_asin: B08R6R6WFZ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08R6R6WFZ._SL500_.jpg
+  default_image: /images/products/dr-infrared-carbon-tripod-b08r.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2873,7 +2873,7 @@ serenelife-900w-infrared-b0db:
   amazon_asin: B0DBZXY3NG
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DBZXY3NG._SL500_.jpg
+  default_image: /images/products/serenelife-900w-infrared-b0db.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2891,7 +2891,7 @@ luxeva-2in1-infrared-b0g4:
   amazon_asin: B0G4HP6RHQ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0G4HP6RHQ._SL500_.jpg
+  default_image: /images/products/luxeva-2in1-infrared-b0g4.jpg
   category: fire-and-heat
   price_band: premium
   default_pros:
@@ -2909,7 +2909,7 @@ avenger-tank-top-infrared-b0df:
   amazon_asin: B0DFZV2912
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DFZV2912._SL500_.jpg
+  default_image: /images/products/avenger-tank-top-infrared-b0df.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2927,7 +2927,7 @@ xtremepowerus-infrared-tank-top-b084:
   amazon_asin: B084CTKW9G
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B084CTKW9G._SL500_.jpg
+  default_image: /images/products/xtremepowerus-infrared-tank-top-b084.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2945,7 +2945,7 @@ mr-heater-portable-buddy-b002:
   amazon_asin: B002G51BZU
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B002G51BZU._SL500_.jpg
+  default_image: /images/products/mr-heater-portable-buddy-b002.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -2963,7 +2963,7 @@ propane-heater-18kbtu-b0g5:
   amazon_asin: B0G52CH12D
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0G52CH12D._SL500_.jpg
+  default_image: /images/products/propane-heater-18kbtu-b0g5.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2981,7 +2981,7 @@ biogreen-palma-greenhouse-heater-b06x:
   amazon_asin: B06XCJGNJK
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B06XCJGNJK._SL500_.jpg
+  default_image: /images/products/biogreen-palma-greenhouse-heater-b06x.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -2999,7 +2999,7 @@ bio-green-phoenix-240v-b000:
   amazon_asin: B000MQX1HG
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B000MQX1HG._SL500_.jpg
+  default_image: /images/products/bio-green-phoenix-240v-b000.jpg
   category: fire-and-heat
   price_band: premium
   default_pros:
@@ -3017,7 +3017,7 @@ dr-infrared-dr218-greenhouse-b00j:
   amazon_asin: B00J6B2G10
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B00J6B2G10._SL500_.jpg
+  default_image: /images/products/dr-infrared-dr218-greenhouse-b00j.jpg
   category: fire-and-heat
   price_band: mid
   default_pros:
@@ -3035,7 +3035,7 @@ kerosene-heater-stove-b0cj:
   amazon_asin: B0CJ6F6LZN
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CJ6F6LZN._SL500_.jpg
+  default_image: /images/products/kerosene-heater-stove-b0cj.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -3053,7 +3053,7 @@ solar-coop-heater-b0g1:
   amazon_asin: B0G1BDKSRQ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0G1BDKSRQ._SL500_.jpg
+  default_image: /images/products/solar-coop-heater-b0g1.jpg
   category: fire-and-heat
   price_band: budget
   default_pros:
@@ -3089,7 +3089,7 @@ jocisland-cedar-greenhouse-6x8-b0f9:
   amazon_asin: B0F9DK5Y79
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0F9DK5Y79._SL500_.jpg
+  default_image: /images/products/jocisland-cedar-greenhouse-6x8-b0f9.jpg
   category: structures
   price_band: mid
   default_pros:
@@ -3107,7 +3107,7 @@ backyard-discovery-willow-greenhouse-b0cr:
   amazon_asin: B0CRSKH1T6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CRSKH1T6._SL500_.jpg
+  default_image: /images/products/backyard-discovery-willow-greenhouse-b0cr.jpg
   category: structures
   price_band: premium
   default_pros:
@@ -3125,7 +3125,7 @@ backyard-discovery-bellerose-xl-b0dd:
   amazon_asin: B0DDZSSVK8
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DDZSSVK8._SL500_.jpg
+  default_image: /images/products/backyard-discovery-bellerose-xl-b0dd.jpg
   category: structures
   price_band: premium
   default_pros:
@@ -3143,7 +3143,7 @@ ash-ember-hawthorne-teak-bench-b07v:
   amazon_asin: B07VYSP2N2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07VYSP2N2._SL500_.jpg
+  default_image: /images/products/ash-ember-hawthorne-teak-bench-b07v.jpg
   category: outdoor-furniture
   price_band: premium
   default_pros:
@@ -3161,7 +3161,7 @@ tangkula-teak-bench-51in-b0gv:
   amazon_asin: B0GVJ98FKW
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0GVJ98FKW._SL500_.jpg
+  default_image: /images/products/tangkula-teak-bench-51in-b0gv.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3179,7 +3179,7 @@ ash-ember-solstice-teak-bench-b0c4:
   amazon_asin: B0C4DWZ3YC
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0C4DWZ3YC._SL500_.jpg
+  default_image: /images/products/ash-ember-solstice-teak-bench-b0c4.jpg
   category: outdoor-furniture
   price_band: premium
   default_pros:
@@ -3197,7 +3197,7 @@ sunnydaze-teak-bench-60in-b08c:
   amazon_asin: B08CVW4BQ2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08CVW4BQ2._SL500_.jpg
+  default_image: /images/products/sunnydaze-teak-bench-60in-b08c.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3215,7 +3215,7 @@ vivijason-wicker-rocker-b09b:
   amazon_asin: B09BHZBWYL
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B09BHZBWYL._SL500_.jpg
+  default_image: /images/products/vivijason-wicker-rocker-b09b.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3233,7 +3233,7 @@ belord-wicker-rocker-b0d7:
   amazon_asin: B0D78BSXD5
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0D78BSXD5._SL500_.jpg
+  default_image: /images/products/belord-wicker-rocker-b0d7.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3251,7 +3251,7 @@ chita-swivel-rocker-b0cz:
   amazon_asin: B0CZRDFBKC
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CZRDFBKC._SL500_.jpg
+  default_image: /images/products/chita-swivel-rocker-b0cz.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3269,7 +3269,7 @@ belord-wicker-rocker-set-b0c7:
   amazon_asin: B0C7GQCPN6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0C7GQCPN6._SL500_.jpg
+  default_image: /images/products/belord-wicker-rocker-set-b0c7.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3287,7 +3287,7 @@ ystop-macrame-swing-chair-b07y:
   amazon_asin: B07YRN6WC2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07YRN6WC2._SL500_.jpg
+  default_image: /images/products/ystop-macrame-swing-chair-b07y.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3305,7 +3305,7 @@ greenstell-macrame-swing-b07m:
   amazon_asin: B07MWB6PHM
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07MWB6PHM._SL500_.jpg
+  default_image: /images/products/greenstell-macrame-swing-b07m.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3323,7 +3323,7 @@ joyview-macrame-swing-b0c1:
   amazon_asin: B0C17K6MZ6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0C17K6MZ6._SL500_.jpg
+  default_image: /images/products/joyview-macrame-swing-b0c1.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3341,7 +3341,7 @@ incbruce-wrought-iron-loveseat-b084:
   amazon_asin: B084VHTCJM
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B084VHTCJM._SL500_.jpg
+  default_image: /images/products/incbruce-wrought-iron-loveseat-b084.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3359,7 +3359,7 @@ solaste-aluminum-loveseat-b08d:
   amazon_asin: B08D6KC1TZ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08D6KC1TZ._SL500_.jpg
+  default_image: /images/products/solaste-aluminum-loveseat-b08d.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3377,7 +3377,7 @@ kiss-the-water-aluminum-loveseat-b0cc:
   amazon_asin: B0CC5YSVBJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CC5YSVBJ._SL500_.jpg
+  default_image: /images/products/kiss-the-water-aluminum-loveseat-b0cc.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3395,7 +3395,7 @@ never-rust-aluminum-loveseat-b0gf:
   amazon_asin: B0GFCZWV5D
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0GFCZWV5D._SL500_.jpg
+  default_image: /images/products/never-rust-aluminum-loveseat-b0gf.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3413,7 +3413,7 @@ ego-me0801-edger-combo-b07b:
   amazon_asin: B07BQJP381
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07BQJP381._SL500_.jpg
+  default_image: /images/products/ego-me0801-edger-combo-b07b.jpg
   category: battery-equipment
   price_band: mid
   default_pros:
@@ -3431,7 +3431,7 @@ purple-leaf-12x14-hot-tub-gazebo:
   amazon_asin: B0CRTRJXR4
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CRTRJXR4._SL500_.jpg
+  default_image: /images/products/purple-leaf-12x14-hot-tub-gazebo.jpg
   category: structures
   price_band: premium
   default_pros:
@@ -3449,7 +3449,7 @@ purple-leaf-12x20-hardtop-gazebo:
   amazon_asin: B08PFH8BCZ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08PFH8BCZ._SL500_.jpg
+  default_image: /images/products/purple-leaf-12x20-hardtop-gazebo.jpg
   category: structures
   price_band: premium
   default_pros:
@@ -3467,7 +3467,7 @@ domi-12x14-hardtop-gazebo:
   amazon_asin: B0BX246XBJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0BX246XBJ._SL500_.jpg
+  default_image: /images/products/domi-12x14-hardtop-gazebo.jpg
   category: structures
   price_band: mid
   default_pros:
@@ -3485,7 +3485,7 @@ suunyn-tall-adirondack-set-of-2:
   amazon_asin: B0G427G7QZ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0G427G7QZ._SL500_.jpg
+  default_image: /images/products/suunyn-tall-adirondack-set-of-2.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3503,7 +3503,7 @@ serwall-tall-adirondack-set-of-2:
   amazon_asin: B0DQWXLLXV
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DQWXLLXV._SL500_.jpg
+  default_image: /images/products/serwall-tall-adirondack-set-of-2.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3521,7 +3521,7 @@ giantex-tall-adirondack-set-of-2:
   amazon_asin: B0D9B9XCJV
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0D9B9XCJV._SL500_.jpg
+  default_image: /images/products/giantex-tall-adirondack-set-of-2.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3539,7 +3539,7 @@ kingsyard-mesh-finch-feeder:
   amazon_asin: B0BFF51XBK
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0BFF51XBK._SL500_.jpg
+  default_image: /images/products/kingsyard-mesh-finch-feeder.jpg
   category: birds-wildlife
   price_band: budget
   default_pros:
@@ -3557,7 +3557,7 @@ perky-pet-thistle-mesh-tube-feeder:
   amazon_asin: B002M332N0
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B002M332N0._SL500_.jpg
+  default_image: /images/products/perky-pet-thistle-mesh-tube-feeder.jpg
   category: birds-wildlife
   price_band: mid
   default_pros:
@@ -3575,7 +3575,7 @@ mewtogo-finch-sock-feeder-6pack:
   amazon_asin: B0BN2WFZVL
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0BN2WFZVL._SL500_.jpg
+  default_image: /images/products/mewtogo-finch-sock-feeder-6pack.jpg
   category: birds-wildlife
   price_band: budget
   default_pros:
@@ -3593,7 +3593,7 @@ idzo-deck-rail-hook-2pack:
   amazon_asin: B0CJT59P7F
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CJT59P7F._SL500_.jpg
+  default_image: /images/products/idzo-deck-rail-hook-2pack.jpg
   category: birds-wildlife
   price_band: budget
   default_pros:
@@ -3611,7 +3611,7 @@ bolite-deck-hook-20in:
   amazon_asin: B0FG2RM2CN
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FG2RM2CN._SL500_.jpg
+  default_image: /images/products/bolite-deck-hook-20in.jpg
   category: birds-wildlife
   price_band: budget
   default_pros:
@@ -3629,7 +3629,7 @@ feed-garden-deck-hook-2pack:
   amazon_asin: B0BVLTB21J
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0BVLTB21J._SL500_.jpg
+  default_image: /images/products/feed-garden-deck-hook-2pack.jpg
   category: birds-wildlife
   price_band: budget
   default_pros:
@@ -3647,7 +3647,7 @@ mellcom-12x14-hardtop-gazebo:
   amazon_asin: B0CCP4PGPQ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CCP4PGPQ._SL500_.jpg
+  default_image: /images/products/mellcom-12x14-hardtop-gazebo.jpg
   category: structures
   price_band: mid
   default_pros:
@@ -3665,7 +3665,7 @@ yoleny-12x14-hardtop-gazebo:
   amazon_asin: B0CN338GNJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CN338GNJ._SL500_.jpg
+  default_image: /images/products/yoleny-12x14-hardtop-gazebo.jpg
   category: structures
   price_band: mid
   default_pros:
@@ -3683,7 +3683,7 @@ aoxun-12x14-hardtop-gazebo-drainage:
   amazon_asin: B0FCLBPFGY
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FCLBPFGY._SL500_.jpg
+  default_image: /images/products/aoxun-12x14-hardtop-gazebo-drainage.jpg
   category: structures
   price_band: premium
   default_pros:
@@ -3701,7 +3701,7 @@ all-fortune-solar-rattan-chandelier:
   amazon_asin: B0DZ2TRMS6
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DZ2TRMS6._SL500_.jpg
+  default_image: /images/products/all-fortune-solar-rattan-chandelier.jpg
   category: lighting
   price_band: mid
   default_pros:
@@ -3719,7 +3719,7 @@ niorsun-solar-pendant-2pack:
   amazon_asin: B09V9ZV931
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B09V9ZV931._SL500_.jpg
+  default_image: /images/products/niorsun-solar-pendant-2pack.jpg
   category: lighting
   price_band: mid
   default_pros:
@@ -3737,7 +3737,7 @@ auzev-solar-cage-chandelier:
   amazon_asin: B0FSQ8YBBP
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FSQ8YBBP._SL500_.jpg
+  default_image: /images/products/auzev-solar-cage-chandelier.jpg
   category: lighting
   price_band: budget
   default_pros:
@@ -3755,7 +3755,7 @@ christopher-knight-acacia-adirondack:
   amazon_asin: B07DPF3DD1
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B07DPF3DD1._SL500_.jpg
+  default_image: /images/products/christopher-knight-acacia-adirondack.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3773,7 +3773,7 @@ giantex-acacia-adirondack-set-of-2:
   amazon_asin: B08748GHQJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08748GHQJ._SL500_.jpg
+  default_image: /images/products/giantex-acacia-adirondack-set-of-2.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3791,7 +3791,7 @@ soliwood-folding-adirondack-set-of-2:
   amazon_asin: B0B24JQD15
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0B24JQD15._SL500_.jpg
+  default_image: /images/products/soliwood-folding-adirondack-set-of-2.jpg
   category: outdoor-furniture
   price_band: budget
   default_pros:
@@ -3809,7 +3809,7 @@ amazonia-geneve-teak-dining-set-5pc:
   amazon_asin: B007MJKUA2
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B007MJKUA2._SL500_.jpg
+  default_image: /images/products/amazonia-geneve-teak-dining-set-5pc.jpg
   category: outdoor-furniture
   price_band: premium
   default_pros:
@@ -3827,7 +3827,7 @@ serwall-adirondack-glider-with-ottoman:
   amazon_asin: B0FB8TRKYD
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FB8TRKYD._SL500_.jpg
+  default_image: /images/products/serwall-adirondack-glider-with-ottoman.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3845,7 +3845,7 @@ serwall-adirondack-swivel-glider:
   amazon_asin: B0FF4W9FYJ
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0FF4W9FYJ._SL500_.jpg
+  default_image: /images/products/serwall-adirondack-swivel-glider.jpg
   category: outdoor-furniture
   price_band: mid
   default_pros:
@@ -3863,7 +3863,7 @@ hiland-wgthg-patio-heater:
   amazon_asin: B004KH152Q
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B004KH152Q._SL500_.jpg
+  default_image: /images/products/hiland-wgthg-patio-heater.jpg
   category: outdoor-heating
   price_band: mid
   default_pros:
@@ -3881,7 +3881,7 @@ orbit-yard-enforcer-sprinkler:
   amazon_asin: B0B1SG9MJH
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0B1SG9MJH._SL500_.jpg
+  default_image: /images/products/orbit-yard-enforcer-sprinkler.jpg
   category: pest-control
   price_band: mid
   default_pros:
@@ -3899,7 +3899,7 @@ liquid-fence-concentrate:
   amazon_asin: B014UUZ8AC
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B014UUZ8AC._SL500_.jpg
+  default_image: /images/products/liquid-fence-concentrate.jpg
   category: pest-control
   price_band: low
   default_pros:
@@ -3917,7 +3917,7 @@ litom-solar-motion-spotlights:
   amazon_asin: B0DP8L58VB
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0DP8L58VB._SL500_.jpg
+  default_image: /images/products/litom-solar-motion-spotlights.jpg
   category: outdoor-lighting
   price_band: low
   default_pros:
@@ -3935,7 +3935,7 @@ birdies-metal-raised-garden-bed:
   amazon_asin: B0CKN427F7
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CKN427F7._SL500_.jpg
+  default_image: /images/products/birdies-metal-raised-garden-bed.jpg
   category: raised-beds
   price_band: mid
   default_pros:
@@ -3953,7 +3953,7 @@ mammotion-luba-2-awd:
   amazon_asin: B0GR8WTD73
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0GR8WTD73._SL500_.jpg
+  default_image: /images/products/mammotion-luba-2-awd.jpg
   category: lawn-care
   price_band: high
   default_pros:
@@ -3971,7 +3971,7 @@ hartman-mow-house:
   amazon_asin: B0CN9N9269
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B0CN9N9269._SL500_.jpg
+  default_image: /images/products/hartman-mow-house.jpg
   category: lawn-care
   price_band: mid
   default_pros:
@@ -3989,7 +3989,7 @@ f273702-propane-adapter-hose:
   amazon_asin: B08257GC87
   awin_advertiser_id: null
   awin_product_url: null
-  default_image: https://m.media-amazon.com/images/P/B08257GC87._SL500_.jpg
+  default_image: /images/products/f273702-propane-adapter-hose.jpg
   category: outdoor-heating
   price_band: low
   default_pros:

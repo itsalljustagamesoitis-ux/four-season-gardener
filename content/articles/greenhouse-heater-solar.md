@@ -18,13 +18,6 @@ products:
       - "Overheating protection for safe unattended use"
     article_specific_cons:
       - "Low wattage , only effective for very small enclosures"
-  - id: "pomya-30w-solar-heater-b0gq"
-    role: "also_consider"
-    article_specific_pros:
-      - "30W monocrystalline panel , better efficiency than generic panels"
-      - "Portable and easy to reposition"
-    article_specific_cons:
-      - "Still limited output , supplement, not primary heat source"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
