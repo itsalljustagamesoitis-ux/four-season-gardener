@@ -44,6 +44,8 @@ The [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-
 
 For most buyers looking at real teak at this price point, this is the set to buy.
 
+[Check current price on Amazon](product:cambridge-casual-sierra-teak-dining-set)
+
 ## What We Tested
 
 The Sierra set ships in multiple boxes and requires assembly, which took about 45 minutes with two people and basic tools. The round table is 47 inches in diameter, which seats four adults comfortably. The umbrella hole is centered and fitted with a brass plug when not in use, which I appreciate.
@@ -54,6 +56,8 @@ The Sierra set ships in multiple boxes and requires assembly, which took about 4
 The four armrest chairs include cushions, which is not always the case at this price. The cushions are basic. They are weather-resistant and the color is inoffensive, but if you have strong opinions about cushion quality, budget another $60 to $80 for replacements. If you've already looked at [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) on this site, you'll know what a meaningful upgrade looks like.
 
 The teak itself is the main event. The wood is straight-grained, dense, and arrived with a uniform warm-brown color and no visible defects in the pieces I examined. Mortise and tenon joinery on the chair legs. Stainless steel hardware throughout, which matters because zinc or plated fasteners are where cheaper teak sets start to fail.
+
+[Check current price on Amazon](product:cambridge-casual-sierra-teak-dining-set)
 
 ## Performance
 
@@ -109,6 +113,8 @@ At $1,100 to $1,300, this is a real investment. That price is fair for genuine t
 
 The set does not include a cover. Given what you're spending, buy one. A fitted 48-inch round table cover runs about $35 to $50 and meaningfully extends the intervals between cleaning.
 
+[See Cambridge Casual Sierra 5 piece Teak Outdoor Dining Set, Include 4 Armrest Dinin on Amazon →](product:cambridge-casual-sierra-teak-dining-set)
+
 ## Who Should Buy This
 
 If you have a terrace, patio, or deck where you eat outside regularly from late spring through early fall and you want furniture that doesn't look like outdoor furniture in the pejorative sense, this set is a sound purchase.
@@ -131,6 +137,8 @@ I mentioned the Husqvarna comparison in other reviews. The equivalent here is so
 You can find more context on how this fits into the broader category of outdoor dining and seating options in our [outdoor furniture](/outdoor-furniture/) coverage.
 
 ,
+
+[See Cambridge Casual Sierra 5 piece Teak Outdoor Dining Set, Include 4 Armrest Dinin on Amazon →](product:cambridge-casual-sierra-teak-dining-set)
 
 ## Frequently Asked Questions
 

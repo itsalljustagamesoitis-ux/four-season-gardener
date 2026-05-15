@@ -48,6 +48,7 @@ They are not heavy-duty pruning gloves. If you're cutting back established shrub
 
 ![Rose Garden Gloves](/images/articles/hand-tools-2.jpg)
 
+[Check current price on Amazon](product:foxgloves-original-gloves)
 
 ## What We Tested
 
@@ -56,6 +57,8 @@ I tested the Purple/Medium size over one growing season, which included spring c
 For comparison, I was also running the Bionic Women's Relief Grip Gloves (currently around $30,$35) and, for heavier sessions, a pair of Showa 310 nitrile-coated gloves. The Foxgloves weren't competing with the Showa for heavy tasks. The relevant comparison was the Bionic, which is the other light-to-medium dexterity glove I keep near the potting bench.
 
 Washing cadence: every four to six sessions, cold water, air dry. I did this eight times across the season.
+
+[Check current price on Amazon](product:foxgloves-original-gloves)
 
 ## Performance
 
@@ -106,6 +109,8 @@ Training canes onto a trellis, where you need to feel what you're doing but also
 - Not suitable for heavy pruning, loppers work, or anything requiring cut resistance
 - Grip on smooth wooden handles is marginal
 
+[See Foxgloves Original Gardening Gloves, Purple/Medium on Amazon →](product:foxgloves-original-gloves)
+
 ## Who Should Buy These
 
 The Foxgloves Original are for gardeners who spend real time in rose beds doing maintenance tasks. Deadheading, tying in, weeding around plants, light pruning on newer growth. If that's the majority of your rose garden work, these are the most practical light gloves I've found at this price.
@@ -122,6 +127,8 @@ For the middle-ground reader who wants one pair that handles both light and heav
 The Foxgloves are also worth considering as a second pair if you already have a heavier glove you trust for hard cutting. They sit at a price where buying them to complement existing kit makes practical sense.
 
 Our broader [hand tool reviews](/hand-tools/) cover what else you might want at the bench. The gloves are one piece of what keeps a gardening session running smoothly.
+
+[See Foxgloves Original Gardening Gloves, Purple/Medium on Amazon →](product:foxgloves-original-gloves)
 
 ## Frequently Asked Questions
 

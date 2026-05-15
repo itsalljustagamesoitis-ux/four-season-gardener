@@ -44,6 +44,9 @@ What follows is an honest assessment. I am not trying to sell you on this table.
 
 The [Outland Living Series 403](product:outland-living-403-fire-table) is a functional, well-designed propane fire table that earns its price point. The 50,000 BTU output is real and noticeable. The concrete-look tabletop is heavier than you want it to be if you ever plan to move it, and the ongoing propane cost is a factor worth calculating before you buy. For a fixed patio installation where you want a fire feature that also functions as a table, this is a solid choice and the best option I have found in this price range.
 
+
+[Check current price on Amazon](product:outland-living-403-fire-table)
+
 ## Key Specs
 
 Before getting into performance, the numbers that matter.
@@ -103,6 +106,8 @@ The lava rock aesthetic is dated. That is a minor complaint and an easy fix, but
 
 At full output, the 8-to-10-hour tank life means you will be managing propane more actively than some buyers expect. If you run this four nights a week through a full summer, you are going through roughly two tanks a month.
 
+[See Outland Living Series 403 44" Propane Fire Pit Table, Espresso on Amazon →](product:outland-living-403-fire-table)
+
 ## Who It's For
 
 This table makes the most sense for a fixed patio installation, seated entertaining, and anyone who has decided that the convenience of propane outweighs the ambiance of wood. If you have ever tried to run a wood-burning fire pit on a screened porch or a deck close to the house and dealt with smoke direction and ember drift, the clean burn of propane is not a compromise, it is an upgrade.
@@ -119,6 +124,8 @@ If you are comparing against rectangular formats with a longer table surface, th
 For readers still deciding between gas fire features and radiant electric heat options, I have covered the latter in more detail in the [Fire Pits & Patio Heaters](/fire-and-heat/) hub, including wall-mounted and freestanding comparisons. A [wall mounted patio heater](/wall-mounted-patio-heater/) is a better answer than a fire table if your goal is directed warmth over ambiance, and it is worth considering both before committing.
 
 At around $350 and available at this link, the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) is the best product I have found for this use case at this price. It is not perfect, and the propane economics are real. But it does what it promises, it holds up, and the dual-use design earns its footprint on a patio.
+
+[Check current price on Amazon](product:outland-living-403-fire-table)
 
 ## Frequently Asked Questions
 

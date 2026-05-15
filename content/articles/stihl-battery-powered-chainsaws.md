@@ -49,6 +49,11 @@ The Stihl MSA 220 C-B, which is the closest battery comparison at the dealer lev
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-4.jpg)
 
 
+
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
+
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
+
 ## Key Specs
 
 The CS1804 uses EGO's 56V ARC Lithium platform, the same battery that runs their string trimmers, blowers, and mowers. The 18-inch Oregon bar handles trees up to roughly 32 inches in diameter if you're willing to make multiple cuts from opposite sides. Chain speed is rated at 6,700 feet per minute, which is fast enough that the difference from a comparable gas saw is not something you'll feel in practice.
@@ -87,6 +92,8 @@ The rear handle position feels natural for standard bucking cuts. The front hand
 
 One thing that took adjustment: the chain oil window is small and the oil level is hard to read in direct sunlight. I started checking it before every session rather than mid-session. You'll develop the same habit after the first time you run it low.
 
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
+
 ## Pros and Cons
 
 **Pros.**
@@ -96,6 +103,8 @@ The 18-inch bar provides enough reach for most homeowner tree work, including tr
 Chain tensioning requires a tool. Not a dealbreaker, but it's a step back from what some competitors offer. Sustained cutting over 90 minutes will require a second battery, which adds cost. The chain oil sight glass is poorly positioned. And if you're coming from a gas saw with a longer bar, 18 inches will feel like a step down for large felling work.
 
 The lack of a self-sharpening chain system (which the [battery Stihl chainsaw](/battery-stihl-chainsaw/) options include on some models) means you'll be filing manually or running to a shop. A sharp chain is not optional. Budget time or money for maintenance.
+
+[See EGO POWER+ CS1804 18" Battery Powered Chainsaw on Amazon →](product:ego-cs1804-chainsaw)
 
 ## Who It's For
 
@@ -113,6 +122,8 @@ If you've ever stopped a cutting session because your forearm gave out wrestling
 For anyone building a full cordless outdoor tool set, the [Battery & Cordless Tools](/battery-equipment/) hub covers the EGO ecosystem alongside other platforms, with guidance on battery compatibility and what combinations make sense by property size.
 
 ,
+
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
 
 ## Frequently Asked Questions
 

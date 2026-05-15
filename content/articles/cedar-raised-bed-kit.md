@@ -42,6 +42,9 @@ The Greenes Fence Premium Cedar kit is a solid, no-nonsense raised bed for garde
 
 This is not the cheapest option on the market. It is the right option for a specific type of gardener. I'll tell you whether that's you.
 
+
+[Check current price on Amazon](product:greenes-premium-cedar-4x8)
+
 ## Key Specs
 
 The 4x8x17.5-inch configuration gives you 32 square feet of planting surface and enough depth for carrots, parsnips, or any perennial you'd rather not disturb once established. The boards are 3/4-inch thick, which is noticeably sturdier than the 1/2-inch stock you'll find in budget kits at the big-box stores. The corner brackets are pre-formed, the boards are pre-cut, and the assembly requires no tools. I did one of these in about 20 minutes working alone (I timed this, mostly out of skepticism about the claim on the box).
@@ -115,6 +118,7 @@ The kit covers the 4x8 configuration well, but if you want a different shape, sa
 
 ![Cedar Raised Bed Kit](/images/articles/raised-beds-5.jpg)
 
+[See Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5" on Amazon →](product:greenes-premium-cedar-4x8)
 
 ## Who It's For
 
@@ -127,6 +131,8 @@ It's not the right choice if you want a permanent installation with zero mainten
 For a broader look at how this kit fits into the full landscape of options, the [cedar raised garden bed kit](/cedar-raised-garden-bed-kit/) guide is worth reading before you buy, particularly if you're still deciding between sizes.
 
 Anyone who gardens seriously on a property of any scale, puts food production ahead of aesthetics, and wants wood that won't need replacing in three years, this is the kit I'd point to at this price point.
+
+[Check current price on Amazon](product:greenes-premium-cedar-4x8)
 
 ## Frequently Asked Questions
 

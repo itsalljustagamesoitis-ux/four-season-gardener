@@ -42,6 +42,9 @@ This review focuses specifically on the POLYWOOD Nautical Rocker in the teak col
 
 The POLYWOOD Nautical Rocker in teak is the right chair for a specific kind of buyer: someone who wants the warm, golden-toned look of teak without any of the seasonal maintenance, and who won't be moving the chair more than a few feet at a time. The build quality is legitimate. The price is high. The weight is a real limitation. If you're furnishing a fixed spot on a porch or a covered deck where the chair will live year-round, this is a strong buy. If you're after the real thing, read our overview of the [best teak outdoor rocking chairs](/teak-outdoor-rocking-chair/) before you commit to either direction.
 
+
+[Check current price on Amazon](product:polywood-nautical-rocker-teak)
+
 ## Key Specs
 
 The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) runs around $380 to $420 on Amazon at the time of writing, depending on timing and color. Prices have drifted upward over the past two years, so check current pricing before you budget.
@@ -112,6 +115,8 @@ Assembly took me 25 minutes with a power driver. (I timed this.) The instruction
 - The plastic surface feel is detectable in direct sun. Not a dealbreaker, but not the same as sitting in real wood
 - The teak color, while good, is a warm brown approximation. Side-by-side with actual aged teak it's a different visual register
 
+[See POLYWOOD Nautical Rocker, Teak on Amazon →](product:polywood-nautical-rocker-teak)
+
 ## Who It's For
 
 The honest case for this chair is fairly specific. Buy the [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) if:
@@ -130,6 +135,8 @@ You should look elsewhere if you want real wood feel and are willing to maintain
 For buyers comparing across the broader landscape of porch and deck seating, our [Outdoor Furniture](/outdoor-furniture/) section covers additional options in wood, metal, and composite materials worth reviewing before you finalize a decision.
 
 ,
+
+[Check current price on Amazon](product:polywood-nautical-rocker-teak)
 
 ## Frequently Asked Questions
 

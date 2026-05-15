@@ -46,6 +46,9 @@ The [Hiland HLDS01-WGTHG](product:hiland-wgthg-patio-heater) is a statement piec
 
 **Bottom line.** Buy it for the visual impact and the ambiance. Accept that it throws heat in a column pattern. Budget roughly $40 to $60 for a replacement glass tube, because at some point you'll want a spare.
 
+
+[Check current price on Amazon](product:hiland-pyramid-patio-heater)
+
 ## Key Specs
 
 - **BTU output.** 40,000 BTU propane
@@ -115,6 +118,8 @@ The built-in wheels are a small thing that makes a meaningful difference. The ta
 - Heat distribution favors column pattern over even overhead spread, which matters for seated dinner-party use
 - Piezo ignition gets stubborn in freezing temperatures
 - No cover included at this price point (budget an additional $25 to $40 for a fitted cover, or look at options in our [propane fire pit cover](/propane-fire-pit-cover/) guide for comparable sizing notes)
+
+[See Hiland HLDSO1-GTHG 91-Inch Quartz Glass Tube Patio Heater with Cover and Table on Amazon →](product:hiland-pyramid-patio-heater)
 
 ## Seasonal Storage and Propane Management
 

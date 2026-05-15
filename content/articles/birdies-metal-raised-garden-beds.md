@@ -44,6 +44,8 @@ The Birdies thermoplastic base bed earns a firm recommendation for deck and pati
 
 Current price at time of writing sits around $120 to $140 on Amazon, depending on color selection. That's competitive for a purpose-built deck bed with this steel gauge.
 
+[Check current price on Amazon](product:birdies-metal-raised-garden-bed)
+
 ## Key Specs
 
 **Dimensions.** 43 inches long by 20 inches wide by 15 inches deep. The footprint fits a standard large deck section without dominating it, and 15 inches of growing depth handles the majority of vegetable root systems without compromise. Shallow-rooted crops like lettuce and herbs use it well. Tomatoes and peppers work at this depth provided you're managing moisture carefully and not relying on subsoil drainage.
@@ -56,6 +58,8 @@ Current price at time of writing sits around $120 to $140 on Amazon, depending o
 **The Base.** The thermoplastic base is the entire point of this product. It sits between the steel walls and whatever surface is below, acting as a moisture barrier and a physical buffer. Decking boards, composite surfaces, tile, and stone all benefit from not having wet soil sitting directly on them for months at a time. Drainage holes are molded into the base, so water exits rather than pooling inside the bed.
 
 **Weight when filled.** Roughly 200 to 250 pounds with a full soil load, depending on your mix. That's a real consideration for elevated decks with weight limits. Worth checking your deck's load-bearing capacity before purchasing, which I realize sounds obvious, but it's the question people skip.
+
+[See Birdies Metal Raised Garden Bed on Amazon →](product:birdies-metal-raised-garden-bed)
 
 ## Performance and Testing
 
@@ -136,6 +140,8 @@ What I underestimated was the watering demand. If I'd planned the drip irrigatio
 - Soil capacity is limited relative to in-ground beds. Consistent watering and fertility management matter more in a contained system.
 - At $120 to $140, it costs more than a comparable-footprint ground bed. You're paying for the base, which you may or may not need depending on your installation situation.
 
+[Check current price on Amazon](product:birdies-metal-raised-garden-bed)
+
 ![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-2.jpg)
 
 
@@ -152,5 +158,7 @@ What I underestimated was the watering demand. If I'd planned the drip irrigatio
 The Birdies brand has a strong following in the Epic Gardening community, and for this specific product, the reputation is earned. It's not the most flexible bed they make. It's the most purpose-fit one for hard-surface installation.
 
 If you're expanding beyond deck growing and want to think through the broader range of bed materials and configurations, the site's [raised bed](/raised-beds/) coverage is a reasonable place to continue.
+
+[See Birdies Metal Raised Garden Bed on Amazon →](product:birdies-metal-raised-garden-bed)
 
 

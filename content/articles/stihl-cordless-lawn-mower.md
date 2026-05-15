@@ -44,6 +44,9 @@ What this review covers instead is the strongest cordless mower currently availa
 
 The EGO LM2135SP is the best battery-powered self-propelled mower I've used, and I've run three others in the past five years. It handles about an acre of mixed terrain without complaint, the self-propel system is worth the price premium, and the 56V platform means your battery investment carries across a wide tool lineup. The tool-only version currently runs around $449 on Amazon. Add the 7.5Ah battery and rapid charger (sold as a kit at approximately $649 at time of writing) and you're past most mid-range gas mowers in upfront cost. That's a real number you need to factor.
 
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
+
 ## Key Specs
 
 **Motor.** 56V brushless motor, which means longer motor life and better efficiency compared to brushed alternatives. Brushless matters on a mower because the load cycles are uneven and hard on motors.
@@ -132,6 +135,8 @@ Clean the underside of the deck at the end of the season. Packed clippings trap 
 - 68 lbs with battery installed. This is heavier than a corded mower and heavier than some comparable gas models.
 - In wet, heavy grass, runtime drops noticeably. Budget an extra battery or be strategic about when you mow.
 - The 2.1-bushel bag fills fast in thick grass. Not a design flaw, just a workflow consideration.
+
+[See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
 
 ## Who It's For
 

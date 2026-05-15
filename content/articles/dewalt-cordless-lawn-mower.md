@@ -46,6 +46,11 @@ Whether it earns its place depends on what you're mowing and what you already ow
 
 The DCMW220P2 is a solid, no-drama mower for yards under half an acre, and it earns that description honestly. Push propulsion, three output modes, and DeWalt's dependable battery system make it a sensible choice if you're consolidating tools around one platform. It's not the most powerful cordless mower on the market, and if you have anything resembling a large property, the 20V batteries will show their limits. For the right yard and the right owner, though, it works.
 
+
+[Check current price on Amazon](product:dewalt-dcmw220p2-cordless-mower)
+
+[Check current price on Amazon](product:dewalt-dcmw220p2-cordless-mower)
+
 ## Key Specs
 
 - **Battery.** Two 20V MAX 5.0Ah lithium-ion batteries. Dual-port operation, meaning both batteries run simultaneously to drive the motor.
@@ -106,6 +111,8 @@ One practical note on battery care that often goes unstated: lithium-ion batteri
 
 It's worth pairing this with other cordless tools if you're building out your yard care setup. For edging, the [Stihl Battery Edger](/stihl-battery-edger/) is what I use to follow up after mowing, and the combination of a tidy cut and clean edges makes a real difference in how the yard reads. For leaf clearing after the mowing season ends, I covered the [40V Cordless Leaf Blower](/40v-cordless-leaf-blower/) options in a separate piece, though those are a different battery platform.
 
+[Check current price on Amazon](product:dewalt-dcmw220p2-cordless-mower)
+
 ## Blade Maintenance and Seasonal Storage
 
 One area where cordless mowers often get undersold is maintenance — specifically, the blade. People hear "no engine maintenance" and assume the whole machine is care-free. The blade still needs attention. Check it at the start of each season and at least once mid-season if you're mowing regularly. Dull blades tear rather than cut grass, which stresses the turf and leaves a ragged brown edge on the tips. If your lawn looks slightly brown a day or two after mowing, the blade is the first thing to check before blaming the mower.
@@ -135,6 +142,7 @@ At the end of the season, scrape the underside of the deck. Accumulated clipping
 
 ![Dewalt Cordless Lawn Mower](/images/articles/battery-equipment-3.jpg)
 
+[See DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2) on Amazon →](product:dewalt-dcmw220p2-cordless-mower)
 
 ## Who It's For
 

@@ -51,6 +51,11 @@ One honest caveat on sourcing: the Amazon listing has a thin review count, which
 
 **Bottom line:** If you're buying a teak glider bench as a long-term piece, this is the one currently available that's worth the investment. If your budget is under $1,500, you're looking at a different category of product and should adjust expectations accordingly.
 
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
+
 ## Key Specs
 
 The GL-101 runs approximately 52 inches wide and is rated as a two-seat bench. Seat depth is comfortable for adults, not cramped in the way some garden benches tend to be.
@@ -95,6 +100,8 @@ Anderson Teak is a specialist brand. They don't make upholstered sectionals or p
 
 I would expect this bench, with basic maintenance, to outlast 20 years without structural issues. That's a reasonable expectation for Grade A teak with quality hardware. It is not a reasonable expectation for teak-look alternatives at a third of the price.
 
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
+
 ## Pros and Cons
 
 **Pros.**
@@ -104,6 +111,8 @@ Solid Grade A teak construction with no compromises on material grade. The stain
 **Cons.**
 
 The price. Around $2,000 is not an impulse purchase, and I won't dress that up. The Amazon review count is thin, which requires the buyer to do a bit more research than usual to build confidence. There's no cushion included, which at this price point some buyers will find frustrating, though cushions are genuinely better sourced separately for fit and material preference. Assembly is required, which is standard for this category but worth noting.
+
+[See Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench on Amazon →](product:anderson-teak-gl101-glider-bench)
 
 ## Who It's For
 
@@ -119,6 +128,8 @@ If you're already building out a teak seating area, the GL-101 pairs logically w
 This is not the right purchase if your budget ceiling is $1,200 or if you're looking for something that can be replaced without much thought in a few years. For a lower-commitment alternative in the same general seating category, a [teak porch swing](/teak-porch-swing/) or a [loveseat Adirondack chair](/loveseat-adirondack-chair/) in composite material would be more appropriate purchases. Different product, different calculation.
 
 For anyone building out a complete outdoor seating plan from scratch, our broader [garden and patio furniture](/outdoor-furniture/) coverage covers the full category range with the same level of specificity.
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
 
 ## Frequently Asked Questions
 

@@ -53,6 +53,9 @@ The 20-inch blade is the main limitation. Dedicated pole hedge trimmers from Sti
 
 **Skip it if:** You're not in the EGO system and you just need one hedge trimmer. Look at a dedicated unit instead, or consider the full [EGO hedge trimmer with battery and charger](/ego-hedge-trimmer-with-battery-and-charger/) package as a starting point.
 
+
+[Check current price on Amazon](product:ego-hta2000-hedge-trimmer-attachment)
+
 ## Key Specs
 
 The HTA2000 attachment runs on EGO's 56V ARC Lithium platform. The blade is 20 inches, dual-action, with a 3/4-inch cut capacity. Tooth spacing is approximately 3/4 inch as well, which handles most formal hedging material without difficulty.
@@ -112,6 +115,8 @@ Measured against a gas pole trimmer, the noise difference is substantial. Agains
 - Combined system weight of 10 to 11 pounds is manageable but not light over long sessions
 - Compatibility limited to the PH1400E. Verify your power head before ordering
 
+[See EGO POWER+ HTA2000 20" Hedge Trimmer Attachment for Multi-Head System on Amazon →](product:ego-hta2000-hedge-trimmer-attachment)
+
 ## Who It's For
 
 The HTA2000 makes obvious sense for one type of buyer: someone already running EGO's multi-head system who has formal hedging above shoulder height. If you already own the PH1400E, the attachment price is around $100 to $120 and the ROI is essentially one session of avoided ladder work and related back complaints.
@@ -124,6 +129,8 @@ It also makes sense if you're building out an EGO platform from scratch and hedg
 It's less compelling as a first and only hedge tool if you have no other EGO equipment. In that case, a dedicated pole hedge trimmer gives you a complete unit, often with a larger blade, at a comparable price point. The Stihl HLA 56 starts around $230 to $250 without battery and runs a 20-inch blade on Stihl's AK platform. The HLA 86 extends reach further and runs around $330 to $350 similarly battery-excluded. Either is purpose-built and arguably better optimized for the single task. The EGO wins on platform flexibility, not on per-task optimization.
 
 One practical note on property scale: if you're managing under 50 feet of formal hedging, a standard corded or handheld unit will likely serve you better regardless of brand. The pole configuration earns its keep on volume and height, not on small amounts of trim work.
+
+[Check current price on Amazon](product:ego-hta2000-hedge-trimmer-attachment)
 
 ## Frequently Asked Questions
 

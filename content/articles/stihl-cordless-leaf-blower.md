@@ -49,6 +49,9 @@ If you're already running Stihl AK tools, such as the [Stihl battery edger](/sti
 ![Stihl Cordless Leaf Blower](/images/articles/battery-equipment-8.jpg)
 
 
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
+
 ## Key Specs
 
 **EGO POWER+ LB6504**
@@ -127,6 +130,8 @@ The honest limitation of Stihl's handheld cordless range is that none of them cu
 - Not compatible with Stihl AK or AP batteries. If you're already invested in Stihl, you're starting a second ecosystem
 - Gutter cleaning attachment is a separate purchase
 
+[See EGO POWER+ LB6504 650 CFM Cordless Leaf Blower on Amazon →](product:ego-lb6504-leaf-blower)
+
 ## Who It's For
 
 The LB6504 is the right tool if you're starting a cordless tool setup from scratch and want the best handheld blower output available without buying gas. It's also the right call if you're already in the EGO ecosystem, where battery sharing with mowers and hedge trimmers makes the system economics work clearly in your favor.
@@ -136,6 +141,8 @@ If you have a large property with significant annual leaf fall (I'm thinking an 
 The one situation where I'd steer someone toward Stihl instead: you already own two or three AK-platform tools and have batteries in rotation. The BGA 86 tool-only at $219 is a reasonable addition to an existing Stihl kit. Buying into EGO on top of an active Stihl inventory adds charger complexity and shelf clutter, which I appreciate is a smaller concern for some people than for others.
 
 For anyone weighing their broader cordless tool strategy before committing to a platform, the [cordless and battery-powered tool guides](/battery-equipment/) on this site cover cross-brand battery compatibility in more depth than I can fit here.
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
 ## Frequently Asked Questions
 

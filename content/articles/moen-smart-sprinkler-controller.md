@@ -44,6 +44,9 @@ The [Rachio 3](product:rachio-3-8zone-controller) is the best smart sprinkler co
 
 The caveats are real but narrow. This controller requires a Wi-Fi connection at the installation point, which is often a garage or utility area with marginal signal. And it is strictly for inground sprinkler systems. If your setup is drip line or soaker hose, this is not your product.
 
+
+[Check current price on Amazon](product:rachio-3-8zone-controller)
+
 ## Key Specs
 
 - Zones. 8-zone controller (16-zone version also available)
@@ -115,6 +118,8 @@ It also does not have a built-in backflow preventer or flow sensor. You can add 
 - No flow sensor included. The Rachio Wireless Flow Meter is a separate $90 purchase
 - Cloud-dependent. If Rachio's servers go down, scheduled watering continues on last known schedule, but remote control and Weather Intelligence pause. This has happened, though rarely
 
+[See Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone on Amazon →](product:rachio-3-8zone-controller)
+
 ## Who It's For
 
 The Rachio 3 is the right call for homeowners with an existing inground sprinkler system who are currently running either a manual schedule or a basic programmable timer with no weather adjustment. If you're already running a [battery operated sprinkler timer](/battery-operated-sprinkler-timer/) on a single zone or two and looking to upgrade a full system, this is the product category you're moving into.
@@ -129,6 +134,8 @@ Where I'd steer you away: if you're running drip lines to garden beds or contain
 The comparison I'd keep in mind is the RainBird ST8I-WiFi, which runs around $150 and is the closest competitor in this price range. The RainBird app is functional but noticeably less polished, and its weather adjustment logic is less sophisticated than Rachio's Weather Intelligence. The Rachio 3 is worth the extra $20 for anyone who will actually use the scheduling features. If you want the simplest possible upgrade and will primarily use manual scheduling anyway, the RainBird is a reasonable alternative.
 
 For anyone comparing against older Moen irrigation products or waiting for Moen to re-enter this market more seriously: there's no compelling reason to wait. The Rachio 3 has been on the market long enough to have gone through multiple firmware iterations, and the ecosystem support (Alexa, Google, IFTTT) is mature. More of the site's irrigation coverage is at [smart irrigation and sprinkler systems](/irrigation/) if you want broader context before buying.
+
+[Check current price on Amazon](product:rachio-3-8zone-controller)
 
 ## Frequently Asked Questions
 

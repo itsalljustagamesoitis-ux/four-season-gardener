@@ -46,6 +46,9 @@ The EGO ST1521S is a capable, well-engineered battery trimmer that outperforms m
 
 Currently around $199 on Amazon for the kit (battery and rapid charger included), it competes directly against the Husqvarna 115iL and the Ryobi 40V PCO300, both of which I've used. The EGO is the better machine. I'd buy it again.
 
+
+[Check current price on Amazon](product:ego-st1521s-string-trimmer)
+
 ## Key Specs
 
 The ST1521S runs on EGO's 56V ARC Lithium platform, which is the same battery that powers every EGO tool from their blowers to their mowers. The 2.5Ah pack in this kit is a medium-capacity battery in their lineup. It's not the biggest (that's the 7.5Ah), but it's a reasonable starting point and weighs considerably less.
@@ -110,6 +113,8 @@ The auxiliary handle adjusts to three positions, which accommodates different us
 - 2.5Ah battery is adequate for smaller properties but will leave larger jobs unfinished on a single charge
 - Cartridge cost adds up over a full season of heavy use
 
+[See EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD, 56V 2.5Ah Kit on Amazon →](product:ego-st1521s-string-trimmer)
+
 ## Who It's For
 
 The ST1521S is well-matched to a homeowner maintaining somewhere between a half-acre and an acre of lawn and garden trim work per session. It's a strong fit if you're already in the EGO battery system or thinking about building one out. The POWERLOAD system particularly earns its keep if you're the type who finds detailed mechanical fussing (line routing, spool winding) disproportionately irritating relative to the actual task.
@@ -126,6 +131,8 @@ This isn't the right tool if you're managing rough terrain, clearing overgrown f
 Buyers who want absolute flexibility in line diameter and brand have a fair grievance with the POWERLOAD system. If that matters to you, the EGO ST1511 is the standard spool version at slightly lower cost, though you give up the auto-wind feature. For most buyers, my read is that the cartridge convenience wins, but I recognize that's not everyone's calculation.
 
 One final point: if you're also in the market for a leaf blower, the 40V cordless options are worth comparing against EGO's 56V blowers before you commit to a battery platform. I covered the case for and against 40V systems in the [40V cordless leaf blower](/40v-cordless-leaf-blower/) review, which is relevant context if you're building out a cordless tool set rather than buying a single trimmer.
+
+[Check current price on Amazon](product:ego-st1521s-string-trimmer)
 
 ## Frequently Asked Questions
 

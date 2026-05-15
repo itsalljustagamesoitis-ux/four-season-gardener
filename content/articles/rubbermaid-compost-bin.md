@@ -42,6 +42,9 @@ The [Good Ideas Junior Wizard](product:good-ideas-junior-wizard-compost-bin) is 
 
 It won't suit everyone. The 7-cubic-foot capacity is genuinely modest, and if you're running a larger property or producing significant kitchen and garden waste, you'll outgrow it faster than the marketing copy suggests. But for a yard under a quarter-acre, a small vegetable plot, or an urban backyard where space is genuinely tight, this bin does exactly what it promises.
 
+
+[Check current price on Amazon](product:good-ideas-junior-wizard-compost-bin)
+
 ## Key Specs
 
 The Junior Wizard measures roughly 26 inches in diameter and stands about 30 inches tall. The 7-cubic-foot volume fits somewhere between "useful" and "limited" depending on your expectations. The body is made from recycled polyethylene, in black, which matters more than it sounds because the dark color absorbs heat and speeds microbial activity during cooler months.
@@ -99,6 +102,7 @@ Seven cubic feet goes fast if you're a serious composter or have a larger proper
 
 ![Rubbermaid Compost Bin](/images/articles/composting-5.jpg)
 
+[See Good Ideas EZCJR-BLK Junior Wizard Compost Bin, 7 cu. ft., Black on Amazon →](product:good-ideas-junior-wizard-compost-bin)
 
 ## Who It's For
 
@@ -109,6 +113,8 @@ It's the right size for a kitchen garden up to about 500 square feet, a househol
 If you're deciding between this and a tumbler, our [comparison of black compost bin styles](/black-compost-bin/) covers the tradeoffs in more detail. And if you're newer to composting and want to understand what finished compost actually delivers versus what worm castings provide, the article on [worm castings vs. compost](/worm-castings-vs-compost/) will clear up a lot of the confusion that circulates online.
 
 For the full picture on structuring a home composting system, the site's [composting resource hub](/composting/) is the right starting point.
+
+[Check current price on Amazon](product:good-ideas-junior-wizard-compost-bin)
 
 ## Frequently Asked Questions
 

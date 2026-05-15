@@ -53,6 +53,8 @@ Currently around $280 to $320 on Amazon at the time of writing, depending on ava
 
 **Skip it if:** Your property is under an acre, heavily landscaped, or you don't already own the tow vehicle.
 
+[Check current price on Amazon](product:superhandy-tow-behind-leaf-blower)
+
 ## What We Tested
 
 The SuperHandy unit is a gas-powered, tow-behind leaf blower designed to hitch to any standard ride-on lawn tractor via a standard hitch pin. The core of it is a single-cylinder gasoline engine driving a centrifugal blower, with a directional nozzle that can be adjusted to push debris left, right, or straight ahead depending on where you want the leaves to go.
@@ -60,6 +62,8 @@ The SuperHandy unit is a gas-powered, tow-behind leaf blower designed to hitch t
 Setup out of the box took me about 45 minutes, including reading the manual twice because the hitch bracket diagram is genuinely ambiguous. (I am not particularly patient with ambiguous diagrams, which I realize is a specific complaint, but it cost me time.) Once assembled, attaching it to my John Deere X350 was straightforward. The hitch connection is simple and the unit sat level on flat ground without any shimming.
 
 The adjustable nozzle is the feature that distinguishes this unit from fixed-direction models. You can angle the output to push leaves toward a tree line, toward a central collection area, or simply off to one side as you drive a path. That flexibility matters more than it sounds when your property has irregular edges, drainage swales, or areas where you don't want debris deposited.
+
+[Check current price on Amazon](product:superhandy-tow-behind-leaf-blower)
 
 ## Performance
 
@@ -105,6 +109,8 @@ On mostly flat or gently sloped ground, tracking is stable and the unit follows 
 - Loud. Budget for hearing protection.
 - Wet, heavy leaf accumulation will slow you down and may require multiple passes.
 
+[See SuperHandy Tow-Behind Leaf Blower, Adjustable on Amazon →](product:superhandy-tow-behind-leaf-blower)
+
 ## Who Should Buy This
 
 The straightforward answer: if you have two or more acres of open lawn and a ride-on tractor already sitting in the garage, this tool will change how you approach fall cleanup. Not because it's magic, but because it removes the physical constraint that turns leaf clearing into a multi-weekend project.
@@ -129,6 +135,8 @@ If your property is heavily landscaped with tight beds, mature shrubs, or obstac
 This is a one-season tool for most people. I use mine for about six to eight weeks in October and November, then it goes into the equipment shed until the following fall. The price-per-use calculation still works out in my favor given the scale of my property, but if you're on the fence about acreage, be honest with yourself about whether you're actually managing a large-scale leaf problem or looking for justification for a purchase. (I have done both. They are different situations.)
 
 For anyone comparing this against other seasonal lawn equipment decisions, our [lawn care equipment coverage](/lawn-care/) includes side-by-side looks at several tool categories worth reading before committing to a purchase.
+
+[See SuperHandy Tow-Behind Leaf Blower, Adjustable on Amazon →](product:superhandy-tow-behind-leaf-blower)
 
 ## Frequently Asked Questions
 

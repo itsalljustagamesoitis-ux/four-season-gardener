@@ -47,6 +47,11 @@ At the premium price point (currently around $380 to $420 depending on when you'
 ![Teak Porch Swing](/images/articles/outdoor-furniture-2.jpg)
 
 
+
+[Check current price on Amazon](product:all-things-cedar-ts50-teak-porch-swing)
+
+[Check current price on Amazon](product:all-things-cedar-ts50-teak-porch-swing)
+
 ## Key Specs
 
 The TS50 comes in at 54 inches wide, which is where the "5-foot" in the name comes from. Seat depth runs around 20 inches, and the overall frame dimensions are suited for a standard 6-foot or longer porch beam span. Weight capacity is 500 pounds, rated for two adults.
@@ -89,6 +94,8 @@ The brass hardware is the detail that separates this from mass-market competitor
 
 The joinery on the TS50 is mortise-and-tenon at the key structural points rather than relying entirely on fasteners. That's the right approach for outdoor furniture that's going to flex slightly under load over many years.
 
+[Check current price on Amazon](product:all-things-cedar-ts50-teak-porch-swing)
+
 ## Pros and Cons
 
 **Pros.**
@@ -98,6 +105,8 @@ Grade A teak with genuine heartwood density. The hardware is solid brass through
 **Cons.**
 
 The mounting hardware (chain, S-hooks) isn't included, and the listing doesn't make this obvious. For ceiling or beam mounting, budget an extra $20 to $40 and sort that out before the swing arrives. The price point is high, though it reflects real material costs rather than margin padding. Thin review count on Amazon at the time of writing means you're relying more on brand reputation than crowd-sourced feedback. And the weathering to silver-gray is not a flaw exactly, but it's a commitment to maintenance if you want to prevent it, which I think deserves plain acknowledgment.
+
+[See All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing on Amazon →](product:all-things-cedar-ts50-teak-porch-swing)
 
 ## Who It's For
 
@@ -115,6 +124,8 @@ For anyone considering a full porch seating arrangement rather than a single pie
 One note for people who've been looking at chair-style hanging options. If a fixed swing doesn't appeal and you want something with more independent movement per seat, a [chair swing for porch](/chair-swing-for-porch/) configuration may be worth considering alongside this. Different feel, different installation requirements, but a legitimate alternative depending on how you use the space.
 
 The TS50 is not the swing for someone who wants minimal maintenance and zero commitment. It is the swing for someone who treats outdoor furniture as a long-term investment and is willing to spend an afternoon a year keeping it in condition.
+
+[Check current price on Amazon](product:all-things-cedar-ts50-teak-porch-swing)
 
 ## Frequently Asked Questions
 

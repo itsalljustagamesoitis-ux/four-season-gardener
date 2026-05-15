@@ -42,6 +42,8 @@ For anyone building out a feeding station from scratch, our [Bird Feeders & Bath
 
 The [Songbird Essentials Whole Peanut Black Wreath Feeder](product:songbird-essentials-peanut-wreath-feeder) is a well-made, no-frills peanut ring that does exactly what the name says. It attracts blue jays and woodpeckers reliably, fills in under two minutes, and hangs from any standard hook. At around $18 to $22 on Amazon at the time of writing, it's genuinely affordable. The open wreath design means squirrels can and will access it freely, so if squirrel exclusion is your goal, this feeder alone won't deliver. Pair it with a pole-mounted baffle system or accept that you're feeding squirrels too. As a dedicated peanut-in-shell feeder for a location where you can manage the squirrel situation separately, it's a solid, uncomplicated buy.
 
+[Check current price on Amazon](product:songbird-essentials-peanut-wreath-feeder)
+
 ## What We Tested
 
 The Songbird Essentials wreath feeder is a circular ring roughly 12 inches in diameter, constructed from powder-coated steel wire in black. The ring itself is the feeder. You press whole peanuts in the shell into the open grid spaces around the circumference, hang it from the included wire loop, and that's the entire setup. No moving parts, no reservoir, no port openings to clog. A single central hanging point keeps it stable in moderate wind, though it does rotate freely, which birds don't seem to mind.
@@ -52,6 +54,8 @@ The Songbird Essentials wreath feeder is a circular ring roughly 12 inches in di
 I hung this on a shepherd's hook about eight feet from a large white oak on my property, positioned where I could see it from the kitchen window. I filled it with raw whole peanuts in the shell (a 5-pound bag from Tractor Supply, currently around $12 to $14) and left it for four full weeks across October and November, which is peak activity season in this part of New England. Hard frosts, some rain, one windstorm that knocked a few peanuts loose but didn't dislodge the feeder itself.
 
 I've used mesh tube-style peanut feeders before, specifically the Aspects 153 Quick-Clean Peanut Feeder, which runs around $28 and holds shelled peanut pieces rather than whole peanuts in the shell. The Songbird Essentials wreath is a different category of feeder entirely. It's designed for the theatrical, clinging, work-for-your-food style of feeding that large corvids and woodpeckers prefer.
+
+[Check current price on Amazon](product:songbird-essentials-peanut-wreath-feeder)
 
 ## Performance
 
@@ -95,6 +99,7 @@ This feeder is for whole peanuts in the shell only. If you want to offer shelled
 
 ![Bird Feeder Ring](/images/articles/birds-wildlife-3.jpg)
 
+[See Songbird Essentials Whole Peanut Black Wreath Feeder for Squirrels and Blue Jays on Amazon →](product:songbird-essentials-peanut-wreath-feeder)
 
 ## Who Should Buy This
 
@@ -105,6 +110,8 @@ This feeder makes sense for a dedicated peanut station positioned where you can 
 It also makes sense for anyone who wants to attract larger corvids and woodpeckers specifically, and isn't primarily trying to bring in finches or sparrows. The wreath is not a general-purpose feeder. It's a specialist tool for a specific type of feeding, and it performs that function well.
 
 If you want a squirrel-proof peanut feeder, this isn't it, and no amount of creative hanging will change that. For a broader look at feeder types, mounting options, and wildlife considerations for your property, the [wild bird feeding and garden wildlife](/birds-wildlife/) section of this site covers that ground more thoroughly.
+
+[See Songbird Essentials Whole Peanut Black Wreath Feeder for Squirrels and Blue Jays on Amazon →](product:songbird-essentials-peanut-wreath-feeder)
 
 ## Frequently Asked Questions
 

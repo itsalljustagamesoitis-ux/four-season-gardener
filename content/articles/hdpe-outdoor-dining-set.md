@@ -44,6 +44,9 @@ Buy it if you want a good-looking dining set that you can leave outside year-rou
 
 The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) currently runs around $1,800 to $2,100 on Amazon depending on timing and color, at the time of writing. For context: a comparable real [teak outdoor dining set](/teak-outdoor-dining-set/) seats six for anywhere between $3,000 and $8,000, and it will need oiling every twelve to eighteen months if you want it to stay in presentable condition. The POLYWOOD requires neither oil nor storage. That math works in its favor even at the premium price point.
 
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ## Key Specs
 
 The set includes a 73-inch trestle table and six dining chairs, all in HDPE lumber made from recycled plastic. The teak color finish is a convincing warm brown, not the gray-beige that gave synthetic outdoor furniture its bad reputation for years.
@@ -113,6 +116,8 @@ Cleaning is soap and water. I use a stiff brush and a bucket twice a year and ca
 - At $1,800 to $2,100, this isn't an impulse buy. The long-term value argument is sound, but the upfront number is still significant.
 - Chair comfort doesn't extend to multi-hour lounging without cushions.
 - The teak color, while convincing, is a single tone without the grain variation of real wood. Up close, you know it isn't wood.
+
+[See POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak on Amazon →](product:polywood-nautical-dining-set)
 
 ## How HDPE Compares to Cast Aluminum in Practice
 

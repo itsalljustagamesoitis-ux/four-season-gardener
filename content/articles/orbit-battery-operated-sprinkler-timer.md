@@ -50,6 +50,11 @@ The B-hyve XD 2-Port is the best hose-end timer I've tested for anyone managing 
 
 Currently around $79 for the timer and hub bundle on Amazon at the time of writing, though prices fluctuate.
 
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
+
 ## Key Specs
 
 **Zones.** Two independent ports, each with its own schedule. You can run the front raised beds on a morning cycle and the back containers on an evening cycle, with zero coordination required after setup.
@@ -103,6 +108,8 @@ The B-hyve app (free) is functional without being polished. Scheduling is clear,
 
 Push notifications for skipped watering cycles are available and actually useful.
 
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
+
 ## Pros and Cons
 
 **Pros.**
@@ -120,6 +127,8 @@ Push notifications for skipped watering cycles are available and actually useful
 - WeatherSense is forecast-based. It will occasionally skip when you needed the water.
 - Battery life shortens in cold conditions. Budget for a fresh set at spring startup.
 - The app needs a UX refresh. Functional but dated.
+
+[See Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub on Amazon →](product:orbit-bhyve-xd-2port-timer)
 
 ## Who It's For
 
@@ -149,6 +158,8 @@ For a broader look at battery-powered timer options across price points, the [sp
 At roughly $79 for the timer and hub together, the B-hyve XD 2-Port is priced fairly for what it does. Two independent zones, weather skip logic, and remote access without any wiring is a legitimate value. The hub setup friction and the app's age are real limitations, not deal-breakers. If two-zone hose-end automation is what you need, this is the product to get. Our broader [watering and irrigation](/irrigation/) coverage can help you fit it into whatever system you're building around it.
 
 ,
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
 
 ## Frequently Asked Questions
 

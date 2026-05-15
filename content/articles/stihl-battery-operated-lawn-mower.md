@@ -44,6 +44,9 @@ This review covers the LM2135SP specifically. If you're building out a battery-p
 
 The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the most capable battery mower I've used at this price point. It handles an acre of mixed terrain without drama, the self-propel system works the way self-propel is supposed to work, and the cut quality is genuinely competitive with mid-range gas. The weight is real and the tool-only pricing requires attention, but neither of those is a dealbreaker if you go in with clear expectations. If you're running other EGO tools or planning to, the 56V platform makes this decision easier.
 
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
+
 ## Key Specs
 
 The LM2135SP runs on EGO's 56V ARC Lithium platform. The 7.5Ah battery (model BA2800T) delivers up to 60 minutes of runtime per charge under normal conditions, though the actual number depends heavily on grass conditions, propel speed, and whether you're mulching or bagging. EGO rates the deck at 21 inches. The mower weighs approximately 68 lbs with the battery installed.
@@ -104,6 +107,8 @@ Compared to the gas mowers I used before committing to the EGO platform, the noi
 - The two-blade system adds complexity; replacement blade sets cost more than single-blade equivalents, currently around $35 to $45 per set
 - Rear-bag attachment takes some getting used to align correctly. Minor, but it's fussier than it should be.
 
+[See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
+
 ## The Battery Ecosystem Question
 
 This is where the Stihl comparison becomes relevant. Stihl's AK and AP series battery systems are excellent. If you're already running a [Stihl battery edger](/stihl-battery-edger/) or a [battery Stihl chainsaw](/battery-stihl-chainsaw/), there's a real argument for staying in that ecosystem even if it means buying through a dealer rather than online. Battery platform loyalty pays off over time.
@@ -124,6 +129,8 @@ The LM2135SP is the right mower if you have up to an acre of moderate terrain, w
 It's not the right mower if you have significant steep slopes across a large property (the weight becomes a real factor on extended grades), if you're on a strict budget and can't absorb the battery and charger cost, or if you're already deep in a Stihl ecosystem and can source their mower through a dealer.
 
 For managing a full yard setup, the [cordless and battery equipment guides](/battery-equipment/) on this site cover blowers, edgers, and trimmers that pair with this kind of platform commitment.
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 ## Frequently Asked Questions
 

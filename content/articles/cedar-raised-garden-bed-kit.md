@@ -44,6 +44,9 @@ The Greenes Fence Premium Cedar kit is the best natural-wood option I've tested 
 
 The primary tradeoff is cosmetic: untreated cedar grays out within a season or two. Apply linseed oil or tung oil annually if the appearance matters to you, or accept it. Either position is defensible.
 
+
+[Check current price on Amazon](product:greenes-premium-cedar-4x8)
+
 ## Key Specs
 
 The bed assembles to 4 feet by 8 feet with a finished height of 17.5 inches. Board thickness is 3/4 inch. The lumber is Western Red Cedar, sourced and milled in North America. Corner brackets are included and handle the connection between boards without fasteners. The kit ships in one box and weighs approximately 38 pounds.
@@ -110,6 +113,7 @@ I'd skip any stain or paint product that isn't explicitly rated food-safe. The b
 
 ![Cedar Raised Garden Bed Kit](/images/articles/raised-beds-1.jpg)
 
+[See Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 17.5" on Amazon →](product:greenes-premium-cedar-4x8)
 
 ## Who It's For
 
@@ -124,6 +128,8 @@ For more context on wood options in this category, my overview of [wooden raised
 If you're still working through the broader decision between wood, metal, and composite options, the [raised beds](/raised-beds/) hub is a reasonable starting point for sorting through the tradeoffs.
 
 ,
+
+[Check current price on Amazon](product:greenes-premium-cedar-4x8)
 
 ## Frequently Asked Questions
 

@@ -53,6 +53,9 @@ The [Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests](product:
 
 The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv) is an honest second option. It's solid teak, it looks the part, and at roughly $280 to $320 (prices fluctuate), it's a reasonable entry point. But you're getting a different grade of wood, and that matters in climates with real freeze-thaw ground movement and wet springs.
 
+
+[Check current price on Amazon](product:ash-ember-hawthorne-teak-bench-b07v)
+
 ## Key Specs
 
 ### Ash & Ember Hawthorne
@@ -112,6 +115,8 @@ For the Tangkula, I'd expect reasonable performance in moderate climates, though
 
 ## Pros and Cons
 
+[See Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests on Amazon →](product:ash-ember-hawthorne-teak-bench-b07v)
+
 ### Ash & Ember Hawthorne Grade A Teak 73" Garden Bench
 
 **Pros**
@@ -164,6 +169,8 @@ It's also worth considering if you're supplementing existing seating rather than
 For anything else in this category, including coordinating rocker options, the site's [garden furniture](/outdoor-furniture/) coverage is worth browsing before you finalize a purchase.
 
 One other option worth knowing about: if you're interested in teak seating but want movement, the [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) is a different category and worth reviewing separately before assuming a bench is what you want.
+
+[Check current price on Amazon](product:ash-ember-hawthorne-teak-bench-b07v)
 
 ## Frequently Asked Questions
 

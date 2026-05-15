@@ -53,6 +53,9 @@ The Sunnydaze earns its place for a different buyer. It's built heavier than the
 
 Neither bench is a casual impulse buy. If you're in the market for something you can move seasonally or store under a deck, look elsewhere. These are placement furniture.
 
+
+[Check current price on Amazon](product:ash-ember-solstice-teak-bench-b0c4)
+
 ## Key Specs
 
 ### Ash & Ember Solstice Teak Bench
@@ -112,6 +115,8 @@ The Sunnydaze's 675 lb weight capacity stands out. The bench doesn't flex or shi
 
 ## Pros and Cons
 
+[See Ash & Ember Solstice 5 FT Grade A Teak Outdoor Bench, Bow-Back, Seats 2 on Amazon →](product:ash-ember-solstice-teak-bench-b0c4)
+
 ### Ash & Ember Solstice
 
 **Pros.**
@@ -150,6 +155,8 @@ The Sunnydaze is for the buyer who is committed to teak but not committed to the
 If you're adding cushions and want fabric that will actually hold up to outdoor exposure, our coverage of [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) applies here. The same principle holds for a bench: outdoor-rated fabric is not optional if you want cushions to last.
 
 For everything else in this category, including loungers, dining chairs, and accent seating, the full range of [garden and patio furniture](/outdoor-furniture/) is worth browsing before you finalize any seating plan.
+
+[Check current price on Amazon](product:ash-ember-solstice-teak-bench-b0c4)
 
 ## Frequently Asked Questions
 

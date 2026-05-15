@@ -48,6 +48,8 @@ The Smart Solar AquaNura is a legitimate product that does what it says in the r
 
 Currently around $45 to $55 on Amazon at the time of writing. For what it delivers in that range, it's a reasonable buy.
 
+[Check current price on Amazon](product:smart-solar-aquanura-birdbath)
+
 ## What We Tested
 
 ### The Product Itself
@@ -64,6 +66,8 @@ You have two use options. Set it directly on the ground as a standalone ground-l
 ### Testing Conditions
 
 I ran the AquaNura through a full summer and into early fall on my property in Litchfield County. The test location was a south-facing spot in an open garden bed, roughly 15 feet from a mixed shrub border where birds regularly stage before coming in to feed. The site gets direct sun from around 9 a.m. to 4 p.m. on a clear day. I also tested it briefly in a partially shaded location under a pin oak to see how it performed in reduced light.
+
+[Check current price on Amazon](product:smart-solar-aquanura-birdbath)
 
 ## Performance
 
@@ -117,6 +121,8 @@ Pump performance is entirely dependent on sunlight. This is the fundamental cons
 
 
 No battery backup or reservoir. When the sun drops, the water goes still. Some competing units in the $70 to $90 range include a small battery buffer that keeps the pump running for an hour or two after clouds move in. The AquaNura doesn't have that.
+
+[See Smart Solar AquaNura Bubbler Birdbath, Grey on Amazon →](product:smart-solar-aquanura-birdbath)
 
 ## Placement: Ground Level vs. Existing Pedestal
 

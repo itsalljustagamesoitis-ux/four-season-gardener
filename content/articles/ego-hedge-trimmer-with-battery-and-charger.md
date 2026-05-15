@@ -51,6 +51,11 @@ The HT2411 is a competent hedge trimmer at a fair price. It cuts cleanly, the 1-
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-2.jpg)
 
 
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
+
 ## Key Specs
 
 The HT2411 runs on EGO's 56V Arc Lithium platform. The blade is 24 inches of dual-action hardened steel, cutting up to 1 inch in diameter. The brushless motor delivers 3,000 strokes per minute. Weight is 7 lbs without the battery, which adds roughly 1.3 lbs depending on pack size.
@@ -99,6 +104,8 @@ At 8.3 lbs with the battery, it's not light by cordless standards. If you've eve
 
 The blade guard is one area where the design doesn't fully think through practical use. It's present for obvious safety reasons and I'm not suggesting you remove it. On standard horizontal and vertical cuts it's a non-factor. On overhead cuts at an angle, particularly when you're trying to get underneath an overgrown section and cut upward, the guard catches awkwardly if you're trying to manage the trimmer one-handed while the other hand holds a branch out of the way. This is a specific complaint, I realize, and it won't come up in routine maintenance trimming. But it's real.
 
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
+
 ## Pros and Cons
 
 **Pros**
@@ -117,6 +124,8 @@ The blade guard is one area where the design doesn't fully think through practic
 - Standard charger, not rapid charger, so recharging takes close to an hour
 - Bare tool is better value if you already own EGO batteries
 
+[See EGO POWER+ HT2411 24" Cordless Hedge Trimmer on Amazon →](product:ego-ht2411-hedge-trimmer)
+
 ## Who It's For
 
 If you're coming off gas and looking for a direct replacement without losing cutting capacity, this is the right comparison point. It won't do things the Husqvarna 122HD45 couldn't do, but it also won't demand carburetor cleaning, premixed fuel, or a functioning pull cord.
@@ -133,6 +142,8 @@ This isn't a tool for someone who wants to do the bare minimum. If your hedging 
 For anyone building out a full cordless toolkit, the site's [cordless and battery-powered equipment reviews](/battery-equipment/) cover compatible tools across the EGO line, which is worth a look before you decide how deep into the ecosystem you want to go.
 
 ,
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
 
 ## Frequently Asked Questions
 

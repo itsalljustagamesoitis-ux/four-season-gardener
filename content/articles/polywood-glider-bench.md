@@ -44,6 +44,11 @@ The Anderson Teak GL-101 is a premium outdoor glider bench built from Grade A te
 
 My verdict: if you're buying once and buying right, this is the bench. If $2,000 is a stretch or you're furnishing a rental property, there are better places to spend that money.
 
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
+
 ## Key Specs
 
 The GL-101 seats two adults comfortably. The frame is Grade A teak, which is the top-tier classification for teak lumber: tight grain, high natural oil content, minimal knots. Hardware is stainless steel throughout, which matters more than people realize. Inferior outdoor furniture uses zinc-plated or chrome-plated steel that corrodes within a few seasons and leaves rust streaks down the wood. You won't have that problem here.
@@ -88,6 +93,7 @@ The GL-101 has a classic silhouette that works alongside other teak pieces. If y
 
 ![Polywood Glider Bench](/images/articles/outdoor-furniture-2.jpg)
 
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
 
 ## Pros and Cons
 
@@ -111,6 +117,7 @@ No cushion is included, which is standard for teak furniture at this level but s
 
 ![Polywood Glider Bench](/images/articles/outdoor-furniture-3.jpg)
 
+[See Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench on Amazon →](product:anderson-teak-gl101-glider-bench)
 
 ## Who It's For
 
@@ -121,6 +128,8 @@ It suits a considered outdoor space. If you've already put effort into a [teak o
 It's not suited to buyers who want low-cost, low-maintenance outdoor furniture and don't want to think about teak oiling, even once a year. It's not suited to rental properties or shared spaces where the furniture will be treated roughly. And it's not the right call if you're still figuring out where on your property you want a permanent seating feature.
 
 For buyers who fit the first description, I'd encourage you to spend some time with the full range of [outdoor furniture](/outdoor-furniture/) options before committing to any single piece. The GL-101 is a strong purchase, but knowing what else is available helps you confirm that.
+
+[Check current price on Amazon](product:anderson-teak-gl101-glider-bench)
 
 ## Frequently Asked Questions
 

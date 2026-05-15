@@ -56,6 +56,9 @@ The EGO CS1804 is the battery chainsaw I'd recommend to most people maintaining 
 
 At the time of writing, the tool-only version runs around $230 on Amazon, and the kit with a 5Ah battery and charger is currently around $350. The [EGO POWER+ CS1804](product:ego-cs1804-chainsaw) is consistently in stock, which I mention only because Stihl battery inventory at dealers can be patchy.
 
+
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
+
 ## Key Specs
 
 The CS1804 runs on EGO's 56V ARC Lithium platform. The bar is 18 inches. The brushless motor is rated to deliver power comparable to a 40cc gas engine, which is roughly in the same territory as Stihl's MSA 220 C-B. Chain speed is 6,900 feet per minute at peak. The saw includes a 3-second chain brake (it stops the chain within 3 seconds of trigger release), a tool-integrated chain tensioning system, and an automatic bar oiler with a translucent window so you can actually see the oil level without guessing.
@@ -114,6 +117,8 @@ This is worth stating plainly: the difference in noise between this saw and a co
 - Heavier than the compact Stihl MSA 140 C-B class of saw
 - Bar oil cap can be stiff when cold
 
+[See EGO POWER+ CS1804 18" Battery Powered Chainsaw on Amazon →](product:ego-cs1804-chainsaw)
+
 ## Who It's For
 
 This saw is for the residential property owner who needs a capable chainsaw for seasonal and storm cleanup, firewood preparation in modest quantities, and occasional selective cutting. If you've ever avoided tackling a downed limb because dragging out a gas saw felt like more production than the job warranted, this saw solves that. It starts instantly, requires no fuel mixing, and the entry cost is manageable.
@@ -128,6 +133,8 @@ It's not for professional arborists, not for anyone who needs to run a saw for t
 For online buyers who want a serious battery chainsaw from a brand with wide distribution and strong parts availability, the CS1804 is the practical answer. You can find more context on how it fits into a broader cordless tool setup in my [Battery & Cordless Tools](/battery-equipment/) coverage.
 
 ,
+
+[Check current price on Amazon](product:ego-cs1804-chainsaw)
 
 ## Frequently Asked Questions
 

@@ -48,6 +48,9 @@ At 650 CFM, this blower moves air. It handles wet, heavy leaf packs, which is wh
 
 The weight is real and the nozzle is wide. Neither is a dealbreaker, but both matter depending on how you work. I'll get into specifics below.
 
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
+
 ## Key Specs
 
 The LB6504 runs on EGO's 56V ARC lithium platform. The kit ships with a 5.0Ah battery, which EGO rates at around 45 minutes of run time at variable speed. In practice, I got roughly 35 minutes at sustained high output on a cold morning, which I think is the honest number to use for planning.
@@ -108,6 +111,8 @@ The 2.5-inch nozzle does limit precision. Getting into tight corners around the 
 - Gutter cleaning attachment sold separately (around $30 currently)
 - Run time at full output is shorter than the rated figure suggests in cold weather
 
+[See EGO POWER+ LB6504 650 CFM Cordless Leaf Blower on Amazon →](product:ego-lb6504-leaf-blower)
+
 ## Battery Ecosystem Context
 
 This is the part most reviews skip, and it's where the EGO LB6504 either makes sense for your situation or doesn't.
@@ -134,6 +139,8 @@ If you're comparing cordless options across voltage classes, the article on [40V
 For a supplemental tool, the [EGO pole hedge trimmer](/ego-pole-hedge-trimmer/) runs on the same 56V battery and is worth knowing about if you're building out the platform.
 
 My advice would be to buy the kit rather than the tool only. The 5.0Ah battery and rapid charger bundled at $249 is better value than most comparable setups you'd assemble separately. If you find the tool-only version discounted, check that the battery you already own is 2.5Ah or higher before assuming it will perform comparably at high output.
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
 ## Frequently Asked Questions
 

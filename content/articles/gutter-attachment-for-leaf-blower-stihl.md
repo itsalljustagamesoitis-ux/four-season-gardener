@@ -44,6 +44,9 @@ The [WORX WA4094 GutterPro](product:worx-wa4094-gutter-kit) does what it claims.
 
 The caveats are real but specific. Compacted wet debris from last week's rain is a different problem than dry leaf fragments from a clear October. This kit handles the latter well. The former, not as reliably. Go in with that expectation and you'll be fine.
 
+
+[Check current price on Amazon](product:worx-wa4094-gutter-kit)
+
 ## Key Specs
 
 The WA4094 kit ships with a universal adapter collar and three 11-inch curved extension tubes. The total reach when the tubes are assembled and the blower is held at shoulder height puts the outlet nozzle at approximately gutter level on a standard single-story roofline, somewhere in the 8 to 10 foot range. On a two-story home, you're short.
@@ -97,6 +100,8 @@ Universal fit works across a wide range of blower nozzle sizes, including STIHL 
 
 Low-powered blowers under 350 CFM will struggle with anything denser than loose dry leaf fragments. The kit is not rated by CFM minimum, so users with underpowered machines may be disappointed. Wet, compacted debris resists air clearing regardless of blower power and requires either waiting for dry conditions or a different tool entirely. Wide roof overhangs above roughly 20 inches reduce the effective reach of the curved tube, requiring awkward blower positioning to compensate. The polypropylene tubes feel like exactly what they cost, which is to say, inexpensive. They haven't failed in my use, but I wouldn't bet on them surviving a concrete impact.
 
+[See WORX WA4094 GUTTERPRO Universal Gutter Cleaning Kit, 11" Tubes on Amazon →](product:worx-wa4094-gutter-kit)
+
 ## Who It's For
 
 If you own a STIHL blower and you want to stop going up a ladder every fall and spring, this kit solves that problem at minimal cost. The same goes for anyone on EGO, RYOBI, Greenworks, or most battery and gas platforms where a brand-specific kit isn't available.
@@ -111,6 +116,8 @@ It's also not designed for two-story gutters. The tube assembly simply doesn't r
 For single-story homes with standard overhang depths and a capable blower, this is the right product at the right price. The universality is the actual value. You're not buying a kit and then discovering your STIHL nozzle is 0.1 inches too wide. It fits, it works, and it keeps you off the ladder. That's the pitch, and it holds up.
 
 If you're thinking about fall cleanup more broadly, the [yard maintenance section of Lawn Care](/lawn-care/) has articles covering the full sequence from leaf management through end-of-season prep.
+
+[Check current price on Amazon](product:worx-wa4094-gutter-kit)
 
 ## Frequently Asked Questions
 

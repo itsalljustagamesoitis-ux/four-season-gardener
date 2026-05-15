@@ -44,6 +44,9 @@ Buy this set if you have a permanent patio space, intend to keep it for a decade
 
 The POLYWOOD Edge sectional is the right answer to a specific question: what's the last outdoor sofa I'll ever need to buy? If that's your question, this answers it.
 
+
+[Check current price on Amazon](product:polywood-edge-sectional-set)
+
 ## Key Specs
 
 **Frame material.** High-density polyethylene (HDPE), made from recycled materials. Doesn't rot, splinter, crack, or fade in the way that wood or wicker alternatives do after several hard winters.
@@ -111,6 +114,8 @@ The coffee table is a solid addition to the set. Heavy, stable, and the surface 
 - The coffee table is slightly undersized relative to the seating footprint
 - Color options are limited compared to custom-fabric competitors
 
+[See POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set on Amazon →](product:polywood-edge-sectional-set)
+
 ## Who It's For
 
 **This set makes sense if:**
@@ -137,6 +142,8 @@ You're outfitting a vacation rental or high-turnover space where durability is r
 A decent mid-range wicker sectional currently runs $800 to $1,400. Most of them need replacing within four to five years in a climate with real weather. Over 15 years, you're likely buying three sets: call it $3,000 to $4,200 total, plus the time cost of researching and purchasing replacements. The POLYWOOD Edge, bought once, depreciated over 15 years, comes out roughly equivalent or cheaper in pure dollar terms, and you don't have to think about it again. That trade-off isn't for everyone, but if you've already done the math and landed here, you're probably making the right call.
 
 If you're building out a full outdoor space and want to understand how seating, dining, and accent pieces fit together, the [Outdoor Furniture](/outdoor-furniture/) hub is a practical starting point for comparing categories before committing to individual pieces.
+
+[Check current price on Amazon](product:polywood-edge-sectional-set)
 
 ## Frequently Asked Questions
 

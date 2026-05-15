@@ -46,6 +46,11 @@ The Orbit B-hyve XD is the most practical smart hose timer I've tested for prope
 
 **Recommended.** With reservations noted below.
 
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
+
 ## Key Specs
 
 - **Zones.** 2 independent zones from a single hose bib
@@ -104,6 +109,7 @@ I had one unexplained missed watering in early July, which the app logged but di
 
 ![Orbit Smart Sprinkler Controller](/images/articles/irrigation-6.jpg)
 
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
 
 ## Pros and Cons
 
@@ -122,6 +128,8 @@ I had one unexplained missed watering in early July, which the app logged but di
 - Cold weather reduces battery life and hard freezes require removal; not a winter-capable device
 - Initial pairing requires the hub to be physically close to the timer, which can be awkward depending on where your spigot is located relative to your router
 
+[See Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub on Amazon →](product:orbit-bhyve-xd-2port-timer)
+
 ## Who It's For
 
 The B-hyve XD is the right choice for anyone managing raised beds, containers, or small border plantings from a hose bib rather than an inground system. If you've been using a [mechanical sprinkler timer](/mechanical-sprinkler-timer/) and either forgetting to adjust the schedule or running water through rain events, this is the direct upgrade.
@@ -138,6 +146,8 @@ Who it's not for: anyone needing more than two zones, anyone wanting integration
 For those who want smart features and are willing to accept a small amount of setup friction, the B-hyve XD is the strongest option available at this price in the hose-end category. Nothing I've tested at under $100 matches the two-zone feature paired with reliable weather-skip. If that's the combination you need, it's worth the money.
 
 For a broader look at how these devices fit into a complete watering strategy, the site's [smart irrigation coverage](/irrigation/) covers both hose-end and inground options across different property types.
+
+[Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
 
 ## Frequently Asked Questions
 

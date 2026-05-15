@@ -40,6 +40,11 @@ If you've spent any time browsing [Raised Beds](/raised-beds/) options online, y
 
 The Vego Garden 17" Tall 6-in-1 is one of the better metal raised beds I've used, and I'd buy it again. The 17-inch depth is the real story here. Most competitor beds at a similar price point top out at 10 or 12 inches, which is adequate for lettuce and herbs but limiting if you're growing anything with a serious root system. The Aluzinc coating is a genuine material upgrade over standard galvanized steel. Assembly has one legitimate hazard I'll address. At around $180 to $220 depending on configuration and timing, this sits in the mid-range of the market and is priced appropriately for what you get.
 
+
+[Check current price on Amazon](product:vego-garden-6in1-17inch)
+
+[Check current price on Amazon](product:vego-garden-6in1-17inch)
+
 ## Key Specs
 
 The bed ships as six interlocking steel panels that can be configured into six different shapes: square, rectangle, L-shape, U-shape, hexagon, and a custom elongated rectangle. The panels are made from Aluzinc-coated steel, which is an aluminum-zinc alloy coating Vego claims resists corrosion three to five times longer than standard galvanized alternatives. I have no reason to dispute that claim based on what I've seen so far, though I'll revisit in a few more seasons.
@@ -87,6 +92,8 @@ This isn't unique to Vego. Any uninsulated metal raised bed will do this. If hea
 
 I've used the standard rectangle configuration for both seasons and haven't reconfigured. The flexibility is real and would be useful for irregular spaces or phased installations. If you're planning a kitchen garden expansion over a few years, the ability to add panels and reconfigure without buying a completely new bed has obvious practical value. Whether you'd actually do that depends on how you garden, though I appreciate it's a more relevant feature for some setups than for mine.
 
+[Check current price on Amazon](product:vego-garden-6in1-17inch)
+
 ## Pros and Cons
 
 **What works:**
@@ -103,6 +110,8 @@ I've used the standard rectangle configuration for both seasons and haven't reco
 - Metal walls heat up in direct sun, which matters more in southern climates than northern ones
 - Plastic corner connectors are the obvious long-term durability question mark. Two seasons in, mine are fine. I'll update this review if that changes.
 - At $180 to $220, this is not the budget option. If you need multiple beds, costs scale.
+
+[See Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed, Olive Green on Amazon →](product:vego-garden-6in1-17inch)
 
 ## Soil Volume and What That Means in Practice
 

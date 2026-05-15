@@ -44,6 +44,9 @@ Buy it if you have a half-acre to an acre of maintained lawn and want a mower th
 
 Currently priced around $699 for the kit (battery and rapid charger included) or approximately $449 for the tool-only version, at the time of writing. The 7.5Ah battery alone sells separately for around $249, so if you're new to the platform, the kit is the better entry point by a significant margin.
 
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
+
 ## Key Specs
 
 The LM2135SP runs on EGO's 56V ARC Lithium platform. The included 7.5Ah battery is the largest in EGO's standard lineup, and the mower will also accept the 10Ah if you have one. Cutting deck is 21 inches. Six cutting height settings from 1.5 to 4 inches. The Select Cut system uses three blades: the setup mulches, bags, or side-discharges without swapping parts. The Touch Drive self-propel is variable speed, controlled by handle pressure. Weight with battery installed is approximately 68 lbs.
@@ -102,6 +105,8 @@ My nearest neighbor is far enough away that this isn't a primary concern for me,
 - Not a two-acre machine on a single charge; anyone mowing larger areas needs a second battery as a practical matter
 - The rapid charger should be standard equipment at this price point, not an optional extra
 
+[See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
+
 ## Who It's For
 
 This mower is well-suited to anyone maintaining between a quarter-acre and an acre of lawn who is done with gas maintenance and wants a machine that handles real conditions. It's particularly strong for properties with elevation changes that make pushing a full-size mower exhausting. If you've already got one or two tools on the EGO 56V platform, the battery compatibility alone justifies the platform consolidation.
@@ -120,6 +125,8 @@ Anyone with steep, difficult terrain that requires four-wheel-drive traction or 
 The 56V ARC Lithium platform now covers over 80 tools. The battery that ships with this mower will also run EGO's pole saws and battery chainsaws, hedge trimmers, and string trimmers. If you're managing a larger property and want to explore the full scope of what the 56V system covers, the [Battery and Cordless Tools section](/battery-equipment/) of this site has coverage across most of the major categories.
 
 Worth mentioning: if your property has established hedgerows or wooded edges like mine does, pairing this mower's battery with something like a [battery-powered chainsaw](/battery-stihl-chainsaw/) from a compatible platform makes property management substantially more manageable. EGO and Stihl run separate platforms, so the batteries don't cross, but the comparison is useful when you're deciding which ecosystem to build.
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 ## Frequently Asked Questions
 

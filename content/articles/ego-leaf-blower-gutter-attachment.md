@@ -46,6 +46,9 @@ The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the best cordless han
 
 If you came from a gas blower and you're skeptical about cordless performance, the 650 CFM output will settle that quickly. This is not underpowered. The question is weight and runtime, and I'll cover both.
 
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
+
 ## Key Specs
 
 **Motor and output.** 650 CFM at 180 MPH air speed. Turbine fan design rather than axial. EGO claims this moves more air volume with less noise than comparable axial-fan designs, and in practice that holds up. It's noticeably quieter than the Husqvarna 125BVx I ran for three seasons before switching to battery tools.
@@ -110,6 +113,8 @@ For a larger property where you're also clearing paths and beds in the same sess
 - Wider nozzle diameter reduces precision in tight spaces. For detail work around beds and tight corners, this is a coarser tool
 - Second-story gutter access still requires a ladder or extension pole. EGO's current wand length doesn't solve that problem
 
+[See EGO POWER+ LB6504 650 CFM Cordless Leaf Blower on Amazon →](product:ego-lb6504-leaf-blower)
+
 ## Who It's For
 
 If you're running a property with significant leaf fall and gutters you need to clear at least twice a season, the [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) earns its price. The complete kit at around $249 to $269 is a better value than buying a stripped blower and sourcing the battery separately. The gutter attachment adds $30 to $35 and makes the overhead clearing job manageable on single-story sections without a ladder.
@@ -126,6 +131,8 @@ If your main concern is the cord of a corded blower, and you're not particularly
 For anyone building out a battery-powered yard tool setup across multiple tools and categories, the broader [cordless and battery-powered equipment](/battery-equipment/) coverage on this site is worth your time before you make platform decisions you'll be living with for a decade.
 
 The LB6504 is my current recommendation in this category. It's not perfect, and if the weight and the separate attachment purchase frustrate you, that's a fair reaction. But the output is real, the kit is complete in the ways that matter, and for gutter clearing on a typical residential property, it does the job without a ladder. That's a specific problem solved.
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
 ## Frequently Asked Questions
 

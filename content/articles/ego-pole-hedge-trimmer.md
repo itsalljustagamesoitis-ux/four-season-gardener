@@ -51,6 +51,9 @@ The battery runtime is the honest limitation. Forty-five minutes of continuous u
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-6.jpg)
 
 
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
+
 ## Key Specs
 
 - **Blade length.** 24 inches
@@ -112,6 +115,8 @@ Quieter than any gas trimmer I've used, which is both accurate and unsurprising.
 - No variable speed control; single speed only
 - Not the right choice if your hedging regularly runs beyond one battery charge and you don't want to invest in a larger battery
 
+[See EGO POWER+ HT2411 24" Cordless Hedge Trimmer on Amazon →](product:ego-ht2411-hedge-trimmer)
+
 ## Who It's For
 
 The HT2411 is a practical choice for homeowners with a moderate amount of formal or informal hedging, a property where one charge covers the session, and either an existing EGO battery investment or the intent to build one. The kit price makes it a low-risk entry point into the EGO platform, especially if you're also running or considering an EGO mower or blower. The same 56V battery that powers this trimmer works across EGO's full lineup, which is the real long-term argument for platform loyalty.
@@ -130,6 +135,8 @@ It's also not for anyone committed to gas. If you want the power headroom and do
 One thing that sometimes gets underweighted in hedge trimmer reviews is what the tool costs in context of the battery ecosystem. Buying this kit at around $159 gets you a 56V battery and charger that work with EGO's mowers, blowers, chainsaws, and string trimmers. The battery alone retails for around $80 to $90 at 2.5Ah. So you're effectively paying around $70 to $80 for the trimmer itself once you factor that out. At that price, the hardware quality, motor type, and cut capacity are genuinely hard to beat.
 
 For a full picture of what's available in the cordless tool space, the [battery-powered tools section](/battery-equipment/) of this site covers the broader EGO lineup and competes it against Greenworks, Ryobi, and Milwaukee options where relevant.
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
 
 ## Frequently Asked Questions
 

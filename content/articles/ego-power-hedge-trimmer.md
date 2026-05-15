@@ -44,6 +44,9 @@ If you're building out a battery-powered tool setup from scratch, the EGO ecosys
 
 Buy it if you're doing regular hedge maintenance on established shrubs and want to stop messing with gas. The 1-inch cut capacity is more than most cordless trimmers at this price point, the brushless motor holds up through a full hedgerow, and the kit pricing makes it a reasonable entry into the EGO platform. The included 2.5Ah battery will limit you on larger properties, and the blade guard design is mildly irritating on overhead work. Neither of those is a dealbreaker at this price.
 
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
+
 ## Key Specs
 
 The HT2411 runs on EGO's 56-volt arc lithium battery platform. The 24-inch dual-action hardened steel blade operates at 3,000 strokes per minute, and the trimmer is rated for branches up to 1 inch in diameter. Weight comes in at 7 lbs without the battery, which puts it noticeably lighter than gas alternatives like the Husqvarna 122HD60, which I ran for two seasons before moving to battery tools on most tasks. The kit ships with a 2.5Ah battery and standard charger. Full charge time on that battery is around 40 minutes.
@@ -103,6 +106,8 @@ Weight distribution is biased toward the motor end, which is standard for this t
 - Blade guard design is clunky on overhead cuts
 - The charger included in the kit is a standard charger, not rapid. If you're working against time, that 40-minute charge window will feel long
 
+[See EGO POWER+ HT2411 24" Cordless Hedge Trimmer on Amazon →](product:ego-ht2411-hedge-trimmer)
+
 ## Comparable Tools Worth Knowing
 
 I ran the Husqvarna 122HD60 as my main hedge trimmer for two seasons before switching to battery tools for most property tasks. It's a capable gas unit and I'm not dismissive of it. The EGO HT2411 doesn't quite match it on raw power in very heavy material, but for everything else, the difference has stopped mattering to me. The weight advantage and the absence of engine maintenance are real-world benefits that compound over a season.
@@ -125,6 +130,8 @@ If your tool priorities run more toward edging and cutting rather than trimming,
 The HT2411 sits in a specific lane: volume maintenance, established material, one-battery properties. Within that lane, it's one of the better options at this price, and the kit format makes the entry cost straightforward.
 
 ,
+
+[Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
 
 ## Frequently Asked Questions
 

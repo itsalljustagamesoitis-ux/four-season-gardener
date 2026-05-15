@@ -49,6 +49,9 @@ If you already own EGO batteries from a blower or trimmer, the tool-only version
 
 **Bottom line.** Buy it. Just price it correctly before you do.
 
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
+
 ## Key Specs
 
 | Spec | Detail |
@@ -131,6 +134,8 @@ The 5-year mower warranty and 3-year battery warranty are among the better cover
 - Touch Drive lever position takes adjustment time
 - No AWD option, which limits performance on steep grades compared to the Husqvarna HU800AWDH
 
+[See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
+
 ## Who It's For
 
 **Buy this if.** You have a lawn between 4,000 and 10,000 square feet, you want to stop buying gas and dealing with winter storage issues, and you're open to building into the EGO platform for other tools. If you're also looking at a battery edger or thinking about a [40V cordless leaf blower](/40v-cordless-leaf-blower/) for fall cleanup, the EGO battery ecosystem starts to pay off across the season rather than just on one purchase.
@@ -143,6 +148,8 @@ The 5-year mower warranty and 3-year battery warranty are among the better cover
 **The Stihl question specifically.** If you're already running Stihl battery tools, I understand the instinct to stay in platform. The Stihl AP and AK battery systems are well-made and the ecosystem has grown. But Stihl's current mower lineup leans toward smaller push-only models, and there's no direct competitor to the LM2135SP in their catalog at this writing. You'd be crossing platforms either way. If you're invested in Stihl's handheld tools, you might look at the [Stihl battery edger](/stihl-battery-edger/) for trim work and use the EGO for mowing.
 
 The cordless tool category has moved fast. For a broader view of where the platforms stand now, the [cordless outdoor power equipment](/battery-equipment/) section on this site covers battery systems across brands if you're making platform decisions from scratch.
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 ## Frequently Asked Questions
 

@@ -47,6 +47,9 @@ The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best
 
 Buy it. With the caveats in the pricing section below.
 
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
+
 ## Key Specs
 
 The LM2135SP runs on EGO's 56V ARC Lithium platform. The 7.5Ah battery included in the combo kit delivers up to 60 minutes of runtime per charge. Cutting width is 21 inches. Cutting height adjusts across 6 positions, from 1.5 inches to 4 inches. Weight with battery installed is approximately 68 lbs.
@@ -111,6 +114,8 @@ For leaf management alongside the mowing season, I've also found a [40V cordless
 
 I'll add one more item that won't appear on a spec sheet. The handle height adjustment is a fixed two-position fold rather than a continuous adjustment. I'm 5'8" and found the high position comfortable. Someone taller might not. (I measured the handle height at the upper position as approximately 40 inches from the ground, if that helps.)
 
+[See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
+
 ## Who It's For
 
 This mower suits a specific profile, and it's worth being clear about that rather than pretending it's for everyone.
@@ -127,6 +132,8 @@ If you're managing something closer to what I run, with multiple acres and varie
 And if your property has significant edging and border work to go alongside the mowing, the [Stihl battery edger](/stihl-battery-edger/) is what I'd pair with this setup. Different brand, different battery system, but the Stihl edges with a precision the EGO multi-tool attachments don't quite match. You'd be managing two batteries rather than one, which is a real tradeoff, though I appreciate that's not everyone's priority.
 
 For a broader view of how cordless outdoor equipment has developed, the [Battery & Cordless Tools](/battery-equipment/) section covers the category in more depth, including chainsaw and edger options if you're building out a full setup.
+
+[Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 ## Frequently Asked Questions
 

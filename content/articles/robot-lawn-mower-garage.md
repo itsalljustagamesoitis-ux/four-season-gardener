@@ -109,6 +109,18 @@ Thread the charging station cable out through the back or side of the garage rat
 
 One point I'd add for anyone who runs multiple cordless tools across the same property: it's worth treating the garage positioning as part of a broader equipment access plan, not just a mower-specific problem. The same section of the [Battery & Cordless Tools](/battery-equipment/) hub covers storage and charging positioning for other outdoor power equipment if that context is useful.
 
+## Recommended Products
+
+If you're ready to buy, these are the products most directly relevant to setting up a robot mower garage properly.
+
+**My Robot Home Robotic Mower Shed** — The most practical polyethylene option currently available on Amazon. Protects the charging station and mower from UV and weather. Measures for fit before ordering — dimensions matter here.
+
+[Check price on Amazon](product:hartman-mow-house)
+
+**Mammotion LUBA 3 AWD 5000H Robot Lawn Mower** — If you're buying a robot mower alongside a garage, the LUBA 3 AWD is the top wire-free option. All-wheel drive handles slopes most mowers refuse. Worth knowing the dimensions before you order a garage.
+
+[See Mammotion LUBA 3 AWD on Amazon →](product:mammotion-luba-2-awd)
+
 ## Frequently Asked Questions
 
 ### Do I actually need a garage for my robot mower, or is it optional?

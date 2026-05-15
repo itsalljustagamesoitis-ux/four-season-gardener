@@ -47,6 +47,9 @@ The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the best handheld cor
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-6.jpg)
 
 
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
+
 ## Key Specs
 
 The LB6504 runs on EGO's 56V ARC Lithium platform. The included 5.0Ah battery delivers up to 75 minutes of run time on lower speed settings, though in practical terms, high-output clearing work cuts that significantly. Airspeed peaks at 200 MPH. The turbine fan generates 650 CFM at peak, which places it among the highest outputs of any handheld cordless model currently available.
@@ -96,6 +99,8 @@ The wider nozzle is where I notice the difference from a narrower-nozzle blower.
 - Gutter cleaning attachment is a separate purchase
 - Peak output run time is short. A second battery is a practical necessity for larger properties
 
+[See EGO POWER+ LB6504 650 CFM Cordless Leaf Blower on Amazon →](product:ego-lb6504-leaf-blower)
+
 ## Who It's For
 
 The honest answer is that this blower is for someone who takes fall cleanup seriously and has the property to justify the performance ceiling. If you're clearing a quarter-acre suburban lot, the LB6504 is more blower than you need, and you'd do fine with something lighter, like a mid-range [40V cordless leaf blower](/40v-cordless-leaf-blower/) that won't fatigue you on a shorter run.
@@ -110,6 +115,8 @@ This is also the blower I'd recommend to anyone who has dealt with the physical 
 For anyone doing cleanup from a riding setup or considering a more automated approach to yard management, it's worth reading our [robot lawn mower garage](/robot-lawn-mower-garage/) piece alongside this, since blower use often decreases as mulching programs improve.
 
 The full context for how the LB6504 fits into a battery yard tool setup is in the [cordless and battery equipment hub](/battery-equipment/), if you want to see how the categories connect before committing to a platform.
+
+[Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
 ## Frequently Asked Questions
 

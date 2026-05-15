@@ -108,6 +108,18 @@ If you're considering expanding beyond storage into growing space, the [12x20 gr
 
 And if your property planning includes open-air structures, the [cedar pergola kit](/cedar-pergola-kit/) review is relevant for understanding the difference between kit quality tiers, which applies to shed kits as much as anything.
 
+## Recommended Garden Sheds
+
+If you're ready to buy, here are the storage shed options most worth considering at the residential level. All are available with Amazon delivery, which matters for a product category where freight shipping adds both cost and coordination.
+
+**Arrow Select 10' x 8' Steel Storage Shed** — The Arrow Select is the practical mid-range pick for a steel shed. Electro-galvanized panels resist rust, the doors padlock, and the 80 square feet handles a full complement of lawn equipment without the wood maintenance. Note that the floor kit is sold separately — budget for it.
+
+[Check price on Amazon](product:arrow-select-10x8-shed)
+
+**Suncast 7x7 Heavy-Duty Resin Storage Shed** — Resin construction means no painting, no rot, and no rust concerns over time. The double-wall panels are more rigid than budget thin-wall resin alternatives. Better footprint for a secondary storage outbuilding than a primary shed, but worth considering if the 10x8 Arrow is more than your site requires.
+
+[Check price on Amazon](product:suncast-sutton-7x7-shed)
+
 ## Frequently Asked Questions
 
 ### How much does a garden shed with loft typically cost?

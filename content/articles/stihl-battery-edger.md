@@ -51,6 +51,9 @@ If you already own EGO equipment, this is an easy add. If you're starting from s
 ![Stihl Battery Edger](/images/articles/battery-equipment-2.jpg)
 
 
+
+[Check current price on Amazon](product:ego-me0801-edger-combo-b07b)
+
 ## Key Specs
 
 The ME0801 kit includes the Multi-Head power head (MHC1001), the 8-inch edger attachment (ME0801), a 2.5Ah 56V ARC Lithium battery, and a standard charger. The 56V platform is EGO's primary line. The edger attachment runs a steel blade, not nylon, at an angle that throws debris away from you rather than into your shins.
@@ -109,6 +112,8 @@ Vibration is noticeably lower than gas equivalents. I won't claim it's zero, but
 - The power head adds some weight distribution awkwardness compared to a purpose-built unit
 - No variable speed dial on the edger attachment itself. Motor speed is managed from the power head trigger
 
+[See EGO Power+ ME0801 Multi Combo Kit 8-Inch Edger Attachment & Power Head with 2.5Ah Battery on Amazon →](product:ego-me0801-edger-combo-b07b)
+
 ## Who It's For
 
 If you're already running EGO tools and you don't own an edger, this is straightforward. The kit gives you the battery and charger you may already have duplicates of, but buying the kit is almost always cheaper than buying the attachment alone and sourcing the power head separately. Check the current pricing on the individual components before assuming the kit is redundant.
@@ -125,6 +130,8 @@ For properties with heavy leaf fall and extended fall cleanup sessions, I'd note
 One more note on Stihl specifically. If you're committed to the Stihl ecosystem for tools like chainsaws or battery hedgers and you want to stay in one brand, it's worth checking dealer availability in your area before landing here. Stihl's cordless edger lineup is real equipment. The reason the EGO ME0801 is the recommendation in this context is availability and the maturity of the Amazon-accessible battery platform, not because Stihl makes an inferior product. For a sense of where Stihl's battery tools sit in practice, the [battery Stihl chainsaw](/battery-stihl-chainsaw/) review covers the AP platform in some depth.
 
 The full picture on cordless tool platforms, including battery compatibility charts and runtime comparisons across brands, is in the site's [cordless and battery-powered tools hub](/battery-equipment/).
+
+[Check current price on Amazon](product:ego-me0801-edger-combo-b07b)
 
 ## Frequently Asked Questions
 

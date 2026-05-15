@@ -46,6 +46,11 @@ This is a well-made replacement cushion set using genuine Sunbrella solution-dye
 
 **Skip it if:** You're outfitting new chairs and haven't decided on a frame yet. Start with the frame decision first, then come back to cushioning.
 
+
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
+
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
+
 ## Key Specs
 
 The RSH Decor cushion set covers both the seat and back, sized at 25" x 25". Sunbrella fabric is solution-dyed, meaning the color runs through the fiber rather than sitting on top of it, which is why it doesn't fade the way polyester-covered cushions do after a season of direct sun.
@@ -95,6 +100,7 @@ The back cushion attachment method is worth checking when yours arrives. Some co
 
 ![Adirondack Sunbrella Chair Cushions](/images/articles/outdoor-furniture-8.jpg)
 
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 ## Pros and Cons
 
@@ -112,6 +118,8 @@ The back cushion attachment method is worth checking when yours arrives. Some co
 - Sizing requires careful measurement. Returns on large cushions are a genuine inconvenience
 - Back cushion tie placement may not work cleanly on all Adirondack chair frames
 - Fill durability depends on which option you select. Standard polyester will compress faster than high-density foam over multiple seasons
+
+[See RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25" on Amazon →](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 ## Who It's For
 
@@ -131,6 +139,8 @@ These cushions are also appropriate for anyone who wants an outdoor seating setu
 For a broader look at how cushions factor into a complete patio setup, the site's section on [outdoor furniture](/outdoor-furniture/) covers frame and fabric choices in more depth.
 
 ,
+
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 ## Frequently Asked Questions
 

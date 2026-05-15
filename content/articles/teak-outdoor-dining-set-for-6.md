@@ -44,6 +44,9 @@ The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-din
 
 If you want the look of teak without teak's upkeep, and you're planning to stay in your house long enough to amortize the cost, this is the one I'd buy.
 
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ## Key Specs
 
 The set includes a 73-inch trestle-base dining table and six chairs. The 73-inch length accommodates six adults without the elbow negotiation you get with a 60-inch table. I've had eight people at it without meaningful complaint, though that requires that nobody uses both armrests at the same time.
@@ -104,6 +107,8 @@ There is a legitimate counter-argument, which is that a well-maintained teak set
 - The teak color finish, while good, doesn't replicate wood grain texture on close inspection. Not a problem for most settings.
 - At $1,800 to $2,100, this is a committed purchase. It's not a set you buy to see if you like outdoor dining.
 
+[See POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak on Amazon →](product:polywood-nautical-dining-set)
+
 ## Who It's For
 
 If you've ever stood in front of a real teak set at a garden center, loved it, and then talked yourself down based on price or maintenance, this is the set for you. It solves both problems at a cost that's still significant but realistic.
@@ -120,6 +125,8 @@ For the rest of us, the POLYWOOD case is strong. I'll note that if you're buildi
 If you're still weighing all your outdoor furniture options from the ground up, the full [outdoor furniture](/outdoor-furniture/) section on this site is a reasonable starting point before committing to a specific direction.
 
 ,
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
 
 ## Frequently Asked Questions
 

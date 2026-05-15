@@ -47,6 +47,9 @@ My verdict is that it earns the price for anyone with a quality frame they inten
 ![Sunbrella Adirondack Chair Cushions](/images/articles/outdoor-furniture-5.jpg)
 
 
+
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
+
 ## Key Specs
 
 The 25"x25" dimensions cover both the seat and back cushion as a set, which matters because buying seat and back separately often leaves you with mismatched fill heights or slight color variations between production runs.
@@ -107,6 +110,8 @@ Beyond the fabric itself, the stitching and seam construction hold up reasonably
 - Color selection narrows as sizes increase. The full color range isn't available in every dimension
 - Ties are functional but minimal. Windy locations will require additional securing strategies
 
+[See RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25" on Amazon →](product:rsh-decor-sunbrella-deep-seat-cushion)
+
 ## Who It's For
 
 If your patio or deck chairs are structurally sound, the frames are solid, but the cushions are done, this is the product category you need. The RSH Decor Sunbrella set is for people who want a real solution rather than buying time with another set of $40 generic cushions that will look worse than the ones they're replacing by next July.
@@ -123,6 +128,8 @@ For anyone with teak seating, it's worth knowing that teak frames are built for 
 The cushions also work across seating types beyond strict Adirondacks. Standard 25x25 deep-seat dimensions fit a lot of sectional and club chair configurations, which makes these useful if you're replacing across multiple pieces and want color consistency. For porch seating specifically, where cushions tend to live outside longer than deck furniture, the mold and moisture resistance becomes more relevant. I'd pair these with something like a well-framed [chair swing for porch](/chair-swing-for-porch/) use and not look back.
 
 If you're doing a broader refresh of your outdoor seating and want to understand the full range of options, the [outdoor furniture](/outdoor-furniture/) section covers frame materials, construction differences, and pairing recommendations across price points.
+
+[Check current price on Amazon](product:rsh-decor-sunbrella-deep-seat-cushion)
 
 ## Frequently Asked Questions
 

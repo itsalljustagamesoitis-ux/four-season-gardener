@@ -40,6 +40,9 @@ If you've spent any time shopping for outdoor seating, you already know the teak
 
 Buy it if you want a teak Adirondack that will outlast the decade, don't mind committing to an oil application every year or two, and understand the difference between Grade A and Grade B teak before checkout. Skip it if you want zero maintenance or if you're splitting the difference and shopping mostly on price. At around $350 to $400 at time of writing, it's priced where you'd expect serious teak furniture to land, and it delivers on that expectation in the ways that count.
 
+
+[Check current price on Amazon](product:titan-grade-a-teak-adirondack-chair)
+
 ## Key Specs
 
 **Material:** Grade A solid teak (heartwood-only milling)
@@ -105,6 +108,8 @@ For cushion options, the contoured seat works well with [Sunbrella Adirondack ch
 - Assembly instructions are functional but not polished
 - Price puts it out of reach for buyers who want teak aesthetics on a budget (Grade B chairs exist at $150 to $200, and you get what you pay for, but they exist)
 
+[See Ash & Ember Grade A Solid Teak Wood Adirondack Chair on Amazon →](product:titan-grade-a-teak-adirondack-chair)
+
 ## Who It's For
 
 This chair is for someone who has decided that outdoor furniture is a long-term investment and wants to buy once. If you've ever bought inexpensive teak or eucalyptus furniture and found yourself replacing it after three or four seasons because the joints failed or the wood split unevenly, that's the problem this solves. Grade A heartwood teak, properly maintained, has a functional lifespan measured in decades, not years.
@@ -117,6 +122,8 @@ It's also specifically the right choice if you've been shopping POLYWOOD and kee
 If you're interested in expanding a teak seating area, the [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) in a similar grade is worth considering alongside this chair for a covered porch or shaded seating area where the rocking motion is more useful than the fixed recline. And if you're building out a complete outdoor space across furniture categories, the [Outdoor Furniture](/outdoor-furniture/) hub has the full range covered by material and use case.
 
 The chair is less suited for someone who needs lightweight or portable seating, anyone who wants genuinely zero maintenance, or a buyer whose primary constraint is staying under $200.
+
+[Check current price on Amazon](product:titan-grade-a-teak-adirondack-chair)
 
 ## Frequently Asked Questions
 
