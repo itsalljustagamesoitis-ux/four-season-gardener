@@ -44,6 +44,8 @@ Buy this if you want a large outdoor dining set that will still look presentable
 
 For everyone else calculating long-term cost of ownership, this set makes a reasonable case for itself.
 
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ## Key Specs
 
 The POLYWOOD Nautical Trestle set includes a 73-inch rectangular trestle table and six chairs. The table seats six comfortably for a formal dinner and will accommodate eight if you're not being precious about elbow room. The "Teak" colorway is a warm honey-brown that reads as natural wood from conversational distance.
@@ -56,6 +58,8 @@ Frame material is POLYWOOD's HDPE (high-density polyethylene) lumber, made from 
 POLYWOOD backs this with a 20-year warranty, which is genuinely unusual in this category and is worth pricing into your decision.
 
 Pricing runs around $2,200 to $2,500 for the complete 7-piece set at the time of writing, depending on retailer and current promotions.
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
 
 ## Performance and Testing
 
@@ -105,6 +109,8 @@ No cushions are included. The chairs work without them, but if you want added co
 - No umbrella hole on the table, which limits shade options on a fully exposed patio.
 - Color options are limited compared to what you'd find in aluminum sets.
 
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
+
 ## The Real Cost Comparison
 
 A solid teak outdoor dining set of comparable size from a quality source like Smith and Hawken's older catalog or current suppliers like Kingsley Bate runs $3,500 to $8,000 at purchase. Add annual oiling, periodic sanding if you want to restore color after gray weathering, and occasional hardware replacement. Over ten years, you're at $4,000 to $9,000 minimum on a set that, if properly maintained, will look beautiful. If neglected, will look rough.
@@ -116,6 +122,8 @@ The POLYWOOD set at $2,200 to $2,500 with zero maintenance cost over the same pe
 
 Entry-level teak sets from Amazon's lower price tier, typically $600 to $1,200, use lower-grade plantation teak that checks and dries more aggressively. I wouldn't compare the POLYWOOD to those. I'd compare it to mid-to-high teak and ask which situation you're actually in.
 
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ## Who It's For
 
 This set makes sense for a specific kind of buyer. You have a permanent patio or deck where furniture stays year-round. You want something that looks reasonable from the street and looks good up close, but you are not interested in annual maintenance. You're buying for the long term and doing the math on total cost, not purchase price.
@@ -123,6 +131,8 @@ This set makes sense for a specific kind of buyer. You have a permanent patio or
 It also makes sense if you've owned real teak and are tired of it. Real teak is beautiful but it does ask things of you. If you've reached the point in your life where outdoor furniture should not require a maintenance schedule, which I fully understand, POLYWOOD delivers on that.
 
 It's not the right choice if you move furniture constantly, if the plastic-surface aesthetic bothers you at close range, or if you're working with a tight initial budget.
+
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
 
 If you're exploring a wider range of options before committing to a full dining set, the [teak outdoor bar stools](/teak-outdoor-bar-stools/) review on this site covers a related category with similar material tradeoffs, which might be useful context.
 

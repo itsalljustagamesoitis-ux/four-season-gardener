@@ -61,6 +61,8 @@ If you want something you can move around frequently, or if you're furnishing a 
 
 **Assembly.** Some required. POLYWOOD recommends two people for the table, which is accurate advice.
 
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ## Performance and Testing
 
 ### Weather Resistance
@@ -109,6 +111,8 @@ Soap and water. Occasionally a soft brush if there's mildew in the slats from a 
 - If you want actual cast aluminum construction for specific reasons (lighter weight, specific aesthetic), this doesn't deliver that.
 - Color options are limited compared to cast aluminum sets, which often come in a wider palette
 
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
+
 ## What Actually Goes Wrong with Cast Aluminum
 
 Since this article is nominally about cast aluminum, I should be honest about how that category fails in practice, because it informs why I ended up where I did.
@@ -118,6 +122,8 @@ The failure mode for entry-level cast aluminum is consistent: powder coating deg
 Premium cast aluminum from manufacturers like Telescope Casual or Brown Jordan is a different proposition. The casting is thicker, the powder coating is applied correctly and adheres longer, and the weld points are reinforced. If you specifically want aluminum construction for the weight advantage, those brands are where the category earns its reputation. But those sets run $1,500 to $3,500 for a full dining configuration, putting them in direct price overlap with POLYWOOD. At that point the comparison is genuine and the decision comes down to what you prioritize: lighter weight and a metal aesthetic, or a 20-year warranty and zero maintenance.
 
 I prioritized the latter. That's not the right answer for everyone, but it's the answer that made sense for a set that's going to live on my property for the next decade or more without being moved seasonally.
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
 
 ## Buying Guide: What to Actually Evaluate Before Committing
 
@@ -147,5 +153,7 @@ Who it's not for: anyone who needs to move furniture regularly, has a smaller pa
 One more category worth flagging: if you're furnishing an outdoor space more completely and thinking about seating beyond the dining area, a [large Adirondack chair](/large-adirondack-chair/) in POLYWOOD's HDPE material would carry the same durability logic and look coherent alongside this set.
 
 The broader picture on outdoor dining furniture, including cast aluminum, teak, and HDPE options across price points, is covered in our [outdoor furniture](/outdoor-furniture/) section if you're still deciding between categories.
+
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
 
 

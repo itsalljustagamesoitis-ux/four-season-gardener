@@ -61,6 +61,8 @@ Weight with the battery attached runs approximately 9 to 10 pounds for the power
 
 The 56V platform is EGO's standard voltage across its full tool range. A battery purchased for this kit will also run EGO's mowers, blowers, and chainsaws without modification.
 
+[Check current price on Amazon](product:ego-me0801-edger-combo-b07b)
+
 ## Performance and Testing
 
 ### Cut Quality
@@ -103,12 +105,16 @@ The 2.5Ah battery included in the kit is the minimum viable option. For anything
 
 The upfront cost also steps up sharply if you're not already in the EGO ecosystem. The kit runs around $199 to $220, but if you later want a string trimmer attachment, a hedge trimmer, and a blower, you're looking at several hundred dollars more. Compare that to buying a single-purpose battery edger and a separate [40V cordless leaf blower](/40v-cordless-leaf-blower/) from different brands at lower individual prices. The ecosystem bet pays off over time, not immediately.
 
+[See EGO Power+ ME0801 Multi Combo Kit on Amazon →](product:ego-me0801-edger-combo-b07b)
+
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-3.jpg)
 
 
 ## Who It's For
 
 This kit makes sense for a specific buyer profile. If you're starting a battery tool collection and want to build around one platform, the ME0801 is a reasonable anchor purchase. EGO's 56V ecosystem is one of the more mature options in the residential market, and starting with an edger attachment gives you the power head for future additions.
+
+[Check current price on Amazon](product:ego-me0801-edger-combo-b07b)
 
 It also makes sense if you already own EGO tools and are adding edging capability. In that case, you may only need the attachment itself, not the full kit, which brings the cost down considerably.
 
@@ -117,6 +123,8 @@ It makes less sense if you want a traditional standalone edger and have no inter
 For context, my own property runs about 12 acres, with roughly 600 linear feet of formal edged border near the house. The ME0801 handles the formal sections adequately with the 5Ah battery, though I supplement with a Stihl dealer-channel unit for the longer runs. That's a specific use case, though I recognize most readers aren't managing that scale.
 
 If you're curious how EGO's broader cordless lineup compares as a category, the site's [cordless and battery-powered tool coverage](/battery-equipment/) covers more of the platform options side by side.
+
+[See EGO Power+ ME0801 Multi Combo Kit on Amazon →](product:ego-me0801-edger-combo-b07b)
 
 ## Frequently Asked Questions
 

@@ -44,6 +44,8 @@ The POLYWOOD Nautical Trestle set is the right call for anyone who wants a dinin
 
 The case against it is straightforward too. This set is heavy, it's not going anywhere once you place it, and the teak color is a close approximation rather than actual wood grain. If you want to rearrange your outdoor space seasonally or you're renting, this probably isn't the right choice.
 
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 ![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-5.jpg)
 
 
@@ -54,6 +56,8 @@ The Nautical Trestle 7-Piece set includes the 73-inch trestle dining table and s
 The 73-inch table length seats six adults without the elbow-fighting that happens at a 60-inch table. I tested this at a dinner for eight and it's workable, though you're borrowing from comfort at the ends. Six is the number to plan around.
 
 For comparison, I've also spent time with aluminum dining sets in this price range (the Telescope Casual Belle Isle 7-piece runs around $2,000 to $2,400 and is worth knowing about), and I've watched a neighbor go through two seasons of real teak maintenance that, by year three, he was no longer doing. The POLYWOOD set sits in a different category from both, and that's intentional.
+
+[Check current price on Amazon](product:polywood-nautical-dining-set)
 
 ## Performance
 
@@ -101,6 +105,8 @@ The all-weather HDPE construction means the set genuinely lives outside year-rou
 
 The set is heavy, full stop. Two people to move the table, and you're not repositioning these chairs casually. The price is real money up front, currently around $2,200 to $2,500, and that's before cushions. The wood aesthetic is an approximation , grain lines are molded in, not natural, and up close the HDPE material reads as plastic to anyone who's handled real wood furniture. No folding, no stacking, no compact storage option if you change your mind about leaving it outside.
 
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
+
 ![Composite Outdoor Dining Set](/images/articles/outdoor-furniture-8.jpg)
 
 
@@ -108,10 +114,14 @@ The set is heavy, full stop. Two people to move the table, and you're not reposi
 
 Buy the POLYWOOD Nautical Trestle set if you have a permanent outdoor dining space, you want furniture that stays out year-round without any work, and you've priced real teak and decided the maintenance commitment isn't worth it. It's particularly well suited to exposed patios with no overhead coverage, since the HDPE handles UV and rain without any degradation.
 
+[Check current price on Amazon](product:polywood-nautical-dining-set)
+
 If you want something to pair with this set for additional seating or a covered porch area, [Adirondack chair folding](/adirondack-chair-folding/) styles in POLYWOOD's same material hold up with the same zero-maintenance logic and are worth looking at.
 
 Don't buy it if you need portability, you're planning to store furniture seasonally anyway, or you specifically want the character of real wood grain and can commit to the maintenance. Also skip it if budget is tight and you need a functional dining set rather than a long-term investment. There are aluminum sets in the $600 to $900 range that do a serviceable job and are easier to live with if you're not planning to stay in the space long-term.
 
 If you're still working through what category of outdoor furniture suits your situation, the full [outdoor furniture buying guide](/outdoor-furniture/) on this site is a useful starting point before spending this kind of money.
+
+[See POLYWOOD Nautical Trestle Dining Set on Amazon →](product:polywood-nautical-dining-set)
 
 
