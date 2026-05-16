@@ -771,6 +771,7 @@ greenworks-40v-blower-vac:
 dr-power-leaf-lawn-vacuum:
   name: DR Power Equipment Self-Propelled Leaf and Lawn Vacuum
   brand: DR Power Equipment
+  discontinued: true
   amazon_asin: null  # NOT ON AMAZON — DR Power is direct-to-consumer only at drpower.com. No Amazon listing exists. Substitute with SuperHandy or WORX Trivac for Amazon affiliate.
   awin_advertiser_id: null
   awin_product_url: null
@@ -909,6 +910,7 @@ vego-garden-6in1-17inch:
 birdies-metal-raised-bed-patio:
   name: Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"
   brand: Birdies Garden Products
+  discontinued: true
   amazon_asin: null  # NOT ON AMAZON — sold direct at birdiesgardens.com only. Use direct link or substitute with Vego Garden for Amazon affiliate.
   awin_advertiser_id: null
   awin_product_url: null
@@ -3069,6 +3071,7 @@ pomya-30w-solar-heater-b0gq:
   name: Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable
   brand: Pomya
   amazon_asin: NOT_ON_AMAZON
+  discontinued: true
   awin_advertiser_id: null
   awin_product_url: null
   default_image: null
