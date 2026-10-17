@@ -14,7 +14,7 @@ products:
   - id: "dewalt-dcmw220p2-cordless-mower"
     role: "primary"
     article_specific_pros:
-      - "Runs on DeWalt's 20V MAX battery system , no gas, no cords"
+      - "Runs on DeWalt's 20V MAX battery system, no gas, no cords"
       - "3-in-1 mulching, bagging, and side-discharge"
     article_specific_cons:
       - "20V batteries are on the smaller side; best for yards under half an acre"
@@ -38,14 +38,13 @@ safety_topics:
 
 If you're already running DeWalt's 20V MAX platform across your shop, garage, or garden shed, the [DEWALT 20V MAX Lawn Mower, 3-in-1, 2 Batteries (DCMW220P2)](product:dewalt-dcmw220p2-cordless-mower) is the obvious first mower to look at. It runs on the same batteries as your drill, your circular saw, your string trimmer. No separate chargers, no new ecosystem to buy into. That's either the whole pitch or it's not relevant to you, depending on where you already are with your tool collection.
 
-I've been testing cordless outdoor power equipment seriously for the past several years, building out coverage for our [Battery & Cordless Tools](/battery-equipment/) section, and the DCMW220P2 sits at the more accessible end of what DeWalt offers. It currently runs around $299 on Amazon (at the time of writing), includes two 5.0Ah 20V MAX batteries and a charger, and is aimed squarely at homeowners with smaller yards who want to cut the gas cord without spending EGO or Greenworks money on a different battery platform.
+I've been testing cordless outdoor power equipment seriously for the past several years, building out coverage for our [Battery & Cordless Tools](/battery-equipment/) section, and the DCMW220P2 sits at the more accessible end of what DeWalt offers. It currently runs on Amazon (at the time of writing), includes two 5.0Ah 20V MAX batteries and a charger, and is aimed squarely at homeowners with smaller yards who want to cut the gas cord without spending EGO or Greenworks money on a different battery platform.
 
 Whether it earns its place depends on what you're mowing and what you already own.
 
 ## Quick Verdict
 
 The DCMW220P2 is a solid, no-drama mower for yards under half an acre, and it earns that description honestly. Push propulsion, three output modes, and DeWalt's dependable battery system make it a sensible choice if you're consolidating tools around one platform. It's not the most powerful cordless mower on the market, and if you have anything resembling a large property, the 20V batteries will show their limits. For the right yard and the right owner, though, it works.
-
 
 [Check current price on Amazon](product:dewalt-dcmw220p2-cordless-mower)
 
@@ -63,7 +62,6 @@ The DCMW220P2 is a solid, no-drama mower for yards under half an acre, and it ea
 - **Output modes.** Mulching, rear bagging, and side discharge (3-in-1).
 - **Drive.** Push only. No self-propel.
 - **Handle.** Folds flat for storage.
-- **Price (at time of writing).** Around $299 with two 5.0Ah batteries and charger included.
 
 For additional context on where this fits in DeWalt's outdoor lineup and how the 20V MAX batteries stack up against larger-voltage competitors, the [Battery & Cordless Tools](/battery-equipment/) hub is a useful reference point.
 
@@ -83,14 +81,13 @@ Acceptable to good, with some caveats. Mulching performance is the strongest mod
 
 ![Dewalt Cordless Lawn Mower](/images/articles/battery-equipment-1.jpg)
 
-
 The 20-inch deck is narrower than the 21-inch standard you'll find on most gas mowers and some competitors like the Honda HRX217, which I ran for four seasons before moving to battery equipment. You'll notice that inch on long straight runs. Not a dealbreaker, but worth knowing.
 
 ### Handling and Build
 
 The push operation is straightforward. At 56 lbs with batteries installed, it's not light, but the weight is distributed well and the handle height is comfortable for most adult users. If you've ever given up on a mow mid-session because your arms were done before the yard was, the DCMW220P2 won't solve that. It still requires you to push it. What it removes is the pull-start frustration, the fuel mixing, and the end-of-season carburetor draining that gas equipment demands.
 
-Handle fold is functional and genuinely useful for storage. My garage has limited floor space, and a mower that folds to a compact footprint and stands upright is not a small thing.
+Handle fold is functional and genuinely useful for storage. This garage has limited floor space, and a mower that folds to a compact footprint and stands upright is not a small thing.
 
 Single-lever height adjustment across six positions is better than the four-corner individual adjustments on older push mowers. I use the 3-inch setting almost exclusively for most of the season, dropping to 2.5 inches for a final fall cut. (I also cut at 3.5 inches during drought stress in late July and August, if that's relevant to your climate.)
 
@@ -105,7 +102,6 @@ Wet terrain adds another variable. The rear-wheel drive has decent traction on d
 The DCMW220P2 takes the same batteries as DeWalt's full 20V MAX lineup, which currently covers over 250 tools. If you're already running a DEWALT 20V drill, impact driver, or circular saw, you likely have batteries and a charger you can use immediately. The included 5.0Ah packs are on the larger end of the 20V MAX range, which is what you want for a mower application. Smaller 1.5Ah or 2.0Ah packs will run the mower but significantly cut your runtime.
 
 ![Dewalt Cordless Lawn Mower](/images/articles/battery-equipment-2.jpg)
-
 
 One practical note on battery care that often goes unstated: lithium-ion batteries degrade faster when stored fully discharged or at extreme temperatures. If you're putting the mower away for winter, charge the batteries to around 50 to 60 percent before storage and keep them somewhere that doesn't freeze. A detached garage that drops below 20°F is not a good battery storage environment. This matters more for 20V batteries than for larger packs because each individual cell is doing proportionally more work. DeWalt's charger will occasionally run a diagnostic cycle when you connect a stored battery in spring; let it complete rather than yanking the pack off early.
 
@@ -152,8 +148,6 @@ It's also for someone who is done with gas equipment maintenance. If you've spen
 
 It is not for large properties. My own property runs to 12 acres, and I use this as a supplementary mower for a specific section, not as a primary machine. For anything approaching an acre of lawn, you need more voltage, more width, or self-propel, preferably some combination of all three.
 
-It's also not the right choice if you're new to battery tools and have no existing DeWalt equipment. In that case, the EGO LM2000E or LM2102SP on a 56V platform offers more power and doesn't require you to double up on 20V batteries to match runtime. The EGO runs around $399 to $499 depending on battery configuration. You're paying more, but you're getting a mowing-specific platform built around higher voltage from the start.
+It's also not the right choice if you're new to battery tools and have no existing DeWalt equipment. In that case, the EGO LM2000E or LM2102SP on a 56V platform offers more power and doesn't require you to double up on 20V batteries to match runtime. The EGO. You're paying more, but you're getting a mowing-specific platform built around higher voltage from the start.
 
 If you're looking at expanding your cordless yard care lineup beyond mowing, it's worth browsing the full range of options in our [cordless and battery-powered tools](/battery-equipment/) coverage before you commit to any single platform.
-
-

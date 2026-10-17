@@ -42,8 +42,7 @@ The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2
 
 Buy it if you have a half-acre to an acre of maintained lawn and want a mower that handles real grass without babying. The 7.5Ah 56V battery delivers genuine runtime rather than marketing runtime, the self-propel system works on slopes that would exhaust most people pushing, and the multi-blade cutting system is noticeably better than the single-blade setup on the previous LM2100. Pass on it if you're expecting to mow two-plus acres on a single charge without a backup battery, or if you need it ready in 20 minutes and haven't budgeted for the rapid charger.
 
-Currently priced around $699 for the kit (battery and rapid charger included) or approximately $449 for the tool-only version, at the time of writing. The 7.5Ah battery alone sells separately for around $249, so if you're new to the platform, the kit is the better entry point by a significant margin.
-
+Currently priced for the kit (battery and rapid charger included) or for the tool-only version, at the time of writing. The 7.5Ah battery alone sells separately, so if you're new to the platform, the kit is the better entry point by a significant margin.
 
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
@@ -52,7 +51,6 @@ Currently priced around $699 for the kit (battery and rapid charger included) or
 The LM2135SP runs on EGO's 56V ARC Lithium platform. The included 7.5Ah battery is the largest in EGO's standard lineup, and the mower will also accept the 10Ah if you have one. Cutting deck is 21 inches. Six cutting height settings from 1.5 to 4 inches. The Select Cut system uses three blades: the setup mulches, bags, or side-discharges without swapping parts. The Touch Drive self-propel is variable speed, controlled by handle pressure. Weight with battery installed is approximately 68 lbs.
 
 ![Ego Power+ Lm2100 56-Volt 21-In Cordless Push Lawn Mower](/images/articles/battery-equipment-7.jpg)
-
 
 The battery charges to full in around 40 minutes with the rapid charger. With a standard charger, plan on closer to 4 to 5 hours.
 
@@ -69,7 +67,6 @@ If you've ever had a smaller battery mower fade to a near-stop in the last ten m
 The Touch Drive system is the feature I'd highlight first to anyone replacing a gas mower. It responds to hand pressure on the bail rather than a separate speed lever, which means you're not locked into a fixed pace. Walk faster, it speeds up. Slow down at the turn, it slows down. On a flat lawn this is a convenience. On a 15-degree slope it's the difference between a manageable afternoon and a workout you didn't sign up for.
 
 ![Ego Power+ Lm2100 56-Volt 21-In Cordless Push Lawn Mower](/images/articles/battery-equipment-8.jpg)
-
 
 Compared to the Husqvarna LC221RH, which I ran for three seasons before switching, the Touch Drive requires a short adjustment period but becomes natural quickly. The Husqvarna's rear-wheel drive self-propel has more raw traction on wet grass; the EGO is better on dry slopes. Neither dominates the other completely, but the EGO's pace responsiveness is more intuitive day-to-day.
 
@@ -100,7 +97,7 @@ My nearest neighbor is far enough away that this isn't a primary concern for me,
 
 **Cons.**
 
-- Tool-only version at around $449 is misleading value if you don't already own a 56V battery
+- Tool-only version is misleading value if you don't already own a 56V battery
 - 68 lbs with battery installed is heavier than most corded mowers and several gas competitors in this class
 - Not a two-acre machine on a single charge; anyone mowing larger areas needs a second battery as a practical matter
 - The rapid charger should be standard equipment at this price point, not an optional extra
@@ -115,10 +112,9 @@ It's also worth mentioning in the context of the broader shift away from single-
 
 It is not for.
 
-Anyone with steep, difficult terrain that requires four-wheel-drive traction or a self-propel system with more pull than the Touch Drive provides. Not for properties over an acre and a half unless a second battery is already in the plan. And not, candidly, for buyers who will resist spending $249 on a spare battery, because this machine performs best when you don't feel rushed to finish before the charge drops.
+Anyone with steep, difficult terrain that requires four-wheel-drive traction or a self-propel system with more pull than the Touch Drive provides. Not for properties over an acre and a half unless a second battery is already in the plan. And not, candidly, for buyers who will resist spending that much on a spare battery, because this machine performs best when you don't feel rushed to finish before the charge drops.
 
 ![Ego Power+ Lm2100 56-Volt 21-In Cordless Push Lawn Mower](/images/articles/battery-equipment-2.jpg)
-
 
 ### A Note on the EGO Platform More Broadly
 
@@ -136,10 +132,9 @@ With the included 7.5Ah 56V battery, expect 45 to 55 minutes of actual mowing ti
 
 ### Does the LM2135SP come with a battery and charger?
 
-The kit version, currently around $699, includes the 7.5Ah battery and rapid charger. The tool-only version at approximately $449 includes neither. If you don't already own a compatible 56V EGO battery, the kit is the better purchase. The 7.5Ah battery sells separately for around $249, which makes the tool-only version a poor deal unless you're already in the ecosystem.
+The kit version includes the 7.5Ah battery and rapid charger. The tool-only version includes neither battery nor charger. If you don't already own a compatible 56V EGO battery, the kit is the better purchase. The 7.5Ah battery sells separately, which makes the tool-only version a poor deal unless you're already in the ecosystem.
 
 ![Ego Power+ Lm2100 56-Volt 21-In Cordless Push Lawn Mower](/images/articles/battery-equipment-3.jpg)
-
 
 ### How does the EGO LM2135SP compare to a gas mower?
 
@@ -171,7 +166,7 @@ Yes. All EGO 56V ARC Lithium batteries are compatible across the platform. A 5.0
       "name": "Does the LM2135SP come with a battery and charger?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The kit version, currently around $699, includes the 7.5Ah battery and rapid charger. The tool-only version at approximately $449 includes neither. If you don't already own a compatible 56V EGO battery, the kit is the better purchase. The 7.5Ah battery sells separately for around $249, which makes the tool-only version a poor deal unless you're already in the ecosystem."
+ "text": "The kit version includes the 7.5Ah battery and rapid charger. The tool-only version includes neither battery nor charger. If you don't already own a compatible 56V EGO battery, the kit is the better purchase. The 7.5Ah battery sells separately, which makes the tool-only version a poor deal unless you're already in the ecosystem."
       }
     },
     {
@@ -201,4 +196,3 @@ Yes. All EGO 56V ARC Lithium batteries are compatible across the platform. A 5.0
   ]
 }
 </script>
-

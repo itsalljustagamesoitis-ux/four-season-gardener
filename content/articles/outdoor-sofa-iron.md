@@ -14,21 +14,21 @@ products:
   - id: "incbruce-wrought-iron-loveseat-b084"
     role: "best_overall"
     article_specific_pros:
-      - "Classic ornamental wrought iron scrollwork , timeless traditional style"
+      - "Classic ornamental wrought iron scrollwork, timeless traditional style"
       - "Includes matching iron coffee table for a complete set"
     article_specific_cons:
-      - "Wrought iron is heavier than aluminum , harder to move"
+      - "Wrought iron is heavier than aluminum, harder to move"
   - id: "solaste-aluminum-loveseat-b08d"
     role: "also_consider"
     article_specific_pros:
-      - "597+ ratings , most reviewed metal outdoor loveseat in category"
+      - "597+ ratings, most reviewed metal outdoor loveseat in category"
       - "Clean modern aluminum frame with powder-coat finish"
     article_specific_cons:
       - "Light grey cushions may show dirt over time"
   - id: "kiss-the-water-aluminum-loveseat-b0cc"
     role: "also_consider"
     article_specific_pros:
-      - "5-inch thick cushions , unusually deep seat comfort for a metal-frame sofa"
+      - "5-inch thick cushions, unusually deep seat comfort for a metal-frame sofa"
       - "Wide armrests add to the lounging feel"
     article_specific_cons:
       - "Thicker cushions take longer to dry after rain"
@@ -69,7 +69,7 @@ One clarification before the picks: in common usage, "outdoor sofa iron" and "wr
 
 This is actual wrought iron, not aluminum dressed up in dark paint, and it looks like it. The scrollwork detailing on the arms and back is the kind of ornamental metalwork that got popular in the mid-19th century and has never entirely gone away for good reason. It reads as intentional rather than generic, and on a brick or flagstone patio with established plantings around it, it looks exactly right.
 
-The set runs around $220 to $240 at the time of writing and includes both the loveseat and a matching iron coffee table. That pricing, for a complete two-piece set with cushions, is the core argument for buying it. A comparable ornamental iron loveseat from a garden center or specialty outdoor retailer would easily run $400 or more for the sofa alone.
+The set and includes both the loveseat and a matching iron coffee table. That pricing, for a complete two-piece set with cushions, is the core argument for buying it. A comparable ornamental iron loveseat from a garden center or specialty outdoor retailer would easily run significantly more for the sofa alone.
 
 **Pros.**
 The scrollwork is the standout feature. Traditional styling in this category often means stamped patterns that look cheap up close; this one holds up. The matching coffee table included in the set is a real convenience since sourcing a coordinating piece separately is more effort than it sounds. Budget entry into true metal outdoor furniture.
@@ -78,7 +78,6 @@ The scrollwork is the standout feature. Traditional styling in this category oft
 Wrought iron is dense. This set is heavy to move and will require two people if you're reconfiguring the space or bringing it in before a hard freeze. The red cushions are included and are adequate, but they narrow your styling options considerably. If your patio runs to neutral colors, the red reads as an imposition rather than an accent. Cushion replacement is possible but adds to the overall cost.
 
 ![Outdoor Sofa Iron](/images/articles/outdoor-furniture-1.jpg)
-
 
 If you're already building out a traditional garden setting and want metal furniture that won't look out of place next to a [teak outdoor dining set](/teak-outdoor-dining-set/), this is the one I'd direct you toward.
 
@@ -92,7 +91,7 @@ If you're already building out a traditional garden setting and want metal furni
 
 The number that matters here is 597-plus verified ratings. In a category crowded with products that have 12 reviews and a suspiciously uniform five-star average, that review volume is meaningful. It suggests people are actually buying this, using it through multiple seasons, and returning to say so. That's the trust anchor for this pick, and it matters more than spec sheet comparisons.
 
-The frame is aluminum with a powder-coat finish. Prices currently sit around $280 to $310 depending on the configuration. The all-weather cushions are included in that price and are finished in light gray, which works well with most neutral patio palettes.
+The frame is aluminum with a powder-coat finish. Prices currently. The all-weather cushions are included in that price and are finished in light gray, which works well with most neutral patio palettes.
 
 **Pros.**
 The review count is the practical endorsement I keep coming back to. Clean modern silhouette that fits well on a contemporary deck or minimalist garden space. The powder-coat finish on aluminum is a solid combination for wet springs and the kind of freeze-thaw conditions that will rust uncoated steel within two seasons. All-weather cushions included at this price point is a reasonable deal.
@@ -114,8 +113,7 @@ Most metal outdoor sofas ship with cushions in the 2-to-3-inch range. That's thi
 
 ![Outdoor Sofa Iron](/images/articles/outdoor-furniture-2.jpg)
 
-
-The wide armrests reinforce that comfort orientation. They're broad enough to set a glass down without improvising, which sounds minor but affects how much you actually use the furniture versus admiring it from a distance. Pricing runs around $290 to $330 currently, so it's in the same bracket as the Solaste, and the aluminum frame means no rust concerns.
+The wide armrests reinforce that comfort orientation. They're broad enough to set a glass down without improvising, which sounds minor but affects how much you actually use the furniture versus admiring it from a distance. Pricing, so it's in the same bracket as the Solaste, and the aluminum frame means no rust concerns.
 
 **Pros.**
 The 5-inch cushion depth is the differentiator, full stop. For anyone who wants outdoor seating that functions more like indoor seating, this is the spec to look at. Wide arms, aluminum frame, no rust. The comfort profile makes this a reasonable candidate if you're pairing it with a reading corner or a shaded part of the property where you spend real time.
@@ -123,7 +121,7 @@ The 5-inch cushion depth is the differentiator, full stop. For anyone who wants 
 **Cons.**
 Thicker cushions hold moisture longer after rain. In a wet spring, or a property that gets afternoon showers regularly, you'll find yourself either waiting longer for the cushions to dry or developing the habit of pulling them inside, which defeats part of the point of outdoor furniture. Fewer reviews than the Solaste, so there's less long-term performance data behind it.
 
-If cushion comfort is the primary driver and you're willing to manage the drying time trade-off, this is the straightforward pick. (I've tested a lot of outdoor cushions at this price and most of them bottom out fast, so the 5-inch spec is worth taking seriously.)
+If cushion comfort is the primary driver and you're willing to manage the drying time trade-off, this is the straightforward pick. (Most outdoor cushions at this price bottom out fast in testing, so the 5-inch spec is worth taking seriously.)
 
 ,
 
@@ -135,7 +133,7 @@ If cushion comfort is the primary driver and you're willing to manage the drying
 
 The name does the selling, and in this case it's not false advertising. Aluminum doesn't rust, and a powder-coated aluminum frame in dark bronze is about as low-maintenance as outdoor metal furniture gets. The dark bronze finish is the other distinguishing feature here. Where most metal outdoor furniture comes in black or light neutral, bronze reads differently: it sits between traditional and modern, and it photographs well against stone, wood decking, or brick.
 
-Pricing currently sits around $260 to $290. The deep seat configuration puts this closer in feel to the Kiss the Water than the Solaste, though the cushions aren't as thick.
+Pricing currently. The deep seat configuration puts this closer in feel to the Kiss the Water than the Solaste, though the cushions aren't as thick.
 
 **Pros.**
 The never-rust aluminum construction is the core selling point for buyers in high-humidity areas or anywhere with consistent rain through the growing season. Dark bronze finish is versatile in ways that flat black or light gray usually isn't. Deep seat adds to the lounging comfort above what you'd get from a standard-depth metal sofa.
@@ -144,7 +142,6 @@ The never-rust aluminum construction is the core selling point for buyers in hig
 Generic branding means limited warranty support. If something arrives damaged or a weld fails in the second season, your recourse is less defined than with a named brand. The dark finish is also unforgiving with dust, and a dry month will make that apparent. Plan for regular wiping down if this is going on a patio near a gravel path or a dry garden bed.
 
 ![Outdoor Sofa Iron](/images/articles/outdoor-furniture-3.jpg)
-
 
 For buyers prioritizing longevity and low maintenance above all else, the never-rust claim and the bronze finish are a reasonable package at this price.
 
@@ -172,7 +169,6 @@ Most outdoor cushion covers in this price range are polyester with some degree o
 
 ![Outdoor Sofa Iron](/images/articles/outdoor-furniture-4.jpg)
 
-
 Cushion thickness in this category typically runs between 2 and 5 inches. The difference in extended-sitting comfort is noticeable. If the furniture is primarily decorative, this is a minor concern. If you're actually going to sit in it for more than thirty minutes at a time, it's worth checking the spec.
 
 ### Weight Capacity and Frame Construction
@@ -198,7 +194,6 @@ For anyone putting together a complete outdoor living arrangement, the full rang
 Properly maintained wrought iron outdoor furniture can last several decades. The key variable is finish maintenance. Once the paint or powder coat is compromised, exposed iron rusts quickly in wet conditions. If you're prepared to sand and repaint every few years when the finish shows wear, wrought iron is genuinely long-lasting. Aluminum frames require less maintenance because the material itself doesn't oxidize the way iron does, but the powder-coat finish still benefits from periodic attention.
 
 ![Outdoor Sofa Iron](/images/articles/outdoor-furniture-5.jpg)
-
 
 ### Is aluminum or wrought iron better for outdoor use?
 
@@ -264,4 +259,3 @@ Weld quality and finish uniformity are the two things worth assessing before you
   ]
 }
 </script>
-

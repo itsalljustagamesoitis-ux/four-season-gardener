@@ -17,21 +17,21 @@ products:
       - "Six-piece modular configuration adapts to different patio layouts"
       - "Olefin cushions are UV- and mold-resistant; removable, machine-washable covers"
     article_specific_cons:
-      - "Very high investment , premium all-weather sectionals rarely fall below $3,000"
+      - "Very high investment, premium all-weather sectionals rarely fall below $3,000"
   - id: "keter-corfu-2seat-loveseat"
     role: "also_consider"
     article_specific_pros:
-      - "All-weather resin construction , no rust, rot, or paint required"
+      - "All-weather resin construction, no rust, rot, or paint required"
       - "Built-in storage compartment under the seat holds cushions or garden accessories"
     article_specific_cons:
-      - "Resin weave aesthetic is clearly synthetic , lacks wood or wicker warmth"
+      - "Resin weave aesthetic is clearly synthetic, lacks wood or wicker warmth"
   - id: "anderson-teak-gl101-glider-bench"
     role: "also_consider"
     article_specific_pros:
       - "Solid Grade A teak construction with stainless steel hardware that won't rust or stain"
-      - "Smooth gliding motion on precision bearings , more relaxing than a static bench"
+      - "Smooth gliding motion on precision bearings, more relaxing than a static bench"
     article_specific_cons:
-      - "Premium price ($2,000+) , this is a long-term investment piece, not an impulse buy"
+      - "Premium price ($2,000+), this is a long-term investment piece, not an impulse buy"
   - id: "rsh-decor-sunbrella-deep-seat-cushion"
     role: "also_consider"
     article_specific_pros:
@@ -55,7 +55,7 @@ faq:
     answer: "Oiling once every one to two years takes about 20 minutes per piece with a cloth and teak oil. Without treatment, teak weathers to a silver-gray patina that many people actually prefer. The wood is equally protected either way — the oils are about color, not structural protection. If you have multiple teak pieces, keep the maintenance consistent across them or they will age to visibly different colors."
 ---
 
-Curved outdoor sofas sit at a genuinely awkward intersection of furniture categories. They're not quite sectionals, not quite loveseats, and the product listings online don't help , half of what shows up under "outdoor sofa curved" is a straight two-seater photographed at an angle. So this roundup takes a broader approach: the best outdoor seating in curved or modular configurations, plus the cushion upgrade and companion pieces that complete a real setup, not a staged one.
+Curved outdoor sofas sit at a genuinely awkward intersection of furniture categories. They're not quite sectionals, not quite loveseats, and the product listings online don't help, half of what shows up under "outdoor sofa curved" is a straight two-seater photographed at an angle. So this roundup takes a broader approach: the best outdoor seating in curved or modular configurations, plus the cushion upgrade and companion pieces that complete a real setup, not a staged one.
 
 Everything here is available through our [Outdoor Furniture](/outdoor-furniture/) hub if you want to browse by category. This article goes deeper on five specific products, with an honest assessment of each and a buying guide at the end for anyone still figuring out which direction to go.
 
@@ -69,22 +69,21 @@ One note on the "curved" label before we get into picks: most genuine curved out
 
 POLYWOOD's Edge sectional is the closest thing to a permanent outdoor seating solution in this price range. The six-piece modular configuration includes corner, armless, and end pieces that you can arrange in a traditional L, a wide C, or a genuine curve depending on your patio geometry. HDPE (high-density polyethylene) construction means the frame will not rust, crack, splinter, or absorb moisture regardless of what weather throws at it.
 
-The warranty structure tells you what POLYWOOD actually thinks of this product: 20 years on the frame, 3 years on the cushions. That's not marketing language, that's a financial commitment. At around $3,200 to $3,500 currently on Amazon (price fluctuates by color and configuration), it's a significant initial outlay. But consider the math against a $600 wicker set that shows deterioration after two hard winters and needs replacing by year four or five. Over 20 years, the POLYWOOD isn't expensive. It's the last time you buy this.
+The warranty structure tells you what POLYWOOD actually thinks of this product: 20 years on the frame, 3 years on the cushions. That's not marketing language, that's a financial commitment. it's a significant initial outlay. But consider the math against a wicker set that shows deterioration after two hard winters and needs replacing by year four or five. Over 20 years, the POLYWOOD isn't expensive. It's the last time you buy this.
 
 The Olefin cushions are UV- and mold-resistant, and the covers are removable and machine washable. (I will note that machine washable does not mean machine dryable without checking the label first, which I learned the efficient way.) If you're leaving the set outside through cold months, the cushions benefit from a storage bag. The frame itself can stay out year-round.
 
 ![Outdoor Sofa Curved](/images/articles/outdoor-furniture-5.jpg)
 
-
 **Pros.**
 - Six-piece modular configuration adapts to multiple patio layouts, including curved arrangements
-- HDPE frame is genuinely maintenance-free , no painting, no sealing, no seasonal treatment
+- HDPE frame is genuinely maintenance-free, no painting, no sealing, no seasonal treatment
 - 20-year frame warranty
 - Olefin cushions with removable, machine-washable covers
 - UV- and mold-resistant throughout
 
 **Cons.**
-- $3,200+ is a real number, and it's rarely discounted significantly
+- premium is a real number, and it's rarely discounted significantly
 - Cushions should be stored in a bag through harsh winters; leaving them out uncovered will shorten their lifespan
 - HDPE doesn't replicate the visual warmth of wood grain, which matters to some buyers
 
@@ -94,17 +93,17 @@ The Olefin cushions are UV- and mold-resistant, and the covers are removable and
 
 [Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, gray](product:keter-corfu-2seat-loveseat)
 
-The Keter Corfu runs around $180 to $220 depending on current stock, which puts it in a completely different conversation than the POLYWOOD. It's not competing on prestige or longevity in the same category. What it's doing is solving a specific problem: you need functional, weather-resistant outdoor seating with somewhere to put the cushions when it rains, and you don't want to spend $3,000 to get it.
+The Keter Corfu, which puts it in a completely different conversation than the POLYWOOD. It's not competing on prestige or longevity in the same category. What it's doing is solving a specific problem: you need functional, weather-resistant outdoor seating with somewhere to put the cushions when it rains, and you don't want to spending that much,000 to get it.
 
-The built-in storage compartment under the seat is the feature that sets this apart from comparable resin loveseats. It holds a surprising amount , two full cushions, small garden tools, a folded furniture cover, whatever you're trying to keep accessible but out of sight. For a balcony or small patio where you're managing space carefully, that matters more than it sounds.
+The built-in storage compartment under the seat is the feature that sets this apart from comparable resin loveseats. It holds a surprising amount, two full cushions, small garden tools, a folded furniture cover, whatever you're trying to keep accessible but out of sight. For a balcony or small patio where you're managing space carefully, that matters more than it sounds.
 
-Resin weave is what it is aesthetically. It reads as synthetic, and no amount of tasteful cushion upgrading will change that. If the look of the material is important to you, this is probably not your piece. If you're furnishing a functional outdoor space , a back deck that gets used, a side patio that faces weather , the Corfu is honest about what it is and does it well.
+Resin weave is what it is aesthetically. It reads as synthetic, and no amount of tasteful cushion upgrading will change that. If the look of the material is important to you, this is probably not your piece. If you're furnishing a functional outdoor space, a back deck that gets used, a side patio that faces weather, the Corfu is honest about what it is and does it well.
 
 On cushions: the included ones are basic. Several owners swap them out after a season for Sunbrella replacements, which is a reasonable upgrade. The [RSH Decor Sunbrella cushions](#rsh-decor-sunbrella-deep-seat-cushion) below are worth looking at for that purpose. You can also check our [loveseat Adirondack chair](/loveseat-adirondack-chair/) guide for complementary seating options if you're building out a small seating area.
 
 **Pros.**
 - All-weather resin: no rust, no rot, no annual treatment
-- Built-in storage under the seat , meaningfully useful, not decorative
+- Built-in storage under the seat, meaningfully useful, not decorative
 
 ![Outdoor Sofa Curved](/images/articles/outdoor-furniture-6.jpg)
 
@@ -125,7 +124,7 @@ On cushions: the included ones are basic. Several owners swap them out after a s
 
 Anderson Teak is a specialist brand, which is worth saying plainly. They're not a general outdoor furniture company that happens to sell some teak pieces. Teak furniture is what they do, and the Balboa glider reflects that focus. Solid Grade A teak frame, stainless steel hardware that won't rust or leave staining streaks on your stone, and precision bearings that produce a genuinely smooth gliding motion. Not the jerky, mechanical rock of a cheap glider. Smooth.
 
-Current price on Amazon is around $2,000 to $2,200, and the Amazon listing has a thin review count. I want to address that directly rather than paper over it: the thin reviews don't reflect product quality, they reflect where teak furniture buyers tend to shop. If you want more social proof before committing, Anderson Teak's own website has more complete review context and a product range that shows you who this company is. The Amazon listing is just a purchase channel.
+Current price on Amazon is, and the Amazon listing has a thin review count. I want to address that directly rather than paper over it: the thin reviews don't reflect product quality, they reflect where teak furniture buyers tend to shop. If you want more social proof before committing, Anderson Teak's own website has more complete review context and a product range that shows you who this company is. The Amazon listing is just a purchase channel.
 
 This is a piece you place somewhere and intend to keep. A covered porch, a garden terrace, a position in a seating arrangement anchored by a larger sectional. Paired with the right teak accent table, it becomes the kind of furniture arrangement that doesn't need updating. If you're interested in other Anderson Teak or Grade A teak options, our [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) guide covers companion pieces in the same material family.
 
@@ -138,12 +137,11 @@ Maintenance note: teak needs oiling every one to two years if you want to mainta
 - Will outlast most outdoor furniture bought at the same time
 
 **Cons.**
-- $2,000+ is a long-term investment, not an impulse purchase
-- Thin Amazon review count , check Anderson Teak's site for broader context
+- premium is a long-term investment, not an impulse purchase
+- Thin Amazon review count, check Anderson Teak's site for broader context
 - Requires oiling every 1-2 years to maintain color
 
 ![Outdoor Sofa Curved](/images/articles/outdoor-furniture-7.jpg)
-
 
 **Bottom line.** The only genuine teak glider bench consistently in stock on Amazon. Buy it once.
 
@@ -153,7 +151,7 @@ Maintenance note: teak needs oiling every one to two years if you want to mainta
 
 Sunbrella fabric is solution-dyed acrylic, which means the color runs through the fiber rather than sitting on the surface. It doesn't fade the way printed or surface-dyed outdoor fabrics do. RSH Decor uses genuine Sunbrella fabric in these deep seating cushions, and that matters because a lot of outdoor cushions sold as "UV resistant" use polyester blends that hold up for a season or two before looking washed out. Sunbrella holds for years.
 
-These cushions run around $80 to $120 for a seat-and-back set depending on fill choice and color, which is not cheap for replacement cushions. But if you have a good frame , a POLYWOOD sectional, a metal base, the Keter above , replacing worn cushions with Sunbrella is a substantially better investment than replacing the whole piece. Our [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) guide goes into more depth on Sunbrella fabric grades and care if you want that context.
+These cushions for a seat-and-back set depending on fill choice and color, which is not cheap for replacement cushions. But if you have a good frame, a POLYWOOD sectional, a metal base, the Keter above, replacing worn cushions with Sunbrella is a substantially better investment than replacing the whole piece. Our [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) guide goes into more depth on Sunbrella fabric grades and care if you want that context.
 
 Sizing note, and this is where people get into trouble: measure your existing cushion carefully before ordering. The 25"x25" designation is nominal. Actual fit varies by frame, and returns on large cushions are genuinely inconvenient. RSH Decor offers multiple configurations; match the dimensions to your frame, not just the label.
 
@@ -165,7 +163,7 @@ Sizing note, and this is where people get into trouble: measure your existing cu
 
 **Cons.**
 - Premium price over standard polyester cushion covers
-- Sizing requires careful measurement , nominal dimensions don't always match frame dimensions precisely
+- Sizing requires careful measurement, nominal dimensions don't always match frame dimensions precisely
 
 **Bottom line.** If your cushions have given out but your frame hasn't, this is the answer. Don't replace the whole piece.
 
@@ -175,10 +173,9 @@ Sizing note, and this is where people get into trouble: measure your existing cu
 
 Grade A teak is heartwood-only material: the densest part of the tree, highest in natural oils, most resistant to moisture and insects. Grade B uses a mix of heartwood and sapwood, which is less consistent and ages differently. The Ash & Ember Adirondack uses Grade A, and you can see the difference in the grain density and color consistency when it arrives.
 
-This chair currently runs around $350 to $420 on Amazon, which puts it in a different category than the $99 composite resin Adirondacks sold by the pallet at hardware stores. It's heavier at 35 to 40 pounds, which means it won't blow around in wind but also means you're not casually repositioning it. For a fixed seating spot, that weight is a feature. For a flexible layout, plan accordingly.
+This chair, which puts it in a different category than the composite resin Adirondacks sold by the pallet at hardware stores. It's heavier at 35 to 40 pounds, which means it won't blow around in wind but also means you're not casually repositioning it. For a fixed seating spot, that weight is a feature. For a flexible layout, plan accordingly.
 
 ![Outdoor Sofa Curved](/images/articles/outdoor-furniture-8.jpg)
-
 
 The visual warmth is real and POLYWOOD HDPE cannot replicate it, which I say as someone who owns and respects both materials for different reasons. Real wood grain reads differently in a garden setting. If aesthetics matter to your decision, that's a legitimate factor, not a superficial one.
 
@@ -192,7 +189,7 @@ Maintenance is the honest downside: oil it every one to two years to keep the go
 
 **Cons.**
 - Requires oiling every 1-2 years to maintain golden-brown color
-- 35-40 lbs , not a chair you rearrange casually
+- 35-40 lbs, not a chair you rearrange casually
 - Higher price than composite alternatives at the same retailer
 
 **Bottom line.** The right choice if you want real wood character, a fixed position, and a piece you'll still be using in 15 years.
@@ -201,7 +198,7 @@ Maintenance is the honest downside: oil it every one to two years to keep the go
 
 ### Modular vs. Single-Piece
 
-True curved sofas for outdoor use are almost always modular. You achieve the curve by combining corner and end units. This gives you flexibility over time , you can reconfigure as your patio layout changes , but it also means more pieces to manage, store, and match when replacing components. Single-piece loveseats like the Keter Corfu offer less adaptability but simpler ownership.
+True curved sofas for outdoor use are almost always modular. You achieve the curve by combining corner and end units. This gives you flexibility over time, you can reconfigure as your patio layout changes, but it also means more pieces to manage, store, and match when replacing components. Single-piece loveseats like the Keter Corfu offer less adaptability but simpler ownership.
 
 If your priority is a genuine curved sectional configuration, go modular. If your priority is low-maintenance seating for a defined space, a single-piece loveseat or a well-chosen bench is a cleaner answer.
 
@@ -209,10 +206,9 @@ If your priority is a genuine curved sectional configuration, go modular. If you
 
 HDPE (what POLYWOOD uses) is maintenance-free and warrantied for decades. It's UV-stable, doesn't absorb water, and holds up through hard winters without any seasonal treatment. The trade-off is aesthetic: it reads as manufactured, because it is.
 
-Teak is the performance hardwood for outdoor furniture. Grade A teak is the best grade. It requires periodic oiling but will last as long as any HDPE product if maintained , and it looks like wood because it is wood. The maintenance difference between the two is real but modest: oiling once a year takes about 20 minutes per piece.
+Teak is the performance hardwood for outdoor furniture. Grade A teak is the best grade. It requires periodic oiling but will last as long as any HDPE product if maintained, and it looks like wood because it is wood. The maintenance difference between the two is real but modest: oiling once a year takes about 20 minutes per piece.
 
 ![Outdoor Sofa Curved](/images/articles/outdoor-furniture-1.jpg)
-
 
 All-weather resin (Keter) is a different category: lighter-duty, lower-cost, adequate for functional use. Don't expect it to perform like HDPE or teak over a decade. Expect it to perform like what it is, which for many buyers and many spaces is exactly enough.
 
@@ -224,8 +220,6 @@ If you buy a set with basic cushions, plan to upgrade them within a season or tw
 
 ### Sizing and Layout
 
-Measure before you order anything over $500. A six-piece sectional set requires more patio real estate than most listings make obvious. The POLYWOOD Edge set in a full C-curve configuration needs a minimum of roughly 12 feet of clear patio width to sit comfortably. If you're working with a narrower space, a loveseat-plus-chairs arrangement is often more livable than a sectional you've crowded in.
+Measure before you order anything premium. A six-piece sectional set requires more patio real estate than most listings make obvious. The POLYWOOD Edge set in a full C-curve configuration needs a minimum of roughly 12 feet of clear patio width to sit comfortably. If you're working with a narrower space, a loveseat-plus-chairs arrangement is often more livable than a sectional you've crowded in.
 
 For a broader look at how these pieces fit into a complete outdoor living setup, the [Outdoor Furniture](/outdoor-furniture/) hub covers companion tables, accent chairs, and accessory options across the same quality tiers.
-
-

@@ -17,7 +17,7 @@ products:
       - "50,000 BTU output heats a 15-foot radius"
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+      - "Propane is an ongoing consumable cost, a 20 lb tank lasts roughly 8-10 hours at full"
 tags: ["fire-and-heat", "review"]
 disclosure_required: true
 noindex: false
@@ -38,12 +38,11 @@ safety_topics:
 
 If you've spent any time looking at the [Fire Pits & Patio Heaters](/fire-and-heat/) category, you already know the market is full of products that look reasonable in a photo and disappoint in a driveway. The Latitude Run outdoor fire pit table segment on Amazon is particularly cluttered with rebranded imports that share the same factory specs but wildly different quality control. When I started seeing the [Outland Living Series 403 44" Propane Fire Pit Table, Espresso](product:outland-living-403-fire-table) consistently appear in search results and buyer recommendations, I decided to test it properly rather than take the star ratings at face value.
 
-What follows is an honest assessment. I am not trying to sell you on this table. I am trying to tell you whether it is worth around $350 at current Amazon pricing, and for whom.
+What follows is an honest assessment. I am not trying to sell you on this table. I am trying to tell you whether it is worth at current Amazon pricing, and for whom.
 
 ## Quick Verdict
 
 The [Outland Living Series 403](product:outland-living-403-fire-table) is a functional, well-designed propane fire table that earns its price point. The 50,000 BTU output is real and noticeable. The concrete-look tabletop is heavier than you want it to be if you ever plan to move it, and the ongoing propane cost is a factor worth calculating before you buy. For a fixed patio installation where you want a fire feature that also functions as a table, this is a solid choice and the best option I have found in this price range.
-
 
 [Check current price on Amazon](product:outland-living-403-fire-table)
 
@@ -57,7 +56,6 @@ Assembled dimensions are 44 inches long by 24 inches wide by 24 inches tall. Ass
 
 ![Latitude Run Outdoor Fire Pit Table](/images/articles/fire-and-heat-2.jpg)
 
-
 One specification that rarely appears in product listings but matters in practice: the electronic ignition runs off a standard AA battery. If the ignition fails in year two, you are replacing a battery, not a component.
 
 ## Performance and Testing
@@ -66,7 +64,7 @@ One specification that rarely appears in product listings but matters in practic
 
 50,000 BTU is a meaningful number on a cool evening. Seated at roughly 6 to 7 feet from the table, I felt warmth without it being uncomfortable. The claimed 15-foot radius is optimistic at maximum range, but at 10 feet you will notice the heat. On an evening in the low 50s with light wind, a group of four seated around this table would be comfortable in light jackets. That is not a fireplace, but it is better than most [propane fire pit inserts](/propane-fire-pit-insert/) at this price.
 
-The flame height adjusts via a simple knob, giving you a range from a low decorative flicker to a full flame that throws genuine heat. I tested it at mid-range for most of the evening and found that to be the practical sweet spot between visual effect and fuel consumption.
+The flame height adjusts via a simple knob, giving you a range from a low decorative flicker to a full flame that throws genuine heat. Mid-range held for most of an evening session and proved the practical sweet spot between visual effect and fuel consumption.
 
 ### Fuel Consumption
 
@@ -78,10 +76,9 @@ Assembly took me just under 90 minutes working alone, which I realize is slower 
 
 ![Latitude Run Outdoor Fire Pit Table](/images/articles/fire-and-heat-3.jpg)
 
-
 ### Build Quality
 
-The steel frame has a powder-coated finish in a dark bronze that has held up well through repeated cycles of heat and weather. The tempered glass top feels solid. The lava rocks are functional but not particularly attractive. If the look matters to you, replacing the lava rocks with glass fire beads (sold separately, around $20 to $30 for a set) is a straightforward upgrade.
+The steel frame has a powder-coated finish in a dark bronze that has held up well through repeated cycles of heat and weather. The tempered glass top feels solid. The lava rocks are functional but not particularly attractive. If the look matters to you, replacing the lava rocks with glass fire beads is a straightforward upgrade.
 
 The regulator hose connection is secure and showed no leaking on my initial test with soapy water, which is the test you should always run before first ignition. The knob ignition is smooth and reliable in dry conditions. In wet or humid weather, the electronic igniter occasionally needs a second attempt, which is normal for this class of product.
 
@@ -93,10 +90,9 @@ The burner cover converts the table surface into usable patio table space. This 
 
 **Pros.**
 
-The 50,000 BTU output is competitive at this price. Comparable units in the $250 to $300 range typically run 40,000 BTU or less. The pre-attached regulator is a small but appreciated detail that removes an assembly headache. Electronic ignition with no external lighter needed is the kind of convenience you stop noticing after the second use, but you would miss it immediately if it were gone. The enclosed cabinet base hides the propane tank entirely, which keeps the aesthetic clean.
+The 50,000 BTU output is competitive at this price. Comparable units typically run 40,000 BTU or less. The pre-attached regulator is a small but appreciated detail that removes an assembly headache. Electronic ignition with no external lighter needed is the kind of convenience you stop noticing after the second use, but you would miss it immediately if it were gone. The enclosed cabinet base hides the propane tank entirely, which keeps the aesthetic clean.
 
 ![Latitude Run Outdoor Fire Pit Table](/images/articles/fire-and-heat-4.jpg)
-
 
 **Cons.**
 
@@ -116,14 +112,13 @@ It is also a good fit if your patio footprint is tight enough that a separate fi
 
 ![Latitude Run Outdoor Fire Pit Table](/images/articles/fire-and-heat-5.jpg)
 
-
-If you want maximum portability, or if you plan to use a fire feature primarily for cooking rather than ambiance, this is not the right product. For a smaller, more movable option, a portable propane pit at around $150 to $200 handles occasional use better. For larger fixed installations and higher BTU output, you are moving into fire pit inserts built into custom structures, which is a different category entirely.
+If you want maximum portability, or if you plan to use a fire feature primarily for cooking rather than ambiance, this is not the right product. For a smaller, more movable option, a portable propane pit at an entry price handles occasional use better. For larger fixed installations and higher BTU output, you are moving into fire pit inserts built into custom structures, which is a different category entirely.
 
 If you are comparing against rectangular formats with a longer table surface, the [rectangular fire pit table](/rectangular-fire-pit-table/) format works better for seating more than four people around a single surface. The 44-inch square format of the Series 403 is suited to an intimate seating arrangement, not a long dinner table setup.
 
 For readers still deciding between gas fire features and radiant electric heat options, I have covered the latter in more detail in the [Fire Pits & Patio Heaters](/fire-and-heat/) hub, including wall-mounted and freestanding comparisons. A [wall mounted patio heater](/wall-mounted-patio-heater/) is a better answer than a fire table if your goal is directed warmth over ambiance, and it is worth considering both before committing.
 
-At around $350 and available at this link, the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) is the best product I have found for this use case at this price. It is not perfect, and the propane economics are real. But it does what it promises, it holds up, and the dual-use design earns its footprint on a patio.
+the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) is the best product I have found for this use case at this price. It is not perfect, and the propane economics are real. But it does what it promises, it holds up, and the dual-use design earns its footprint on a patio.
 
 [Check current price on Amazon](product:outland-living-403-fire-table)
 
@@ -134,7 +129,6 @@ At around $350 and available at this link, the [Outland Living Series 403 44" Pr
 At full 50,000 BTU output, expect 8 to 10 hours. At a mid-range flame setting, which is where most people run it for evening use, you are looking at 12 to 14 hours. Plan for one tank exchange or refill approximately every four to six sessions at moderate use.
 
 ![Latitude Run Outdoor Fire Pit Table](/images/articles/fire-and-heat-6.jpg)
-
 
 ### Can the Series 403 be used on a wood deck?
 
@@ -150,7 +144,7 @@ No. The surround is a composite material designed to replicate the look of concr
 
 ### What is the difference between lava rocks and fire glass for this table?
 
-Lava rocks are the default filler included with the Series 403. They are functional and disperse heat evenly from the burner, but they have a rough, utilitarian look. Fire glass or fire beads are polished glass media sold separately, typically for $20 to $35 per set depending on quantity and color. They reflect the flame more visually and give the table a cleaner, more finished appearance. Either option works with the Series 403 burner. The switch is cosmetic, not functional, but it makes a noticeable difference in how the table presents in an outdoor setting.
+Lava rocks are the default filler included with the Series 403. They are functional and disperse heat evenly from the burner, but they have a rough, utilitarian look. Fire glass or fire beads are polished glass media sold separately, typically per set depending on quantity and color. They reflect the flame more visually and give the table a cleaner, more finished appearance. Either option works with the Series 403 burner. The switch is cosmetic, not functional, but it makes a noticeable difference in how the table presents in an outdoor setting.
 
 <script type="application/ld+json">
 {
@@ -194,10 +188,9 @@ Lava rocks are the default filler included with the Series 403. They are functio
       "name": "What is the difference between lava rocks and fire glass for this table?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Lava rocks are the default filler included with the Series 403. They are functional and disperse heat evenly from the burner, but they have a rough, utilitarian look. Fire glass or fire beads are polished glass media sold separately, typically for $20 to $35 per set depending on quantity and color. They reflect the flame more visually and give the table a cleaner, more finished appearance. Either option works with the Series 403 burner. The switch is cosmetic, not functional, but it makes a noticeable difference in how the table presents in an outdoor setting."
+ "text": "Lava rocks are the default filler included with the Series 403. They are functional and disperse heat evenly from the burner, but they have a rough, utilitarian look. Fire glass or fire beads are polished glass media sold separately, typically per set depending on quantity and color. They reflect the flame more visually and give the table a cleaner, more finished appearance. Either option works with the Series 403 burner. The switch is cosmetic, not functional, but it makes a noticeable difference in how the table presents in an outdoor setting."
       }
     }
   ]
 }
 </script>
-

@@ -17,14 +17,14 @@ products:
       - "50,000 BTU output heats a 15-foot radius"
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+      - "Propane is an ongoing consumable cost, a 20 lb tank lasts roughly 8-10 hours at full"
   - id: "napoleon-st-tropez-fire-table"
     role: "alternative"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
+      - "Electronic ignition with adjustable flame height, no matches needed"
       - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
+      - "Premium price, significantly more expensive than Outland Living tables"
 tags: ["fire-and-heat", "comparison"]
 disclosure_required: true
 noindex: false
@@ -47,19 +47,19 @@ safety_topics:
   - heating
 ---
 
-If you spend any time looking at rectangular fire pit tables, you'll hit the same fork in the road fairly quickly. There's the mid-range, does-what-it-says category, and there's the spend-more-and-get-more category. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) represent those two categories clearly enough that a real comparison is worth doing. One runs around $350,$400 on Amazon at time of writing. The other runs closer to $900,$1,100 depending on where you find it. That gap needs justification, and I'll tell you whether it gets one.
+If you spend any time looking at rectangular fire pit tables, you'll hit the same fork in the road fairly quickly. There's the mid-range, does-what-it-says category, and there's the spend-more-and-get-more category. The [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-living-403-fire-table) and the [Napoleon St. Tropez Rectangle Patioflame Fire Table](product:napoleon-st-tropez-fire-table) represent those two categories clearly enough that a real comparison is worth doing. One is the mid-range option; the other is the premium option. That gap needs justification, and I'll tell you whether it gets one.
 
 Both are propane-compatible rectangular fire tables, both function as outdoor furniture when not lit, and both skip the smoke and ash of wood entirely. If you're still deciding between a gas table and a wood-burning option, the [Fire Pits & Patio Heaters](/fire-and-heat/) section of this site covers that ground more broadly. For here, I'm assuming you've already landed on gas and want to know which of these two is the better buy for your situation.
 
 ## At-a-Glance
 
-The Outland Living Series 403 is a 44-inch rectangular table with a concrete-look resin top, 50,000 BTU output, and a pre-attached regulator hose sized for a standard 20 lb propane tank. It weighs around 68 lbs assembled and currently sells for approximately $360,$400 on Amazon.
+The Outland Living Series 403 is a 44-inch rectangular table with a concrete-look resin top, 50,000 BTU output, and a pre-attached regulator hose sized for a standard 20 lb propane tank. It weighs around 68 lbs assembled and is priced in the mid-range for propane fire tables.
 
-The Napoleon St. Tropez is a slightly larger rectangular table with a rustic bronze powder-coated aluminum frame, electronic push-button ignition, and a glass ember bed. It ships configured for propane and includes a natural gas conversion kit. Assembled weight is lighter than the Outland, around 55 lbs, despite the premium build. Price is currently around $950,$1,100 depending on the retailer.
+The Napoleon St. Tropez is a slightly larger rectangular table with a rustic bronze powder-coated aluminum frame, electronic push-button ignition, and a glass ember bed. It ships configured for propane and includes a natural gas conversion kit. Assembled weight is lighter than the Outland, around 55 lbs, despite the premium build. Price is at the premium end of the fire table market.
 
 | Feature | Outland Living Series 403 | Napoleon St. Tropez |
 |,|,|,|
-| Approx. Price | $360,$400 | $950,$1,100 |
+| Price tier | Mid-range | Premium |
 | BTU Output | 50,000 BTU | 40,000 BTU |
 
 ![Rectangular Fire Pit Table](/images/articles/fire-and-heat-7.jpg)
@@ -88,7 +88,7 @@ The assembly is manageable solo, though the top is heavy enough that having a se
 
 For buyers who've looked at options like a [fire pit with a hidden propane tank](/fire-pit-with-hidden-propane-tank/) and found them either too expensive or too complicated to install, the Outland's external tank approach is simpler and cheaper without being sloppy. The tank sits beside or underneath depending on your patio configuration.
 
-The Outland Living Series 403 is the right call if your budget is under $500, you want maximum heat output, and you're not planning to run a natural gas line to your patio. It's competent, appropriately priced, and doesn't pretend to be something it isn't.
+The Outland Living Series 403 is the right call if you want maximum heat output at a mid-range price and you're not planning to run a natural gas line to your patio. It's competent, appropriately priced, and doesn't pretend to be something it isn't.
 
 ## Why Choose the Napoleon St. Tropez
 
@@ -101,7 +101,7 @@ Electronic ignition is listed as a feature and genuinely functions as one. Push 
 ![Rectangular Fire Pit Table](/images/articles/fire-and-heat-1.jpg)
 
 
-The included natural gas conversion kit is the strongest long-term value argument for the Napoleon. Propane tanks are an ongoing cost. A 20 lb tank runs roughly $20,$25 to fill, and if you're using the table regularly across a full outdoor season, you'll spend $150,$200 or more on fuel alone. If you have natural gas service to your home, running a line to a permanent patio installation eliminates that recurring cost. The math pays back the price premium over a few seasons if you use the table consistently. This is worth a conversation with a plumber or gas fitter before you buy, and your local codes will govern what's required.
+The included natural gas conversion kit is the strongest long-term value argument for the Napoleon. Propane tanks are an ongoing cost. A 20 lb tank is an ongoing fuel cost, and if you're using the table regularly across a full outdoor season, that adds up faster than you might expect. If you have natural gas service to your home, running a line to a permanent patio installation eliminates that recurring cost. The math pays back the price premium over a few seasons if you use the table consistently. This is worth a conversation with a plumber or gas fitter before you buy, and your local codes will govern what's required.
 
 For buyers considering a [propane fire pit burner](/propane-fire-pit-burner/) as a standalone insert, the Napoleon's conversion kit actually makes more sense than building toward a custom setup at comparable cost.
 
@@ -118,9 +118,9 @@ If you're looking at elevated outdoor furniture options and comparing the Napole
 
 The [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) is the better product. The build quality is higher, the ignition is better, the natural gas conversion has real long-term value, and it will look as good in five years as it does now. If you're building a patio you care about and you'll use this table regularly, the premium is justified.
 
-But the [Outland Living Series 403](product:outland-living-403-fire-table) is the smarter buy for most people reading this. The price difference between the two is $550,$700 depending on current listings. The Outland delivers 50,000 BTU, a functional table surface, and an easy propane connection for roughly $375. It doesn't require a gas line, an electrician, or a commitment to a permanent patio layout. For renters, for seasonal-use patios, for buyers who want a fire table without a four-figure line item, it does everything the category promises.
+But the [Outland Living Series 403](product:outland-living-403-fire-table) is the smarter buy for most people reading this. The price difference between the two is significant depending on current listings. The Outland delivers 50,000 BTU, a functional table surface, and an easy propane connection at a mid-range price. It doesn't require a gas line, an electrician, or a commitment to a permanent patio layout. For renters, for seasonal-use patios, for buyers who want a fire table without a four-figure line item, it does everything the category promises.
 
-My recommendation: buy the Napoleon if you're also spending money on good outdoor furniture and you have access to natural gas. Buy the Outland if you're not sure this is the last fire table you'll own, or if $375 is the number that makes sense right now. Either way, you're getting a gas fire table that's cleaner and more convenient than any wood-burning alternative at this size.
+My recommendation: buy the Napoleon if you're also spending money on good outdoor furniture and you have access to natural gas. Buy the Outland if you're not sure this is the last fire table you'll own, or if the mid-range price is what makes sense right now. Either way, you're getting a gas fire table that's cleaner and more convenient than any wood-burning alternative at this size.
 
 ,
 
@@ -128,7 +128,7 @@ My recommendation: buy the Napoleon if you're also spending money on good outdoo
 
 ### How long does a 20 lb propane tank last on a fire pit table?
 
-At full output on the Outland Living Series 403 (50,000 BTU), a standard 20 lb tank lasts approximately 8,10 hours. At lower flame settings, that extends to 12 hours or more. A 20 lb tank costs roughly $20,$25 to refill at most hardware stores or gas suppliers.
+At full output on the Outland Living Series 403 (50,000 BTU), a standard 20 lb tank lasts approximately 8,10 hours. At lower flame settings, that extends to 12 hours or more. Refills at most hardware stores or gas suppliers are a recurring but manageable cost.
 
 ![Rectangular Fire Pit Table](/images/articles/fire-and-heat-3.jpg)
 
@@ -159,7 +159,7 @@ The Outland Living Series 403 takes most buyers 45,60 minutes with basic tools. 
       "name": "How long does a 20 lb propane tank last on a fire pit table?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At full output on the Outland Living Series 403 (50,000 BTU), a standard 20 lb tank lasts approximately 8,10 hours. At lower flame settings, that extends to 12 hours or more. A 20 lb tank costs roughly $20,$25 to refill at most hardware stores or gas suppliers."
+        "text": "At full output on the Outland Living Series 403 (50,000 BTU), a standard 20 lb tank lasts approximately 8,10 hours. At lower flame settings, that extends to 12 hours or more. Refills at most hardware stores or gas suppliers are a recurring but manageable cost."
       }
     },
     {

@@ -14,7 +14,7 @@ products:
   - id: "biogreen-palma-greenhouse-heater-b06x"
     role: "also_consider"
     article_specific_pros:
-      - "Purpose-built for greenhouses , IPX4 spray-water rating, stainless steel"
+      - "Purpose-built for greenhouses, IPX4 spray-water rating, stainless steel"
       - "Digital thermostat maintains precise temperature for plants"
     article_specific_cons:
       - "More expensive than general-purpose electric heaters"
@@ -24,7 +24,7 @@ products:
       - "Frost detection automatically activates when temps drop"
       - "Combined heating and cooling for year-round climate control"
     article_specific_cons:
-      - "Requires 240V wiring , not a standard outlet"
+      - "Requires 240V wiring, not a standard outlet"
   - id: "dr-infrared-dr218-greenhouse-b00j"
     role: "also_consider"
     article_specific_pros:
@@ -35,14 +35,14 @@ products:
   - id: "mr-heater-portable-buddy-b002"
     role: "also_consider"
     article_specific_pros:
-      - "Low-oxygen shutoff and tip-over safety , critical for enclosed greenhouse use"
+      - "Low-oxygen shutoff and tip-over safety, critical for enclosed greenhouse use"
       - "9,000 BTU heats spaces up to 225 sq ft"
     article_specific_cons:
-      - "Requires ventilation in enclosed spaces , produces moisture and CO"
+      - "Requires ventilation in enclosed spaces, produces moisture and CO"
   - id: "kerosene-heater-stove-b0cj"
     role: "also_consider"
     article_specific_pros:
-      - "Non-electric , works off-grid or during power outages"
+      - "Non-electric, works off-grid or during power outages"
       - "9,000 BTU output for small to medium greenhouses"
     article_specific_cons:
       - "Kerosene fuel can be harder to source than propane"
@@ -78,7 +78,6 @@ The right answer for a 200-square-foot attached greenhouse with a 20-amp outdoor
 
 ![Heat For Greenhouse](/images/articles/structures-8.jpg)
 
-
 ## Why Getting This Right Matters More Than You'd Think
 
 One hard frost event can wipe out an overwintered crop that took three months to establish. Beyond the plant loss, there's the structural damage when a frozen water line bursts or a humidity-sensitive growing medium gets damaged by temperature swings.
@@ -91,20 +90,19 @@ This is why purpose-built greenhouse heaters are worth the premium over repurpos
 
 ### BioGreen PALMA: The Best Overall Pick
 
-The [BioGreen PALMA Electric Greenhouse Heater & Fan with Digital Thermostat, 1500W](product:biogreen-palma-greenhouse-heater-b06x) is my primary recommendation for anyone with electrical service to their greenhouse. Currently around $130 to $160 on Amazon, depending on when you're looking.
+The [BioGreen PALMA Electric Greenhouse Heater & Fan with Digital Thermostat, 1500W](product:biogreen-palma-greenhouse-heater-b06x) is my primary recommendation for anyone with electrical service to their greenhouse. 
 
 The credentials that matter: IPX4 water resistance rating, stainless steel construction, and a digital thermostat that actually maintains the temperature you set rather than cycling through a wide range. IPX4 means it handles splashing from any direction, which is a real concern in a space where you're watering overhead or running misters.
 
 At 1500W, it runs on a standard 120V circuit, but you want a dedicated 15-amp or 20-amp outdoor-rated circuit for it, not an extension cord daisy-chained from your garage. The fan distributes heat evenly, which matters in a rectangular greenhouse where corners tend to run 5 to 8 degrees colder than the center.
 
-The con is the price relative to a basic space heater. A $40 box fan heater will push air. It won't tell you what the temperature is, won't maintain a setpoint reliably, and will likely fail within one season in a humid growing environment. The PALMA is more expensive because it's built for where it's going.
+The con is the price relative to a basic space heater. A box fan heater will push air. It won't tell you what the temperature is, won't maintain a setpoint reliably, and will likely fail within one season in a humid growing environment. The PALMA is more expensive because it's built for where it's going.
 
 ![Heat For Greenhouse](/images/articles/structures-1.jpg)
 
-
 ### Bio Green Phoenix PHX 2.8/US: For Serious Growers with 240V
 
-The [Bio Green Phoenix PHX 2.8/US Greenhouse Heater](product:bio-green-phoenix-240v-b000) runs around $290 and requires 240V wiring. Stop reading this section if you don't have 240V service to your greenhouse and aren't prepared to wire it. That's not a knock on the product. It's just a different category.
+The [Bio Green Phoenix PHX 2.8/US Greenhouse Heater](product:bio-green-phoenix-240v-b000) and requires 240V wiring. Stop reading this section if you don't have 240V service to your greenhouse and aren't prepared to wire it. That's not a knock on the product. It's just a different category.
 
 If you do have 240V, the Phoenix delivers 9,553 BTU and handles both heating and cooling, which makes it a genuine year-round climate controller rather than a single-season solution. The frost detection feature is worth calling out: it activates automatically when temperatures fall below a set threshold, which means it functions as a backup even if you forget to switch it on. For growers overwintering anything you can't afford to lose, that matters.
 
@@ -120,27 +118,25 @@ The tradeoff: infrared doesn't distribute warmth as evenly through the full volu
 
 ![Heat For Greenhouse](/images/articles/structures-2.jpg)
 
-
 I'd use this in a dedicated propagation bench setup more readily than as a whole-greenhouse solution. (That's a specific use case, I realize, but it's the one where infrared genuinely outperforms convective.)
 
 ### Mr. Heater Portable Buddy: The Propane Standard
 
-The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](product:mr-heater-portable-buddy-b002) runs around $80 to $95 and doesn't require any electrical infrastructure at all. It's the benchmark for portable propane heating in small greenhouses and the most widely trusted option in this category.
+The [Mr. Heater 9,000 BTU Portable Buddy Radiant Propane Heater](product:mr-heater-portable-buddy-b002) and doesn't require any electrical infrastructure at all. It's the benchmark for portable propane heating in small greenhouses and the most widely trusted option in this category.
 
 The safety features matter in an enclosed space. Low-oxygen shutoff and tip-over shutoff are both present, which isn't universal in portable propane heaters. At 9,000 BTU, it covers up to roughly 225 square feet adequately in moderate cold.
 
 The ventilation requirement is non-negotiable. Propane combustion produces carbon monoxide and water vapor. In an enclosed greenhouse, CO accumulation is a health risk to you and excessive moisture can damage plants. Crack a vent or a door. This is standard practice with any combustion heater in an enclosed space, not a reason to avoid the Portable Buddy, but worth stating plainly before someone seals their greenhouse and wonders why their tomato seedlings are damping off.
 
-The small 1-lb canisters run out faster than you'd expect on a cold night. An adapter hose for a standard 20-lb propane tank is around $20 and makes this significantly more practical for extended use.
+The small 1-lb canisters run out faster than you'd expect on a cold night. An adapter hose for a standard 20-lb propane tank is and makes this significantly more practical for extended use.
 
 ### Kerosene Heater 2-in-1: Off-Grid Backup
 
-The [2-in-1 Portable Kerosene Heater & Stove, 9,000 BTU](product:kerosene-heater-stove-b0cj) is currently around $60 to $75. It's a generic product, and I'd treat it as such. The reason it earns a place here is the use case it solves: no electrical service, no propane, power outage, or a remote greenhouse location where fuel delivery is irregular.
+The [2-in-1 Portable Kerosene Heater & Stove, 9,000 BTU](product:kerosene-heater-stove-b0cj). It's a generic product, and I'd treat it as such. The reason it earns a place here is the use case it solves: no electrical service, no propane, power outage, or a remote greenhouse location where fuel delivery is irregular.
 
 Kerosene is harder to source than propane in most suburban and rural areas, but it stores well and burns reliably. The same ventilation requirements apply as with propane. The 2-in-1 stove function is more novelty than greenhouse feature, but the heater function is serviceable for small spaces.
 
 ![Heat For Greenhouse](/images/articles/structures-3.jpg)
-
 
 This is a backup or off-grid pick. If you have electrical service to your greenhouse, start with the PALMA and don't look back.
 
@@ -150,7 +146,7 @@ This is a backup or off-grid pick. If you have electrical service to your greenh
 
 **Skipping the dedicated circuit.** Running a 1500W heater on an undersized or shared circuit is a fire risk. If you've wired up a [flat roof garden shed](/flat-roof-garden-shed/) or a storage structure with electrical, you already know this conversation. Greenhouses are no different.
 
-**No thermostat, or an uncalibrated one.** A heater without a thermostat is a liability. If you buy a heater without one built in, pair it with a standalone temperature controller. They're around $30 to $50 and will save more than that in energy costs in a single month.
+**No thermostat, or an uncalibrated one.** A heater without a thermostat is a liability. If you buy a heater without one built in, pair it with a standalone temperature controller. They're and will save more than that in energy costs in a single month.
 
 **Ignoring humidity as a factor.** Combustion heaters add moisture. A sealed, over-humidified greenhouse is a fungal disease environment. Ventilation isn't just a safety measure. It's also plant health management.
 
@@ -165,7 +161,6 @@ For more on greenhouse infrastructure and storage structure planning, the [Green
 A common rule of thumb is 10 BTU per cubic foot of greenhouse space in a reasonably insulated structure. A 10x12 greenhouse with 8-foot peak height is roughly 960 cubic feet, suggesting around 9,600 BTU. Adjust up for poorly insulated structures, single-layer plastic covering, or if you're in a region with sustained hard winters. Electric heater wattage converts at roughly 3,412 BTU per kilowatt, so a 1500W heater delivers about 5,100 BTU, which is appropriate for a small, well-insulated space.
 
 ![Heat For Greenhouse](/images/articles/structures-4.jpg)
-
 
 ### Can I use a regular space heater in my greenhouse?
 
@@ -231,4 +226,3 @@ Electric heaters don't. This is the scenario where a propane Portable Buddy or a
   ]
 }
 </script>
-

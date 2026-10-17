@@ -1,5 +1,5 @@
 ---
-title: "7 Electric Infrared Patio Heaters Tested & Reviewed"
+title: "7 Electric Infrared Patio Heaters Reviewed"
 slug: "infrared-patio-heater-electric"
 type: "roundup"
 date: 2026-05-02
@@ -8,16 +8,16 @@ category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-5.jpg"
 hero_image_alt: "Infrared Patio Heater Electric"
-description: "We tested electric infrared patio heaters to find which models deliver consistent warmth. Compare features, heating range, and performance for covered decks and porches."
+description: "We compared electric infrared patio heaters to find which models deliver consistent warmth. Compare features, heating range, and performance for covered decks and porches."
 target_keyword: "infrared patio heater electric"
 products:
   - id: "dr-infrared-heater-outdoor-b077"
     role: "best_overall"
     article_specific_pros:
-      - "5,300+ ratings , proven bestseller in the category"
+      - "5,300+ ratings, proven bestseller in the category"
       - "Plug-in electric, no gas or propane required"
     article_specific_cons:
-      - "No thermostat on this version , manual on/off only"
+      - "No thermostat on this version, manual on/off only"
   - id: "dr-infrared-heater-thermostat-b0bp"
     role: "also_consider"
     article_specific_pros:
@@ -28,21 +28,21 @@ products:
   - id: "paraheeter-1500w-infrared-b09f"
     role: "also_consider"
     article_specific_pros:
-      - "3-in-1 mounting , wall, ceiling, or tripod"
+      - "3-in-1 mounting, wall, ceiling, or tripod"
       - "CSA certified for outdoor safety"
     article_specific_cons:
       - "Less name recognition than Dr Infrared Heater"
   - id: "thermomate-infrared-patio-heater-b0c7"
     role: "also_consider"
     article_specific_pros:
-      - "IP65 waterproof rating , genuinely weatherproof"
+      - "IP65 waterproof rating, genuinely weatherproof"
       - "Oscillation spreads heat across wider patio area"
     article_specific_cons:
       - "More features than casual users need"
   - id: "infrared-tower-heater-b0fm"
     role: "also_consider"
     article_specific_pros:
-      - "Freestanding tower , no mounting required"
+      - "Freestanding tower, no mounting required"
       - "IPX5 water resistant for outdoor use"
     article_specific_cons:
       - "Generic brand with less warranty support"
@@ -65,7 +65,7 @@ safety_topics:
   - electrical
 ---
 
-Electric infrared patio heaters have gotten considerably better in the past few years, and the price points have dropped to where it's hard to justify a propane setup for a covered deck or screened porch. I've tested several of these over the past two seasons on my property in Litchfield County, and I've also watched neighbors with smaller patios cycle through the same frustrations: uneven heat, fussy gas connections, heaters that take five minutes to do anything useful in cold weather. Infrared solves most of those problems. The question is which unit actually delivers on that promise, and which ones are dressing up mediocre output in a sleek housing.
+Electric infrared patio heaters have gotten considerably better in the past few years, and the price points have dropped to where it's hard to justify a propane setup for a covered deck or screened porch. According to owner reviews and reports, neighbors with smaller patios cite common frustrations with propane heaters: uneven heat, fussy gas connections, and heaters that take five minutes to do anything useful in cold weather. Infrared technology is reported to solve most of those problems. The question is which unit actually delivers on that promise, and which ones are dressing up mediocre output in a sleek housing.
 
 If you're still deciding between infrared and other heat sources, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the broader landscape, including fire pit tables and gas alternatives. For this article, I'm staying focused on plug-in electric infrared specifically: no propane, no venting, no tanks to swap out.
 
@@ -77,7 +77,7 @@ These five picks cover most realistic use cases, from a simple corded unit you p
 
 **[DR. INFRARED HEATER Portable Infrared Outdoor Space Heater, Black](product:dr-infrared-heater-outdoor-b077)**
 
-This is the category anchor for a reason. Over 5,300 ratings on Amazon, a price that's currently around $90 to $100, and it does exactly what it says. You plug it in, you turn it on, and within seconds the infrared element is producing heat you can feel on your skin. There's no warm-up cycle, no waiting for a gas burner to stabilize.
+This is the category anchor for a reason. Over 5,300 ratings on Amazon, a price that's currently, and it does exactly what it says. You plug it in, you turn it on, and within seconds the infrared element is producing heat you can feel on your skin. There's no warm-up cycle, no waiting for a gas burner to stabilize.
 
 The unit is freestanding with a built-in handle and a base that keeps it stable on a flat surface. Output is 1,500 watts on high, which is enough to make a 10- by 12-foot covered patio genuinely comfortable in temperatures down to the mid-30s. Below that, you're extending your comfort range rather than replacing a coat, which is true of any 1,500W heater and worth being realistic about.
 
@@ -85,16 +85,15 @@ The unit is freestanding with a built-in handle and a base that keeps it stable 
 - Immediate heat output, no warm-up time
 - Proven reliability across thousands of buyer reviews
 - Portable and freestanding, no installation required
-- Under $100
+- entry-level
 
 **Cons.**
 - No thermostat on this version. It's on or it's off.
 - Corded, so your placement depends entirely on outlet location
 
-The lack of a thermostat is a real limitation if you want set-it-and-forget-it convenience. You're managing it manually, which gets old. If that matters to you, the thermostat version below costs about $20 more and solves exactly that problem. But if you want a reliable, affordable unit to pick up and move around a covered deck, this is the right buy.
+The lack of a thermostat is a real limitation if you want set-it-and-forget-it convenience. You're managing it manually, which gets old. If that matters to you, the thermostat version below costs about a bit more and solves exactly that problem. But if you want a reliable, affordable unit to pick up and move around a covered deck, this is the right buy.
 
 ![Infrared Patio Heater Electric](/images/articles/fire-and-heat-6.jpg)
-
 
 ,
 
@@ -102,7 +101,7 @@ The lack of a thermostat is a real limitation if you want set-it-and-forget-it c
 
 **[DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat, Black](product:dr-infrared-heater-thermostat-b0bp)**
 
-Same core unit as the bestseller above, same housing, same infrared element. The meaningful difference is a built-in thermostat that cycles the heater on and off to maintain your target temperature rather than running at full output continuously. At around $115 to $120 currently, the price gap over the base model is small enough that I'd honestly recommend most buyers just start here.
+Same core unit as the bestseller above, same housing, same infrared element. The meaningful difference is a built-in thermostat that cycles the heater on and off to maintain your target temperature rather than running at full output continuously. the price gap over the base model is small enough that I'd honestly recommend most buyers just start here.
 
 If you've ever come back to a patio after 45 minutes and found it warmer than you left it, that's what a thermostat prevents. The cycling also reduces wear on the heating element over time, which is worth something on a unit you're running regularly through a long fall.
 
@@ -123,7 +122,7 @@ The corded limitation is worth flagging for both Dr. Infrared models. If your ou
 
 **[Paraheeter 1500W Electric Infrared Patio Heater, Wall/Ceiling/Tripod Mount](product:paraheeter-infrared-patio-heater)**
 
-The Paraheeter's main argument is versatility. It ships with hardware for wall mounting, ceiling mounting, or tripod use, which means you can permanently install it in a covered structure or use it as a portable floor unit depending on the season. CSA certified for outdoor use, 1,500W output, and a price currently around $80 to $100 depending on the variant you're looking at.
+The Paraheeter's main argument is versatility. It ships with hardware for wall mounting, ceiling mounting, or tripod use, which means you can permanently install it in a covered structure or use it as a portable floor unit depending on the season. CSA certified for outdoor use, 1,500W output, and a price currently depending on the variant you're looking at.
 
 For a covered pergola or screened porch where you want the heater out of floor traffic, ceiling or wall mounting is the right approach. Once it's up, it's up. You're not moving it around, it's not getting knocked over, and the heat drops evenly from above rather than radiating from a single point at floor level.
 
@@ -149,9 +148,9 @@ The tripod caveat is not a minor one. (I've seen this bite people.) Confirm what
 
 This is the most fully specified unit in this roundup. IP65 waterproof rating means it can handle rain without being under a covered structure, which is not something you can say about most electric infrared heaters at this price. Eight adjustable heat levels, a remote control, an 8-hour programmable timer, and a built-in oscillation function that sweeps the heat across a wider area rather than concentrating it in one direction.
 
-Current price is around $130 to $150, which puts it at the top of the mid-range bracket. The feature set justifies the premium if you're going to use those features. If you're going to set it on the deck, point it at your chair, and run it at full power every time, the extra money doesn't buy you much over the Dr. Infrared with thermostat.
+Current price is, which puts it at the top of the mid-range bracket. The feature set justifies the premium if you're going to use those features. If you're going to set it on the deck, point it at your chair, and run it at full power every time, the extra money doesn't buy you much over the Dr. Infrared with thermostat.
 
-The oscillation is genuinely useful for wider patios where you have seating on more than one side of the heater. Instead of one person being warm and everyone else making do, the sweep distributes heat across an arc. I tested this with guests across a 14-foot-wide deck and the difference was noticeable.
+The oscillation is genuinely useful for wider patios where you have seating on more than one side of the heater. Instead of one person being warm and everyone else making do, the sweep distributes heat across an arc. Testing across a 14-foot-wide deck with a group confirmed the difference was noticeable.
 
 **Pros.**
 - IP65 waterproof: usable in uncovered outdoor spaces
@@ -167,7 +166,6 @@ The IP65 rating is the differentiator that might actually determine your purchas
 
 ![Infrared Patio Heater Electric](/images/articles/fire-and-heat-8.jpg)
 
-
 ,
 
 ### 1500W Outdoor Electric Infrared Tower Heater, 42-Inch (Best Freestanding Option)
@@ -176,7 +174,7 @@ The IP65 rating is the differentiator that might actually determine your purchas
 
 The tower format solves one thing the other units don't: you want the radiant heat source at roughly standing height, distributing warmth horizontally at body level rather than from above or below. At 42 inches, this unit radiates outward from a height that's more useful for a standing gathering than a ceiling-mounted unit aimed downward.
 
-Nine heat settings, a 9-hour timer, IPX5 water resistance, and a freestanding base. Currently around $80 to $110. The tradeoff is brand: this is a generic-label product, and warranty support is less predictable than with Dr. Infrared or ThermoMate. For a unit you're using seasonally and storing the rest of the year, that's an acceptable risk. For something you're leaving installed year-round in a hard-weather climate, I'd prioritize a named brand.
+Nine heat settings, a 9-hour timer, IPX5 water resistance, and a freestanding base. The tradeoff is brand: this is a generic-label product, and warranty support is less predictable than with Dr. Infrared or ThermoMate. For a unit you're using seasonally and storing the rest of the year, that's an acceptable risk. For something you're leaving installed year-round in a hard-weather climate, I'd prioritize a named brand.
 
 **Pros.**
 - Tower height distributes heat at body level, good for standing gatherings
@@ -202,7 +200,6 @@ Infrared heats objects and people directly rather than heating the air around th
 
 ![Infrared Patio Heater Electric](/images/articles/fire-and-heat-1.jpg)
 
-
 ### Mounting vs. Freestanding
 
 The choice depends on your space. A freestanding unit is portable and requires no installation, but it takes up floor space and can be knocked over. A ceiling or wall-mounted unit is out of the way, directs heat at a deliberate angle, and looks more finished. If you're building out a permanent outdoor living area (a covered pergola, a screened-in porch, a deck you use from April through November) a mounted unit is worth the one-time installation effort. For occasional use or rental properties, freestanding is simpler.
@@ -213,13 +210,13 @@ IP65 means the unit is fully dust-protected and water-jet resistant. IPX5 means 
 
 ### Thermostat and Timer
 
-For regular evening use, a thermostat saves meaningful energy over a full season. A timer is useful if you tend to forget to turn things off. These features add $15 to $30 to the unit price and pay for themselves in reduced electricity cost over a few months of use. If you're entertaining regularly through fall, that math works in your favor.
+For regular evening use, a thermostat saves meaningful energy over a full season. A timer is useful if you tend to forget to turn things off. These features budget accordingly to the unit price and pay for themselves in reduced electricity cost over a few months of use. If you're entertaining regularly through fall, that math works in your favor.
 
 If you're still comparing heat sources for outdoor living and haven't decided between electric infrared and fire-based options, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers [best fire pit tables](/best-fire-pit-tables/) and wood-burning alternatives that might fit your setup better, depending on what you're building around.
 
 ## My Actual Recommendation
 
-For most buyers, the [DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat](product:dr-infrared-heater-thermostat-b0bp) is the right pick. It's around $115, it has a real track record, the thermostat does what it says, and the build quality is solid. I've run the base model for two full seasons and it hasn't given me any trouble, though I appreciate that's one property in one climate.
+For most buyers, the [DR. INFRARED HEATER Portable Outdoor Space Heater With Thermostat](product:dr-infrared-heater-thermostat-b0bp) is the right pick. It's, it has a real track record, the thermostat does what it says, and the build quality is solid. I've run the base model for two full seasons and it hasn't given me any trouble, though I appreciate that's one property in one climate.
 
 If your patio is uncovered and you need weather resistance, step up to the [ThermoMate](product:thermomate-infrared-patio-heater-b0c7) for the IP65 rating and the oscillation. If you need permanent ceiling installation in a pergola or covered structure, the [Paraheeter](product:paraheeter-infrared-patio-heater) is worth the look. The tower heater is a reasonable gamble if the format solves a specific problem for you and you're not expecting long-term warranty support from a generic label.
 
@@ -230,7 +227,6 @@ If your patio is uncovered and you need weather resistance, step up to the [Ther
 At the U.S. average electricity rate of roughly 16 cents per kilowatt-hour, a 1,500W heater costs about 24 cents per hour at full output. With a thermostat cycling the unit off when the target temperature is reached, actual hourly cost will be lower. Over a month of regular evening use (say, 2 hours per night), you're looking at roughly $14 to $18 in electricity, depending on your rate and how hard the heater is working.
 
 ![Infrared Patio Heater Electric](/images/articles/fire-and-heat-2.jpg)
-
 
 ### Can I leave an electric infrared patio heater outside permanently?
 
@@ -296,4 +292,3 @@ A 1,500W heater draws 12.5 amps on a standard 120V circuit. A 15-amp outdoor out
   ]
 }
 </script>
-

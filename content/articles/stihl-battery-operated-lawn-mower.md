@@ -44,7 +44,6 @@ This review covers the LM2135SP specifically. If you're building out a battery-p
 
 The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the most capable battery mower I've used at this price point. It handles an acre of mixed terrain without drama, the self-propel system works the way self-propel is supposed to work, and the cut quality is genuinely competitive with mid-range gas. The weight is real and the tool-only pricing requires attention, but neither of those is a dealbreaker if you go in with clear expectations. If you're running other EGO tools or planning to, the 56V platform makes this decision easier.
 
-
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 ## Key Specs
@@ -55,8 +54,7 @@ The Select Cut multi-blade system supports three discharge modes: mulch, bag, an
 
 ![Stihl Battery Operated Lawn Mower](/images/articles/battery-equipment-5.jpg)
 
-
-The tool-only version (no battery, no charger) currently runs around $399 on Amazon. The kit version with the 7.5Ah battery and rapid charger runs closer to $599. The battery alone is around $199 if purchased separately, and the rapid charger adds another $80 or so. Worth knowing before you assume the lower price is the real price.
+The tool-only version (no battery, no charger). The kit version with the 7.5Ah battery and rapid charger runs. The battery alone is if purchased separately, and the rapid charger adds more or so. Worth knowing before you assume the lower price is the real price.
 
 ## Performance and Testing
 
@@ -74,21 +72,19 @@ The Touch Drive system is worth the upgrade over a push-only model, especially i
 
 ![Stihl Battery Operated Lawn Mower](/images/articles/battery-equipment-6.jpg)
 
-
 I timed several passes on the slope section at different propel settings. At moderate speed, the mower tracked predictably without pulling ahead of my stride on the downhill or laboring on the uphill. At the highest speed setting, the uphill sections required me to keep up rather than the mower keeping up with me, which is the right way around. (I did time this, because I was curious whether the variable pressure was actually variable or just a marketing description. It's actually variable.)
 
 ### Runtime
 
 Under normal cutting conditions on dry grass with moderate growth, I consistently got 45 to 55 minutes from a full charge on the 7.5Ah battery. That's enough to cover a 3/4-acre mow without a swap if I'm not stopping constantly. On heavy cutting days, I got closer to 40 minutes before the low-battery indicator came on.
 
-The rapid charger brings the 7.5Ah battery from empty to full in about 75 minutes. If you have a second battery, the math works out to no meaningful downtime on most residential properties. If you have a larger property or run longer sessions, this is where the platform investment starts to matter: a second BA2800T battery runs around $199, which adds to the upfront cost but solves the runtime ceiling.
+The rapid charger brings the 7.5Ah battery from empty to full in about 75 minutes. If you have a second battery, the math works out to no meaningful downtime on most residential properties. If you have a larger property or run longer sessions, this is where the platform investment starts to matter: a second BA2800T battery which adds to the upfront cost but solves the runtime ceiling.
 
 ### Noise and Maintenance
 
 Compared to the gas mowers I used before committing to the EGO platform, the noise reduction is significant. I measured approximately 88 dB at the operator position, versus 95 to 97 dB on the Toro. That's not nothing, especially on a quiet morning when neighbors are close. No oil changes, no fuel stabilizer for winter storage, no carb issues after sitting. I store the battery inside over winter, which is standard practice for lithium cells in cold climates, and the mower itself goes in an unheated outbuilding.
 
 ![Stihl Battery Operated Lawn Mower](/images/articles/battery-equipment-7.jpg)
-
 
 ## Pros and Cons
 
@@ -102,9 +98,9 @@ Compared to the gas mowers I used before committing to the EGO platform, the noi
 
 **What to watch:**
 
-- The tool-only listing requires a battery and charger purchase that adds $280 or more. Factor that in from the start.
+- The tool-only listing requires a battery and charger purchase that adds significantly more. Factor that in from the start.
 - 68 lbs is heavy for a push mower, though the self-propel handles most of that weight penalty on flat terrain
-- The two-blade system adds complexity; replacement blade sets cost more than single-blade equivalents, currently around $35 to $45 per set
+- The two-blade system adds complexity; replacement blade sets cost more than single-blade equivalents per set
 - Rear-bag attachment takes some getting used to align correctly. Minor, but it's fussier than it should be.
 
 [See EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
@@ -117,10 +113,9 @@ The problem is that Stihl's residential mower options in the battery lineup are 
 
 ![Stihl Battery Operated Lawn Mower](/images/articles/battery-equipment-8.jpg)
 
-
 EGO's 56V platform is now broad enough to compete as a complete system. I'm running the mower, a 56V blower, and an EGO hedge trimmer off the same battery family. The EGO pole hedge trimmer is worth looking at if you're already committed to the platform. If you've invested in a [40V cordless leaf blower](/40v-cordless-leaf-blower/) from another brand, you're splitting your battery ecosystem, which isn't fatal but does mean carrying two charger types and two battery formats through the season.
 
-For most buyers shopping online and looking at mowers in the $500 to $650 range all-in, EGO is the answer. Stihl is worth pursuing if you have a good dealer relationship or are specifically building out a Stihl-first tool shed.
+For most buyers shopping online and looking at mowers in the range all-in, EGO is the answer. Stihl is worth pursuing if you have a good dealer relationship or are specifically building out a Stihl-first tool shed.
 
 ## Who It's For
 
@@ -140,14 +135,13 @@ For most buyers, yes. Stihl makes strong battery mowers, but they're not availab
 
 ![Stihl Battery Operated Lawn Mower](/images/articles/battery-equipment-1.jpg)
 
-
 ### How long does the battery last on a single charge?
 
 Under normal mowing conditions on dry grass with moderate growth, expect 45 to 55 minutes from the 7.5Ah battery. Heavy grass, wet conditions, or sustained uphill mowing will reduce that. EGO's published figure of 60 minutes is achievable but represents close to best-case conditions.
 
 ### Does the tool-only version come with anything useful, or do I need to buy everything separately?
 
-The tool-only version includes the mower, the mulch plug, the bag, and the side-discharge chute. It does not include the battery or charger. Budget around $280 additional if you're buying those separately, or look for the kit version at around $599, which includes the 7.5Ah battery and rapid charger.
+The tool-only version includes the mower, the mulch plug, the bag, and the side-discharge chute. It does not include the battery or charger. Budget if you're buying those separately, or look for the kit version at, which includes the 7.5Ah battery and rapid charger.
 
 ### Can I use other EGO 56V batteries in this mower?
 
@@ -183,7 +177,7 @@ At 68 lbs with battery, the LM2135SP is on the heavier end for a 21-inch battery
       "name": "Does the tool-only version come with anything useful, or do I need to buy everything separately?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The tool-only version includes the mower, the mulch plug, the bag, and the side-discharge chute. It does not include the battery or charger. Budget around $280 additional if you're buying those separately, or look for the kit version at around $599, which includes the 7.5Ah battery and rapid charger."
+ "text": "The tool-only version includes the mower, the mulch plug, the bag, and the side-discharge chute. It does not include the battery or charger. Budget if you're buying those separately, or look for the kit version at, which includes the 7.5Ah battery and rapid charger."
       }
     },
     {
@@ -205,4 +199,3 @@ At 68 lbs with battery, the LM2135SP is on the heavier end for a 21-inch battery
   ]
 }
 </script>
-

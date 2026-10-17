@@ -14,7 +14,7 @@ products:
   - id: "mr-beams-solar-wedge-plus"
     role: "primary"
     article_specific_pros:
-      - "410 lumens from 102 LEDs , brighter than most solar motion lights at this price"
+      - "410 lumens from 102 LEDs, brighter than most solar motion lights at this price"
       - "No wiring required; mounts on any wall surface with included screws in minutes"
     article_specific_cons:
       - "Placement limited to walls with direct sun exposure"
@@ -24,7 +24,7 @@ products:
       - "Three selectable color temperatures (3000K/4000K/5000K) in one fixture"
       - "Three independently adjustable heads cover a wider area than fixed dual-head models"
     article_specific_cons:
-      - "Hardwired installation , requires an electrician if no existing outdoor junction box"
+      - "Hardwired installation, requires an electrician if no existing outdoor junction box"
 tags: ["lighting", "comparison"]
 disclosure_required: true
 noindex: false
@@ -53,9 +53,9 @@ Both fixtures live in our [Garden Lighting](/lighting/) coverage because both so
 
 ## At a Glance
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) is a self-contained solar unit. The panel is built into the top of the housing, there's no wiring, and you mount it with screws in about ten minutes. Currently around $35 to $45 on Amazon at the time of writing. It delivers 410 lumens from 102 LEDs, which is brighter than most solar motion lights in this price range.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) is a self-contained solar unit. The panel is built into the top of the housing, there's no wiring, and you mount it with screws in about ten minutes. It delivers 410 lumens from 102 LEDs, which is brighter than most solar motion lights in this price range.
 
-The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light) is hardwired. Three independently adjustable heads, three selectable color temperatures (3000K, 4000K, and 5000K), ETL listed, IP65 rated. Currently running around $30 to $40 on Amazon. The price looks similar to the Mr Beams unit, but that number doesn't account for what hardwired installation actually costs if you don't have an existing outdoor junction box.
+The [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light) is hardwired. Three independently adjustable heads, three selectable color temperatures (3000K, 4000K, and 5000K), ETL listed, IP65 rated. Currently running. The price looks similar to the Mr Beams unit, but that number doesn't account for what hardwired installation actually costs if you don't have an existing outdoor junction box.
 
 The core tradeoff is this: convenience and flexibility on one side, reliability and raw output on the other.
 
@@ -64,7 +64,6 @@ The core tradeoff is this: convenience and flexibility on one side, reliability 
 The headline feature is what it doesn't need. No junction box, no conduit, no electrician, no pulling wire through an exterior wall. If you're renting, this matters a lot. If you own but you're adding a light to a detached building, a fence post, or anywhere without existing electrical infrastructure, it matters almost as much.
 
 ![Outdoor Light Security Camera](/images/articles/lighting-5.jpg)
-
 
 Installation is genuinely fast. Four screws, position the unit where the panel gets direct sun, done. I've put up lights like this on a garden shed wall in the time it took my neighbor to locate a voltage tester. (I timed this.)
 
@@ -76,7 +75,6 @@ Where it breaks down is simple: if your wall doesn't get direct sun for most of 
 
 ![Outdoor Light Security Camera](/images/articles/lighting-6.jpg)
 
-
 There's also no smart home integration, which is fine at this price and application. If you want motion notifications on your phone or app-based scheduling, this isn't the product.
 
 **The Mr Beams Solar Wedge Plus works best for:**
@@ -84,7 +82,7 @@ There's also no smart home integration, which is fine at this price and applicat
 - Renters or anyone avoiding permanent modifications
 - Detached structures with no existing electrical
 - Positions where a full hardwired installation isn't practical
-- Buyers who want a complete, working fixture for under $45 with no additional costs
+- Buyers who want a complete, working fixture for entry-level with no additional costs
 
 ## Why Choose the LEONLITE 3CCT Security Light
 
@@ -96,12 +94,11 @@ The color temperature options are more useful than they sound. The 3000K setting
 
 ![Outdoor Light Security Camera](/images/articles/lighting-7.jpg)
 
-
 ETL listing matters. It means the fixture has been independently tested to North American safety standards, which is not a given with imported security lights at this price point. IP65 waterproofing is also the right rating for a permanently mounted outdoor fixture in climates with hard winters and wet springs.
 
 The LEONLITE competes directly with fixtures like the Heath Zenith SL-5411-WH and the Defiant 180-degree motion flood, both of which are common hardware store finds. Against those, the three-head configuration and CCT flexibility give the LEONLITE a clear functional advantage, especially for coverage of irregular spaces. Our [best security lights outdoor](/best-security-lights-outdoor/) review covers the full competitive field if you want to map out the alternatives before deciding.
 
-The honest constraint is installation. If your exterior wall already has a junction box with a switched circuit, the LEONLITE is a straightforward swap. If it doesn't, you're either hiring an electrician or running a new circuit yourself, and that changes the budget conversation significantly. An electrician adding a new outdoor circuit will typically run $150 to $400 depending on your situation, which means this $35 fixture can quickly become a $200 project.
+The honest constraint is installation. If your exterior wall already has a junction box with a switched circuit, the LEONLITE is a straightforward swap. If it doesn't, you're either hiring an electrician or running a new circuit yourself, and that changes the budget conversation significantly. An electrician adding a new outdoor circuit will typically depending on your situation, which means this fixture can quickly become a project.
 
 **The LEONLITE 3CCT works best for:**
 
@@ -115,7 +112,6 @@ The honest constraint is installation. If your exterior wall already has a junct
 My recommendation depends on one question: do you have an existing outdoor electrical box where you want this fixture to go?
 
 ![Outdoor Light Security Camera](/images/articles/lighting-8.jpg)
-
 
 If yes, buy the [LEONLITE 3CCT LED Security Light with Motion Sensor, Adjustable 3-Head](product:leonlite-3cct-security-light). The performance floor is higher, the three adjustable heads solve coverage problems that a single fixed unit can't, and you won't be replacing batteries or watching output drop off in December. ETL certification and IP65 waterproofing are the right specs for a permanent install. This is the better light in absolute terms.
 
@@ -132,7 +128,6 @@ For anyone still mapping out a full outdoor lighting plan, the broader [outdoor 
 It's adequate for coverage of a path, side entry, or smaller enclosed area like a gate or shed entrance. For a wide driveway or large open area, most security professionals would recommend 700 lumens or more. The Mr Beams Wedge Plus is on the functional lower end for true flood coverage but above average for a solar unit at this price.
 
 ![Outdoor Light Security Camera](/images/articles/lighting-1.jpg)
-
 
 ### Does the LEONLITE require an electrician to install?
 
@@ -198,4 +193,3 @@ Color temperature in Kelvin describes how warm or cool the light appears. 3000K 
   ]
 }
 </script>
-

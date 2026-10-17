@@ -1,7 +1,12 @@
 site:
   brand_name: "The Four Season Gardener"
+  not_found_emoji: '🪴'
   domain: "fourseasongardener.com"
   tagline: "Honest gardening advice for every season"
+  niche: gardening tools and outdoor equipment
+  vertical: gardening
+
+content:
 
 visual:
   primary_color: "#2D5016"

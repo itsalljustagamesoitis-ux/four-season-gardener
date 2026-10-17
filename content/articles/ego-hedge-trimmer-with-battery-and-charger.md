@@ -14,7 +14,7 @@ products:
   - id: "ego-ht2411-hedge-trimmer"
     role: "primary"
     article_specific_pros:
-      - "1-inch cut capacity handles thick branches , more than most cordless hedge trimmers"
+      - "1-inch cut capacity handles thick branches, more than most cordless hedge trimmers"
       - "Brushless motor with 3,000 strokes per minute; lighter than gas models at 7 lbs"
     article_specific_cons:
       - "2.5Ah included battery gives only about 45 minutes of continuous use"
@@ -50,8 +50,6 @@ The HT2411 is a competent hedge trimmer at a fair price. It cuts cleanly, the 1-
 
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-2.jpg)
 
-
-
 [Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
 
 [Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
@@ -60,7 +58,7 @@ The HT2411 is a competent hedge trimmer at a fair price. It cuts cleanly, the 1-
 
 The HT2411 runs on EGO's 56V Arc Lithium platform. The blade is 24 inches of dual-action hardened steel, cutting up to 1 inch in diameter. The brushless motor delivers 3,000 strokes per minute. Weight is 7 lbs without the battery, which adds roughly 1.3 lbs depending on pack size.
 
-The kit (battery and charger included) runs around $130 to $150 on Amazon at the time of writing. The bare tool is available for closer to $90 to $100, which matters if you're already in the EGO ecosystem. The included charger is EGO's standard 56V unit, not the rapid charger, so expect around 50 minutes to recharge the 2.5Ah pack from empty.
+The kit (battery and charger included). The bare tool is available for, which matters if you're already in the EGO ecosystem. The included charger is EGO's standard 56V unit, not the rapid charger, so expect around 50 minutes to recharge the 2.5Ah pack from empty.
 
 A few numbers worth holding onto.
 
@@ -82,21 +80,19 @@ Boxwood and arborvitae, which make up the majority of my formal hedge work, cut 
 
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-3.jpg)
 
-
 ### Run Time: Honest Numbers
 
 EGO's claimed 75-minute run time is based on light duty cutting, which I take to mean light maintenance on already-trimmed hedges. Under actual working conditions, cutting through established growth with stems in the half-inch range regularly, I got 40 to 45 minutes from the 2.5Ah pack. (I timed this, because the marketing figure struck me as optimistic and I wanted to know what I was actually working with.)
 
 That's not necessarily a dealbreaker. Forty minutes of continuous hedge trimming is a reasonable work session, and if you're stopping periodically to clear clippings or reposition a ladder, the battery outlasts the session. The problem comes if you're doing a long hedge run without interruption. My privet hedge is roughly 180 linear feet and takes about an hour of steady cutting to do properly. With the 2.5Ah pack, I'm stopping once. With a 5Ah battery, I probably don't stop at all.
 
-If you're going to run this trimmer on larger jobs, I'd budget for a second battery. The 5Ah pack (BA2800T) currently runs around $130 on its own, which adds meaningfully to the kit cost but solves the run time question entirely.
+If you're going to run this trimmer on larger jobs, I'd budget for a second battery. The 5Ah pack (BA2800T) currently runs on its own, which adds meaningfully to the kit cost but solves the run time question entirely.
 
 ### Vibration and Fatigue
 
 The dual-action blade design actually does reduce vibration compared to single-action alternatives, and this is worth talking about because it affects fatigue over a full session. My older Husqvarna gas trimmer had enough vibration that after 30 minutes my hands were noticeably tired. The HT2411 is markedly better. Not completely neutral, but better.
 
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-4.jpg)
-
 
 At 8.3 lbs with the battery, it's not light by cordless standards. If you've ever abandoned a blower mid-session because your forearm gave out, that's a relevant data point here. For overhead cuts especially, where you're holding the trimmer above your head and angling the blade, you'll feel the weight in your arms after about 15 minutes. The tool balances reasonably well, which helps, but there's no getting around the physics.
 
@@ -132,10 +128,9 @@ If you're coming off gas and looking for a direct replacement without losing cut
 
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-5.jpg)
 
-
 If you're already invested in the EGO 56V platform, maybe through their lawn equipment or their [40V Cordless Leaf Blower](/40v-cordless-leaf-blower/) category tools, the battery compatibility makes this a logical add. You're not buying into a new system. You're adding a tool to one you already own, and if you have larger batteries from that equipment, your run time problem goes away.
 
-For a property with a modest amount of formal hedging, call it under 100 linear feet total, the 2.5Ah battery and the HT2411's cutting ability are well matched. For larger properties with more hedge volume, the trimmer is capable but plan to spend an extra $130 on a second battery, or look at the HT2410 bare tool paired with a 7.5Ah pack.
+For a property with a modest amount of formal hedging, call it under 100 linear feet total, the 2.5Ah battery and the HT2411's cutting ability are well matched. For larger properties with more hedge volume, the trimmer is capable but plan on adding a second battery, or look at the HT2410 bare tool paired with a 7.5Ah pack.
 
 This isn't a tool for someone who wants to do the bare minimum. If your hedging needs are light, a less expensive cordless option would cover it. The HT2411 is built for people who are maintaining real hedges with real growth, and it's priced and speced to match that use case.
 
@@ -149,10 +144,9 @@ For anyone building out a full cordless toolkit, the site's [cordless and batter
 
 ### Does the EGO HT2411 come with a battery and charger?
 
-Yes. The kit includes a 56V 2.5Ah battery (model BA1120) and EGO's standard 56V charger. It's one of the things that makes the kit price reasonable for new EGO users. If you already own EGO batteries, the bare tool is available separately for around $90 to $100 and is the better buy.
+Yes. The kit includes a 56V 2.5Ah battery (model BA1120) and EGO's standard 56V charger. It's one of the things that makes the kit price reasonable for new EGO users. If you already own EGO batteries, the bare tool is available separately and is the better buy.
 
 ![Ego Hedge Trimmer With Battery And Charger](/images/articles/battery-equipment-6.jpg)
-
 
 ### How long does the battery last on the EGO HT2411?
 
@@ -168,7 +162,7 @@ The rated cut capacity is 1 inch. In practice, the trimmer handles stems right a
 
 ### How does the EGO HT2411 compare to gas hedge trimmers in the same price range?
 
-At $130 to $150 for the kit, the HT2411 is priced competitively against entry-level gas trimmers. The gas alternatives in this price range, including models like the Husqvarna 122HD45, will have longer run times and slightly more raw cutting power, but they require fuel mixing, seasonal maintenance, and produce exhaust. The EGO starts instantly, runs quietly, and weighs less. For most residential hedge work, the practical difference in cutting performance is small enough that the gas advantages don't justify the maintenance overhead.
+the HT2411 is priced competitively against entry-level gas trimmers. The gas alternatives in this price range, including models like the Husqvarna 122HD45, will have longer run times and slightly more raw cutting power, but they require fuel mixing, seasonal maintenance, and produce exhaust. The EGO starts instantly, runs quietly, and weighs less. For most residential hedge work, the practical difference in cutting performance is small enough that the gas advantages don't justify the maintenance overhead.
 
 <script type="application/ld+json">
 {
@@ -180,7 +174,7 @@ At $130 to $150 for the kit, the HT2411 is priced competitively against entry-le
       "name": "Does the EGO HT2411 come with a battery and charger?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The kit includes a 56V 2.5Ah battery (model BA1120) and EGO's standard 56V charger. It's one of the things that makes the kit price reasonable for new EGO users. If you already own EGO batteries, the bare tool is available separately for around $90 to $100 and is the better buy."
+ "text": "Yes. The kit includes a 56V 2.5Ah battery (model BA1120) and EGO's standard 56V charger. It's one of the things that makes the kit price reasonable for new EGO users. If you already own EGO batteries, the bare tool is available separately and is the better buy."
       }
     },
     {
@@ -212,10 +206,9 @@ At $130 to $150 for the kit, the HT2411 is priced competitively against entry-le
       "name": "How does the EGO HT2411 compare to gas hedge trimmers in the same price range?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At $130 to $150 for the kit, the HT2411 is priced competitively against entry-level gas trimmers. The gas alternatives in this price range, including models like the Husqvarna 122HD45, will have longer run times and slightly more raw cutting power, but they require fuel mixing, seasonal maintenance, and produce exhaust. The EGO starts instantly, runs quietly, and weighs less. For most residential hedge work, the practical difference in cutting performance is small enough that the gas advantages don't justify the maintenance overhead."
+        "text": "The kit is priced competitively against entry-level gas trimmers. The gas alternatives in this price range, including models like the Husqvarna 122HD45, will have longer run times and slightly more raw cutting power, but they require fuel mixing, seasonal maintenance, and produce exhaust. The EGO starts instantly, runs quietly, and weighs less. For most residential hedge work, the practical difference in cutting performance is small enough that the gas advantages don't justify the maintenance overhead."
       }
     }
   ]
 }
 </script>
-

@@ -8,7 +8,7 @@ category: "Tools & Equipment"
 hub: "battery-equipment"
 hero_image: "articles/battery-equipment-2.jpg"
 hero_image_alt: "Stihl Battery Powered Leaf Blower"
-description: "We tested the EGO POWER+ cordless leaf blower on 12 acres for a full fall season. Here's whether battery-powered really replaces gas."
+description: "We reviewed the EGO POWER+ cordless leaf blower specifications and owner feedback on performance across large properties. Here's what battery-powered can offer versus gas."
 target_keyword: "stihl battery powered leaf blower"
 products:
   - id: "ego-lb6504-leaf-blower"
@@ -17,7 +17,7 @@ products:
       - "650 CFM is one of the highest outputs of any handheld cordless blower"
       - "Turbine fan technology moves more air with less noise than axial-fan competitors"
     article_specific_cons:
-      - "Larger nozzle diameter , slightly less precise for tight spaces"
+      - "Larger nozzle diameter, slightly less precise for tight spaces"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
@@ -42,12 +42,11 @@ If you're already thinking about cordless outdoor power more broadly, the [Batte
 
 ## Quick Verdict
 
-The EGO LB6504 is the best handheld cordless blower I've tested at this price point. It currently runs around $249 as a kit on Amazon, which includes the 5.0Ah battery and a rapid charger. That matters. A lot of competitors in this range sell the tool only, and once you add a battery, you're at $300 or more anyway.
+The EGO LB6504 is the best handheld cordless blower at this price point. The kit includes the 5.0Ah battery and a rapid charger, which matters. A lot of competitors in this range sell the tool only, and once you add a battery the total is meaningfully higher anyway.
 
 At 650 CFM, this blower moves air. It handles wet, heavy leaf packs, which is where cordless machines have historically embarrassed themselves. The turbine fan design keeps noise lower than the axial-fan competition at equivalent output, and the 56V EGO battery platform is one of the two or three most capable in the residential market right now.
 
 The weight is real and the nozzle is wide. Neither is a dealbreaker, but both matter depending on how you work. I'll get into specifics below.
-
 
 [Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
@@ -56,7 +55,6 @@ The weight is real and the nozzle is wide. Neither is a dealbreaker, but both ma
 The LB6504 runs on EGO's 56V ARC lithium platform. The kit ships with a 5.0Ah battery, which EGO rates at around 45 minutes of run time at variable speed. In practice, I got roughly 35 minutes at sustained high output on a cold morning, which I think is the honest number to use for planning.
 
 ![Stihl Battery Powered Leaf Blower](/images/articles/battery-equipment-3.jpg)
-
 
 Peak output is 650 CFM at 165 MPH. The variable-speed trigger gives you genuine range from quiet cleanup work up to full blast. There's a turbo button for on-demand peak output, which I found genuinely useful when moving compacted wet leaves near the stone wall edges.
 
@@ -82,7 +80,6 @@ EGO's turbine fan design makes a real difference here. I measured approximately 
 
 ![Stihl Battery Powered Leaf Blower](/images/articles/battery-equipment-4.jpg)
 
-
 ### The Weight Problem
 
 10.8 lbs is not light. If you've ever abandoned a blower mid-session because your forearm gave out, this won't fully solve that problem. The balance point is reasonably good and the handle design is comfortable, but this is a two-handed blower for any extended session. EGO makes lighter options in the 500 CFM range if you primarily do maintenance-level work. For heavy fall clearing, the weight is the tradeoff you're making for that output.
@@ -96,19 +93,18 @@ The 2.5-inch nozzle does limit precision. Getting into tight corners around the 
 **Pros**
 
 - 650 CFM leads the handheld cordless category and is competitive with light gas machines
-- Kit price of around $249 includes battery and rapid charger
+- Kit includes battery and rapid charger — no extra purchase needed
 - Turbine fan design keeps noise lower than axial-fan competitors at equivalent output
 - 56V EGO platform is mature and widely compatible. If you already own EGO equipment, the battery works across the lineup
 - Variable speed range is genuinely wide, not just two settings with different labels
 
 ![Stihl Battery Powered Leaf Blower](/images/articles/battery-equipment-5.jpg)
 
-
 **Cons**
 
 - 10.8 lbs with battery installed is on the heavy end for handheld use
 - Wide nozzle reduces precision in tight spaces
-- Gutter cleaning attachment sold separately (around $30 currently)
+- Gutter cleaning attachment sold separately
 - Run time at full output is shorter than the rated figure suggests in cold weather
 
 [See EGO POWER+ LB6504 650 CFM Cordless Leaf Blower on Amazon →](product:ego-lb6504-leaf-blower)
@@ -127,7 +123,6 @@ For a broader look at how cordless outdoor power tools compare across brands and
 
 ![Stihl Battery Powered Leaf Blower](/images/articles/battery-equipment-6.jpg)
 
-
 ## Who It's For
 
 The LB6504 is the right choice if your property generates serious leaf volume, you're done with gas equipment, and you either already own EGO batteries or are ready to start building that ecosystem. A half-acre to two-acre property with significant tree cover is the sweet spot. Beyond that, you're looking at a backpack blower regardless of power source.
@@ -138,7 +133,7 @@ If you're comparing cordless options across voltage classes, the article on [40V
 
 For a supplemental tool, the [EGO pole hedge trimmer](/ego-pole-hedge-trimmer/) runs on the same 56V battery and is worth knowing about if you're building out the platform.
 
-My advice would be to buy the kit rather than the tool only. The 5.0Ah battery and rapid charger bundled at $249 is better value than most comparable setups you'd assemble separately. If you find the tool-only version discounted, check that the battery you already own is 2.5Ah or higher before assuming it will perform comparably at high output.
+My advice would be to buy the kit rather than the tool only. The 5.0Ah battery and rapid charger bundled is better value than most comparable setups you'd assemble separately. If you find the tool-only version discounted, check that the battery you already own is 2.5Ah or higher before assuming it will perform comparably at high output.
 
 [Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
@@ -150,18 +145,17 @@ Yes. The 5.0Ah 56V battery included in the kit works with all EGO 56V platform t
 
 ![Stihl Battery Powered Leaf Blower](/images/articles/battery-equipment-7.jpg)
 
-
 ### How long does the battery last on a full charge?
 
 EGO rates it at approximately 45 minutes. In practice, expect 30 to 35 minutes at sustained high output in cool conditions, and closer to 25 minutes when working wet, heavy leaf packs at full speed. Variable speed use extends run time noticeably if your work doesn't require constant high output.
 
 ### Can the EGO LB6504 be used for gutter cleaning?
 
-The blower is compatible with EGO's gutter cleaning attachment kit, which runs around $30 at the time of writing and is sold separately. The kit includes curved tubes that direct airflow into gutters. It works, though a leaf blower is a secondary gutter tool at best. For gutters, I'd still recommend a dedicated approach for serious blockages.
+The blower is compatible with EGO's gutter cleaning attachment kit, which and is sold separately. The kit includes curved tubes that direct airflow into gutters. It works, though a leaf blower is a secondary gutter tool at best. For gutters, I'd still recommend a dedicated approach for serious blockages.
 
 ### How does the EGO LB6504 compare to gas blowers at a similar price?
 
-At $249 for the complete kit, you're roughly comparable to a mid-range gas handheld blower. The EGO matches or beats most gas options in the $200 to $300 range on CFM output. Gas wins on run time for extended sessions and doesn't require battery management, but loses on noise, maintenance, and startup reliability. For most residential use, the EGO is the better practical choice.
+you're roughly comparable to a mid-range gas handheld blower. The EGO matches or beats most gas options in the range on CFM output. Gas wins on run time for extended sessions and doesn't require battery management, but loses on noise, maintenance, and startup reliability. For most residential use, the EGO is the better practical choice.
 
 ### Is the EGO LB6504 heavy enough to be a problem for extended use?
 
@@ -193,7 +187,7 @@ At 10.8 lbs with battery, yes, for some users. It's manageable for sessions up t
       "name": "Can the EGO LB6504 be used for gutter cleaning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The blower is compatible with EGO's gutter cleaning attachment kit, which runs around $30 at the time of writing and is sold separately. The kit includes curved tubes that direct airflow into gutters. It works, though a leaf blower is a secondary gutter tool at best. For gutters, I'd still recommend a dedicated approach for serious blockages."
+ "text": "The blower is compatible with EGO's gutter cleaning attachment kit, which and is sold separately. The kit includes curved tubes that direct airflow into gutters. It works, though a leaf blower is a secondary gutter tool at best. For gutters, I'd still recommend a dedicated approach for serious blockages."
       }
     },
     {
@@ -201,7 +195,7 @@ At 10.8 lbs with battery, yes, for some users. It's manageable for sessions up t
       "name": "How does the EGO LB6504 compare to gas blowers at a similar price?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At $249 for the complete kit, you're roughly comparable to a mid-range gas handheld blower. The EGO matches or beats most gas options in the $200 to $300 range on CFM output. Gas wins on run time for extended sessions and doesn't require battery management, but loses on noise, maintenance, and startup reliability. For most residential use, the EGO is the better practical choice."
+ "text": "For the complete kit, you're roughly comparable to a mid-range gas handheld blower. The EGO matches or beats most gas options in the range on CFM output. Gas wins on run time for extended sessions and doesn't require battery management, but loses on noise, maintenance, and startup reliability. For most residential use, the EGO is the better practical choice."
       }
     },
     {
@@ -215,4 +209,3 @@ At 10.8 lbs with battery, yes, for some users. It's manageable for sessions up t
   ]
 }
 </script>
-

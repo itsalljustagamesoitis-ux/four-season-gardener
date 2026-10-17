@@ -14,7 +14,7 @@ products:
   - id: "worm-factory-360-black"
     role: "primary"
     article_specific_pros:
-      - "Produces both worm castings and liquid worm tea , two premium fertilizer outputs"
+      - "Produces both worm castings and liquid worm tea, two premium fertilizer outputs"
       - "Modular tray system expands as worm population grows; up to 8 trays supported"
     article_specific_cons:
       - "Red wiggler worms must be purchased separately"
@@ -24,7 +24,7 @@ products:
       - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
       - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
     article_specific_cons:
-      - "Live shipping is weather-dependent , extreme heat or cold can affect survival rate"
+      - "Live shipping is weather-dependent, extreme heat or cold can affect survival rate"
 tags: ["composting", "comparison"]
 disclosure_required: true
 noindex: false
@@ -50,7 +50,7 @@ If you're searching for compost worms for sale and you end up on Amazon, two pro
 
 ## At-a-Glance
 
-The Worm Factory 360 is currently around $90 to $100 on Amazon, depending on color. The black version (ASIN B002LH47PY) sits at the lower end of that range. Uncle Jim's 1,000 count red wigglers run approximately $35 to $40 shipped (ASIN B000Q5S7RM). Together you're looking at roughly $130 to $140 to start a functioning vermicompost system, which is a reasonable entry point for what you get.
+The Worm Factory 360, depending on color. The black version (ASIN B002LH47PY) sits at the lower end of that range. Uncle Jim's 1,000 count red wigglers (ASIN B000Q5S7RM) are budget-priced and widely available. Together you're looking at to start a functioning vermicompost system, which is a reasonable entry point for what you get.
 
 The Worm Factory 360 produces worm castings and liquid worm tea, both usable as fertilizer. The Uncle Jim's worms are the engine that makes that happen. Neither product works without the other, and that's the first thing worth saying plainly.
 
@@ -66,7 +66,6 @@ The Worm Factory 360 produces worm castings and liquid worm tea, both usable as 
 ![Compost Worms For Sale](/images/articles/composting-3.jpg)
 
 |,|,|,|
-| Price | ~$95 | ~$37 |
 | What it is | Stacking bin system | Live worms |
 | Outputs | Castings + worm tea | N/A (they're the input) |
 | Expandable | Yes, up to 8 trays | Population grows naturally |
@@ -87,7 +86,6 @@ A few practical specifics worth knowing.
 
 ![Compost Worms For Sale](/images/articles/composting-4.jpg)
 
-
 **What's included.** The kit comes with a worm tea spigot, tray liners, a thermometer, a hand rake, a DVD and instruction manual, and a getting-started guide. Nature's Footprint put actual thought into the documentation. If this is your first vermicompost setup, the manual is worth reading before you start.
 
 **What's not included.** Worms. This is the source of a lot of one-star reviews from buyers who didn't read the listing carefully. The Worm Factory 360 is a habitat, not a complete kit. You need to source red wigglers separately, which is exactly what the Uncle Jim's product solves.
@@ -102,7 +100,6 @@ The 1,000 count quantity from Uncle Jim's is the right starting quantity for a W
 
 ![Compost Worms For Sale](/images/articles/composting-5.jpg)
 
-
 Once established, which takes three to six weeks as the worms acclimate to their new environment, a healthy colony can process up to four times their body weight in kitchen scraps per week. At full capacity, a one-pound starting colony can process around four pounds of scraps weekly. That's a realistic figure for a household of two to three people feeding mostly vegetable scraps, coffee grounds, and eggshells.
 
 **The live shipping caveat.** Uncle Jim's ships with moisture-retaining material and packs reasonably well for transit, but live animals are live animals. Extreme heat or cold in transit affects survival rates. The 48-hour arrival guarantee matters here. If you open the package and find significant losses, photograph it and contact Uncle Jim's within two days. The guarantee is real, but it has a hard deadline. If you're ordering in July or January, think about whether your local conditions are hospitable for a package sitting on a hot porch or in a cold mailbox. I'd order for spring or fall delivery if possible, though I recognize that's not always practical.
@@ -113,7 +110,6 @@ For sourcing context and alternatives if Uncle Jim's is out of stock, our articl
 
 ![Compost Worms For Sale](/images/articles/composting-6.jpg)
 
-
 ## Verdict
 
 Buy both. That's the honest answer.
@@ -122,7 +118,7 @@ The [Worm Factory 360](product:worm-factory-360-black) is the best mid-range sta
 
 The [Uncle Jim's Red Wigglers](product:uncle-jims-1000-red-wigglers) are the correct worms for this system and the 1,000 count is the correct quantity. The arrival guarantee makes the live shipping risk manageable as long as you inspect the package immediately and report issues within 48 hours.
 
-Total cost at current pricing: approximately $130 to $140 for a fully functional vermicompost setup that will produce castings and worm tea for years. That's reasonable. The system will pay for itself in reduced fertilizer purchases if you're maintaining containers or raised beds.
+That's reasonable. The system will pay for itself in reduced fertilizer purchases if you're maintaining containers or raised beds.
 
 One note for people comparing this to outdoor composting options. The Worm Factory 360 is an indoor system, and that's its specific advantage. If you have outdoor space and are looking at larger-scale options, the [Rubbermaid compost bin](/rubbermaid-compost-bin/) and similar outdoor units handle higher volumes and don't require temperature management. Vermicomposting solves a different problem: year-round kitchen scrap processing in a small footprint with premium fertilizer outputs.
 
@@ -137,7 +133,6 @@ If you're in an apartment, a condo, or a house without a practical outdoor compo
 One thousand worms, roughly one pound, is the right starting quantity for the four-tray Worm Factory 360. This matches the processing capacity of the system at startup and allows the population to grow into additional trays over time. Starting with fewer than 500 worms means a long wait before the system reaches meaningful output.
 
 ![Compost Worms For Sale](/images/articles/composting-7.jpg)
-
 
 ### Can I use garden earthworms instead of buying red wigglers?
 
@@ -203,4 +198,3 @@ Vegetable and fruit scraps, coffee grounds, tea bags (remove staples), crushed e
   ]
 }
 </script>
-

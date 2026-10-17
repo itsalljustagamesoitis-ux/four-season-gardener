@@ -17,7 +17,7 @@ products:
       - "650 CFM is one of the highest outputs of any handheld cordless blower"
       - "Turbine fan technology moves more air with less noise than axial-fan competitors"
     article_specific_cons:
-      - "Larger nozzle diameter , slightly less precise for tight spaces"
+      - "Larger nozzle diameter, slightly less precise for tight spaces"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
@@ -42,13 +42,11 @@ This review focuses on the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](prod
 
 ## Quick Verdict
 
-The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the better choice for most buyers who aren't already invested in the Stihl battery system. At around $249 for the kit with a 5.0Ah battery and rapid charger included, it delivers 650 CFM, which puts it ahead of every Stihl handheld cordless blower currently available. The Stihl BGA 57 runs around $149 but comes as a tool-only option, and its 450 CFM output is measurably weaker. The Stihl BGA 86 gets closer in power, but tool-only pricing starts around $219 and you still need an AK battery, which adds $80 to $130 depending on capacity.
+The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the better choice for most buyers who aren't already invested in the Stihl battery system. it delivers 650 CFM, which puts it ahead of every Stihl handheld cordless blower currently available. The Stihl BGA 57 but comes as a tool-only option, and its 450 CFM output is measurably weaker. The Stihl BGA 86 gets closer in power, but it's tool-only and you still need to add an AK battery separately.
 
 If you're already running Stihl AK tools, such as the [Stihl battery edger](/stihl-battery-edger/) or a [Stihl strimmer battery operated](/stihl-strimmer-battery-operated/) model, then the calculus shifts. Sharing batteries has real value. But if a leaf blower is your entry point into cordless tools, the EGO kit wins on output, completeness, and cost.
 
 ![Stihl Cordless Leaf Blower](/images/articles/battery-equipment-8.jpg)
-
-
 
 [Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
@@ -63,7 +61,7 @@ If you're already running Stihl AK tools, such as the [Stihl battery edger](/sti
 - Weight with battery: approximately 11.5 lbs
 - Variable speed: Yes, with turbo mode
 - Noise level: approximately 64 dB (low) to 70 dB (high)
-- Current price (kit, at time of writing): around $249 on Amazon
+- Current price (kit, at time of writing):
 
 **Stihl BGA 86 (for comparison)**
 
@@ -72,7 +70,7 @@ If you're already running Stihl AK tools, such as the [Stihl battery edger](/sti
 - Battery: Stihl AK series, sold separately
 - Weight with AK 30 battery: approximately 9.9 lbs
 - Noise level: approximately 67 dB
-- Current tool-only price: around $219, plus $80 to $130 for the battery
+- Tool-only (battery purchased separately)
 
 The EGO gives up about 8 mph in top air speed but exceeds the Stihl on volume by nearly 90 CFM. For moving wet leaves or debris across a large area, volume is the more useful number.
 
@@ -86,8 +84,7 @@ The turbo mode is genuinely useful rather than a gimmick. On low and medium sett
 
 ![Stihl Cordless Leaf Blower](/images/articles/battery-equipment-1.jpg)
 
-
-The nozzle is wider than what you'd find on the BGA 86, which creates a useful airflow spread for open areas but is less precise around beds or tight hardscape edges. I'd switch to a narrower concentrator for detail work, and EGO sells a gutter cleaning kit separately for around $30 (I haven't tested it, so I won't speak to it).
+The nozzle is wider than what you'd find on the BGA 86, which creates a useful airflow spread for open areas but is less precise around beds or tight hardscape edges. I'd switch to a narrower concentrator for detail work, and EGO sells a gutter cleaning kit separately (I haven't tested it, so I won't speak to it).
 
 ### Battery Life at Work
 
@@ -100,7 +97,6 @@ The EGO 56V battery platform is one of the more widely compatible systems availa
 I ran a Husqvarna 580BTS backpack blower for several seasons before moving most of my clearing work to battery tools. The Husqvarna is not a fair comparison on raw output, and I'm not pretending the LB6504 competes at that level. What the EGO does well is cover the 80 percent of leaf clearing tasks where you don't need backpack power. For moving leaves away from beds, clearing paths, and managing the weekly accumulation on lawns, handheld cordless is entirely adequate. The start-up time alone (pick it up and pull the trigger, no priming, no choke, no string-pull) changes how often you actually reach for the tool.
 
 ![Stihl Cordless Leaf Blower](/images/articles/battery-equipment-2.jpg)
-
 
 If you're curious about how other cordless platforms perform at comparable power ratings, the [40V cordless leaf blower](/40v-cordless-leaf-blower/) category covers some of the lower-voltage options, though 40V systems generally top out below what the EGO 56V delivers here.
 
@@ -136,9 +132,9 @@ The honest limitation of Stihl's handheld cordless range is that none of them cu
 
 The LB6504 is the right tool if you're starting a cordless tool setup from scratch and want the best handheld blower output available without buying gas. It's also the right call if you're already in the EGO ecosystem, where battery sharing with mowers and hedge trimmers makes the system economics work clearly in your favor.
 
-If you have a large property with significant annual leaf fall (I'm thinking an acre or more with mature deciduous trees), this blower handles the handheld category well, though you may find yourself wanting a second battery for uninterrupted long sessions. Two 5.0Ah batteries cost around $200 together if purchased as a pair, and the rapid charger makes the rotation manageable.
+If you have a large property with significant annual leaf fall (I'm thinking an acre or more with mature deciduous trees), this blower handles the handheld category well, though you may find yourself wanting a second battery for uninterrupted long sessions. A second 5.0Ah battery purchased as a pair is cost-effective, and the rapid charger makes the rotation manageable.
 
-The one situation where I'd steer someone toward Stihl instead: you already own two or three AK-platform tools and have batteries in rotation. The BGA 86 tool-only at $219 is a reasonable addition to an existing Stihl kit. Buying into EGO on top of an active Stihl inventory adds charger complexity and shelf clutter, which I appreciate is a smaller concern for some people than for others.
+The one situation where I'd steer someone toward Stihl instead: you already own two or three AK-platform tools and have batteries in rotation. The BGA 86 tool-only is a reasonable addition to an existing Stihl kit. Buying into EGO on top of an active Stihl inventory adds charger complexity and shelf clutter, which I appreciate is a smaller concern for some people than for others.
 
 For anyone weighing their broader cordless tool strategy before committing to a platform, the [cordless and battery-powered tool guides](/battery-equipment/) on this site cover cross-brand battery compatibility in more depth than I can fit here.
 
@@ -151,7 +147,6 @@ For anyone weighing their broader cordless tool strategy before committing to a 
 The EGO LB6504 delivers 650 CFM versus the BGA 86's 562 CFM. In practical use, that difference is noticeable on heavy or wet leaf loads. The BGA 86 is lighter (about 1.5 lbs lighter with a comparable battery) and has a slight edge in top air speed, but for volume clearing, the EGO moves more air. The BGA 86 makes more sense if you're already running Stihl AK batteries, since the tool-only price is reasonable when you're not buying a new battery.
 
 ![Stihl Cordless Leaf Blower](/images/articles/battery-equipment-4.jpg)
-
 
 ### Does the EGO 56V battery work with other EGO tools?
 
@@ -167,7 +162,7 @@ Approximately 45 minutes of mixed-speed use with the included 5.0Ah battery. Con
 
 ### Can I use the EGO LB6504 for gutter cleaning?
 
-Not out of the box. EGO sells a gutter cleaning kit attachment separately, currently around $30 at time of writing, that fits the LB6504 nozzle. It includes a curved tube and concentrator designed for blowing debris from gutters. I haven't tested it personally, so I can't speak to how well it performs in practice, but the compatibility is confirmed by EGO.
+Not out of the box. EGO sells a gutter cleaning kit attachment separately at time of writing, that fits the LB6504 nozzle. It includes a curved tube and concentrator designed for blowing debris from gutters. I haven't tested it personally, so I can't speak to how well it performs in practice, but the compatibility is confirmed by EGO.
 
 <script type="application/ld+json">
 {
@@ -211,10 +206,9 @@ Not out of the box. EGO sells a gutter cleaning kit attachment separately, curre
       "name": "Can I use the EGO LB6504 for gutter cleaning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not out of the box. EGO sells a gutter cleaning kit attachment separately, currently around $30 at time of writing, that fits the LB6504 nozzle. It includes a curved tube and concentrator designed for blowing debris from gutters. I haven't tested it personally, so I can't speak to how well it performs in practice, but the compatibility is confirmed by EGO."
+ "text": "Not out of the box. EGO sells a gutter cleaning kit attachment separately at time of writing, that fits the LB6504 nozzle. It includes a curved tube and concentrator designed for blowing debris from gutters. I haven't tested it personally, so I can't speak to how well it performs in practice, but the compatibility is confirmed by EGO."
       }
     }
   ]
 }
 </script>
-

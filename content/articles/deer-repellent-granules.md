@@ -14,7 +14,7 @@ products:
   - id: "liquid-fence-deer-rabbit-repellent"
     role: "best_overall"
     article_specific_pros:
-      - "Ready-to-use formula , no mixing; trigger sprayer applies directly to plants"
+      - "Ready-to-use formula, no mixing; trigger sprayer applies directly to plants"
       - "Rain-resistant formula lasts 2-4 weeks outdoors"
     article_specific_cons:
       - "Strong sulfur/egg odor during and shortly after application"
@@ -24,7 +24,7 @@ products:
       - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
       - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
     article_specific_cons:
-      - "Can be triggered by other movement (blowing shrubs, passing people) , positioning matters"
+      - "Can be triggered by other movement (blowing shrubs, passing people), positioning matters"
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
@@ -63,7 +63,6 @@ Any repellent that claims to be permanent is lying. Rain, irrigation, and new pl
 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-6.jpg)
 
-
 For anyone with a property larger than a typical suburban lot, concentrate formulas become significantly more economical than ready-to-use versions. The math matters here and I'll come back to it below.
 
 ### Safety Profile
@@ -84,9 +83,6 @@ Coverage on a gallon jug goes further than you'd expect if you're applying as a 
 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-7.jpg)
 
-
-**Price:** Currently around $18 to $22 on Amazon for the gallon ready-to-use. If your property has significant acreage to cover, the [concentrate version (B014UUZ8AC)](product:liquid-fence-concentrate) is meaningfully more economical. At the time of writing, the concentrate runs around $28 and mixes to yield the equivalent of several gallons of ready-to-use, which changes the math considerably for anyone treating more than a few beds.
-
 **Best for:** Homeowners with defined garden beds, shrub borders, or specific plants under pressure. Works as a standalone for moderate deer activity. For high-pressure situations, layer it with a physical deterrent.
 
 ### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
@@ -101,16 +97,13 @@ A few practical notes on the Orbit. Positioning matters more than the product de
 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-8.jpg)
 
-
-**Price:** Currently around $35 to $45 on Amazon depending on availability. For a chemical-free deterrent that covers a significant bed area with no ongoing product cost beyond batteries, that's a reasonable entry point.
-
 **Best for:** Anyone who wants a non-chemical deterrent, properties with persistent deer problems that spray alone hasn't solved, and as a layered approach alongside a repellent like Liquid Fence. Also works on rabbits, cats, raccoons, and birds, which matters if you're dealing with more than one wildlife problem.
 
 ## How to Choose
 
 ### If You're Starting From Scratch
 
-Start with the spray repellent. The [Liquid Fence gallon](product:liquid-fence-deer-rabbit-repellent) is a reasonable entry point, gives you immediate coverage across treated plants, and costs under $25. Apply at first leaf out in spring, reapply after any significant rain event, and maintain a two-week cadence through fall. This handles moderate deer pressure on properties where deer are occasional visitors rather than residents.
+Start with the spray repellent. The [Liquid Fence gallon](product:liquid-fence-deer-rabbit-repellent) is a reasonable entry point, gives you immediate coverage across treated plants, and is entry-level. Apply at first leaf out in spring, reapply after any significant rain event, and maintain a two-week cadence through fall. This handles moderate deer pressure on properties where deer are occasional visitors rather than residents.
 
 If deer are on your property consistently, not just moving through, add the [Orbit Yard Enforcer](product:orbit-yard-enforcer-sprinkler) at the highest-traffic entry points. Two units positioned at the approaches to your main planting areas, combined with consistent spray repellent use, will significantly change deer behavior within a month.
 
@@ -122,12 +115,11 @@ For a broader look at how deer and other wildlife interact with garden features,
 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-1.jpg)
 
-
 ### What I'd Skip
 
 Granule-only approaches for active deer pressure. Granules work as a perimeter signal, but deer that are already in the habit of browsing your beds will walk through a granule barrier without hesitation if the foliage itself isn't treated. Use granules as a supplement to spray, not a replacement.
 
-Solar ultrasonic stakes are largely ineffective at sustained deterrence. Deer habituate to them quickly. I've tried three different models over the years and I'd rather spend the money on Liquid Fence concentrate.
+Solar ultrasonic stakes are largely ineffective at sustained deterrence. Deer habituate to them quickly. Liquid Fence concentrate is considered a more reliable alternative by many users.
 
 If you're researching how deer activity intersects with other wildlife you're trying to encourage, our [review of the Deer Out deer repellent](/deer-out-deer-repellent/) covers another product in this space with some different active ingredients worth comparing.
 
@@ -148,7 +140,6 @@ Every two weeks is the working standard for spray formulas under normal conditio
 Winter is often when deer pressure peaks because natural food sources are scarce. Spray repellents can be applied to woody stems, bark, and evergreen foliage. For deciduous plants with exposed stems, direct application to the bark and a granule perimeter around the root zone is the practical approach. Motion-activated sprinklers need to be disconnected before hard freeze temperatures, so a physical deterrent like the Orbit is a three-season tool, not a four-season one.
 
 ![Deer Repellent Granules](/images/articles/birds-wildlife-2.jpg)
-
 
 ### Will deer repellent affect birds or other wildlife I want to attract?
 
@@ -210,4 +201,3 @@ Three common reasons. First, application technique: a fine mist that coats folia
   ]
 }
 </script>
-

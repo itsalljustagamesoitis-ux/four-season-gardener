@@ -17,7 +17,7 @@ products:
       - "80 sq ft of storage handles a full complement of lawn and garden equipment"
       - "Padlockable doors; reinforced corners resist wind racking"
     article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
+      - "Steel walls can condensate inside in humid climates, ventilation kit recommended"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -48,7 +48,6 @@ Materials split into three camps. Wood gives you the warmest aesthetic and good 
 
 ![Flat Roof Garden Shed](/images/articles/structures-1.jpg)
 
-
 ## Why the Flat Roof Design Matters
 
 The practical advantages aren't just aesthetic, though the lower profile genuinely reads as less obtrusive in most residential settings.
@@ -63,7 +62,6 @@ The practical advantages aren't just aesthetic, though the lower profile genuine
 
 ![Flat Roof Garden Shed](/images/articles/structures-2.jpg)
 
-
 ## How to Choose and Set Up a Flat Roof Steel Shed
 
 ### Step 1. Measure the actual space, not the theoretical space
@@ -74,7 +72,7 @@ Mark out the footprint with stakes before you order anything.
 
 ### Step 2. Decide on flooring before you order the shed
 
-This is the most commonly missed step in steel shed purchases. Most steel flat roof sheds are sold without a floor kit. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) is a good example: the shed runs around $480 to $520 at the time of writing, and the Arrow floor kit is sold separately at roughly $80 to $100 additional. That's a meaningful line item that doesn't show up in the headline price.
+This is the most commonly missed step in steel shed purchases. Most steel flat roof sheds are sold without a floor kit. The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) is a good example: the shed, and the Arrow floor kit is sold separately at to a bit more. That's a meaningful line item that doesn't show up in the headline price.
 
 Your options for flooring: the manufacturer's steel floor kit, a pressure-treated lumber frame you build yourself, a poured concrete pad, or pavers set level. Concrete is the most permanent and the most stable, but overkill for most residential uses. A pressure-treated 2x4 skid foundation is what most people end up with, and it works fine if it's level.
 
@@ -88,12 +86,11 @@ The Arrow Select 10x8 is designed for two people, and Arrow's own documentation 
 
 ![Flat Roof Garden Shed](/images/articles/structures-3.jpg)
 
-
 Build the base frame first, fully squared and level, before you attach a single wall panel. This is where most failed assemblies go wrong. People rush the base, attach panels, realize the base is out of square, and then nothing aligns cleanly.
 
 ### Step 5. Ventilation
 
-Steel sheds condensate. Warm air inside, cooler steel panels, and you get moisture on the interior walls and ceiling. In a humid summer, this is a real issue that can rust tools and damage anything stored in cardboard. Arrow sells a ventilation kit as an add-on; it runs around $25 to $35 and is worth adding at purchase. If you're storing anything beyond plastic-handled tools, buy it.
+Steel sheds condensate. Warm air inside, cooler steel panels, and you get moisture on the interior walls and ceiling. In a humid summer, this is a real issue that can rust tools and damage anything stored in cardboard. Arrow sells a ventilation kit as an add-on; it and is worth adding at purchase. If you're storing anything beyond plastic-handled tools, buy it.
 
 ## The Arrow Select 10x8: What You Get and What You Don't
 
@@ -105,8 +102,7 @@ The case for this over a wood shed at the same price point is maintenance. No ro
 
 ![Flat Roof Garden Shed](/images/articles/structures-4.jpg)
 
-
-Comparable steel sheds in this size category include the Rubbermaid Roughneck (resin, not steel, lighter duty) and the Suncast BMS8100 (also resin, similar dimensions, cheaper but less rigid). If you want steel at this footprint, Arrow is essentially the mainstream option at the mid-price tier. The Lifetime 60057 competes but comes in at $600 to $700 currently and offers more interior clearance if you're storing taller equipment.
+Comparable steel sheds in this size category include the Rubbermaid Roughneck (resin, not steel, lighter duty) and the Suncast BMS8100 (also resin, similar dimensions, cheaper but less rigid). If you want steel at this footprint, Arrow is essentially the mainstream option at the mid-price tier. The Lifetime 60057 competes but comes in and offers more interior clearance if you're storing taller equipment.
 
 For broader context on how shed options compare to other backyard structures, the [Greenhouses, Sheds & Gazebos](/structures/) hub covers the full range.
 
@@ -130,10 +126,9 @@ Low-pitch roofs accumulate snow instead of shedding it, which is a real structur
 
 ![Flat Roof Garden Shed](/images/articles/structures-5.jpg)
 
-
 ### Does the Arrow Select 10x8 come with a floor?
 
-No. The floor kit is sold separately and currently runs around $80 to $100 for the Arrow-branded option. You can also build a pressure-treated lumber base or pour a concrete pad. Don't skip this step or underbudget for it.
+No. The floor kit is sold separately and for the Arrow-branded option. You can also build a pressure-treated lumber base or pour a concrete pad. Don't skip this step or underbudget for it.
 
 ### How long does the Arrow Select 10x8 take to assemble?
 
@@ -141,7 +136,7 @@ Realistically, four to six hours with two people who follow the instructions in 
 
 ### Can I put shelving inside a steel shed?
 
-Yes, but the walls need to be considered. Steel shed walls aren't load-bearing in the way wood stud walls are, so standard wall-anchor shelving isn't the right approach. Freestanding metal shelving units work well inside steel sheds. Arrow and others make steel shelving units designed for shed interiors, typically in the $40 to $80 range.
+Yes, but the walls need to be considered. Steel shed walls aren't load-bearing in the way wood stud walls are, so standard wall-anchor shelving isn't the right approach. Freestanding metal shelving units work well inside steel sheds. Arrow and others make steel shelving units designed for shed interiors, typically.
 
 ### What's the difference between a flat roof shed and a regular storage shed for long-term durability?
 
@@ -165,7 +160,7 @@ The roof design itself isn't the primary durability variable. Material is. A ste
       "name": "Does the Arrow Select 10x8 come with a floor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The floor kit is sold separately and currently runs around $80 to $100 for the Arrow-branded option. You can also build a pressure-treated lumber base or pour a concrete pad. Don't skip this step or underbudget for it."
+ "text": "No. The floor kit is sold separately and for the Arrow-branded option. You can also build a pressure-treated lumber base or pour a concrete pad. Don't skip this step or underbudget for it."
       }
     },
     {
@@ -181,7 +176,7 @@ The roof design itself isn't the primary durability variable. Material is. A ste
       "name": "Can I put shelving inside a steel shed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, but the walls need to be considered. Steel shed walls aren't load-bearing in the way wood stud walls are, so standard wall-anchor shelving isn't the right approach. Freestanding metal shelving units work well inside steel sheds. Arrow and others make steel shelving units designed for shed interiors, typically in the $40 to $80 range."
+ "text": "Yes, but the walls need to be considered. Steel shed walls aren't load-bearing in the way wood stud walls are, so standard wall-anchor shelving isn't the right approach. Freestanding metal shelving units work well inside steel sheds. Arrow and others make steel shelving units designed for shed interiors, typically."
       }
     },
     {
@@ -195,4 +190,3 @@ The roof design itself isn't the primary durability variable. Material is. A ste
   ]
 }
 </script>
-

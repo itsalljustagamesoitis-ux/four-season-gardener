@@ -29,7 +29,7 @@ safety_topics:
   - power-equipment
 ---
 
-If you've invested in a robot mower, you already know the first problem isn't the cutting. It's the charging, the weather exposure, and the slow degradation that comes from leaving a $1,500 piece of electronics sitting on wet grass through a Connecticut spring. A robot lawn mower garage solves all three of those problems at once, and yet most people buy one as an afterthought, if they buy one at all.
+If you've invested in a robot mower, you already know the first problem isn't the cutting. It's the charging, the weather exposure, and the slow degradation that comes from leaving a piece of electronics sitting on wet grass through a Connecticut spring. A robot lawn mower garage solves all three of those problems at once, and yet most people buy one as an afterthought, if they buy one at all.
 
 This article covers what to look for, what to avoid, and what I'd actually buy. If you're building out a battery-powered outdoor setup more broadly, the [Battery & Cordless Tools](/battery-equipment/) hub has context on how these products fit together.
 
@@ -43,7 +43,6 @@ The charging station for most robot mowers (Husqvarna Automower, Gardena, WORX L
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-7.jpg)
 
-
 ## Why Housing Your Robot Mower Properly Matters
 
 Left outdoors with no cover, a charging station collects water in the contact points, grows moss under the base plate, and eventually corrodes the connectors. I've seen this happen in a single season to a unit that was otherwise in good shape. The mower itself holds up reasonably well to rain, but direct afternoon sun accelerates plastic degradation faster than most people expect. The ABS housing on most budget mowers will start showing UV stress within two to three seasons without any shade protection.
@@ -52,7 +51,7 @@ There's also the practical issue of scheduling. Most robot mowers are set to run
 
 For anyone running [40V cordless equipment](/40v-cordless-leaf-blower/) alongside a robot mower, the principle is the same: battery-powered tools last significantly longer when they aren't cycling through extreme temperature swings repeatedly. A garage moderates that somewhat.
 
-The cost argument is straightforward. A decent freestanding mower garage runs between $80 and $220 depending on material and size. If avoiding one premature replacement of a $1,200 to $2,500 robot mower is the outcome, the math writes itself.
+The cost argument is straightforward. A decent freestanding mower garage is a modest expense compared to a robot mower replacement. If avoiding one premature replacement is the outcome, the math writes itself.
 
 ## How to Choose and Set Up a Robot Mower Garage
 
@@ -62,14 +61,13 @@ This is where most people go wrong first. Robot mower garages are not universal.
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-8.jpg)
 
-
 Also measure the cable run from your nearest outdoor power outlet to the intended garage location. Most charging stations come with a cable in the eight to twelve foot range. If your garage placement puts you further than that, you'll need an outdoor-rated extension, which adds a step but isn't a dealbreaker.
 
 ### Step 2: Evaluate the Material
 
 Wood garages look good initially and are easy to customize, but untreated wood in a lawn environment absorbs moisture, warps, and eventually rots at the base. If you're buying or building a wood unit, pressure-treated lumber for the base rails is non-negotiable. Cedar or teak for the body will hold up better than pine, though you'll pay for it.
 
-Polyethylene garages are lower maintenance and UV-stabilized on the better models. The [Hartman Mow House](product:hartman-mow-house) is a well-regarded option in this category, currently around $140 to $160. It's not pretty, but it's functional and it holds up.
+Polyethylene garages are lower maintenance and UV-stabilized on the better models. The [Hartman Mow House](product:hartman-mow-house) is a well-regarded option in this category It's not pretty, but it's functional and it holds up.
 
 Steel garages are durable but need to be powder-coated, not just painted. Bare or thinly-coated steel in a lawn environment will rust at the anchor points within two seasons.
 
@@ -78,7 +76,6 @@ Steel garages are durable but need to be powder-coated, not just painted. Bare o
 The charging station's position relative to the perimeter wire matters for your mower's navigation. Don't move an established charging station to fit the garage without recalibrating or re-mapping the mower's home zone. Most manufacturers recommend a specific clearance around the station (Husqvarna, for example, specifies at least two meters of clear wire on each side of the home position). A garage should sit around the station, not force you to relocate it.
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-1.jpg)
-
 
 Orient the garage entry facing away from prevailing wind and rain direction if possible. In most of the Northeast, that's orienting away from the northwest. The roof overhang does most of the work, but entry orientation helps on sideways-rain days.
 
@@ -97,7 +94,6 @@ Thread the charging station cable out through the back or side of the garage rat
 **Buying a "universal" garage without measuring.** There's no such thing as universal here. The clearance and footprint requirements between mower brands are different enough that "fits most mowers" on a product listing is a red flag, not a feature.
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-2.jpg)
-
 
 **Skipping the anchor step because the garage feels stable.** It will feel stable in August. By November, after the first frost, it won't be. An unanchored garage that shifts three inches is enough to confuse the mower's homing.
 
@@ -129,10 +125,9 @@ For the mower itself, optional. For the charging station, I'd call it close to n
 
 ![Robot Lawn Mower Garage](/images/articles/battery-equipment-3.jpg)
 
-
 ### What's a reasonable budget for a robot mower garage?
 
-Functional plastic garages start around $80 to $100. A well-made polyethylene unit like the Hartman Mow House runs $140 to $160 currently. Solid wood custom-built options start around $200 and go up from there depending on materials. Anything under $80 tends to be thin-walled and UV-degraded within two seasons.
+Functional plastic garages are available at a range of price points. A well-made polyethylene unit like the Hartman Mow House is a solid mid-range choice. Solid wood custom-built options go higher depending on materials. Anything entry-level tends to be thin-walled and UV-degraded within two seasons.
 
 ### Can I build my own robot mower garage?
 
@@ -164,7 +159,7 @@ The garage itself doesn't, as long as it's positioned correctly around the exist
       "name": "What's a reasonable budget for a robot mower garage?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Functional plastic garages start around $80 to $100. A well-made polyethylene unit like the Hartman Mow House runs $140 to $160 currently. Solid wood custom-built options start around $200 and go up from there depending on materials. Anything under $80 tends to be thin-walled and UV-degraded within two seasons."
+ "text": "Functional plastic garages are available at a range of price points. A well-made polyethylene unit like the Hartman Mow House is a solid mid-range choice. Solid wood custom-built options go higher depending on materials. Anything entry-level tends to be thin-walled and UV-degraded within two seasons."
       }
     },
     {
@@ -194,4 +189,3 @@ The garage itself doesn't, as long as it's positioned correctly around the exist
   ]
 }
 </script>
-

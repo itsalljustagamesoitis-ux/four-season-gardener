@@ -39,16 +39,15 @@ safety_topics:
 
 The search term "electric lawn mower Stihl" gets typed in by people who already know battery tools and are doing their homework. They want to know whether the EGO POWER+ is the better buy or whether they should stay in an existing platform. That's a fair question, and I'll answer it directly: Stihl does not currently make a 21-inch self-propelled battery mower in the same class as the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower). If you came here looking for a Stihl equivalent, it doesn't exist yet at this price point. What I'll do instead is tell you whether the EGO is worth your money, which is probably what you actually needed to know.
 
-I've been running battery-powered outdoor tools across 12 acres for several years. If you're researching cordless equipment more broadly, my starting point is always the [Battery & Cordless Tools](/battery-equipment/) hub, where I cover the platform decisions that matter before you spend $400 on a mower.
+I've been running battery-powered outdoor tools across 12 acres for several years. If you're researching cordless equipment more broadly, my starting point is always the [Battery & Cordless Tools](/battery-equipment/) hub, where I cover the platform decisions that matter before you spending that much on a mower.
 
 ## Quick Verdict
 
-The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best battery-powered self-propelled mower I've used at this price. The self-propel system is genuinely good, the 60-minute runtime holds up under real conditions, and the cut quality is competitive with any mid-range gas mower I've owned. My complaint is about the retail sleight of hand where the base price (currently around $449 at the time of writing, tool-only) sounds reasonable until you add the 7.5Ah battery at roughly $199 and the rapid charger at $49. Full kit pricing runs around $650 to $700 depending on where you buy.
+The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best battery-powered self-propelled mower I've used at this price. The self-propel system is genuinely good, the 60-minute runtime holds up under real conditions, and the cut quality is competitive with any mid-range gas mower. My complaint is about the retail sleight of hand where the base price sounds reasonable until you add the 7.5Ah battery and the rapid charger separately. Full kit pricing.
 
 If you already own EGO batteries from a blower or trimmer, the tool-only version is a straightforward decision. If you don't own any EGO equipment, budget accordingly.
 
 **Bottom line.** Buy it. Just price it correctly before you do.
-
 
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
@@ -80,14 +79,13 @@ EGO's 60-minute claim is based on flat terrain with the self-propel off and pres
 
 With the 7.5Ah battery, the 56V system, and the self-propel running at a moderate pace, I consistently got 45 to 50 minutes before the battery indicator dropped to one bar. That covers my larger section with a few minutes left. (I timed this across four mowing sessions.) On flat, lighter-growth grass, the full 60 minutes is plausible.
 
-If you're mowing over an acre, plan for a second battery. The 5.0Ah battery (around $129) will get you through smaller sections; the 7.5Ah is the right choice for anything over 6,000 square feet.
+If you're mowing over an acre, plan for a second battery. The 5.0Ah battery will get you through smaller sections; the 7.5Ah is the right choice for anything over 6,000 square feet.
 
 ### The Touch Drive Self-Propel System
 
 This is the feature that separates the LM2135SP from EGO's non-self-propelled models, and it works better than I expected. The drive engages through a variable-speed lever behind the handle. Press lightly, it moves slowly. Press fully, it pulls at a brisk walking pace, close to 3.5 mph at maximum.
 
 ![Electric Lawn Mower Stihl](/images/articles/battery-equipment-3.jpg)
-
 
 The practical effect: if you've ever finished mowing a slope with your forearms aching from fighting a self-propel mower that wanted to go at one fixed speed, that's the problem this solves. The system is genuinely responsive to pressure rather than being binary. I do think the lever placement takes a few sessions to feel natural, but that's a minor adaptation cost.
 
@@ -106,7 +104,6 @@ Blade engagement is immediate. No priming, no choke, no pull cord. If you have s
 Measured at the operator position, the EGO runs around 77 dB. My previous gas mower, a Honda HRX217, ran closer to 95 dB. The difference is large enough that I no longer feel obligated to warn my neighbors before an early morning session. That's a practical benefit that doesn't show up in spec sheets but changes how you actually use the machine.
 
 ![Electric Lawn Mower Stihl](/images/articles/battery-equipment-4.jpg)
-
 
 ### Durability Over Time
 
@@ -142,7 +139,6 @@ The 5-year mower warranty and 3-year battery warranty are among the better cover
 
 ![Electric Lawn Mower Stihl](/images/articles/battery-equipment-5.jpg)
 
-
 **Don't buy this if.** Your lawn is over an acre and you're not willing to buy a second battery. The runtime is good for a battery mower; it's not a replacement for a gas mower on serious acreage without planning for multiple charges or multiple batteries. Also: if you have substantial slopes (over 20 degrees), look at the Husqvarna AWD options before committing here.
 
 **The Stihl question specifically.** If you're already running Stihl battery tools, I understand the instinct to stay in platform. The Stihl AP and AK battery systems are well-made and the ecosystem has grown. But Stihl's current mower lineup leans toward smaller push-only models, and there's no direct competitor to the LM2135SP in their catalog at this writing. You'd be crossing platforms either way. If you're invested in Stihl's handheld tools, you might look at the [Stihl battery edger](/stihl-battery-edger/) for trim work and use the EGO for mowing.
@@ -155,10 +151,9 @@ The cordless tool category has moved fast. For a broader view of where the platf
 
 ### Does the EGO LM2135SP come with the battery included?
 
-It depends on which version you buy. The tool-only version (ASIN B0857KWHHC) does not include the battery or charger. The combo kit versions, which include the 7.5Ah battery and rapid charger, run around $650 to $700 currently. If you already own EGO 56V batteries, the tool-only version is the better value. If you don't, buy the kit or budget for the battery separately.
+It depends on which version you buy. The tool-only version (ASIN B0857KWHHC) does not include the battery or charger. The combo kit versions, which include the 7.5Ah battery and rapid charger currently. If you already own EGO 56V batteries, the tool-only version is the better value. If you don't, buy the kit or budget for the battery separately.
 
 ![Electric Lawn Mower Stihl](/images/articles/battery-equipment-6.jpg)
-
 
 ### How does the EGO compare to a Stihl electric mower?
 
@@ -186,7 +181,7 @@ Yes. Any EGO 56V ARC Lithium battery works in the LM2135SP. A 2.5Ah battery will
       "name": "Does the EGO LM2135SP come with the battery included?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on which version you buy. The tool-only version (ASIN B0857KWHHC) does not include the battery or charger. The combo kit versions, which include the 7.5Ah battery and rapid charger, run around $650 to $700 currently. If you already own EGO 56V batteries, the tool-only version is the better value. If you don't, buy the kit or budget for the battery separately."
+ "text": "It depends on which version you buy. The tool-only version (ASIN B0857KWHHC) does not include the battery or charger. The combo kit versions, which include the 7.5Ah battery and rapid charger currently. If you already own EGO 56V batteries, the tool-only version is the better value. If you don't, buy the kit or budget for the battery separately."
       }
     },
     {
@@ -224,4 +219,3 @@ Yes. Any EGO 56V ARC Lithium battery works in the LM2135SP. A 2.5Ah battery will
   ]
 }
 </script>
-

@@ -7,8 +7,8 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node node_modules/@platform/core/scripts/validate-products.mjs && astro build && node node_modules/@platform/core/scripts/build-info.mjs && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
-    "deploy": "npm run build && npx wrangler pages deploy dist --project-name=four-season-gardener && node node_modules/@platform/core/scripts/verify-deploy.mjs",
+    "build": "node node_modules/@platform/core/scripts/validate-products.mjs && rm -f node_modules/.astro/data-store.json && astro build && node node_modules/@platform/core/scripts/build-info.mjs && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
+    "deploy": "npm run build && node node_modules/@platform/core/scripts/safe-deploy.mjs --project-name=four-season-gardener && node node_modules/@platform/core/scripts/verify-deploy.mjs",
     "postbuild": "node scripts/submit-indexnow.mjs",
     "submit-indexnow": "node scripts/submit-indexnow.mjs",
     "validate:asins": "node node_modules/@platform/core/scripts/validate-asins.mjs",

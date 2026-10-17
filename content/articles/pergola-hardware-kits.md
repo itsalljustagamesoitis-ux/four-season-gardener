@@ -15,7 +15,7 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
 tags: ["structures", "informational"]
@@ -42,14 +42,13 @@ This article is about how to choose pergola hardware kits, what to look for, and
 
 A pergola hardware kit is a pre-engineered package that provides either the structural connectors and fasteners needed to build a pergola from lumber, or a complete cut-and-drill kit where the lumber itself is included. The distinction matters more than most buyers realize before they start shopping.
 
-Connector-only kits give you the brackets and hardware. You source the lumber yourself, cut to dimension, and assemble. These run anywhere from $80 to $200 and can produce excellent results if you're comfortable with a miter saw and know your post spacing.
+Connector-only kits give you the brackets and hardware. You source the lumber yourself, cut to dimension, and assemble. These run from entry-level to mid-range and can produce excellent results if you're comfortable with a miter saw and know your post spacing.
 
-Complete kits include pre-cut, often pre-drilled lumber alongside the hardware. They cost significantly more, currently $400 to over $1,200 depending on size and material, but the time differential is real. If you've ever tried to cut a clean 60-degree rafter tail at 7 a.m. before company arrives, you understand why pre-cut matters.
+Complete kits include pre-cut, often pre-drilled lumber alongside the hardware. They cost significantly more to premium,200 depending on size and material, but the time differential is real. If you've ever tried to cut a clean 60-degree rafter tail at 7 a.m. before company arrives, you understand why pre-cut matters.
 
 Materials split into three main camps. Aluminum and vinyl kits are low-maintenance and weather-resistant, but they carry that look. Cedar and redwood kits have the warmth and weight that most homeowners actually want in a garden structure. Pressure-treated pine sits in the middle: cheaper upfront, heavier, and chemically treated in ways that some people prefer to avoid near food gardens or children's play areas.
 
 ![Pergola Hardware Kits](/images/articles/structures-4.jpg)
-
 
 ## Why the Hardware and Material Choice Matters Long-Term
 
@@ -63,12 +62,11 @@ For properties with significant wind exposure, the post connection hardware and 
 
 ## The Product Worth Your Money: Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the clearest recommendation I can make in the complete-kit category. It currently runs around $899 to $999 on Amazon, though pricing has fluctuated. Budget $950 as a working assumption.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the clearest recommendation I can make in the complete-kit category. It, though pricing has fluctuated. Budget for the premium price as a working assumption.
 
 What you get: North American cedar lumber that arrives pre-cut, pre-drilled, and pre-stained, plus the hardware to assemble a 10-foot by 12-foot freestanding pergola. The pre-stained finish isn't decorative theater. It's a functional first coat that buys you time before you need to apply your own topcoat, and it means the end-grain cuts were made before staining, which is the right order to do things.
 
 ![Pergola Hardware Kits](/images/articles/structures-5.jpg)
-
 
 Assembly time for two adults with basic tool literacy runs four to six hours. (I know people who've claimed two hours. I don't believe them.) The pre-drilling is the actual time-saver here. Aligning brackets and driving screws into pre-drilled holes is a different experience from marking and drilling your own, especially once you're up a ladder working on rafter connections.
 
@@ -76,7 +74,7 @@ The cedar quality is consistent with what Yardistry has delivered across their p
 
 **The honest trade-offs.** Cedar requires restaining every two to three years. That's not a flaw specific to this kit; it's the maintenance reality of any natural wood outdoor structure. If you want something you can install and forget for a decade, vinyl or powder-coated aluminum is your category. Cedar is the choice when you want something that looks like it belongs in a garden rather than a hardware store.
 
-The base kit provides shade through the open-rafter design, not rain coverage. Yardistry sells polycarbonate roof panels separately, currently around $180 to $220 for the size that fits this kit. If your goal is a covered outdoor space you can use during rain, budget for those panels at the outset. They attach without modification to the existing frame and do a reasonable job of shedding water without making the space feel like a greenhouse. Worth adding. If year-round covered outdoor living is the primary goal, though, you might find the purpose-built options in our [screened gazebo for deck](/screened-gazebo-for-deck/) coverage more appropriate.
+The base kit provides shade through the open-rafter design, not rain coverage. Yardistry sells polycarbonate roof panels separately for the size that fits this kit. If your goal is a covered outdoor space you can use during rain, budget for those panels at the outset. They attach without modification to the existing frame and do a reasonable job of shedding water without making the space feel like a greenhouse. Worth adding. If year-round covered outdoor living is the primary goal, though, you might find the purpose-built options in our [screened gazebo for deck](/screened-gazebo-for-deck/) coverage more appropriate.
 
 ## How to Install Pergola Hardware Kits: The Actual Process
 
@@ -84,8 +82,7 @@ This is the part where instruction manuals often lie by omission.
 
 ![Pergola Hardware Kits](/images/articles/structures-6.jpg)
 
-
-**Step 1: Footings first, always.** Determine whether you're anchoring to a concrete pad, existing deck, or setting posts in ground. For freestanding installations in soil, 24-inch minimum depth is standard in areas with significant frost. The Yardistry kit assumes post-to-bracket connections and doesn't include footing hardware. Budget an additional $40 to $60 for post bases if you're setting in concrete.
+**Step 1: Footings first, always.** Determine whether you're anchoring to a concrete pad, existing deck, or setting posts in ground. For freestanding installations in soil, 24-inch minimum depth is standard in areas with significant frost. The Yardistry kit assumes post-to-bracket connections and doesn't include footing hardware. Budget extra for post bases if you're setting in concrete.
 
 **Step 2: Lay out your post positions before anything is cut or set.** Use batter boards and string lines to establish your exact corners. The 10' x 12' dimension refers to the post spacing, not the overall footprint including rafter overhang. Measure twice, set footings once.
 
@@ -98,7 +95,6 @@ This is the part where instruction manuals often lie by omission.
 **Step 6: Post-assembly, before staining.** Fill any fastener recesses and sand the pre-drilled holes smooth. Then apply your topcoat of exterior wood stain. Doing this within the first season, before the cedar weathers to gray, keeps the maintenance cycle manageable.
 
 ![Pergola Hardware Kits](/images/articles/structures-7.jpg)
-
 
 ## Common Mistakes with Pergola Hardware Kits
 
@@ -124,10 +120,9 @@ For most complete kits including the Yardistry cedar kit, two adults with basic 
 
 ![Pergola Hardware Kits](/images/articles/structures-8.jpg)
 
-
 ### Do pergola kits include everything needed for installation?
 
-Complete kits like the Yardistry include lumber and primary hardware, but typically not footing hardware, concrete, or the post bases for ground mounting. Budget an additional $40 to $80 for those materials. Connector-only kits don't include lumber at all, so factor in lumber costs and your time cutting to dimension.
+Complete kits like the Yardistry include lumber and primary hardware, but typically not footing hardware, concrete, or the post bases for ground mounting. Budget extra for those materials. Connector-only kits don't include lumber at all, so factor in lumber costs and your time cutting to dimension.
 
 ### How long does a cedar pergola last?
 
@@ -159,7 +154,7 @@ This varies by municipality. Most jurisdictions require a permit for structures 
       "name": "Do pergola kits include everything needed for installation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Complete kits like the Yardistry include lumber and primary hardware, but typically not footing hardware, concrete, or the post bases for ground mounting. Budget an additional $40 to $80 for those materials. Connector-only kits don't include lumber at all, so factor in lumber costs and your time cutting to dimension."
+ "text": "Complete kits like the Yardistry include lumber and primary hardware, but typically not footing hardware, concrete, or the post bases for ground mounting. Budget extra for those materials. Connector-only kits don't include lumber at all, so factor in lumber costs and your time cutting to dimension."
       }
     },
     {
@@ -189,4 +184,3 @@ This varies by municipality. Most jurisdictions require a permit for structures 
   ]
 }
 </script>
-

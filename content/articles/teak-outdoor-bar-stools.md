@@ -39,7 +39,7 @@ This review covers the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](pr
 
 ## Quick Verdict
 Buy this if you want real wood grain, don't want to fuss with annual treatments, and are willing to let the colour shift gracefully over time. Skip it if you want zero maintenance and don't care about the difference between a teak plank and an injection-moulded chair that resembles one from a distance, or when your eyesight has deteriorated! 
-The chair is genuinely well-constructed from heartwood-only Grade A teak, and the price reflects that. Currently around $380 to $420 on Amazon, it sits above most POLYWOOD Adirondack models (which typically run $200 to $280) and well above the budget wood options flooding the market. The premium is defensible if you understand what you're buying. Keep reading and you will understand!
+The chair is genuinely well-constructed from heartwood-only Grade A teak, and the price reflects that. The premium is defensible if you understand what you're buying. Keep reading and you will understand!
 
 [Check current price on Amazon](product:titan-grade-a-teak-adirondack-chair)
 
@@ -56,16 +56,14 @@ A brief note on grading, because it matters here. Grade A teak comes from the de
 
 ![Teak Outdoor Bar Stools](/images/articles/outdoor-furniture-8.jpg)
 
-
 ## Performance and Testing
 
 ### Weather Resistance
-Litchfield County winters are not gentle. We get freeze-thaw cycling from November through March, wet springs, and humid summers that degrade lesser wood furniture inside a single season. I've tested this chair through one full Connecticut winter and into a second spring. No joint separation, no cracking, no swelling that affected fit or function. The mortise-and-tenon joinery held without any play developing over the winter, which is more than I can say for the teak-veneered pine Adirondack I ran for two seasons before replacing it.
+Litchfield County winters are not gentle. We get freeze-thaw cycling from November through March, wet springs, and humid summers that degrade lesser wood furniture inside a single season. This chair has been through one full Connecticut winter and into a second spring. No joint separation, no cracking, no swelling that affected fit or function. The mortise-and-tenon joinery held without any play developing over the winter, which is more than I can say for the teak-veneered pine Adirondack I ran for two seasons before replacing it.
 The natural oils in Grade A teak are what make this possible without intervention. The wood simply resists moisture absorption at a rate that lower-grade wood cannot match. Left untreated, the surface will begin its transition toward silver-grey within one season in full sun. By the end of year two, you'll have a fully weathered patina. This is not damage. It is, in fact, what high-end teak furniture does. The Hartman and Barlow Tyrie garden furniture I've admired at a neighbour's property looks exactly this way after a decade and remains structurally sound.
-If you want to preserve the original golden-brown colour, teak oil applied once a year (twice if you're in a particularly harsh climate, which Zone 6a qualifies as) will maintain it. Waterlox Original or Star Brite Teak Oil, both under $25 per litre, are adequate choices. Skipping treatment does not harm the chair in any way. It just changes its appearance over time.
+If you want to preserve the original golden-brown colour, teak oil applied once a year (twice if you're in a particularly harsh climate, which Zone 6a qualifies as) will maintain it. Waterlox Original or Star Brite Teak Oil, both entry-level per litre, are adequate choices. Skipping treatment does not harm the chair in any way. It just changes its appearance over time.
 
 ![Teak Outdoor Bar Stools](/images/articles/outdoor-furniture-1.jpg)
-
 
 ### Comfort and Build Quality
 The Adirondack geometry is traditional, low seat, reclined back, wide arms. This is comfortable for two or three hours of sitting. But it is not a dining posture, and the chair makes no pretence of being one. The seat slats have a slight contour, not a dramatic one, and the arm width is generous enough to hold a drink without anxiety. (I measured the flat arm surface at approximately 5 inches wide, which is the minimum I consider practical for glassware.)
@@ -78,7 +76,6 @@ POLYWOOD makes an excellent product. Its Adirondack chairs are UV-resistant, nea
 
 ![Teak Outdoor Bar Stools](/images/articles/outdoor-furniture-2.jpg)
 
-
 ## Pros and Cons
 
 **Pros:**
@@ -90,7 +87,7 @@ POLYWOOD makes an excellent product. Its Adirondack chairs are UV-resistant, nea
 **Cons:**
 - Requires teak oil every one to two years to maintain original colour and will weather to silver-grey otherwise
 - 35 to 40 lbs is heavy for a chair you'll want to move seasonally
-- Price (currently $380 to $420) is significantly higher than POLYWOOD Adirondack options that require zero maintenance
+- Price is significantly higher than POLYWOOD Adirondack options that require zero maintenance
 - Assembly required; hardware is included but the process adds 30 to 40 minutes
 
 [See Ash & Ember Grade A Teak Adirondack Chair on Amazon →](product:titan-grade-a-teak-adirondack-chair)
@@ -103,7 +100,7 @@ Buy it if you value real wood aesthetics over maintenance convenience, have a re
 
 ![Teak Outdoor Bar Stools](/images/articles/outdoor-furniture-3.jpg)
 
-The ideal buyer has a terrace or garden area with a stable layout, cares enough about material quality to oil the chair once a year (or is content to let it go silver-grey deliberately), and is not cross-shopping this against a $150 cedar chair from a big-box store. That cedar chair will need replacing. This one probably won't.
+The ideal buyer has a terrace or garden area with a stable layout, cares enough about material quality to oil the chair once a year (or is content to let it go silver-grey deliberately), and is not cross-shopping this against a cedar chair from a big-box store. That cedar chair will need replacing. This one probably won't.
 Skip it if portability matters, if you categorically refuse seasonal maintenance, or if you're furnishing a rental property or high-traffic area where the aesthetic difference stops mattering. In those situations, POLYWOOD is the answer, and I'd rather say so plainly than hedge toward the more expensive option.
 One specific scenario worth highlighting, if you're adding a single statement piece to a mixed seating arrangement, say, two of these teak chairs flanking a fire table, the weight becomes irrelevant, the aesthetics justify the price, and the durability question answers itself. That's the use case where this chair makes the clearest sense.
 
@@ -118,7 +115,6 @@ It's a real material difference. Grade A comes from the heartwood of mature teak
 You can leave it. Untreated Grade A teak will weather from golden-brown to silver-grey over one to two seasons, depending on sun exposure. The silver-grey patina is natural and does not indicate damage or degradation, the wood remains structurally sound. Oiling annually with a teak-specific product like Star Brite Teak Oil will maintain the original colour if that's your preference, though it's a cosmetic choice rather than a structural one.
 
 ![Teak Outdoor Bar Stools](/images/articles/outdoor-furniture-4.jpg)
-
 
 ### How does this compare to POLYWOOD Adirondack chairs?
 POLYWOOD is lower maintenance (no oiling, ever), lighter (typically 16 to 20 lbs), and less expensive at the comparable configuration. The teak chair offers real wood grain and aesthetics that moulded resin cannot replicate, and should have a longer structural lifespan if properly maintained. The choice depends on whether you're optimising for convenience or material quality. Both are legitimate priorities.

@@ -8,21 +8,21 @@ category: "Outdoor Living"
 hub: "fire-and-heat"
 hero_image: "articles/fire-and-heat-2.jpg"
 hero_image_alt: "Wood Burning Fire Pit Table"
-description: "Compare the Solo Stove Bonfire 2.0 and Gas One fire pit tables. Learn if the $250 price difference is worth it based on your needs."
+description: "Compare the Solo Stove Bonfire 2.0 and Gas One fire pit tables. Learn if the price difference is worth it based on your needs."
 target_keyword: "wood burning fire pit table"
 products:
   - id: "solo-stove-bonfire-2"
     role: "primary"
     article_specific_pros:
       - "Double-wall 360 airflow design dramatically reduces smoke vs traditional fire pits"
-      - "Removable ash pan simplifies cleanup , pull out and dump with no scooping"
+      - "Removable ash pan simplifies cleanup, pull out and dump with no scooping"
     article_specific_cons:
-      - "Uses only dry, seasoned hardwood , wet or green wood defeats the smokeless design"
+      - "Uses only dry, seasoned hardwood, wet or green wood defeats the smokeless design"
   - id: "gas-one-22in-wood-burning-fire-pit"
     role: "alternative"
     article_specific_pros:
-      - "Under $50 budget entry into wood-burning fire pits , lowest barrier for first-time buyers"
-      - "Mesh spark screen lid included , reduces flying ember risk on wooden decks"
+      - "Budget entry into wood-burning fire pits, lowest barrier for first-time buyers"
+      - "Mesh spark screen lid included, reduces flying ember risk on wooden decks"
     article_specific_cons:
       - "Lightweight steel will rust within 2-3 seasons without a cover or indoor storage"
 tags: ["fire-and-heat", "comparison"]
@@ -40,14 +40,14 @@ faq:
   - question: "How long does seasoned hardwood last in a wood-burning fire pit?"
     answer: "A standard fire in a Solo Stove Bonfire 2.0 using seasoned hardwood typically burns for two to three hours before needing significant restocking. Denser hardwoods like oak, hickory, and maple burn longer and produce more heat per log than softer woods like pine, which also produce more creosote and more smoke."
   - question: "Is the Gas One 22-inch fire pit a good choice for occasional use?"
-    answer: "For occasional backyard fires a few times per season, the Gas One at under $50 is a reasonable entry point — it includes a spark screen and poker and functions as a traditional campfire bowl. Its painted steel construction will rust within two to three seasons without a cover or indoor storage, so longevity depends entirely on how well you protect it between uses."
+    answer: "For occasional backyard fires a few times per season, the Gas One is a reasonable entry point — it includes a spark screen and poker and functions as a traditional campfire bowl. Its painted steel construction will rust within two to three seasons without a cover or indoor storage, so longevity depends entirely on how well you protect it between uses."
   - question: "How easy is it to clean ash out of the Solo Stove Bonfire 2.0?"
     answer: "The Bonfire 2.0 includes a removable ash pan that slides out from the bottom, allowing you to dispose of ash without scooping. Allow the fire pit to cool completely before handling the ash pan, and empty it before ash accumulation begins to block the bottom airflow vents, which would reduce combustion efficiency and increase smoke output."
 safety_topics:
   - heating
 ---
 
-There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](product:solo-stove-bonfire-2) runs around $300. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) runs under $50. That gap is the whole story, if you want the short version. If you want to know whether the $250 difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.
+There are two fire pits on Amazon that come up constantly in buyer conversations, and they are not particularly similar products. The [Solo Stove Bonfire 2.0 Smokeless Fire Pit](product:solo-stove-bonfire-2) is the premium option in this comparison. The [Gas One 22" Wood Burning Fire Pit with Mesh Lid and Poker](product:gas-one-22in-wood-burning-fire-pit) is the budget entry. That gap is the whole story, if you want the short version. If you want to know whether the price difference is worth it, that requires a more specific answer, because it depends almost entirely on how you use a wood burning fire pit table and what you're actually trying to solve.
 
 I've covered the broader category over at our [Fire Pits & Patio Heaters](/fire-and-heat/) hub if you're still in the early stages of figuring out what type of unit makes sense for your situation. This article assumes you've landed on wood-burning and you're trying to decide how much to spend.
 
@@ -55,7 +55,7 @@ I've covered the broader category over at our [Fire Pits & Patio Heaters](/fire-
 
 | | Solo Stove Bonfire 2.0 | Gas One 22" Fire Pit |
 |,|,|,|
-| Price (approx.) | ~$300 | Under $50 |
+| Price tier | Premium | Budget |
 | Diameter | 19.5 inches | 22 inches |
 | Weight | 20 lbs | ~12 lbs |
 | Material | 304 stainless steel | Painted steel |
@@ -79,7 +79,7 @@ I want to be direct about the conditions attached to that claim. "Smokeless" is 
 
 ### Build Quality and Longevity
 
-The 304 stainless steel construction is the other reason people pay $300 for this. At 20 lbs, the Bonfire 2.0 is light enough to carry to a different part of the property or bring on a camping trip, but the material is serious. With reasonable care (keeping it out of standing water, knocking out the ash, storing it under cover through winter), this should last a decade or more. Comparable units from Breeo, specifically the X Series 24 which I'd put in the premium tier above the Solo Stove at around $400, use similar stainless construction and similar longevity arguments.
+The 304 stainless steel construction is the other reason people pay a premium for this. At 20 lbs, the Bonfire 2.0 is light enough to carry to a different part of the property or bring on a camping trip, but the material is serious. With reasonable care (keeping it out of standing water, knocking out the ash, storing it under cover through winter), this should last a decade or more. Comparable units from Breeo, specifically the X Series 24 which I'd put in the premium tier above the Solo Stove, use similar stainless construction and similar longevity arguments.
 
 ### Cleanup
 
@@ -90,26 +90,26 @@ The removable ash pan is underrated. You slide it out from the bottom, walk it t
 
 ### What's Missing
 
-No spark screen comes in the box. If you're running this on a wooden deck or anywhere near furniture, you'll want one, and Solo Stove sells a compatible lid for around $40 to $60 depending on the current listing. No cooking grate either, which matters if you were hoping to grill over the fire. The Bonfire 2.0 isn't really designed for cooking, though Solo Stove does sell accessories that make it possible.
+No spark screen comes in the box. If you're running this on a wooden deck or anywhere near furniture, you'll want one, and Solo Stove sells a compatible lid separately. No cooking grate either, which matters if you were hoping to grill over the fire. The Bonfire 2.0 isn't really designed for cooking, though Solo Stove does sell accessories that make it possible.
 
 The 19.5-inch interior is comfortable for four to six people seated around it, and realistically fine up to eight if you're not crowded. It's not a large gathering fire.
 
 ## Why Choose the Gas One 22" Fire Pit
 
-The honest case for the [Gas One 22" Wood Burning Fire Pit](product:gas-one-22in-wood-burning-fire-pit) is simple. If you want a wood fire on a patio this weekend and you're not ready to spend $300, this gets you there for under $50. It includes a mesh spark screen and a poker. The 22-inch bowl is large enough to take standard split logs without further cutting. That's a reasonable entry point.
+The honest case for the [Gas One 22" Wood Burning Fire Pit](product:gas-one-22in-wood-burning-fire-pit) is simple. If you want a wood fire on a patio this weekend and you're not ready to spend at the premium price point, this gets you there at a budget price. It includes a mesh spark screen and a poker. The 22-inch bowl is large enough to take standard split logs without further cutting. That's a reasonable entry point.
 
 If you have children or pets, or you're positioning this on a wooden deck, the included mesh lid matters. Flying embers are a genuine concern with any open wood fire, and a spark screen reduces (not eliminates) that risk. The Solo Stove's design naturally reduces embers through more complete combustion, but the Gas One ships with physical protection included. That's worth acknowledging.
 
 ### The Smoke Situation
 
-This burns like a campfire because it is a campfire, architecturally speaking. Open bowl, no airflow optimization, no secondary combustion. Smoke will follow guests around the fire based on wind direction, and on a still night with damp wood you'll end up smelling like a bonfire for the next twelve hours. If that bothers you, the Gas One is the wrong product. If it doesn't, or if part of the appeal of a wood fire is exactly that smell and experience, then a $250 premium for reduced smoke is hard to justify.
+This burns like a campfire because it is a campfire, architecturally speaking. Open bowl, no airflow optimization, no secondary combustion. Smoke will follow guests around the fire based on wind direction, and on a still night with damp wood you'll end up smelling like a bonfire for the next twelve hours. If that bothers you, the Gas One is the wrong product. If it doesn't, or if part of the appeal of a wood fire is exactly that smell and experience, then a price premium for reduced smoke is hard to justify.
 
 ![Wood Burning Fire Pit Table](/images/articles/fire-and-heat-5.jpg)
 
 
 ### Durability
 
-Painted steel in outdoor conditions degrades. Two to three seasons is a realistic lifespan before rust becomes a structural problem, and that assumes you're using a cover or bringing it inside during hard winters. At $50, replacement is still cheaper than maintaining the Solo Stove over the same period, though my advice would be to factor in the cumulative cost if you're planning to use this long-term.
+Painted steel in outdoor conditions degrades. Two to three seasons is a realistic lifespan before rust becomes a structural problem, and that assumes you're using a cover or bringing it inside during hard winters. At a budget price, replacement is still cheaper than maintaining the Solo Stove over the same period, though my advice would be to factor in the cumulative cost if you're planning to use this long-term.
 
 A quality cover makes a significant difference to the lifespan of any steel pit, and if you're the type to leave things out through the season, that's worth building into the budget. We've covered [propane fire pit covers](/propane-fire-pit-cover/) elsewhere on the site, and the sizing and storage principles apply equally to wood-burning bowl pits.
 
@@ -119,12 +119,12 @@ The 22-inch diameter is slightly wider than the Solo Stove Bonfire 2.0's 19.5 in
 
 ## Verdict
 
-The Solo Stove Bonfire 2.0 is the better fire pit. It produces less smoke, cleans up in minutes, and will outlast the Gas One many times over with basic maintenance. If you're setting up a permanent or semi-permanent outdoor seating area and you want to use the fire pit regularly without rearranging guests every time the wind shifts, the $300 price is defensible.
+The Solo Stove Bonfire 2.0 is the better fire pit. It produces less smoke, cleans up in minutes, and will outlast the Gas One many times over with basic maintenance. If you're setting up a permanent or semi-permanent outdoor seating area and you want to use the fire pit regularly without rearranging guests every time the wind shifts, the premium price is defensible.
 
 ![Wood Burning Fire Pit Table](/images/articles/fire-and-heat-6.jpg)
 
 
-The Gas One 22" Fire Pit is the right call if you need a wood fire this season and you're not certain you'll use it consistently enough to justify a $300 purchase. It's also reasonable as a secondary pit for a property where you want fire in multiple locations without a significant per-unit investment.
+The Gas One 22" Fire Pit is the right call if you need a wood fire this season and you're not certain you'll use it consistently enough to justify the premium. It's also reasonable as a secondary pit for a property where you want fire in multiple locations without a significant per-unit investment.
 
 What I'd discourage is buying the Gas One as a path to eventually upgrading. You won't recoup the cost, and the experience gap between a smoky open bowl and a properly burning Solo Stove is large enough that people often end up using the cheaper unit less and less. Spend the money once, or be honest with yourself that an occasional-use, low-commitment fire pit is what you actually need right now.
 
@@ -147,11 +147,11 @@ The included mesh spark screen reduces flying ember risk, but no open wood fire 
 
 ### Do I need to buy anything extra for the Solo Stove Bonfire 2.0?
 
-At minimum, a spark screen if you're using it near a deck or furniture (around $40 to $60 from Solo Stove). If you plan to cook over it, a cooking grate or the Solo Stove "Cooking Ring" accessory runs another $50 to $80. The stand is sold separately as well and costs around $50, though it's worth it to protect whatever surface you're setting the pit on. Budget an additional $100 to $150 in accessories to fully equip it.
+At minimum, a spark screen if you're using it near a deck or furniture — Solo Stove sells a compatible one separately. If you plan to cook over it, a cooking grate or the Solo Stove "Cooking Ring" accessory is available separately. The stand is also sold separately and is worth it to protect whatever surface you're setting the pit on. Budget for additional accessories to fully equip it.
 
 ### How long will the Gas One fire pit last?
 
-Two to three seasons is realistic in most climates with moderate weather exposure. Rust starts at the welded joints and edges. You can extend the lifespan by covering it when not in use and storing it indoors through winter. At under $50, it may still be cost-effective to replace it on that cycle depending on how often you use it.
+Two to three seasons is realistic in most climates with moderate weather exposure. Rust starts at the welded joints and edges. You can extend the lifespan by covering it when not in use and storing it indoors through winter. At a budget price, it may still be cost-effective to replace it on that cycle depending on how often you use it.
 
 ### What size fire pit do I need for a group of six to eight people?
 
@@ -183,7 +183,7 @@ The Solo Stove Bonfire 2.0 at 19.5 inches works for that size group, though peop
       "name": "Do I need to buy anything extra for the Solo Stove Bonfire 2.0?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At minimum, a spark screen if you're using it near a deck or furniture (around $40 to $60 from Solo Stove). If you plan to cook over it, a cooking grate or the Solo Stove \"Cooking Ring\" accessory runs another $50 to $80. The stand is sold separately as well and costs around $50, though it's worth it to protect whatever surface you're setting the pit on. Budget an additional $100 to $150 in accessories to fully equip it."
+        "text": "At minimum, a spark screen if you're using it near a deck or furniture — Solo Stove sells a compatible one separately. If you plan to cook over it, a cooking grate or the Solo Stove \"Cooking Ring\" accessory is available separately. The stand is also sold separately and is worth it to protect whatever surface you're setting the pit on. Budget for additional accessories to fully equip it."
       }
     },
     {
@@ -191,7 +191,7 @@ The Solo Stove Bonfire 2.0 at 19.5 inches works for that size group, though peop
       "name": "How long will the Gas One fire pit last?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Two to three seasons is realistic in most climates with moderate weather exposure. Rust starts at the welded joints and edges. You can extend the lifespan by covering it when not in use and storing it indoors through winter. At under $50, it may still be cost-effective to replace it on that cycle depending on how often you use it."
+        "text": "Two to three seasons is realistic in most climates with moderate weather exposure. Rust starts at the welded joints and edges. You can extend the lifespan by covering it when not in use and storing it indoors through winter. At a budget price, it may still be cost-effective to replace it on that cycle depending on how often you use it."
       }
     },
     {

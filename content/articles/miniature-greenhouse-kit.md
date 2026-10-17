@@ -17,14 +17,14 @@ products:
       - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
       - "Polycarbonate panels diffuse light evenly without scorching seedlings"
     article_specific_cons:
-      - "Very small growing area , best for seedlings and overwintering a few tender plants"
+      - "Very small growing area, best for seedlings and overwintering a few tender plants"
   - id: "palram-hybrid-6x8-greenhouse"
     role: "also_consider"
     article_specific_pros:
       - "Twin-wall polycarbonate roof panels retain more heat than single-wall alternatives"
       - "Compact 6x8 footprint fits most suburban backyards; smallest practical full greenhouse size"
     article_specific_cons:
-      - "Lower internal headroom than 8x12 or 8x16 models , limits tall-crop growing"
+      - "Lower internal headroom than 8x12 or 8x16 models, limits tall-crop growing"
   - id: "palram-snap-grow-6x12-greenhouse"
     role: "also_consider"
     article_specific_pros:
@@ -42,7 +42,7 @@ products:
   - id: "palram-lean-to-greenhouse"
     role: "also_consider"
     article_specific_pros:
-      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
+      - "Attaches to a house wall, uses structural support and wall heat for efficiency"
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
@@ -125,7 +125,6 @@ One practical note: as of this writing, this listing shows only third-party sell
 
 ![Miniature Greenhouse Kit](/images/articles/structures-6.jpg)
 
-
 ,
 
 ### Palram Canopia Snap & Grow 6 Ft. x 12 Ft. Greenhouse Kit: Best for Tight Side Yards
@@ -157,12 +156,11 @@ The tradeoff for the lower price is single-wall polycarbonate panels throughout.
 
 **[Palram Canopia Essence 8 Ft. x 16 Ft. Greenhouse Kit](product:palram-essence-8x16-greenhouse)**
 
-The Essence 8x16 is the product you eventually wish you'd bought the first time. I say that because I know people who started with a 6x8 and outgrew it in two seasons. This runs around $1,800 to $2,200 depending on timing and where you order (at the time of writing). That's a real number, and it's worth pausing on before you buy something smaller as a placeholder.
+The Essence 8x16 is the product you eventually wish you'd bought the first time. I say that because I know people who started with a 6x8 and outgrew it in two seasons. This. That's a real number, and it's worth pausing on before you buy something smaller as a placeholder.
 
 The 4mm twin-wall polycarbonate panels block 99.9% of UV while diffusing light evenly across the growing area. The powder-coated aluminum frame is rated for 15 lbs per square foot snow load, which is the number that matters if you're gardening where heavy late-season snow is a real event. Built-in gutters channel rainwater off the roof rather than letting it pool against the base. A sliding door with a lockable handle is a small detail that adds up over the life of the structure.
 
 ![Miniature Greenhouse Kit](/images/articles/structures-7.jpg)
-
 
 Assembly is a two-person, full-weekend job. Plan for that rather than hoping it goes faster. There is no base included at this price, which is an odd omission and means you need a prepared, level foundation before anything goes up. Factor in the foundation cost if you don't already have a prepared site. For that project, I'd also look at our notes on an [insulated garden shed](/insulated-garden-shed/) for what site prep looks like at a similar structural scale.
 
@@ -193,7 +191,6 @@ The low-end headroom is limited because the lean-to design angles from the wall 
 
 ![Miniature Greenhouse Kit](/images/articles/structures-8.jpg)
 
-
 **Pros.**
 - Wall attachment provides structural support and passive heat
 - Passive roof vent requires no electricity
@@ -213,7 +210,7 @@ The low-end headroom is limited because the lean-to design angles from the wall 
 
 ### Cold Frame vs. Full Greenhouse
 
-The Plant Inn is not a greenhouse. I covered this above, but it deserves a clear header because online listings blur the categories. If you search "miniature greenhouse kit," you'll get results ranging from pop-up fabric tunnels to 8x16 polycarbonate structures. The Plant Inn, and most products in the sub-$300 range, are cold frames or season extenders. They extend your growing window. They don't replace a walk-in structure.
+The Plant Inn is not a greenhouse. I covered this above, but it deserves a clear header because online listings blur the categories. If you search "miniature greenhouse kit," you'll get results ranging from pop-up fabric tunnels to 8x16 polycarbonate structures. The Plant Inn, and most products in the entry-level range, are cold frames or season extenders. They extend your growing window. They don't replace a walk-in structure.
 
 A full greenhouse starts at the Hybrid 6x8. Everything below that size is a cold frame or cloche category, whatever the marketing says.
 
@@ -230,7 +227,6 @@ Two things are consistently underestimated by first-time buyers. First, interior
 Second, assembly timelines on the box are optimistic. Any Palram structure in the 6x8 range or larger is a two-person job. The Essence 8x16 is a full weekend. (I'm not saying this to discourage you. I'm saying it because people schedule Saturday morning and then discover they're still reading instructions Sunday afternoon.) Have the right tools out before you start, read the instructions before you touch the parts, and don't plan anything else for the day.
 
 ![Miniature Greenhouse Kit](/images/articles/structures-1.jpg)
-
 
 ### Foundation Requirements
 
@@ -290,4 +286,3 @@ The
   ]
 }
 </script>
-

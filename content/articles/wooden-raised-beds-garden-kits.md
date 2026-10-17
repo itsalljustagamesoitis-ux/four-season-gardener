@@ -14,10 +14,10 @@ products:
   - id: "land-guard-galvanized-raised-bed"
     role: "best_overall"
     article_specific_pros:
-      - "#1 Best Seller in Raised Garden Beds on Amazon , 12,000+ reviews, proven demand"
-      - "Oval design eliminates corner dead zones , all soil is within arm's reach from either side"
+      - "#1 Best Seller in Raised Garden Beds on Amazon, 12,000+ reviews, proven demand"
+      - "Oval design eliminates corner dead zones, all soil is within arm's reach from either side"
     article_specific_cons:
-      - "1-foot depth is shallow , adequate for lettuce, herbs, and flowers but limiting for tomatoes or carrots"
+      - "1-foot depth is shallow, adequate for lettuce, herbs, and flowers but limiting for tomatoes or carrots"
   - id: "frame-it-all-composite-4x8"
     role: "also_consider"
     article_specific_pros:
@@ -31,11 +31,11 @@ products:
       - "17-inch depth deep enough for tomatoes, carrots, and squash without restriction"
       - "Aluzinc-coated steel resists corrosion 3-5x longer than standard galvanized"
     article_specific_cons:
-      - "Metal panels get hot in direct sun , can affect soil temperature in hot climates"
+      - "Metal panels get hot in direct sun, can affect soil temperature in hot climates"
   - id: "greenes-cedar-4x8-standard"
     role: "also_consider"
     article_specific_pros:
-      - "North American cedar resists rot naturally without chemical treatment , safe for edibles"
+      - "North American cedar resists rot naturally without chemical treatment, safe for edibles"
       - "3/4-inch thick boards are substantially sturdier than 1/2-inch competitor kits at similar prices"
     article_specific_cons:
       - "10.5-inch depth is adequate for most crops but shallower than premium 17-inch metal beds"
@@ -45,7 +45,7 @@ products:
       - "Thermoplastic base allows use on decks and patios without damaging surfaces"
       - "15-inch depth suits most vegetables in a compact profile"
     article_specific_cons:
-      - "One size configuration , no modular expansion"
+      - "One size configuration, no modular expansion"
 tags: ["raised-beds", "roundup"]
 disclosure_required: true
 noindex: false
@@ -62,7 +62,7 @@ faq:
     answer: "Galvanized and aluzinc-coated metal beds outlast wood significantly — quality steel beds last 20 or more years — and they don't rot, splinter, or absorb moisture. The main trade-off is that metal panels heat up in direct summer sun, which can warm the soil and stress plant roots in hot climates; this is manageable with mulching but worth considering before purchasing."
 ---
 
-Wooden raised beds get most of the Pinterest attention, but the kits that actually sell , and hold up , span wood, composite, and metal. If you've searched "wooden raised beds garden kits" and ended up here, I'll save you some time: the best kit for your situation depends on what you're growing, where you're placing it, and how long you want it to last before it turns into a composting project of its own. This roundup covers five kits across three materials and three price points, with a clear recommendation at each level. No padding, no false equivalencies.
+Wooden raised beds get most of the Pinterest attention, but the kits that actually sell, and hold up, span wood, composite, and metal. If you've searched "wooden raised beds garden kits" and ended up here, I'll save you some time: the best kit for your situation depends on what you're growing, where you're placing it, and how long you want it to last before it turns into a composting project of its own. This roundup covers five kits across three materials and three price points, with a clear recommendation at each level. No padding, no false equivalencies.
 
 For more context on soil depth, layout planning, and what to fill your beds with before you buy anything, the [Raised Beds](/raised-beds/) hub is a good starting point.
 
@@ -74,7 +74,7 @@ For more context on soil depth, layout planning, and what to fill your beds with
 
 [Land Guard Galvanized Raised Garden Bed Kit, Oval, 8x4x1ft](product:land-guard-galvanized-raised-bed)
 
-Currently around $35 to $45 depending on the color you choose, this is the number-one best-selling raised bed on Amazon with over 12,000 reviews. That kind of volume tells you something. It's not because it's the fanciest option on the market.
+That kind of volume tells you something. It's not because it's the fanciest option on the market.
 
 The oval shape is actually smarter than it looks. A standard rectangular bed leaves corner soil that's awkward to reach from either side without stepping in. With this oval, every square inch of soil is within arm's reach from the long edges. For a bed you're weeding and harvesting from daily, that matters more than it sounds.
 
@@ -84,13 +84,13 @@ Assembly is tool-free and takes about fifteen minutes. The galvanized steel is s
 - Oval footprint eliminates corner dead zones
 - Galvanized steel at a price most wood kits can't match
 - Tool-free assembly, genuinely fast
-- Over 12,000 reviews , real-world durability data at scale
+- Over 12,000 reviews, real-world durability data at scale
 
 **Cons:**
 - 12-inch depth is the hard ceiling here. Fine for lettuce, herbs, strawberries, and annual flowers. Limiting for tomatoes, carrots, or anything with a tap root deeper than eight inches
 - Standard galvanized coating, not Aluzinc. In wet climates with freeze-thaw winters, expect a shorter corrosion lifespan than premium coated steel beds
 
-**Verdict:** If you want a starter bed for salad crops or cut flowers and you don't want to spend more than $45, this is the correct choice. Don't try to grow tomatoes in it.
+**Verdict:** If you want a starter bed for salad crops or cut flowers and you're on a budget, this is the correct choice. Don't try to grow tomatoes in it.
 
 ,
 
@@ -100,10 +100,9 @@ Assembly is tool-free and takes about fifteen minutes. The galvanized steel is s
 
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-8.jpg)
 
-
 [Frame It All One Inch Series 4' x 8' x 11" Composite Raised Garden Bed](product:frame-it-all-composite-4x8)
 
-Priced around $80 to $95 at the time of writing, the Frame It All composite kit occupies a useful middle position: it looks more like wood than metal, it won't rot, and it's expandable if you decide 11 inches isn't deep enough after your first season.
+The Frame It All composite kit occupies a useful middle position: it looks more like wood than metal, it won't rot, and it's expandable if you decide 11 inches isn't deep enough after your first season.
 
 The snap-together assembly requires no tools and no hardware you'll lose in the garage. Boards connect at the corners with interlocking brackets, and if you want to add height, you buy additional boards and stack them. That expandability is underrated for beginners who aren't sure yet how deep they want to go.
 
@@ -129,12 +128,11 @@ Composite won't crack, splinter, or absorb moisture the way pressure-treated or 
 
 [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed, Olive Green](product:vego-garden-6in1-17inch)
 
-This is the one I'd buy if I were starting fresh. Currently around $180 to $220 depending on size configuration, the Vego 17-inch is the most capable bed in this roundup by a meaningful margin.
+This is the one I'd buy if I were starting fresh. 
 
 The 17-inch depth is what separates it from most competitors. Standard raised bed kits run 10 to 12 inches. That's adequate for lettuce and herbs, acceptable for determinate tomatoes if you're lucky with your soil. For indeterminate tomatoes, carrots, parsnips, squash, or any serious root vegetable, 17 inches gives the root system room to do what it needs to do without hitting the bottom of the container.
 
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-1.jpg)
-
 
 The coating is Aluzinc, not standard galvanized. In practice, that means corrosion resistance roughly three to five times better than a zinc-only coating. If you're in a region with wet winters, spring standing water, or high rainfall, this distinction matters over a five-to-ten-year horizon. Compare it against the [Land Guard](#land-guard-galvanized-raised-bed) above and the coating difference is real.
 
@@ -160,14 +158,13 @@ The 6-in-1 modular system lets the same panels configure into six different shap
 
 [Greenes Fence Premium Cedar Raised Garden Bed, 4' x 8' x 10.5"](product:greenes-cedar-4x8-standard)
 
-Priced around $70 to $90, the Greenes Fence cedar kit is the most popular cedar raised bed on Amazon, and for good reason. North American cedar contains natural oils that resist rot and insect damage without any chemical treatment. For edible gardens where you're thinking about what's in contact with your soil, that matters.
+The Greenes Fence cedar kit is the most popular cedar raised bed on Amazon, and for good reason. North American cedar contains natural oils that resist rot and insect damage without any chemical treatment. For edible gardens where you're thinking about what's in contact with your soil, that matters.
 
 The boards are 3/4-inch thick. That's a specific number worth paying attention to because competing kits at similar prices often run 1/2-inch boards that flex under soil pressure and start to warp by year two. The Greenes boards are substantially sturdier, and the pre-cut sizing with included corner brackets means assembly requires no tools and about twenty minutes. (I've assembled faster kits and slower ones. Twenty minutes is honest.)
 
 The 10.5-inch depth is adequate for most annual vegetables. It won't limit your lettuce, herbs, peppers, or determinate tomatoes. For deep-rooted crops, you'd want the 17.5-inch tall version of this same kit, which is a different product and worth looking up separately.
 
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-2.jpg)
-
 
 Cedar grays naturally as it weathers. Some people like the look. If you don't, a coat of boiled linseed oil or tung oil in year one, and every other year after that, will preserve the warm color. Neither oil introduces anything problematic near edibles.
 
@@ -191,7 +188,7 @@ Cedar grays naturally as it weathers. Some people like the look. If you don't, a
 
 [Birdies Metal Raised Garden Bed with Thermoplastic Base, 43"x20"x15"](product:birdies-metal-raised-garden-bed)
 
-Around $120 to $140 at current pricing, the Birdies patio bed solves a specific problem: how do you grow vegetables on a deck or balcony without damaging the surface below and without hauling something impossibly heavy up three flights of stairs?
+the Birdies patio bed solves a specific problem: how do you grow vegetables on a deck or balcony without damaging the surface below and without hauling something impossibly heavy up three flights of stairs?
 
 The thermoplastic base is the differentiator here. A metal base would scratch hardwood decking and conduct heat directly to whatever surface it's sitting on. The thermoplastic protects the deck, adds a small insulating buffer, and is light enough to reposition without committing to permanent placement.
 
@@ -208,7 +205,6 @@ At 15 inches deep and 43 by 20 inches across, this fits most balcony and deck si
 - The thermoplastic base can crack under sustained extreme cold. If you're leaving this outside through hard winters in a northern climate, bring it in or store it off the ground
 
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-3.jpg)
-
 
 **Verdict:** If you're growing on a deck or balcony, this is the correct choice in this roundup. Nothing else here is designed for that use case. The thermoplastic base limitation in hard winters is real, but manageable.
 
@@ -245,7 +241,6 @@ If you're not sure how deep you want to go, the Frame It All composite kit's sta
 For more on planning your raised bed layout and calculating how much soil you'll need, the [raised bed planning resources here](/raised-beds/) cover those questions in detail.
 
 ![Wooden Raised Beds Garden Kits](/images/articles/raised-beds-4.jpg)
-
 
 ,
 
@@ -319,4 +314,3 @@ You don't need to line it for the soil's sake. Most gardeners add a layer of car
   ]
 }
 </script>
-

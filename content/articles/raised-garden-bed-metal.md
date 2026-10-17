@@ -17,7 +17,7 @@ products:
       - "17-inch depth deep enough for tomatoes, carrots, and squash without restriction"
       - "Aluzinc-coated steel resists corrosion 3-5x longer than standard galvanized"
     article_specific_cons:
-      - "Metal panels get hot in direct sun , can affect soil temperature in hot climates"
+      - "Metal panels get hot in direct sun, can affect soil temperature in hot climates"
   - id: "vegega-17inch-6in1-metal-bed"
     role: "alternative"
     article_specific_pros:
@@ -59,14 +59,12 @@ For a broader look at material and configuration options before you commit, the 
 | Edge safety | Standard (sharp during assembly) | Rounded safety edges |
 | Color options | Multiple, including Olive Green | More limited selection |
 | Assembly clarity | Good | Instructions can be confusing |
-| Current price (approx.) | $140,$180 depending on configuration | $130,$170 depending on configuration |
 
 Prices at time of writing. Both fluctuate with Amazon promotions and which configuration you're ordering.
 
 The coating terminology is worth unpacking because both brands use it as a selling point and it genuinely matters. Standard galvanized steel uses a zinc coating. Aluzinc (Vego's material) adds aluminum to that zinc layer, significantly improving corrosion resistance. VEGEGA's zinc-aluminum-magnesium coating takes this a step further on paper, adding magnesium for enhanced edge and cut-surface protection. Whether that translates to meaningful real-world longevity difference over a 10-plus-year ownership window is something neither brand can actually prove yet. Both coatings are a legitimate upgrade over basic galvanized. Don't let anyone sell you basic galvanized at a premium price by dressing it up as something else.
 
 ![Raised Garden Bed Metal](/images/articles/raised-beds-5.jpg)
-
 
 ## Why Choose Vego Garden
 
@@ -77,7 +75,6 @@ The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6
 The six configuration options are more useful than they sound. The ability to go from a standard rectangle to an L-shape, hexagon, or irregular polygon means you can work around an existing tree, follow a slope, or fit a narrow side yard that a fixed-dimension bed couldn't accommodate. I've configured mine as an L-shape along a fence line, which I mention only because the assembly was genuinely straightforward once I stopped trying to follow the diagram and just laid the panels out on the ground first. (Do that.)
 
 ![Raised Garden Bed Metal](/images/articles/raised-beds-6.jpg)
-
 
 ### What to Watch
 
@@ -93,10 +90,9 @@ The rounded safety edges are not a marketing footnote. If you've assembled a met
 
 ![Raised Garden Bed Metal](/images/articles/raised-beds-7.jpg)
 
-
 The zinc-aluminum-magnesium coating is the other genuine differentiator. Adding magnesium to the zinc-aluminum alloy improves protection specifically at cut edges and corners, which are typically the first places corrosion takes hold on metal garden beds. Both Vego and VEGEGA are using premium coatings relative to the broader market, but VEGEGA's material specification is marginally better on paper for long-term edge protection.
 
-At current pricing, VEGEGA typically runs $10,$20 less than the comparable Vego configuration (at time of writing), which is not a dramatic difference but is real money if you're buying two or three beds at once. I've seen gardeners dismiss this as negligible, but if you're building out a full kitchen garden setup across several beds, the gap compounds.
+At current pricing, VEGEGA typically runs a bit less than the comparable Vego configuration, which is not a dramatic difference but is real money if you're buying two or three beds at once. I've seen gardeners dismiss this as negligible, but if you're building out a full kitchen garden setup across several beds, the gap compounds.
 
 The 17-inch depth matches Vego, so there's no compromise on root space. Deep-rooted crops, root vegetables, anything with significant below-ground development: VEGEGA handles the same plant list.
 
@@ -109,7 +105,6 @@ Color selection is narrower than Vego's. If the aesthetic of your beds matters t
 VEGEGA is also worth keeping in mind as a practical alternative when Vego Garden inventory runs low. Both beds ship from similar supply chains, and Vego's flagship products go out of stock more frequently during peak spring ordering. If you're planning a spring installation and waiting on Vego availability, VEGEGA is not a compromise pick.
 
 ![Raised Garden Bed Metal](/images/articles/raised-beds-8.jpg)
-
 
 For comparison against cedar and other materials, the [Birdies Metal Raised Garden Beds](/birdies-metal-raised-garden-beds/) article covers a third metal option worth considering, and if you're still evaluating whether metal is the right call for your setup at all, the [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) piece lays out where wood still makes more sense.
 
@@ -130,7 +125,6 @@ If you're still working through the wider decision about materials and configura
 With a quality coating like Aluzinc or zinc-aluminum-magnesium, expect 15,20 years under normal conditions, and potentially longer in drier climates. Standard galvanized beds are more typically rated for 8,10 years. The coating type matters more than the gauge of the steel for longevity in most garden environments.
 
 ![Raised Garden Bed Metal](/images/articles/raised-beds-1.jpg)
-
 
 ### Is a 17-inch raised bed deep enough for tomatoes?
 
@@ -196,4 +190,3 @@ Both systems are modular, and both brands sell additional panels that allow reco
   ]
 }
 </script>
-

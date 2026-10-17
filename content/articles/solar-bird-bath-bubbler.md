@@ -29,7 +29,7 @@ faq:
   - question: "How often do I need to clean and refill a solar bubbler bath?"
     answer: "Refilling every one to two days is realistic in summer heat with the pump running. Moving water stays cleaner than standing water, but algae still builds up around basin edges and under the pump in warm weather. Scrub with a stiff brush every few days. Do not use bleach or soap since residue can harm birds."
   - question: "Is the AquaNura worth it if my bath location is partly shaded?"
-    answer: "No. The pump tested weakly and intermittently with only two hours of dappled sunlight reaching the panel. That is a physics constraint, not a product defect, and the AquaNura does nothing to overcome it. If your ideal bath location is shaded, you need a battery-backed or plug-in fountain rather than a solar unit."
+    answer: "No. The pump weakly and intermittently with only two hours of dappled sunlight reaching the panel. That is a physics constraint, not a product defect, and the AquaNura does nothing to overcome it. If your ideal bath location is shaded, you need a battery-backed or plug-in fountain rather than a solar unit."
   - question: "What birds does a solar bubbler at ground level actually attract?"
     answer: "Robins, house finches, sparrows, wrens, and warblers during migration are reliably drawn to moving water at ground level. Ground-level placement pulls in a somewhat different set of visitors than elevated pedestal baths, so if you are already running a standard pedestal setup, a ground-level solar bubbler can add species variety rather than just duplicate what you have."
 safety_topics:
@@ -46,18 +46,15 @@ The [Smart Solar AquaNura Bubbler Birdbath](product:smart-solar-aquanura-birdbat
 
 The Smart Solar AquaNura is a legitimate product that does what it says in the right conditions. It's not a full birdbath. It's a solar-powered pump kit with a shallow basin that you can either drop into an existing bath bowl or set directly on the ground. In full sun, the pump runs well. In shade, it doesn't. If your proposed location gets four or more hours of direct sun daily, this works. If it doesn't, nothing about this product will fix that.
 
-Currently around $45 to $55 on Amazon at the time of writing. For what it delivers in that range, it's a reasonable buy.
+For what it delivers in that range, it's a reasonable buy.
 
 [Check current price on Amazon](product:smart-solar-aquanura-birdbath)
-
-## What We Tested
 
 ### The Product Itself
 
 Let me be direct about what the AquaNura actually is, because the listing can create confusion. This is not a pedestal birdbath with a solar pump attached. It's a 9-inch diameter circular basin, roughly 2 inches deep, with a small solar panel on an 18-inch flexible stem and a submersible pump that connects to two interchangeable fountain heads. One head produces a 360-degree spray pattern. The other is a bubbler that pushes a low dome of water up through the center.
 
 ![Solar Bird Bath Bubbler](/images/articles/birds-wildlife-7.jpg)
-
 
 The basin is molded resin in a gray finish with a textured stone appearance. It passes casual visual inspection from a few feet away. Up close it reads as plastic, which it is.
 
@@ -77,7 +74,6 @@ In the primary test location, the pump ran consistently from about 30 minutes af
 
 ![Solar Bird Bath Bubbler](/images/articles/birds-wildlife-8.jpg)
 
-
 The bubbler head produces a dome of water about 3 to 4 inches high. Not dramatic, but birds don't need dramatic. They need the sound and the movement. I had my first bird visitors, a pair of American robins, within two days of setting the unit up. By the end of the first week, house finches and a Carolina wren had added it to their regular circuit. (I have other feeding stations nearby, which matters for context. An isolated bath in a yard with nothing else drawing birds will take longer to get traffic regardless of what product you're using.)
 
 The 360-degree spray head throws water in a wider arc and looks livelier, but it also wets the surrounding soil and can empty the basin faster on hot days. I ran the bubbler head for most of the test.
@@ -91,7 +87,6 @@ Predictably, it struggles. Under the pin oak, with maybe two hours of dappled su
 The 9-inch basin holds about a cup and a half of water when full. In summer heat with the pump running, you're looking at refilling every one to two days. That is the honest number. (I timed this over two weeks of above-80-degree weather.) If you're away for a long weekend and there's no rain, the basin will run dry. A dry pump running against a dry basin can shorten the motor's life over time. Something to factor in.
 
 ![Solar Bird Bath Bubbler](/images/articles/birds-wildlife-1.jpg)
-
 
 Setting the AquaNura inside a larger existing bath bowl significantly extends the time between refills and is probably the smarter long-term setup for anyone who can't check it daily.
 
@@ -119,8 +114,7 @@ Pump performance is entirely dependent on sunlight. This is the fundamental cons
 
 ![Solar Bird Bath Bubbler](/images/articles/birds-wildlife-2.jpg)
 
-
-No battery backup or reservoir. When the sun drops, the water goes still. Some competing units in the $70 to $90 range include a small battery buffer that keeps the pump running for an hour or two after clouds move in. The AquaNura doesn't have that.
+No battery backup or reservoir. When the sun drops, the water goes still. Some competing units in the range include a small battery buffer that keeps the pump running for an hour or two after clouds move in. The AquaNura doesn't have that.
 
 [See Smart Solar AquaNura Bubbler Birdbath, Grey on Amazon →](product:smart-solar-aquanura-birdbath)
 
@@ -154,12 +148,10 @@ One category that won't come regardless: hummingbirds. They prefer drippers or m
 
 ## Who Should Buy This
 
-If you have a sunny garden bed, a deck in direct sun, or an existing bath bowl that birds have ignored, the AquaNura is a straightforward, low-cost way to add water movement without any installation work. At around $50, it's not a significant financial commitment.
+If you have a sunny garden bed, a deck in direct sun, or an existing bath bowl that birds have ignored, the AquaNura is a straightforward, low-cost way to add water movement without any installation work. it's not a significant financial commitment.
 
 It pairs well with an established feeding setup. If you've already worked out a good feeder arrangement, perhaps using a [bird feeder pole with squirrel baffle](/bird-feeder-pole-with-squirrel-baffle/) to keep the feeders secure, adding a solar bath nearby gives birds a reason to spend more time in the area rather than just passing through.
 
 It's not the right product if your ideal bath location is shaded, if you travel frequently and can't refill every couple of days, or if you want something that also functions as a garden focal point. The AquaNura is functional. It is not decorative.
 
 If you want to do more with your bird yard generally, our full [bird feeding and bath resources](/birds-wildlife/) cover everything from feeder placement to species-specific setups worth reading before you buy more hardware.
-
-

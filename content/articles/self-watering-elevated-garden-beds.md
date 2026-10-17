@@ -17,14 +17,14 @@ products:
       - "17-inch depth deep enough for tomatoes, carrots, and squash without restriction"
       - "Aluzinc-coated steel resists corrosion 3-5x longer than standard galvanized"
     article_specific_cons:
-      - "Metal panels get hot in direct sun , can affect soil temperature in hot climates"
+      - "Metal panels get hot in direct sun, can affect soil temperature in hot climates"
   - id: "birdies-metal-raised-bed-patio"
     role: "alternative"
     article_specific_pros:
       - "Thermoplastic base allows use on decks and patios without damaging surfaces"
       - "15-inch depth suits most vegetables in a compact profile"
     article_specific_cons:
-      - "One size configuration , no modular expansion"
+      - "One size configuration, no modular expansion"
 tags: ["raised-beds", "comparison"]
 disclosure_required: true
 noindex: false
@@ -53,7 +53,6 @@ I've been testing and evaluating raised bed options across my 12-acre property f
 
 | | Vego Garden 17" 6-in-1 | Birdies 43"x20"x15" |
 |,|,|,|
-| Price (approx.) | $180-$220 | $130-$160 |
 | Depth | 17 inches | 15 inches |
 | Material | Aluzinc-coated steel | Colorbond steel + thermoplastic base |
 | Configurations | 6 modular shapes | Fixed single size |
@@ -68,7 +67,6 @@ The 17-inch depth is the main reason to buy this bed, and it's worth taking seri
 
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-3.jpg)
 
-
 The Aluzinc coating is genuine differentiation, not just marketing language. Standard galvanized steel used in budget raised beds gives you zinc coating that oxidizes within a few seasons in wet conditions. Aluzinc is an aluminum-zinc-silicon alloy, and Vego claims it lasts three to five times longer than standard galvanized under garden conditions. Whether it achieves the higher end of that range depends on your local rainfall and drainage, but the coating is measurably more durable. If you've watched a cheaper galvanized bed go orange along the bottom panels after two hard winters, you'll appreciate why this matters.
 
 ### Modular Flexibility
@@ -79,12 +77,11 @@ One real caution on assembly: the panel edges are sharp before the clips hold ev
 
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-4.jpg)
 
-
 The other thing to know: in full afternoon sun, the metal panels absorb heat and transfer it to the adjacent soil. In Connecticut this is a minor issue for a few weeks in July and August. If you're gardening in Georgia or Arizona, you may need to think about this more carefully, and planting away from the panel edges is a reasonable mitigation.
 
 If you're coming from a wood bed background and comparing your options, the discussion in our [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) article covers why metal tends to outlast cedar and pine at this price range, which informs whether the Vego's price premium makes sense for your situation.
 
-The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) currently runs around $185-$220 on Amazon depending on the configuration and any active promotions.
+The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) currently.
 
 ## Why Choose the Birdies Metal Raised Garden Bed
 
@@ -94,12 +91,11 @@ The Colorbond steel panels have been tested specifically for garden use. No toxi
 
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-5.jpg)
 
-
 Fifteen inches of depth handles most annual vegetables competently. Determinate tomato varieties, peppers, eggplant, beans, most root vegetables. You're not going to grow parsnips in 15 inches, but most kitchen garden crops work fine.
 
 ### The Surface Protection Question
 
-If you're comparing the Birdies to a standard raised bed plunked on your deck with nothing underneath, the thermoplastic base earns its cost quickly. Deck repairs are expensive. Replacing boards damaged by two seasons of trapped moisture costs more than this bed's entire retail price, currently around $135-$160 at the time of writing.
+If you're comparing the Birdies to a standard raised bed plunked on your deck with nothing underneath, the thermoplastic base earns its cost quickly. Deck repairs are expensive. Replacing boards damaged by two seasons of trapped moisture costs more than this bed's entire retail price.
 
 The one real material concern is cold performance. The thermoplastic base can crack in sustained extreme cold, particularly with freeze-thaw cycling. If you're in a climate that drops well below freezing for extended periods, bring the bed in or drain and store it before winter. Leaving it outside filled with soil through a hard winter is asking for a cracked base come spring.
 
@@ -107,16 +103,15 @@ The single-size configuration is a real limitation compared to the Vego. You get
 
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-6.jpg)
 
-
 The [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) is the cleaner choice if surface protection is your primary constraint.
 
 ## Verdict
 
 These two beds are not competing for the same buyer, which makes the choice more straightforward than most comparisons in this category.
 
-Buy the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) if you're installing on soil or lawn and growing deep-rooted vegetables. The 17-inch depth justifies the price premium on its own if you're serious about tomatoes or root crops. The modular flexibility adds long-term value if your growing setup is likely to change. Expect to pay around $185-$220. Assembly requires gloves and about 30-40 minutes.
+Buy the [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) if you're installing on soil or lawn and growing deep-rooted vegetables. The 17-inch depth justifies the price premium on its own if you're serious about tomatoes or root crops. The modular flexibility adds long-term value if your growing setup is likely to change. Expect to pay. Assembly requires gloves and about 30-40 minutes.
 
-Buy the [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) if you're on a deck, patio, or balcony. The surface protection justifies the entire purchase price before you've grown a single vegetable. The 15-inch depth is sufficient for the majority of kitchen garden crops. Budget around $135-$160 and plan to bring it in before serious cold if you're in a climate with hard winters.
+Buy the [Birdies Metal Raised Garden Bed with Thermoplastic Base](product:birdies-metal-raised-garden-bed) if you're on a deck, patio, or balcony. The surface protection justifies the entire purchase price before you've grown a single vegetable. The 15-inch depth is sufficient for the majority of kitchen garden crops. Budget and plan to bring it in before serious cold if you're in a climate with hard winters.
 
 If you're still working through whether a metal raised bed is the right choice at all versus a cedar or composite option, the full range of options is covered in our [raised bed guides](/raised-beds/). The [cedar raised garden bed kit](/cedar-raised-garden-bed-kit/) article in particular covers when wood still makes sense at this price tier.
 
@@ -129,7 +124,6 @@ Neither of these is a budget product. Both are worth the price for the right app
 Technically yes, but the open base means drainage runs directly onto the surface underneath. On a wood deck, that's a problem over time. On concrete or stone, it's manageable. If your primary location is a deck, the Birdies is the better choice specifically because of its thermoplastic base.
 
 ![Self Watering Elevated Garden Beds](/images/articles/raised-beds-7.jpg)
-
 
 ### Is 15 inches deep enough for tomatoes?
 
@@ -195,4 +189,3 @@ Neither bed ships with a built-in self watering reservoir, despite appearing in 
   ]
 }
 </script>
-

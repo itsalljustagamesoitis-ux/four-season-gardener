@@ -21,7 +21,7 @@ products:
   - id: "alpine-3tier-pedestal-birdbath"
     role: "also_consider"
     article_specific_pros:
-      - "Classic tiered fountain design catches overflow in lower basins , birds use all levels"
+      - "Classic tiered fountain design catches overflow in lower basins, birds use all levels"
       - "Resin construction is lightweight and frost-resistant vs heavy cast concrete alternatives"
     article_specific_cons:
       - "Resin can fade or become brittle after several years of direct UV exposure"
@@ -31,18 +31,18 @@ products:
       - "Ring Pull Advantage lid removes with one hand for fast, mess-free refilling"
       - "Six feeding stations accommodate multiple bird species simultaneously"
     article_specific_cons:
-      - "No squirrel deterrent , needs a baffle pole or dome purchased separately"
+      - "No squirrel deterrent, needs a baffle pole or dome purchased separately"
   - id: "first-nature-3055-hummingbird-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Wide-mouth base unscrews completely for easy cleaning , the biggest hummingbird feeder frustration solved"
+      - "Wide-mouth base unscrews completely for easy cleaning, the biggest hummingbird feeder frustration solved"
       - "10 feeding ports accommodate multiple hummingbirds simultaneously during peak migration"
     article_specific_cons:
-      - "32 oz capacity requires frequent cleaning in summer heat , nectar ferments in 3-5 days"
+      - "32 oz capacity requires frequent cleaning in summer heat, nectar ferments in 3-5 days"
   - id: "natures-hangout-window-bird-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Clear acrylic mounting brings birds within inches of indoor viewers , best close-up wildlife experience"
+      - "Clear acrylic mounting brings birds within inches of indoor viewers, best close-up wildlife experience"
       - "Large capacity (4+ cups) handles multiple species simultaneously"
     article_specific_cons:
       - "Birds may take days or weeks to discover and trust a window-mounted feeder"
@@ -74,8 +74,6 @@ A note before the picks: three of the five products below are bird feeders, not 
 
 **[Smart Solar AquaNura Bubbler Birdbath, gray](product:smart-solar-aquanura-birdbath)**
 
-Price: currently around $35,$45 on Amazon.
-
 This is the most direct answer to the bird bath water wiggler question. The AquaNura is a 9-inch solar-powered basin with an integrated pump. Drop it into an existing bird bath bowl as an insert, or use it as a standalone ground-level dish. Two fountain heads are included: a 360-degree spray and a lower bubbler head. Both work without any wiring, no electrical connection, no running costs beyond the initial purchase.
 
 The pump runs on the onboard solar panel and starts moving water within a few seconds of direct sun hitting it. In practice, that means it's active most of a clear summer morning and into the afternoon, and drops off when cloud cover moves in. On overcast days, it may run intermittently or not at all. That's a real limitation if you were hoping for consistent water movement in a shaded garden position. (I moved mine twice to find the right sun exposure, which I realize is a specific complaint about my property layout, not necessarily yours.)
@@ -83,7 +81,6 @@ The pump runs on the onboard solar panel and starts moving water within a few se
 The attraction effect is real. A bath that was largely ignored in the same spot for two seasons started drawing house finches and American robins within three days of adding the AquaNura. Whether that's 3x or 4x more birds than static I couldn't tell you with precision, but the difference was obvious and fast. If you're interested in the mechanics of solar pump selection more broadly, the [Solar Bubbler For Bird Bath](/solar-bubbler-for-bird-bath/) article covers that in more depth.
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-8.jpg)
-
 
 **Pros.**
 Solar-powered with zero wiring or operating cost. Includes two fountain heads. Starts attracting birds quickly once installed. Works as an insert or standalone.
@@ -99,13 +96,11 @@ Stops functioning without direct sun. The 9-inch diameter is genuinely small. If
 
 **[Alpine Corporation 35" Tall 3-Tier Pedestal Birdbath, Green](product:alpine-3tier-pedestal-birdbath)**
 
-Price: currently around $45,$55 on Amazon.
-
 If you don't have an existing bath to drop a solar insert into, this is a reasonable entry point. The three-tier design means overflow from the top basin catches in the lower basins, so birds have options at different heights. In practice, robins tend to monopolize the larger lower basin while smaller birds use the upper level. The 35-inch height keeps the water surface above ground-level predator range, which matters if you have cats in the neighborhood.
 
 Construction is resin, not cast concrete or stone. That's actually an advantage in climates with hard winters and freeze-thaw ground movement, where a heavy concrete bath will crack within a few seasons if you leave water in it. Resin survives the cold better and is light enough to bring inside a garage or shed for winter storage without requiring help. The tradeoff is longevity under UV exposure. After three or four years of direct summer sun, resin will start to fade and may become brittle at stress points. It's not a ten-year product at this price.
 
-The more significant limitation is that the water is static. No pump, no movement. Birds will use it, but less reliably and less frequently than they'd use moving water. The fix is obvious: add the Smart Solar AquaNura above as an insert. The combined cost would still be under $90, and the result is a properly functional bath setup rather than a decorative piece.
+The more significant limitation is that the water is static. No pump, no movement. Birds will use it, but less reliably and less frequently than they'd use moving water. The fix is obvious: add the Smart Solar AquaNura above as an insert. The combined cost would still be entry-level and the result is a properly functional bath setup rather than a decorative piece.
 
 **Pros.**
 Good price for a complete pedestal unit. Three-tier design offers multiple water levels. Lightweight and frost-resistant. Classic look that works in most garden settings.
@@ -113,7 +108,7 @@ Good price for a complete pedestal unit. Three-tier design offers multiple water
 **Cons.**
 No pump. Static water is less effective at attracting birds. Resin fades with prolonged UV exposure. Not a product you'll still have in a decade.
 
-**Verdict:** Acceptable starter bath. Budget $40 more and add a solar bubbler to make it work properly.
+**Verdict:** Acceptable starter bath. Budget a bit more and add a solar bubbler to make it work properly.
 
 ,
 
@@ -122,9 +117,6 @@ No pump. Static water is less effective at attracting birds. Resin fades with pr
 **[Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)**
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-1.jpg)
-
-
-Price: currently around $28,$35 on Amazon.
 
 Droll Yankees has been making feeders in the United States since 1969 and backs them with a lifetime guarantee. This particular tube feeder holds about one pound of sunflower seed across six feeding ports. One pound sounds like a lot until peak migration season, when it's gone in a day.
 
@@ -146,18 +138,15 @@ Lifetime guarantee. UV-stable tube won't yellow or crack. One-handed lid is a ge
 
 **[First Nature 3055 32-oz Hummingbird Feeder, Red](product:first-nature-3055-hummingbird-feeder)**
 
-Price: currently around $10,$14 on Amazon.
-
 The most common reason hummingbirds stop visiting a feeder is old nectar. Nectar ferments in warm weather in three to five days, and cleaning a hummingbird feeder with a narrow neck and fixed ports is annoying enough that people put it off. Then the hummingbirds leave and don't come back.
 
 The First Nature 3055 solves this by making cleaning straightforward. The wide-mouth base unscrews completely, which means you can actually get a brush into every part of it. Ten feeding ports means multiple birds can feed simultaneously without the territorial chasing that happens at two- or four-port feeders during peak migration. (I've watched four ruby-throated hummingbirds on this feeder at the same time, which is a fairly chaotic thing to see.)
 
-The red color does the attracting work without needing dye in the nectar. Plain sugar water, 1 part sugar to 4 parts water, is what you want. Food coloring is unnecessary and potentially harmful. At around $12, this is the kind of product where the right answer is just to buy it and not overthink the decision.
+The red color does the attracting work without needing dye in the nectar. Plain sugar water, 1 part sugar to 4 parts water, is what you want. Food coloring is unnecessary and potentially harmful. this is the kind of product where the right answer is just to buy it and not overthink the decision.
 
-The aesthetic is purely functional. It's a red plastic container on a hanger. If that bothers you, there are blown-glass feeders in the $40,$60 range that look better and hold less. The First Nature holds more, cleans more easily, and costs less. That's the trade.
+The aesthetic is purely functional. It's a red plastic container on a hanger. If that bothers you, there are blown-glass feeders in the range that look better and hold less. The First Nature holds more, cleans more easily, and costs less. That's the trade.
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-2.jpg)
-
 
 **Pros.**
 Wide-mouth base makes cleaning genuinely easy. Ten ports, 32 oz capacity. Red color attracts without dye in nectar. Excellent value.
@@ -165,15 +154,13 @@ Wide-mouth base makes cleaning genuinely easy. Ten ports, 32 oz capacity. Red co
 **Cons.**
 Needs cleaning every 3,5 days in summer heat. Plastic construction, not attractive in a decorative sense.
 
-**Verdict:** Best hummingbird feeder under $15 by a margin. If you're new to feeding hummingbirds and want to know more about placement and timing, the cleaning and maintenance principles covered in our [Bird Feeder For Mealworms](/bird-feeder-for-mealworms/) piece apply to nectar feeders too.
+**Verdict:** Best hummingbird feeder entry-level by a margin. If you're new to feeding hummingbirds and want to know more about placement and timing, the cleaning and maintenance principles covered in our [Bird Feeder For Mealworms](/bird-feeder-for-mealworms/) piece apply to nectar feeders too.
 
 ,
 
 ### Nature's Hangout Window Bird Feeder
 
 **[Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)**
-
-Price: currently around $30,$38 on Amazon.
 
 If you don't have a yard, or don't want to deal with poles and placement decisions, a window feeder is the category to look at. The Nature's Hangout mounts directly to glass via suction cups, holds over four cups of seed, and puts birds at arm's length on the other side of the window. The close-up experience is different from watching birds through binoculars across a yard. Children in particular find it immediately engaging.
 
@@ -199,7 +186,6 @@ Birds may take weeks to discover it. Cleaning requires removing from window. Suc
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-3.jpg)
 
-
 The one thing to be clear about: a solar bubbler like the AquaNura is not a full recirculating pond pump. It moves a small amount of water in a pleasing visible pattern. It doesn't filter the water or keep it clean. You still need to change the water and scrub the basin every few days, particularly in warm weather when algae and mosquito larvae become a concern.
 
 ### Solar vs. Battery vs. Wired
@@ -220,7 +206,4 @@ Water and food in the same area of the garden create a stronger draw than either
 
 ![Bird Bath Water Wiggler](/images/articles/birds-wildlife-4.jpg)
 
-
 ,
-
-

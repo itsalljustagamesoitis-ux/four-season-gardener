@@ -17,7 +17,7 @@ products:
       - "80 sq ft of storage handles a full complement of lawn and garden equipment"
       - "Padlockable doors; reinforced corners resist wind racking"
     article_specific_cons:
-      - "Steel walls can condensate inside in humid climates , ventilation kit recommended"
+      - "Steel walls can condensate inside in humid climates, ventilation kit recommended"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -42,12 +42,11 @@ This article covers what building a garden shed from pallets actually involves, 
 
 A pallet shed is a small storage structure built using reclaimed wooden shipping pallets as the primary wall material. The pallets are typically stood upright and secured to a base frame, then filled or clad with additional wood, plywood, or OSB to close the gaps. A roof is added using standard framing lumber and your choice of roofing material.
 
-The appeal is obvious: pallets are often free from garden centers, hardware stores, lumber yards, and warehouses. A basic 8x8 shed footprint might require 12 to 16 standard 48x40 pallets for the walls alone, which sounds like a zero-cost build until you price out everything else. Roofing, fasteners, a treated lumber base, weatherproofing, and cladding can put you at $300 to $600 before you've touched a saw.
+The appeal is obvious: pallets are often free from garden centers, hardware stores, lumber yards, and warehouses. A basic 8x8 shed footprint might require 12 to 16 standard 48x40 pallets for the walls alone, which sounds like a zero-cost build until you price out everything else. Roofing, fasteners, a treated lumber base, weatherproofing, and cladding add up quickly before you've touched a saw.
 
 That said, the structure can work. I've seen well-built pallet sheds that have lasted eight or nine years. The key variables are pallet quality, base construction, and whether you take weatherproofing seriously from the start.
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-4.jpg)
-
 
 ## Why the Base Material Matters More Than People Expect
 
@@ -66,7 +65,6 @@ A pallet shed built on bare ground will fail within a few years regardless of ho
 If you're also thinking through foundation options for a more permanent structure, the [flat roof garden shed](/flat-roof-garden-shed/) article covers base and drainage considerations worth reading alongside this one.
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-5.jpg)
-
 
 ## Building a Pallet Shed: Step by Step
 
@@ -94,7 +92,6 @@ Pallets have gaps. For a tool shed this is workable but not great. For year-roun
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-6.jpg)
 
-
 ### Step 6: Frame and Roof
 
 Standard gable or lean-to framing applies here. Use treated lumber for the top plate if possible. Attach roof trusses or rafters at 24 inches on center, sheathe with OSB, and apply 30-lb felt plus metal roofing or asphalt shingles. Metal roofing tends to perform better long-term on a structure that may move slightly with seasonal ground shift.
@@ -111,7 +108,7 @@ Build or buy a door. A simple plywood Z-brace door is entirely adequate. Add a t
 
 **No corner reinforcement.** Pallets standing on their own will lean and separate. The corner posts aren't decoration.
 
-**Underestimating the cladding cost.** T1-11 siding runs roughly $40 to $55 per 4x8 sheet currently. An 8x8 shed with 7-foot walls needs around 10 sheets minimum, which is $400 to $550 in siding alone, before paint.
+**Underestimating the cladding cost.** T1-11 siding runs per 4x8 sheet currently. An 8x8 shed with 7-foot walls needs around 10 sheets minimum in siding alone, before paint.
 
 **Ignoring interior condensation.** Wood structures trap moisture. If you're storing metal tools, fertilizers, or anything sensitive to humidity, ventilation is not a nice-to-have.
 
@@ -121,17 +118,15 @@ If the labor calculation isn't working out, or if you have concerns about pallet
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-7.jpg)
 
+it's more upfront than a free-pallet build, but less than most people spend once they actually price out lumber, cladding, roofing, and hardware for a DIY project. The 80 square feet of storage handles a full complement of lawn equipment, including a riding mower if you configure the doors correctly. The electro-galvanized steel panels don't rot, don't attract termites, and don't require painting. The reinforced corners resist wind racking reasonably well for a structure in this price range.
 
-At around $680 to $750 currently on Amazon, it's more upfront than a free-pallet build, but less than most people spend once they actually price out lumber, cladding, roofing, and hardware for a DIY project. The 80 square feet of storage handles a full complement of lawn equipment, including a riding mower if you configure the doors correctly. The electro-galvanized steel panels don't rot, don't attract termites, and don't require painting. The reinforced corners resist wind racking reasonably well for a structure in this price range.
-
-The cons are real. Steel walls condensate in humid summers, which means a ventilation kit is worth adding at purchase (around $20 to $30 extra). The floor kit is sold separately and most buyers miss this until they're mid-assembly. Plan on $60 to $80 additional for a floor panel kit if you want a solid floor rather than setting it on gravel. Assembly for one person takes most of a day. (I'd plan for a full day and call it a win if you finish in six hours.)
+The cons are real. Steel walls condensate in humid summers, which means a ventilation kit is worth adding at purchase. The floor kit is sold separately and most buyers miss this until they're mid-assembly. Plan on an additional purchase for a floor panel kit if you want a solid floor rather than setting it on gravel. Assembly for one person takes most of a day. (I'd plan for a full day and call it a win if you finish in six hours.)
 
 It's not a beautiful structure. If you want something that reads as part of the garden rather than adjacent to it, a steel shed is not that. But if your priority is durable, low-maintenance storage that doesn't require repainting every three years, it's a reasonable buy. Compare it to the Suncast Tremont or the Lifetime 60057 in the same footprint range, and the Arrow holds up on price-to-square-footage, though the Lifetime's high-density polyethylene panels shed moisture better in particularly wet climates.
 
 For further reading on how this type of structure fits into a broader property plan, the articles in our [garden structures and outbuildings section](/structures/) cover options from greenhouse kits to screened gazebos.
 
 ![Building A Garden Shed From Pallets](/images/articles/structures-8.jpg)
-
 
 ## Frequently Asked Questions
 
@@ -203,4 +198,3 @@ Yes, and it's worth doing if you plan to store anything temperature-sensitive or
   ]
 }
 </script>
-

@@ -17,7 +17,7 @@ products:
       - "8-inch edger gives a clean, defined lawn edge without a gas engine"
       - "Multi-Head System means one battery powers multiple EGO attachments"
     article_specific_cons:
-      - "Multi-Head power head required , not a traditional standalone edger"
+      - "Multi-Head power head required, not a traditional standalone edger"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
@@ -38,7 +38,7 @@ safety_topics:
 
 If you've been searching "Stihl battery edger" hoping to find a cordless version of the KA 85 or the HSA line, you've probably already noticed that Stihl's cordless edger options are either unavailable on Amazon or difficult to source outside of authorized dealers. That's not a knock on Stihl. Their battery platform is serious equipment, as anyone who's run their AP series tools can tell you. But if you need to buy today, from a platform with wide retail availability and a mature battery ecosystem, the [EGO Power+ ME0801 Multi Combo Kit](product:ego-me0801-edger-combo-b07b) is what I'd point you toward.
 
-This review covers that kit in detail. It's currently around $199 on Amazon, though prices shift. The short version: it's a capable edger that earns its place in a larger battery tool strategy, not a standalone impulse buy.
+This review covers that kit in detail. The short version: it's a capable edger that earns its place in a larger battery tool strategy, not a standalone impulse buy.
 
 If you're building out a cordless tool setup and want to understand how this fits into a broader approach, the site's [Battery & Cordless Tools](/battery-equipment/) section covers compatible platforms, battery specs, and comparable products worth comparing before you commit.
 
@@ -49,8 +49,6 @@ The [EGO Power+ ME0801](product:ego-me0801-edger-combo-b07b) delivers a clean, d
 If you already own EGO equipment, this is an easy add. If you're starting from scratch and you only ever want an edger, there are simpler options. But if you're replacing a shed full of single-task gas tools with battery alternatives, the multi-head logic starts to make real financial sense.
 
 ![Stihl Battery Edger](/images/articles/battery-equipment-2.jpg)
-
-
 
 [Check current price on Amazon](product:ego-me0801-edger-combo-b07b)
 
@@ -74,10 +72,9 @@ Overgrown edges, where grass has been encroaching onto pavement for a season or 
 
 ![Stihl Battery Edger](/images/articles/battery-equipment-3.jpg)
 
-
 ### Battery and Runtime
 
-The 2.5Ah battery included in this kit is EGO's entry-level capacity for the 56V platform. It works fine for a standard residential session. If you're edging a half-acre or more of border in one go, you may want the 5.0Ah battery (around $119 separately at the time of writing). The good news about the EGO platform is that all 56V batteries are cross-compatible. If you already own a higher-capacity battery from an EGO mower or blower, that's what you'd use.
+The 2.5Ah battery included in this kit is EGO's entry-level capacity for the 56V platform. It works fine for a standard residential session. If you're edging a half-acre or more of border in one go, you may want the 5.0Ah battery. The good news about the EGO platform is that all 56V batteries are cross-compatible. If you already own a higher-capacity battery from an EGO mower or blower, that's what you'd use.
 
 For reference, if you've been comparing cordless leaf blowers in a similar power range, the battery behavior is consistent. A 2.5Ah gives you a solid 20 to 25 minutes under moderate load, which is enough for most edging runs but not an extended session.
 
@@ -90,7 +87,6 @@ I run the [EGO hedge trimmer attachment](/ego-hedge-trimmer-attachment/) on the 
 The downside is ergonomics. The power head adds length and some weight distribution awkwardness compared to a purpose-built edger. If you've used a dedicated wheel-edger like the Husqvarna 118iE or the Black+Decker LE750, the feel is different. The ME0801 handles more like a string trimmer configured as an edger than a true dedicated edger. For most residential work, this is fine. For very long edging runs on uneven terrain, it can be tiring.
 
 ![Stihl Battery Edger](/images/articles/battery-equipment-4.jpg)
-
 
 ### Vibration and Noise
 
@@ -120,7 +116,6 @@ If you're already running EGO tools and you don't own an edger, this is straight
 
 ![Stihl Battery Edger](/images/articles/battery-equipment-5.jpg)
 
-
 If you're evaluating a broader move away from gas tools, the multi-head logic is worth taking seriously. I've covered similar platform decisions around the [EGO hedge trimmer with battery and charger](/ego-hedge-trimmer-with-battery-and-charger/) and the [EGO pole hedge trimmer](/ego-pole-hedge-trimmer/), both of which run on the same 56V battery. If an edger is one of four or five tools you're planning to replace, starting here makes sense.
 
 If you want one simple edger and nothing else, and you have no intention of building out a battery platform, there are less expensive dedicated options. The EGO ME0801 isn't trying to be a bargain-entry tool. It's a platform investment.
@@ -141,10 +136,9 @@ Yes, provided they're on the 56V ARC Lithium platform, which covers EGO's main p
 
 ![Stihl Battery Edger](/images/articles/battery-equipment-6.jpg)
 
-
 ### Can I buy just the edger attachment without the full kit?
 
-Yes. EGO sells the edger attachment separately (ME0800) for around $89 to $99 at the time of writing. You'd need a compatible Multi-Head power head to run it. If you already own the MHC1001 or the newer MHC1002, the attachment works directly. If you don't own a power head, buying the kit is almost always cheaper than buying the power head and attachment separately.
+Yes. EGO sells the edger attachment separately (ME0800). You'd need a compatible Multi-Head power head to run it. If you already own the MHC1001 or the newer MHC1002, the attachment works directly. If you don't own a power head, buying the kit is almost always cheaper than buying the power head and attachment separately.
 
 ### How does this compare to a dedicated wheel edger?
 
@@ -152,7 +146,7 @@ A dedicated wheel-style edger, like the McLane or the Husqvarna 118iE, has a dif
 
 ### What battery size should I use for larger properties?
 
-The included 2.5Ah battery handles a standard residential edging session of 20 to 30 minutes. For larger properties or extended sessions, EGO's 5.0Ah battery (around $119 currently) or the 7.5Ah battery (around $219) will give you significantly more runtime. All are compatible with the same power head.
+The included 2.5Ah battery handles a standard residential edging session of 20 to 30 minutes. For larger properties or extended sessions, EGO's 5.0Ah battery or the 7.5Ah battery will give you significantly more runtime. All are compatible with the same power head.
 
 ### Does this edger work on curved or irregular borders?
 
@@ -176,7 +170,7 @@ Yes, within reason. The handheld configuration actually gives you more flexibili
       "name": "Can I buy just the edger attachment without the full kit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. EGO sells the edger attachment separately (ME0800) for around $89 to $99 at the time of writing. You'd need a compatible Multi-Head power head to run it. If you already own the MHC1001 or the newer MHC1002, the attachment works directly. If you don't own a power head, buying the kit is almost always cheaper than buying the power head and attachment separately."
+ "text": "Yes. EGO sells the edger attachment separately (ME0800). You'd need a compatible Multi-Head power head to run it. If you already own the MHC1001 or the newer MHC1002, the attachment works directly. If you don't own a power head, buying the kit is almost always cheaper than buying the power head and attachment separately."
       }
     },
     {
@@ -192,7 +186,7 @@ Yes, within reason. The handheld configuration actually gives you more flexibili
       "name": "What battery size should I use for larger properties?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The included 2.5Ah battery handles a standard residential edging session of 20 to 30 minutes. For larger properties or extended sessions, EGO's 5.0Ah battery (around $119 currently) or the 7.5Ah battery (around $219) will give you significantly more runtime. All are compatible with the same power head."
+ "text": "The included 2.5Ah battery handles a standard residential edging session of 20 to 30 minutes. For larger properties or extended sessions, EGO's 5.0Ah battery or the 7.5Ah battery will give you significantly more runtime. All are compatible with the same power head."
       }
     },
     {
@@ -206,4 +200,3 @@ Yes, within reason. The handheld configuration actually gives you more flexibili
   ]
 }
 </script>
-

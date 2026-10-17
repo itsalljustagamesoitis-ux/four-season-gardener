@@ -14,7 +14,7 @@ products:
   - id: "polywood-nautical-dining-set"
     role: "primary"
     article_specific_pros:
-      - "All-weather HDPE , won't rot, splinter, or require seasonal storage"
+      - "All-weather HDPE, won't rot, splinter, or require seasonal storage"
       - "Seats 6; 73-inch table works for large family gatherings"
     article_specific_cons:
       - "Very heavy set; not designed to move frequently"
@@ -52,12 +52,11 @@ The POLYWOOD Nautical Trestle set includes a 73-inch rectangular trestle table a
 
 ![Teak Outdoor Dining Table Set](/images/articles/outdoor-furniture-3.jpg)
 
-
 Frame material is POLYWOOD's HDPE (high-density polyethylene) lumber, made from recycled plastic. Hardware is stainless steel throughout. The trestle base design adds visual weight and stability. Weight per piece varies, but the full set is not light. Plan accordingly.
 
 POLYWOOD backs this with a 20-year warranty, which is genuinely unusual in this category and is worth pricing into your decision.
 
-Pricing runs around $2,200 to $2,500 for the complete 7-piece set at the time of writing, depending on retailer and current promotions.
+Pricing,500 for the complete 7-piece set at the time of writing, depending on retailer and current promotions.
 
 [Check current price on Amazon](product:polywood-nautical-dining-set)
 
@@ -67,14 +66,13 @@ Pricing runs around $2,200 to $2,500 for the complete 7-piece set at the time of
 
 HDPE lumber doesn't absorb water, which means it won't rot, won't swell, won't splinter, and won't develop the gray, chalky surface real teak gets when left unoiled through wet springs and hard winters. I left a POLYWOOD piece outside through three full seasons without covering it. It required nothing except a spray-down before the season started. I will note that the teak colorway does fade slightly in full sun over multiple years, but POLYWOOD sells touch-up products and the fade is gradual and even rather than blotchy.
 
-Real teak left unmaintained goes silver and checks. Some people love that look. If you want to preserve the honey color on actual teak, you're oiling it annually, which takes time and costs money in product (a good teak oil like Star Brite runs around $20 to $30 a quart and you'll use most of a quart on a table this size). Over a decade, that's a non-trivial line item on top of the original cost.
+Real teak left unmaintained goes silver and checks. Some people love that look. If you want to preserve the honey color on actual teak, you're oiling it annually, which takes time and costs money in product (a good teak oil like Star Brite is a recurring annual purchase and you'll use most of a quart on a table this size). Over a decade, that's a non-trivial line item on top of the original cost.
 
 ### Stability and Construction
 
 The trestle base is solid. On a level surface, there's no rock or flex. The joinery is tight and the stainless hardware shows no signs of corrosion after extended exposure. The chairs have a slight flex in the back, which I initially read as a construction weakness. It isn't. It's intentional and gives the chairs a better seated feel than a completely rigid back would.
 
 ![Teak Outdoor Dining Table Set](/images/articles/outdoor-furniture-4.jpg)
-
 
 The table doesn't require seasonal storage. It can stay out year-round, which is the practical argument POLYWOOD makes for all of its products. That argument holds up.
 
@@ -90,7 +88,6 @@ No cushions are included. The chairs work without them, but if you want added co
 
 ![Teak Outdoor Dining Table Set](/images/articles/outdoor-furniture-5.jpg)
 
-
 ## Pros and Cons
 
 **Pros:**
@@ -104,7 +101,7 @@ No cushions are included. The chairs work without them, but if you want added co
 **Cons:**
 
 - Heavy. Not portable-heavy, planted-heavy.
-- Premium purchase price. Around $2,200 to $2,500 is not an impulse buy.
+- Premium purchase price.,500 is not an impulse buy.
 - HDPE surface texture reads as plastic up close. Not everyone can get past that.
 - No umbrella hole on the table, which limits shade options on a fully exposed patio.
 - Color options are limited compared to what you'd find in aluminum sets.
@@ -113,14 +110,13 @@ No cushions are included. The chairs work without them, but if you want added co
 
 ## The Real Cost Comparison
 
-A solid teak outdoor dining set of comparable size from a quality source like Smith and Hawken's older catalog or current suppliers like Kingsley Bate runs $3,500 to $8,000 at purchase. Add annual oiling, periodic sanding if you want to restore color after gray weathering, and occasional hardware replacement. Over ten years, you're at $4,000 to $9,000 minimum on a set that, if properly maintained, will look beautiful. If neglected, will look rough.
+A solid teak outdoor dining set of comparable size from a quality source like Smith and Hawken's older catalog or current suppliers like Kingsley Bate,000 at purchase. Add annual oiling, periodic sanding if you want to restore color after gray weathering, and occasional hardware replacement. Over ten years, you're,000 minimum on a set that, if properly maintained, will look beautiful. If neglected, will look rough.
 
-The POLYWOOD set at $2,200 to $2,500 with zero maintenance cost over the same period sits at $2,200 to $2,500. (I'm not counting the occasional hose-down as a cost.) The 20-year warranty is also meaningful here: if a piece fails structurally, POLYWOOD replaces it.
+The POLYWOOD set,500 with zero maintenance cost over the same period sits. (I'm not counting the occasional hose-down as a cost.) The 20-year warranty is also meaningful here: if a piece fails structurally, POLYWOOD replaces it.
 
 ![Teak Outdoor Dining Table Set](/images/articles/outdoor-furniture-6.jpg)
 
-
-Entry-level teak sets from Amazon's lower price tier, typically $600 to $1,200, use lower-grade plantation teak that checks and dries more aggressively. I wouldn't compare the POLYWOOD to those. I'd compare it to mid-to-high teak and ask which situation you're actually in.
+Entry-level teak sets from Amazon's lower price tier use lower-grade plantation teak that checks and dries more aggressively. I wouldn't compare the POLYWOOD to those. I'd compare it to mid-to-high teak and ask which situation you're actually in.
 
 [Check current price on Amazon](product:polywood-nautical-dining-set)
 
@@ -145,7 +141,6 @@ For a full overview of outdoor furniture categories and how to think about mater
 At conversational distance, POLYWOOD's teak colorway reads well. Up close, the surface texture is different from wood grain. Real teak has tactile grain variation and warmth that HDPE doesn't replicate. If you're sitting at the table, you'll see the difference. From twenty feet away on the patio, most people won't.
 
 ![Teak Outdoor Dining Table Set](/images/articles/outdoor-furniture-7.jpg)
-
 
 ### Does the POLYWOOD Nautical Trestle set need to be stored in winter?
 
@@ -211,4 +206,3 @@ Assembly is moderate. Plan for two people and about two to three hours for the f
   ]
 }
 </script>
-

@@ -17,7 +17,7 @@ products:
       - "Thermoplastic base allows use on decks and patios without damaging surfaces"
       - "15-inch depth suits most vegetables in a compact profile"
     article_specific_cons:
-      - "One size configuration , no modular expansion"
+      - "One size configuration, no modular expansion"
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
@@ -42,7 +42,7 @@ For anyone earlier in the decision process, the broader [Raised Beds](/raised-be
 
 The Birdies thermoplastic base bed earns a firm recommendation for deck and patio use, with one significant caveat: you get one size and one configuration. If you need to expand, you're buying another unit. For a single dedicated growing space on a surface that can't handle soil contact or moisture pooling, it does the job cleanly and holds up.
 
-Current price at time of writing sits around $120 to $140 on Amazon, depending on color selection. That's competitive for a purpose-built deck bed with this steel gauge.
+Current price at time of writing sits, depending on color selection. That's competitive for a purpose-built deck bed with this steel gauge.
 
 [Check current price on Amazon](product:birdies-metal-raised-garden-bed)
 
@@ -53,7 +53,6 @@ Current price at time of writing sits around $120 to $140 on Amazon, depending o
 **Material.** Birdies uses Colorbond steel, an Australian-developed coated steel that's been a standard in the outdoor construction industry for decades. The coating is a baked-on paint system rather than a galvanized zinc layer, which matters for food growing: no zinc leaching risk, no lead, no toxic surface treatments. The steel gauge is heavier than what you find in most budget import beds.
 
 ![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-7.jpg)
-
 
 **The Base.** The thermoplastic base is the entire point of this product. It sits between the steel walls and whatever surface is below, acting as a moisture barrier and a physical buffer. Decking boards, composite surfaces, tile, and stone all benefit from not having wet soil sitting directly on them for months at a time. Drainage holes are molded into the base, so water exits rather than pooling inside the bed.
 
@@ -75,7 +74,6 @@ Fifteen inches of depth is enough for most of what you'd actually grow on a deck
 
 ![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-8.jpg)
 
-
 Soil temperature in a metal bed runs warmer than in-ground, which extends the season at both ends. In spring, I'm planting two to three weeks before my in-ground beds are workable. In fall, the bed holds warmth past the first light frosts. For a deck installation where you're not getting the temperature modulation of surrounding soil mass, this is a real advantage.
 
 The 15-inch profile is compact enough that the bed doesn't dominate sight lines from inside the house, which matters on a patio that's also used for other things. Whether aesthetics factor into your purchasing decision is entirely personal, but if you're sharing the space with people who didn't sign up for market garden living, the low profile helps.
@@ -92,10 +90,9 @@ No modular expansion. The Birdies ground installation beds have a modular system
 
 ![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-1.jpg)
 
-
 It also won't suit anyone who wants to go deeper than 15 inches. Some root vegetables want more, and if deep-rooted crops are your priority on a hard surface, you'd want to look at the [Vego Elevated Garden Bed](/vego-elevated-garden-bed/), which offers leg-supported configurations with more depth options.
 
-For straightforward in-ground or on-grade installations, there's no reason to pay for the thermoplastic base feature you won't be using. Options like a standard [cedar raised bed kit](/cedar-raised-bed-kit/) or a [metal garden beds raised](/metal-garden-beds-raised/) setup cost less and perform comparably in-ground.
+For straightforward in-ground or on-grade installations, there's no reason to pay for the thermoplastic base feature you won't be using. Options like a standard [cedar raised bed kit](/cedar-raised-bed-kit/) or a [metal garden beds raised](/raised-garden-bed-metal/) setup cost less and perform comparably in-ground.
 
 ## Soil and Watering Reality for a Sealed-Base Container
 
@@ -138,12 +135,11 @@ What I underestimated was the watering demand. If I'd planned the drip irrigatio
 - Single size, no modular expansion. Your layout is fixed at 43x20.
 - Thermoplastic base carries a cold-weather cracking risk in the most extreme climates. Birdies acknowledges this.
 - Soil capacity is limited relative to in-ground beds. Consistent watering and fertility management matter more in a contained system.
-- At $120 to $140, it costs more than a comparable-footprint ground bed. You're paying for the base, which you may or may not need depending on your installation situation.
+- it costs more than a comparable-footprint ground bed. You're paying for the base, which you may or may not need depending on your installation situation.
 
 [Check current price on Amazon](product:birdies-metal-raised-garden-bed)
 
 ![Birdies Metal Raised Garden Beds](/images/articles/raised-beds-2.jpg)
-
 
 ## Who It's For
 
@@ -160,5 +156,3 @@ The Birdies brand has a strong following in the Epic Gardening community, and fo
 If you're expanding beyond deck growing and want to think through the broader range of bed materials and configurations, the site's [raised bed](/raised-beds/) coverage is a reasonable place to continue.
 
 [See Birdies Metal Raised Garden Bed on Amazon →](product:birdies-metal-raised-garden-bed)
-
-

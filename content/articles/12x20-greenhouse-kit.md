@@ -31,11 +31,11 @@ products:
       - "Twin-wall polycarbonate roof panels retain more heat than single-wall alternatives"
       - "Compact 6x8 footprint fits most suburban backyards; smallest practical full greenhouse size"
     article_specific_cons:
-      - "Lower internal headroom than 8x12 or 8x16 models , limits tall-crop growing"
+      - "Lower internal headroom than 8x12 or 8x16 models, limits tall-crop growing"
   - id: "palram-lean-to-greenhouse"
     role: "also_consider"
     article_specific_pros:
-      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
+      - "Attaches to a house wall, uses structural support and wall heat for efficiency"
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
@@ -45,7 +45,7 @@ products:
       - "Compact cold-frame design adds 4-6 weeks of growing season at each end of summer"
       - "Polycarbonate panels diffuse light evenly without scorching seedlings"
     article_specific_cons:
-      - "Very small growing area , best for seedlings and overwintering a few tender plants"
+      - "Very small growing area, best for seedlings and overwintering a few tender plants"
 tags: ["structures", "roundup"]
 disclosure_required: true
 noindex: false
@@ -80,7 +80,6 @@ The aluminum frame is powder-coated rather than painted or bare, which means it 
 
 ![12X20 Greenhouse Kit](/images/articles/structures-2.jpg)
 
-
 Built-in rain gutters are a feature I didn't expect to care about until I needed them. When water sheets off a greenhouse roof directly into your path, or worse directly onto seedling trays you've placed along the base, gutters go from nice-to-have to necessary. The sliding door with a lockable handle is straightforward and holds up better than hinged doors, which tend to warp or catch when frames settle.
 
 **Pros.**
@@ -93,7 +92,6 @@ Built-in rain gutters are a feature I didn't expect to care about until I needed
 **Cons.**
 - Two-person assembly over a full weekend. Budget the time honestly.
 - No base included. A prepared, level foundation is not optional.
-- Currently around $900-$1,100 on Amazon at the time of writing, depending on promotions.
 
 This is the kit I'd buy if I were starting over. The twin-wall paneling and the gutter system are what separate it from the Snap & Grow line, and on a property where the greenhouse is going to be in serious use nine or ten months of the year, those differences compound.
 
@@ -108,7 +106,6 @@ The roof panels are twin-wall polycarbonate, which is a meaningful upgrade over 
 Two notes on this kit. First, headroom is lower than the larger Essence model, so if you're planning to grow tomatoes or anything tall-corded up a string line, you'll hit the ceiling before the plants are finished. This is a seedling-and-short-crop greenhouse, not a production house. Second, as of early 2026, this listing shows only third-party sellers with a "High price" flag on Amazon. Check availability and pricing before purchasing. The Snap & Grow 6x12 below is a reasonable alternative if this one isn't shipping at a sensible price when you're looking.
 
 ![12X20 Greenhouse Kit](/images/articles/structures-3.jpg)
-
 
 **Pros.**
 - Twin-wall roof panels retain more heat than single-wall alternatives
@@ -151,7 +148,6 @@ The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean
 
 ![12X20 Greenhouse Kit](/images/articles/structures-4.jpg)
 
-
 The lean-to design means the structure attaches to your house, which gives it two advantages that don't show up in the spec sheet. First, the wall provides structural support so the frame doesn't have to do all the work. Second, the house wall retains heat. An exterior brick or block wall that's been in direct sun all day will release warmth into the greenhouse overnight, meaningfully improving cold-night performance without any active heating. This is not a substitute for insulation, but it reduces the temperature drop you'd see in a freestanding structure of the same size.
 
 Galvanized steel base is included, which is consistent with the Hybrid line and worth noting. The adjustable roof vent handles passive ventilation without electricity, which matters in spring when you're in and out of the house ten times a day and don't want to babysit a thermostat-controlled fan.
@@ -179,8 +175,7 @@ What it does well is exactly what a cold frame should do: it adds four to six we
 
 ![12X20 Greenhouse Kit](/images/articles/structures-5.jpg)
 
-
-If you've never grown anything under cover before, this is a lower-cost way to find out whether protected growing fits how you garden before you spend $700 to $1,100 on a walk-in structure. If you already know you want a walk-in greenhouse, skip this and look at the Hybrid 6x8 or the Essence 8x16. Comparing the two types is a bit like comparing a slow-cooker to a range: they're related in purpose but not substitutable.
+If you've never grown anything under cover before, this is a lower-cost way to find out whether protected growing fits how you garden before you spending that much on a walk-in structure. If you already know you want a walk-in greenhouse, skip this and look at the Hybrid 6x8 or the Essence 8x16. Comparing the two types is a bit like comparing a slow-cooker to a range: they're related in purpose but not substitutable.
 
 **Pros.**
 - Adds four to six weeks of growing season without significant investment
@@ -211,7 +206,6 @@ If your growing season runs roughly May through September and you're not trying 
 
 ![12X20 Greenhouse Kit](/images/articles/structures-6.jpg)
 
-
 The Essence 8x16 is the only fully twin-wall kit in this roundup. The Hybrid line uses twin-wall on the roof and single-wall on the sides, which is a reasonable compromise. The Snap & Grow is single-wall throughout.
 
 ### Foundation and Base
@@ -224,7 +218,7 @@ Concrete pads, gravel beds with compacted base material, and pressure-treated ti
 
 None of these kits come with powered ventilation. The lean-to has an adjustable passive roof vent. The Essence has a roof vent as well. On a clear day in late spring, a sealed greenhouse with no ventilation will reach temperatures that will kill seedlings in under an hour. This is not a minor oversight in greenhouse management, it's the most common way first-time greenhouse owners lose an entire flat of starts.
 
-Plan your ventilation before the structure goes up. A single manual roof vent is the minimum. An automatic vent opener (around $30 to $50 for a basic wax-cylinder model) will save you more plants than any other single accessory you buy.
+Plan your ventilation before the structure goes up. A single manual roof vent is the minimum. An automatic vent opener will save you more plants than any other single accessory you buy.
 
 ### Heating
 
@@ -254,4 +248,3 @@ For a working vegetable garden, the practical minimum is 6x8. At that size, you 
   ]
 }
 </script>
-

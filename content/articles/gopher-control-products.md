@@ -14,7 +14,7 @@ products:
   - id: "liquid-fence-deer-rabbit-repellent"
     role: "best_overall"
     article_specific_pros:
-      - "Ready-to-use formula , no mixing; trigger sprayer applies directly to plants"
+      - "Ready-to-use formula, no mixing; trigger sprayer applies directly to plants"
       - "Rain-resistant formula lasts 2-4 weeks outdoors"
     article_specific_cons:
       - "Strong sulfur/egg odor during and shortly after application"
@@ -24,7 +24,7 @@ products:
       - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
       - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
     article_specific_cons:
-      - "Can be triggered by other movement (blowing shrubs, passing people) , positioning matters"
+      - "Can be triggered by other movement (blowing shrubs, passing people), positioning matters"
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
@@ -61,7 +61,6 @@ For bird-forward properties, where you've invested in feeders, baths, or habitat
 
 ![Gopher Control Products](/images/articles/birds-wildlife-1.jpg)
 
-
 ### Coverage Area
 
 This matters more than it sounds. A trigger sprayer that covers 500 square feet is fine for a raised bed. If you've got a third of an acre in mixed borders and kitchen garden, you'll go through product at a pace that makes the economics look very different. Always calculate your actual square footage before committing to a format or size.
@@ -76,12 +75,11 @@ Some repellents need reapplication every two weeks, more frequently after heavy 
 
 The [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent) is not subtle. I want to lead with that. The formula is sulfur and egg solids based, which means it smells genuinely bad on application, and for a short window afterward, your garden smells like something went wrong. The odor dissipates within an hour or two once it dries, but if you were planning to sit on the terrace immediately after spraying, reschedule.
 
-With that said, it works. The ready-to-use 1-gallon format comes with a trigger sprayer and currently runs around $20 to $22 on Amazon. You apply it directly to plant foliage, stems, and the surrounding ground, and the scent profile is unpleasant enough to deer and rabbits that they consistently avoid treated areas. The formula is rain-resistant and holds for two to four weeks under normal conditions, though I'd put it closer to two weeks during genuinely wet stretches.
+With that said, it works. The ready-to-use 1-gallon format comes with a trigger sprayer and. You apply it directly to plant foliage, stems, and the surrounding ground, and the scent profile is unpleasant enough to deer and rabbits that they consistently avoid treated areas. The formula is rain-resistant and holds for two to four weeks under normal conditions, though I'd put it closer to two weeks during genuinely wet stretches.
 
 The practical case for this product is its simplicity. No mixing, no dilution errors, no separate equipment. Spray it on, let it dry, done. For a moderately sized garden, one gallon covers a reasonable amount of ground, and because it targets deer and rabbits simultaneously, you're not buying two separate products.
 
 ![Gopher Control Products](/images/articles/birds-wildlife-2.jpg)
-
 
 If you're managing a larger property, the concentrate version (ASIN B014UUZ8AC) is considerably more economical. The ready-to-use gallon is convenient; the concentrate is the better value calculation if you're covering serious acreage. I'd also point you toward the [Deer Out Deer Repellent](/deer-out-deer-repellent/) review on this site if deer pressure is your primary problem, as it gives a more detailed comparison of the scent-repellent category specifically.
 
@@ -93,12 +91,11 @@ Once fully dry, it's safe around pets and children, which matters for real-world
 
 ### Best Mid-Range Option: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
 
-The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler) currently runs around $35 to $42 depending on where you buy it. For what it does, that's a reasonable price. It connects to a standard garden hose, stakes into the ground, and delivers a sharp burst of water when its infrared sensor detects movement.
+The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler). For what it does, that's a reasonable price. It connects to a standard garden hose, stakes into the ground, and delivers a sharp burst of water when its infrared sensor detects movement.
 
 The detection range is 120 degrees up to 40 feet, which covers a full garden bed from a single stake position. You can set it to day-only, night-only, or 24-hour detection, which is genuinely useful. Deer tend to browse at dawn and dusk. Raccoons work nights. Cats and rabbits are variable. Being able to configure the detection window means you're not getting soaked every time you walk past the bed at noon. (I learned this the hard way during setup, which I don't recommend.)
 
 ![Gopher Control Products](/images/articles/birds-wildlife-3.jpg)
-
 
 The deterrent effect builds over time. Animals learn to associate the zone with an unpleasant surprise, and after two to three weeks of consistent activations, most will simply reroute around the area. This is a trained avoidance response, not a one-time startle, which makes the Orbit more effective the longer it's deployed. Comparable motion deterrents like the Contech Scarecrow operate on the same principle, but the Orbit's day/night mode selection gives it a practical edge in mixed-pressure situations.
 
@@ -114,10 +111,9 @@ Because this product is entirely chemical-free, it integrates cleanly into any g
 
 ### If You Have One Specific Problem
 
-A single bed with rabbit pressure is a Liquid Fence situation. Spray the perimeter and the plants, reapply after rain, and you'll see results within a week. At roughly $20 for a ready-to-use gallon, it's not a significant investment to test.
+A single bed with rabbit pressure is a Liquid Fence situation. Spray the perimeter and the plants, reapply after rain, and you'll see results within a week. At for a ready-to-use gallon, it's not a significant investment to test.
 
 ![Gopher Control Products](/images/articles/birds-wildlife-4.jpg)
-
 
 A deer problem on a larger scale, where you're seeing regular browse damage to shrubs and ornamentals, probably warrants the motion sprinkler plus the repellent together. Deer are persistent and habitual. A single deterrent that they can work around or habituate to isn't enough. Two different sensory deterrents (scent plus physical surprise) working simultaneously is substantially more effective than either alone.
 
@@ -140,7 +136,6 @@ I'll be direct: neither product above is specifically designed for subterranean 
 It will reduce it significantly, but nightly pressure from a large deer population is a hard condition for any repellent to fully overcome. In high-density deer situations, the scent barrier loses effectiveness faster, partly because the deer have fewer alternative food sources and more motivation to push through the deterrent. For nightly pressure, I'd use Liquid Fence in combination with the Orbit sprinkler, not as a standalone solution.
 
 ![Gopher Control Products](/images/articles/birds-wildlife-5.jpg)
-
 
 ### How long does the Orbit 62100 stay effective before animals stop reacting to it?
 
@@ -206,4 +201,3 @@ The ready-to-use gallon (ASIN B00TS4WBUQ) comes pre-mixed with a trigger sprayer
   ]
 }
 </script>
-

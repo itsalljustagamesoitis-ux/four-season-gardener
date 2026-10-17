@@ -13,13 +13,13 @@ const articles = all.filter(a => cat.hubs.some(h => h.slug === a.data.hub))
 
 <BaseLayout
   title={`${cat.label} — ${cfg.site.brand_name}`}
-  description="Tested reviews of outdoor furniture, fire pits, patio heaters, and garden lighting."
+  description="Reviews of outdoor furniture, fire pits, patio heaters, and garden lighting."
 >
   <div class="container" style="padding-top:2rem; padding-bottom:4rem;">
     <div class="category-hero">
       <p class="category-hero__label">Category</p>
       <h1 class="category-hero__title">{cat.label}</h1>
-      <p class="category-hero__desc">Outdoor furniture, fire pits, heaters, and lighting — tested across real seasons.</p>
+      <p class="category-hero__desc">Outdoor furniture, fire pits, heaters, and lighting — compared across seasons.</p>
     </div>
 
     <div class="hub-grid">

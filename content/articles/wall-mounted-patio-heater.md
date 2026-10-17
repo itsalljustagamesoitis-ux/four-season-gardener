@@ -15,35 +15,35 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "Wall-mounted saves floor space"
-      - "Electric , no gas lines needed"
+      - "Electric, no gas lines needed"
     article_specific_cons:
       - "Requires wall mounting installation"
   - id: "paraheeter-infrared-patio-heater"
     role: "also_consider"
     article_specific_pros:
       - "Wall-mounted saves floor space"
-      - "Electric , no gas lines needed"
+      - "Electric, no gas lines needed"
     article_specific_cons:
       - "Requires wall mounting installation"
   - id: "wifi-wall-patio-heater"
     role: "also_consider"
     article_specific_pros:
       - "Wall-mounted saves floor space"
-      - "Electric , no gas lines needed"
+      - "Electric, no gas lines needed"
     article_specific_cons:
       - "Requires wall mounting installation"
   - id: "infrared-hanging-ceiling-heater"
     role: "also_consider"
     article_specific_pros:
       - "Wall-mounted saves floor space"
-      - "Electric , no gas lines needed"
+      - "Electric, no gas lines needed"
     article_specific_cons:
       - "Requires wall mounting installation"
   - id: "carbon-infrared-wall-heater"
     role: "also_consider"
     article_specific_pros:
       - "Wall-mounted saves floor space"
-      - "Electric , no gas lines needed"
+      - "Electric, no gas lines needed"
     article_specific_cons:
       - "Requires wall mounting installation"
 tags: ["fire-and-heat", "roundup"]
@@ -67,7 +67,7 @@ safety_topics:
 
 If you've been heating your patio with a freestanding propane unit, you already know the problems: tanks to swap, floor space eaten up by a stand, and a heater that tips over if the wind catches it wrong. A wall mounted patio heater solves most of that. Fixed position, no floor footprint, and on an electric model, no fuel logistics at all. You flip a switch and the heat arrives in about 30 seconds.
 
-The category has filled out considerably in the past few years, which means there are now plenty of options that look reasonable on a product page and disappoint in actual use. I've gone through the current mid-range electric field, all 1500W infrared units in the $80-to-$180 price band, and sorted out what's actually worth buying from what's padding the category. If you're weighing patio heating more broadly, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the full range of options including propane and wood-burning alternatives.
+The category has filled out considerably in the past few years, which means there are now plenty of options that look reasonable on a product page and disappoint in actual use. I've gone through the current mid-range electric field, all 1500W infrared units in the mid-range price band, and sorted out what's actually worth buying from what's padding the category. If you're weighing patio heating more broadly, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub covers the full range of options including propane and wood-burning alternatives.
 
 ## Top Picks
 
@@ -75,7 +75,7 @@ The category has filled out considerably in the past few years, which means ther
 
 **Best overall pick.**
 
-The [Powerscale 1500W Electric Wall-Mounted Patio Heater](product:powerscale-wall-patio-heater) is currently around $119 on Amazon, which puts it in the middle of this category. For that price, you get a clean, rectangular unit with a proper IP65 weatherproof rating, a remote control, and an adjustable mounting bracket that lets you tilt the head downward rather than pointing it straight out from the wall. That tilt adjustment is more useful than it sounds. If you mount this at 8 feet, you want the heat angled toward the people below it, not projecting horizontally into the yard.
+The [Powerscale 1500W Electric Wall-Mounted Patio Heater](product:powerscale-wall-patio-heater), which puts it in the middle of this category. For that price, you get a clean, rectangular unit with a proper IP65 weatherproof rating, a remote control, and an adjustable mounting bracket that lets you tilt the head downward rather than pointing it straight out from the wall. That tilt adjustment is more useful than it sounds. If you mount this at 8 feet, you want the heat angled toward the people below it, not projecting horizontally into the yard.
 
 The heating element is quartz infrared, which means it warms objects and people rather than the air around them. In practice, on a 40-degree evening with any amount of wind, you notice that distinction. Convective patio heaters lose most of their output the moment a breeze moves through. Infrared doesn't.
 
@@ -95,12 +95,11 @@ At 1500W, you're pulling about 12.5 amps on a standard 120V circuit. That's with
 
 ![Wall Mounted Patio Heater](/images/articles/fire-and-heat-8.jpg)
 
-
 ### Paraheeter Electric Infrared Patio Heater
 
 **Best for covered porches.**
 
-The [Paraheeter Electric Infrared Patio Heater](product:paraheeter-infrared-patio-heater) runs around $109 at the time of writing. It's been in the market longer than some of the newer entries here and has a larger review base to draw on, which I weight reasonably heavily when I'm evaluating generic-category products.
+The [Paraheeter Electric Infrared Patio Heater](product:paraheeter-infrared-patio-heater). It's been in the market longer than some of the newer entries here and has a larger review base to draw on, which I weight reasonably heavily when I'm evaluating generic-category products.
 
 The Paraheeter is a ceiling or wall mount unit, and the hardware accommodates both configurations. If you have a pergola with crossbeams or a covered porch ceiling at 9 feet, ceiling mounting creates a more even heat distribution across a seating area than a wall unit angled from one side. The bracket is straightforward and the mounting process is about 20 minutes with a drill and a stud finder.
 
@@ -122,14 +121,13 @@ Heat output is consistent and the element warmup time is fast, under a minute to
 
 **Best for smart home integration.**
 
-The [WiFi Wall-Mounted Electric Outdoor Heater](product:wifi-wall-patio-heater) is currently around $129. The distinguishing feature is obvious from the name: app control via 2.4GHz WiFi, compatible with both Alexa and Google Home. If you've already built out a smart home setup and want your patio heater to power on when you unlock the back door, this is the only unit in this roundup that can do that.
+The [WiFi Wall-Mounted Electric Outdoor Heater](product:wifi-wall-patio-heater). The distinguishing feature is obvious from the name: app control via 2.4GHz WiFi, compatible with both Alexa and Google Home. If you've already built out a smart home setup and want your patio heater to power on when you unlock the back door, this is the only unit in this roundup that can do that.
 
 The heater itself is a standard 1500W quartz infrared unit with a wall-mount bracket. The weatherproofing is rated IP55, one step below the Powerscale's IP65. That difference matters in heavy rain or direct water exposure but is largely irrelevant under a porch overhang, which is where most wall-mounted heaters end up anyway.
 
 Setup requires connecting the unit to a 2.4GHz network (5GHz is not supported, which is a common stumbling block worth knowing before you start). App connectivity is handled through a standard smart home controller app. I'd call the WiFi function useful rather than essential, but if automated scheduling matters to you, this is the unit to buy.
 
 ![Wall Mounted Patio Heater](/images/articles/fire-and-heat-1.jpg)
-
 
 **Pros.**
 - Alexa and Google Home compatible
@@ -148,7 +146,7 @@ Setup requires connecting the unit to a 2.4GHz network (5GHz is not supported, w
 
 **Best budget option.**
 
-The [1500W Electric Infrared Wall/Ceiling Patio Heater](product:infrared-hanging-ceiling-heater) runs around $85 to $95 depending on when you're looking. It's the most affordable unit in this comparison and performs closer to the mid-tier options than the price gap suggests.
+The [1500W Electric Infrared Wall/Ceiling Patio Heater](product:infrared-hanging-ceiling-heater). It's the most affordable unit in this comparison and performs closer to the mid-tier options than the price gap suggests.
 
 Like the Paraheeter, it mounts to either wall or ceiling. The build quality is acceptable rather than excellent. The housing feels lighter than the Powerscale and the mounting bracket has less adjustment range. But if you're equipping a secondary outdoor space, a garden shed porch, a garage side entrance, an outbuilding seating area, and you don't need remote scheduling or app integration, the price difference over the Powerscale is real money and the heat output is the same.
 
@@ -171,12 +169,11 @@ The IP rating on this unit is IP55. The remote is basic but functional: power, h
 
 **Best for targeted spot heat.**
 
-The [1500W Wall-Mounted Carbon Infrared Patio Heater with Remote](product:carbon-infrared-wall-heater) is the one genuinely different option in this group, and it's currently around $135. Where the other four units use quartz infrared elements, this one uses carbon fiber heating elements.
+The [1500W Wall-Mounted Carbon Infrared Patio Heater with Remote](product:carbon-infrared-wall-heater) is the one genuinely different option in this group, and it's currently. Where the other four units use quartz infrared elements, this one uses carbon fiber heating elements.
 
 Carbon infrared runs at a lower surface temperature than quartz but emits heat in a longer wavelength that penetrates deeper and distributes over a somewhat wider area. In practical terms, the heat feels less directional and more ambient. Whether that's better depends on what you're trying to heat. A single chair next to a mounted unit benefits from quartz's focused output. A larger seating arrangement spread across 10 to 12 feet benefits from carbon's wider distribution.
 
 ![Wall Mounted Patio Heater](/images/articles/fire-and-heat-2.jpg)
-
 
 The unit comes with a remote and three power settings (500W, 1000W, 1500W). Build quality is solid, and the IP rating is IP55. If you're mounting above a dining table on a covered patio, this is where I'd put my money. (I ran a carbon element unit from Infratech for a full outdoor season before switching to quartz for a different mounting location, so I'm working from comparison here rather than theoretical preference.)
 
@@ -211,7 +208,6 @@ The running cost at 1500W is approximately $0.18 to $0.22 per hour depending on 
 
 ![Wall Mounted Patio Heater](/images/articles/fire-and-heat-3.jpg)
 
-
 ### Mounting Height and Bracket Adjustment
 
 Mount a wall-mounted heater too high and you're projecting the heat over your guests' heads. The practical sweet spot is 8 to 10 feet from the ground, with the bracket adjusted to direct heat downward at roughly a 30-degree angle. Check whether the bracket included with your unit allows tilt adjustment before you buy. The Powerscale and the carbon fiber unit both offer more adjustment range than the budget options.
@@ -228,7 +224,7 @@ If you've been reading about [propane fire pit burner](/propane-fire-pit-burner/
 
 ## My Recommendation
 
-The [Powerscale 1500W](product:powerscale-wall-patio-heater) is my top pick for most buyers. IP65 weatherproofing, a tilt-adjustable bracket, and a remote at around $119 is a fair deal. If you're equipping a wider covered dining area and want carbon infrared distribution, the [carbon fiber unit](product:carbon-infrared-wall-heater) at $135 is the better call. And if you're working with a tighter budget on a secondary space, the [budget infrared option](product:infrared-hanging-ceiling-heater) at $85 delivers the same 1500W output for less.
+The [Powerscale 1500W](product:powerscale-wall-patio-heater) is my top pick for most buyers. IP65 weatherproofing, a tilt-adjustable bracket, and a remote is a fair deal. If you're equipping a wider covered dining area and want carbon infrared distribution, the [carbon fiber unit](product:carbon-infrared-wall-heater) is the better call. And if you're working with a tighter budget on a secondary space, the [budget infrared option](product:infrared-hanging-ceiling-heater) delivers the same 1500W output for less.
 
 The full range of heat and fire options for outdoor spaces is covered over in our [outdoor fire and heat guide](/fire-and-heat/) if you're still deciding whether a wall-mounted heater is the right format for your setup.
 
@@ -241,7 +237,6 @@ The full range of heat and fire options for outdoor spaces is covered over in ou
 At the current national average electricity rate of around $0.16 per kWh, a 1500W heater costs roughly $0.24 per hour to run. Three hours of use per evening runs about $0.72. If you're in the Northeast where rates are higher, closer to $0.25 to $0.30 per kWh, budget around $1.00 to $1.35 for the same session. None of these numbers should be alarming if the heater is actually extending the time you spend outside.
 
 ![Wall Mounted Patio Heater](/images/articles/fire-and-heat-4.jpg)
-
 
 ### Can I install a wall mounted patio heater myself?
 
@@ -307,4 +302,3 @@ For covered or semi-enclosed spaces, electric infrared is the safer and more pra
   ]
 }
 </script>
-

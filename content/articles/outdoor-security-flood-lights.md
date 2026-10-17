@@ -17,11 +17,11 @@ products:
       - "Three selectable color temperatures (3000K/4000K/5000K) in one fixture"
       - "Three independently adjustable heads cover a wider area than fixed dual-head models"
     article_specific_cons:
-      - "Hardwired installation , requires an electrician if no existing outdoor junction box"
+      - "Hardwired installation, requires an electrician if no existing outdoor junction box"
   - id: "mr-beams-solar-wedge-plus"
     role: "alternative"
     article_specific_pros:
-      - "410 lumens from 102 LEDs , brighter than most solar motion lights at this price"
+      - "410 lumens from 102 LEDs, brighter than most solar motion lights at this price"
       - "No wiring required; mounts on any wall surface with included screws in minutes"
     article_specific_cons:
       - "Placement limited to walls with direct sun exposure"
@@ -65,7 +65,6 @@ The verdict here is clear, and it depends almost entirely on one question: do yo
 | Certification | ETL listed | Not ETL listed |
 | Installation | Requires junction box | Screws to any wall surface |
 | Smart home | No | No |
-| Current price | Around $35-$45 | Around $25-$35 |
 
 Prices current at time of writing. Both fluctuate on Amazon, sometimes considerably.
 
@@ -73,12 +72,11 @@ The lumen difference is the number that matters most here. 3,000 lumens against 
 
 ![Outdoor Security Flood Lights](/images/articles/lighting-2.jpg)
 
-
 ## Why Choose the LEONLITE 3CCT
 
 ### Light Output and Coverage
 
-Three thousand lumens from three independently adjustable heads is a serious amount of light for this price point. At around $35-$45, the LEONLITE sits well below the Lithonia Lighting OLF series (which runs $80-$120 for comparable output) and edges out the Defiant 180-degree motion security light in terms of coverage flexibility. The three heads rotate independently, so you can angle one down the driveway, one toward the garage door, and one toward a side gate without buying three separate fixtures. I've seen plenty of dual-head units where the fixed spacing means you're always lighting something you didn't intend to.
+Three thousand lumens from three independently adjustable heads is a serious amount of light for this price point. the LEONLITE sits well below the Lithonia Lighting OLF series (which for comparable output) and edges out the Defiant 180-degree motion security light in terms of coverage flexibility. The three heads rotate independently, so you can angle one down the driveway, one toward the garage door, and one toward a side gate without buying three separate fixtures. I've seen plenty of dual-head units where the fixed spacing means you're always lighting something you didn't intend to.
 
 The three selectable color temperatures (3000K for warm white, 4000K for neutral, 5000K for cool/daylight) matter more than they sound. Security lighting in a residential front yard often looks harsh and institutional at 5000K. The 3000K option keeps it functional without turning your property into a parking lot. If you're mounting this over a garage or utility area, 5000K is fine. Front entry facing the street, I'd go 3000K or 4000K.
 
@@ -90,14 +88,13 @@ The ETL listing is the other thing worth flagging. ETL certification means the p
 
 ![Outdoor Security Flood Lights](/images/articles/lighting-3.jpg)
 
-
 IP65 waterproof rating means it can handle direct water jets. For anyone in a climate with wet springs, heavy snow, and freeze-thaw cycles through the shoulder seasons, this is the minimum rating worth buying. Anything lower and you're replacing it after two winters. (I've replaced cheaper lights after two winters. It gets old.)
 
 ### Installation Realities
 
 This is where the LEONLITE requires an honest conversation. If you have an existing outdoor junction box, installation is straightforward: turn off the breaker, connect three wires, mount the fixture, done. If you don't have a junction box where you need coverage, you're either running new wire or calling an electrician.
 
-That's not a small thing. An electrician visit for a simple outdoor junction box installation typically runs $100-$200 depending on your area and how accessible the wall cavity is. Factor that into the total cost. The fixture itself might be $40, but the installed cost could be $200. If that changes the calculation for you, it should.
+That's not a small thing. An electrician visit for a simple outdoor junction box installation typically depending on your area and how accessible the wall cavity is. Factor that into the total cost. The fixture itself has a modest price, but the installed cost with an electrician could be significant. If that changes the calculation for you, it should.
 
 For permanent installations over driveways, garages, or barn entries where you need reliable high-output light year after year, that cost amortizes quickly. For anything temporary or experimental, it doesn't.
 
@@ -111,10 +108,9 @@ The self-contained design, with the solar panel integrated into the top of the u
 
 ![Outdoor Security Flood Lights](/images/articles/lighting-4.jpg)
 
-
 ### Realistic Expectations on Output
 
-410 lumens from 102 LEDs is the brightest output you'll find in a self-contained solar security wall light at this price, which currently sits around $25-$35. Compared to most solar motion lights in this category, which typically deliver 200-300 lumens, the Mr Beams does meaningfully better. If you've looked at solar-powered garden lights and been disappointed by dim, short-duration output, this is a step up from that.
+410 lumens from 102 LEDs is the brightest output you'll find in a self-contained solar security wall light at this price, which currently sits. Compared to most solar motion lights in this category, which typically deliver 200-300 lumens, the Mr Beams does meaningfully better. If you've looked at solar-powered garden lights and been disappointed by dim, short-duration output, this is a step up from that.
 
 But 410 lumens is not driveway coverage. It's porch entry coverage. It's adequate for a path, a side gate, or a back door where you need motion activation and enough light to see who's there. If you've gone through our [outdoor LED security lighting](/outdoor-led-security-lighting/) overview, you'll know that 400 lumens is roughly the threshold for a usable motion light at a single point, not area coverage.
 
@@ -128,12 +124,11 @@ If you're uncertain about sun exposure at your intended location, check it at no
 
 ![Outdoor Security Flood Lights](/images/articles/lighting-5.jpg)
 
-
 ## Verdict
 
-Buy the [LEONLITE 3CCT LED Security Light](product:leonlite-3cct-security-light) if you have an existing outdoor junction box or are willing to have one installed. The light output difference alone makes this the right choice for any location where you need genuine flood coverage. Three adjustable heads, ETL certification, IP65 waterproofing, and selectable color temperature at under $45 for the fixture itself is hard to argue with. This is the better security light in almost every objective measure.
+Buy the [LEONLITE 3CCT LED Security Light](product:leonlite-3cct-security-light) if you have an existing outdoor junction box or are willing to have one installed. The light output difference alone makes this the right choice for any location where you need genuine flood coverage. Three adjustable heads, ETL certification, IP65 waterproofing, and selectable color temperature at entry-level for the fixture itself is hard to argue with. This is the better security light in almost every objective measure.
 
-Buy the [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) if the LEONLITE's installation requirement isn't feasible. Renters, anyone covering a remote outbuilding far from electrical access, or anyone who wants a functional motion light at a secondary entry without a project. At $25-$35, the no-wiring advantage is real, and 410 lumens is sufficient for single-point entry illumination.
+Buy the [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) if the LEONLITE's installation requirement isn't feasible. Renters, anyone covering a remote outbuilding far from electrical access, or anyone who wants a functional motion light at a secondary entry without a project. the no-wiring advantage is real, and 410 lumens is sufficient for single-point entry illumination.
 
 Don't buy the Mr Beams hoping it performs like the LEONLITE. It won't. Different tools, different jobs.
 
@@ -147,14 +142,13 @@ If there's already an outdoor junction box at the location, most homeowners comf
 
 ![Outdoor Security Flood Lights](/images/articles/lighting-6.jpg)
 
-
 ### How long does the Mr Beams battery last before it needs replacing?
 
-Mr Beams doesn't publish a battery replacement cycle for this unit, which is a legitimate gap in their documentation. In practice, lithium batteries in solar security lights typically hold useful capacity for two to three years, after which nighttime output drops noticeably. The unit isn't designed for easy battery replacement by the end user, so in most cases, degraded output means replacing the whole fixture. Factor that into the $25-$35 price over a five-year horizon.
+Mr Beams doesn't publish a battery replacement cycle for this unit, which is a legitimate gap in their documentation. In practice, lithium batteries in solar security lights typically hold useful capacity for two to three years, after which nighttime output drops noticeably. The unit isn't designed for easy battery replacement by the end user, so in most cases, degraded output means replacing the whole fixture. Factor that into the price over a five-year horizon.
 
 ### Does either light work with Alexa or Google Home?
 
-No. Neither the LEONLITE nor the Mr Beams has smart home integration. Both operate purely on motion detection. If smart home control matters to you, look at the Kasa Smart or Ring Floodlight lines, both of which add roughly $40-$80 to the cost depending on the model.
+No. Neither the LEONLITE nor the Mr Beams has smart home integration. Both operate purely on motion detection. If smart home control matters to you, look at the Kasa Smart or Ring Floodlight lines, both of which add to the cost depending on the model.
 
 ### What's the difference between the color temperature options on the LEONLITE?
 
@@ -182,7 +176,7 @@ It will work, but output will be reduced during periods of short daylight and fr
       "name": "How long does the Mr Beams battery last before it needs replacing?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mr Beams doesn't publish a battery replacement cycle for this unit, which is a legitimate gap in their documentation. In practice, lithium batteries in solar security lights typically hold useful capacity for two to three years, after which nighttime output drops noticeably. The unit isn't designed for easy battery replacement by the end user, so in most cases, degraded output means replacing the whole fixture. Factor that into the $25-$35 price over a five-year horizon."
+ "text": "Mr Beams doesn't publish a battery replacement cycle for this unit, which is a legitimate gap in their documentation. In practice, lithium batteries in solar security lights typically hold useful capacity for two to three years, after which nighttime output drops noticeably. The unit isn't designed for easy battery replacement by the end user, so in most cases, degraded output means replacing the whole fixture. Factor that into the price over a five-year horizon."
       }
     },
     {
@@ -190,7 +184,7 @@ It will work, but output will be reduced during periods of short daylight and fr
       "name": "Does either light work with Alexa or Google Home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Neither the LEONLITE nor the Mr Beams has smart home integration. Both operate purely on motion detection. If smart home control matters to you, look at the Kasa Smart or Ring Floodlight lines, both of which add roughly $40-$80 to the cost depending on the model."
+ "text": "No. Neither the LEONLITE nor the Mr Beams has smart home integration. Both operate purely on motion detection. If smart home control matters to you, look at the Kasa Smart or Ring Floodlight lines, both of which add to the cost depending on the model."
       }
     },
     {
@@ -212,4 +206,3 @@ It will work, but output will be reduced during periods of short daylight and fr
   ]
 }
 </script>
-

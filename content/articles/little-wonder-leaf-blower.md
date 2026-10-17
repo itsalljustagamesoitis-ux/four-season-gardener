@@ -17,14 +17,14 @@ products:
       - "3-in-1 blower, vacuum, and mulcher reduces 10 bags of leaves to 1 bag of mulch"
       - "Metal impeller is significantly more durable than plastic impellers on budget models"
     article_specific_cons:
-      - "Corded , requires an outdoor extension cord; limited range from outlet"
+      - "Corded, requires an outdoor extension cord; limited range from outlet"
   - id: "ego-lb6004-backpack-blower"
     role: "alternative"
     article_specific_pros:
-      - "Backpack design distributes battery weight across shoulders , much less fatigue than handheld"
+      - "Backpack design distributes battery weight across shoulders, much less fatigue than handheld"
       - "600 CFM matches mid-range commercial gas backpack blowers"
     article_specific_cons:
-      - "Premium price , significantly more expensive than EGO handheld models"
+      - "Premium price, significantly more expensive than EGO handheld models"
 tags: ["lawn-care", "comparison"]
 disclosure_required: true
 noindex: false
@@ -61,7 +61,6 @@ Neither machine is the other's competition in any practical sense. They solve di
 
 ![Little Wonder Leaf Blower](/images/articles/lawn-care-5.jpg)
 
-
 ## Side-by-Side Specs
 
 | Feature | Toro 51621 UltraPlus | EGO Power+ LB6004 |
@@ -73,10 +72,9 @@ Neither machine is the other's competition in any practical sense. They solve di
 | Noise | 70+ dB | ~65 dB |
 | Vacuum / mulch function | Yes, 10:1 ratio | No |
 | Impeller material | Metal | Plastic |
-| Current price (approximate) | Around $80 | Around $500 with battery, or $350 tool-only |
 | Cord / range | Corded | Cordless, 45-75 min runtime |
 
-A note on that price gap. The EGO tool-only unit runs around $350 at the time of writing. If you're already in the EGO 56V system and own a compatible battery, that's your real cost. If you're starting from scratch, add roughly $150 for the 5.0Ah battery and $50 for a charger. The Toro at around $80 all-in is a different category of financial commitment entirely.
+A note on that price gap. The EGO tool-only unit. If you're already in the EGO 56V system and own a compatible battery, that's your real cost. If you're starting from scratch, add a compatible battery and charger. The Toro's all-in price is a different category of financial commitment entirely.
 
 ## Testing Notes
 
@@ -84,10 +82,9 @@ A note on that price gap. The EGO tool-only unit runs around $350 at the time of
 
 The airspeed claim of 250 MPH is credible. On heavy, damp leaf piles that accumulated after a wet October week, the Toro moved material that my previous Husqvarna 125BVx (a gas unit I ran for three seasons) handled with similar authority. The corded limitation is real but manageable if you plan your session before you start rather than winging it, which is what I'd recommend regardless of machine.
 
-The mulching function is where this machine earns its price. The metal impeller chews through leaves without the cracking and jamming that plagued a Black+Decker BV6000 I tested briefly a few years back. Ten bags reduced to one is a genuine outcome, not marketing copy. I filled a standard yard waste bag with mulched material from what started as a substantial pile from three large red oaks. (I weighed the bags before and after. Yes, I did that.)
+The mulching function is where this machine earns its price. The metal impeller chews through leaves without the cracking and jamming that plagued a Black+Decker BV6000 briefly a few years back. Ten bags reduced to one is a genuine outcome, not marketing copy. I filled a standard yard waste bag with mulched material from what started as a substantial pile from three large red oaks. (I weighed the bags before and after. Yes, I did that.)
 
 ![Little Wonder Leaf Blower](/images/articles/lawn-care-6.jpg)
-
 
 Noise is the legitimate complaint. At 70+ dB, ear protection is not optional for extended sessions. The corded design also means you're thinking about the cord constantly, which adds a low-level cognitive overhead to the work that some people find more annoying than others. I find it more annoying than most.
 
@@ -101,7 +98,6 @@ The harness adjustment took me two sessions to get right. The shoulder straps an
 
 ![Little Wonder Leaf Blower](/images/articles/lawn-care-7.jpg)
 
-
 Battery compatibility is a genuine advantage if you're already using EGO tools. I run an EGO chainsaw and hedge trimmer, so the 5.0Ah and 7.5Ah batteries I own already slide into the LB6004 without any additional investment. If you're platform-agnostic, that calculation doesn't help you, though I appreciate that's not everyone's situation.
 
 One thing the LB6004 won't do is vacuum or mulch. If your fall workflow involves leaf collection and volume reduction, you're looking at either a separate machine or a different approach entirely. Something like the [DR Leaf and Lawn Vacuum](/dr-leaf-and-lawn-vacuum/) fills that gap for readers who need both functions at scale.
@@ -110,18 +106,17 @@ One thing the LB6004 won't do is vacuum or mulch. If your fall workflow involves
 
 ### Buy the Toro 51621 UltraPlus if:
 
-Your property is under half an acre with reasonable outlet access. You want one machine to blow, vacuum, and mulch without managing battery charge states between sessions. Your priority is actual leaf disposal (bags going to the curb or a compost pile) rather than just clearing the lawn surface. The $80 price point is the right commitment level for your situation.
+Your property is under half an acre with reasonable outlet access. You want one machine to blow, vacuum, and mulch without managing battery charge states between sessions. Your priority is actual leaf disposal (bags going to the curb or a compost pile) rather than just clearing the lawn surface. The price point is the right commitment level for your situation.
 
 The Toro is also the better answer if you want to use a [leaf blower with a gutter attachment](/leaf-blower-with-gutter-attachment/) for fall gutter cleaning. The corded power source means no battery anxiety when you're up a ladder or working an extension wand, and the consistent airspeed makes gutter work more predictable than battery machines that throttle as charge drops. For readers interested in the specifics of gutter clearing setups, the [gutter cleaner leaf blower](/gutter-cleaner-leaf-blower/) guide on this site covers the accessory landscape in more detail.
 
 ![Little Wonder Leaf Blower](/images/articles/lawn-care-8.jpg)
 
-
 ### Buy the EGO Power+ LB6004 if:
 
 Your property is half an acre or larger, with areas that are a genuine distance from any outlet. You've been using a gas backpack blower and want to get out of the fuel-and-maintenance cycle without giving up meaningful output. You're already in the EGO battery system. Or you simply value not dragging a cord through 300 feet of mixed terrain.
 
-The EGO is also the more sensible option if your fall sessions run longer than 30 minutes continuously. The handheld cordless alternatives in the $200-$350 range, including EGO's own LB5804, become real liabilities in extended use. The backpack format specifically addresses the endurance problem rather than the power problem, which is the right diagnosis for most large-property owners.
+The EGO is also the more sensible option if your fall sessions run longer than 30 minutes continuously. The handheld cordless alternatives, including EGO's own LB5804, become real liabilities in extended use. The backpack format specifically addresses the endurance problem rather than the power problem, which is the right diagnosis for most large-property owners.
 
 For readers wondering about the [pushing leaf blower](/pushing-leaf-blower/) category as a third option for heavy debris loads, those are worth considering if you have primarily flat, open areas, though they don't replace a backpack for mixed terrain.
 
@@ -134,7 +129,6 @@ If you want to keep building out a capable seasonal toolkit, the [lawn care](/la
 At 250 MPH airspeed with a metal impeller, yes. Wet, matted leaves are the real test of any blower, and the Toro handles them better than most corded electrics in its price range. The vacuum and mulch function is particularly useful here because rather than blowing wet leaves into a pile you then have to deal with separately, you can collect and reduce them in one pass.
 
 ![Little Wonder Leaf Blower](/images/articles/lawn-care-1.jpg)
-
 
 ### How long does the EGO LB6004 battery last?
 
@@ -200,4 +194,3 @@ For a 12-amp corded electric, use a 14-gauge cord for runs up to 50 feet and 12-
   ]
 }
 </script>
-

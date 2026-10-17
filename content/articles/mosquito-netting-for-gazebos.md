@@ -17,7 +17,7 @@ products:
       - "Universal fit for 10x12 gazebos"
       - "4-panel zipper screen walls"
     article_specific_cons:
-      - "Fits 10x12 only , check your gazebo size"
+      - "Fits 10x12 only, check your gazebo size"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -40,7 +40,7 @@ For context on gazebo buying decisions more broadly, the [Greenhouses, Sheds & G
 
 ## The Short Answer
 
-If you have a standard 10x12 gazebo and need replacement netting, the [Wonwon Universal Replacement Mosquito Netting](product:wonwon-gazebo-mosquito-netting) is the product I'd buy. It runs around $45 to $55 on Amazon at the time of writing, it ships as a 4-panel zipper screen system, and it installs without a frame because it's designed to attach to the structure you already have.
+If you have a standard 10x12 gazebo and need replacement netting, the [Wonwon Universal Replacement Mosquito Netting](product:wonwon-gazebo-mosquito-netting) is the product I'd buy. It, it ships as a 4-panel zipper screen system, and it installs without a frame because it's designed to attach to the structure you already have.
 
 That's the answer. The rest of this is for people who want to understand whether it fits their situation before they click.
 
@@ -54,7 +54,6 @@ The netting attaches to existing roof framing rather than to a separate frame, w
 
 ![Mosquito Netting For Gazebos](/images/articles/structures-5.jpg)
 
-
 ### What You Actually Get
 
 Four panels, each with a zipper opening. The zipper placement allows you to create a door on whichever side you want without fumbling with velcro or ties. The mesh is fine enough to block mosquitoes and most other flying insects while still allowing reasonable air movement. It won't stop no-see-ums on a bad evening, but nothing short of actual screening will.
@@ -63,7 +62,7 @@ The netting is sold alone. No canopy, no frame, no hardware beyond what's needed
 
 ### The Budget Reality
 
-At roughly $45 to $55, this sits well below what custom-fabricated screen enclosures cost, which can run $200 to $500 or more depending on the supplier and whether you need installation. It also costs less than replacing a full gazebo canopy kit with integrated netting, which typically runs $80 to $150 for a mid-range product. For what it is, the price is defensible.
+At, this sits well below what custom-fabricated screen enclosures cost, which can run significantly higher depending on the supplier and whether you need installation. It also costs less than replacing a full gazebo canopy kit with integrated netting, which typically for a mid-range product. For what it is, the price is defensible.
 
 ## Step-by-Step: Installing Gazebo Mosquito Netting
 
@@ -74,7 +73,6 @@ The installation process is not involved, but doing it in the wrong order will c
 Before unpacking the netting, look at your gazebo frame. Identify the four corner posts and the horizontal rails or beams that connect them at canopy height. The netting needs to attach at the top of each panel, either by ties, hooks, or a rod pocket, depending on the specific product version you receive. Wonwon has shipped minor variations over product generations, so check the attachment method when your package arrives.
 
 ![Mosquito Netting For Gazebos](/images/articles/structures-6.jpg)
-
 
 ### Step 2: Lay the Netting Out Before You Hang It
 
@@ -93,7 +91,6 @@ Most mosquito netting for gazebos hangs free at the bottom or uses stake loops t
 Open and close each zipper panel before your first evening use. Zippers on outdoor mesh products sometimes come slightly off-track from shipping. Running them the full length once or twice before they matter will tell you if there's an issue while you can still address it in daylight, rather than at dusk when you're trying to get inside quickly. (I do this with every zipper product I buy for outdoor use, which is probably excessive, but I've been burned.)
 
 ![Mosquito Netting For Gazebos](/images/articles/structures-7.jpg)
-
 
 ## Common Mistakes
 
@@ -115,7 +112,6 @@ The zipper panels overlap rather than fusing, and the top attachment typically h
 
 ![Mosquito Netting For Gazebos](/images/articles/structures-8.jpg)
 
-
 ### Not Accounting for the Canopy Condition
 
 Netting won't help you much if your canopy has tears or gaps at the seams. Insects don't need to come through the netting if they can come through the roof. Inspect the canopy fabric at the same time you're dealing with the netting. If the canopy itself is compromised, you're looking at a larger project. The broader range of structure options covered in [Greenhouses, Sheds & Gazebos](/structures/) includes gazebo canopy replacements and full structure upgrades if you're at that decision point.
@@ -133,7 +129,6 @@ One structural note: if you're at the earlier stage of deciding on a gazebo or p
 Probably not well. The panels are cut for a 10x12 footprint, and even a few inches of difference will show at the corners and zipper closures. If your gazebo is close to that size but not exact, you may get an acceptable fit, but I wouldn't count on it without checking customer reviews from people with similar structures. If your gazebo is a different size category entirely, look for netting specifically dimensioned for your footprint.
 
 ![Mosquito Netting For Gazebos](/images/articles/structures-1.jpg)
-
 
 ### Does the Wonwon netting include any kind of frame or support?
 
@@ -199,4 +194,3 @@ Wonwon sells netting in other dimensions, and competing products from brands lik
   ]
 }
 </script>
-

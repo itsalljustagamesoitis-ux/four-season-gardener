@@ -17,7 +17,7 @@ products:
       - "8-inch edger gives a clean, defined lawn edge without a gas engine"
       - "Multi-Head System means one battery powers multiple EGO attachments"
     article_specific_cons:
-      - "Multi-Head power head required , not a traditional standalone edger"
+      - "Multi-Head power head required, not a traditional standalone edger"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
@@ -46,10 +46,9 @@ If you're researching broader battery-powered tool options beyond just edging, t
 
 The [EGO Power+ ME0801](product:ego-me0801-edger-combo-b07b) is a competent, clean-cutting edger that earns its place in a well-stocked shed, with one condition: you need to be bought into the multi-attachment format, or be willing to start there. If you want a traditional single-purpose walk-behind edger, this isn't that. If you want one battery to run an edger, a hedge trimmer, a [pole hedge trimmer](/ego-pole-hedge-trimmer/), and whatever else EGO makes next season, this is a smart first purchase.
 
-At around $199 to $220 for the combo kit at the time of writing, it's priced at the mid-range of the battery edger market. Not cheap, but not padded with features you'll never use.
+it's priced at the mid-range of the battery edger market. Not cheap, but not padded with features you'll never use.
 
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-8.jpg)
-
 
 ## Key Specs
 
@@ -71,12 +70,11 @@ The 8-inch blade cuts a clean, defined line through established lawn edges with 
 
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-1.jpg)
 
-
 The blade spins quickly on startup, reaches full speed in under two seconds, and maintains consistent speed under load better than I initially expected from a 2.5Ah pack. I didn't notice the power-fade characteristic you sometimes get from smaller batteries when cutting through compacted soil edges. (I did time startup-to-full-speed across five cold-morning starts, for what it's worth.)
 
 ### Battery Runtime
 
-On a single 2.5Ah charge, I edged approximately 180 linear feet of established lawn border before the battery indicator dropped to one bar. That covers a typical suburban front and side yard in a single session. A larger property, or one with significant overgrown sections, will push you toward the 5Ah battery, which runs around $130 separately at current pricing.
+On a single 2.5Ah charge, I edged approximately 180 linear feet of established lawn border before the battery indicator dropped to one bar. That covers a typical suburban front and side yard in a single session. A larger property, or one with significant overgrown sections, will push you toward the 5Ah battery separately at current pricing.
 
 The standard charger included in the kit brings the 2.5Ah pack from depleted to full in roughly 50 minutes. That's acceptable for a session-and-wait workflow, though not fast enough for back-to-back heavy use.
 
@@ -87,7 +85,6 @@ The attachment connection is a twist-lock collar. Swap time from edger to, say, 
 This is where the multi-head format either wins you over or doesn't. If your property has enough variety of tasks that you'd otherwise carry multiple dedicated tools, the system pays for itself in storage space and battery management alone. If you edge twice a year and nothing else, the format adds complexity without a real return. My advice would be to map out which other attachments you'd realistically use before buying in.
 
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-2.jpg)
-
 
 ### Noise and Vibration
 
@@ -103,12 +100,11 @@ The 56V battery ecosystem is real and well-supported. EGO has been expanding its
 
 The 2.5Ah battery included in the kit is the minimum viable option. For anything over a quarter-acre of edging, budget for the larger pack. The multi-head format means you're managing an attachment, not a tool. The power head adds a connection point that a dedicated edger doesn't have, and over time, that collar seal will see more wear. EGO's warranty is solid (5 years on the tool, 3 on the battery), but connection points are connection points.
 
-The upfront cost also steps up sharply if you're not already in the EGO ecosystem. The kit runs around $199 to $220, but if you later want a string trimmer attachment, a hedge trimmer, and a blower, you're looking at several hundred dollars more. Compare that to buying a single-purpose battery edger and a separate [40V cordless leaf blower](/40v-cordless-leaf-blower/) from different brands at lower individual prices. The ecosystem bet pays off over time, not immediately.
+The upfront cost also steps up sharply if you're not already in the EGO ecosystem. The kit but if you later want a string trimmer attachment, a hedge trimmer, and a blower, you're looking at several hundred dollars more. Compare that to buying a single-purpose battery edger and a separate [40V cordless leaf blower](/40v-cordless-leaf-blower/) from different brands at lower individual prices. The ecosystem bet pays off over time, not immediately.
 
 [See EGO Power+ ME0801 Multi Combo Kit on Amazon →](product:ego-me0801-edger-combo-b07b)
 
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-3.jpg)
-
 
 ## Who It's For
 
@@ -134,10 +130,9 @@ For online purchase, yes. Stihl's cordless edger lineup is dealer-only and not a
 
 ![Stihl Battery Powered Edger](/images/articles/battery-equipment-4.jpg)
 
-
 ### Does the ME0801 kit include everything I need to start edging?
 
-Yes. The kit includes the power head, edger attachment, a 2.5Ah 56V battery, and a standard charger. For properties over roughly a quarter acre of edging, the included 2.5Ah battery may run short in a single session, and the 5Ah pack (currently around $130 separately) is worth considering.
+Yes. The kit includes the power head, edger attachment, a 2.5Ah 56V battery, and a standard charger. For properties over roughly a quarter acre of edging, the included 2.5Ah battery may run short in a single session, and the 5Ah pack is worth considering.
 
 ### Can I use the EGO 56V battery from this kit in other EGO tools?
 
@@ -169,7 +164,7 @@ EGO's Multi-Head System supports string trimmer, hedge trimmer, pole saw, and cu
       "name": "Does the ME0801 kit include everything I need to start edging?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The kit includes the power head, edger attachment, a 2.5Ah 56V battery, and a standard charger. For properties over roughly a quarter acre of edging, the included 2.5Ah battery may run short in a single session, and the 5Ah pack (currently around $130 separately) is worth considering."
+ "text": "Yes. The kit includes the power head, edger attachment, a 2.5Ah 56V battery, and a standard charger. For properties over roughly a quarter acre of edging, the included 2.5Ah battery may run short in a single session, and the 5Ah pack is worth considering."
       }
     },
     {
@@ -199,4 +194,3 @@ EGO's Multi-Head System supports string trimmer, hedge trimmer, pole saw, and cu
   ]
 }
 </script>
-

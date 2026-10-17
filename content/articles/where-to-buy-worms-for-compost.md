@@ -17,7 +17,7 @@ products:
       - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
       - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
     article_specific_cons:
-      - "Live shipping is weather-dependent , extreme heat or cold can affect survival rate"
+      - "Live shipping is weather-dependent, extreme heat or cold can affect survival rate"
 tags: ["composting", "informational"]
 disclosure_required: true
 noindex: false
@@ -52,7 +52,6 @@ Live worm orders are not all equivalent. The survival rate from point of packing
 
 ![Where To Buy Worms For Compost](/images/articles/composting-7.jpg)
 
-
 The reason I recommend [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers) is the combination of quantity, live arrival guarantee, and the fact that 1,000 worms is the right starting number for a Worm Factory 360. Not 500, not 2,000. You want enough worms to establish a working population without overcrowding the bin before the food supply ramps up.
 
 Uncle Jim's ships with moisture-absorbing material in the packing, which matters more than most people realize. The worms need humidity but not standing water. They also offer a live arrival guarantee, but you have to report within 48 hours of delivery. Take a photo of the bag when it arrives. If something looks wrong, contact them immediately. Do not wait three days and then try to file a claim.
@@ -66,7 +65,6 @@ The main caveat is weather. Extreme heat above 90°F or cold below freezing duri
 Before the worms arrive, you need a working bin. A standard Rubbermaid tote will work if you drill drainage holes and stack two containers, but if you're going to do this properly, the Worm Factory 360 is the bin to use with a 1,000-count order. It's a stackable tray system that lets you harvest castings from the bottom while worms continue working in the upper trays. You don't dig through the whole bin looking for castings. The system handles that for you.
 
 ![Where To Buy Worms For Compost](/images/articles/composting-8.jpg)
-
 
 If you're not sure which bin type suits your setup, our [worm composting kit](/worm-composting-kit/) article covers the equipment side in more detail.
 
@@ -83,7 +81,6 @@ Open the bag over the bin and gently distribute the worms across the bedding sur
 Temperature in the bin should stay between 55°F and 77°F. Above that range, the worms become sluggish or die. Below it, processing slows significantly. If you're keeping the bin in an unheated garage through a hard winter, find a different location.
 
 ![Where To Buy Worms For Compost](/images/articles/composting-1.jpg)
-
 
 ### Feed in the First Month
 
@@ -107,7 +104,6 @@ I mentioned this above, but it's worth repeating because it's the most expensive
 
 ![Where To Buy Worms For Compost](/images/articles/composting-2.jpg)
 
-
 ### Ignoring the 48-Hour Arrival Window
 
 If your worms arrive and a significant portion are dead, you need to contact Uncle Jim's within 48 hours to activate the guarantee. This is not a long window. Open the package when it arrives, not two days later.
@@ -129,7 +125,6 @@ For more on the broader mechanics of composting and how vermicomposting fits int
 1,000 worms is the standard starter quantity and the right amount for a Worm Factory 360 or a comparable two-tray system. It gives you a working population without overcrowding the bin before food input ramps up. Fewer than 500 and the bin is slow to establish. More than 2,000 in a small bin and you risk crowding before the population self-regulates.
 
 ![Where To Buy Worms For Compost](/images/articles/composting-3.jpg)
-
 
 ### Can I buy composting worms at a bait shop?
 
@@ -195,4 +190,3 @@ They need to stay above 50°F. Below that threshold, activity slows significantl
   ]
 }
 </script>
-

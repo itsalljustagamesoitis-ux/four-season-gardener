@@ -14,7 +14,7 @@ products:
   - id: "polywood-nautical-dining-set"
     role: "best_overall"
     article_specific_pros:
-      - "All-weather HDPE , won't rot, splinter, or require seasonal storage"
+      - "All-weather HDPE, won't rot, splinter, or require seasonal storage"
       - "Seats 6; 73-inch table works for large family gatherings"
     article_specific_cons:
       - "Very heavy set; not designed to move frequently"
@@ -28,14 +28,14 @@ products:
   - id: "amazonia-geneve-teak-dining-set-5pc"
     role: "also_consider"
     article_specific_pros:
-      - "FSC-certified teak sourcing , ethical and genuine Grade A"
-      - "4.7 stars , highest-rated 4-person teak set on Amazon"
+      - "FSC-certified teak sourcing, ethical and genuine Grade A"
+      - "4.7 stars, highest-rated 4-person teak set on Amazon"
     article_specific_cons:
       - "Premium price at ~$1,847"
   - id: "christopher-knight-acacia-dining-table"
     role: "also_consider"
     article_specific_pros:
-      - "Solid acacia hardwood , denser and more weather-resistant than eucalyptus or pine alternatives"
+      - "Solid acacia hardwood, denser and more weather-resistant than eucalyptus or pine alternatives"
       - "Clean straight-line design pairs with most outdoor chair styles"
     article_specific_cons:
       - "Acacia requires oiling 1-2 times per year to prevent cracking and graying"
@@ -55,7 +55,7 @@ faq:
     answer: "Expect to pay $900 to $2,000 for a genuine Grade A teak 4-person set from a reputable brand. Sets priced below $600 that claim solid teak are almost certainly using Grade B or Grade C wood, teak veneer, or a teak look-alike species — each of which has a shorter outdoor lifespan."
 ---
 
-A teak outdoor dining set for 4 is one of the few outdoor furniture purchases that genuinely rewards doing the research. The price range is wide, the quality signals are easy to fake, and the wrong choice either rots in three seasons or sits in storage half the year because it's too heavy to move. I've owned outdoor dining furniture long enough to have made several of those mistakes myself, and this guide is an attempt to save you from repeating them.
+A teak outdoor dining set for 4 is one of the few outdoor furniture purchases that genuinely rewards doing the research. The price range is wide, the quality signals are easy to fake, and the wrong choice either rots in three seasons or sits in storage half the year because it's too heavy to move. Plenty of those mistakes have shown up in real outdoor dining setups, and this guide is an attempt to save you from repeating them.
 Before we get into specific products, it's worth knowing that "teak" on a product listing doesn't always mean solid Grade A teak. It sometimes means teak veneer over cheaper wood, teak-colored HDPE plastic, or acacia marketed loosely as a teak alternative. None of those are automatically bad choices, but they're different purchases with different maintenance requirements and lifespans. The full breakdown of what distinguishes genuine teak from the alternatives is covered in our [Outdoor Furniture](/outdoor-furniture/) hub, but the short version is this: if a listing doesn't mention FSC certification or Grade A sourcing, ask before you buy.
 
 ## What to Look For in a Teak Outdoor Dining Set for 4
@@ -80,14 +80,14 @@ HDPE requires nothing except occasional washing with soapy water.
 ## Top Picks
 
 ### Best Entry Real Wood: [Amazonia Geneve 5-Piece Patio Rectangular Teak Dining Table Set](product:amazonia-geneve-teak-dining-set-5pc)
-This is my straightforward recommendation for buyers who want genuine teak and want to know what they're actually getting. The Amazonia Geneve carries FSC certification, which is not common in this category at any price. Amazonia has been sourcing and selling teak furniture long enough to have a verifiable reputation, which matters when you're spending close to $1,847.
+This is my straightforward recommendation for buyers who want genuine teak and want to know what they're actually getting. The Amazonia Geneve carries FSC certification, which is not common in this category at any price. Amazonia has been sourcing and selling teak furniture long enough to have a verifiable reputation, which matters when you're spending at this price point.
 The set is a rectangular table with four armchairs. Seats four comfortably. The table design is clean without being generic, and the construction is solid Grade A teak. It's rated 4.7 stars on Amazon, which is the highest average rating of any 4-person teak dining set I could find at time of writing, though I'll note the sample is around 55 reviews, smaller than mass-market alternatives. Still, 4.7 from 55 buyers who paid premium prices for a premium product is a more useful signal than 4.3 from 2,000 buyers who had variable expectations.
-At around $1,847, it's not cheap. But a comparable set from a luxury outdoor furniture retailer starts at $3,500 and doesn't necessarily come with better sourcing documentation. If you're in the market for real teak and you want to spend your research time on something other than verifying whether the wood is what the listing claims, this is where I'd start.
-One honest caveat: at this price, don't plan on including seat pads from the purchase. Budget an extra $150-$300 for quality Sunbrella fabric cushions separately.
+it's not cheap. But a comparable set from a luxury outdoor furniture retailer and doesn't necessarily come with better sourcing documentation. If you're in the market for real teak and you want to spend your research time on something other than verifying whether the wood is what the listing claims, this is where I'd start.
+One honest caveat: at this price, don't plan on including seat pads from the purchase. Budget for quality Sunbrella fabric cushions separately.
 
 ### Best Long-Term Value: [POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak](product:polywood-nautical-dining-set)
 I'll say the counterintuitive thing first: this is not a teak dining set. It's a teak-colored HDPE set, made from recycled plastic lumber, with a finish that mimics the look of teak well enough that guests don't usually ask. If that's a disqualifier for you, skip to the Amazonia above.
-If it isn't, here's the case for it. Real teak dining sets run $3,000-$8,000 for quality options. They require annual oiling. They need to come in or get covered in hard winters. The POLYWOOD set costs less, requires nothing except a garden hose, and comes with a 20-year warranty on the structural components. POLYWOOD has manufactured HDPE furniture long enough that their warranty claims are backed by an actual track record, not just marketing language.
+If it isn't, here's the case for it. Real teak dining sets at the quality end of the market command significant prices. They require annual oiling. They need to come in or get covered in hard winters. The POLYWOOD set costs less, requires nothing except a garden hose, and comes with a 20-year warranty on the structural components. POLYWOOD has manufactured HDPE furniture long enough that their warranty claims are backed by an actual track record, not just marketing language.
 The POLYWOOD Nautical Trestle is technically a 7-piece set, which means it seats 6, not 4. The table is 73 inches. If you have a large deck and occasionally host more than four people, that's an advantage. If you have a smaller space and genuinely only need seating for four, it may be oversized. The set is also very heavy, as HDPE furniture tends to be. Once it's placed, plan on it staying there.
 For a buyer doing a real cost-of-ownership comparison between this and genuine teak, the math usually favors POLYWOOD over a ten-year horizon, especially if you factor in the time cost of seasonal maintenance.
 

@@ -17,7 +17,7 @@ products:
       - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
       - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
     article_specific_cons:
-      - "Live shipping is weather-dependent , extreme heat or cold can affect survival rate"
+      - "Live shipping is weather-dependent, extreme heat or cold can affect survival rate"
 tags: ["composting", "informational"]
 disclosure_required: true
 noindex: false
@@ -48,7 +48,6 @@ Live worms shipped in a box is a situation with more variables than most online 
 
 ![Where To Buy Compost Worms](/images/articles/composting-1.jpg)
 
-
 I've seen people try to source red wigglers locally, which can work if you happen to have a bait shop or small-scale worm farm nearby that sells Eisenia fetida specifically. Most bait shops carry nightcrawlers, which are a different species and a bad fit for a bin. The local option is worth pursuing if it's available, but for most people it isn't, and that means mail-order.
 
 Before I get into the specific product, it's worth being clear about quantity. Starting a bin with fewer than 500 worms is a frustrating experience. The colony takes too long to establish, early overfeeding is harder to avoid, and you'll wait months before seeing any meaningful processing. One thousand worms is the minimum I'd recommend for a standard tray-based bin. If you're looking at something in the range of a [worm composting kit](/worm-composting-kit/) that includes both the bin and the worms, the same quantity principle applies.
@@ -57,10 +56,9 @@ Before I get into the specific product, it's worth being clear about quantity. S
 
 The product I'd point you toward is the [Uncle Jim's Worm Farm 1000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers). Uncle Jim's has been selling live worms by mail long enough to have worked out the logistics. The worms ship packed in moisture-absorbing material, which handles the condensation and oxygen problems that kill worms in poorly packed shipments.
 
-The 1,000-count listing runs around $40 to $45 at the time of writing, depending on the season. That's a reasonable price for a guaranteed live count, and the guarantee itself is worth noting. If you report losses within two days of arrival, Uncle Jim's will address it. That two-day window is tight, so open the package the day it arrives and assess the worms. Don't leave it until the weekend.
+The 1,000-count listing, depending on the season. That's a reasonable price for a guaranteed live count, and the guarantee itself is worth noting. If you report losses within two days of arrival, Uncle Jim's will address it. That two-day window is tight, so open the package the day it arrives and assess the worms. Don't leave it until the weekend.
 
 ![Where To Buy Compost Worms](/images/articles/composting-2.jpg)
-
 
 The count pairs well with a Worm Factory 360, which is the bin I'd use with this particular listing. The 360's tray system is designed for exactly this population size, and the worms will work through the first tray before you add the second, which is the right pace for a beginner to track what's working. If you're still deciding on a bin and want to compare some conventional options first, the [black compost bin](/black-compost-bin/) review covers a different composting approach that may be a better fit for people who want an outdoor, low-maintenance setup instead.
 
@@ -78,7 +76,6 @@ Getting worms into a bin correctly takes about 30 minutes and is not complicated
 
 ![Where To Buy Compost Worms](/images/articles/composting-3.jpg)
 
-
 **Introduce the worms with minimal disturbance.** Tip the contents of the shipping bag into the prepared bedding. Don't try to separate the worms from the packing material. The packing material is fine to add to the bin and the worms will sort themselves out. Leave the bin lid off for 20 to 30 minutes. Light causes the worms to burrow down into the bedding, which is what you want.
 
 **First feeding.** Wait 24 to 48 hours before adding food. A small amount of vegetable scraps or coffee grounds, buried under the bedding surface, is enough for the first week. The worms are adjusting to their new environment and a heavy food load at this stage will cause pH and moisture problems before the colony is ready to process it.
@@ -92,7 +89,6 @@ Getting worms into a bin correctly takes about 30 minutes and is not complicated
 **Underestimating temperature.** Worm bins should be kept between roughly 55°F and 77°F. A bin in an unheated garage over a hard winter will stall out or die. A bin on a south-facing patio in August in full sun will cook. I keep mine in the basement from November through April.
 
 ![Where To Buy Compost Worms](/images/articles/composting-4.jpg)
-
 
 **Overfeeding early.** A new colony with 1,000 worms cannot process what a healthy, established 3,000-worm colony can. Rotting food that the worms can't keep up with attracts pests and creates acidity. Add small amounts and let the worms catch up before adding more.
 
@@ -109,7 +105,6 @@ If you're still building out your understanding of different composting approach
 One thousand worms is the right starting quantity for a standard tray-based bin like the Worm Factory 360. You can start with 500, but the colony will take longer to establish and you'll have a narrower margin for error with moisture and feeding. Two pounds of worms (roughly 2,000 count) is a reasonable ceiling for a single-bin setup starting out.
 
 ![Where To Buy Compost Worms](/images/articles/composting-5.jpg)
-
 
 ### Can I use regular earthworms from my garden instead?
 
@@ -175,4 +170,3 @@ Sometimes. Call bait shops in your area and ask specifically for red wigglers or
   ]
 }
 </script>
-

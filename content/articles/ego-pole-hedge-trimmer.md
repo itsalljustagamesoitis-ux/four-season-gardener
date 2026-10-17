@@ -14,7 +14,7 @@ products:
   - id: "ego-ht2411-hedge-trimmer"
     role: "primary"
     article_specific_pros:
-      - "1-inch cut capacity handles thick branches , more than most cordless hedge trimmers"
+      - "1-inch cut capacity handles thick branches, more than most cordless hedge trimmers"
       - "Brushless motor with 3,000 strokes per minute; lighter than gas models at 7 lbs"
     article_specific_cons:
       - "2.5Ah included battery gives only about 45 minutes of continuous use"
@@ -42,15 +42,13 @@ If you're comparing cordless options more broadly, the [Battery & Cordless Tools
 
 ## Quick Verdict
 
-The HT2411 is a capable, well-built hedge trimmer at a price point that's hard to argue with. The kit, which includes a 2.5Ah battery and standard charger, currently runs around $149 to $169 on Amazon depending on timing. For a new EGO user, that's reasonable entry into a battery platform you'll actually want to stay in. The 24-inch blade handles most residential hedging work without complaint, and the 1-inch cut capacity is better than you typically get at this price.
+The HT2411 is a capable, well-built hedge trimmer at a price point that's hard to argue with. The kit, which includes a 2.5Ah battery and standard charger. For a new EGO user, that's reasonable entry into a battery platform you'll actually want to stay in. The 24-inch blade handles most residential hedging work without complaint, and the 1-inch cut capacity is better than you typically get at this price.
 
 The battery runtime is the honest limitation. Forty-five minutes of continuous use is about what you get, which covers a lot of hedges on a normal property but runs short if you have a serious amount of formal hedging to maintain. If that's your situation, you'll want to look at the extended-battery options covered in our [EGO hedge trimmer with battery and charger](/ego-hedge-trimmer-with-battery-and-charger/) piece before deciding.
 
-**Bottom line.** Buy it if you have moderate hedging needs and want to get into the EGO platform without spending $250. Skip it if your hedging takes longer than 45 minutes in a single session and you don't want to wait for a recharge mid-job.
+**Bottom line.** Buy it if you have moderate hedging needs and want to get into the EGO platform without spending that much. Skip it if your hedging takes longer than 45 minutes in a single session and you don't want to wait for a recharge mid-job.
 
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-6.jpg)
-
-
 
 [Check current price on Amazon](product:ego-ht2411-hedge-trimmer)
 
@@ -77,12 +75,11 @@ At 3,000 strokes per minute, the blade moves fast enough that you're not fightin
 
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-7.jpg)
 
-
 ### Battery Life in Real Conditions
 
 Forty-five minutes is accurate under normal use, meaning light to medium hedge material with occasional pauses. Push it through dense overgrown material continuously and you'll likely see closer to 35 minutes. That's not a failure mode, it's just physics. The 2.5Ah battery is adequate for the tool's intended use case.
 
-The 56V platform means that if you already own a larger EGO battery, say the 5.0Ah or 7.5Ah pack, you can drop it into this trimmer and extend your runtime substantially. The 7.5Ah battery currently runs around $179 separately, which obviously changes the economics, but it's worth knowing the option exists. (I've been running the 5.0Ah across multiple EGO tools and it's the battery I'd buy first if you're equipping from scratch.)
+The 56V platform means that if you already own a larger EGO battery, say the 5.0Ah or 7.5Ah pack, you can drop it into this trimmer and extend your runtime substantially. The 7.5Ah battery sold separately at a meaningful price, which obviously changes the economics, but it's worth knowing the option exists. (I've been running the 5.0Ah across multiple EGO tools and it's the battery I'd buy first if you're equipping from scratch.)
 
 ### Handling and Weight
 
@@ -91,7 +88,6 @@ Seven point three pounds with battery installed is noticeably lighter than a com
 The one handling complaint I have is specific to overhead cuts. The blade guard, which is a sensible safety feature, makes one-handed positioning awkward when you're reaching up into the top of a taller hedge. Both hands on the tool is the correct posture anyway, but the guard catches on branches when you're maneuvering at angle. This is a design choice I understand but find mildly irritating in practice (which I realize is a specific complaint to make about a hedge trimmer).
 
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-8.jpg)
-
 
 ### Noise and Vibration
 
@@ -125,14 +121,13 @@ If you're evaluating a broader cordless yard setup, our coverage of [40V cordles
 
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-1.jpg)
 
-
 It's not the right tool if your hedging is genuinely extensive, say, a half-acre of formal hedgerow that takes well over an hour to work through. For that, you either need multiple batteries or a look at EGO's 24-inch model with a larger battery pack.
 
 It's also not for anyone committed to gas. If you want the power headroom and don't mind the weight and maintenance, gas is still gas. But if you've been looking for a reason to switch, the HT2411 at this price is a reasonable one.
 
 ## A Note on Platform Value
 
-One thing that sometimes gets underweighted in hedge trimmer reviews is what the tool costs in context of the battery ecosystem. Buying this kit at around $159 gets you a 56V battery and charger that work with EGO's mowers, blowers, chainsaws, and string trimmers. The battery alone retails for around $80 to $90 at 2.5Ah. So you're effectively paying around $70 to $80 for the trimmer itself once you factor that out. At that price, the hardware quality, motor type, and cut capacity are genuinely hard to beat.
+One thing that sometimes gets underweighted in hedge trimmer reviews is what the tool costs in context of the battery ecosystem. Buying this kit gets you a 56V battery and charger that work with EGO's mowers, blowers, chainsaws, and string trimmers. The battery alone retails at 2.5Ah. So you're effectively paying for the trimmer itself once you factor that out. At that price, the hardware quality, motor type, and cut capacity are genuinely hard to beat.
 
 For a full picture of what's available in the cordless tool space, the [battery-powered tools section](/battery-equipment/) of this site covers the broader EGO lineup and competes it against Greenworks, Ryobi, and Milwaukee options where relevant.
 
@@ -145,7 +140,6 @@ For a full picture of what's available in the cordless tool space, the [battery-
 With the included 2.5Ah battery, expect around 45 minutes of continuous use on light to medium hedge material. Dense or woody material will reduce that to around 35 minutes. The trimmer accepts any EGO 56V Arc Lithium battery, so running a 5.0Ah or 7.5Ah pack will extend runtime significantly.
 
 ![Ego Pole Hedge Trimmer](/images/articles/battery-equipment-2.jpg)
-
 
 ### Can I use my existing EGO batteries with the HT2411?
 
@@ -161,7 +155,7 @@ At 7.3 lbs, the HT2411 is noticeably lighter than comparable gas models. The Hus
 
 ### Does the EGO HT2411 come with a battery and charger?
 
-Yes, the standard kit includes a 2.5Ah 56V battery and a standard charger. This is one of the reasons the kit represents good value as an entry point into the EGO platform. At around $149 to $169 at the time of writing, you're getting a functional battery and charger along with the trimmer, which makes the effective tool cost considerably lower than the sticker price suggests.
+Yes, the standard kit includes a 2.5Ah 56V battery and a standard charger. This is one of the reasons the kit represents good value as an entry point into the EGO platform. you're getting a functional battery and charger along with the trimmer, which makes the effective tool cost considerably lower than the sticker price suggests.
 
 <script type="application/ld+json">
 {
@@ -205,10 +199,9 @@ Yes, the standard kit includes a 2.5Ah 56V battery and a standard charger. This 
       "name": "Does the EGO HT2411 come with a battery and charger?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, the standard kit includes a 2.5Ah 56V battery and a standard charger. This is one of the reasons the kit represents good value as an entry point into the EGO platform. At around $149 to $169 at the time of writing, you're getting a functional battery and charger along with the trimmer, which makes the effective tool cost considerably lower than the sticker price suggests."
+ "text": "Yes, the standard kit includes a 2.5Ah 56V battery and a standard charger. This is one of the reasons the kit represents good value as an entry point into the EGO platform. you're getting a functional battery and charger along with the trimmer, which makes the effective tool cost considerably lower than the sticker price suggests."
       }
     }
   ]
 }
 </script>
-

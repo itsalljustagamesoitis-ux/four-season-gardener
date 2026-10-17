@@ -17,35 +17,35 @@ products:
       - "Pyramid flame column visible through glass tube is a dramatic visual focal point"
       - "Wheels built into base for easy repositioning without lifting"
     article_specific_cons:
-      - "Quartz glass tube is fragile , a tip-over or strong impact can crack it"
+      - "Quartz glass tube is fragile, a tip-over or strong impact can crack it"
   - id: "mr-heater-big-buddy-mh18b"
     role: "also_consider"
     article_specific_pros:
       - "Heats up to 450 sq ft; adjustable output from 4,000 to 18,000 BTU"
       - "CSA-approved for indoor use; built-in ODS shuts off automatically in low-oxygen situations"
     article_specific_cons:
-      - "Runs through 1 lb cylinders quickly at high setting , outdoor tank adapter strongly recommended"
+      - "Runs through 1 lb cylinders quickly at high setting, outdoor tank adapter strongly recommended"
   - id: "mr-heater-portable-buddy-b002"
     role: "also_consider"
     article_specific_pros:
-      - "9,000 BTU output in a compact body , easy to move to any patio or porch location"
+      - "9,000 BTU output in a compact body, easy to move to any patio or porch location"
       - "Low-oxygen shutoff and tip-over safety make it safe for enclosed or semi-enclosed outdoor spaces"
     article_specific_cons:
-      - "Small 1-lb canisters run out quickly at high output , an adapter hose for a 20 lb tank is a near-required purchase"
+      - "Small 1-lb canisters run out quickly at high output, an adapter hose for a 20 lb tank is a near-required purchase"
   - id: "dr-infrared-heater-outdoor-b077"
     role: "also_consider"
     article_specific_pros:
-      - "5,300+ ratings and proven category bestseller , one of the most reliable portable electric infrared heaters available"
-      - "Instant infrared heat with no warm-up time , plug in and the heat arrives immediately"
+      - "5,300+ ratings and proven category bestseller, one of the most reliable portable electric infrared heaters available"
+      - "Instant infrared heat with no warm-up time, plug in and the heat arrives immediately"
     article_specific_cons:
-      - "No thermostat on this model , manual on/off only with no automatic temperature cycling"
+      - "No thermostat on this model, manual on/off only with no automatic temperature cycling"
   - id: "avenger-tank-top-infrared-b0df"
     role: "also_consider"
     article_specific_pros:
-      - "Mounts directly on a standard 20 lb propane tank , no separate stand or hose required"
-      - "30,000 BTU infrared output at under $70 , most affordable high-output propane infrared option"
+      - "Mounts directly on a standard 20 lb propane tank, no separate stand or hose required"
+      - "30,000 BTU infrared output at under $70, most affordable high-output propane infrared option"
     article_specific_cons:
-      - "No thermostat or timer , manual operation only"
+      - "No thermostat or timer, manual operation only"
 tags: ["fire-and-heat", "roundup"]
 disclosure_required: true
 noindex: false
@@ -64,7 +64,7 @@ safety_topics:
   - heating
 ---
 
-Portable patio heaters cover a lot of ground, literally and figuratively. You've got 50,000 BTU fire tables doing double duty as furniture, and you've got $40 tabletop bowls that produce about as much heat as a large candle. Both get called "portable patio heaters" in product listings, which makes comparison shopping genuinely confusing. This roundup covers five products across that full range, with a clear recommendation for each use case. If you want to browse the broader category before committing, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub has additional context on fuel types, BTU ratings, and placement considerations.
+Portable patio heaters cover a lot of ground, literally and figuratively. You've got 50,000 BTU fire tables doing double duty as furniture, and you've got budget tabletop bowls that produce about as much heat as a large candle. Both get called "portable patio heaters" in product listings, which makes comparison shopping genuinely confusing. This roundup covers five products across that full range, with a clear recommendation for each use case. If you want to browse the broader category before committing, the [Fire Pits & Patio Heaters](/fire-and-heat/) hub has additional context on fuel types, BTU ratings, and placement considerations.
 
 My own setup on 12 acres in Litchfield County has gone through several iterations. I've used mushroom-style overhead heaters, a wood-burning ring, and now a propane fire table as the primary gathering point on the main terrace. These five products I'm reviewing here represent the realistic options for most residential patios, and I'll be direct about where each one earns its price and where it doesn't.
 
@@ -78,14 +78,13 @@ The Hiland pyramid heater is the statement piece of this category. The flame run
 
 At 40,000 BTU, the output is reasonable for an outdoor gathering area within about 8 to 10 feet of the unit. The hammered bronze finish holds up better than polished surfaces in wet conditions, and the base has built-in wheels, which matters more than it sounds. If you've ever tried to reposition one of these full-size propane heaters across a stone patio, the wheels are a real quality-of-life improvement. CSA certification covers tip-over shutoff and pilot outage protection, which are standard safety requirements I wouldn't buy a freestanding heater without.
 
-The glass tube is the practical liability. It's quartz, not tempered, and a tip-over or a hard impact from a chair or a dog will crack it. Replacement tubes are available on Amazon for around $30 to $40 at the time of writing, so it's not a product-ending failure, but it's an expense and an inconvenience. Worth keeping a spare on hand if you run this on an exposed terrace.
+The glass tube is the practical liability. It's quartz, not tempered, and a tip-over or a hard impact from a chair or a dog will crack it. Replacement tubes are available on Amazon, so it's not a product-ending failure, but it's an expense and an inconvenience. Worth keeping a spare on hand if you run this on an exposed terrace.
 
 Overhead mushroom-style heaters, like the AZ Patio Heaters HLB-1212 I ran for two seasons before this, distribute heat more evenly to seated guests because the heat radiates down and out from above rather than outward from a central column. If even coverage for a dinner table is your priority, a mushroom heater is the better call. The Hiland is for the space where looks matter as much as performance.
 
 ![Patio Heater Portable](/images/articles/fire-and-heat-5.jpg)
 
-
-Price is currently around $190 to $220 on Amazon depending on the variant.
+Price.
 
 **Pros:**
 - Pyramid flame column is a genuine visual asset, especially at night
@@ -109,7 +108,7 @@ What it does, it does very well. Adjustable output from 4,000 to 18,000 BTU, CSA
 
 Here's the practical warning: the 1 lb cylinders are expensive per hour at full output, and at 18,000 BTU you'll burn through them quickly. The F273699 hose-and-adapter accessory, currently around $25 on Amazon, connects to a 20 lb tank and should be considered mandatory if you're using this for anything more than occasional short sessions. Buy the hose when you buy the heater.
 
-For an open outdoor patio, the Big Buddy is the wrong tool. Radiant heat warms objects directly in front of the unit, and outdoors, that warm air dissipates immediately. In an open space you'd need to be sitting about 3 feet away from it to feel much. For a three-season enclosed porch, a workshop, a greenhouse, or a garage, it earns its price. Currently around $120 to $140 depending on availability.
+For an open outdoor patio, the Big Buddy is the wrong tool. Radiant heat warms objects directly in front of the unit, and outdoors, that warm air dissipates immediately. In an open space you'd need to be sitting about 3 feet away from it to feel much. For a three-season enclosed porch, a workshop, a greenhouse, or a garage, it earns its price. 
 
 **Pros:**
 - CSA-approved for indoor and enclosed space use
@@ -138,7 +137,7 @@ The ongoing consumable cost is a real consideration: a 20 lb propane tank runs r
 
 Weight is the main practical limitation. The concrete-look tabletop is heavy, and once this thing is assembled and positioned, you're not moving it casually. Pick a permanent location before you build it.
 
-Price runs around $280 to $320 currently.
+Price.
 
 **Pros:**
 - 50,000 BTU heats a 15-foot radius effectively
@@ -162,14 +161,13 @@ Electronic ignition with adjustable flame height means no matches, no piezo clic
 
 ![Patio Heater Portable](/images/articles/fire-and-heat-7.jpg)
 
-
 The natural gas conversion kit is included. This is the long-term value argument that makes the premium price more defensible. If you have access to a natural gas line on your patio, or plan to run one, converting from propane eliminates the tank cost and refill logistics entirely. The cost per BTU on natural gas is substantially lower than propane, and the convenience difference is significant. If this is going into a permanent outdoor living space where you'll be running it frequently, the natural gas conversion probably pays back the price premium over two or three seasons.
 
 For a deeper look at how rectangular designs like this one fit into a full outdoor living layout, the [rectangular fire pit table](/rectangular-fire-pit-table/) article covers configuration options worth reading before you finalize placement.
 
 The glass ember bed needs occasional cleaning as it accumulates fine debris, which is a minor but real maintenance task.
 
-Pricing on the St. Tropez runs around $500 to $600, placing it well above the Outland Living table. If you're outfitting a permanent outdoor room, that's a reasonable number. If you're furnishing a rental property or a patio you're not sure you'll keep, it isn't.
+Pricing on the St. Tropez, placing it well above the Outland Living table. If you're outfitting a permanent outdoor room, that's a reasonable number. If you're furnishing a rental property or a patio you're not sure you'll keep, it isn't.
 
 **Pros:**
 - Electronic ignition, adjustable flame height
@@ -195,10 +193,9 @@ If you have a standard patio set with an umbrella hole in the center table, this
 
 ![Patio Heater Portable](/images/articles/fire-and-heat-8.jpg)
 
+The cost-per-hour on 1 lb cylinders is painful if you run this for long sessions. A single cylinder at high output lasts around 1 to 2 hours, and those disposable cylinders are widely available at hardware stores and add up quickly. It's not designed for extended use. Occasional evenings and dinner parties, yes. Replacing a full fire pit, no.
 
-The cost-per-hour on 1 lb cylinders is painful if you run this for long sessions. A single cylinder at high output lasts around 1 to 2 hours, and those disposable cylinders run about $6 to $8 each at most hardware stores. It's not designed for extended use. Occasional evenings and dinner parties, yes. Replacing a full fire pit, no.
-
-Price is around $35 to $50, which is appropriate for what it is. (At that price, I'd buy two.)
+Price is, which is appropriate for what it is. (At that price, I'd buy two.)
 
 **Pros:**
 - Compact enough for balconies, decks, and small patios
@@ -222,14 +219,13 @@ Full-size propane heaters (the Hiland pyramid and the Big Buddy) prioritize BTU 
 
 Fire tables (Outland Living and Napoleon) are furniture as much as heating equipment. They anchor a seating area, they look intentional, and they require permanent or semi-permanent placement. If you want a fire feature that does double duty as a center or side table for your outdoor room, this is the category. For further reading on how fire tables integrate into a patio furniture setup, the [fire pit with coffee table](/fire-pit-with-coffee-table/) article is worth reviewing before you buy.
 
-Tabletop fire bowls (Bond Lara) are in a separate category entirely, which is atmosphere. There's nothing wrong with buying a $40 flame centerpiece if that's what you want, as long as you're not expecting it to extend your outdoor season by a meaningful amount.
+Tabletop fire bowls (Bond Lara) are in a separate category entirely, which is atmosphere. There's nothing wrong with buying a flame centerpiece if that's what you want, as long as you're not expecting it to extend your outdoor season by a meaningful amount.
 
 ### BTU Ratings and Outdoor Reality
 
 BTU ratings on outdoor heating equipment are consistently optimistic. The numbers are calculated under controlled conditions, not accounting for wind, patio orientation, or the ambient temperature differential on a 40-degree night. A general rule of thumb: take the manufacturer's effective heating radius and reduce it by 30 percent for a realistic outdoor estimate. The Outland Living table's claimed 15-foot radius becomes closer to 10 to 12 feet in practice on a breezy evening.
 
 ![Patio Heater Portable](/images/articles/fire-and-heat-1.jpg)
-
 
 ### Propane vs. Natural Gas
 
@@ -246,4 +242,3 @@ For additional heater options that work without floor space at all, the [wall mo
 The full [Fire Pits & Patio Heaters](/fire-and-heat/) category hub covers additional fuel and format options if none of the five products here fit your specific setup.
 
 ,
-

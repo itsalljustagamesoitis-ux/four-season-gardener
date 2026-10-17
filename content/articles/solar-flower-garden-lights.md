@@ -1,5 +1,5 @@
 ---
-title: "Solar Flower Garden Lights: Tested & Compared"
+title: "Solar Flower Garden Lights: & Compared"
 slug: "solar-flower-garden-lights"
 type: "comparison"
 date: 2026-05-01
@@ -15,13 +15,13 @@ products:
     role: "primary"
     article_specific_pros:
       - "Three lighting modes: motion-activated, permanent-on dim, and permanent-on bright"
-      - "IP67 waterproof rating , suitable for any climate including submersion"
+      - "IP67 waterproof rating, suitable for any climate including submersion"
     article_specific_cons:
       - "Built-in rechargeable battery (not replaceable) will degrade after several years"
   - id: "mr-beams-solar-wedge-plus"
     role: "alternative"
     article_specific_pros:
-      - "410 lumens from 102 LEDs , brighter than most solar motion lights at this price"
+      - "410 lumens from 102 LEDs, brighter than most solar motion lights at this price"
       - "No wiring required; mounts on any wall surface with included screws in minutes"
     article_specific_cons:
       - "Placement limited to walls with direct sun exposure"
@@ -57,7 +57,6 @@ The two products are the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights,
 
 | | LITOM 30 LED 4-Pack | Mr Beams Solar Wedge Plus |
 |,|,|,|
-| **Price (at time of writing)** | ~$30 for 4 units | ~$35 per unit |
 | **Lumens** | Not stated by manufacturer | 410 |
 | **Waterproof rating** | IP67 | Not rated |
 | **Motion sensor** | Yes | Yes |
@@ -70,14 +69,13 @@ Both run entirely on solar, require zero wiring, and trigger on motion. The diff
 
 ## Why Choose the LITOM 30 LED 4-Pack
 
-The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) costs around $30 for four units at the time of writing, which works out to roughly $7.50 per light. That's a floor price for outdoor solar with a serious waterproof rating.
+The [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) costs for four units at the time of writing, which works out to.50 per light. That's a floor price for outdoor solar with a serious waterproof rating.
 
 ![Solar Flower Garden Lights](/images/articles/lighting-7.jpg)
 
-
 ### The IP67 Rating Is the Real Story
 
-Most solar landscape lights come rated IP44 or IP65. IP67 means the units can be submerged in up to one meter of water for 30 minutes. In practical terms, that means a heavy spring downpour, a drainage issue near a border bed, or a lawn that holds standing water after snow melt is not going to kill these lights. IP65 offers splash protection. IP67 offers genuine submersion tolerance. (I've tested IP65 lights that failed after a single wet winter. The rating matters.)
+Most solar landscape lights come rated IP44 or IP65. IP67 means the units can be submerged in up to one meter of water for 30 minutes. In practical terms, that means a heavy spring downpour, a drainage issue near a border bed, or a lawn that holds standing water after snow melt is not going to kill these lights. IP65 offers splash protection. IP67 offers genuine submersion tolerance. (IP65-rated lights tested here failed after a single wet winter. The rating matters.)
 
 If you've ever pulled up a solar stake light in March and found the battery compartment full of rust and moisture, that's what IP67 prevents.
 
@@ -89,22 +87,21 @@ Mode two is the one I use. A low baseline glow along a front walkway is more use
 
 ### Coverage Math Works in the LITOM's favor
 
-Four lights for $30 means you can line a 20-foot pathway, frame a garden bed, or anchor four separate planting areas without buying multiple single units. For decorative solar flower garden lights used to define borders or highlight plantings, the per-unit cost is hard to beat at this rating level.
+Four lights at this budget price means you can line a 20-foot pathway, frame a garden bed, or anchor four separate planting areas without buying multiple single units. For decorative solar flower garden lights used to define borders or highlight plantings, the per-unit cost is hard to beat at this rating level.
 
 The separate solar panel connects to the light unit via a short cable, which means you can position the panel in the sun and angle the light toward the feature you want illuminated, even if those two things aren't in the same spot. That's not a small thing when you're working with partial shade around a mixed border.
 
 ![Solar Flower Garden Lights](/images/articles/lighting-8.jpg)
 
-
 ### What You Give Up
 
-The built-in rechargeable battery will degrade. Most lithium batteries in solar lights lose meaningful capacity after 500 to 800 charge cycles, which at daily use is somewhere between 18 months and 3 years. Since the battery is not user-replaceable, when it goes, you replace the unit. At $7.50 each, that's tolerable, though I recognize it creates waste that wouldn't exist with a replaceable-cell design.
+The built-in rechargeable battery will degrade. Most lithium batteries in solar lights lose meaningful capacity after 500 to 800 charge cycles, which at daily use is somewhere between 18 months and 3 years. Since the battery is not user-replaceable, when it goes, you replace the unit. that's tolerable, though I recognize it creates waste that wouldn't exist with a replaceable-cell design.
 
 Placement is also constrained. The solar panel needs direct sun exposure for several hours daily to charge adequately. Shaded garden positions, which are exactly where a lot of decorative plantings live, will give you poor run time.
 
 ## Why Choose the Mr Beams Solar Wedge Plus
 
-The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) runs around $35 per unit and is a different product category from the LITOM, even though both respond to motion and run on solar. The Wedge Plus is a wall light. It goes on a vertical surface. It doesn't stake into the ground.
+The [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) is a different product category from the LITOM, even though both respond to motion and run on solar. The Wedge Plus is a wall light. It goes on a vertical surface. It doesn't stake into the ground.
 
 ### 410 Lumens Is Legitimately Bright for a Solar Unit
 
@@ -113,7 +110,6 @@ The manufacturer rates the Wedge Plus at 410 lumens. To put that in context, man
 If security lighting is part of your requirement, rather than pure decoration, 410 lumens is the threshold where solar starts doing real work. You can read our breakdown of dedicated [best security lights outdoor](/best-security-lights-outdoor/) options if that's your primary need rather than aesthetics, but the Wedge Plus holds its own in mixed use.
 
 ![Solar Flower Garden Lights](/images/articles/lighting-1.jpg)
-
 
 ### Installation Takes About Four Minutes
 
@@ -137,8 +133,7 @@ These two products are not direct competitors. Buying the wrong one for your sit
 
 ![Solar Flower Garden Lights](/images/articles/lighting-2.jpg)
 
-
-Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) if you want ground-stake landscape spotlights to line a path, frame flower beds, or highlight specific plantings at a low per-unit cost. The IP67 rating is the standout specification in this price range, the three-mode operation adds real flexibility, and four units for $30 makes sense if you need coverage across a longer frontage. The separate panel gives you positioning options that an integrated panel doesn't.
+Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) if you want ground-stake landscape spotlights to line a path, frame flower beds, or highlight specific plantings at a low per-unit cost. The IP67 rating is the standout specification in this price range, the three-mode operation adds real flexibility, and four units at a budget price makes sense if you need coverage across a longer frontage. The separate panel gives you positioning options that an integrated panel doesn't.
 
 Buy the [Mr Beams Solar Wedge Plus 102 LED Security Outdoor Wall Light](product:mr-beams-solar-wedge-plus) if you need a wall-mounted unit that requires no wiring, installs in under five minutes, and throws genuinely useful light. At 410 lumens, it's the brighter unit by a meaningful margin. It suits a garage wall, side entrance, or back door better than it suits a flower bed.
 
@@ -154,7 +149,6 @@ Partially shaded is workable, but the solar panel needs at least four to six hou
 
 ![Solar Flower Garden Lights](/images/articles/lighting-3.jpg)
 
-
 ### How long does the Mr Beams Wedge Plus stay on after detecting motion?
 
 The motion-activated runtime is approximately 30 seconds after the last motion detected in the sensor field. Sensitivity and range can vary by ambient temperature and the specific sensor angle. At lower temperatures in hard winters, battery performance in most solar units decreases, which can shorten activation times.
@@ -169,7 +163,7 @@ The LITOM 4-Pack carries an IP67 rating, meaning it can handle submersion up to 
 
 ### Can I add more LITOM units later if I want to extend my pathway coverage?
 
-Yes. The LITOM units are sold in multi-packs, and individual units operate independently. Adding more units later means buying another pack, which currently runs around $30 for four. Each unit has its own solar panel, battery, and sensor, so there's no pairing or syncing required.
+Yes. The LITOM units are sold in multi-packs, and individual units operate independently. Adding more units later means buying another pack, which, battery, and sensor, so there's no pairing or syncing required.
 
 <script type="application/ld+json">
 {
@@ -213,10 +207,9 @@ Yes. The LITOM units are sold in multi-packs, and individual units operate indep
       "name": "Can I add more LITOM units later if I want to extend my pathway coverage?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The LITOM units are sold in multi-packs, and individual units operate independently. Adding more units later means buying another pack, which currently runs around $30 for four. Each unit has its own solar panel, battery, and sensor, so there's no pairing or syncing required."
+ "text": "Yes. The LITOM units are sold in multi-packs, and individual units operate independently. Adding more units later means buying another pack, which, battery, and sensor, so there's no pairing or syncing required."
       }
     }
   ]
 }
 </script>
-

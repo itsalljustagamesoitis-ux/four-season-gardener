@@ -14,10 +14,10 @@ products:
   - id: "orbit-bhyve-xd-2port-timer"
     role: "primary"
     article_specific_pros:
-      - "Two independent zones from one faucet , water front beds and back beds separately"
+      - "Two independent zones from one faucet, water front beds and back beds separately"
       - "WeatherSense technology auto-skips watering after rain"
     article_specific_cons:
-      - "Wi-Fi Hub is a separate device , adds cost and complexity"
+      - "Wi-Fi Hub is a separate device, adds cost and complexity"
 tags: ["irrigation", "review"]
 disclosure_required: true
 noindex: false
@@ -36,20 +36,17 @@ safety_topics:
   - electrical
 ---
 
-If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a $15 mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.
+If you're running hose-end irrigation without a dedicated inground system, the timer market can feel like a choice between a mechanical dial that forgets it exists and full smart-home systems that require a licensed electrician and a WiFi password. The [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer) sits in the middle of that spectrum, and for most readers browsing the [Irrigation](/irrigation/) section of this site, that's exactly the right place to be looking.
 
-I've been running this timer on my property for two growing seasons. Here's my honest read on whether it earns its price.
+This timer has been in use on this property for two growing seasons. Here's my honest read on whether it earns its price.
 
 ## Quick Verdict
 
-The B-hyve XD 2-Port is the best hose-end timer I've tested for anyone managing two distinct watering zones from a single outdoor spigot without wanting to trench anything. Two independent zones, weather-based skip logic, and app scheduling make it meaningfully more capable than a [mechanical sprinkler timer](/mechanical-sprinkler-timer/) at a price that doesn't require a business case. The Wi-Fi Hub dependency is real and adds friction, but if you commit to the full setup, it works.
+The B-hyve XD 2-Port is the best hose-end timer for anyone managing two distinct watering zones from a single outdoor spigot without wanting to trench anything. Two independent zones, weather-based skip logic, and app scheduling make it meaningfully more capable than a [mechanical sprinkler timer](/mechanical-sprinkler-timer/) at a price that doesn't require a business case. The Wi-Fi Hub dependency is real and adds friction, but if you commit to the full setup, it works.
 
 **Buy it if:** You have at least two separate beds or container areas you're currently running on manual hoses or a single-zone timer.
 
 **Skip it if:** You only need one zone, or you're not willing to keep the Wi-Fi Hub plugged in year-round.
-
-Currently around $79 for the timer and hub bundle on Amazon at the time of writing, though prices fluctuate.
-
 
 [Check current price on Amazon](product:orbit-bhyve-xd-2port-timer)
 
@@ -61,12 +58,11 @@ Currently around $79 for the timer and hub bundle on Amazon at the time of writi
 
 **Power source.** Four AA batteries. No wiring, no transformer, no outlet required at the faucet location.
 
-**Connectivity.** Bluetooth for local connection, WiFi via the B-hyve Hub (sold as a bundle here, but also purchasable separately at around $40). The hub plugs into a standard indoor outlet and bridges the timer to your home network.
+**Connectivity.** Bluetooth for local connection, WiFi via the B-hyve Hub (sold as a bundle here, but also purchasable separately). The hub plugs into a standard indoor outlet and bridges the timer to your home network.
 
 ![Orbit Battery Operated Sprinkler Timer](/images/articles/irrigation-7.jpg)
 
-
-**WeatherSense.** The system checks a local weather service and automatically skips scheduled watering if significant rainfall is detected or forecast. This isn't a soil moisture sensor , it's forecast-based.
+**WeatherSense.** The system checks a local weather service and automatically skips scheduled watering if significant rainfall is detected or forecast. This isn't a soil moisture sensor, it's forecast-based.
 
 **App compatibility.** iOS and Android. Scheduling, manual runs, and weather skip history are all accessible remotely.
 
@@ -86,7 +82,6 @@ This is the feature that matters and it delivers. Port 1 runs my front border be
 
 ![Orbit Battery Operated Sprinkler Timer](/images/articles/irrigation-8.jpg)
 
-
 ### WeatherSense in Practice
 
 Over my first full season with this timer, the weather skip triggered 11 times. I verified seven of those against actual rainfall events I recorded at the property. Four were forecast-based skips where it either didn't rain or rained minimally. That's not a catastrophic false-positive rate, but if you're running short daily cycles on containers that dry out fast, you'll want to watch it during dry stretches where marginal forecasts might still trigger a skip. The system doesn't know your soil type or your pots' drainage characteristics. It knows the forecast.
@@ -95,7 +90,7 @@ For in-ground beds with decent water retention, the forecast-based approach is c
 
 ### Battery Life
 
-Orbit rates this at approximately one season per set of batteries under normal conditions. My first set lasted from early May through late October, which I'd call seven months of regular use. Battery drain accelerates noticeably below freezing, which is consistent with every battery-operated outdoor device I've owned. If you're in a climate with hard autumns, pull the batteries when you winterize rather than leaving them in and wondering why spring startup is sluggish.
+Orbit rates this at approximately one season per set of batteries under normal conditions. My first set lasted from early May through late October, which I'd call seven months of regular use. Battery drain accelerates noticeably below freezing, which is consistent with every battery-operated outdoor device. If you're in a climate with hard autumns, pull the batteries when you winterize rather than leaving them in and wondering why spring startup is sluggish.
 
 I use standard alkaline AAs. I haven't tested lithium-chemistry batteries here, though cold-weather users often report better longevity from lithiums in outdoor devices generally.
 
@@ -104,7 +99,6 @@ I use standard alkaline AAs. I haven't tested lithium-chemistry batteries here, 
 The B-hyve app (free) is functional without being polished. Scheduling is clear, manual run control works reliably, and the watering history gives you a useful log of what ran, what was skipped, and why. The interface feels like it was designed in 2018 and hasn't been substantially updated, which I realize is a specific complaint, but navigation is clunky enough that I don't use it casually. I set schedules at the start of the season, adjust once or twice, and mostly leave it alone. That workflow suits the app's limitations.
 
 ![Orbit Battery Operated Sprinkler Timer](/images/articles/irrigation-1.jpg)
-
 
 Push notifications for skipped watering cycles are available and actually useful.
 
@@ -142,20 +136,19 @@ The remote access capability matters most if you're not at your property every d
 
 ![Orbit Battery Operated Sprinkler Timer](/images/articles/irrigation-2.jpg)
 
-
 ### Readers Considering a Full Irrigation Upgrade
 
 If you're evaluating whether to convert to drip across your garden, this timer is a useful intermediate step. It connects directly to standard drip conversion hardware. For reference, our coverage of a [drip irrigation conversion kit](/drip-irrigation-conversion-kit/) walks through how hose-end timers fit into that transition without committing to full buried infrastructure.
 
 ### Who Should Look Elsewhere
 
-If you need only one zone, this isn't the right product. A simpler single-port smart timer will cost less and set up faster. If you're managing more than two zones, look at the Orbit B-hyve 6-Zone or the Rachio 3 (8-zone, currently around $199), which handles multi-zone hose-end or inground setups at a different scale. The B-hyve XD 2-Port is a two-zone device and it doesn't stretch beyond that.
+If you need only one zone, this isn't the right product. A simpler single-port smart timer will cost less and set up faster. If you're managing more than two zones, look at the Orbit B-hyve 6-Zone or the Rachio 3 (8-zone), which handles multi-zone hose-end or inground setups at a different scale. The B-hyve XD 2-Port is a two-zone device and it doesn't stretch beyond that.
 
 For a broader look at battery-powered timer options across price points, the [sprinkler timer battery operated](/sprinkler-timer-battery-operated/) roundup covers the category with direct comparisons.
 
 ## Final Thought
 
-At roughly $79 for the timer and hub together, the B-hyve XD 2-Port is priced fairly for what it does. Two independent zones, weather skip logic, and remote access without any wiring is a legitimate value. The hub setup friction and the app's age are real limitations, not deal-breakers. If two-zone hose-end automation is what you need, this is the product to get. Our broader [watering and irrigation](/irrigation/) coverage can help you fit it into whatever system you're building around it.
+At and hub together, the B-hyve XD 2-Port is priced fairly for what it does. Two independent zones, weather skip logic, and remote access without any wiring is a legitimate value. The hub setup friction and the app's age are real limitations, not deal-breakers. If two-zone hose-end automation is what you need, this is the product to get. Our broader [watering and irrigation](/irrigation/) coverage can help you fit it into whatever system you're building around it.
 
 ,
 
@@ -168,7 +161,6 @@ At roughly $79 for the timer and hub together, the B-hyve XD 2-Port is priced fa
 Yes, it works without the hub in Bluetooth mode. You can set and adjust schedules within Bluetooth range (roughly 30 feet) using the B-hyve app. Without the hub, you lose remote access from outside your property and the WeatherSense auto-skip feature, since that requires a network connection to pull forecast data. For a set-and-forget seasonal schedule you never need to adjust remotely, hub-free operation is workable. For weather response and travel use, the hub is effectively required.
 
 ![Orbit Battery Operated Sprinkler Timer](/images/articles/irrigation-3.jpg)
-
 
 ### How long do the batteries last in the Orbit B-hyve XD 2-Port?
 
@@ -234,4 +226,3 @@ Schedules saved to the timer run locally regardless of WiFi status. If your netw
   ]
 }
 </script>
-

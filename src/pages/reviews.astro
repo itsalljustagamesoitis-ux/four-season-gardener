@@ -11,14 +11,14 @@ const sorted = articles.sort((a, b) => b.data.date.valueOf() - a.data.date.value
 
 <BaseLayout
   title={`All Reviews — ${cfg.site.brand_name}`}
-  description="Every garden product review and buying guide from Four Season Gardener. Tested picks for outdoor furniture, tools, lawn mowers, and raised beds."
+  description="Every garden product review and buying guide from Four Season Gardener. Top picks for outdoor furniture, tools, lawn mowers, and raised beds."
 >
   <div class="container" style="padding: 3rem 1.5rem;">
     <div class="category-hero">
       <p class="category-hero__label">All Reviews</p>
       <h1 class="category-hero__title">Every Garden Product Review</h1>
       <p class="category-hero__desc">
-        {persona.bio_short}
+        {persona.bio_public}
         No PR samples, no affiliate bias.
       </p>
     </div>

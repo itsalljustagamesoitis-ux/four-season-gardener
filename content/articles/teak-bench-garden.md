@@ -14,7 +14,7 @@ products:
   - id: "ash-ember-hawthorne-teak-bench-b07v"
     role: "primary"
     article_specific_pros:
-      - "Grade A teak , highest density, most weather-resistant grade"
+      - "Grade A teak, highest density, most weather-resistant grade"
       - "Classic bowed-back garden silhouette, seats 2-3"
     article_specific_cons:
       - "~$660 is a significant investment for a garden bench"
@@ -24,7 +24,7 @@ products:
       - "Solid teak wood at a fraction of Grade A pricing"
       - "Classic bench styling with backrest and armrests"
     article_specific_cons:
-      - "Not marketed as Grade A , lower density teak than premium picks"
+      - "Not marketed as Grade A, lower density teak than premium picks"
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
@@ -49,10 +49,9 @@ Before getting into the specifics, if you're building out a broader seating arra
 
 ## Quick Verdict
 
-The [Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests](product:ash-ember-hawthorne-teak-bench-b07v) is the buy. At around $660, it's not cheap, but Grade A teak at this price point is actually competitive if you've shopped the category seriously. The classic bowed-back silhouette is exactly what a garden bench should look like. It seats two comfortably, three if they're friendly, and it will outlast most of what else you'd spend $660 on for the garden.
+The [Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests](product:ash-ember-hawthorne-teak-bench-b07v) is the buy. but Grade A teak at this price point is actually competitive if you've shopped the category seriously. The classic bowed-back silhouette is exactly what a garden bench should look like. It seats two comfortably, three if they're friendly, and it will outlast most of what else you'd spending that much on for the garden.
 
-The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv) is an honest second option. It's solid teak, it looks the part, and at roughly $280 to $320 (prices fluctuate), it's a reasonable entry point. But you're getting a different grade of wood, and that matters in climates with real freeze-thaw ground movement and wet springs.
-
+The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv) is an honest second option. It's solid teak, it looks the part, and at an entry price, it's a reasonable starting point. But you're getting a different grade of wood, and that matters in climates with real freeze-thaw ground movement and wet springs.
 
 [Check current price on Amazon](product:ash-ember-hawthorne-teak-bench-b07v)
 
@@ -68,7 +67,7 @@ The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv
 - Material: Grade A teak (highest density grade, harvested from the heartwood of mature trees)
 - Finish: Natural unfinished, weathers to silver-gray or can be oiled to maintain honey tone
 - Weight: Approximately 65 lbs
-- Current price: Around $660 on Amazon at time of writing
+- Current price: at time of writing
 
 ### Tangkula 51" Bench
 
@@ -77,7 +76,7 @@ The [Tangkula 51" Teak Wood Outdoor Bench](product:tangkula-teak-bench-51in-b0gv
 - Material: Solid teak, grade not specified by manufacturer
 - Features: Backrest and armrests, classic styling
 - Weight: Approximately 38 lbs
-- Current price: Around $280 to $320 on Amazon at time of writing
+- Current price: at time of writing
 
 ## Performance and Testing
 
@@ -95,7 +94,6 @@ The Hawthorne's bowed back is not decorative afterthought. A slight backward lea
 
 ![Teak Bench Garden](/images/articles/outdoor-furniture-4.jpg)
 
-
 The Tangkula at 51 inches is correctly sized for two people. The backrest and armrests are present and functional. It's comfortable for the duration of a cup of coffee or a short conversation. For longer sitting, the proportions are tighter and the back support is adequate rather than generous.
 
 ### Assembly
@@ -112,7 +110,6 @@ For the Tangkula, I'd expect reasonable performance in moderate climates, though
 
 ![Teak Bench Garden](/images/articles/outdoor-furniture-5.jpg)
 
-
 ## Pros and Cons
 
 [See Ash & Ember Hawthorne Grade A Teak 73" Garden Bench with Armrests on Amazon →](product:ash-ember-hawthorne-teak-bench-b07v)
@@ -128,7 +125,7 @@ For the Tangkula, I'd expect reasonable performance in moderate climates, though
 
 **Cons**
 
-- $660 is a significant commitment for a single bench
+- The price is a significant commitment for a single bench
 - At 65 lbs, repositioning it is a two-person project
 - Ships requiring assembly, which is manageable but not quick
 
@@ -157,12 +154,11 @@ It's also the right buy if you've already spent on coordinating teak pieces. If 
 
 ![Teak Bench Garden](/images/articles/outdoor-furniture-6.jpg)
 
-
-If the $660 is genuinely out of reach right now, put it on a list and wait. This isn't a category where the budget option closes the gap over time.
+If the is genuinely out of reach right now, put it on a list and wait. This isn't a category where the budget option closes the gap over time.
 
 ### Consider the Tangkula if:
 
-Your budget is firm around $300, you're furnishing a rental property or a section of garden that's more utilitarian than decorative, or you simply want to see whether a teak bench works in a particular spot before committing to a premium piece. These are legitimate reasons.
+Your budget is firm, you're furnishing a rental property or a section of garden that's more utilitarian than decorative, or you simply want to see whether a teak bench works in a particular spot before committing to a premium piece. These are legitimate reasons.
 
 It's also worth considering if you're supplementing existing seating rather than anchoring a space. A Tangkula alongside a set of Adirondack chairs with quality [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) can work well as additional overflow seating without requiring Grade A expenditure.
 
@@ -184,7 +180,6 @@ Grade A teak does not need to be stored or covered in winter. Leave it out. The 
 
 ![Teak Bench Garden](/images/articles/outdoor-furniture-7.jpg)
 
-
 ### What's the actual difference between Grade A, Grade B, and Grade C teak?
 
 Grade A teak comes entirely from the dense, oily heartwood of mature trees. Grade B mixes heartwood and sapwood, has lower oil content, and requires more maintenance to perform similarly. Grade C pulls from outer sapwood, is significantly less weather-resistant, and is not appropriate for permanent outdoor use in demanding climates. The grading system is not universally regulated, so the grade claim is only as reliable as the brand making it. Ash & Ember's Grade A claim is substantiated by their sourcing documentation, which is verifiable.
@@ -195,7 +190,7 @@ You can, but there's no reason to in most cases. The natural oil content in teak
 
 ### How do I clean a teak bench that has developed green mold or algae?
 
-Mix a solution of one part white vinegar to three parts water and scrub with a soft brush, working with the grain. For heavier buildup, a dedicated teak cleaner like Star Brite Teak Cleaner (currently around $18 to $22 for a quart) is more effective than homemade solutions. Rinse thoroughly and let dry completely before deciding whether to apply oil. Pressure washing works but should be kept to low pressure settings and minimal passes to avoid raising the grain aggressively.
+Mix a solution of one part white vinegar to three parts water and scrub with a soft brush, working with the grain. For heavier buildup, a dedicated teak cleaner like Star Brite Teak Cleaner is more effective than homemade solutions. Rinse thoroughly and let dry completely before deciding whether to apply oil. Pressure washing works but should be kept to low pressure settings and minimal passes to avoid raising the grain aggressively.
 
 <script type="application/ld+json">
 {
@@ -239,10 +234,9 @@ Mix a solution of one part white vinegar to three parts water and scrub with a s
       "name": "How do I clean a teak bench that has developed green mold or algae?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mix a solution of one part white vinegar to three parts water and scrub with a soft brush, working with the grain. For heavier buildup, a dedicated teak cleaner like Star Brite Teak Cleaner (currently around $18 to $22 for a quart) is more effective than homemade solutions. Rinse thoroughly and let dry completely before deciding whether to apply oil. Pressure washing works but should be kept to low pressure settings and minimal passes to avoid raising the grain aggressively."
+ "text": "Mix a solution of one part white vinegar to three parts water and scrub with a soft brush, working with the grain. For heavier buildup, a dedicated teak cleaner like Star Brite Teak Cleaner is more effective than homemade solutions. Rinse thoroughly and let dry completely before deciding whether to apply oil. Pressure washing works but should be kept to low pressure settings and minimal passes to avoid raising the grain aggressively."
       }
     }
   ]
 }
 </script>
-

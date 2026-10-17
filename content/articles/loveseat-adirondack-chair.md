@@ -55,10 +55,9 @@ The [SERWALL Adirondack Bench, HDPE All-Weather Adirondack Loveseat](product:hdp
 
 The [SERWALL Outdoor Folding Adirondack Bench, HDPE All-Weather Adirondack Loveseat](product:folding-adirondack-loveseat-hdpe) is the same basic concept but folds flat for storage. It comes in navy and carries a 660-lb weight capacity, which is a meaningful number if you're buying furniture for a household that actually sits in it. Both are built from HDPE lumber, which means no painting, no sealing, and no splinters after year three.
 
-Pricing for both is mid-range. At the time of writing, the fixed version runs around $280 to $310 depending on timing and availability, and the folding version is priced similarly, typically $290 to $320. Neither is a bargain-bin buy, but neither is the kind of investment that requires a spreadsheet.
+Pricing for both is mid-range. At the time of writing, the fixed version, and the folding version is priced similarly in the mid-range. Neither is a bargain-bin buy, but neither is the kind of investment that requires a spreadsheet.
 
 ![Loveseat Adirondack Chair](/images/articles/outdoor-furniture-4.jpg)
-
 
 | Feature | Fixed Loveseat | Folding Loveseat |
 |,|,|,|
@@ -67,7 +66,6 @@ Pricing for both is mid-range. At the time of writing, the fixed version runs ar
 | Color | Gray | Navy |
 | Folds for storage | No | Yes |
 | Weight capacity | Not specified | 660 lbs |
-| Price (approx.) | $280-$310 | $290-$320 |
 
 ## Why Choose the Fixed SERWALL Loveseat
 
@@ -79,7 +77,6 @@ HDPE as a material earns its reputation here. It doesn't absorb water, it resist
 
 ![Loveseat Adirondack Chair](/images/articles/outdoor-furniture-5.jpg)
 
-
 The one honest limitation: this bench takes up space and stays where you put it. If your patio is small, or if you like to reconfigure for gatherings, a fixed loveseat requires planning. You can't stack it against a wall when company comes and you need room for a folding table.
 
 If you're adding cushions, SERWALL's slatted design is compatible with fitted cushions made for standard Adirondack shapes. The [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) available elsewhere on this site are worth looking at if you want something that holds up to rain without needing to be brought inside every other day.
@@ -89,7 +86,6 @@ If you're adding cushions, SERWALL's slatted design is compatible with fitted cu
 The folding version is the better choice for more situations than you might expect. The obvious case is storage: if you're pulling furniture off a deck or patio at the end of the season and fitting it into a garage or shed, a bench that folds flat is genuinely easier to manage. HDPE is heavy. A full-sized loveseat in HDPE weighs enough that moving it is a two-person job. Being able to fold it reduces the physical footprint for storage, which matters on a 12-acre property where the outbuildings fill up faster than I'd like. (That's a personal problem, but it's a real one.)
 
 ![Loveseat Adirondack Chair](/images/articles/outdoor-furniture-6.jpg)
-
 
 The 660-lb weight capacity listed for the folding version is worth taking seriously. Many folding outdoor chairs and benches quietly sacrifice structural rating when they add the fold mechanism. SERWALL appears to have maintained the load rating, which suggests the folding hardware isn't the weak point in the design.
 
@@ -104,7 +100,6 @@ The slight price premium over the fixed version is minor enough that it shouldn'
 Buy the fixed version if your space is set up for it and stays that way. A dedicated spot on a covered porch, a larger patio where the loveseat has a permanent home, or a situation where you simply cover furniture in place for winter all favor the fixed bench. It's stable, solid, and doesn't introduce a mechanical element that could wear over time.
 
 ![Loveseat Adirondack Chair](/images/articles/outdoor-furniture-7.jpg)
-
 
 Buy the folding version if you store furniture seasonally in a shed or garage, if your space doubles as a gathering area where you rearrange seating, or if the 660-lb capacity is a factor for your household. The fold mechanism adds mild complexity, but SERWALL's HDPE construction is robust enough (at the material level, if not the mechanism) that this isn't a flimsy product dressed up as a loveseat.
 
@@ -123,7 +118,6 @@ HDPE (high-density polyethylene) doesn't rot, splinter, or require seasonal seal
 The HDPE material itself can handle year-round exposure. What typically fails on outdoor furniture left unprotected over winter isn't the main material, it's the hardware: bolts, connectors, and (on the folding version) the fold mechanism. Covering either bench during extended periods of hard weather, or at minimum keeping the hardware clear of standing water, will extend the lifespan of the metal components.
 
 ![Loveseat Adirondack Chair](/images/articles/outdoor-furniture-8.jpg)
-
 
 ### Do these loveseats come with cushions?
 
@@ -185,4 +179,3 @@ Based on the product design and typical HDPE folding bench construction, opening
   ]
 }
 </script>
-

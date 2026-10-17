@@ -14,14 +14,14 @@ products:
   - id: "droll-yankees-yankee-flipper"
     role: "best_overall"
     article_specific_pros:
-      - "Weight-activated motor spins the perch when a squirrel lands , reliably deters them"
+      - "Weight-activated motor spins the perch when a squirrel lands, reliably deters them"
       - "5 lb seed capacity; wide seed tube fits sunflower and mixed seed"
     article_specific_cons:
-      - "Requires charging , dead battery means squirrels have free access"
+      - "Requires charging, dead battery means squirrels have free access"
   - id: "squirrel-buster-plus-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Passive weight-activated cage closes seed ports when squirrels grab on , no batteries needed"
+      - "Passive weight-activated cage closes seed ports when squirrels grab on, no batteries needed"
       - "5.1 lb capacity with 6 feeding ports; cardinal ring accommodates larger birds"
     article_specific_cons:
       - "More involved cleaning than simple tray feeders"
@@ -31,21 +31,21 @@ products:
       - "Ring Pull Advantage lid removes with one hand for fast, mess-free refilling"
       - "Six feeding stations accommodate multiple bird species simultaneously"
     article_specific_cons:
-      - "No squirrel deterrent , needs a baffle pole or dome purchased separately"
+      - "No squirrel deterrent, needs a baffle pole or dome purchased separately"
   - id: "natures-hangout-window-bird-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Clear acrylic mounting brings birds within inches of indoor viewers , best close-up wildlife experience"
+      - "Clear acrylic mounting brings birds within inches of indoor viewers, best close-up wildlife experience"
       - "Large capacity (4+ cups) handles multiple species simultaneously"
     article_specific_cons:
       - "Birds may take days or weeks to discover and trust a window-mounted feeder"
   - id: "first-nature-3055-hummingbird-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Wide-mouth base unscrews completely for easy cleaning , the biggest hummingbird feeder frustration solved"
+      - "Wide-mouth base unscrews completely for easy cleaning, the biggest hummingbird feeder frustration solved"
       - "10 feeding ports accommodate multiple hummingbirds simultaneously during peak migration"
     article_specific_cons:
-      - "32 oz capacity requires frequent cleaning in summer heat , nectar ferments in 3-5 days"
+      - "32 oz capacity requires frequent cleaning in summer heat, nectar ferments in 3-5 days"
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
@@ -71,8 +71,6 @@ The five feeders below cover the main use cases: squirrel-proof with active dete
 ### Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder
 
 [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
-
-**Price:** Around $130-$145 currently on Amazon.
 
 The Yankee Flipper works on a simple premise: a weight-activated motor spins the perch ring when something heavier than a songbird lands on it. A squirrel grabs on and gets gently rotated off. Then it tries again. Then it gets rotated off again. If you have children or grandchildren who spend time in the yard, this is the feeder they will want to watch.
 
@@ -104,8 +102,6 @@ Motor wear over time is a real consideration. Droll Yankees makes quality equipm
 
 [Squirrel Buster Plus Bird Feeder with Cardinal Ring](product:squirrel-buster-plus-feeder)
 
-**Price:** Around $55-$65 on Amazon at the time of writing.
-
 The Brome Squirrel Buster Plus is the feeder I'd recommend to someone who doesn't want to think about batteries, charging, or motors. The deterrent mechanism is passive: a spring-loaded outer cage drops down and closes the seed ports when weight above a set threshold lands on the perch ring. Squirrels are too heavy. Small songbirds aren't. No moving parts beyond the spring, no power source required.
 
 What makes this feeder genuinely more useful than most passive cage designs is the adjustable weight threshold. Out of the box, it's calibrated to close against squirrel weight while allowing cardinals, chickadees, and finches. But if grackles are emptying your feeder in an afternoon (a specific problem if you're in a region where they congregate in spring), you can tighten the threshold to exclude them. This is not common. Most weight-exclusion feeders give you one setting.
@@ -130,14 +126,11 @@ Compared to the Yankee Flipper, the Squirrel Buster Plus costs less than half th
 
 ![Bird Feeder For Deck](/images/articles/birds-wildlife-6.jpg)
 
-
 ,
 
 ### Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch
 
 [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
-
-**Price:** Around $30-$35 on Amazon.
 
 The Classic is a straightforward tube feeder with no deterrent mechanism and no complexity. Six feeding stations, a UV-stabilized polycarbonate tube that won't go cloudy or crack after a few seasons in direct sun, and Droll Yankees' Ring Pull Advantage lid, which lifts off with one hand for refilling. That's what you're buying.
 
@@ -145,7 +138,7 @@ The 1 lb seed capacity is the main practical limitation. During fall migration o
 
 The feeder has no squirrel deterrent built in. If your deck setup already handles squirrels via a baffle pole or overhead dome, this is a non-issue. If it doesn't, squirrels will empty it. I'd pair this with either a [bird feeder baffle for squirrels](/bird-feeder-baffles-for-squirrels/) mounted below, or a [squirrel dome](/squirrel-dome-for-bird-feeder/) overhead before putting it out on a deck with any squirrel pressure at all.
 
-Droll Yankees makes its equipment in the U.S. and backs this feeder with a lifetime guarantee. At $30-$35, that guarantee is worth more than it would be on a cheap import. This is a buy-once-and-replace-if-needed product rather than a buy-and-replace-when-it-deteriorates one.
+Droll Yankees makes its equipment in the U.S. and backs this feeder with a lifetime guarantee. that guarantee is worth more than it would be on a cheap import. This is a buy-once-and-replace-if-needed product rather than a buy-and-replace-when-it-deteriorates one.
 
 **Pros:**
 - One-handed Ring Pull lid, fast and clean to refill
@@ -165,14 +158,11 @@ Droll Yankees makes its equipment in the U.S. and backs this feeder with a lifet
 
 [Nature's Hangout Window Bird Feeder with Strong Suction Cups and Seed Tray](product:natures-hangout-window-bird-feeder)
 
-**Price:** Around $30-$40 on Amazon.
-
-This feeder attaches to a window with suction cups and puts birds within arm's reach of the glass. The suction cups are tested to hold for 12 months without repositioning, and in my experience with similar mounts, the failure point is usually installation rather than the cups themselves. Clean the glass thoroughly before mounting, press firmly, and flip the locking tabs completely.
+This feeder attaches to a window with suction cups and puts birds within arm's reach of the glass. The suction cups are tested to hold for 12 months without repositioning, and in practice with similar mounts, the failure point is usually installation rather than the cups themselves. Clean the glass thoroughly before mounting, press firmly, and flip the locking tabs completely.
 
 The appeal here is not capacity or squirrel-proofing. It's proximity. A chickadee landing on a window-mounted feeder is a different experience than one visiting a pole feeder 10 feet away, and for households with children or elderly family members who can't easily get outdoors, that proximity matters. If you want more detail on how window mounts compare on suction performance and seed tray design, the [suction cup window bird feeder guide](/suction-cup-window-bird-feeder/) covers it.
 
 ![Bird Feeder For Deck](/images/articles/birds-wildlife-7.jpg)
-
 
 The wait time is the patience test. Birds that have been feeding from established pole feeders will not automatically migrate to a new window mount. Days to weeks is a reasonable expectation, not a sign something is wrong with the feeder. Putting the window mount near an existing established feeder shortens the discovery window.
 
@@ -198,14 +188,11 @@ For anyone with a small outdoor space, a balcony, or no room for a pole-mounted 
 
 [First Nature 3055 32-oz Hummingbird Feeder](product:first-nature-3055-hummingbird-feeder)
 
-**Price:** Around $12-$15 on Amazon.
-
 The First Nature 3055 is the hummingbird feeder I'd hand to someone buying their first one, because it solves the problem that causes most people to give up on hummingbird feeding: cleaning. The wide-mouth base unscrews completely, with no narrow necks or internal crevices that require a bottle brush and significant patience. This sounds like a small thing until you've spent fifteen minutes trying to clean a glass feeder with a one-inch opening in July heat. (I have. Twice. Before switching.)
 
 At 32 oz and 10 feeding ports, the 3055 handles multiple hummingbirds simultaneously during peak migration, which in the Northeast runs roughly mid-August through September. The red coloring is sufficient to attract hummingbirds without adding red dye to the nectar, which is not necessary and may not be beneficial. Plain 4:1 water-to-white-sugar nectar, changed every three to five days in summer heat, is all this feeder needs to run.
 
 ![Bird Feeder For Deck](/images/articles/birds-wildlife-8.jpg)
-
 
 The plastic construction is the honest trade-off. It's functional, holds up to regular cleaning without clouding, and at this price it would be replaced rather than repaired anyway. If the aesthetic of a glass feeder matters to you, there are prettier options at two or three times the price. If what matters is keeping nectar fresh and hummingbirds coming back, function wins and the 3055 is the answer.
 
@@ -244,7 +231,6 @@ No tube feeder will serve hummingbirds, and no nectar feeder will attract seed-e
 A feeder that's difficult to clean gets cleaned less often. Old seed grows mold. Old nectar ferments and can harm birds. Easy cleaning is not a luxury feature. It's the thing that determines whether your feeder actually functions safely over time. The Ring Pull lid on the Droll Yankees Classic, the disassembling base on the First Nature 3055, and the cage design on the Squirrel Buster Plus all exist because someone thought about cleaning frequency. Reward that.
 
 ![Bird Feeder For Deck](/images/articles/birds-wildlife-1.jpg)
-
 
 ### Deck mounting options
 
@@ -302,4 +288,3 @@ Seed feeders should be cleaned every one to two weeks during heavy use periods, 
   ]
 }
 </script>
-

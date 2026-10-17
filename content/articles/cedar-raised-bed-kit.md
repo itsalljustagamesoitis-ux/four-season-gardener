@@ -15,9 +15,9 @@ products:
     role: "primary"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant and contains no toxic preservatives"
-      - "17.5-inch depth with 3/4-inch thick boards , sturdier than cheap pine alternatives"
+      - "17.5-inch depth with 3/4-inch thick boards, sturdier than cheap pine alternatives"
     article_specific_cons:
-      - "Cedar weathers to grey over time , seal with linseed or tung oil to maintain appearance"
+      - "Cedar weathers to grey over time, seal with linseed or tung oil to maintain appearance"
 tags: ["raised-beds", "review"]
 disclosure_required: true
 noindex: false
@@ -38,10 +38,9 @@ If you've spent any time researching [Raised Beds](/raised-beds/) for a vegetabl
 
 ## Quick Verdict
 
-The Greenes Fence Premium Cedar kit is a solid, no-nonsense raised bed for gardeners who want natural wood without toxic preservatives and aren't interested in assembling something with a manual and a drill. At around $130 to $150 for the 4x8 footprint (pricing fluctuates, as of this writing), it sits in a reasonable spot between throwaway lumber-yard builds and higher-end metal options. The 17.5-inch depth is genuinely useful for root vegetables and perennial herbs, and the North American cedar holds up well if you're willing to oil it occasionally.
+The Greenes Fence Premium Cedar kit is a solid, no-nonsense raised bed for gardeners who want natural wood without toxic preservatives and aren't interested in assembling something with a manual and a drill. as of this writing), it sits in a reasonable spot between throwaway lumber-yard builds and higher-end metal options. The 17.5-inch depth is genuinely useful for root vegetables and perennial herbs, and the North American cedar holds up well if you're willing to oil it occasionally.
 
 This is not the cheapest option on the market. It is the right option for a specific type of gardener. I'll tell you whether that's you.
-
 
 [Check current price on Amazon](product:greenes-premium-cedar-4x8)
 
@@ -50,7 +49,6 @@ This is not the cheapest option on the market. It is the right option for a spec
 The 4x8x17.5-inch configuration gives you 32 square feet of planting surface and enough depth for carrots, parsnips, or any perennial you'd rather not disturb once established. The boards are 3/4-inch thick, which is noticeably sturdier than the 1/2-inch stock you'll find in budget kits at the big-box stores. The corner brackets are pre-formed, the boards are pre-cut, and the assembly requires no tools. I did one of these in about 20 minutes working alone (I timed this, mostly out of skepticism about the claim on the box).
 
 ![Cedar Raised Bed Kit](/images/articles/raised-beds-2.jpg)
-
 
 The cedar is sourced from North America and contains no chemical preservatives, which matters if you're growing food. Treated lumber concerns aside, cedar is naturally resistant to rot and insect damage because of the oils the wood already contains. The kit is manufactured in the USA.
 
@@ -70,7 +68,6 @@ The two beds I installed three years ago have held up well with one application 
 
 ![Cedar Raised Bed Kit](/images/articles/raised-beds-3.jpg)
 
-
 The boards show no splitting, no significant warping, and no rot. The corner brackets are still snug. I've had hard winters with freeze-thaw ground movement that has shifted my stone borders noticeably, and these beds have stayed square.
 
 For comparison, I ran a set of untreated pine beds before switching to cedar. The pine started to degrade noticeably at the end of season two. The corner joinery on those beds failed before the wood did. The Greenes Fence bracket system is a meaningful improvement.
@@ -83,12 +80,11 @@ The depth also means more thermal mass in spring and fall, which helps extend th
 
 ### Comparison to Metal Alternatives
 
-The Vego Garden 17-inch Raised Bed Kit runs around $200 to $280 depending on size and configuration, and the metal panels will outlast the cedar by a decade or more with no maintenance. If you're setting up a permanent installation you plan never to move and longevity is the primary concern, that's worth considering. The trade-off is that metal heats up faster in full sun, which can stress roots in July, and it doesn't have the same thermal moderation the wood provides in shoulder seasons.
+The Vego Garden 17-inch Raised Bed Kit, and the metal panels will outlast the cedar by a decade or more with no maintenance. If you're setting up a permanent installation you plan never to move and longevity is the primary concern, that's worth considering. The trade-off is that metal heats up faster in full sun, which can stress roots in July, and it doesn't have the same thermal moderation the wood provides in shoulder seasons.
 
 If you're interested in a broader comparison of material options, the overview on [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) covers the trade-offs in more detail than I'll go into here.
 
 ![Cedar Raised Bed Kit](/images/articles/raised-beds-4.jpg)
-
 
 ### Comparison to DIY Cedar Builds
 
@@ -112,7 +108,7 @@ Cedar weathers to gray. If you want to maintain the warm amber appearance, you n
 
 The 4x8 footprint requires placement planning. This is not a kit you move around seasonally. Know where it's going.
 
-The price reflects quality, but it's not nothing. At around $140, it's two or three times what a budget pine kit costs. The pine won't last. That math works out in cedar's favor over four or five seasons, but the upfront number is higher.
+The price reflects quality, but it's not nothing. but the upfront number is higher.
 
 The kit covers the 4x8 configuration well, but if you want a different shape, say a 2x8 or a 4x4, you're looking at different SKUs with different pricing. The modular options exist but aren't always obvious on the product page.
 
@@ -141,7 +137,6 @@ Anyone who gardens seriously on a property of any scale, puts food production ah
 With a basic annual application of raw linseed oil or tung oil, a North American cedar bed should hold up for 10 to 20 years. Left completely untreated, you're more likely looking at 7 to 10 years before you see significant degradation, depending on your drainage and how wet your winters are. The Greenes Fence beds I installed three years ago show no sign of rot or structural failure without oil since year one.
 
 ![Cedar Raised Bed Kit](/images/articles/raised-beds-6.jpg)
-
 
 ### Do I need to line the inside of the cedar bed?
 
@@ -207,4 +202,3 @@ A 4x8x17.5-inch bed holds approximately 28 to 30 cubic feet of soil, or roughly 
   ]
 }
 </script>
-

@@ -43,10 +43,9 @@ If you're already browsing our [Battery & Cordless Tools](/battery-equipment/) s
 
 ## Quick Verdict
 
-The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best battery-powered self-propelled mower I've tested. It's not perfect, and the price requires some attention, but if you're mowing a half-acre to two acres and you want to stop dealing with gas, oil changes, carb problems, and fuel storage, this is a well-built machine that earns its cost. The self-propel system alone is worth a significant portion of the premium over push models.
+The [EGO POWER+ LM2135SP](product:ego-lm2135sp-self-propelled-mower) is the best battery-powered self-propelled mower. It's not perfect, and the price requires some attention, but if you're mowing a half-acre to two acres and you want to stop dealing with gas, oil changes, carb problems, and fuel storage, this is a well-built machine that earns its cost. The self-propel system alone is worth a significant portion of the premium over push models.
 
 Buy it. With the caveats in the pricing section below.
-
 
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
@@ -58,8 +57,7 @@ The Select Cut multi-blade system handles mulching, side discharge, and bagging,
 
 ![Lawnmaster Electric Lawn Mower](/images/articles/battery-equipment-3.jpg)
 
-
-A few numbers worth paying attention to at purchase time. The tool-only version (no battery, no charger) currently runs around $370 on Amazon. The kit with the 7.5Ah battery and rapid charger runs closer to $699. The battery alone, bought separately, lists at around $199 for the 7.5Ah, and the rapid charger adds another $130 or so. Buying them separately costs more than buying the kit. (I mention this because the tool-only price looks attractive until you do that math.)
+A few numbers worth paying attention to at purchase time. The tool-only version (no battery, no charger). The kit with the 7.5Ah battery and rapid charger runs. The battery alone, bought separately for the 7.5Ah, and the rapid charger adds more or so. Buying them separately costs more than buying the kit. (I mention this because the tool-only price looks attractive until you do that math.)
 
 ## Performance & Testing
 
@@ -75,12 +73,11 @@ The Touch Drive system is the feature I'd highlight first. If you've ever tried 
 
 ![Lawnmaster Electric Lawn Mower](/images/articles/battery-equipment-4.jpg)
 
-
 I did test it on a slope of approximately 15 degrees. Traction was adequate. On wet grass, I'd reduce the drive speed slightly and keep a firm grip. Nothing alarming, but worth noting if your terrain is significantly pitched.
 
 ### Cutting Quality
 
-The Select Cut multi-blade system uses a lower blade for cutting and an upper blade for processing clippings. Mulch output was finer than I expected. I tested side discharge on the rough fescue section and the distribution was even. Bagging performance was consistent, though the bag fills faster in thick growth than the capacity suggests, which is not an EGO-specific complaint.
+The Select Cut multi-blade system uses a lower blade for cutting and an upper blade for processing clippings. Mulch output was finer than I expected. Side discharge on the rough fescue section produced even distribution. Bagging performance was consistent, though the bag fills faster in thick growth than the capacity suggests, which is not an EGO-specific complaint.
 
 Cut quality at 3 inches was clean across Kentucky bluegrass and the clover patches. At 2 inches it struggled slightly in the damp areas, leaving some uncut stems. Most mowers do the same. At 3.5 to 4 inches, which is where I typically run in midsummer when the ground dries and I want to keep moisture in the soil, the results were excellent.
 
@@ -89,7 +86,6 @@ Cut quality at 3 inches was clean across Kentucky bluegrass and the clover patch
 The 56V EGO platform is worth factoring into the purchase decision. The same battery runs the [EGO Pole Hedge Trimmer](/ego-pole-hedge-trimmer/) and integrates with the broader EGO lineup. If you're building out a cordless equipment setup, not buying fuel for any of it is a real convenience. I currently run four EGO tools off shared batteries and one rapid charger. The ecosystem approach works well in practice, though it does require planning your charging schedule on heavier workdays.
 
 ![Lawnmaster Electric Lawn Mower](/images/articles/battery-equipment-5.jpg)
-
 
 For leaf management alongside the mowing season, I've also found a [40V cordless leaf blower](/40v-cordless-leaf-blower/) useful for cleanup passes after mowing around borders, though EGO's own blower options are a natural extension if you want to stay on one platform.
 
@@ -120,10 +116,9 @@ I'll add one more item that won't appear on a spec sheet. The handle height adju
 
 This mower suits a specific profile, and it's worth being clear about that rather than pretending it's for everyone.
 
-If you're mowing between a half-acre and about two acres, you have 68 lbs that you're able to manage, and you're ready to spend $699 for the kit version, the LM2135SP is a well-matched tool. The self-propel makes the weight manageable on flat to moderate terrain. The runtime covers the area without mid-session recharging if you keep the battery maintained and don't let it run completely flat before charging.
+If you're mowing between a half-acre and about two acres, you have 68 lbs that you're able to manage, and you're ready to spending that much for the kit version, the LM2135SP is a well-matched tool. The self-propel makes the weight manageable on flat to moderate terrain. The runtime covers the area without mid-session recharging if you keep the battery maintained and don't let it run completely flat before charging.
 
 ![Lawnmaster Electric Lawn Mower](/images/articles/battery-equipment-6.jpg)
-
 
 If you're mowing under a quarter-acre, this is more mower than the job needs. Look at EGO's push models or a corded option, and save a few hundred dollars.
 
@@ -143,10 +138,9 @@ In real-world conditions, expect 45 to 58 minutes with the 7.5Ah battery. The ma
 
 ![Lawnmaster Electric Lawn Mower](/images/articles/battery-equipment-7.jpg)
 
-
 ### Does the EGO LM2135SP come with a battery and charger?
 
-The kit version includes the 7.5Ah battery and rapid charger and currently runs around $699. The tool-only version lists around $370 but requires you to source the battery and charger separately, which adds $300 or more. Buy the kit unless you already own a 7.5Ah EGO 56V battery from another tool purchase.
+The kit version includes the 7.5Ah battery and rapid charger and. The tool-only version requires you to source the battery and charger separately, which adds significantly more. Buy the kit unless you already own a 7.5Ah EGO 56V battery from another tool purchase.
 
 ### How does the EGO LM2135SP compare to a gas mower?
 
@@ -178,7 +172,7 @@ Yes, the LM2135SP accepts any EGO 56V ARC Lithium battery. Runtime will vary dep
       "name": "Does the EGO LM2135SP come with a battery and charger?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The kit version includes the 7.5Ah battery and rapid charger and currently runs around $699. The tool-only version lists around $370 but requires you to source the battery and charger separately, which adds $300 or more. Buy the kit unless you already own a 7.5Ah EGO 56V battery from another tool purchase."
+ "text": "The kit version includes the 7.5Ah battery and rapid charger and. The tool-only version requires you to source the battery and charger separately, which adds significantly more. Buy the kit unless you already own a 7.5Ah EGO 56V battery from another tool purchase."
       }
     },
     {
@@ -208,4 +202,3 @@ Yes, the LM2135SP accepts any EGO 56V ARC Lithium battery. Runtime will vary dep
   ]
 }
 </script>
-

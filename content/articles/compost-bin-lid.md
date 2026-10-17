@@ -14,7 +14,7 @@ products:
   - id: "fcmp-im4000-tumbling-composter"
     role: "best_overall"
     article_specific_pros:
-      - "Dual chambers allow continuous composting , fill one side while the other cures"
+      - "Dual chambers allow continuous composting, fill one side while the other cures"
       - "Elevated design allows a wheelbarrow underneath for unloading"
     article_specific_cons:
       - "37-gallon total capacity fills quickly for large households"
@@ -29,23 +29,23 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "Ground-level open-bottom design allows worms and soil microbes to enter naturally"
-      - "Vented walls promote airflow , no turning required for aerobic decomposition"
+      - "Vented walls promote airflow, no turning required for aerobic decomposition"
     article_specific_cons:
-      - "Open bottom means rodents can access the bin , add a hardware cloth base in rodent-heavy areas"
+      - "Open bottom means rodents can access the bin, add a hardware cloth base in rodent-heavy areas"
   - id: "envirocycle-composter-black"
     role: "also_consider"
     article_specific_pros:
-      - "Built-in compost tea collection base , captures liquid fertilizer automatically"
+      - "Built-in compost tea collection base, captures liquid fertilizer automatically"
       - "Made in USA from food-safe, BPA-free materials; ships fully assembled"
     article_specific_cons:
       - "Smaller capacity than FCMP IM4000"
   - id: "lomi-electric-composter"
     role: "also_consider"
     article_specific_pros:
-      - "Processes food waste in 4-8 hours vs 6-12 months in an outdoor bin , fastest available"
+      - "Processes food waste in 4-8 hours vs 6-12 months in an outdoor bin, fastest available"
       - "Countertop design works for apartments, condos, and kitchens with no outdoor space"
     article_specific_cons:
-      - "Output is a dry organic material, not fully finished compost , needs additional soil curing"
+      - "Output is a dry organic material, not fully finished compost, needs additional soil curing"
 tags: ["composting", "roundup"]
 disclosure_required: true
 noindex: false
@@ -83,10 +83,9 @@ The lid and chamber doors on the IM4000 are molded-plastic sliding panels that l
 - 37-gallon total capacity fills quickly if you're composting for a large household or a big kitchen garden
 - Plastic drum will degrade faster in direct sun without some shade placement
 
-Currently around $120 on Amazon. For a tumbler at this price, it's a solid buy. If you're choosing between this and the wheeled version below, read the next entry first.
+For a tumbler at this price, it's a solid buy. If you're choosing between this and the wheeled version below, read the next entry first.
 
 ![Compost Bin Lid](/images/articles/composting-3.jpg)
-
 
 ,
 
@@ -107,7 +106,7 @@ The one practical caveat: the wheels are rated for hard surfaces and reasonably 
 - Costs slightly more than the standard IM4000 with no increase in capacity
 - Wheels sink in soft or wet ground
 
-Currently around $140 on Amazon. The price difference over the standard IM4000 is modest enough that I'd default to this version unless your composting spot is on stable ground and very close to your beds.
+The price difference over the standard IM4000 is modest enough that I'd default to this version unless your composting spot is on stable ground and very close to your beds.
 
 ,
 
@@ -118,7 +117,6 @@ The Junior Wizard is a ground-level open-bottom bin, which makes it the opposite
 What it does well is take advantage of the soil biology already present in your ground. Because the bottom is open, worms migrate up from the soil and microbes move freely between the earth and the pile. You don't have to inoculate the compost or add activators. You load it, leave it mostly alone, and over time you get finished compost at the base of the pile. For readers interested in how that microbial output compares to other amendments, the comparison in [worm castings vs compost](/worm-castings-vs-compost/) is worth reading alongside this.
 
 ![Compost Bin Lid](/images/articles/composting-4.jpg)
-
 
 The lid does its basic job. It keeps heavy rain from waterlogging the pile and discourages birds from rummaging. It won't stop a determined rat. If you're in an area with an active rodent population, staple a piece of hardware cloth to the bottom rim before you place the bin. Five minutes of work and it becomes considerably more secure.
 
@@ -131,7 +129,7 @@ The lid does its basic job. It keeps heavy rain from waterlogging the pile and d
 - Open bottom is a rodent access point without a hardware cloth modification
 - Harvesting finished compost from the base requires lifting the entire unit
 
-Currently around $50 on Amazon. If the FCMP tumblers feel like more mechanism than you want, this is the right alternative. Not a compromise pick.
+If the FCMP tumblers feel like more mechanism than you want, this is the right alternative. Not a compromise pick.
 
 ,
 
@@ -155,7 +153,7 @@ The drawback is capacity. The drum is smaller than the FCMP IM4000 and costs mor
 - Smaller capacity than the FCMP IM4000 at a higher price
 - Not the right tool if you're processing large volumes
 
-Currently around $150 on Amazon, though pricing has fluctuated. Worth checking before you buy.
+Worth checking before you buy.
 
 ,
 
@@ -174,7 +172,7 @@ That said, for anyone composting without outdoor space, the Lomi is the most pra
 - Output requires additional outdoor curing before use as true compost
 - Premium price plus ongoing LomiPod cost for consistent results
 
-Currently around $500 on Amazon. That price positions it squarely as a kitchen appliance rather than a gardening tool, which is probably the right frame for it.
+That price positions it squarely as a kitchen appliance rather than a gardening tool, which is probably the right frame for it.
 
 ,
 
@@ -185,7 +183,6 @@ Currently around $500 on Amazon. That price positions it squarely as a kitchen a
 In a tumbler or closed drum composter, the lid and chamber door are structural. They retain heat, manage moisture, and exclude wildlife. A poorly fitting lid on a tumbler lets in excess rain and lets out the thermal mass that accelerates decomposition. On the FCMP units, the sliding chamber doors are functional and reasonably durable, but they're plastic-on-plastic and will wear over time. Replacement parts are available directly from FCMP if a door panel cracks.
 
 ![Compost Bin Lid](/images/articles/composting-6.jpg)
-
 
 On a ground-level bin like the Junior Wizard, the lid is simpler because the decomposition mechanism doesn't depend on heat retention in the same way. Aerobic decomposition in a ground-contact bin is driven more by microbial and worm activity than by thermal mass. The lid's job there is mainly to manage moisture and reduce odor.
 
@@ -208,7 +205,6 @@ Both the Envirocycle and the Lomi are designed for people without ground access.
 For more guidance on matching the right composting approach to your specific situation, the [Composting](/composting/) hub covers the broader options in detail.
 
 ![Compost Bin Lid](/images/articles/composting-7.jpg)
-
 
 ,
 
@@ -282,4 +278,3 @@ Compost tea is the liquid that drains from decomposing organic material. It cont
   ]
 }
 </script>
-

@@ -14,14 +14,14 @@ products:
   - id: "fcmp-im4000-tumbling-composter"
     role: "best_overall"
     article_specific_pros:
-      - "Dual chambers allow continuous composting , fill one side while the other cures"
+      - "Dual chambers allow continuous composting, fill one side while the other cures"
       - "Elevated design allows a wheelbarrow underneath for unloading"
     article_specific_cons:
       - "37-gallon total capacity fills quickly for large households"
   - id: "worm-factory-360-black"
     role: "also_consider"
     article_specific_pros:
-      - "Produces both worm castings and liquid worm tea , two premium fertilizer outputs"
+      - "Produces both worm castings and liquid worm tea, two premium fertilizer outputs"
       - "Modular tray system expands as worm population grows; up to 8 trays supported"
     article_specific_cons:
       - "Red wiggler worms must be purchased separately"
@@ -31,14 +31,14 @@ products:
       - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
       - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
     article_specific_cons:
-      - "Live shipping is weather-dependent , extreme heat or cold can affect survival rate"
+      - "Live shipping is weather-dependent, extreme heat or cold can affect survival rate"
   - id: "lomi-electric-composter"
     role: "also_consider"
     article_specific_pros:
-      - "Processes food waste in 4-8 hours vs 6-12 months in an outdoor bin , fastest available"
+      - "Processes food waste in 4-8 hours vs 6-12 months in an outdoor bin, fastest available"
       - "Countertop design works for apartments, condos, and kitchens with no outdoor space"
     article_specific_cons:
-      - "Output is a dry organic material, not fully finished compost , needs additional soil curing"
+      - "Output is a dry organic material, not fully finished compost, needs additional soil curing"
 tags: ["composting", "buyer guide"]
 disclosure_required: true
 noindex: false
@@ -79,7 +79,6 @@ Worm castings, liquid worm tea, electric-processed pre-compost, and fully mature
 
 ![Black Soldier Fly Compost Bin](/images/articles/composting-4.jpg)
 
-
 ### Durability in Varied Weather
 
 Plastic bins left in direct sun crack over time. Lid design matters more than most product descriptions admit. If you've read our piece on [compost bin lid](/compost-bin-lid/) construction, you'll recognize why UV-stabilized materials and tight-fitting lids are worth paying attention to in harsh conditions.
@@ -92,26 +91,25 @@ This is the most-reviewed tumbling composter on Amazon, and in this case the rev
 
 The elevated stand is practical rather than aesthetic. A standard wheelbarrow fits underneath, which matters when you're unloading finished compost in October and your back is already complaining about the season.
 
-Currently around $100 to $115 on Amazon, which is fair for what it delivers. Made in Canada from 100% post-consumer recycled plastic and BPA-free.
+Made in Canada from 100% post-consumer recycled plastic and BPA-free.
 
 The limitations are real and worth stating clearly. The 37-gallon total capacity (split across two chambers) fills up quickly for larger households. And if you're placing this in full Connecticut summer sun without any shade, the drum will show stress fractures within a few years. Placement matters. I'd compare it favorably to the Envirocycle 35-Gallon Composter, which I used for two seasons before switching to the dual-chamber format. The single-chamber Envirocycle is better-looking, but the FCMP is more functional for continuous use.
 
 ### Best Vermicomposting System: [Worm Factory 360 Black Vermicomposting System, 4-Tray](product:worm-factory-360-black)
 
-If you're composting indoors or in a small-space environment, the Worm Factory 360 is the most sensible system available at this price point (currently around $130 to $145). The modular tray design expands up to eight trays as your worm population grows, and it produces two useful outputs. Worm castings go into the soil or as a top dressing. The liquid collected at the base, called worm tea, dilutes into a foliar spray or soil drench that's genuinely effective on potted plants.
+If you're composting indoors or in a small-space environment, the Worm Factory 360 is the most sensible system available at this price point. The modular tray design expands up to eight trays as your worm population grows, and it produces two useful outputs. Worm castings go into the soil or as a top dressing. The liquid collected at the base, called worm tea, dilutes into a foliar spray or soil drench that's genuinely effective on potted plants.
 
 ![Black Soldier Fly Compost Bin](/images/articles/composting-5.jpg)
-
 
 Made in the USA. Includes an instruction manual that's actually written for someone who has never done this before, which I note because most instruction manuals in this category are not.
 
 The constraints matter here. Red wiggler worms (Eisenia fetida) are not included and must be purchased separately. More importantly, the system requires ambient temperatures between 40 and 80 degrees Fahrenheit. Put this in an unheated garage over a hard winter and you will lose your worm population. The system needs to live somewhere with climate control, which is usually indoors or in a heated utility space.
 
-If you're comparing this to the Urban Worm Bag Version 2 (currently around $120), the Worm Factory offers more structure and better liquid collection. The Urban Worm Bag produces castings faster, but the liquid runoff management is messier.
+If you're comparing this to the Urban Worm Bag Version 2, the Worm Factory offers more structure and better liquid collection. The Urban Worm Bag produces castings faster, but the liquid runoff management is messier.
 
 ### Essential Add-On: [Uncle Jim's Worm Farm 1,000 Count Red Wiggler Composting Worms](product:uncle-jims-1000-red-wigglers)
 
-The Worm Factory 360 without worms is a plastic tray system. These are the worms you need, and 1,000 is the right starting quantity for a four-tray setup. Uncle Jim's ships live with moisture-absorbing material and offers an arrival guarantee if you report losses within 48 hours of delivery. Currently around $40 to $45.
+The Worm Factory 360 without worms is a plastic tray system. These are the worms you need, and 1,000 is the right starting quantity for a four-tray setup. Uncle Jim's ships live with moisture-absorbing material and offers an arrival guarantee if you report losses within 48 hours of delivery. 
 
 Red wigglers are surface-level decomposers. They don't behave like garden earthworms and they don't want to. They thrive in organic-rich contained environments, not in open soil, which is why transplanting them to the garden doesn't work and why buying "regular" worms from a bait shop is a mistake some buyers make once.
 
@@ -119,18 +117,17 @@ Live shipping has real risks. If your order is arriving in July heat or January 
 
 ![Black Soldier Fly Compost Bin](/images/articles/composting-6.jpg)
 
-
 Allow four to six weeks for the population to acclimate and reach full processing capacity. A well-established colony will process kitchen scraps at up to four times their body weight per week.
 
 ### Best for No Outdoor Space: [Lomi 1 Smart Waste and Food Composter, 3L, White](product:lomi-electric-composter)
 
-The Lomi is the only product in this guide that works entirely on a kitchen counter with no outdoor access required. It runs on electricity, processes food waste in four to eight hours depending on the mode selected, and produces a dry organic material that can go into potted soil or a garden bed for further curing. Currently around $500 on Amazon, which is the highest price point here by a significant margin.
+The Lomi is the only product in this guide that works entirely on a kitchen counter with no outdoor access required. It runs on electricity, processes food waste in four to eight hours depending on the mode selected, and produces a dry organic material that can go into potted soil or a garden bed for further curing. 
 
 I want to be clear about what the Lomi produces, because this is the point where reader expectations diverge from reality. The output is not finished compost. It's a dehydrated, partially broken-down organic material. It needs to be incorporated into soil and given additional time to fully decompose. For someone with a garden, that's a minor inconvenience. For someone in a high-rise apartment who bought the Lomi because they have no garden, the output creates a question about what to do next.
 
 Where the Lomi earns its price is in speed and convenience for people who have no realistic composting alternative. Apartment dwellers, condo owners, renters without yard access. If you're in a house with outdoor space, the FCMP tumbler will produce better finished compost for less than a quarter of the price. That's just the honest comparison.
 
-Optional LomiPod tablets (sold separately, around $40 for a three-month supply) activate microbial breakdown and improve the output quality. Worth buying if you're using the Grow mode and planning to add output to plant soil.
+Optional LomiPod tablets activate microbial breakdown and improve the output quality. Worth buying if you're using the Grow mode and planning to add output to plant soil.
 
 ## How to Choose
 
@@ -138,10 +135,9 @@ The choice largely comes down to your setup, not your ambition.
 
 ![Black Soldier Fly Compost Bin](/images/articles/composting-7.jpg)
 
-
 If you have outdoor space and want the most useful finished compost with minimal ongoing cost, buy the [FCMP IM4000](product:fcmp-im4000-tumbling-composter). Place it in partial shade, maintain a rough carbon-to-nitrogen balance, and tumble it every two to three days during active decomposition. You'll have finished material in four to six weeks.
 
-If you're composting indoors or in a small-space environment and you have somewhere that stays between 40 and 80 degrees year-round, buy the [Worm Factory 360](product:worm-factory-360-black) and the [Uncle Jim's red wigglers](product:uncle-jims-1000-red-wigglers) together. Budget around $175 to $190 for the combination. The worm tea alone justifies the system if you have houseplants or a container garden.
+If you're composting indoors or in a small-space environment and you have somewhere that stays between 40 and 80 degrees year-round, buy the [Worm Factory 360](product:worm-factory-360-black) and the [Uncle Jim's red wigglers](product:uncle-jims-1000-red-wigglers) together. Budget for the combination. The worm tea alone justifies the system if you have houseplants or a container garden.
 
 If you have no outdoor access at all, the [Lomi](product:lomi-electric-composter) is the only product here that works for you. Go in with accurate expectations about the output, factor in the LomiPod cost over time, and recognize you're paying a premium for a unique use case.
 
@@ -156,7 +152,6 @@ If a traditional stationary bin is somewhere in your comparison set, the [black 
 It depends on the system. Outdoor tumblers like the FCMP IM4000 slow down significantly in cold weather because microbial activity declines below about 50 degrees Fahrenheit. Decomposition doesn't stop entirely, but your four-to-six-week cycle extends considerably. Vermicomposting systems like the Worm Factory 360 require ambient temperatures above 40 degrees, so outdoor or unheated garage placement through winter will kill the worms. The Lomi operates indoors on electricity and is unaffected by outdoor temperatures.
 
 ![Black Soldier Fly Compost Bin](/images/articles/composting-8.jpg)
-
 
 ### What's the difference between black soldier fly larvae composting and vermicomposting?
 
@@ -222,4 +217,3 @@ With some caution. The Lomi's output in standard mode is partially broken down a
   ]
 }
 </script>
-

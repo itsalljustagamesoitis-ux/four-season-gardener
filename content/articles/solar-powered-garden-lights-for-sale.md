@@ -14,7 +14,7 @@ products:
   - id: "mr-beams-solar-wedge-plus"
     role: "primary"
     article_specific_pros:
-      - "410 lumens from 102 LEDs , brighter than most solar motion lights at this price"
+      - "410 lumens from 102 LEDs, brighter than most solar motion lights at this price"
       - "No wiring required; mounts on any wall surface with included screws in minutes"
     article_specific_cons:
       - "Placement limited to walls with direct sun exposure"
@@ -22,7 +22,7 @@ products:
     role: "alternative"
     article_specific_pros:
       - "Three lighting modes: motion-activated, permanent-on dim, and permanent-on bright"
-      - "IP67 waterproof rating , suitable for any climate including submersion"
+      - "IP67 waterproof rating, suitable for any climate including submersion"
     article_specific_cons:
       - "Built-in rechargeable battery (not replaceable) will degrade after several years"
 tags: ["lighting", "comparison"]
@@ -53,14 +53,13 @@ For broader context on how these fit into a full outdoor setup, the [Garden Ligh
 
 ## At-a-Glance
 
-The Mr Beams Solar Wedge Plus is a self-contained wall light. The solar panel is built into the unit itself, mounted on top. You screw it to a wall, aim it, and you're done. No separate panel, no cable routing, no decisions about panel placement. It puts out 410 lumens from 102 LEDs, which is meaningfully brighter than most solar motion lights in this price range. At the time of writing, it's available for around $30 to $35 on Amazon.
+The Mr Beams Solar Wedge Plus is a self-contained wall light. The solar panel is built into the unit itself, mounted on top. You screw it to a wall, aim it, and you're done. No separate panel, no cable routing, no decisions about panel placement. It puts out 410 lumens from 102 LEDs, which is meaningfully brighter than most solar motion lights in this price range. At the time of writing, it's available.
 
-The LITOM 30 LED Solar Motion Sensor Landscape Spotlights come as a 4-pack, currently around $40 to $45, which works out to roughly $10 to $11 per unit. Each fixture has a separate solar panel on a stake, so you can angle the panel toward the sun independently of where the light head points. They carry an IP67 waterproof rating, which is the spec that distinguishes them from the field.
+The LITOM 30 LED Solar Motion Sensor Landscape Spotlights come as a 4-pack which works out to. Each fixture has a separate solar panel on a stake, so you can angle the panel toward the sun independently of where the light head points. They carry an IP67 waterproof rating, which is the spec that distinguishes them from the field.
 
 Neither product integrates with smart home systems. Neither has a replaceable battery. Both require direct sun exposure to charge reliably. Those are the constraints. Everything else is a question of what you're actually trying to light.
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-6.jpg)
-
 
 ## Why Choose the Mr Beams Solar Wedge Plus
 
@@ -76,12 +75,11 @@ The placement constraint is the honest caveat. The panel is on the unit itself, 
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-7.jpg)
 
-
 If security lighting is your primary concern, you might also want to read through our [best security lights outdoor](/best-security-lights-outdoor/) roundup, which covers hardwired and smart-enabled options alongside solar if you're still deciding on the approach.
 
 ## Why Choose the LITOM 30 LED Solar Motion Sensor Landscape Spotlights
 
-The LITOM pack solves a different problem. If you have a front pathway, a garden border, a set of steps, or any continuous run that needs multiple lights, buying four units at once for under $45 is a different value calculation than buying individual wall-mount fixtures.
+The LITOM pack solves a different problem. If you have a front pathway, a garden border, a set of steps, or any continuous run that needs multiple lights, buying four units at once for entry-level is a different value calculation than buying individual wall-mount fixtures.
 
 The IP67 waterproof rating is the technical standout. Most solar lights in this price bracket are rated IP65, which means protection against water jets. IP67 means the units can be submerged in up to one meter of water for 30 minutes. In practical terms, this matters during heavy spring rain, standing water situations, or ground areas that flood temporarily. If your property gets real weather, and by real weather I mean the kind that pools around stakes and floods low spots overnight, IP67 is a meaningful upgrade over IP65 in a way that IP65 versus IP44 is not.
 
@@ -89,10 +87,9 @@ The three lighting modes are genuinely useful for a landscape application. Mode 
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-8.jpg)
 
-
 Because the solar panel is on a separate stake, you can optimize panel placement independently of the light head direction. If you're lighting a north-facing bed, you can stake the panel out to the south side while angling the light head into the border. That's a real advantage in situations where the Mr Beams' integrated design would fail entirely.
 
-The battery limitation is worth stating plainly. The battery is built-in and not replaceable. Lithium batteries in outdoor solar lights typically degrade noticeably after two to four years of charge cycles. At roughly $10 per unit, the replacement cost is low enough that this probably doesn't warrant serious concern, but if you're expecting a five-year or ten-year product, recalibrate. These are consumables at this price point, not infrastructure.
+The battery limitation is worth stating plainly. The battery is built-in and not replaceable. Lithium batteries in outdoor solar lights typically degrade noticeably after two to four years of charge cycles. At, the replacement cost is low enough that this probably doesn't warrant serious concern, but if you're expecting a five-year or ten-year product, recalibrate. These are consumables at this price point, not infrastructure.
 
 For anyone laying out a full garden lighting plan that includes decorative elements alongside functional path coverage, our [best solar lights for the garden](/best-solar-lights-for-the-garden/) article looks at a wider range of options including stake lights, string lights, and lanterns if you want to layer in something beyond pure security coverage.
 
@@ -101,7 +98,6 @@ For anyone laying out a full garden lighting plan that includes decorative eleme
 Buy the [Mr Beams Solar Wedge Plus](product:mr-beams-solar-wedge-plus) if you need one good motion-activated light on a wall and you want installation that's genuinely tool-optional. It's brighter than the competition at this price, the self-contained design removes the cable and separate panel problem, and it does the security light job well. It won't work in a shaded location, and it's not a path light. But if a wall mount facing the sun is what you have, it's hard to beat for simplicity and output.
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-1.jpg)
-
 
 Buy the [LITOM 30 LED Solar Motion Sensor Landscape Spotlights, 4-Pack](product:litom-solar-motion-spotlights) if you're covering a pathway, a garden border, or any multi-point installation where you need four lights and you want IP67 protection plus mode flexibility. The per-unit cost is lower, the waterproofing is better than most products at this price, and the separate panel stakes give you positioning freedom the Wedge Plus can't match. The non-replaceable battery is a real limitation over a long time horizon, but at this price, the useful life is acceptable.
 
@@ -123,14 +119,13 @@ Honestly, no, not in deeply shaded conditions. Solar lights need direct sun for 
 
 ![Solar Powered Garden Lights For Sale](/images/articles/lighting-2.jpg)
 
-
 ### What does IP67 waterproof rating mean for garden lights?
 
 IP67 means the unit is rated to withstand submersion in up to one meter of water for 30 minutes. For outdoor garden use, this is higher protection than the more common IP65 rating, which covers water jets but not submersion. IP67 matters if lights are placed in low-lying areas that pool water or in regions with heavy, sustained rain. For wall-mounted lights well above ground, the difference between IP65 and IP67 is less relevant in practice.
 
 ### Can I replace the batteries in these solar lights?
 
-Not in either of these products. Both the Mr Beams Solar Wedge Plus and the LITOM spotlights use built-in rechargeable batteries that are not designed for user replacement. Battery degradation after several years of charge cycles is the expected failure mode for both. At the price points of these units (roughly $30 to $35 for the Mr Beams, $10 to $11 per unit for the LITOM), replacement of the full fixture is the practical approach when performance declines noticeably.
+Not in either of these products. Both the Mr Beams Solar Wedge Plus and the LITOM spotlights use built-in rechargeable batteries that are not designed for user replacement. Battery degradation after several years of charge cycles is the expected failure mode for both. At the budget price points of both units, replacement of the full fixture is the practical approach when performance declines noticeably.
 
 ### Do either of these solar lights work with Alexa or Google Home?
 
@@ -170,7 +165,7 @@ No. Neither the Mr Beams Solar Wedge Plus nor the LITOM 30 LED spotlights offer 
       "name": "Can I replace the batteries in these solar lights?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not in either of these products. Both the Mr Beams Solar Wedge Plus and the LITOM spotlights use built-in rechargeable batteries that are not designed for user replacement. Battery degradation after several years of charge cycles is the expected failure mode for both. At the price points of these units (roughly $30 to $35 for the Mr Beams, $10 to $11 per unit for the LITOM), replacement of the full fixture is the practical approach when performance declines noticeably."
+        "text": "Not in either of these products. Both the Mr Beams Solar Wedge Plus and the LITOM spotlights use built-in rechargeable batteries that are not designed for user replacement. Battery degradation after several years of charge cycles is the expected failure mode for both. At the budget price points of both units, replacement of the full fixture is the practical approach when performance declines noticeably."
       }
     },
     {
@@ -184,4 +179,3 @@ No. Neither the Mr Beams Solar Wedge Plus nor the LITOM 30 LED spotlights offer 
   ]
 }
 </script>
-

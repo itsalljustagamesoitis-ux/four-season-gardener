@@ -17,14 +17,14 @@ products:
       - "50,000 BTU output heats a 15-foot radius"
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+      - "Propane is an ongoing consumable cost, a 20 lb tank lasts roughly 8-10 hours at full"
   - id: "napoleon-st-tropez-fire-table"
     role: "alternative"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
+      - "Electronic ignition with adjustable flame height, no matches needed"
       - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
+      - "Premium price, significantly more expensive than Outland Living tables"
 tags: ["fire-and-heat", "comparison"]
 disclosure_required: true
 noindex: false
@@ -53,7 +53,7 @@ If you're still working out what category of product makes sense for your space,
 
 ## At-a-Glance
 
-The Outland Living Series 403 is a 44-inch round table with a concrete-look top, currently around $280 to $320 on Amazon depending on when you're looking. The Napoleon St. Tropez runs significantly higher, in the $600 to $700 range at the time of writing, and is rectangular rather than round, with a rustic bronze aluminum frame.
+The Outland Living Series 403 is a 44-inch round table with a concrete-look top. The Napoleon St. Tropez runs significantly higher, in the range at the time of writing, and is rectangular rather than round, with a rustic bronze aluminum frame.
 
 Both connect to propane. The Napoleon also includes a natural gas conversion kit, which changes the long-term math considerably. Both produce meaningful heat output. The Outland Living claims 50,000 BTU. Napoleon publishes 40,000 BTU for the St. Tropez, though the flame quality and control on the Napoleon are noticeably more refined.
 
@@ -66,7 +66,7 @@ A few quick facts side by side.
 - Fuel: Propane only
 - Frame material: Steel with concrete-look top
 - Natural gas capable: No
-- Price range: $280 to $320
+- Price tier: Mid-range
 
 **Napoleon St. Tropez**
 - Shape: Rectangle
@@ -78,7 +78,7 @@ A few quick facts side by side.
 - Fuel: Propane (natural gas conversion included)
 - Frame material: Rustic bronze cast aluminum
 - Natural gas capable: Yes (kit included)
-- Price range: $600 to $700
+- Price tier: Premium
 
 The Outland Living is the stronger raw-BTU number. The Napoleon is the better-built, more future-proof product.
 
@@ -94,10 +94,9 @@ The frame is steel with a powder-coat finish. It's not as premium as cast alumin
 
 ![Propane Fire Pits Round](/images/articles/fire-and-heat-8.jpg)
 
-
 The weight is worth flagging. The concrete-look top is heavy, and once this table is assembled and positioned, relocating it is a two-person job. If your patio layout changes seasonally or you're renting, that's a real consideration.
 
-**The case in plain terms.** You want a fire table that functions as outdoor furniture. You don't want to spend $600. You're connecting to a propane tank and want the process to be uncomplicated. The Outland Living Series 403 delivers all of that.
+**The case in plain terms.** You want a fire table that functions as outdoor furniture. You don't want to spending that much. You're connecting to a propane tank and want the process to be uncomplicated. The Outland Living Series 403 delivers all of that.
 
 ## Why Choose the Napoleon St. Tropez
 
@@ -109,12 +108,11 @@ The natural gas conversion kit is the most underrated part of the value argument
 
 ![Propane Fire Pits Round](/images/articles/fire-and-heat-1.jpg)
 
-
 The glass ember bed requires occasional cleaning, which is minor maintenance but worth knowing. Fine glass media shifts with use, and after a full season you'll want to level it and remove debris. This is not a criticism, just the reality of how these burner beds work.
 
 For readers comparing rectangular table formats specifically, the [rectangular fire pit table](/rectangular-fire-pit-table/) section has more context on sizing and proportions for different patio configurations.
 
-At $600 to $700, the Napoleon is not an impulse purchase. But if you're building a permanent outdoor living space and want a product that looks premium, performs cleanly, and doesn't require annual tank management once converted to natural gas, it earns that price point.
+performs cleanly, and doesn't require annual tank management once converted to natural gas, it earns that price point.
 
 **The case in plain terms.** You're designing a permanent outdoor setup. You want a fire table that looks and performs like grown-up outdoor furniture, not a patio accessory. You're open to natural gas conversion, or you're already on natural gas. The Napoleon St. Tropez is the right product.
 
@@ -124,10 +122,9 @@ Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if yo
 
 ![Propane Fire Pits Round](/images/articles/fire-and-heat-2.jpg)
 
-
 Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're investing in a permanent space and want a product built to last. The electronic ignition, the cast aluminum frame, and the natural gas conversion option are not marketing extras. They're the reasons this costs more, and they're worth the money if the use case fits.
 
-Between these two, I'd go Napoleon for a patio I was actually building out with intent to keep. I'd go Outland Living for a rental situation, a secondary outdoor space, or anywhere the budget is a real constraint. There isn't a wrong answer here, there's just a mismatch to avoid. A buyer who stretches to buy a premium product for a space they use four times a year is worse off than a buyer who spends $300 on exactly the right product for their situation.
+Between these two, I'd go Napoleon for a patio I was actually building out with intent to keep. I'd go Outland Living for a rental situation, a secondary outdoor space, or anywhere the budget is a real constraint. There isn't a wrong answer here, there's just a mismatch to avoid. A buyer who stretches to buy a premium product for a space they use four times a year is worse off than a buyer who spends appropriately for their actual situation.
 
 For anyone still deciding what type of outdoor heat makes sense, the full [fire and heat options guide](/fire-and-heat/) is worth a look before you commit to a table-format burner specifically.
 
@@ -142,7 +139,6 @@ At full output, a 20-lb tank typically lasts 8 to 10 hours. Running the burner a
 The Napoleon St. Tropez includes a natural gas conversion kit in the box. The Outland Living Series 403 does not support natural gas and is propane-only. If you have a natural gas line on your property or are planning to have one installed, the Napoleon is the only option between these two that accommodates it. Understanding what's involved in a [propane fire pit burner](/propane-fire-pit-burner/) setup versus a natural gas line connection is worth researching before you decide.
 
 ![Propane Fire Pits Round](/images/articles/fire-and-heat-3.jpg)
-
 
 ### Are these fire pit tables safe on a wood deck?
 
@@ -204,4 +200,3 @@ The Outland Living Series 403 is rated at 50,000 BTU, which the manufacturer des
   ]
 }
 </script>
-

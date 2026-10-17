@@ -17,7 +17,7 @@ products:
       - "Six-piece modular configuration adapts to different patio layouts"
       - "Olefin cushions are UV- and mold-resistant; removable, machine-washable covers"
     article_specific_cons:
-      - "Very high investment , premium all-weather sectionals rarely fall below $3,000"
+      - "Very high investment, premium all-weather sectionals rarely fall below $3,000"
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
@@ -34,16 +34,15 @@ faq:
     answer: "For a permanent outdoor seating area you plan to use for a decade or more, yes — the math works out compared to replacing cheaper sets every 3 to 5 years. It is not the right choice for rental properties, temporary setups, or buyers whose budget caps below $3,000."
 ---
 
-If you've been replacing outdoor seating sets every three to five years, you already know the math doesn't work. A $600 wicker sectional sounds reasonable until you've bought three of them. The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set) sits at the opposite end of that calculation: a high upfront number backed by a 20-year frame warranty and cushions that are genuinely built for the outdoors. This review is for people who are done making the cheap-set mistake and want to know whether this particular investment is the right one.
+If you've been replacing outdoor seating sets every three to five years, you already know the math doesn't work. A wicker sectional sounds reasonable until you've bought three of them. The [POLYWOOD Edge 6-Piece Outdoor Deep Seating Sectional Set](product:polywood-edge-sectional-set) sits at the opposite end of that calculation: a high upfront number backed by a 20-year frame warranty and cushions that are genuinely built for the outdoors. This review is for people who are done making the cheap-set mistake and want to know whether this particular investment is the right one.
 
 For context on how this set fits into the broader category, the [Outdoor Furniture](/outdoor-furniture/) hub covers the full range of what's available at different price points. This review focuses specifically on whether the POLYWOOD Edge sectional earns its premium.
 
 ## Quick Verdict
 
-Buy this set if you have a permanent patio space, intend to keep it for a decade or more, and want cushions that don't require hauling to a garage the moment clouds appear. Skip it if your budget stops below $3,000, your layout changes frequently, or you're outfitting a rental property where theft or tenant damage is a real risk.
+Buy this set if you have a permanent patio space, intend to keep it for a decade or more, and want cushions that don't require hauling to a garage the moment clouds appear. Skip it if your budget stops below premium pricing, your layout changes frequently, or you're outfitting a rental property where theft or tenant damage is a real risk.
 
 The POLYWOOD Edge sectional is the right answer to a specific question: what's the last outdoor sofa I'll ever need to buy? If that's your question, this answers it.
-
 
 [Check current price on Amazon](product:polywood-edge-sectional-set)
 
@@ -57,12 +56,11 @@ The POLYWOOD Edge sectional is the right answer to a specific question: what's t
 
 ![Sunbrella Outdoor Sofa](/images/articles/outdoor-furniture-4.jpg)
 
-
 **Cushion covers.** Removable and machine-washable.
 
 **Warranties.** 20 years on the frame, 3 years on the cushions.
 
-**Current pricing.** Around $3,200 to $3,500 depending on color selection and where you catch it. (Prices shift, particularly around Memorial Day and Labor Day sales. At the time of writing, Amazon has it in that range.)
+**Current pricing.**,500 depending on color selection and where you catch it. (Prices shift, particularly around Memorial Day and Labor Day sales. At the time of writing, Amazon has it in that range.)
 
 **Weight.** Each piece runs between 30 and 50 pounds depending on configuration. Not something you're moving casually, which for a permanent installation is fine.
 
@@ -76,14 +74,13 @@ The 20-year warranty is meaningful because POLYWOOD actually honors it. I've spo
 
 ![Sunbrella Outdoor Sofa](/images/articles/outdoor-furniture-5.jpg)
 
-
 ### The Cushions
 
 The olefin cushions are where the real-world performance diverges from marketing language. They do what they claim. Moisture doesn't soak in the way it does with cheaper polyester fill. I left these out through two consecutive rain events without pulling them, and they dried within a few hours each time. No mildew smell afterward.
 
 The covers come off easily, wash in a standard machine on cold, and go back on without a fight. (I timed this. The whole set of cushions took about 12 minutes to strip and reload into the washing machine. Not a production.)
 
-The honest limitation: in a climate with hard winters and extended freezing temperatures, these cushions should come inside or go into storage bags. Not because they'll be destroyed, but because foam core degrades faster through repeated freeze-thaw cycles than the outer fabric suggests. The 3-year cushion warranty doesn't cover that kind of seasonal neglect. Budget around $40 to $60 for good storage bags if you're in a cold-weather region.
+The honest limitation: in a climate with hard winters and extended freezing temperatures, these cushions should come inside or go into storage bags. Not because they'll be destroyed, but because foam core degrades faster through repeated freeze-thaw cycles than the outer fabric suggests. The 3-year cushion warranty doesn't cover that kind of seasonal neglect. Budget for good storage bags if you're in a cold-weather region.
 
 Cushion thickness is 5 inches, which is on the firmer side of "deep seating." If you've sat on a set with 6-inch or 7-inch cushions and found yourself sinking in uncomfortably, this will feel more supportive. If you want that plush, cloud-like sit, these aren't it.
 
@@ -95,7 +92,6 @@ The coffee table is a solid addition to the set. Heavy, stable, and the surface 
 
 ![Sunbrella Outdoor Sofa](/images/articles/outdoor-furniture-6.jpg)
 
-
 ## Pros and Cons
 
 **Pros.**
@@ -104,11 +100,11 @@ The coffee table is a solid addition to the set. Heavy, stable, and the surface 
 - Modular configuration adapts to layout changes without buying new pieces
 - Cushion covers are removable and machine-washable, which matters more than people realize until they're dealing with a mildew problem
 - HDPE requires no annual maintenance, sealing, or oiling
-- Total cost of ownership over 10-plus years beats most sub-$1,500 alternatives by a significant margin
+- Total cost of ownership over 10-plus years beats most entry-level alternatives by a significant margin
 
 **Cons.**
 
-- The upfront cost is high. At $3,200 to $3,500, this is a deliberate purchase that requires a budget commitment
+- The upfront cost is high. this is a deliberate purchase that requires a budget commitment
 - Cushions need winter storage in cold climates to maximize their lifespan
 - Olefin is not Sunbrella. If replacement fabrics or brand-specific warranties matter to you, that's a real gap
 - The coffee table is slightly undersized relative to the seating footprint
@@ -122,12 +118,11 @@ The coffee table is a solid addition to the set. Heavy, stable, and the surface 
 
 You have a fixed patio layout where at least part of the sectional will stay in place most of the year. The weight and configuration work best as a semi-permanent installation rather than something you're reorganizing weekly.
 
-You're calculating furniture cost over a decade, not just at point of purchase. The $3,200 to $3,500 entry price looks different when you consider that two mid-range wicker sectionals at $1,500 each will cost you more and leave you with nothing after year six or seven.
+You're calculating furniture cost over a decade, not just at point of purchase. the entry price looks different when you consider that two mid-range wicker sectionals at premium prices will cost you more and leave you with nothing after year six or seven.
 
 You want maintenance to be minimal. If the idea of annual teak oiling (see our notes on [teak outdoor rocking chairs](/teak-outdoor-rocking-chair/) for what that actually involves) doesn't appeal to you, HDPE frames are the correct alternative.
 
 ![Sunbrella Outdoor Sofa](/images/articles/outdoor-furniture-7.jpg)
-
 
 **This set does not make sense if:**
 
@@ -139,7 +134,7 @@ You're outfitting a vacation rental or high-turnover space where durability is r
 
 ### A Note on Total Cost of Ownership
 
-A decent mid-range wicker sectional currently runs $800 to $1,400. Most of them need replacing within four to five years in a climate with real weather. Over 15 years, you're likely buying three sets: call it $3,000 to $4,200 total, plus the time cost of researching and purchasing replacements. The POLYWOOD Edge, bought once, depreciated over 15 years, comes out roughly equivalent or cheaper in pure dollar terms, and you don't have to think about it again. That trade-off isn't for everyone, but if you've already done the math and landed here, you're probably making the right call.
+A decent mid-range wicker sectional currently. Most of them need replacing within four to five years in a climate with real weather. Over 15 years, you're likely buying three sets — a significant total cost, plus the time cost of researching and purchasing replacements. The POLYWOOD Edge, bought once, depreciated over 15 years, comes out roughly equivalent or cheaper in pure dollar terms, and you don't have to think about it again. That trade-off isn't for everyone, but if you've already done the math and landed here, you're probably making the right call.
 
 If you're building out a full outdoor space and want to understand how seating, dining, and accent pieces fit together, the [Outdoor Furniture](/outdoor-furniture/) hub is a practical starting point for comparing categories before committing to individual pieces.
 
@@ -152,7 +147,6 @@ If you're building out a full outdoor space and want to understand how seating, 
 No. The cushions use olefin fabric, which shares many of the same performance characteristics as Sunbrella (UV resistance, moisture resistance, mold resistance) but is a different product from a different manufacturer. Sunbrella has a more established brand warranty and broader replacement fabric availability. For most outdoor use cases, olefin performs comparably. If you specifically need Sunbrella fabric, you'll want to look at sets that offer it as the stated material.
 
 ![Sunbrella Outdoor Sofa](/images/articles/outdoor-furniture-8.jpg)
-
 
 ### Can the cushions stay outside year-round?
 
@@ -168,7 +162,7 @@ Probably not. The full set has a significant footprint, and the modular configur
 
 ### What is the current price and where is the best place to buy?
 
-At the time of writing, the set is available on Amazon in the $3,200 to $3,500 range depending on color. POLYWOOD also sells direct through its own website, which occasionally has different pricing or bundle options. Watch for Memorial Day and Labor Day sale windows, when outdoor furniture pricing tends to soften across most major retailers.
+At the time of writing, the set is available on Amazon depending on color. POLYWOOD also sells direct through its own website, which occasionally has different pricing or bundle options. Watch for Memorial Day and Labor Day sale windows, when outdoor furniture pricing tends to soften across most major retailers.
 
 <script type="application/ld+json">
 {
@@ -212,10 +206,9 @@ At the time of writing, the set is available on Amazon in the $3,200 to $3,500 r
       "name": "What is the current price and where is the best place to buy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At the time of writing, the set is available on Amazon in the $3,200 to $3,500 range depending on color. POLYWOOD also sells direct through its own website, which occasionally has different pricing or bundle options. Watch for Memorial Day and Labor Day sale windows, when outdoor furniture pricing tends to soften across most major retailers."
+ "text": "At the time of writing, the set is available on Amazon depending on color. POLYWOOD also sells direct through its own website, which occasionally has different pricing or bundle options. Watch for Memorial Day and Labor Day sale windows, when outdoor furniture pricing tends to soften across most major retailers."
       }
     }
   ]
 }
 </script>
-

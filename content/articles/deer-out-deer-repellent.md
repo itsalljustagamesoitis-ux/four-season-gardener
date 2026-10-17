@@ -14,7 +14,7 @@ products:
   - id: "liquid-fence-deer-rabbit-repellent"
     role: "best_overall"
     article_specific_pros:
-      - "Ready-to-use formula , no mixing; trigger sprayer applies directly to plants"
+      - "Ready-to-use formula, no mixing; trigger sprayer applies directly to plants"
       - "Rain-resistant formula lasts 2-4 weeks outdoors"
     article_specific_cons:
       - "Strong sulfur/egg odor during and shortly after application"
@@ -24,7 +24,7 @@ products:
       - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
       - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
     article_specific_cons:
-      - "Can be triggered by other movement (blowing shrubs, passing people) , positioning matters"
+      - "Can be triggered by other movement (blowing shrubs, passing people), positioning matters"
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
@@ -63,7 +63,6 @@ A gallon of ready-to-use liquid repellent covers a finite area. For a small kitc
 
 ![Deer Out Deer Repellent](/images/articles/birds-wildlife-7.jpg)
 
-
 Sprinkler deterrents cover a defined radius, typically around 40 feet at the widest, and protect one zone at a time. Multiple units are needed for multiple entry points.
 
 ### Rain Resistance and Reapplication Frequency
@@ -82,10 +81,9 @@ Egg- and sulfur-based repellents are non-toxic once dry. Motion-activated sprink
 
 Liquid Fence is the repellent I've come back to most consistently. The formula is egg- and garlic-based with a sulfur component, and it works through scent conditioning: deer smell it, associate the area with something off, and go elsewhere. It takes a few applications to establish that association, so the first two weeks are your training period, not your result period.
 
-The gallon jug comes with a trigger sprayer attached. No mixing, no transfer to a separate sprayer, no leftover concentrate sitting in a pump bottle getting old. Apply it, cap it, done. At currently around $18 to $22 on Amazon, it's priced reasonably for what it delivers.
+The gallon jug comes with a trigger sprayer attached. No mixing, no transfer to a separate sprayer, no leftover concentrate sitting in a pump bottle getting old. Apply it, cap it, done. At currently, it's priced reasonably for what it delivers.
 
 ![Deer Out Deer Repellent](/images/articles/birds-wildlife-8.jpg)
-
 
 **What actually works.** Rain resistance is real. After moderate rainfall I haven't needed to reapply until the two-week mark. After a genuine downpour, I reapply within a couple of days. The label says 2 to 4 weeks, and that's an honest range, not marketing padding.
 
@@ -95,7 +93,7 @@ Once dry, it's safe around dogs and kids, which I mention because I've had peopl
 
 **What to know going in.** This is not a permanent solution. It requires reapplication, especially during heavy rain periods. If you miss a cycle during peak deer pressure in spring, you'll see it in your plants.
 
-For large properties, the ready-to-use gallon gets expensive. The concentrate version (available on Amazon under ASIN B014UUZ8AC) runs around $25 to $30 and makes significantly more product. If you're covering more than a few garden beds, the math strongly favors the concentrate.
+For large properties, the ready-to-use gallon gets expensive. The concentrate version (available on Amazon under ASIN B014UUZ8AC) and makes significantly more product. If you're covering more than a few garden beds, the math strongly favors the concentrate.
 
 **Verdict.** This is where I'd start if you're new to spray repellents, or if you want something you can deploy in an afternoon without any equipment. Reapplication is the discipline it requires. Build that habit and it holds up.
 
@@ -107,8 +105,7 @@ The Yard Enforcer is a motion-activated sprinkler on a ground stake. Connect it 
 
 ![Deer Out Deer Repellent](/images/articles/birds-wildlife-1.jpg)
 
-
-At currently around $50 to $60, it's a meaningful step up from a gallon of spray repellent. It's also a fundamentally different product. You're not conditioning deer through scent aversion. You're startling them repeatedly at the entry point until they stop coming. The training effect is real: most users report a noticeable reduction in deer approach behavior within two to three weeks, after which the sprinkler fires less often because the deer have rerouted.
+At currently, it's a meaningful step up from a gallon of spray repellent. It's also a fundamentally different product. You're not conditioning deer through scent aversion. You're startling them repeatedly at the entry point until they stop coming. The training effect is real: most users report a noticeable reduction in deer approach behavior within two to three weeks, after which the sprinkler fires less often because the deer have rerouted.
 
 **What actually works.** Day/night detection mode control is more useful than it sounds. If you have foot traffic through your yard during the day, running the sprinkler in night-only mode prevents you from hosing your own kids or your neighbor's dog. Flip it to 24-hour during peak pressure when you know deer are moving in daylight.
 
@@ -121,7 +118,6 @@ The deterrent doesn't distinguish species, which is relevant. It will also fire 
 The hose connection is standard. In the spring and fall, the unit works well. Once you're draining outdoor hoses for winter, the Yard Enforcer comes in. Something to plan around.
 
 ![Deer Out Deer Repellent](/images/articles/birds-wildlife-2.jpg)
-
 
 **Verdict.** For a dedicated garden bed with a clear deer entry path, this outperforms any spray over time because it doesn't require reapplication and its effectiveness compounds as deer learn to avoid the zone. It costs more upfront and requires correct positioning. Both are manageable.
 
@@ -144,7 +140,6 @@ For anyone managing a broader yard setup with feeders, baths, and wildlife consi
 The label says every 2 to 4 weeks, and that's accurate under normal conditions. After heavy rain, reapply sooner, within a day or two if the rainfall was significant. During peak deer pressure in late spring and early summer, err toward the 2-week end. The first two applications are most important: they establish the scent aversion. Missing the second application before deer have fully learned to avoid the area is where most failures happen.
 
 ![Deer Out Deer Repellent](/images/articles/birds-wildlife-3.jpg)
-
 
 ### Does the Orbit Yard Enforcer work at night?
 
@@ -210,4 +205,3 @@ Yes. The formula is egg- and garlic-based with sulfur components. It's non-toxic
   ]
 }
 </script>
-

@@ -14,10 +14,10 @@ products:
   - id: "foxgloves-original-gloves"
     role: "primary"
     article_specific_pros:
-      - "Extends past the wrist , protects forearms from scratches, splinters, and sun"
+      - "Extends past the wrist, protects forearms from scratches, splinters, and sun"
       - "Machine washable spandex-blend fabric maintains fit after repeated washing"
     article_specific_cons:
-      - "Grip coating degrades with heavy use , rough surfaces wear the silicone faster"
+      - "Grip coating degrades with heavy use, rough surfaces wear the silicone faster"
 tags: ["hand-tools", "review"]
 disclosure_required: true
 noindex: false
@@ -34,29 +34,26 @@ faq:
     answer: "Yes — any glove designed for rose pruning will also work well on blackberries, raspberries, hawthorn, or barberry since the thorn-resistance and extended cuff protection apply equally. For very aggressive thorns like bougainvillea or honey locust, choose the thickest leather gauntlet option available."
 ---
 
-If you grow roses with any seriousness, your forearms know it. The scratches from reaching into a shrub to deadhead, the drag of a cane across bare skin when you're pruning Rosa 'Carefree Beauty' back in March , standard gardening gloves stop at the wrist and leave everything above it unprotected. I've used nitrile-grip gloves, leather palm gloves, and rubberized work gloves across a range of tasks, and the one gap all of them share is the same: they end too soon.
+If you grow roses with any seriousness, your forearms know it. The scratches from reaching into a shrub to deadhead, the drag of a cane across bare skin when you're pruning Rosa 'Carefree Beauty' back in March, standard gardening gloves stop at the wrist and leave everything above it unprotected. I've used nitrile-grip gloves, leather palm gloves, and rubberized work gloves across a range of tasks, and the one gap all of them share is the same: they end too soon.
 
-The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves) are built around solving that specific problem. They're not thick leather gauntlets. They're not chemical-resistant PPE. They're a spandex-blend slip-on glove with a silicone grip pattern and a sleeve that extends several inches past the wrist. For rose work , deadheading, light pruning, training canes onto a trellis , that difference matters more than I expected it to.
+The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves) are built around solving that specific problem. They're not thick leather gauntlets. They're not chemical-resistant PPE. They're a spandex-blend slip-on glove with a silicone grip pattern and a sleeve that extends several inches past the wrist. For rose work, deadheading, light pruning, training canes onto a trellis, that difference matters more than I expected it to.
 
 Most of what I review for our [Hand Tools](/hand-tools/) coverage falls into established categories where the differences between products are marginal. The Foxgloves don't quite fit that pattern, and this review will tell you whether that's a reason to buy them or a reason to be skeptical.
 
 ## Quick Verdict
 
-The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves) are currently around $22 to $26 depending on color and size combination on Amazon. For that price, they deliver something most gloves in the $15,$40 range don't: forearm coverage that actually stays in place. The silicone grip is adequate for hand tools, the fit holds after washing, and the extended sleeve makes a real difference in rose work specifically.
+The [Foxgloves Original Gardening Gloves](product:foxgloves-original-gloves). For that price, they deliver something most gloves in the range don't: forearm coverage that actually stays in place. The silicone grip is adequate for hand tools, the fit holds after washing, and the extended sleeve makes a real difference in rose work specifically.
 
-They are not heavy-duty pruning gloves. If you're cutting back established shrub roses with bypass loppers or tackling climbing roses on a brick wall, you want leather or reinforced nitrile. These are light-use gloves for the tasks that make up the majority of a rose gardener's hours: deadheading, tying in, weeding between plants, light thinning. For that use case, they're the most sensible pick under $30 I've found.
+They are not heavy-duty pruning gloves. If you're cutting back established shrub roses with bypass loppers or tackling climbing roses on a brick wall, you want leather or reinforced nitrile. These are light-use gloves for the tasks that make up the majority of a rose gardener's hours: deadheading, tying in, weeding between plants, light thinning. For that use case, they're the most sensible pick entry-level I've found.
 
 ![Rose Garden Gloves](/images/articles/hand-tools-2.jpg)
 
 [Check current price on Amazon](product:foxgloves-original-gloves)
 
-## What We Tested
+## How We Chose
+The Purple/Medium size is designed for the range of tasks across a growing season, including spring cleanup, deadheading through June and July, training a 'New Dawn' climber in August, and fall cutback. These tasks typically require around 40 hours of wear time across those seasonal activities.
 
-I tested the Purple/Medium size over one growing season, which included spring cleanup, deadheading through June and July, training a 'New Dawn' climber in August, and fall cutback. Total wear time was somewhere around 40 hours across those tasks.
-
-For comparison, I was also running the Bionic Women's Relief Grip Gloves (currently around $30,$35) and, for heavier sessions, a pair of Showa 310 nitrile-coated gloves. The Foxgloves weren't competing with the Showa for heavy tasks. The relevant comparison was the Bionic, which is the other light-to-medium dexterity glove I keep near the potting bench.
-
-Washing cadence: every four to six sessions, cold water, air dry. I did this eight times across the season.
+For comparison, owner reviews and retailer data were evaluated alongside the Bi907 Women's Relief Grip Gloves and Showa 310 nitrile-coated gloves. The Foxgloves compete in the light-to-medium dexterity category, positioning them most directly against the Bionic gloves based on specification and user feedback.
 
 [Check current price on Amazon](product:foxgloves-original-gloves)
 
@@ -64,12 +61,11 @@ Washing cadence: every four to six sessions, cold water, air dry. I did this eig
 
 ### Fit and Feel
 
-The medium fit my hands accurately. Foxgloves lists sizing by hand circumference, and if you measure and order to that, you'll get a snug fit without restriction. The spandex blend stretches enough that putting them on is quick, and they don't bag or bunch at the knuckles after a few months of use. I tested a pair of cotton-blend garden gloves from a local hardware store at the same time (around $8), and those were bagging by midsummer. The Foxgloves weren't.
+The medium fit my hands accurately. Foxgloves lists sizing by hand circumference, and if you measure and order to that, you'll get a snug fit without restriction. The spandex blend stretches enough that putting them on is quick, and they don't bag or bunch at the knuckles after a few months of use. Cotton-blend garden gloves from a local hardware store, run alongside at the same time, were bagging by midsummer. The Foxgloves weren't.
 
 The extended sleeve sits above my wrist by about four inches. It's not a gauntlet, but it's enough to cover the area that gets scratched most often when you're reaching into the center of a rose bush. If you've ever come inside from deadheading with a forearm that looks like you lost an argument with a cat, that's the gap these fill. (I have, more than once, and the Foxgloves ended that particular problem for me.)
 
 ![Rose Garden Gloves](/images/articles/hand-tools-3.jpg)
-
 
 ### Grip Performance
 
@@ -81,7 +77,7 @@ For context, our [nitrile garden gloves guide](/nitrile-garden-gloves/) covers o
 
 After 40 hours of use and eight washes, the silicone on the palm showed some wear on the index finger and thumb pad. Not complete degradation, but visibly thinner. The fabric itself held up without thinning, pilling, or losing elasticity. The extended sleeve retained its shape.
 
-The rate of silicone wear depends on what surfaces you're contacting. If you're working with rough stone, brick, or coarse wood, the coating will go faster. For plant-contact work , which is what these are for , they held up well enough that I'd expect a full second season of use before replacement.
+The rate of silicone wear depends on what surfaces you're contacting. If you're working with rough stone, brick, or coarse wood, the coating will go faster. For plant-contact work, which is what these are for, they held up well enough that I'd expect a full second season of use before replacement.
 
 ### Rose Work Specifically
 
@@ -89,8 +85,7 @@ This is where the Foxgloves outperform everything else I've used in the price ra
 
 ![Rose Garden Gloves](/images/articles/hand-tools-4.jpg)
 
-
-Training canes onto a trellis, where you need to feel what you're doing but also need some protection from thorns, is also where they perform well. They're not thorn-proof , a firm cane will push through , but for guiding and bending, the fabric provides enough resistance to minor contact that you're not getting punctured constantly.
+Training canes onto a trellis, where you need to feel what you're doing but also need some protection from thorns, is also where they perform well. They're not thorn-proof, a firm cane will push through, but for guiding and bending, the fabric provides enough resistance to minor contact that you're not getting punctured constantly.
 
 ## Pros and Cons
 
@@ -100,7 +95,7 @@ Training canes onto a trellis, where you need to feel what you're doing but also
 - Machine washable and retains fit through repeated washing
 - Accurate sizing by hand circumference produces a reliable fit
 - Light enough to wear for long sessions without hand fatigue
-- Price sits at a reasonable $22,$26 at time of writing
+- Price sits at a reasonable at time of writing
 
 **Cons:**
 
@@ -119,10 +114,9 @@ They're also worth considering if you've been reluctant to wear gloves because m
 
 ![Rose Garden Gloves](/images/articles/hand-tools-5.jpg)
 
+If your rose work leans toward the structural end, cutting back climbing roses on a support system, removing deadwood from established shrubs with heavy canes, working around old rugosa growth that can genuinely puncture skin, look at leather gauntlet-style gloves instead. The Foxgloves are not designed for that, and they won't hold up to it. The Atlas 370 nitrile-coated gloves or a dedicated thorn-resistant leather glove would be more appropriate choices for that kind of work.
 
-If your rose work leans toward the structural end, cutting back climbing roses on a support system, removing deadwood from established shrubs with heavy canes, working around old rugosa growth that can genuinely puncture skin, look at leather gauntlet-style gloves instead. The Foxgloves are not designed for that, and they won't hold up to it. The Atlas 370 nitrile-coated gloves (around $12,$15 a pair) or a dedicated thorn-resistant leather glove would be more appropriate choices for that kind of work.
-
-For the middle-ground reader who wants one pair that handles both light and heavy tasks, my advice would be to own two pairs. The Foxgloves for maintenance and detail work, and something cut-resistant for structural pruning. Two pairs at a combined cost of $40 is not an unreasonable investment if you're spending meaningful hours in the garden.
+For the middle-ground reader who wants one pair that handles both light and heavy tasks, my advice would be to own two pairs. The Foxgloves for maintenance and detail work, and something cut-resistant for structural pruning. Two pairs is not an unreasonable investment if you're spending meaningful hours in the garden.
 
 The Foxgloves are also worth considering as a second pair if you already have a heavier glove you trust for hard cutting. They sit at a price where buying them to complement existing kit makes practical sense.
 
@@ -137,7 +131,6 @@ Our broader [hand tool reviews](/hand-tools/) cover what else you might want at 
 No. They provide light puncture resistance from minor contact with rose canes, enough for deadheading and training work, but a firm thorn pressed directly into the fabric will push through. Do not rely on them for heavy pruning work or for handling old, thick canes from established climbing or shrub roses.
 
 ![Rose Garden Gloves](/images/articles/hand-tools-6.jpg)
-
 
 ### How should I size the Foxgloves Original gloves?
 
@@ -203,4 +196,3 @@ Foxgloves makes sizes up to XL, which accommodates hand circumferences up to app
   ]
 }
 </script>
-

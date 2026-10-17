@@ -15,13 +15,13 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
   - id: "all-things-cedar-ga87-garden-arbor"
     role: "also_consider"
     article_specific_pros:
-      - "Naturally rot-resistant cedar requires no chemical treatment , safe next to edibles"
+      - "Naturally rot-resistant cedar requires no chemical treatment, safe next to edibles"
       - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
     article_specific_cons:
       - "Cedar will grey without staining or oiling every 2-3 years"
@@ -43,9 +43,9 @@ faq:
 
 Cedar pergolas sit in an interesting middle ground in the garden structures market. They're not cheap, they're not maintenance-free, and yet they consistently outsell vinyl and aluminum alternatives because they look like something that belongs in a real garden rather than a catalog. If you've been pricing kits and wondering whether the premium over pressure-treated pine is worth it, or whether a polycarbonate roof is smarter than raw cedar in the long run, this roundup gives you a straight answer.
 
-The four structures below cover different needs and price points, from a classic cedar entrance arbor around $200 to a permanent hardtop gazebo pushing $2,000. All are available through Amazon with reasonably reliable delivery timelines. For a broader look at what's available across the full category, the [Greenhouses, Sheds & Gazebos](/structures/) hub is a good starting point before you commit to a specific format.
+The four structures below cover different needs and price points, from a classic cedar entrance arbor at an entry price to a permanent hardtop gazebo at the premium end. All are available through Amazon with reasonably reliable delivery timelines. For a broader look at what's available across the full category, the [Greenhouses, Sheds & Gazebos](/structures/) hub is a good starting point before you commit to a specific format.
 
-One note before the picks: "pergola kit" means different things to different brands. Some ship pre-cut lumber with hardware. Others ship a complete polycarbonate-roofed frame that barely resembles traditional cedar construction. I've tried to be clear about which is which below, because those are genuinely different purchases.
+One note before the picks: "pergola kit" means different things to different brands. Some ship pre-cut lumber with hardware. Others ship a complete polycarbonate-roofed frame that barely resembles traditional cedar construction. The distinctions below clarify which is which, because those are genuinely different purchases.
 
 ## Top Picks
 
@@ -53,18 +53,15 @@ One note before the picks: "pergola kit" means different things to different bra
 
 **[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)**
 
-**Currently around $1,099 on Amazon.**
-
 This is the product most people have in mind when they search "cedar pergola kit." North American cedar, pre-cut, pre-drilled, pre-stained a warm honey brown, with hardware included. The footprint gives you 120 square feet of covered space, which is enough for a six-person dining set with reasonable clearance. If you've looked at the [Renfocre Pergola Kit](/renfocre-pergola-kit/) and found the assembly requirements daunting, the Yardistry competes directly on ease of build.
 
 The pre-drilling is the meaningful advantage here. Anyone who's tried to build even a simple cedar structure from raw lumber knows that hand-drilling through 4x4 posts without blowing out the grain is not quick work. Yardistry eliminates that. Two reasonably competent adults can assemble this in a day. One person working alone will need closer to two days, though I'd argue solo installation on a structure this size is more stubborn than efficient.
 
 Cedar's natural oils make it genuinely rot-resistant without chemical treatment, which matters if you're putting this near a vegetable bed or a space where kids play. That's not marketing language. Western red cedar contains thujaplicins, naturally occurring fungicides that give the wood its durability. The trade-off is maintenance: without restaining, cedar grays out over two to three years. Some people find weathered silver-gray cedar attractive. If you're not one of them, budget time and money for restaining every couple of seasons.
 
-The optional polycarbonate roof panels, sold separately by Yardistry for around $200 to $250 depending on where you source them, are worth mentioning because a bare pergola in a wet spring is essentially a decorative frame. If your goal is a functional outdoor room, add the roof panels at purchase rather than the following season.
+The optional polycarbonate roof panels, sold separately by Yardistry depending on where you source them, are worth mentioning because a bare pergola in a wet spring is essentially a decorative frame. If your goal is a functional outdoor room, add the roof panels at purchase rather than the following season.
 
 ![Cedar Pergola Kit](/images/articles/structures-8.jpg)
-
 
 **Pros.**
 - North American cedar, naturally rot-resistant, no chemical treatment required
@@ -73,7 +70,7 @@ The optional polycarbonate roof panels, sold separately by Yardistry for around 
 
 **Cons.**
 - Requires restaining every two to three years to maintain color
-- Polycarbonate roof panels are not included and cost an additional $200 to $250
+- Polycarbonate roof panels are not included and cost extra
 - Base kit provides shade structure only, not rain coverage
 
 **Verdict:** The benchmark cedar pergola kit. Not inexpensive, but it's priced correctly for what it is. If you want natural wood and don't want to start from scratch at the lumber yard, this is the right choice.
@@ -84,9 +81,7 @@ The optional polycarbonate roof panels, sold separately by Yardistry for around 
 
 **[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)**
 
-**Currently around $1,799 to $1,999 on Amazon, pricing fluctuates.**
-
-This is not a cedar kit, and I'm including it here precisely because it should be in the same conversation. Anyone shopping for a covered outdoor structure in the $1,000 to $2,000 range is going to encounter the Palram Martinique, and they should know what they're looking at.
+This is not a cedar kit, and I'm including it here precisely because it should be in the same conversation. Anyone shopping for a covered outdoor structure in the range is going to encounter the Palram Martinique, and they should know what they're looking at.
 
 The frame is powder-coated aluminum. The roof is twin-wall polycarbonate that blocks 99.9% of UV radiation while diffusing light, so you get shade without the greenhouse effect you'd get from a solid roof. No sagging fabric canopy, no fading, no replacing the cover every three years because it tore in a windstorm. If you've had a fabric-canopy gazebo before and you know exactly how that story ends, this is what the Palram is solving for. (I've watched two neighbors go through that cycle. Neither bought a third fabric canopy.)
 
@@ -97,7 +92,6 @@ The honest limitation: no side walls included. The Martinique is open on all fou
 At 120 square feet of coverage, it accommodates a full outdoor dining set with space to move. This is a permanent structure decision, not a seasonal purchase.
 
 ![Cedar Pergola Kit](/images/articles/structures-1.jpg)
-
 
 **Pros.**
 - Twin-wall polycarbonate roof, 99.9% UV block, diffused light, no glare
@@ -118,8 +112,6 @@ At 120 square feet of coverage, it accommodates a full outdoor dining set with s
 
 **[All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels](product:all-things-cedar-ga87-garden-arbor)**
 
-**Currently around $220 to $250 on Amazon.**
-
 An arbor is a fundamentally different structure than a pergola, and I want to be straightforward about that. The GA87 is not a covered outdoor room. It's a garden entrance feature, typically straddling a path or a gate, designed to support climbing plants and mark a transition in the garden. At 60 inches wide, it can handle a standard garden path with comfortable clearance. At 8 feet tall, there's enough vertical room for wisteria or climbing roses to arch overhead before getting aggressive.
 
 The cedar construction matters here specifically because this structure is typically installed near planting beds, often adjacent to vegetables or cutting gardens. Cedar's natural resistance to rot and insects means no pressure-treated chemicals leaching into nearby soil. That's the practical reason to choose cedar over a coated steel or vinyl arbor, not just aesthetics.
@@ -128,10 +120,9 @@ The trellis side panels do real work. Running clematis or climbing roses up the 
 
 Permanent installation in a windy site requires setting the posts in concrete. This is not optional if you're in an exposed location. The arbor is not a heavy structure and it will shift without anchoring. For a sheltered garden position, you may get away with ground spikes, but I wouldn't rely on them through a hard winter with frost heave.
 
-Cedar will gray without oiling or staining every two to three years. Unlike a large pergola where gray can read as weathered and architectural, a grayed arbor in a flower garden often just looks neglected. Budget for an annual oil treatment with something like Cabot Australian Timber Oil, which runs around $30 to $40 per can and will go a long way on a structure this size.
+Cedar will gray without oiling or staining every two to three years. Unlike a large pergola where gray can read as weathered and architectural, a grayed arbor in a flower garden often just looks neglected. Budget for an annual oil treatment with something like Cabot Australian Timber Oil per can and will go a long way on a structure this size.
 
 ![Cedar Pergola Kit](/images/articles/structures-2.jpg)
-
 
 **Pros.**
 - Cedar is safe adjacent to edibles, no chemical treatment required
@@ -150,13 +141,11 @@ Cedar will gray without oiling or staining every two to three years. Unlike a la
 
 **[Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed)**
 
-**Currently around $499 to $599 on Amazon.**
-
 This one sits outside the cedar conversation entirely, and I'm including it because it belongs in any roundup of garden structures for anyone asking what to do with their tools. If your interest is in covered outdoor living space, skip this. If you have a lawnmower, two spreaders, a pressure washer, and a pile of extension cords currently living in your garage, read on.
 
 The Arrow Select gives you 80 square feet of enclosed storage at a price point considerably below a comparably sized wooden shed kit. The electro-galvanized steel panels resist rust adequately in normal conditions, the reinforced corners handle wind racking better than the old Arrow models I remember from the early 2000s, and the padlockable doors are functional. No wood rot. No termites. No repainting in five years.
 
-The practical warnings. First: the floor kit is sold separately. This catches people. Budget an additional $50 to $100 for the Arrow floor kit or plan to pour a concrete pad before assembly. Second: in humid climates, unventilated steel sheds accumulate condensation on the interior walls and floor. Metal tools stored against steel walls in a humid summer will rust. Add a ventilation kit (around $30) or plan for a dehumidifier. Third: assembly is a full day for one person, possibly longer. The instruction set is adequate but the panel alignment requires patience and a second set of hands for certain steps.
+The practical warnings. First: the floor kit is sold separately. This catches people. Budget extra for the Arrow floor kit or plan to pour a concrete pad before assembly. Second: in humid climates, unventilated steel sheds accumulate condensation on the interior walls and floor. Metal tools stored against steel walls in a humid summer will rust. Add a ventilation kit or plan for a dehumidifier. Third: assembly is a full day for one person, possibly longer. The instruction set is adequate but the panel alignment requires patience and a second set of hands for certain steps.
 
 This is not comparable to a proper timber-frame or cedar shed, and it doesn't need to be. It does what it claims to do at a price that works. If you want to explore larger storage solutions or combined-use structures, the [Greenhouses, Sheds & Gazebos](/structures/) section has options at several price points, including a full review of the [12x20 greenhouse kit](/12x20-greenhouse-kit/) for those thinking about production growing space.
 
@@ -170,7 +159,7 @@ This is not comparable to a proper timber-frame or cedar shed, and it doesn't ne
 
 **Cons.**
 - Steel interior condensates in humid conditions, ventilation kit strongly recommended
-- Floor kit sold separately, additional $50 to $100
+- Floor kit sold separately, extra
 - Full-day assembly, easier with two people
 
 **Verdict:** Practical and honest. Not a beautiful structure, but a functional one at a reasonable price. If storage is the problem, this solves it without a four-figure investment.
@@ -198,7 +187,6 @@ For the Cedar GA87 arbor, siting is simpler: find the path or gate transition yo
 Every kit in this roundup will take longer to assemble than the optimistic time estimates suggest. The Yardistry pergola lists assembly at four to six hours for two people. Budget eight hours and be pleasantly surprised. The Palram Martinique is similar. The Arrow shed can genuinely take a full day for one person, and rushing the panel alignment creates problems. The All Things Cedar arbor is the exception: a competent adult can have it standing in two to three hours without much drama.
 
 ![Cedar Pergola Kit](/images/articles/structures-4.jpg)
-
 
 For any structure going into ground, have your concrete and post hole digger ready before opening the boxes. Partially assembled structures sitting in a yard while you make a hardware store run are a specific kind of miserable experience. (I have personal knowledge of this.)
 
@@ -264,4 +252,3 @@ A pergola is typically an open-beam structure with no solid roof, providing part
   ]
 }
 </script>
-

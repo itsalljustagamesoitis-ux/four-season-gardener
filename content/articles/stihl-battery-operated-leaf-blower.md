@@ -17,7 +17,7 @@ products:
       - "650 CFM is one of the highest outputs of any handheld cordless blower"
       - "Turbine fan technology moves more air with less noise than axial-fan competitors"
     article_specific_cons:
-      - "Larger nozzle diameter , slightly less precise for tight spaces"
+      - "Larger nozzle diameter, slightly less precise for tight spaces"
 tags: ["battery-equipment", "review"]
 disclosure_required: true
 noindex: false
@@ -42,11 +42,9 @@ For the purposes of this review, I'm focusing on the [EGO POWER+ LB6504 650 CFM 
 
 ## Quick Verdict
 
-The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the best handheld cordless blower I've used at this price point, currently around $249 as a kit on Amazon, which includes the 56V 5.0Ah battery and rapid charger. At 650 CFM, it moves wet leaves off grass without requiring a second pass. The turbine fan design keeps noise noticeably lower than axial-fan blowers running similar output numbers, which matters if your neighbors are close or your ears are not what they were. The weight is real. Fully loaded, this blower comes in around 11 pounds, and that's not nothing over an hour of use. If you've ever put down a blower because your arm gave out before the job was done, that's the one trade-off worth thinking through before you buy.
+The [EGO POWER+ LB6504](product:ego-lb6504-leaf-blower) is the best handheld cordless blower I've used at this price point as a kit on Amazon, which includes the 56V 5.0Ah battery and rapid charger. At 650 CFM, it moves wet leaves off grass without requiring a second pass. The turbine fan design keeps noise noticeably lower than axial-fan blowers running similar output numbers, which matters if your neighbors are close or your ears are not what they were. The weight is real. Fully loaded, this blower comes in around 11 pounds, and that's not nothing over an hour of use. If you've ever put down a blower because your arm gave out before the job was done, that's the one trade-off worth thinking through before you buy.
 
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-6.jpg)
-
-
 
 [Check current price on Amazon](product:ego-lb6504-leaf-blower)
 
@@ -66,21 +64,19 @@ The 650 CFM number holds up in practice, not just on spec sheets. The turbine fa
 
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-7.jpg)
 
-
 ### Noise
 
-Cordless blowers are generally quieter than gas equivalents, but the turbine fan on this model is quieter still compared to other cordless blowers at equivalent output. I tested it side-by-side against a Greenworks Pro BLF60B240 and the EGO registers lower in that comparison, particularly at mid-speed settings. I'm not measuring in decibels here, just years of operational comparison, so take that for what it is. In terms of ear protection, I still wear it on sustained sessions, though this blower makes that feel more optional than most.
+Cordless blowers are generally quieter than gas equivalents, but the turbine fan on this model is quieter still compared to other cordless blowers at equivalent output. Side-by-side comparison against a Greenworks Pro BLF60B240 showed the EGO registers lower, particularly at mid-speed settings. I'm not measuring in decibels here, just years of operational comparison, so take that for what it is. In terms of ear protection, I still wear it on sustained sessions, though this blower makes that feel more optional than most.
 
 ### Run Time
 
-At peak output, expect 20 to 25 minutes of practical clearing time on the included 5.0Ah battery. That's enough for most residential sessions, but if you're working a large property in a single session, a second battery is worth having. EGO's 7.5Ah battery, currently around $199 separately, extends that meaningfully. The rapid charger included in the kit brings the 5.0Ah back to full in approximately 40 minutes, which I find workable if I split jobs across a lunch break.
+At peak output, expect 20 to 25 minutes of practical clearing time on the included 5.0Ah battery. That's enough for most residential sessions, but if you're working a large property in a single session, a second battery is worth having. EGO's 7.5Ah battery separately, extends that meaningfully. The rapid charger included in the kit brings the 5.0Ah back to full in approximately 40 minutes, which I find workable if I split jobs across a lunch break.
 
 ### Precision Work
 
 The wider nozzle is where I notice the difference from a narrower-nozzle blower. For clearing patios, driveways, and open lawn, it's not an issue. For directing leaves out from under dense shrubs or tight corners along a fence line, you lose some targeting precision compared to the Husqvarna's narrower profile. A gutter cleaning attachment is sold separately if that's on your list, which is slightly annoying given the price, though I appreciate the kit price would otherwise creep up.
 
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-8.jpg)
-
 
 ## Pros and Cons
 
@@ -109,7 +105,6 @@ Where the LB6504 earns its price is on larger areas with real leaf volume, or an
 
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-1.jpg)
 
-
 This is also the blower I'd recommend to anyone who has dealt with the physical fatigue side of this tool category. The weight is real, but the power-to-weight ratio means you're doing less re-covering of the same ground. Fewer passes over a longer session will feel different to you than more passes over a shorter one, though you'll make that call based on your own stamina and property layout.
 
 For anyone doing cleanup from a riding setup or considering a more automated approach to yard management, it's worth reading our [robot lawn mower garage](/robot-lawn-mower-garage/) piece alongside this, since blower use often decreases as mulching programs improve.
@@ -122,14 +117,13 @@ The full context for how the LB6504 fits into a battery yard tool setup is in th
 
 ### Is the EGO POWER+ LB6504 worth the price compared to cheaper cordless blowers?
 
-At around $249 for the complete kit, it sits at the higher end of the handheld cordless market. The justification is the 650 CFM output, the included 5.0Ah battery and charger, and the turbine fan efficiency. If you're covering a large area or working wet leaves regularly, the performance difference from a $120 to $150 blower is real and measurable in session time. For smaller properties with dry conditions, a cheaper unit may serve you fine.
+it sits at the higher end of the handheld cordless market. The justification is the 650 CFM output, the included 5.0Ah battery and charger, and the turbine fan efficiency. If you're covering a large area or working wet leaves regularly, the performance difference from a budget blower is real and measurable in session time. For smaller properties with dry conditions, a cheaper unit may serve you fine.
 
 ![Stihl Battery Operated Leaf Blower](/images/articles/battery-equipment-2.jpg)
 
-
 ### How long does the battery last on a full charge during heavy use?
 
-At peak output, practical run time is roughly 20 to 25 minutes. On mid-range settings for lighter debris, you'll see up to 60 to 75 minutes. For large property work in one session, a second 56V battery is a sound investment. EGO's 7.5Ah battery runs around $199 at the time of writing and noticeably extends capacity.
+At peak output, practical run time is roughly 20 to 25 minutes. On mid-range settings for lighter debris, you'll see up to 60 to 75 minutes. For large property work in one session, a second 56V battery is a sound investment. EGO's 7.5Ah battery and noticeably extends capacity.
 
 ### Can I use other EGO batteries with this blower?
 
@@ -141,7 +135,7 @@ Stihl's battery blowers, particularly the BGA 57 and BGA 100, are well-built and
 
 ### Is the EGO LB6504 suitable for gutter cleaning?
 
-Not out of the box. A gutter cleaning kit attachment is available separately through EGO, currently around $30 to $40. It connects to the blower nozzle and extends reach for blowing debris from gutters. It functions reasonably well for shallow single-story gutters. For two-story gutters or heavy wet debris, I'd still recommend doing that work manually or with a dedicated gutter vacuum rather than relying on a blower attachment.
+Not out of the box. A gutter cleaning kit attachment is available separately through EGO It connects to the blower nozzle and extends reach for blowing debris from gutters. It functions reasonably well for shallow single-story gutters. For two-story gutters or heavy wet debris, I'd still recommend doing that work manually or with a dedicated gutter vacuum rather than relying on a blower attachment.
 
 <script type="application/ld+json">
 {
@@ -153,7 +147,7 @@ Not out of the box. A gutter cleaning kit attachment is available separately thr
       "name": "Is the EGO POWER+ LB6504 worth the price compared to cheaper cordless blowers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At around $249 for the complete kit, it sits at the higher end of the handheld cordless market. The justification is the 650 CFM output, the included 5.0Ah battery and charger, and the turbine fan efficiency. If you're covering a large area or working wet leaves regularly, the performance difference from a $120 to $150 blower is real and measurable in session time. For smaller properties with dry conditions, a cheaper unit may serve you fine."
+ "text": "At for the complete kit, it sits at the higher end of the handheld cordless market. The justification is the 650 CFM output, the included 5.0Ah battery and charger, and the turbine fan efficiency. If you're covering a large area or working wet leaves regularly, the performance difference from a budget blower is real and measurable in session time. For smaller properties with dry conditions, a cheaper unit may serve you fine."
       }
     },
     {
@@ -161,7 +155,7 @@ Not out of the box. A gutter cleaning kit attachment is available separately thr
       "name": "How long does the battery last on a full charge during heavy use?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At peak output, practical run time is roughly 20 to 25 minutes. On mid-range settings for lighter debris, you'll see up to 60 to 75 minutes. For large property work in one session, a second 56V battery is a sound investment. EGO's 7.5Ah battery runs around $199 at the time of writing and noticeably extends capacity."
+ "text": "At peak output, practical run time is roughly 20 to 25 minutes. On mid-range settings for lighter debris, you'll see up to 60 to 75 minutes. For large property work in one session, a second 56V battery is a sound investment. EGO's 7.5Ah battery and noticeably extends capacity."
       }
     },
     {
@@ -185,10 +179,9 @@ Not out of the box. A gutter cleaning kit attachment is available separately thr
       "name": "Is the EGO LB6504 suitable for gutter cleaning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not out of the box. A gutter cleaning kit attachment is available separately through EGO, currently around $30 to $40. It connects to the blower nozzle and extends reach for blowing debris from gutters. It functions reasonably well for shallow single-story gutters. For two-story gutters or heavy wet debris, I'd still recommend doing that work manually or with a dedicated gutter vacuum rather than relying on a blower attachment."
+ "text": "Not out of the box. A gutter cleaning kit attachment is available separately through EGO It connects to the blower nozzle and extends reach for blowing debris from gutters. It functions reasonably well for shallow single-story gutters. For two-story gutters or heavy wet debris, I'd still recommend doing that work manually or with a dedicated gutter vacuum rather than relying on a blower attachment."
       }
     }
   ]
 }
 </script>
-

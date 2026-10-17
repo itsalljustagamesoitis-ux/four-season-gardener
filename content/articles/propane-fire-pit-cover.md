@@ -17,14 +17,14 @@ products:
       - "50,000 BTU output heats a 15-foot radius"
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+      - "Propane is an ongoing consumable cost, a 20 lb tank lasts roughly 8-10 hours at full"
   - id: "napoleon-st-tropez-fire-table"
     role: "alternative"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
+      - "Electronic ignition with adjustable flame height, no matches needed"
       - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
+      - "Premium price, significantly more expensive than Outland Living tables"
 tags: ["fire-and-heat", "comparison"]
 disclosure_required: true
 noindex: false
@@ -53,7 +53,7 @@ Both the [Outland Living Series 403 44" Propane Fire Pit Table](product:outland-
 
 ## At-a-Glance
 
-The Outland Living 403 currently runs around $280 to $320 on Amazon depending on timing, and it's the right table if you want a functional propane fire table without committing to a permanent installation or a significant budget line. The Napoleon St. Tropez sits at a considerably higher price point, around $750 to $900 at time of writing, and it earns that premium through electronic ignition, a rust-proof aluminum frame, and a natural gas conversion kit that comes in the box. One is furniture that happens to have fire in it. The other is a patio feature that happens to have furniture around it.
+The Outland Living 403 is the right table if you want a functional propane fire table without committing to a permanent installation or a significant budget line. The Napoleon St. Tropez sits at a considerably higher price point and earns that premium through electronic ignition, a rust-proof aluminum frame, and a natural gas conversion kit that comes in the box. One is furniture that happens to have fire in it. The other is a patio feature that happens to have furniture around it.
 
 Neither has a cover included in the box. Worth knowing before you order: covers for these tables are sold separately, and sizing varies. The Outland 403's 44-inch top takes a cover in the 44-46 inch square range. The Napoleon's rectangular footprint requires a different shape entirely. I'll address cover options specifically in the FAQ at the end.
 
@@ -62,7 +62,7 @@ Neither has a cover included in the box. Worth knowing before you order: covers 
 
 | Feature | Outland Living 403 | Napoleon St. Tropez |
 |,|,|,|
-| Price (approx.) | $280-$320 | $750-$900 |
+| Price tier | Budget-mid | Premium |
 | BTU Output | 50,000 | 40,000 |
 | Ignition | Manual (push-button) | Electronic |
 | Frame Material | Concrete-look composite | Rustic bronze aluminum |
@@ -83,13 +83,13 @@ The pre-attached regulator hose connects directly to a standard 20-pound propane
 ![Propane Fire Pit Cover](/images/articles/fire-and-heat-3.jpg)
 
 
-One thing to account for honestly: propane burn rate at full output eats through a 20-pound tank in roughly 8 to 10 hours. If you're running this three or four evenings a week through September and October, you're refilling or exchanging tanks every two to three weeks. That's a recurring cost worth factoring. At current exchange prices around $20 to $25 per 20-pound tank, you're adding $40 to $50 per month to your operating costs during heavy use. Not a dealbreaker, but it's not nothing either.
+One thing to account for honestly: propane burn rate at full output eats through a 20-pound tank in roughly 8 to 10 hours. If you're running this three or four evenings a week through September and October, you're refilling or exchanging tanks every two to three weeks. That's a recurring cost worth factoring. Propane tank exchanges add a recurring cost worth factoring during heavy use. Not a dealbreaker, but it's not nothing either.
 
 For more background on burner mechanics and what to expect from propane output ratings, the [propane fire pit burner](/propane-fire-pit-burner/) guide on this site covers the specifics well.
 
 ### Who This Table Is For
 
-If you want a fire table that functions as patio furniture, costs under $350, and doesn't require any permanent gas line work, this is your table. It's a solid, unfussy product. I've seen this exact table on three different patios this summer, which tells me it's landing with people who actually use their outdoor spaces rather than just photograph them.
+If you want a fire table that functions as patio furniture at a mid-range price without permanent gas line work, this is your table. It's a solid, unfussy product. I've seen this exact table on three different patios this summer, which tells me it's landing with people who actually use their outdoor spaces rather than just photograph them.
 
 ## Why Choose the Napoleon St. Tropez
 
@@ -108,14 +108,14 @@ If your patio setup is permanent, if you're building an outdoor living space rat
 
 ### What You're Accepting at This Price
 
-The glass ember bed is decorative, not functional as a table surface. You're not resting anything on it. Cleaning it occasionally when debris or condensation discolors the glass is a minor maintenance task, but it's a different use case than the Outland's dual-purpose top. At $750 to $900, this is a patio centerpiece, not a table with a fire feature. If that's the right framing for your space, it works well. If you needed something that functions as a surface, the Napoleon isn't the right answer regardless of budget.
+The glass ember bed is decorative, not functional as a table surface. You're not resting anything on it. Cleaning it occasionally when debris or condensation discolors the glass is a minor maintenance task, but it's a different use case than the Outland's dual-purpose top. At a premium price, this is a patio centerpiece, not a table with a fire feature. If that's the right framing for your space, it works well. If you needed something that functions as a surface, the Napoleon isn't the right answer regardless of budget.
 
 ![Propane Fire Pit Cover](/images/articles/fire-and-heat-5.jpg)
 
 
 ## Verdict
 
-Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional, high-output fire table under $350, you're not ready for a permanent gas line, and you want a surface you can actually use as a table. It's not as refined as the Napoleon, but it does more practical work for the money.
+Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional, high-output fire table at a mid-range price, you're not ready for a permanent gas line, and you want a surface you can actually use as a table. It's not as refined as the Napoleon, but it does more practical work for the money.
 
 Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're building a permanent outdoor living space, you're likely to convert to natural gas within the next few years, and the frame quality and electronic ignition matter to you at the price difference. The premium is real, but so is what you're getting.
 
@@ -127,11 +127,11 @@ If you're still exploring the broader category before committing, the full [fire
 
 ### What size cover fits the Outland Living Series 403 fire table?
 
-The Outland 403 has a 44-inch square tabletop footprint. A cover in the 44 to 46-inch square range fits correctly. Look for a cover with a water-resistant outer layer and a breathable, non-scratching inner lining. Waterproof-only covers can trap condensation underneath and accelerate surface oxidation on the base. Prices for a decent fit cover run $30 to $50.
+The Outland 403 has a 44-inch square tabletop footprint. A cover in the 44 to 46-inch square range fits correctly. Look for a cover with a water-resistant outer layer and a breathable, non-scratching inner lining. Waterproof-only covers can trap condensation underneath and accelerate surface oxidation on the base. A well-fitted cover is worth the investment.
 
 ### Does the Napoleon St. Tropez come with a cover?
 
-No. Napoleon does not include a cover with the St. Tropez at the standard retail price. Because this is a rectangular table, you'll need to match the specific dimensions before ordering. Measure the full assembled footprint including any overhang on the frame before purchasing. Universal rectangular covers sized around 48 by 28 inches often work, but verify against your assembled dimensions. Napoleon-branded covers for this table, where available, run around $80 to $100.
+No. Napoleon does not include a cover with the St. Tropez at the standard retail price. Because this is a rectangular table, you'll need to match the specific dimensions before ordering. Measure the full assembled footprint including any overhang on the frame before purchasing. Universal rectangular covers sized around 48 by 28 inches often work, but verify against your assembled dimensions. Napoleon-branded covers for this table are available at a range of price points.
 
 ![Propane Fire Pit Cover](/images/articles/fire-and-heat-6.jpg)
 
@@ -146,7 +146,7 @@ At full 50,000 BTU output, roughly 8 to 10 hours. At medium output, closer to 12
 
 ### Is natural gas conversion on the Napoleon St. Tropez a DIY project?
 
-The conversion kit is included, but connecting to a natural gas line is not a DIY project in most jurisdictions. Most states require a licensed plumber or gas fitter to make the final connection to any residential gas supply. The conversion on the table itself, meaning swapping the regulator and orifice fitting, is straightforward mechanical work. Factor in a plumber's service call, typically $150 to $250 depending on your area, when calculating the full cost of the natural gas setup.
+The conversion kit is included, but connecting to a natural gas line is not a DIY project in most jurisdictions. Most states require a licensed plumber or gas fitter to make the final connection to any residential gas supply. The conversion on the table itself, meaning swapping the regulator and orifice fitting, is straightforward mechanical work. Factor in a plumber's service call, which varies by area, when calculating the full cost of the natural gas setup.
 
 <script type="application/ld+json">
 {
@@ -158,7 +158,7 @@ The conversion kit is included, but connecting to a natural gas line is not a DI
       "name": "What size cover fits the Outland Living Series 403 fire table?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Outland 403 has a 44-inch square tabletop footprint. A cover in the 44 to 46-inch square range fits correctly. Look for a cover with a water-resistant outer layer and a breathable, non-scratching inner lining. Waterproof-only covers can trap condensation underneath and accelerate surface oxidation on the base. Prices for a decent fit cover run $30 to $50."
+        "text": "The Outland 403 has a 44-inch square tabletop footprint. A cover in the 44 to 46-inch square range fits correctly. Look for a cover with a water-resistant outer layer and a breathable, non-scratching inner lining. Waterproof-only covers can trap condensation underneath and accelerate surface oxidation on the base. A well-fitted cover is worth the investment."
       }
     },
     {
@@ -166,7 +166,7 @@ The conversion kit is included, but connecting to a natural gas line is not a DI
       "name": "Does the Napoleon St. Tropez come with a cover?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Napoleon does not include a cover with the St. Tropez at the standard retail price. Because this is a rectangular table, you'll need to match the specific dimensions before ordering. Measure the full assembled footprint including any overhang on the frame before purchasing. Universal rectangular covers sized around 48 by 28 inches often work, but verify against your assembled dimensions. Napoleon-branded covers for this table, where available, run around $80 to $100."
+        "text": "No. Napoleon does not include a cover with the St. Tropez at the standard retail price. Because this is a rectangular table, you'll need to match the specific dimensions before ordering. Measure the full assembled footprint including any overhang on the frame before purchasing. Universal rectangular covers sized around 48 by 28 inches often work, but verify against your assembled dimensions. Napoleon-branded covers for this table are available at a range of price points."
       }
     },
     {
@@ -190,7 +190,7 @@ The conversion kit is included, but connecting to a natural gas line is not a DI
       "name": "Is natural gas conversion on the Napoleon St. Tropez a DIY project?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The conversion kit is included, but connecting to a natural gas line is not a DIY project in most jurisdictions. Most states require a licensed plumber or gas fitter to make the final connection to any residential gas supply. The conversion on the table itself, meaning swapping the regulator and orifice fitting, is straightforward mechanical work. Factor in a plumber's service call, typically $150 to $250 depending on your area, when calculating the full cost of the natural gas setup."
+        "text": "The conversion kit is included, but connecting to a natural gas line is not a DIY project in most jurisdictions. Most states require a licensed plumber or gas fitter to make the final connection to any residential gas supply. The conversion on the table itself, meaning swapping the regulator and orifice fitting, is straightforward mechanical work. Factor in a plumber's service call, which varies by area, when calculating the full cost of the natural gas setup."
       }
     }
   ]

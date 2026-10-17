@@ -17,7 +17,7 @@ products:
       - "Pyramid flame column visible through glass tube is a dramatic visual focal point"
       - "Wheels built into base for easy repositioning without lifting"
     article_specific_cons:
-      - "Quartz glass tube is fragile , a tip-over or strong impact can crack it"
+      - "Quartz glass tube is fragile, a tip-over or strong impact can crack it"
 tags: ["fire-and-heat", "review"]
 disclosure_required: true
 noindex: false
@@ -38,14 +38,13 @@ safety_topics:
 
 Most patio heaters disappear into the background. They're functional, forgettable, and about as interesting to look at as a parking lot lamppost. The [Hiland HLDS01-WGTHG 40,000 BTU Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is not that. It makes a case for itself on looks before it even ignites, and then the flame column comes on and your guests stop talking for a second. That's a real thing that happens.
 
-I've tested a fair number of heaters for our [Fire Pits & Patio Heaters](/fire-and-heat/) coverage, and this one sits in a specific category that deserves honest treatment: beautiful, genuinely functional, but with tradeoffs that matter depending on how you use your outdoor space. Let me be direct about what this heater does well, what it doesn't, and whether it belongs on your patio.
+A fair number of heaters have been tested for our [Fire Pits & Patio Heaters](/fire-and-heat/) coverage, and this one sits in a specific category that deserves honest treatment: beautiful, genuinely functional, but with tradeoffs that matter depending on how you use your outdoor space. Let me be direct about what this heater does well, what it doesn't, and whether it belongs on your patio.
 
 ## Quick Verdict
 
-The [Hiland HLDS01-WGTHG](product:hiland-wgthg-patio-heater) is a statement piece that also works. At around $180 to $210 depending on timing and retailer, it's priced reasonably for what you get. The pyramid flame column is genuinely beautiful at night, the built-in wheels make repositioning a one-person job, and CSA certification means you're not rolling the dice on safety. The quartz glass tube is fragile, and if you have a regular dinner-party crowd seated around a table expecting even heat distribution, a mushroom-style overhead heater will serve them better. But if the question is which heater will make your back patio look like something worth sitting on, the Hiland wins that argument with ease.
+The [Hiland HLDS01-WGTHG](product:hiland-wgthg-patio-heater) is a statement piece that also works. it's priced reasonably for what you get. The pyramid flame column is genuinely beautiful at night, the built-in wheels make repositioning a one-person job, and CSA certification means you're not rolling the dice on safety. The quartz glass tube is fragile, and if you have a regular dinner-party crowd seated around a table expecting even heat distribution, a mushroom-style overhead heater will serve them better. But if the question is which heater will make your back patio look like something worth sitting on, the Hiland wins that argument with ease.
 
-**Bottom line.** Buy it for the visual impact and the ambiance. Accept that it throws heat in a column pattern. Budget roughly $40 to $60 for a replacement glass tube, because at some point you'll want a spare.
-
+**Bottom line.** Buy it for the visual impact and the ambiance. Accept that it throws heat in a column pattern. Budget for a replacement glass tube, because at some point you'll want a spare.
 
 [Check current price on Amazon](product:hiland-pyramid-patio-heater)
 
@@ -82,16 +81,15 @@ That's a column-heater limitation, not a Hiland failure specifically. Compare it
 
 ### Ignition and Controls
 
-Push-button piezo ignition worked reliably in my testing, though like every piezo system I've used, cold temperatures below freezing made it slightly harder to catch. Three or four presses rather than one. The flame height adjusts with a knob that turns smoothly, and the pilot outage protection kicked in correctly each time I tested it by blocking the burner briefly. (I tested this deliberately, which I realize sounds excessive, but CSA certification only tells you the design is approved, not that the specific unit in the box works.)
+Push-button piezo ignition is reported to work reliably by users, though like most piezo systems, cold temperatures below freezing may make it slightly harder to catch, sometimes requiring three or four presses rather than one. The flame height adjusts with a knob described as turning smoothly, and the pilot outage protection is designed to engage when the burner is blocked. (CSA certification indicates the design is approved, not that every specific unit functions identically.)
 
 ![Bromic Patio Heater](/images/articles/fire-and-heat-5.jpg)
-
 
 The tip-over shutoff is a gas valve mechanism that triggers when the unit tilts past a safe angle. I did not deliberately tip the heater, but I did push it sideways while running and felt the resistance of the mechanism engage. It functions as described.
 
 ### The Glass Tube
 
-The quartz glass tube is the centerpiece of the design and its primary vulnerability. The flame burns inside the tube, creating that column of fire visible from every angle. It's a genuinely good-looking effect, especially after dark. The tube is also breakable. Not fragile in the sense that you'll crack it by looking at it, but fragile in the sense that a tip-over on a hard surface or a strong impact will end it. Replacement tubes are available on Amazon for roughly $35 to $50, and I'd recommend ordering one when you buy the heater rather than scrambling for it later.
+The quartz glass tube is the centerpiece of the design and its primary vulnerability. The flame burns inside the tube, creating that column of fire visible from every angle. It's a genuinely good-looking effect, especially after dark. The tube is also breakable. Not fragile in the sense that you'll crack it by looking at it, but fragile in the sense that a tip-over on a hard surface or a strong impact will end it. Replacement tubes are available on Amazon for, and I'd recommend ordering one when you buy the heater rather than scrambling for it later.
 
 Wind is the other factor. The tube provides some protection for the flame, but sustained gusts above about 15 mph will cause flickering and heat loss. This isn't different from most freestanding heaters, but the glass tube doesn't provide the full flame protection you might assume from looking at it.
 
@@ -100,7 +98,6 @@ Wind is the other factor. The tube provides some protection for the flame, but s
 The built-in wheels are a small thing that makes a meaningful difference. The tank adds weight, and without wheels a full heater at 57-plus pounds becomes a two-person job to reposition. With the wheels, I moved it from the flagstone area to the lawn edge by myself in under a minute. If you rearrange your outdoor furniture by season or just like options, this matters more than it might sound.
 
 ![Bromic Patio Heater](/images/articles/fire-and-heat-6.jpg)
-
 
 ## Pros and Cons
 
@@ -117,7 +114,7 @@ The built-in wheels are a small thing that makes a meaningful difference. The ta
 - Quartz glass tube will not survive a hard tip-over on concrete or stone
 - Heat distribution favors column pattern over even overhead spread, which matters for seated dinner-party use
 - Piezo ignition gets stubborn in freezing temperatures
-- No cover included at this price point (budget an additional $25 to $40 for a fitted cover, or look at options in our [propane fire pit cover](/propane-fire-pit-cover/) guide for comparable sizing notes)
+- No cover included at this price point (budget extra for a fitted cover, or look at options in our [propane fire pit cover](/propane-fire-pit-cover/) guide for comparable sizing notes)
 
 [See Hiland HLDSO1-GTHG 91-Inch Quartz Glass Tube Patio Heater with Cover and Table on Amazon →](product:hiland-pyramid-patio-heater)
 
@@ -143,17 +140,14 @@ It's not the best choice for a covered pergola with fixed seating and guests who
 
 ![Bromic Patio Heater](/images/articles/fire-and-heat-7.jpg)
 
-
 It's also worth being honest about the comparison to fire table products. If you're already weighing whether you want a heater or a fire feature, a [fire pit with coffee table](/fire-pit-with-coffee-table/) configuration offers a different kind of visual and social anchor. The Hiland makes sense when you want genuine heat output plus a visual statement and don't want to dedicate surface space to a table unit.
 
 For properties with mixed-use zones, there's a case for running both. I have a fire table on the main entertaining terrace and have used column heaters like this one to extend a second seating area without running a second fire feature. That's probably more heater investment than most people need, if I'm being honest about it.
 
 ## Where to Buy
 
-The [Hiland HLDS01-WGTHG Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is available on Amazon, currently priced around $180 to $210 at the time of writing. Prices move with season, so if you're reading this in September, you'll likely pay less than if you're reading it in October after the first cold snap reminds everyone they own a patio.
+The [Hiland HLDS01-WGTHG Pyramid Patio Heater](product:hiland-wgthg-patio-heater) is available on Amazon, currently priced. Prices move with season, so if you're reading this in September, you'll likely pay less than if you're reading it in October after the first cold snap reminds everyone they own a patio.
 
 For anyone building out a full outdoor heat and fire setup, the broader [outdoor fire and heat](/fire-and-heat/) section covers the product categories worth comparing before committing to a single solution.
 
 ,
-
-

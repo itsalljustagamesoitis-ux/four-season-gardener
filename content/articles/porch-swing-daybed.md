@@ -22,9 +22,9 @@ products:
     role: "alternative"
     article_specific_pros:
       - "Solid Grade A teak construction with stainless steel hardware that won't rust or stain"
-      - "Smooth gliding motion on precision bearings , more relaxing than a static bench"
+      - "Smooth gliding motion on precision bearings, more relaxing than a static bench"
     article_specific_cons:
-      - "Premium price ($2,000+) , this is a long-term investment piece, not an impulse buy"
+      - "Premium price ($2,000+), this is a long-term investment piece, not an impulse buy"
 tags: ["outdoor-furniture", "comparison"]
 disclosure_required: true
 noindex: false
@@ -53,9 +53,9 @@ Both pieces share the same core material: Grade A teak, which means dense grain,
 
 Where they diverge is everything else.
 
-The All Things Cedar TS50 is a hanging swing. It suspends from a porch beam or pergola via ropes included with the unit, seats two adults on a 54-inch seat width, and has a 500 lb weight capacity. Brass hardware throughout. Current pricing runs around $600 to $700 on Amazon, though that figure moves.
+The All Things Cedar TS50 is a hanging swing. It suspends from a porch beam or pergola via ropes included with the unit, seats two adults on a 54-inch seat width, and has a 500 lb weight capacity. Brass hardware throughout. Current pricing puts it in the mid-tier for teak outdoor seating.
 
-The Anderson Teak GL-101 Balboa is a freestanding glider bench. No hanging required, no structural ceiling assessment, no S-hooks to source separately. It moves via precision bearings on a self-contained frame, giving a smooth back-and-forth glide rather than a swing arc. Pricing is currently above $2,000, and has been for some time.
+The Anderson Teak GL-101 Balboa is a freestanding glider bench. No hanging required, no structural ceiling assessment, no S-hooks to source separately. It moves via precision bearings on a self-contained frame, giving a smooth back-and-forth glide rather than a swing arc. Pricing is at the premium end of the teak outdoor furniture market.
 
 That price gap is the first thing to sit with. The Anderson Teak costs roughly three times as much. Whether that premium is justified depends almost entirely on what you actually need.
 
@@ -72,7 +72,7 @@ That price gap is the first thing to sit with. The Anderson Teak costs roughly t
 | Weight capacity | 500 lbs | Not specified by seller |
 | Seat width | 54 inches | Standard 2-seat |
 | Installation | Requires ceiling/beam | Freestanding |
-| Current price (approx.) | ~$650 | ~$2,100+ |
+| Price tier | Mid-tier | Premium |
 | Hanging hardware included | Ropes only | N/A |
 
 ## Why Choose the All Things Cedar TS50
@@ -83,14 +83,14 @@ The brass hardware is a practical choice, not just a visual one. On a hanging pi
 
 The 500 lb capacity matters if two larger adults are using this together, and the 54-inch seat width accommodates that without feeling cramped. If you've spent any time on a swing with a seat depth that pitches you forward or a width that puts your shoulder into your companion's, you'll understand why the geometry on this one is a selling point.
 
-Installation does require a structural overhead anchor point: a porch beam, a pergola crossbar, or a ceiling joist you've confirmed can handle dynamic load. The TS50 ships with hanging ropes, which is enough to get the swing in place. What it does not include is the ceiling mounting hardware: S-hooks, chain, or eye bolts for the anchor end. Factor in another $20 to $40 for that, and budget an hour or two if you're doing the ceiling work yourself. If you're also thinking about what structure to hang it from, our coverage of [teak outdoor rocking chairs](/teak-outdoor-rocking-chair/) touches on porch structure considerations worth reading before you commit to a hanging piece.
+Installation does require a structural overhead anchor point: a porch beam, a pergola crossbar, or a ceiling joist you've confirmed can handle dynamic load. The TS50 ships with hanging ropes, which is enough to get the swing in place. What it does not include is the ceiling mounting hardware: S-hooks, chain, or eye bolts for the anchor end. Factor in a small additional cost for that hardware, and budget an hour or two if you're doing the ceiling work yourself. If you're also thinking about what structure to hang it from, our coverage of [teak outdoor rocking chairs](/teak-outdoor-rocking-chair/) touches on porch structure considerations worth reading before you commit to a hanging piece.
 
 ![Porch Swing Daybed](/images/articles/outdoor-furniture-4.jpg)
 
 
 The honest caveat: at the time of writing, the TS50 has fewer than 15 reviews on Amazon, and a "High price" badge has appeared on the listing, which typically signals Amazon's algorithm flagging limited sales velocity. That doesn't mean it's a bad product; teak furniture in this price range is a slow seller by nature. But if you need robust social proof before buying, All Things Cedar's own brand site has more context than the Amazon listing currently provides.
 
-This is a swing with a real aesthetic. Against a painted porch ceiling, with teak oiled to a warm brown, it looks like furniture people kept, not bought and replaced. If that's a priority for you, and I'd argue it should be when you're spending $650, the All Things Cedar TS50 delivers on the visual side.
+This is a swing with a real aesthetic. Against a painted porch ceiling, with teak oiled to a warm brown, it looks like furniture people kept, not bought and replaced. If that's a priority for you, and I'd argue it should be at this price point, the All Things Cedar TS50 delivers on the visual side.
 
 ## Why Choose the Anderson Teak GL-101 Balboa
 
@@ -107,7 +107,7 @@ Anderson Teak is a specialist brand. They've built a focused reputation in teak 
 
 The stainless steel hardware is the right call for a freestanding glider where the frame sees more contact stress than a hanging swing. Stainless at this application holds up cleanly over years of seasonal use.
 
-The same caveat applies here as with the All Things Cedar: Amazon reviews are thin. Anderson Teak's own website carries fuller review context, and I'd recommend checking it before purchasing. This is a $2,100+ piece; spend the ten minutes reading the manufacturer's own customer feedback before you click buy. (That's advice I'd give for any outdoor furniture above $1,500, if I'm being honest.)
+The same caveat applies here as with the All Things Cedar: Amazon reviews are thin. Anderson Teak's own website carries fuller review context, and I'd recommend checking it before purchasing. This is a premium piece; spend the ten minutes reading the manufacturer's own customer feedback before you click buy. (That's advice I'd give for any premium outdoor furniture purchase, if I'm being honest.)
 
 The GL-101 also makes sense as part of a considered teak seating arrangement. If you're already running teak on your porch, pairing it with a [teak Adirondack chair](/teak-adirondack-chair/) and the GL-101 glider creates a coherent aesthetic that holds up over years without the color mismatch problems you get when mixing materials.
 
@@ -115,14 +115,14 @@ One thing worth flagging for anyone comparing cushion options: the GL-101's dime
 
 ## Verdict
 
-The [All Things Cedar TS50](product:all-things-cedar-ts50-teak-porch-swing) is the pick if you have a structural porch beam or pergola, want the visual experience of a hanging swing, and are comfortable sourcing the ceiling hardware separately. At around $650, it's a legitimate teak piece at a price that makes sense for what it is. It requires a bit more setup effort and a structural overhead anchor point. If you have both, it's a good piece of outdoor furniture.
+The [All Things Cedar TS50](product:all-things-cedar-ts50-teak-porch-swing) is the pick if you have a structural porch beam or pergola, want the visual experience of a hanging swing, and are comfortable sourcing the ceiling hardware separately. It's a legitimate teak piece at a price that makes sense for what it is. It requires a bit more setup effort and a structural overhead anchor point. If you have both, it's a good piece of outdoor furniture.
 
 The [Anderson Teak GL-101 Balboa](product:anderson-teak-gl101-glider-bench) is the pick if installation flexibility is non-negotiable, you want a smoother and quieter motion than a swing provides, and you're buying furniture you expect to still be using in fifteen years. The price is high. It is also accurate for what it delivers.
 
 ![Porch Swing Daybed](/images/articles/outdoor-furniture-6.jpg)
 
 
-My recommendation leans toward the Anderson Teak for most buyers who are serious about the purchase, because the freestanding design removes a real constraint, the glide mechanism is genuinely better for sustained use, and the build quality supports a long-term view. If the $2,100+ price point isn't workable, the All Things Cedar TS50 is not a fallback consolation prize. It's a solid teak swing at a fair price for the category.
+My recommendation leans toward the Anderson Teak for most buyers who are serious about the purchase, because the freestanding design removes a real constraint, the glide mechanism is genuinely better for sustained use, and the build quality supports a long-term view. If the price point isn't workable, the All Things Cedar TS50 is not a fallback consolation prize. It's a solid teak swing at a fair price for the category.
 
 What neither of these is: a cheap porch seat you'll replace in three years. If that's what you're looking for, both will frustrate you. If you want durable outdoor seating that holds its value and its appearance over time, both deliver. The question is hanging or freestanding, and your porch structure will probably answer that for you.
 
@@ -145,9 +145,9 @@ Not necessarily, but you do need to confirm your overhead structure before hangi
 
 Once a year is the standard maintenance interval for teak furniture that you want to keep its warm brown color. If you skip oiling, the teak weathers to a silver-gray over one to two seasons. That's a natural process and doesn't harm the wood structurally. Many people prefer the weathered look. The choice is cosmetic, not structural. If you've let it gray and want to restore it, a teak cleaner and light sanding followed by oil will bring the color back.
 
-### Is the Anderson Teak GL-101 worth $2,000+ compared to cheaper glider benches?
+### Is the Anderson Teak GL-101 worth the premium compared to cheaper glider benches?
 
-That depends on what you're comparing it to. Against a $400 eucalyptus or acacia glider, the Anderson Teak offers materially better wood density, hardware quality, and bearing smoothness. Against another Grade A teak glider at a comparable price, the Anderson Teak brand reputation and consistent availability are factors. It's not worth $2,000 if you're treating outdoor furniture as seasonal or replaceable. It is worth it if you're buying once and want the piece to still be functional in a decade with routine maintenance.
+That depends on what you're comparing it to. Against a budget eucalyptus or acacia glider, the Anderson Teak offers materially better wood density, hardware quality, and bearing smoothness. Against another Grade A teak glider at a comparable price, the Anderson Teak brand reputation and consistent availability are factors. It's not worth the premium if you're treating outdoor furniture as seasonal or replaceable. It is worth it if you're buying once and want the piece to still be functional in a decade with routine maintenance.
 
 ### Can I leave teak furniture outside year-round in cold climates?
 
@@ -184,10 +184,10 @@ Teak handles freeze-thaw cycles and wet conditions better than most outdoor wood
     },
     {
       "@type": "Question",
-      "name": "Is the Anderson Teak GL-101 worth $2,000+ compared to cheaper glider benches?",
+      "name": "Is the Anderson Teak GL-101 worth the premium compared to cheaper glider benches?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "That depends on what you're comparing it to. Against a $400 eucalyptus or acacia glider, the Anderson Teak offers materially better wood density, hardware quality, and bearing smoothness. Against another Grade A teak glider at a comparable price, the Anderson Teak brand reputation and consistent availability are factors. It's not worth $2,000 if you're treating outdoor furniture as seasonal or replaceable. It is worth it if you're buying once and want the piece to still be functional in a decade with routine maintenance."
+        "text": "That depends on what you're comparing it to. Against a budget eucalyptus or acacia glider, the Anderson Teak offers materially better wood density, hardware quality, and bearing smoothness. Against another Grade A teak glider at a comparable price, the Anderson Teak brand reputation and consistent availability are factors. It's not worth the premium if you're treating outdoor furniture as seasonal or replaceable. It is worth it if you're buying once and want the piece to still be functional in a decade with routine maintenance."
       }
     },
     {

@@ -42,13 +42,11 @@ If you're building out a cordless tool set and want to understand how these chai
 
 ## Quick Verdict
 
-The EGO CS1804 is a serious 18-inch battery chainsaw for homeowners and property owners who have trees to fell, limbs to cut, and no interest in maintaining a gas engine. It won't replace a Stihl MS 500i on a logging crew. For everyone else managing two to fifteen acres, it does the work. The 56V brushless motor cuts with authority, the battery platform integrates with the rest of EGO's lineup, and the price (currently around $299 with a 5.0Ah battery and charger, or around $229 tool-only) is competitive with anything in its class.
+The EGO CS1804 is a serious 18-inch battery chainsaw for homeowners and property owners who have trees to fell, limbs to cut, and no interest in maintaining a gas engine. It won't replace a Stihl MS 500i on a logging crew. For everyone else managing two to fifteen acres, it does the work. The 56V brushless motor cuts with authority, the battery platform integrates with the rest of EGO's lineup, and the price is competitive with anything in its class.
 
-The Stihl MSA 220 C-B, which is the closest battery comparison at the dealer level, typically runs $359 and up before tax, and you'll need to go in person or call around to find it. Your time is worth something.
+The Stihl MSA 220 C-B, which is the closest battery comparison at the dealer level, typically and up before tax, and you'll need to go in person or call around to find it. Your time is worth something.
 
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-4.jpg)
-
-
 
 [Check current price on Amazon](product:ego-cs1804-chainsaw)
 
@@ -72,8 +70,7 @@ I used the CS1804 over two seasons on a property with a mix of hardwood and soft
 
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-5.jpg)
 
-
-Where the EGO's limits show up is in sustained cutting over a long session. I was dropping and bucking pine for about 90 minutes on a Saturday. The 5.0Ah battery got me through most of it, but I finished the last section on a second battery. If you're doing a full tree removal that involves extended continuous cutting, two batteries is the practical answer. A second 5.0Ah battery runs around $130 currently. Factor that into your total cost if your use case calls for it.
+Where the EGO's limits show up is in sustained cutting over a long session. I was dropping and bucking pine for about 90 minutes on a Saturday. The 5.0Ah battery got me through most of it, but I finished the last section on a second battery. If you're doing a full tree removal that involves extended continuous cutting, two batteries is the practical answer. A second 5.0Ah battery. Factor that into your total cost if your use case calls for it.
 
 For context, I ran a Husqvarna 125BVx gas saw for several years before switching to cordless for most tasks. The EGO CS1804 is not quieter by a small margin. The difference is substantial enough that I can now cut in the morning without announcing myself to the whole property.
 
@@ -85,10 +82,9 @@ Stihl's AK and AP battery platforms are well-regarded at the dealer level, and t
 
 ### Handling and Safety
 
-The rear handle position feels natural for standard bucking cuts. The front hand guard doubles as the chain brake trigger, and it's positioned correctly. I've tested this deliberately by tapping the guard mid-cut to confirm engagement speed, and it snaps the chain within a fraction of a second. The bar tip kickback zone is clearly marked.
+The rear handle position feels natural for standard bucking cuts. The front hand guard doubles as the chain brake trigger, and it's positioned correctly. Deliberately tapping the guard mid-cut confirmed engagement speed: the chain snaps within a fraction of a second. The bar tip kickback zone is clearly marked.
 
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-6.jpg)
-
 
 One thing that took adjustment: the chain oil window is small and the oil level is hard to read in direct sunlight. I started checking it before every session rather than mid-session. You'll develop the same habit after the first time you run it low.
 
@@ -112,7 +108,6 @@ The CS1804 is the right saw for a property owner who has seasonal cutting work: 
 
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-7.jpg)
 
-
 If you're also managing edges and borders with battery tools, it's worth checking whether you're already in a compatible platform before buying. Our coverage of the [Stihl battery edger](/stihl-battery-edger/) is useful context if you're deciding between ecosystems for your whole tool set.
 
 It's not the right saw if your work involves extended commercial felling, large-diameter hardwood removal on a regular schedule, or conditions where a 5.0Ah battery doesn't get you through a session without a pause. In those cases, you're either looking at the Stihl MSA 300 T at the dealer level or you're staying on gas.
@@ -133,10 +128,9 @@ Stihl's battery chainsaws, particularly the MSA 220 C-B and MSA 300 T, are well-
 
 ![Stihl Battery Powered Chainsaws](/images/articles/battery-equipment-8.jpg)
 
-
 ### What battery does the EGO CS1804 use, and is it compatible with other EGO tools?
 
-The CS1804 uses EGO's 56V ARC Lithium battery, which is compatible across the full EGO Power+ lineup including string trimmers, blowers, hedge trimmers, and mowers. A 5.0Ah battery is included in the combo kit (currently around $299) or available separately for roughly $130. If you're already running other EGO tools, you likely have compatible batteries already.
+The CS1804 uses EGO's 56V ARC Lithium battery, which is compatible across the full EGO Power+ lineup including string trimmers, blowers, hedge trimmers, and mowers. A 5.0Ah battery is included in the combo kit or available separately for. If you're already running other EGO tools, you likely have compatible batteries already.
 
 ### Is the EGO CS1804 powerful enough for cutting down trees?
 
@@ -168,7 +162,7 @@ Chain sharpening is the main ongoing task. There's no air filter to clean, no sp
       "name": "What battery does the EGO CS1804 use, and is it compatible with other EGO tools?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The CS1804 uses EGO's 56V ARC Lithium battery, which is compatible across the full EGO Power+ lineup including string trimmers, blowers, hedge trimmers, and mowers. A 5.0Ah battery is included in the combo kit (currently around $299) or available separately for roughly $130. If you're already running other EGO tools, you likely have compatible batteries already."
+ "text": "The CS1804 uses EGO's 56V ARC Lithium battery, which is compatible across the full EGO Power+ lineup including string trimmers, blowers, hedge trimmers, and mowers. A 5.0Ah battery is included in the combo kit or available separately for. If you're already running other EGO tools, you likely have compatible batteries already."
       }
     },
     {
@@ -198,4 +192,3 @@ Chain sharpening is the main ongoing task. There's no air filter to clean, no sp
   ]
 }
 </script>
-

@@ -8,7 +8,7 @@ category: "Tools & Equipment"
 hub: "lawn-care"
 hero_image: "articles/lawn-care-8.jpg"
 hero_image_alt: "Leaf And Lawn Vacuum"
-description: "Most leaf vacuums oversell their performance. We tested 4 real machines that actually work, from budget corded models to tow-behind sweepers for large properties."
+description: "Most leaf vacuums oversell their performance. Here are 4 real machines that actually work, from budget corded models to tow-behind sweepers for large properties."
 target_keyword: "leaf and lawn vacuum"
 products:
   - id: "toro-51621-ultraplus-blower-vac"
@@ -17,7 +17,7 @@ products:
       - "3-in-1 blower, vacuum, and mulcher reduces 10 bags of leaves to 1 bag of mulch"
       - "Metal impeller is significantly more durable than plastic impellers on budget models"
     article_specific_cons:
-      - "Corded , requires an outdoor extension cord; limited range from outlet"
+      - "Corded, requires an outdoor extension cord; limited range from outlet"
   - id: "greenworks-40v-blower-vac"
     role: "also_consider"
     article_specific_pros:
@@ -28,17 +28,17 @@ products:
   - id: "ego-lb6004-backpack-blower"
     role: "also_consider"
     article_specific_pros:
-      - "Backpack design distributes battery weight across shoulders , much less fatigue than handheld"
+      - "Backpack design distributes battery weight across shoulders, much less fatigue than handheld"
       - "600 CFM matches mid-range commercial gas backpack blowers"
     article_specific_cons:
-      - "Premium price , significantly more expensive than EGO handheld models"
+      - "Premium price, significantly more expensive than EGO handheld models"
   - id: "agri-fab-45-0492-tow-behind-sweeper"
     role: "also_consider"
     article_specific_pros:
       - "44-inch sweeping width covers large lawns in fewer passes behind a riding mower or ATV"
       - "28 cu.ft. hopper capacity handles a full acre of leaves before needing to dump"
     article_specific_cons:
-      - "Sweeper only , relies on contact brushes, not suction; compacted wet leaves may resist pickup"
+      - "Sweeper only, relies on contact brushes, not suction; compacted wet leaves may resist pickup"
 tags: ["lawn-care", "roundup"]
 disclosure_required: true
 noindex: false
@@ -65,7 +65,7 @@ For anyone thinking through their broader [Lawn Care](/lawn-care/) setup, the ch
 
 **[Toro 51621 UltraPlus Leaf Blower Vacuum, 250 MPH, 12 Amp](product:toro-51621-ultraplus-blower-vac)**
 
-Currently around $80 on Amazon, the Toro 51621 is what I'd recommend to anyone who wants reliable power, doesn't want to think about battery management, and has an outdoor outlet within reasonable reach. The 12-amp motor pushes 250 MPH of airspeed, which is genuinely enough to move wet, matted leaves that would defeat most cordless models at this price range.
+The 12-amp motor pushes 250 MPH of airspeed, which is genuinely enough to move wet, matted leaves that would defeat most cordless models at this price range.
 
 The detail that makes the Toro worth the money is the metal impeller. Most budget blower-vacs use plastic impellers, which degrade and crack when they hit sticks, acorns, or anything harder than a dry leaf. The metal impeller here handles debris contact without drama. Combined with the 10:1 mulch ratio, a morning's worth of leaves across a typical suburban yard gets compressed to a single bag. If you've ever stood in the driveway watching a leaf pile generate thirteen bags and wondered where your afternoon went, that ratio matters.
 
@@ -93,7 +93,7 @@ Operation is loud. Toro rates it above 70 dB, which is enough to require ear pro
 
 **[Greenworks 40V 185 MPH Cordless Brushless Leaf Blower/Vacuum](product:greenworks-40v-blower-vac)**
 
-This one runs around $120 to $140 with the 4.0Ah battery and charger included, which is the detail that makes it interesting. You're getting a brushless motor at a price point where most manufacturers are still shipping brushed motors and calling it a day. Brushless matters here because it extends both battery life per charge and overall motor longevity. For someone buying their first cordless blower-vac, that's a real advantage, not a marketing distinction.
+This one with the 4.0Ah battery and charger included, which is the detail that makes it interesting. You're getting a brushless motor at a price point where most manufacturers are still shipping brushed motors and calling it a day. Brushless matters here because it extends both battery life per charge and overall motor longevity. For someone buying their first cordless blower-vac, that's a real advantage, not a marketing distinction.
 
 In vacuum mode, the 340 CFM collection performance is solid for light to moderate leaf cover on a small to mid-sized lawn. Dry leaves, partially dry leaves, pine needles, the usual fall debris. It handles this without complaint.
 
@@ -122,8 +122,7 @@ For readers thinking through cordless blower options more broadly, it's worth ch
 
 ![Leaf And Lawn Vacuum](/images/articles/lawn-care-2.jpg)
 
-
-The EGO LB6004 runs around $400 to $450 depending on whether you buy it with or without the 56V ARC Lithium battery. If you're already in the EGO ecosystem, the tool-only price comes in closer to $280 to $300 at the time of writing. Either way, this is a serious machine and a serious price.
+The EGO LB6004. If you're already in the EGO ecosystem, the tool-only price is competitive at time of writing. Either way, this is a serious machine and a serious price.
 
 The backpack design is the whole story here. If you've ever abandoned a blower mid-session because your forearm gave out or your elbow was complaining, that's exactly what this solves. The 56V battery lives in the backpack chassis and distributes across your shoulders rather than hanging off your hand. Forty-five minutes in, you notice the difference. For a half-acre or larger property in heavy leaf season, handheld fatigue isn't a minor inconvenience. It's the thing that stops the job from getting done.
 
@@ -151,10 +150,9 @@ The EGO 56V platform is one of the strongest reasons to buy in. Chainsaw, hedge 
 
 **[Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper, 28 cu.ft. Hopper](product:agri-fab-45-0492-tow-behind-sweeper)**
 
-Around $280 to $320 on Amazon, the Agri-Fab 45-0492 is built for a different job than the three machines above. This is not a blower-vac. Read that again before you order it. The Agri-Fab collects leaves through contact brushes that sweep debris up into a 28 cubic-foot hopper as you tow it behind a riding mower or garden tractor. There is no suction. This distinction matters because a lot of buyers have returned this machine under the impression that it vacuums. It sweeps.
+the Agri-Fab 45-0492 is built for a different job than the three machines above. This is not a blower-vac. Read that again before you order it. The Agri-Fab collects leaves through contact brushes that sweep debris up into a 28 cubic-foot hopper as you tow it behind a riding mower or garden tractor. There is no suction. This distinction matters because a lot of buyers have returned this machine under the impression that it vacuums. It sweeps.
 
 ![Leaf And Lawn Vacuum](/images/articles/lawn-care-3.jpg)
-
 
 For what it does, it does it well. The 44-inch sweeping width means fewer passes over an acre. The 28 cubic-foot hopper is large enough to handle a full acre of moderate leaf cover before you need to dump it, which is not something you can say about any handheld vacuum bag. Grass clippings, pine needles, light debris all collect alongside the leaves without requiring separate passes.
 
@@ -185,7 +183,6 @@ Corded machines like the Toro 51621 offer consistent power regardless of battery
 
 ![Leaf And Lawn Vacuum](/images/articles/lawn-care-4.jpg)
 
-
 Cordless handheld models like the Greenworks 40V cover the majority of residential use cases. No cord management, reasonable runtime on a 4.0Ah battery for a small to mid-size lawn, and the flexibility to move anywhere on the property. The constraint is session length and battery management if you have multiple tools to run.
 
 Backpack cordless like the EGO LB6004 extends the cordless session to an hour or more without the fatigue penalty. For a large property where fall cleanup is genuinely a multi-hour task, this is where the investment pays off.
@@ -209,7 +206,6 @@ The Toro's 250 MPH does meaningful work on wet leaves. The EGO's 600 CFM covers 
 If you're buying a cordless tool, the battery platform decision is often more consequential than the specific tool. EGO's 56V ARC Lithium platform covers a full range of outdoor power equipment. Greenworks 40V is a solid platform with decent tool selection but no cross-compatibility with their other voltage lines. Buying into a platform is a real commitment, and the tools you add later will reflect that choice.
 
 ![Leaf And Lawn Vacuum](/images/articles/lawn-care-5.jpg)
-
 
 ,
 
@@ -269,4 +265,3 @@ Runtime depends on battery capacity (Ah) and the load you're putting on the moto
   ]
 }
 </script>
-

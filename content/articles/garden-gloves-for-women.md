@@ -14,17 +14,17 @@ products:
   - id: "pine-tree-tools-bamboo-gloves"
     role: "best_overall"
     article_specific_pros:
-      - "Bamboo fiber is naturally breathable and moisture-wicking , hands stay dry during long sessions"
+      - "Bamboo fiber is naturally breathable and moisture-wicking, hands stay dry during long sessions"
       - "Touchscreen-compatible fingertips allow phone use without removing gloves"
     article_specific_cons:
-      - "Not suitable for thorny plants like roses , thin bamboo offers minimal thorn protection"
+      - "Not suitable for thorny plants like roses, thin bamboo offers minimal thorn protection"
   - id: "foxgloves-original-gloves"
     role: "also_consider"
     article_specific_pros:
-      - "Extends past the wrist , protects forearms from scratches, splinters, and sun"
+      - "Extends past the wrist, protects forearms from scratches, splinters, and sun"
       - "Machine washable spandex-blend fabric maintains fit after repeated washing"
     article_specific_cons:
-      - "Grip coating degrades with heavy use , rough surfaces wear the silicone faster"
+      - "Grip coating degrades with heavy use, rough surfaces wear the silicone faster"
 tags: ["hand-tools", "roundup"]
 disclosure_required: true
 noindex: false
@@ -53,10 +53,9 @@ These are the gloves I'd hand someone who spends most of their garden time plant
 
 The fit is close without being restrictive. The nitrile-coated fingertips give you enough tactile feedback to handle seedlings or pick out small weeds without feeling like you're working through oven mitts. There's also a touchscreen-compatible feature at the fingertips, which I'll be honest about: I didn't buy these for that reason, but it's genuinely useful when you're referencing a planting diagram on your phone mid-session and don't want to set the gloves down somewhere muddy. (These are the small quality-of-life features that accumulate into a better morning in the garden.)
 
-At around $14 to $16 for a pack of four pairs at the time of writing, the Pine Tree Tools gloves are an Amazon bestseller in the gardening gloves category, and the volume of reviews reflects real-world use at scale. Machine washable, which means they'll last as long as the fabric holds rather than as long as they stay clean.
+the Pine Tree Tools gloves are an Amazon bestseller in the gardening gloves category, and the volume of reviews reflects real-world use at scale. Machine washable, which means they'll last as long as the fabric holds rather than as long as they stay clean.
 
 ![Garden Gloves For Women](/images/articles/hand-tools-2.jpg)
-
 
 **Pros**
 
@@ -84,8 +83,7 @@ Machine washable and, importantly, the fit holds after repeated washing. Spandex
 
 ![Garden Gloves For Women](/images/articles/hand-tools-3.jpg)
 
-
-The Foxgloves Original runs currently around $18 to $22 depending on color and size selection, though I'd note that Foxgloves lists multiple color and size combinations as separate ASINs on Amazon. Make sure you're selecting the correct size when you add to cart. The Purple/Medium linked here is one of the more popular configurations, but the brand offers other options if purple isn't your preference, though I appreciate that's not everyone's priority.
+The Foxgloves Original runs currently depending on color and size selection, though I'd note that Foxgloves lists multiple color and size combinations as separate ASINs on Amazon. Make sure you're selecting the correct size when you add to cart. The Purple/Medium linked here is one of the more popular configurations, but the brand offers other options if purple isn't your preference, though I appreciate that's not everyone's priority.
 
 **Pros**
 
@@ -115,7 +113,6 @@ Both gloves reviewed here address this in different ways. The Pine Tree Tools ba
 
 ![Garden Gloves For Women](/images/articles/hand-tools-4.jpg)
 
-
 ### Breathability vs. Protection: Finding the Right Trade-Off
 
 Lighter, more breathable gloves give up puncture resistance. There's no way around this, and anyone selling you a bamboo or spandex-blend glove as thorn-proof is not being straight with you.
@@ -136,14 +133,13 @@ Both gloves reviewed here are machine washable, which is worth prioritizing if y
 
 ![Garden Gloves For Women](/images/articles/hand-tools-5.jpg)
 
-
 For both the Pine Tree Tools and Foxgloves gloves, cold water on a gentle cycle is the right approach. Air dry rather than putting them in the dryer. The spandex blend in the Foxgloves, in particular, will lose its shape faster with heat.
 
 ### Price Point and What to Expect
 
-Budget gloves in this category sit between $14 and $25. Both products reviewed here fall in that range. At this price, you're not getting leather palms or puncture-resistant construction. What you are getting, with these two specifically, is well-designed fit, appropriate materials for the task, and durability that holds up to machine washing.
+Budget gloves in this category cover a modest price range. Both products reviewed here fall in that range. At this price, you're not getting leather palms or puncture-resistant construction. What you are getting, with these two specifically, is well-designed fit, appropriate materials for the task, and durability that holds up to machine washing.
 
-If you find yourself replacing cheap garden gloves every few weeks because they fall apart or wear through, either of these is a better long-term option. Four pairs of the Pine Tree Tools bamboo gloves for around $15 means you always have a clean pair available. One pair of the Foxgloves, washed regularly, should carry you through a full growing season and then some.
+If you find yourself replacing cheap garden gloves every few weeks because they fall apart or wear through, either of these is a better long-term option. Four pairs of the Pine Tree Tools bamboo gloves at their entry price means you always have a clean pair available. One pair of the Foxgloves, washed regularly, should carry you through a full growing season and then some.
 
 For gardeners who spend a lot of time on their knees during long planting sessions, a [garden kneeler chair](/garden-kneeler-chair/) pairs well with lightweight gloves like these. If you're going to be comfortable at hand level, it's worth being comfortable at knee level too.
 
@@ -154,7 +150,6 @@ The category label is primarily a sizing signal. Women's garden gloves are typic
 Both products covered here are available in size ranges that accommodate smaller hands. The Pine Tree Tools gloves run small according to a number of reviewers, so size up if you're on the border. The Foxgloves Original tends to run true to size. If aesthetics factor into your decision alongside function, the [cute garden gloves](/cute-garden-gloves/) roundup covers options where the look is as much the point as the performance.
 
 ![Garden Gloves For Women](/images/articles/hand-tools-6.jpg)
-
 
 ,
 
@@ -228,4 +223,3 @@ The cuff extension on the [Foxgloves Original](product:foxgloves-original-gloves
   ]
 }
 </script>
-

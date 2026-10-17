@@ -40,7 +40,7 @@ This review is part of our broader [Outdoor Furniture](/outdoor-furniture/) cove
 
 ## Quick Verdict
 
-The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) in teak color is the right chair for a specific buyer: someone who wants the warm, classic look of teak outdoor furniture, refuses to sand and oil anything on a maintenance schedule, and is prepared to pay for that combination upfront. It's not cheap. It's also not light. But it will be sitting on your porch in the same condition fifteen years from now, which is more than I can say for most of the teak-finished wood chairs I've owned.
+The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) in teak color is the right chair for a specific buyer: someone who wants the warm, classic look of teak outdoor furniture, refuses to sand and oil anything on a maintenance schedule, and is prepared to pay for that combination upfront. It's not cheap. It's also not light. But it will be sitting on your porch in the same condition fifteen years from now, which is more than can be said for most teak-finished wood chairs.
 
 If you're comparing it against actual teak or against competitors like the Trex Outdoor Furniture Rockport Rocker, the POLYWOOD holds up well on longevity and better than most on finish stability. Where it gives ground is weight and price.
 
@@ -50,7 +50,6 @@ The POLYWOOD Nautical Rocker is built from POLYWOOD's proprietary high-density p
 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-4.jpg)
 
-
 A few specifics worth knowing before you buy.
 
 - Weight capacity: 300 lbs
@@ -58,7 +57,7 @@ A few specifics worth knowing before you buy.
 - Seat dimensions: roughly 20 inches wide, seat height around 17 inches
 - Assembled dimensions: 26.5 inches wide, 33 inches deep, 43 inches tall
 - Hardware: stainless steel, which matters in coastal or wet climates
-- Current price: around $479 on Amazon at the time of writing, though it fluctuates by color and season
+- Current price:, though it fluctuates by color and season
 - ASIN: B07T99GP72
 - Ships partially assembled; final assembly straightforward with included hardware
 
@@ -75,7 +74,6 @@ The finish at the end of twelve months: unchanged. No fading visible to the eye,
 Compare that to the Kingsley-Bate Nantucket Rocker I ran for four seasons before this. Real teak, beautifully made, but it required oiling every spring and still went silver-gray by year three when I missed a season. The POLYWOOD doesn't ask anything of you. That's not a small thing if you have twelve acres of other things demanding attention.
 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-5.jpg)
-
 
 ### Comfort and Rockability
 
@@ -99,7 +97,6 @@ Assembly took me about twenty minutes. The instructions are clear. The hardware 
 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-6.jpg)
 
-
 ### How It Reads Visually
 
 The teak color is convincing. I've had guests ask what species the wood is, and these are not people who would overlook a plastic chair if the finish were off. Up close, you can identify it as POLYWOOD material if you know what you're looking at. From the porch steps, in normal light, it reads as warm teak-tone wood furniture. For most real-world contexts, that's sufficient.
@@ -119,7 +116,7 @@ If you're building out a coordinated outdoor seating area, the Nautical pairs we
 
 **Cons.**
 
-- $479 is real money for a single chair. If you're furnishing a full porch, the cost multiplies fast.
+- This is real money for a single chair. If you're furnishing a full porch, the cost multiplies fast.
 - 43 lbs. If you need to move it, you'll know you moved it.
 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-7.jpg)
@@ -133,13 +130,10 @@ The [POLYWOOD Nautical Rocker](product:polywood-nautical-rocker-teak) makes the 
 
 It also makes sense if you're in a climate with hard winters or significant humidity swings, where wood furniture takes the most punishment. Real teak handles this reasonably well with care. POLYWOOD handles it without care. That's the trade you're making at the price differential.
 
-It's probably not the right chair if you're looking for something you can shift around your patio frequently, want to stay under $300, or specifically want the texture and authenticity of real wood grain. For the latter, our [outdoor teak rocking chair](/outdoor-teak-rocking-chair/) roundup covers some solid options in genuine teak if that's the direction you want to go.
+It's probably not the right chair if you're looking for something you can shift around your patio frequently, want to stay entry-level or specifically want the texture and authenticity of real wood grain. For the latter, our [outdoor teak rocking chair](/outdoor-teak-rocking-chair/) roundup covers some solid options in genuine teak if that's the direction you want to go.
 
 If you're furnishing a larger outdoor dining arrangement rather than a seating area, it's worth noting that a rocker is obviously not a dining chair. Our look at a [teak outdoor dining set for 6](/teak-outdoor-dining-set-for-6/) covers more appropriate options for that context.
 
 For anyone who wants a classic-looking, maintenance-free teak-color rocker that will still be presentable a decade from now without a single coat of oil, this is the chair I'd recommend. It sits in the upper tier of what's available in this category within our [outdoor furniture](/outdoor-furniture/) coverage, and the price, while high, reflects what you're actually getting.
 
 ![Teak Outdoor Rocking Chair](/images/articles/outdoor-furniture-8.jpg)
-
-
-

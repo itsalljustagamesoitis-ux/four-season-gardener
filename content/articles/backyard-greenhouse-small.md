@@ -14,7 +14,7 @@ products:
   - id: "palram-lean-to-greenhouse"
     role: "also_consider"
     article_specific_pros:
-      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
+      - "Attaches to a house wall, uses structural support and wall heat for efficiency"
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
@@ -24,7 +24,7 @@ products:
       - "Twin-wall polycarbonate roof panels retain more heat than single-wall alternatives"
       - "Compact 6x8 footprint fits most suburban backyards; smallest practical full greenhouse size"
     article_specific_cons:
-      - "Lower internal headroom than 8x12 or 8x16 models , limits tall-crop growing"
+      - "Lower internal headroom than 8x12 or 8x16 models, limits tall-crop growing"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -57,7 +57,6 @@ The frame material breakdown at this price point is almost entirely aluminum and
 
 ![Backyard Greenhouse Small](/images/articles/structures-1.jpg)
 
-
 ## Why a Small Greenhouse Earns Its Space
 
 The honest answer for most gardeners is the season extension argument. If you garden through hard winters and want tomatoes started by mid-February, or if you're trying to keep citrus overwintering somewhere that isn't your dining room, a greenhouse solves a specific problem that no amount of cold frames or grow lights can fully replicate.
@@ -72,10 +71,9 @@ On the heat retention side, this is where construction quality starts to matter.
 
 ### Lean-To vs. Freestanding: The First Decision
 
-If you have a south- or west-facing exterior wall available and your growing space is genuinely constrained, a lean-to configuration is worth serious consideration. The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse) runs around $450 to $500 at time of writing and gives you a functional growing space that borrows both structural support and residual wall heat from the house. In practical terms, a masonry or insulated house wall facing south acts as a thermal battery: it absorbs heat during the day and radiates it back into the greenhouse at night. That effect is modest but real, and it's a feature you don't pay extra for.
+If you have a south- or west-facing exterior wall available and your growing space is genuinely constrained, a lean-to configuration is worth serious consideration. The [Palram Canopia Hybrid 4 Ft. x 8 Ft. Lean-To Greenhouse](product:palram-lean-to-greenhouse) runs at time of writing and gives you a functional growing space that borrows both structural support and residual wall heat from the house. In practical terms, a masonry or insulated house wall facing south acts as a thermal battery: it absorbs heat during the day and radiates it back into the greenhouse at night. That effect is modest but real, and it's a feature you don't pay extra for.
 
 ![Backyard Greenhouse Small](/images/articles/structures-2.jpg)
-
 
 The lean-to's constraints are equally real. You need the right wall orientation. The low end of a lean-to roof means limited headroom for anyone working near the wall, which matters less if you're growing seedlings on shelves and more if you're trying to grow determinate tomatoes to any height. And the 4x8 footprint, at 32 square feet, is genuinely small. This structure is for propagation, overwintering tender plants, and starting seeds. It's not a production greenhouse.
 
@@ -83,12 +81,11 @@ For most gardeners making a first purchase, the freestanding 6x8 kit is the more
 
 ### The 6x8 Kit Greenhouse
 
-The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](product:palram-hybrid-6x8-greenhouse) currently sits in the $600 to $700 range from third-party sellers on Amazon (note that Amazon direct fulfillment isn't always available on this listing, so check current seller status before buying). The included galvanized steel base frame is standard in this kit, which matters. Ground-level rust failure is one of the more common ways a greenhouse frame degrades over five or ten years, and a galvanized base extends that lifespan materially. Most competing kits at this price make you source or fabricate your own base.
+The [Palram Canopia Hybrid 6 Ft. x 8 Ft. Greenhouse Kit](product:palram-hybrid-6x8-greenhouse) currently sits in the range from third-party sellers on Amazon (note that Amazon direct fulfillment isn't always available on this listing, so check current seller status before buying). The included galvanized steel base frame is standard in this kit, which matters. Ground-level rust failure is one of the more common ways a greenhouse frame degrades over five or ten years, and a galvanized base extends that lifespan materially. Most competing kits at this price make you source or fabricate your own base.
 
 The twin-wall polycarbonate roof panels are the other reason this kit earns a recommendation. Compare it against something like the Palram Snap & Grow 6x12, which uses single-wall polycarbonate on the roof, and you'll see a meaningful difference in cold-night heat retention. For a structure without supplemental heat, that construction choice is consequential.
 
 ![Backyard Greenhouse Small](/images/articles/structures-3.jpg)
-
 
 Assembly is a full-day project for two people. Anyone claiming a solo weekend afternoon installation on a kit this size is either not counting the base assembly time or has done it before. Budget a full day, lay out all hardware before you start, and read the entire instruction sequence before driving the first screw.
 
@@ -105,7 +102,6 @@ For insulation in winter, a small greenhouse with no supplemental heat will prot
 Underestimating the site prep requirement is the most consequential mistake. A structure placed on soft ground will shift, rack, and eventually become difficult to open and close. Deal with the site before the structure arrives.
 
 ![Backyard Greenhouse Small](/images/articles/structures-4.jpg)
-
 
 Choosing a footprint based on the smallest available option rather than actual growing needs. A 4x8 lean-to sounds sufficient until you realize you have 60 seedling trays to start in March. Be honest about your seed-starting volume before committing to a footprint.
 
@@ -128,7 +124,6 @@ Anything under about 20 square feet of floor space starts limiting your use case
 This varies by municipality, but in most jurisdictions a structure under 100 to 200 square feet that sits on a temporary base (not a permanent foundation) doesn't require a building permit. Some HOA rules are more restrictive than local codes. Check both before purchasing. The lean-to configuration complicates this in some areas because it attaches to the house structure, which some codes treat differently than a freestanding unit.
 
 ![Backyard Greenhouse Small](/images/articles/structures-5.jpg)
-
 
 ### Can a small polycarbonate greenhouse survive a real winter without supplemental heat?
 
@@ -190,4 +185,3 @@ If you're buying a kit that includes it as standard, as both Palram Canopia mode
   ]
 }
 </script>
-

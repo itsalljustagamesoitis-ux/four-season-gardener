@@ -17,14 +17,14 @@ products:
       - "50,000 BTU output heats a 15-foot radius"
       - "Tempered glass tabletop functions as a full outdoor table when burner cover is on"
     article_specific_cons:
-      - "Propane is an ongoing consumable cost , a 20 lb tank lasts roughly 8-10 hours at full"
+      - "Propane is an ongoing consumable cost, a 20 lb tank lasts roughly 8-10 hours at full"
   - id: "napoleon-st-tropez-fire-table"
     role: "alternative"
     article_specific_pros:
-      - "Electronic ignition with adjustable flame height , no matches needed"
+      - "Electronic ignition with adjustable flame height, no matches needed"
       - "Rustic bronze aluminum frame is lightweight but premium-looking; won't rust or fade"
     article_specific_cons:
-      - "Premium price , significantly more expensive than Outland Living tables"
+      - "Premium price, significantly more expensive than Outland Living tables"
 tags: ["fire-and-heat", "comparison"]
 disclosure_required: true
 noindex: false
@@ -55,20 +55,20 @@ Both are propane-fueled, rectangular, and covered in our broader roundup of [Fir
 
 | | Outland Living Series 403 | Napoleon St. Tropez |
 |,|,|,|
-| Price | Mid-range, currently around $350-$420 | Premium, currently around $700-$900 |
+| Price tier | Mid-range | Premium |
 | BTU Output | 50,000 BTU | 40,000 BTU |
 | Ignition | Manual push-button | Electronic auto-ignition |
 | Frame Material | Concrete-look composite top, steel base | Rustic bronze aluminum |
 | Gas Type | Propane (20 lb tank) | Propane standard, natural gas conversion included |
 | Table Function | Yes, with included cover panel | Yes, with cover |
-| Weight | Heavy , relocation is a two-person job | Lighter aluminum frame |
+| Weight | Heavy, relocation is a two-person job | Lighter aluminum frame |
 | Best For | Value-focused buyers, flexible setups | Permanent installations, long-term value |
 
 Prices listed are approximate at the time of writing and fluctuate on Amazon.
 
 ## Why Choose the Outland Living Series 403
 
-The pitch here is straightforward: 50,000 BTU for around $400, delivered from a unit that looks like actual patio furniture. If you've sat around a small decorative fire pit that barely warmed your hands on a 55-degree October evening, the BTU number matters. A 15-foot heat radius is meaningful. At my patio table with four chairs pulled around it, everyone feels it.
+The pitch here is straightforward: 50,000 BTU at a mid-range price, delivered from a unit that looks like actual patio furniture. If you've sat around a small decorative fire pit that barely warmed your hands on a 55-degree October evening, the BTU number matters. A 15-foot heat radius is meaningful. At my patio table with four chairs pulled around it, everyone feels it.
 
 ![Fire Pit With Coffee Table](/images/articles/fire-and-heat-6.jpg)
 
@@ -94,14 +94,14 @@ Napoleon makes grills. Good ones. And the manufacturing standards that go into t
 
 The electronic ignition is the feature that gets undersold. No matches, no piezo clicking, no leaning over the burner in the wind. You turn a knob, the igniter fires, the flame appears. You adjust the height. That's it. For anyone who has used a manual-ignition pit on a breezy evening and spent four minutes hunched over it, this is not a trivial difference.
 
-The natural gas conversion kit is included in the box. Most propane fire tables charge extra for this, if they offer it at all. If there's any chance you'll run a natural gas line to your patio in the next few years, the Napoleon pays for part of that gap immediately. A proper [propane fire pit burner conversion](/propane-fire-pit-burner/) to natural gas on competing units can run $80 to $150 in parts alone. Here it's already in the box.
+The natural gas conversion kit is included in the box. Most propane fire tables charge extra for this, if they offer it at all. If there's any chance you'll run a natural gas line to your patio in the next few years, the Napoleon pays for part of that gap immediately. A proper [propane fire pit burner conversion](/propane-fire-pit-burner/) to natural gas on competing units can be a meaningful parts cost alone. Here it's already in the box.
 
 ![Fire Pit With Coffee Table](/images/articles/fire-and-heat-8.jpg)
 
 
 ### The Case for Permanent Installation
 
-The St. Tropez is priced as a permanent fixture, and it performs like one. At around $700 to $900, it costs roughly twice the Outland Living unit. For a seasonal-use purchase you're going to replace in four years, that's hard to justify. For a patio setup you're finishing once and living with for a decade, the math changes.
+The St. Tropez is priced as a permanent fixture, and it performs like one. At the premium price point, it costs roughly twice the Outland Living unit. For a seasonal-use purchase you're going to replace in four years, that's hard to justify. For a patio setup you're finishing once and living with for a decade, the math changes.
 
 The aluminum frame keeps the overall weight lower than the Outland's composite top, which sounds counterintuitive. A lighter frame on a premium product might suggest cost-cutting, but aluminum is genuinely appropriate here. It moves easier if you need to reposition it, and it won't corrode in wet springs or freeze-thaw conditions.
 
@@ -114,7 +114,7 @@ For a broader look at how the St. Tropez fits into the full range of premium out
 
 ## Verdict
 
-Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional fire table that performs at its price point, you're running propane, and you don't need or want to spend $900 on an outdoor feature. The 50,000 BTU output is the headline number and it's accurate. The table function is legitimate. It's a good product that will serve most buyers well for years with normal care.
+Buy the [Outland Living Series 403](product:outland-living-403-fire-table) if you want a functional fire table that performs at its price point, you're running propane, and you're not looking for premium pricing on an outdoor feature. The 50,000 BTU output is the headline number and it's accurate. The table function is legitimate. It's a good product that will serve most buyers well for years with normal care.
 
 Buy the [Napoleon St. Tropez](product:napoleon-st-tropez-fire-table) if you're finishing a patio you intend to keep, you want hardware that doesn't require second-guessing in year four, and the natural gas conversion option is plausibly in your future. The premium price is real, but so is what you get for it. Electronic ignition, a frame that won't degrade, and conversion flexibility in the box make it the stronger long-term value if you're prepared for the upfront cost.
 

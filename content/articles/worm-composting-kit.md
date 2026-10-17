@@ -14,7 +14,7 @@ products:
   - id: "worm-factory-360-black"
     role: "primary"
     article_specific_pros:
-      - "Produces both worm castings and liquid worm tea , two premium fertilizer outputs"
+      - "Produces both worm castings and liquid worm tea, two premium fertilizer outputs"
       - "Modular tray system expands as worm population grows; up to 8 trays supported"
     article_specific_cons:
       - "Red wiggler worms must be purchased separately"
@@ -24,7 +24,7 @@ products:
       - "1,000 worms is the ideal starter quantity for a Worm Factory 360"
       - "Ships live with moisture-absorbing material; arrival guarantee if reported within 2 days"
     article_specific_cons:
-      - "Live shipping is weather-dependent , extreme heat or cold can affect survival rate"
+      - "Live shipping is weather-dependent, extreme heat or cold can affect survival rate"
 tags: ["composting", "comparison"]
 disclosure_required: true
 noindex: false
@@ -51,18 +51,16 @@ This article covers both products honestly, explains where each one delivers and
 
 ## At-a-Glance
 
-The Worm Factory 360 currently runs around $80 to $90 on Amazon (at the time of writing), depending on color and seller. The Uncle Jim's 1,000-count red wigglers ship for approximately $35 to $45. Budget around $120 to $130 to get a fully operational worm bin from a cold start. That's a reasonable entry price for a system that, once established, produces two distinct fertilizer outputs: worm castings and liquid worm tea.
+The Worm Factory 360 currently runs on Amazon (at the time of writing), depending on color and seller. The Uncle Jim's 1,000-count red wigglers ship for. Budget for both the bin and the worms to get a fully operational worm bin from a cold start. That's a reasonable entry price for a system that, once established, produces two distinct fertilizer outputs: worm castings and liquid worm tea.
 
 The Worm Factory 360 is a stacking tray system made in the USA by Nature's Footprint. Four trays come in the base kit, with capacity to expand to eight. A spigot at the base drains liquid leachate, which (with appropriate dilution) functions as a liquid fertilizer. The instruction manual is detailed enough that a first-time vermicomposter can follow it without supplementing with YouTube tutorials.
 
 ![Worm Composting Kit](/images/articles/composting-8.jpg)
 
-
 Uncle Jim's worms are not earthworms. Red wigglers (Eisenia fetida) are surface feeders that thrive in the confined, moist, organic-rich environment of a bin. Put them in garden soil and they'll disperse and die. Put them in a properly set-up Worm Factory 360 and 1,000 of them will process a meaningful quantity of kitchen scraps weekly once they've acclimated.
 
 | | Worm Factory 360 | Uncle Jim's Red Wigglers |
 |,|,|,|
-| Price (approx.) | $80-$90 | $35-$45 |
 | What it is | 4-tray stackable bin | 1,000 live red wigglers |
 | Made/shipped in USA | Yes | Yes |
 | Outputs | Castings + liquid tea | N/A (they are the input) |
@@ -78,7 +76,6 @@ The liquid collection tray at the base and the spigot are genuinely useful. Worm
 
 ![Worm Composting Kit](/images/articles/composting-1.jpg)
 
-
 The modular design is practical for anyone starting with a smaller household. Begin with four trays, add trays as the worm population grows and your volume of kitchen scraps warrants it. The system scales without requiring a new bin purchase.
 
 The Made in USA designation matters to some buyers and not to others, though I'd note the build quality is solid. The trays stack without warping, the spigot doesn't leak, and the lid fits securely. After two seasons of use, mine shows no structural issues.
@@ -93,7 +90,6 @@ The 1,000-count is the right starting quantity for a Worm Factory 360. Not 500, 
 
 ![Worm Composting Kit](/images/articles/composting-2.jpg)
 
-
 Uncle Jim's ships live with moisture-retaining bedding material and offers a live arrival guarantee, provided you report issues within 48 hours of delivery. The guarantee is relevant because live shipping is weather-dependent. A package sitting on a hot loading dock in July or in a frozen delivery truck in January will arrive in worse condition than one shipped in May or September. Ordering in mild weather is not a minor suggestion, it's the most practical thing you can do to protect your purchase.
 
 Red wigglers are different from the earthworms you'd find in your garden beds, and the distinction matters. Earthworms are soil-column dwellers that move through mineral soil. Red wigglers are composting specialists that live in the top layer of decomposing organic matter. They do not belong in open beds and will not survive there. They belong in a bin like the Worm Factory 360, and that's where they excel.
@@ -104,12 +100,11 @@ Live shipping variability is the other real concern. Uncle Jim's has a good repu
 
 ![Worm Composting Kit](/images/articles/composting-3.jpg)
 
-
 ## Verdict
 
 Buy both. That's the recommendation, stated plainly.
 
-The Worm Factory 360 is a well-designed, durable bin that produces two useful fertilizer outputs and expands as your needs grow. Uncle Jim's 1,000 red wigglers are the appropriate starter population for that bin, priced fairly, and shipped with a reasonable live arrival guarantee. Together they run approximately $120 to $130, which is a sensible investment for anyone who generates regular kitchen scraps and wants to convert them into something useful rather than sending them to landfill.
+The Worm Factory 360 is a well-designed, durable bin that produces two useful fertilizer outputs and expands as your needs grow. Uncle Jim's 1,000 red wigglers are the appropriate starter population for that bin, priced fairly, and shipped with a reasonable live arrival guarantee. Together they run, which is a sensible investment for anyone who generates regular kitchen scraps and wants to convert them into something useful rather than sending them to landfill.
 
 If your situation is an apartment or small home with indoor or conditioned-basement space available, this setup is close to ideal. It's compact, odorless when managed correctly, and produces outputs that have real value for container gardening. For more context on how this fits into broader composting approaches, the [Composting](/composting/) hub covers the full range of options.
 
@@ -124,7 +119,6 @@ One timing note: order the worms after the bin arrives, not simultaneously. Set 
 Yes. The Worm Factory 360 ships as a bin system only. No worms are included. The Uncle Jim's 1,000 Count Red Wigglers are a natural pairing and the right starting quantity for the four-tray configuration.
 
 ![Worm Composting Kit](/images/articles/composting-4.jpg)
-
 
 ### Can I use regular garden earthworms in a worm composting bin?
 
@@ -190,4 +184,3 @@ They're related but not the same. Worm tea (the liquid that drains from the Worm
   ]
 }
 </script>
-

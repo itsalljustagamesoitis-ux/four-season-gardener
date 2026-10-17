@@ -15,13 +15,13 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
   - id: "all-things-cedar-ga87-garden-arbor"
     role: "also_consider"
     article_specific_pros:
-      - "Naturally rot-resistant cedar requires no chemical treatment , safe next to edibles"
+      - "Naturally rot-resistant cedar requires no chemical treatment, safe next to edibles"
       - "Trellis side panels support climbing roses, clematis, and wisteria without additional hardware"
     article_specific_cons:
       - "Cedar will grey without staining or oiling every 2-3 years"
@@ -41,7 +41,7 @@ faq:
     answer: "Yes. Yardistry sells polycarbonate roof panels as a separate add-on, currently around $200 to $250, which snap into the existing frame and convert this into a usable space in light rain. If year-round covered use is the goal, budget for those panels from the start rather than treating them as an afterthought."
 ---
 
-Pergola kits have gotten genuinely better in the last five years, and the range now runs from a $200 cedar arbor you can put up in an afternoon to a $1,500 hardtop gazebo that requires a level foundation and two sets of hands. The problem is that most roundups treat all of these as interchangeable, which they are not. A garden entrance arbor is not a substitute for a covered outdoor dining structure, and a season-extending cold frame is not a pergola by any reasonable definition. So this review separates them by what they actually do, and tells you which one to buy if you fall into that category.
+Pergola kits have gotten genuinely better in the last five years, and the range now runs from a cedar arbor you can put up in an afternoon to a hardtop gazebo that requires a level foundation and two sets of hands. The problem is that most roundups treat all of these as interchangeable, which they are not. A garden entrance arbor is not a substitute for a covered outdoor dining structure, and a season-extending cold frame is not a pergola by any reasonable definition. So this review separates them by what they actually do, and tells you which one to buy if you fall into that category.
 
 If you're still early in deciding what kind of permanent structure makes sense for your property, the [Greenhouses, Sheds & Gazebos](/structures/) hub has a useful overview of how these categories fit together before you spend money on the wrong thing.
 
@@ -53,16 +53,15 @@ If you're still early in deciding what kind of permanent structure makes sense f
 
 **Best for:** Homeowners who want natural wood aesthetics with a meaningful reduction in assembly misery.
 
-This is the one I'd buy if I were starting from scratch with a blank patio and wanted something that looked like it belonged in the landscape rather than arrived on a pallet from a big-box store. The kit runs around $900 to $1,050 depending on timing, and that price reflects what you're getting. North American cedar. Pre-cut, pre-drilled, pre-stained.
+This is the one I'd buy if I were starting from scratch with a blank patio and wanted something that looked like it belonged in the landscape rather than arrived on a pallet from a big-box store. The kit, and that price reflects what you're getting. North American cedar. Pre-cut, pre-drilled, pre-stained.
 
 That last part matters more than it sounds. Anyone who has tried to build a wood pergola from raw lumber knows that half the project time disappears into measuring, cutting, and sanding. The Yardistry kit eliminates most of that. The pieces are numbered, the holes are already there, and the warm cedar stain is applied before it ships. A reasonably handy person working with one helper can have this up in a long afternoon. (I timed a similar kit once at about six hours including two coffee breaks and one argument about which bracket faced which direction.)
 
 The cedar itself is naturally rot-resistant without any chemical preservative treatment, which matters if you're placing this near a vegetable bed or a children's play area. Cedar also ages in a way that other materials simply don't. Left untreated, it goes silver-gray over several years, which I find attractive. Stained, it stays warm and rich-toned.
 
-The honest caveat is that cedar requires maintenance. Plan on restaining every two to three years if you want to keep the color. If you let it go, the wood won't rot, but it will weather and your neighbors may have opinions. Also worth knowing: the base kit provides shade from the open-slat roof design, not rain coverage. Yardistry sells polycarbonate roof panels as a separate add-on, currently around $200 to $250, which snap into the existing frame and convert this into a usable space in light rain. If year-round covered use is the goal, budget for those from the start rather than treating them as an afterthought.
+The honest caveat is that cedar requires maintenance. Plan on restaining every two to three years if you want to keep the color. If you let it go, the wood won't rot, but it will weather and your neighbors may have opinions. Also worth knowing: the base kit provides shade from the open-slat roof design, not rain coverage. Yardistry sells polycarbonate roof panels as a separate add-on which snap into the existing frame and convert this into a usable space in light rain. If year-round covered use is the goal, budget for those from the start rather than treating them as an afterthought.
 
 ![Best Pergola Kits](/images/articles/structures-3.jpg)
-
 
 **Pros.**
 - North American cedar: rot-resistant without chemical treatment
@@ -74,7 +73,7 @@ The honest caveat is that cedar requires maintenance. Plan on restaining every t
 - Requires restaining every 2 to 3 years to maintain color
 - Roof panels sold separately: base kit is shade only
 
-At around $1,000 for the base kit, this sits at the top of the wood pergola category. The step above it is custom-built. The step below it is building from raw lumber yourself, which costs less in materials and considerably more in time.
+this sits at the top of the wood pergola category. The step above it is custom-built. The step below it is building from raw lumber yourself, which costs less in materials and considerably more in time.
 
 ,
 
@@ -84,7 +83,7 @@ At around $1,000 for the base kit, this sits at the top of the wood pergola cate
 
 **Best for:** Anyone building a permanent outdoor dining or entertaining space who is done replacing fabric canopies.
 
-The Palram Martinique is currently priced around $1,400 to $1,600 on Amazon, which is a significant number for a gazebo kit. Here is why I think it's defensible. Fabric canopy gazebos in the $300 to $600 range look fine in the first season. By year three, they sag, fade, develop small tears that become large tears, and the frame starts showing rust at the joints. The Martinique has a powder-coated aluminum frame that won't rust and twin-wall polycarbonate roof panels that block 99.9% of UV while diffusing light so you're not sitting in a greenhouse-level heat trap. That polycarbonate roof will still be functional in ten years. The fabric canopy on its cheaper competitor will not.
+The Palram Martinique, which is a significant number for a gazebo kit. Here is why I think it's defensible. Fabric canopy gazebos in the range look fine in the first season. By year three, they sag, fade, develop small tears that become large tears, and the frame starts showing rust at the joints. The Martinique has a powder-coated aluminum frame that won't rust and twin-wall polycarbonate roof panels that block 99.9% of UV while diffusing light so you're not sitting in a greenhouse-level heat trap. That polycarbonate roof will still be functional in ten years. The fabric canopy on its cheaper competitor will not.
 
 At 10 by 12 feet, there's 120 square feet of covered space underneath. A standard outdoor dining table with six chairs fits comfortably, with room for a drinks cart if you arrange it thoughtfully. Palram backs the structure with a 10-year limited warranty, which is worth something when you're anchoring a structure to a concrete pad.
 
@@ -117,7 +116,7 @@ If you've been replacing a fabric canopy gazebo on a three-year cycle, the math 
 
 **Best for:** A garden path entrance, a gate feature, or an established climbing plant structure.
 
-This is a different category than the two products above. It's an arbor: a vertical framing structure you walk through or position at a garden boundary, not something you sit under. The All Things Cedar GA87 runs around $280 to $320 and delivers what cedar garden structures should deliver: clean construction, honest materials, no vinyl.
+This is a different category than the two products above. It's an arbor: a vertical framing structure you walk through or position at a garden boundary, not something you sit under. The All Things Cedar GA87 and delivers what cedar garden structures should deliver: clean construction, honest materials, no vinyl.
 
 The 60-inch width is worth noting specifically. Many arbors in this price range are 48 inches, which is narrow enough to feel awkward when two people pass through simultaneously, or when you're pushing a wheelbarrow. Sixty inches is a comfortable entry width for a garden path or gate. The trellis side panels are structural enough to support climbing roses, clematis, and wisteria without adding separate hardware, which you would need on a plain-post arbor.
 
@@ -138,7 +137,7 @@ The practical note on installation: for a permanent placement in an open or expo
 
 - Post footings require concrete for any exposed or windy site
 
-At $280 to $320, this is the honest mid-tier choice for a garden entrance feature. Vinyl arbors exist at similar prices, look plasticky from the day they're installed, and don't improve with age. The cedar option costs no more and looks significantly better.
+look plasticky from the day they're installed, and don't improve with age. The cedar option costs no more and looks significantly better.
 
 ,
 
@@ -148,7 +147,7 @@ At $280 to $320, this is the honest mid-tier choice for a garden entrance featur
 
 **Best for:** Getting seedlings started four to six weeks earlier, or keeping tender herbs alive through the first hard frosts.
 
-I'm including this because the search term "pergola kit" catches a lot of people who are really looking for a small covered growing structure, and most of what shows up under that search is not what they need. The Palram Plant Inn is a cold frame and raised planter. It is not a walk-in greenhouse. It has no headroom. You access it by lifting the polycarbonate roof panels. If that description sounds limiting, it is. But for what it actually does, it's a well-made product at a fair price, currently around $150 to $180.
+I'm including this because the search term "pergola kit" catches a lot of people who are really looking for a small covered growing structure, and most of what shows up under that search is not what they need. The Palram Plant Inn is a cold frame and raised planter. It is not a walk-in greenhouse. It has no headroom. You access it by lifting the polycarbonate roof panels. If that description sounds limiting, it is. But for what it actually does, it's a well-made product at a fair price
 
 The polycarbonate panels diffuse light evenly so seedlings don't scorch in direct sun, which is a real advantage over single-layer clear plastic cold frames where temperature swings inside are more extreme. The elevated planter base keeps the growing area off the ground, which matters for drainage and also eliminates the weed pressure you'd get from ground contact. In a wet spring, that's not a minor point.
 
@@ -164,7 +163,7 @@ The practical limitation is scale. Four by four feet is 16 square feet of growin
 - 16 square feet is minimal: appropriate for seedlings and a few plants, not a productive growing area
 - No walk-in access: not a greenhouse replacement
 
-At $150 to $180, this is the lowest-risk way to test whether season extension is something you'll actually use before committing to a larger structure.
+this is the lowest-risk way to test whether season extension is something you'll actually use before committing to a larger structure.
 
 ,
 
@@ -175,7 +174,6 @@ At $150 to $180, this is the lowest-risk way to test whether season extension is
 The products in this roundup fall into three distinct categories, and getting that distinction right before you buy saves a significant amount of money and return shipping.
 
 ![Best Pergola Kits](/images/articles/structures-6.jpg)
-
 
 A pergola or gazebo kit is a sitting structure. You put furniture under it. The Yardistry cedar kit and the Palram Martinique are both in this category, one in natural wood and one in aluminum with a hardtop roof.
 
@@ -193,9 +191,8 @@ If you're in an area with hard winters, freeze-thaw ground movement, or serious 
 
 ### Budget Framing
 
-The Palram Martinique at $1,400 to $1,600 is the largest upfront number in this group, but compared to a contractor-built pergola at $3,000 to $8,000 for the same footprint, the DIY kit category as a whole is reasonable. The Yardistry cedar kit at around $1,000 lands in the same competitive space. The All Things Cedar arbor at $280 to $320 is a mid-tier purchase in a category where cheap vinyl alternatives are genuinely worse, not just aesthetically different.
+The Palram Martinique is the largest upfront number in this group, but compared to a contractor-built pergola for the same footprint, the DIY kit category as a whole is reasonable. The Yardistry cedar kit at,000 lands in the same competitive space. The All Things Cedar arbor is a mid-tier purchase in a category where cheap vinyl alternatives are genuinely worse, not just aesthetically different.
 
 For readers who want to see how these structures fit alongside other outbuilding decisions, the full range of options on the [Greenhouses, Sheds & Gazebos](/structures/) hub covers everything from insulated garden buildings to flat-roof storage solutions worth comparing before committing to a site plan.
 
 ,
-

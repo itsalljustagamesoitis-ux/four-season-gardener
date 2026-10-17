@@ -21,10 +21,10 @@ products:
   - id: "sunnydaze-teak-bench-60in-b08c"
     role: "also_consider"
     article_specific_pros:
-      - "675 lb weight capacity , exceptionally sturdy"
+      - "675 lb weight capacity, exceptionally sturdy"
       - "Mission style suits both garden and patio settings"
     article_specific_cons:
-      - "Not Grade A teak , lower density than Ash & Ember picks"
+      - "Not Grade A teak, lower density than Ash & Ember picks"
 tags: ["outdoor-furniture", "review"]
 disclosure_required: true
 noindex: false
@@ -43,16 +43,15 @@ faq:
 
 A teak outdoor garden bench is one of those purchases where the difference between a good one and a mediocre one shows up slowly. The first season, everything looks fine. By year three, you know whether you bought furniture or you bought a maintenance project. I've had both on this property, and the gap in experience is significant enough that I'm not inclined to soften the comparison.
 
-This review covers two benches. The [Ash & Ember Solstice 5 FT Grade A Teak Outdoor Bench, Bow-Back](product:ash-ember-solstice-teak-bench-b0c4) at the premium end, currently around $590 on Amazon at the time of writing, and the [Sunnydaze 2-Person Outdoor Teak Patio Garden Bench with Backrest, 60"](product:sunnydaze-teak-bench-60in-b08c) in the mid-range, sitting closer to $280 to $320 depending on when you look. Both seat two adults. Both are marketed as teak. That's roughly where the similarities end. If you're building out a broader seating arrangement, this fits into a larger conversation about [Outdoor Furniture](/outdoor-furniture/) that goes well beyond the bench category, but for today, these two are what's on the table.
+This review covers two benches. The [Ash & Ember Solstice 5 FT Grade A Teak Outdoor Bench, Bow-Back](product:ash-ember-solstice-teak-bench-b0c4) at the premium end, and the [Sunnydaze 2-Person Outdoor Teak Patio Garden Bench with Backrest, 60"](product:sunnydaze-teak-bench-60in-b08c) in the mid-range, sitting. Both seat two adults. Both are marketed as teak. That's roughly where the similarities end. If you're building out a broader seating arrangement, this fits into a larger conversation about [Outdoor Furniture](/outdoor-furniture/) that goes well beyond the bench category, but for today, these two are what's on the table.
 
 ## Quick Verdict
 
 The Ash & Ember Solstice is the better bench. If you're placing something permanently on a terrace, patio, or garden path and you want it to look right in ten years without heroic intervention, that's the one. The bow-back design is not decorative filler. It does actual comfort work for extended sitting, which separates it from most flat-back benches in this category.
 
-The Sunnydaze earns its place for a different buyer. It's built heavier than the price suggests, handles weight distribution exceptionally well at 675 lbs capacity, and the Mission style reads as versatile rather than fussy. If the $590 mark is out of range, this is a legitimate choice rather than a compromise pick.
+The Sunnydaze earns its place for a different buyer. It's built heavier than the price suggests, handles weight distribution exceptionally well at 675 lbs capacity, and the Mission style reads as versatile rather than fussy. If the mark is out of range, this is a legitimate choice rather than a compromise pick.
 
 Neither bench is a casual impulse buy. If you're in the market for something you can move seasonally or store under a deck, look elsewhere. These are placement furniture.
-
 
 [Check current price on Amazon](product:ash-ember-solstice-teak-bench-b0c4)
 
@@ -67,7 +66,7 @@ Neither bench is a casual impulse buy. If you're in the market for something you
 - **Dimensions.** 60 inches wide, seats 2 adults with room. Backrest height approximately 36 inches from ground.
 - **Weight.** Around 55 lbs. Substantial, but one person can reposition it without a second set of hands.
 - **Finish.** Ships with a natural teak oil finish. Will silver gracefully if left untreated, or hold its warm honey tone with annual oiling.
-- **Price.** Currently around $590 on Amazon at the time of writing.
+- **Price.** Currently.
 - **Warranty.** 2-year manufacturer warranty.
 
 ### Sunnydaze Teak Bench
@@ -76,7 +75,6 @@ Neither bench is a casual impulse buy. If you're in the market for something you
 - **Dimensions.** 60 inches wide, similar seating capacity. Mission-style design with straight vertical slats in the backrest.
 - **Weight capacity.** 675 lbs, which is exceptional for this size and price bracket.
 - **Weight.** Approximately 47 lbs.
-- **Price.** Currently in the $280 to $320 range on Amazon, though this has varied.
 - **Warranty.** 1-year warranty.
 
 ## Performance and Testing
@@ -88,7 +86,6 @@ The bow-back geometry on the Ash & Ember Solstice is the feature I keep coming b
 The Sunnydaze has a straighter backrest in the Mission tradition. It's not uncomfortable, but it's not designed around extended seating the way the Ash & Ember is. Fine for a mid-morning coffee. Less suited to a two-hour afternoon read.
 
 ![Teak Outdoor Garden Bench](/images/articles/outdoor-furniture-7.jpg)
-
 
 Seat slat spacing on both benches is reasonable. Neither has the too-wide gaps that make you aware you're sitting on slats rather than a surface, which is a more common problem in this category than it should be.
 
@@ -105,7 +102,6 @@ Both benches ship partially assembled and require final leg attachment and hardw
 Neither bench is something you move regularly. The Ash & Ember at 55 lbs is repositionable by one person with intent. The Sunnydaze at 47 lbs is marginally lighter but not meaningfully so. Pick your spot carefully before you set them down.
 
 ![Teak Outdoor Garden Bench](/images/articles/outdoor-furniture-8.jpg)
-
 
 If you're pairing a bench with other teak pieces, both designs work with a [teak outdoor dining set](/teak-outdoor-dining-set/) without clashing, though the Ash & Ember's bow-back has a slightly more contemporary profile that suits cleaner garden layouts. The Sunnydaze Mission style reads as more traditional and pairs naturally with classic or cottage garden settings.
 
@@ -126,7 +122,7 @@ The Sunnydaze's 675 lb weight capacity stands out. The bench doesn't flex or shi
 - Contemporary enough to suit modern garden designs
 
 **Cons.**
-- Around $590 is a real commitment
+- The price is a real commitment
 - Heavy enough that placement should be considered permanent
 - Bow-back styling won't suit every garden aesthetic, though I find it preferable
 
@@ -135,7 +131,7 @@ The Sunnydaze's 675 lb weight capacity stands out. The bench doesn't flex or shi
 **Pros.**
 - 675 lb weight capacity is exceptional at this price
 - Mission style is versatile across traditional garden and patio settings
-- More accessible entry point for teak furniture at around $280 to $320
+- More accessible entry point for teak furniture at
 - Solid enough construction to justify the purchase
 
 **Cons.**
@@ -149,8 +145,7 @@ The Ash & Ember Solstice is for the buyer who is placing a bench once and wants 
 
 ![Teak Outdoor Garden Bench](/images/articles/outdoor-furniture-1.jpg)
 
-
-The Sunnydaze is for the buyer who is committed to teak but not committed to the $590 outlay right now. It's also a reasonable choice for a second or third seating position on a larger property, where the primary seating gets the premium investment and secondary spots get something solid but less expensive. The Mission style has a traditional reading that suits established garden settings, formal borders, and older properties where contemporary design would look out of place.
+The Sunnydaze is for the buyer who is committed to teak but not committed to the outlay right now. It's also a reasonable choice for a second or third seating position on a larger property, where the primary seating gets the premium investment and secondary spots get something solid but less expensive. The Mission style has a traditional reading that suits established garden settings, formal borders, and older properties where contemporary design would look out of place.
 
 If you're adding cushions and want fabric that will actually hold up to outdoor exposure, our coverage of [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) applies here. The same principle holds for a bench: outdoor-rated fabric is not optional if you want cushions to last.
 
@@ -165,7 +160,6 @@ For everything else in this category, including loungers, dining chairs, and acc
 Grade A teak furniture, properly placed and left to weather naturally, has a functional lifespan of 25 to 50 years in outdoor conditions. Lower-grade teak will still outlast painted softwoods but may show significant surface checking and weathering variation within 7 to 10 years. The grade designation is worth paying attention to, not just the species name.
 
 ![Teak Outdoor Garden Bench](/images/articles/outdoor-furniture-2.jpg)
-
 
 ### Do I need to oil or seal a teak bench every year?
 
@@ -231,4 +225,3 @@ For most adults, yes. Sixty inches provides approximately 30 inches per person, 
   ]
 }
 </script>
-

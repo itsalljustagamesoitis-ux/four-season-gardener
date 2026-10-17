@@ -14,7 +14,7 @@ products:
   - id: "liquid-fence-deer-rabbit-repellent"
     role: "best_overall"
     article_specific_pros:
-      - "Ready-to-use formula , no mixing; trigger sprayer applies directly to plants"
+      - "Ready-to-use formula, no mixing; trigger sprayer applies directly to plants"
       - "Rain-resistant formula lasts 2-4 weeks outdoors"
     article_specific_cons:
       - "Strong sulfur/egg odor during and shortly after application"
@@ -24,7 +24,7 @@ products:
       - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
       - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
     article_specific_cons:
-      - "Can be triggered by other movement (blowing shrubs, passing people) , positioning matters"
+      - "Can be triggered by other movement (blowing shrubs, passing people), positioning matters"
 tags: ["birds-wildlife", "buyer guide"]
 disclosure_required: true
 noindex: false
@@ -65,7 +65,6 @@ A one-gallon ready-to-use trigger spray will cover a reasonably sized garden bed
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-5.jpg)
 
-
 ### Specificity of the Threat
 
 Deer aren't always the only problem. Rabbits will clean out your lower-level plantings while deer handle everything above three feet. A repellent that addresses both simultaneously reduces how many products you're cycling through. Similarly, if your issue includes raccoons raiding a feeder or cats digging in a seedbed, a motion-activated deterrent addresses all of them without requiring you to identify the culprit first.
@@ -78,7 +77,7 @@ If you're maintaining habitat for birds or pollinators, and many readers here ar
 
 ### Best Spray Repellent: Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon
 
-[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent) is currently around $18 to $22 for the one-gallon trigger-spray bottle, which is a reasonable entry point if you're treating a defined area.
+[Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent) is currently for the one-gallon trigger-spray bottle, which is a reasonable entry point if you're treating a defined area.
 
 The active mechanism is putrescent egg solids and garlic. It smells exactly as bad as that sounds during and immediately after application. Not bad-for-a-garden-product bad, but actually unpleasant, in a way that will have whoever is standing near you at the time making pointed remarks. The smell dissipates for humans within a few hours. For deer, the residual deterrent effect is the point.
 
@@ -86,10 +85,9 @@ What makes this formula work well in practice is the combination of contact dete
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-6.jpg)
 
-
 Rain resistance is real but limited. Under typical conditions, the formulation holds up for two to four weeks. After a sustained heavy rain event, plan to reapply. I'd schedule reapplication every three weeks during active growing season and after any significant storm, which in a wet spring means you're going through product faster than the label might imply.
 
-One practical note: if your property is large enough that treating multiple beds with a one-gallon trigger sprayer is going to become tedious, the concentrate version (ASIN B014UUZ8AC) is considerably more economical per square foot. At the time of writing it runs around $25 to $30 and mixes to make substantially more coverage. For 12 acres with multiple ornamental beds and a kitchen garden, I buy the concentrate.
+One practical note: if your property is large enough that treating multiple beds with a one-gallon trigger sprayer is going to become tedious, the concentrate version (ASIN B014UUZ8AC) is considerably more economical per square foot. At the time of writing it and mixes to make substantially more coverage. For 12 acres with multiple ornamental beds and a kitchen garden, I buy the concentrate.
 
 The product is safe around pets and children once fully dry, which matters if you have dogs working the property or kids in the garden. Don't apply it the morning of an outdoor event. Apply it the evening before and give it a full dry cycle overnight.
 
@@ -99,12 +97,11 @@ Compared to [Deer Out Deer Repellent](/deer-out-deer-repellent/), which uses pep
 
 ### Best Physical Deterrent: Orbit 62100 Yard Enforcer Motion-Activated Sprinkler
 
-The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler) runs around $35 to $45 at the time of writing and is, in my view, the most practical non-chemical deer deterrent for a garden bed or defined perimeter zone.
+The [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler with Day and Night Detection](product:orbit-yard-enforcer-sprinkler) and is, in my view, the most practical non-chemical deer deterrent for a garden bed or defined perimeter zone.
 
 The core advantage is the learning effect. Deer, rabbits, raccoons, and most other animals will learn to avoid a zone that has repeatedly startled them within two to three weeks of consistent deterrence. A spray repellent has to be refreshed on a schedule. A properly positioned motion sprinkler trains the animal to route around the area entirely. That's a different kind of protection.
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-7.jpg)
-
 
 The 120-degree detection arc covers up to 40 feet, which is enough to protect a full garden bed or a feeding station perimeter from a single unit. Day-only, night-only, and 24-hour detection modes mean you can set it to fire only at night if you know your deer pressure is nocturnal, which it usually is, while avoiding soaking every person or dog that walks past during the day. (I run mine on night-only mode for eight months of the year. The daytime mode is useful during planting periods when I've had ground squirrel problems, but that's a specific complaint for a different article.)
 
@@ -122,7 +119,6 @@ If you have a relatively compact garden, say two or three defined beds you're tr
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-8.jpg)
 
-
 If you have a persistent deer problem across a larger area, or you've used spray repellents and found the reapplication burden isn't sustainable for your schedule, add the [Orbit 62100 Yard Enforcer](product:orbit-yard-enforcer-sprinkler) to your highest-traffic entry point. The two work well together. The spray creates an aversive smell across the treated area. The sprinkler creates a startle deterrent at the approach zone. A deer that gets hit with water while also encountering a sulfur odor is going to reconsider that bed much more thoroughly than one encountering either stimulus alone.
 
 For large properties with serious deer pressure, the layered approach is not optional. A single spray application or a single sprinkler covering one entry point isn't going to hold against a persistent herd. You need perimeter coverage on multiple sides, consistent reapplication of the spray, and patience through the first two to three weeks while the animals learn the area is not safe.
@@ -138,7 +134,6 @@ For more on managing wildlife in and around your garden, including how to set up
 Under normal conditions, plan for every three weeks during the growing season. After heavy rain, reapply sooner. Products like Liquid Fence claim two to four weeks of rain resistance, and that's broadly accurate under light to moderate rain. A sustained three-day wet period will shorten it. The rule of thumb: if you've had more than an inch of rain in 24 hours, reapply within the next day or two.
 
 ![Deer Off Repellent](/images/articles/birds-wildlife-1.jpg)
-
 
 ### Will deer repellent spray harm my plants or pollinators?
 
@@ -204,4 +199,3 @@ Most putrescent egg and garlic-based repellents are labeled as safe for use on e
   ]
 }
 </script>
-

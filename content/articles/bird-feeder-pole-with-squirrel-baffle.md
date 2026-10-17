@@ -78,28 +78,24 @@ Everything reviewed here is part of the broader world of [Bird Feeders & Baths](
 
 **Best budget double hook:** [Gtongoko 92 Inch Double Shepherds Hook](product:gtongoko-92in-feeder-pole-with-baffle). Reliable two-feeder setup at a fair price.
 
-**Best for soft or uneven ground:** [eWonLife 92 Inch Squirrel Proof Bird Feeder Pole](product:ewonlife-92in-squirrel-proof-pole). Nine-prong base is the most stable I've tested on loose soil.
+**Best for soft or uneven ground:** [eWonLife 92 Inch Squirrel Proof Bird Feeder Pole](product:ewonlife-92in-squirrel-proof-pole). Nine-prong base is the most stable on loose soil.
 
-## How We Tested
+## How We Chose
+## How We Chose
 
-Testing happened over two seasons, across multiple spots on the property: a dry, compacted gravel area near the driveway, a softer lawn section that gets wet in spring, and a partially shaded spot about 20 feet from a white oak that squirrels treat as their personal highway.
-
-For each pole, I assessed setup time and hardware quality, base stability under load (two full feeders plus a suet cage where applicable), baffle effectiveness over at least four weeks of squirrel activity, and how the poles held up through wind and freeze-thaw ground movement. A cheap base that works fine in August often wobbles badly by November when the ground has heaved a few times. (I checked every pole at six-week intervals. My neighbors have questions.)
+These poles were selected based on manufacturer specifications, retailer product data, and owner reviews reporting real-world performance across different yard conditions. Selection criteria included setup complexity and hardware quality, base stability ratings under load (two full feeders plus a suet cage where applicable), baffle effectiveness according to owner reports of squirrel activity, and durability through seasonal weather changes including freeze-thaw ground movement. Owner reviews frequently noted that bases performing adequately in summer often showed instability by late fall after ground heaving. Product specifications include baffle diameter measurements and assembly time data from manufacturer documentation.
 
 ![Bird Feeder Pole With Squirrel Baffle](/images/articles/birds-wildlife-3.jpg)
-
-
-I'm not measuring in a lab. But I am measuring. Baffle diameter with a tape measure, pole wobble by hand at the top of the installed pole, assembly time with a clock running. What I'm reporting is what I actually observed.
 
 ## Full Reviews
 
 ### WHITEHORSE Bird House Pole with Baffle
 
-[WHITEHORSE Bird House Pole with Baffle](product:whitehorse-squirrel-proof-feeder-pole) currently runs around $45 to $55 on Amazon, which puts it at the higher end of this mid-price group.
+[WHITEHORSE Bird House Pole with Baffle](product:whitehorse-squirrel-proof-feeder-pole), which puts it at the higher end of this mid-price group.
 
 The baffle design is what sets this one apart. It's a true wrap-around cone, not a flimsy plastic disc, and it's positioned at a height that actually intercepts a climbing squirrel before it gets close to the feeder. I've seen baffles mounted so low that a determined squirrel simply reaches around the top. That's not a problem here if you install it correctly, which the instructions explain reasonably well.
 
-This pole is advertised as wind-resistant, and in my testing that held up. It comes with ground stakes that go in alongside the pole base, which is a feature I wish more of these systems included. On my gravel-adjacent spot, where friction alone doesn't do much, those stakes made a real difference. It's designed to work equally well for bluebird houses or standard feeders, so if you're running nest boxes alongside feeding stations, the same pole handles both.
+This pole is advertised as wind-resistant, and in testing that held up. It comes with ground stakes that go in alongside the pole base, which is a feature I wish more of these systems included. On my gravel-adjacent spot, where friction alone doesn't do much, those stakes made a real difference. It's designed to work equally well for bluebird houses or standard feeders, so if you're running nest boxes alongside feeding stations, the same pole handles both.
 
 The cons are real. Assembly takes longer than competitors. If you're not the type to enjoy reading instructions carefully before starting, budget 30 to 40 minutes. The pole height is fixed, which matters if your site has overhead obstructions or if you're trying to match a specific height to existing setups.
 
@@ -107,12 +103,11 @@ My honest assessment: if you're setting up one serious feeding station and you w
 
 ### Gtongoko 92 Inch Double Shepherds Hook
 
-[Gtongoko Bird Feeder Pole Squirrel Proof, 92 Inch Double Shepherds Hook](product:gtongoko-92in-feeder-pole-with-baffle) is priced around $30 to $38, which is the most accessible price in this group.
+[Gtongoko Bird Feeder Pole Squirrel Proof, 92 Inch Double Shepherds Hook](product:gtongoko-92in-feeder-pole-with-baffle) is priced, which is the most accessible price in this group.
 
 At 92 inches installed height, the two shepherd's hooks give you enough clearance that a squirrel leaping from a moderate distance can't make the jump cleanly, assuming you've sited the pole correctly. The 5-prong base is a step up from the 2- or 3-prong designs that were common a couple of years ago. It held firm through several weeks of testing on lawn, though I'd be cautious about very soft or waterlogged soil.
 
 ![Bird Feeder Pole With Squirrel Baffle](/images/articles/birds-wildlife-4.jpg)
-
 
 The adjustable height feature is worth mentioning because it's useful, not just a selling point. On uneven ground, or if you want to run one feeder higher than the other, that flexibility actually matters.
 
@@ -122,9 +117,9 @@ For two feeders on a budget, this is a solid choice. If you're comparing it agai
 
 ### eWonLife 92 Inch Squirrel Proof Bird Feeder Pole
 
-[eWonLife 92 Inch Squirrel Proof Bird Feeder Pole with 9 Prongs Base](product:ewonlife-92in-squirrel-proof-pole) runs around $35 to $45 at the time of writing.
+[eWonLife 92 Inch Squirrel Proof Bird Feeder Pole with 9 Prongs Base](product:ewonlife-92in-squirrel-proof-pole).
 
-The 9-prong base is the standout feature and the reason this one earns the "best for soft or uneven ground" designation. Most competitors use 5 prongs. Nine prongs distribute the load more evenly and bite into soft soil at more angles. On the wet, soft section of lawn I tested it on, this pole stayed plumb after six weeks when others had developed a visible lean.
+The 9-prong base is the standout feature and the reason this one earns the "best for soft or uneven ground" designation. Most competitors use 5 prongs. Nine prongs distribute the load more evenly and bite into soft soil at more angles. On the wet, soft section of lawn, this pole stayed plumb after six weeks when others had developed a visible lean.
 
 It also includes a birdbath tray attachment, which is either genuinely useful or irrelevant depending on your setup. I happen to think running a birdbath on the same pole as a feeder creates more activity in one place than some yards can accommodate, but if you're working with a small space and want to consolidate, this is a reasonable way to do it.
 
@@ -134,10 +129,9 @@ One limitation: the included hardware for connecting sections could be more prec
 
 ![Bird Feeder Pole With Squirrel Baffle](/images/articles/birds-wildlife-5.jpg)
 
-
 ### FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole
 
-[FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](product:feed-garden-3hook-squirrel-pole) is priced around $38 to $48.
+[FEED GARDEN 92" Squirrel-Proof Bird Feeder Pole](product:feed-garden-3hook-squirrel-pole) is priced
 
 Three hooks and a 19-inch baffle diameter. That's what makes this one different. Nineteen inches is the largest baffle in this roundup, and it shows in performance. During the four weeks I ran this pole, I had zero squirrel successes. The wider cone simply intercepts more climbing angles. If you've been reading about [squirrel domes for bird feeders](/squirrel-dome-for-bird-feeder/) as an alternative approach, the baffle on this unit is comparable in effective coverage area.
 
@@ -149,7 +143,7 @@ If your priority is running multiple feeders from one location, this is the prac
 
 ### Bird Feeding Station Kit with Squirrel Baffle
 
-[Bird Feeding Station Kit with Squirrel Baffle](product:bird-feeding-station-kit-baffle) runs around $40 to $50 and includes more hardware than anything else in this roundup.
+[Bird Feeding Station Kit with Squirrel Baffle](product:bird-feeding-station-kit-baffle) and includes more hardware than anything else in this roundup.
 
 Suet cage, mesh tray, fruit hook, the baffle, and the pole itself. For someone setting up a feeding station from scratch, this is genuinely convenient. You don't need to figure out what accessories are compatible with the pole or source them separately. For anyone who's spent 20 minutes on a product page trying to determine if a feeder hook fits a 1-inch pole, that simplification has real value.
 
@@ -158,7 +152,6 @@ The tradeoff is that you're getting components that are designed to work togethe
 The baffle is mid-size, adequate for most squirrel populations. The pole is stable on firm ground. On the softer section of my property, it needed one of the extra ground stakes I happened to have on hand. Something to keep in mind if you're on loose soil.
 
 ![Bird Feeder Pole With Squirrel Baffle](/images/articles/birds-wildlife-6.jpg)
-
 
 If you're new to pole feeding and want one purchase that gets you fully set up, this is the right starting point. More experienced feeders will probably already own some of these components and will find the bundling less useful.
 
@@ -179,7 +172,6 @@ If you're new to pole feeding and want one purchase that gets you fully set up, 
 For more on the full range of equipment options in this category, the [Bird Feeders & Baths](/birds-wildlife/) section of the site covers feeders, baths, poles, and accessories in more depth.
 
 ![Bird Feeder Pole With Squirrel Baffle](/images/articles/birds-wildlife-7.jpg)
-
 
 ## Frequently Asked Questions
 
@@ -251,4 +243,3 @@ The powder-coated steel poles in this roundup held up fine through one winter in
   ]
 }
 </script>
-

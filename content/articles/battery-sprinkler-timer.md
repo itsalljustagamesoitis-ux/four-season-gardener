@@ -14,38 +14,38 @@ products:
   - id: "orbit-62034-single-dial-hose-timer"
     role: "best_overall"
     article_specific_pros:
-      - "No batteries, no app, no Wi-Fi , clockwork mechanical dial operates indefinitely"
+      - "No batteries, no app, no Wi-Fi, clockwork mechanical dial operates indefinitely"
       - "Twist to set watering duration up to 120 minutes; automatic shutoff"
     article_specific_cons:
-      - "One zone, one time setting , no scheduling multiple waterings per day"
+      - "One zone, one time setting, no scheduling multiple waterings per day"
   - id: "orbit-bhyve-xd-2port-timer"
     role: "also_consider"
     article_specific_pros:
-      - "Two independent zones from one faucet , water front beds and back beds separately"
+      - "Two independent zones from one faucet, water front beds and back beds separately"
       - "WeatherSense technology auto-skips watering after rain"
     article_specific_cons:
-      - "Wi-Fi Hub is a separate device , adds cost and complexity"
+      - "Wi-Fi Hub is a separate device, adds cost and complexity"
   - id: "rachio-3-8zone-controller"
     role: "also_consider"
     article_specific_pros:
       - "Weather Intelligence automatically skips scheduled watering when rain is forecast"
       - "App controls watering from anywhere; Alexa and Google Home compatible"
     article_specific_cons:
-      - "Requires Wi-Fi near the controller , common garage locations may need an extender"
+      - "Requires Wi-Fi near the controller, common garage locations may need an extender"
   - id: "flexzilla-garden-hose-50ft"
     role: "also_consider"
     article_specific_pros:
-      - "Hybrid polymer remains flexible in below-freezing temperatures , won't go stiff in early spring"
+      - "Hybrid polymer remains flexible in below-freezing temperatures, won't go stiff in early spring"
       - "SwivelGrip fittings rotate to prevent hose kinking at the tap connection"
     article_specific_cons:
       - "Heavier than cheap expandable hoses when filled with water"
   - id: "rts-50gal-rain-barrel"
     role: "also_consider"
     article_specific_pros:
-      - "Flat-back design mounts flush against a house or fence , minimal footprint"
+      - "Flat-back design mounts flush against a house or fence, minimal footprint"
       - "Brass spigot connects directly to a standard garden hose for gravity-fed watering"
     article_specific_cons:
-      - "50-gallon capacity is emptied quickly in dry periods , multiple barrels often needed"
+      - "50-gallon capacity is emptied quickly in dry periods, multiple barrels often needed"
 tags: ["irrigation", "roundup"]
 disclosure_required: true
 noindex: false
@@ -62,7 +62,7 @@ faq:
     answer: "Remove the timer from the faucet before the first hard freeze, drain any residual water from the valve body, and store it indoors. Leaving a timer connected through freezing temperatures can crack the solenoid housing or split the valve seat, which is not covered under most manufacturers' warranties."
 ---
 
-Most battery sprinkler timers solve a simple problem: you set a schedule, walk away, and the water runs without you. But the category has expanded enough that "battery timer" now covers everything from a $13 mechanical dial with no electronics whatsoever to app-connected two-zone controllers that check the weather forecast before deciding whether to run. Choosing the wrong tier wastes either money or time, and the wrong hose to go with it wastes both.
+Most battery sprinkler timers solve a simple problem: you set a schedule, walk away, and the water runs without you. But the category has expanded enough that "battery timer" now covers everything from a mechanical dial with no electronics whatsoever to app-connected two-zone controllers that check the weather forecast before deciding whether to run. Choosing the wrong tier wastes either money or time, and the wrong hose to go with it wastes both.
 
 This roundup covers five products that work together across a complete hose-end irrigation setup, anchored by the timers that actually automate your watering. If you're building out or revisiting your [Irrigation](/irrigation/) approach from scratch, the range here spans beginner-simple to genuinely smart, and I'll be direct about which tier is worth the step up.
 
@@ -72,11 +72,9 @@ This roundup covers five products that work together across a complete hose-end 
 
 [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](product:orbit-62034-single-dial-hose-timer)
 
-**Currently around $13 on Amazon.**
-
 This is a clockwork device. There are no batteries, no app, no Bluetooth pairing sequence, and nothing to charge. You twist the dial to your desired watering duration, up to 120 minutes, and it shuts off automatically when the time is up. That's the product.
 
-For readers who have been forgetting to turn off the hose and coming back to a flooded bed an hour later, that's exactly what this solves. The mechanical spring mechanism operates indefinitely under normal conditions. I've had one on a back-fence spigot for going on four years without a single failure, which I can't say about every battery-powered unit I've tested.
+For readers who have been forgetting to turn off the hose and coming back to a flooded bed an hour later, that's exactly what this solves. The mechanical spring mechanism operates indefinitely under normal conditions. I've had one on a back-fence spigot for going on four years without a single failure, which I can't say about every battery-powered unit.
 
 The limitations are real and worth stating plainly. There's one zone, one time setting, and no ability to schedule multiple watering cycles per day. Rain will not affect it. If the dial is set to 45 minutes, the water runs for 45 minutes regardless of whether it's been raining for three days. No weather intelligence, no remote control, nothing.
 
@@ -84,7 +82,7 @@ The limitations are real and worth stating plainly. There's one zone, one time s
 - No batteries, no charging, no pairing. Works indefinitely.
 - Twist-set operation takes about four seconds.
 - Automatic shutoff prevents overwatering if you walk away.
-- Under $15. Hard to argue with.
+- entry-level. Hard to argue with.
 
 **Cons.**
 - Single zone only. One faucet, one timer, one setting.
@@ -100,9 +98,6 @@ The limitations are real and worth stating plainly. There's one zone, one time s
 [Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub](product:orbit-bhyve-xd-2port-timer)
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-3.jpg)
-
-
-**Currently around $75-$85 on Amazon for the timer and hub bundle.**
 
 This is where battery-powered hose timers start doing something genuinely useful: two independent zones from a single faucet, with app control and weather-based skipping. If you have front-porch containers and a back raised bed both running off the same water source, the B-hyve XD lets you schedule them separately without running a second line.
 
@@ -127,14 +122,11 @@ Compared to the older [Orbit 62034 Single-Dial Mechanical Hose Watering Timer](p
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-4.jpg)
 
-
 ,
 
 ### Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
 
 [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller)
-
-**Currently around $170-$180 on Amazon.**
 
 The Rachio 3 is not a battery sprinkler timer. It's a hardwired controller that replaces the box on your garage wall. I'm including it here because a portion of readers searching for irrigation timers have an inground system already and are looking to replace a dumb controller with something smarter, and the Rachio 3 is the correct answer for that use case.
 
@@ -164,16 +156,13 @@ Alexa and Google Home compatibility is there if you use either platform. EPA Wat
 
 [Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.](product:flexzilla-garden-hose-50ft)
 
-**Currently around $55-$65 on Amazon.**
-
 Every irrigation timer review should come with a hose recommendation, because a timer connected to a hose that kinks at the spigot is not an automated system, it's an exercise in frustration. The Flexzilla is the hose I'd pair with either of the Orbit timers above.
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-5.jpg)
 
-
 The hybrid polymer construction stays flexible in cold temperatures. Early spring mornings when a standard rubber hose is stiff as pipe, the Flexzilla is still limp and manageable. The SwivelGrip fittings rotate at the connection point, which eliminates the kink that forms at the faucet on most hoses. That's a small thing until you've gone back to straighten the hose five times during a single session, and then it's not small at all.
 
-A note on "kink-free" claims generally. Most cheap hoses sold as kink-free kink. The Flexzilla holds up to the claim in actual use, which is not the case for the $20 expandable hoses at every hardware store. Those are lighter when empty, which is appealing if you're carrying the hose frequently, but they do not last, and kink-free is not an accurate description of their behavior in practice.
+A note on "kink-free" claims generally. Most cheap hoses sold as kink-free kink. The Flexzilla holds up to the claim in actual use, which is not the case for the expandable hoses at every hardware store. Those are lighter when empty, which is appealing if you're carrying the hose frequently, but they do not last, and kink-free is not an accurate description of their behavior in practice.
 
 The weight when filled is real. At 50 feet, this hose is not light when there's water in it. If you're dragging it across a large property regularly, that's worth factoring in.
 
@@ -195,8 +184,6 @@ The weight when filled is real. At 50 feet, this hose is not light when there's 
 
 [RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut](product:rts-50gal-rain-barrel)
 
-**Currently around $90-$100 on Amazon.**
-
 Rain barrel content belongs in any irrigation roundup covering hose-end setups, because gravity-fed systems are the one application where battery timers and soaker hoses work together without pressure requirements. The RTS 50-gallon is the best-established barrel on Amazon in this category and the one I'd recommend without hesitation, with one significant practical caveat.
 
 The flat-back design is genuinely useful. It mounts flush against a house wall or fence, which matters if you're not trying to make the rain barrel a landscape feature. The brass spigot connects directly to a standard garden hose, and gravity pressure is adequate for soaker hoses and drip lines, though not for sprinklers. The resin construction won't rust, and it won't leach anything into your collected water.
@@ -204,7 +191,6 @@ The flat-back design is genuinely useful. It mounts flush against a house wall o
 The caveat: 50 gallons empties fast in a dry stretch. During the dry weeks I get in late July, 50 gallons is gone in one or two morning sessions on a raised bed setup. Multiple barrels connected in series solve this, and the RTS design supports linking additional units, but the single-barrel purchase is more of a starting point than a complete water storage solution in most gardens. If your area runs summer restrictions on municipal water use, this barrel plus a linked second unit is a practical response. One alone is not enough for anything beyond a small container setup.
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-6.jpg)
-
 
 **Pros.**
 - Flat-back design fits against walls and fences with minimal footprint.
@@ -237,7 +223,6 @@ The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-co
 Battery-powered hose timers share a common limitation in climates with hard winters and cold shoulder seasons: battery chemistry does not perform well near freezing. Alkaline batteries lose significant capacity below 40°F. If you're running a battery timer through October in a climate where nights are dropping into the 30s, put fresh batteries in at the start of that stretch. Don't rely on whatever was installed in May.
 
 ![Battery Sprinkler Timer](/images/articles/irrigation-7.jpg)
-
 
 For the B-hyve XD specifically, I'd recommend lithium AA batteries over alkaline for cold-weather use. They're more expensive, around $1.50-$2 per battery versus $0.50-$0.75 for alkaline, but they hold capacity in the cold substantially better. That's a $6-$8 investment to protect a $75 timer, which is straightforward math.
 
@@ -295,4 +280,3 @@ A hose-end timer attaches to an outdoor faucet and controls water flow through a
   ]
 }
 </script>
-

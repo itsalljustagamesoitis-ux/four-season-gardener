@@ -28,7 +28,7 @@ products:
   - id: "palram-martinique-10x12-gazebo"
     role: "also_consider"
     article_specific_pros:
-      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
+      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light, no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
     article_specific_cons:
       - "Premium price for a permanent structure; installation requires two people and half a day"
@@ -36,7 +36,7 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
 tags: ["structures", "buyer guide"]
@@ -81,19 +81,19 @@ Integrated gutters on a rigid-roof gazebo channel water off the panels and away 
 ## Top Picks
 
 ### Best Permanent Hardtop Gazebo: Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof
-The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) is the structure I'd buy if I were starting from scratch and wanted a single permanent outdoor living space. Currently around $1,100 to $1,300 on Amazon at the time of writing, depending on availability.
+The [Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo) is the structure I'd buy if I were starting from scratch and wanted a single permanent outdoor living space. 
 The twin-wall polycarbonate roof panels block 99.9% UV and diffuse rather than block light, which matters when you’ve sat under a solid metal roof in August. The powder-coated aluminium frame won't rust, the gutter channels are integrated into the roofline profile, and Palram backs this with a 10-year limited warranty. At 120 square feet of shade coverage, a full outdoor dining set fits comfortably with good clearance to pull chairs out.
 Two honest caveats though. First, the open-air design means the sides offer no wind or rain protection. In a hard driving rain, you're going to get wet. Second, installation takes two people and a solid half-day. The instructions are functional but assume some assembly competence. Don't attempt it solo with the belief you'll manage because you won't. At the point where you're holding a roof panel and need someone to align the frame simultaneously (I've seen this go wrong, and it's demoralising at the four-hour mark).
 
 ![Gazebo With Gutters](/images/articles/structures-7.jpg)
 
-Compared to something like the Sunjoy 10x12 steel-roof gazebo, which runs around $800 to $900, the Palram costs more but the polycarbonate roof justifies it. It will have no condensation drip, better light quality underneath, and no rust risk on the roof panels themselves over time.
+Compared to something like the Sunjoy 10x12 steel-roof gazebo, which, the Palram costs more but the polycarbonate roof justifies it. It will have no condensation drip, better light quality underneath, and no rust risk on the roof panels themselves over time.
 **The verdict:** For a permanent structure you're anchoring to a prepared pad, this is the one to go for. The 10-year warranty is also pretty meaningful.
 
 ### Best Natural Wood Option: Yardistry 10' x 12' Cedar Wood Pergola Kit
-The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) sits in a different category from the Palram. It's a pergola base, not a closed-roof gazebo, so in its standard configuration it provides shade but not rain coverage. Currently around $1,400 to $1,600 depending on retailer and season.
+The [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) sits in a different category from the Palram. It's a pergola base, not a closed-roof gazebo, so in its standard configuration it provides shade but not rain coverage. 
 The cedar is North American sourced, pre-cut, pre-drilled, and pre-stained, which reduces assembly time significantly compared to working from raw lumber. The wood is naturally rot-resistant without chemical treatment, which is a genuine advantage for anyone concerned about what's sitting in their soil or near their planting beds.
-Where it becomes relevant to a gazebo-with-gutters search? Yardistry sells polycarbonate roof panel add-ons separately (plan for an additional $400 to $600 at time of writing) that convert the pergola into a rain-shedding structure with proper drainage off the panels. With those panels fitted, this becomes a legitimate hardtop alternative with considerably more visual warmth than any aluminium kit.
+Where it becomes relevant to a gazebo-with-gutters search? Yardistry sells polycarbonate roof panel add-ons separately (plan for an additional polycarbonate panel purchase) that convert the pergola into a rain-shedding structure with proper drainage off the panels. With those panels fitted, this becomes a legitimate hardtop alternative with considerably more visual warmth than any aluminium kit.
 The maintenance commitment is unfortunately quite real and non-negotiable: cedar requires restaining every two to three years. If you're the kind of gardener who approaches maintenance methodically, you'll factor this in and manage it. If you're looking for a fit-and-forget structure, my advice would be to buy the Palram.
 
 ![Gazebo With Gutters](/images/articles/structures-8.jpg)
@@ -102,13 +102,13 @@ The maintenance commitment is unfortunately quite real and non-negotiable: cedar
 
 ### Best Mid-Range Steel Shed: Arrow Select 10' x 8' Steel Storage Shed, Charcoal
 Sheds handle drainage differently from gazebos, the roof pitch directs water off the panels, and gutters can be added as aftermarket accessories. But for anyone planning a combined outdoor living and storage setup, the shed question comes up in the same buying session.
-The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed) currently runs around $500 to $600. At 80 square feet, it handles a full complement of lawn and garden equipment, mower, string trimmer, long-handled tools, fertiliser bags. The electro-galvanised steel panels resist rust, the reinforced corners handle wind racking better than standard steel panel sheds, and the padlockable doors are a basic but necessary feature.
-Two things readers consistently miss: First, the floor kit is sold separately. If you order this without accounting for the floor kit (around $80 to $100 additional), you'll be improvising a base. Plan for it upfront would be my advice. Secondly, steel walls condensate in humid summers. A ventilation kit is worth adding, particularly if you're storing anything that moisture can damage.
+The [Arrow Select 10' x 8' Steel Storage Shed, Charcoal](product:arrow-select-10x8-shed). At 80 square feet, it handles a full complement of lawn and garden equipment, mower, string trimmer, long-handled tools, fertiliser bags. The electro-galvanised steel panels resist rust, the reinforced corners handle wind racking better than standard steel panel sheds, and the padlockable doors are a basic but necessary feature.
+Two things readers consistently miss: First, the floor kit is sold separately. If you order this without accounting for the floor kit, you'll be improvising a base. Plan for it upfront would be my advice. Secondly, steel walls condensate in humid summers. A ventilation kit is worth adding, particularly if you're storing anything that moisture can damage.
 Assembly is a one-person job technically, but it will take a full day and require some patience at the panel alignment stages. Two people makes it a half-day.
 **The verdict:** The practical workhorse option. No rot, no painting, lower upfront cost than wood alternatives. The condensation issue is manageable with ventilation; don't let it be a reason to overpay elsewhere.
 
 ### Best Low-Maintenance Resin Shed: Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed
-The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) is a smaller footprint (49 square feet) at a mid-range price, currently around $450 to $550.
+The [Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed](product:suncast-sutton-7x7-shed) is a smaller footprint (49 square feet) at a mid-range price
 The argument for resin over steel or wood is purely about long-term maintenance effort. No painting, no rust prevention, no rot treatment, no staining. The double-wall panel construction is more rigid than single-wall resin sheds, which have a tendency to bow and flex in temperature extremes that are a fact of life in Zone 6. The skylight panel is a practical feature when you're trying to find something in a dim interior without reaching for your phone.
 
 ![Gazebo With Gutters](/images/articles/structures-1.jpg)
@@ -130,7 +130,6 @@ For anyone building out a complete outdoor property setup, the full range of str
 On a rigid hardtop gazebo with polycarbonate or metal roof panels, yes. Aftermarket aluminium gutter kits can be attached to the panel edges with appropriate brackets. On a fabric canopy gazebo, gutters aren't a practical option because the canopy lacks a fixed edge profile. If you're planning to add gutters, confirm your gazebo's roof panel edge design before purchasing a kit.
 
 ![Gazebo With Gutters](/images/articles/structures-2.jpg)
-
 
 ### What's the difference between a gazebo and a pergola for rain coverage?
 A gazebo typically has a solid or semi-solid roof that sheds rain. A pergola has an open lattice or slatted roof that provides partial shade but no rain protection in its base form. The Yardistry cedar kit in this guide is a pergola that becomes rain-shedding only with the polycarbonate panel add-on. If rain coverage matters, confirm you're buying a closed-roof structure or planning the add-on purchase from the outset.

@@ -21,8 +21,8 @@ products:
   - id: "titan-grade-a-teak-adirondack-chair"
     role: "alternative"
     article_specific_pros:
-      - "Grade A teak (heartwood-only) is the top tier , densest, most oil-rich, longest-lasting"
-      - "Traditional Adirondack design in real wood , warm grain aesthetic POLYWOOD resin can't replicate"
+      - "Grade A teak (heartwood-only) is the top tier, densest, most oil-rich, longest-lasting"
+      - "Traditional Adirondack design in real wood, warm grain aesthetic POLYWOOD resin can't replicate"
     article_specific_cons:
       - "Requires oiling every 1-2 years to maintain golden brown color; weathers to silver-grey without treatment"
 tags: ["outdoor-furniture", "comparison"]
@@ -45,7 +45,7 @@ faq:
     answer: "The POLYWOOD Nautical Curveback is the stronger practical choice for most buyers. It costs less upfront than the Grade A teak, requires no maintenance, and will not surprise you with a degraded finish after one missed year of oiling. The Ash and Ember teak is the right chair if you specifically want real wood and will actually oil it on schedule. That is a smaller group of buyers than the marketing for teak furniture tends to assume."
 ---
 
-There are two chairs worth serious consideration if you're looking for a large Adirondack chair that will hold up beyond a single season. The [POLYWOOD Nautical Curveback Adirondack Chair](product:polywood-nautical-adirondack-chair) currently runs around $350 to $400 on Amazon depending on color, and the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) sits closer to $450 to $500. Both are large-format chairs. Both are built for actual outdoor use rather than three seasons of optimistic neglect followed by a trip to the curb. The question is what you want to manage, and what you want to look at.
+There are two chairs worth serious consideration if you're looking for a large Adirondack chair that will hold up beyond a single season. The [POLYWOOD Nautical Curveback Adirondack Chair](product:polywood-nautical-adirondack-chair) is the value option in this comparison, and the [Ash & Ember Grade A Solid Teak Wood Adirondack Chair](product:titan-grade-a-teak-adirondack-chair) is the premium pick. Both are large-format chairs. Both are built for actual outdoor use rather than three seasons of optimistic neglect followed by a trip to the curb. The question is what you want to manage, and what you want to look at.
 
 I've been buying and replacing outdoor furniture for this property for over fifteen years, and I've learned that the Adirondack category has two reliable failure modes. The first is cheap resin that chalks and splits by year three. The second is wood that someone bought with good intentions and then never oiled. Both of these chairs sidestep those failure modes, but they do it differently, and the difference matters depending on your situation. For a broader look at what's worth buying and what isn't, the site's [Outdoor Furniture](/outdoor-furniture/) section covers the full range of categories.
 
@@ -64,14 +64,12 @@ A quick comparison on the numbers that matter.
 - Material: HDPE lumber (recycled plastic)
 - Weight: approximately 37 lbs
 - Maintenance: none required
-- Price: currently around $350 to $400
 - Color options: broad range, factory-applied
 
 **Ash & Ember Grade A Teak**
 - Material: Grade A solid teak
 - Weight: 35 to 40 lbs
 - Maintenance: oiling every one to two years to retain color
-- Price: currently around $450 to $500
 - Color: natural golden brown, silvers without treatment
 
 Neither chair folds. If portability matters to you, that's a separate conversation and a different product category.
@@ -110,7 +108,7 @@ The chair itself follows a traditional Adirondack pattern with wide armrests, a 
 
 The weight of the Ash & Ember is comparable to the POLYWOOD at 35 to 40 lbs. Solid teak is a dense material. You're not carrying this chair around the yard regularly.
 
-At $450 to $500, this is a premium purchase. The Grade A teak justifies the price relative to lower-grade teak chairs, but you're paying for material quality and longevity, not for a chair that maintains itself.
+At that price point, this is a premium purchase. The Grade A teak justifies the price relative to lower-grade teak chairs, but you're paying for material quality and longevity, not for a chair that maintains itself.
 
 ## Verdict
 

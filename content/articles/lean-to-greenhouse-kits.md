@@ -14,7 +14,7 @@ products:
   - id: "palram-lean-to-greenhouse"
     role: "best_overall"
     article_specific_pros:
-      - "Attaches to a house wall , uses structural support and wall heat for efficiency"
+      - "Attaches to a house wall, uses structural support and wall heat for efficiency"
       - "Adjustable roof vent provides passive ventilation without electricity"
     article_specific_cons:
       - "Requires a south- or west-facing wall for adequate light"
@@ -24,7 +24,7 @@ products:
       - "Twin-wall polycarbonate roof panels retain more heat than single-wall alternatives"
       - "Compact 6x8 footprint fits most suburban backyards; smallest practical full greenhouse size"
     article_specific_cons:
-      - "Lower internal headroom than 8x12 or 8x16 models , limits tall-crop growing"
+      - "Lower internal headroom than 8x12 or 8x16 models, limits tall-crop growing"
   - id: "palram-snap-grow-6x12-greenhouse"
     role: "also_consider"
     article_specific_pros:
@@ -73,9 +73,6 @@ The 4x8 footprint (32 square feet of growing space) won't impress anyone growing
 
 ![Lean To Greenhouse Kits](/images/articles/structures-2.jpg)
 
-
-Currently around $800 to $900 on Amazon, depending on the seller and timing.
-
 **Pros**
 - Shares wall heat and structural support passively
 - Adjustable roof vent, no electrical requirement
@@ -99,7 +96,7 @@ The step up to 48 square feet and a freestanding format. The twin-wall polycarbo
 
 The 6x8 footprint is the smallest size I'd call a practical full greenhouse, as opposed to a cold frame with ambitions. You can fit a staging bench down one side, leave a working aisle, and actually move around inside without turning sideways. The galvanized steel base frame is included, same as the 4x8, and for the same reason: base rust is a long-term structural problem that this prevents.
 
-The complaints are predictable. Headroom is lower than 8x12 or larger models, which rules out tall crops like indeterminate tomatoes unless you're training them at an angle and don't mind bending. Assembly still requires two people and a full day, despite the smaller size. (I'd budget a day and a half if you're doing this without experience. The instructions are adequate but not generous.) The 6x8 currently runs around $700 to $850 on Amazon, though this listing has had third-party-seller-only availability in recent periods, which can affect both price and shipping reliability. Check the listing before you buy.
+The complaints are predictable. Headroom is lower than 8x12 or larger models, which rules out tall crops like indeterminate tomatoes unless you're training them at an angle and don't mind bending. Assembly still requires two people and a full day, despite the smaller size. (I'd budget a day and a half if you're doing this without experience. The instructions are adequate but not generous.) The 6x8, though this listing has had third-party-seller-only availability in recent periods, which can affect both price and shipping reliability. Check the listing before you buy.
 
 **Pros**
 - Twin-wall polycarbonate roof offers better insulation than single-wall alternatives
@@ -128,8 +125,6 @@ At 72 square feet, the 6x12 gives you meaningfully more working room than the 6x
 
 The significant limitation is the single-wall polycarbonate panels. Compared to the twin-wall roof on the Hybrid 6x8, the insulation value is lower. If you're using this primarily in spring and fall and your winters are mild, it won't matter much. If you're trying to maintain above-freezing temperatures through January without supplemental heat, the single-wall panels will work against you, and you'll be running a heat source more often than you'd like. This is the same tradeoff that comes up when comparing double-pane versus single-pane windows in an [insulated garden shed](/insulated-garden-shed/) build: the upfront savings can translate into higher operating costs over time.
 
-Currently around $850 to $1,000 on Amazon.
-
 **Pros**
 - Tool-free SmartLock assembly, legitimately easier than standard kits
 - Starter shelf and hardware included
@@ -151,10 +146,9 @@ The Snap & Grow 6x12 is the pick if ease of assembly is your primary concern and
 
 ![Lean To Greenhouse Kits](/images/articles/structures-4.jpg)
 
-
 This is where the category gets serious. The Essence 8x16 is 128 square feet, 4mm twin-wall polycarbonate panels on all surfaces (not just the roof), a powder-coated aluminum frame rated for 15 lbs per square foot of snow load, a sliding door with a lockable handle, and built-in rain gutters. The panels block 99.9% of UV while diffusing light evenly rather than creating hot spots, which matters for anything other than seedlings.
 
-At roughly $1,800 to $2,000, this is a different purchase category than the others on this list. If you're growing year-round, starting multiple crop varieties from seed, or overwintering plants with any real cold sensitivity, this is the structure that does that work reliably. The Snap & Grow above can bridge seasons. The Essence is a proper year-round growing environment. I'd compare it loosely to the Juliana Ambassador in terms of serious-gardener intent, though the Juliana runs significantly higher and is mostly direct-purchase.
+At, this is a different purchase category than the others on this list. If you're growing year-round, starting multiple crop varieties from seed, or overwintering plants with any real cold sensitivity, this is the structure that does that work reliably. The Snap & Grow above can bridge seasons. The Essence is a proper year-round growing environment. I'd compare it loosely to the Juliana Ambassador in terms of serious-gardener intent, though the Juliana runs significantly higher and is mostly direct-purchase.
 
 The practical constraints are real. Assembly requires two people and a full weekend, not a day. There is no base frame included, which means you need a prepared, level foundation before you start. Poured concrete perimeter, timber frame bolted down, or a purpose-built greenhouse base kit are all reasonable approaches, but it's a project on top of a project. Budget for it.
 
@@ -169,7 +163,7 @@ For anyone who has outgrown the 6x8 or 6x12 and is ready to treat the greenhouse
 **Cons**
 - No base frame included; requires a prepared level foundation before assembly
 - Two-person, full-weekend assembly
-- At $1,800 to $2,000, a significant investment that warrants careful site planning
+-, a significant investment that warrants careful site planning
 
 ,
 
@@ -180,7 +174,6 @@ For anyone who has outgrown the 6x8 or 6x12 and is ready to treat the greenhouse
 The 4x8 Hybrid is the only genuine lean-to in this group. The others are freestanding structures that solve the same space problem from a different angle. If you have a suitable wall (south or west facing, structurally sound, accessible), the lean-to format is worth prioritizing. You gain passive heat, reduce your assembly footprint, and the structure is inherently more stable against wind than a freestanding unit of equivalent size. If no wall is available or the wall you have faces the wrong direction, the compact freestanding options are the practical alternative.
 
 ![Lean To Greenhouse Kits](/images/articles/structures-5.jpg)
-
 
 ### Single-Wall vs. Twin-Wall Polycarbonate
 
@@ -203,4 +196,3 @@ All four kits include at least one roof vent. For anything larger than the 4x8, 
 Every kit here requires two people for safe assembly, without exception. The Snap & Grow comes closest to a single-person job, but holding frame sections in alignment while connecting them is a two-person task. For the Essence 8x16, plan a full weekend and don't underestimate the foundation prep time that comes before the build itself.
 
 For anyone considering full-property structure planning, the [garden structures hub](/structures/) covers sheds, gazebos, and greenhouses together, which is useful context if you're making decisions about multiple structures at once.
-

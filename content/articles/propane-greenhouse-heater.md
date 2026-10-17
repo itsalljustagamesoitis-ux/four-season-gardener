@@ -14,17 +14,17 @@ products:
   - id: "mr-heater-portable-buddy-b002"
     role: "also_consider"
     article_specific_pros:
-      - "Low-oxygen shutoff and tip-over safety , critical for enclosed greenhouse use"
+      - "Low-oxygen shutoff and tip-over safety, critical for enclosed greenhouse use"
       - "9,000 BTU heats spaces up to 225 sq ft"
     article_specific_cons:
-      - "Requires ventilation in enclosed spaces , produces moisture and CO"
+      - "Requires ventilation in enclosed spaces, produces moisture and CO"
   - id: "propane-heater-18kbtu-b0g5"
     role: "also_consider"
     article_specific_pros:
       - "18,000 BTU handles medium greenhouses up to 450 sq ft"
-      - "Ships with regulator and hose for 20-lb tank , ready to use"
+      - "Ships with regulator and hose for 20-lb tank, ready to use"
     article_specific_cons:
-      - "Requires ventilation , not for unvented enclosed spaces"
+      - "Requires ventilation, not for unvented enclosed spaces"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -61,7 +61,6 @@ A greenhouse heater that fails at 2 a.m. in January is not a minor inconvenience
 
 ![Propane Greenhouse Heater](/images/articles/structures-6.jpg)
 
-
 Propane combustion produces water vapor and carbon monoxide. In a well-ventilated space, this is manageable. In a sealed greenhouse, it accumulates. Every propane heater I'm aware of, including both units covered here, carries explicit warnings about this. The manufacturers are not being overly cautious. If you're running a propane heater in an enclosed greenhouse, you need a carbon monoxide detector and you need a source of fresh air exchange, even a small one.
 
 On the plant side: propane combustion also increases humidity. For most overwinter crops, that's tolerable. For succulents or anything prone to rot in damp conditions, it's a real concern.
@@ -80,8 +79,7 @@ At 9,000 BTU on its high setting, it's rated for spaces up to 225 square feet. T
 
 ![Propane Greenhouse Heater](/images/articles/structures-7.jpg)
 
-
-The unit runs on 1-lb propane canisters, which burn through fast at full output. Figure roughly 3 to 4 hours on a small canister at high. For overnight frost protection, you will need the adapter hose to connect to a 20-lb tank (the [F273702](product:f273702-propane-adapter-hose) hose is the standard fit, around $25 at the time of writing). That's an extra purchase, and it should be factored into the total cost. The heater itself currently runs around $80 to $90 on Amazon.
+The unit runs on 1-lb propane canisters, which burn through fast at full output. Figure roughly 3 to 4 hours on a small canister at high. For overnight frost protection, you will need the adapter hose to connect to a 20-lb tank (the [F273702](product:f273702-propane-adapter-hose) hose is the standard fit at the time of writing). That's an extra purchase, and it should be factored into the total cost. The heater itself.
 
 What the Portable Buddy does well: it's reliable, the safety features work, it starts easily in cold temperatures, and it has a decades-long track record. I've seen these in more small greenhouse setups than I can count. What it doesn't do: it won't save you in a serious cold snap if your greenhouse is over 200 square feet and poorly insulated.
 
@@ -89,10 +87,9 @@ What the Portable Buddy does well: it's reliable, the safety features work, it s
 
 The [18,000 BTU Propane Heater for Garages & Yards with Regulator and Hose](product:propane-heater-18kbtu-b0g5) is the step up from the Portable Buddy for growers who need more coverage. At 18,000 BTU, it's rated for spaces up to 450 square feet, and it ships with the regulator and hose already included, which matters because the Portable Buddy doesn't.
 
-The real advantage here is output. If you have a 12-by-20 or 14-by-20 greenhouse and you're trying to keep temperatures above freezing through a cold night, this unit gets you closer to viable coverage than the Mr. Heater can. It's currently priced around $90 to $110, which puts it in a similar range to the Portable Buddy with its hose adapter, making it more straightforward value for anyone with a larger space.
+The real advantage here is output. If you have a 12-by-20 or 14-by-20 greenhouse and you're trying to keep temperatures above freezing through a cold night, this unit gets you closer to viable coverage than the Mr. Heater can. It's currently priced, which puts it in a similar range to the Portable Buddy with its hose adapter, making it more straightforward value for anyone with a larger space.
 
 ![Propane Greenhouse Heater](/images/articles/structures-8.jpg)
-
 
 The downside is the brand. This is a generic product with limited warranty support and less documentation of long-term reliability. I wouldn't use it as a sole heat source for anything irreplaceable. As a backup heater or a primary heater for a structure you're watching carefully, it's acceptable. As the only line of defense for a serious plant collection, the Mr. Heater's established safety record gives it an edge.
 
@@ -106,18 +103,17 @@ Placement, ventilation, and monitoring are the three things you control.
 
 **Ventilation.** Crack a vent or leave a door slightly ajar. Even a 2-inch gap at ground level and a top vent open a few inches will allow adequate air exchange. Yes, this lets some heat out. It also lets carbon monoxide out. This is the trade-off and it is not negotiable.
 
-**Monitoring.** Install a CO detector rated for enclosed spaces. These run $20 to $40 and belong in any greenhouse where combustion heating is used. Also install a minimum/maximum thermometer so you know what your overnight lows actually are, not what you assume they are. (I've been surprised in both directions by this.)
+**Monitoring.** Install a CO detector rated for enclosed spaces. These and belong in any greenhouse where combustion heating is used. Also install a minimum/maximum thermometer so you know what your overnight lows actually are, not what you assume they are. (I've been surprised in both directions by this.)
 
 **Fuel management.** For overnight use, do the math on your burn time before you go to bed. A 20-lb tank at full output on the 18,000 BTU unit will last roughly 16 to 18 hours. On the Portable Buddy at high, a 20-lb tank gets you closer to 40 to 50 hours. Know which setting you're running and check fuel levels before a forecast cold night.
 
 ![Propane Greenhouse Heater](/images/articles/structures-1.jpg)
 
-
 ## Common Mistakes
 
 **Using a 1-lb canister for overnight coverage.** It won't last. Connect to a 20-lb tank or accept that you're monitoring this manually.
 
-**Skipping the CO detector.** This is the mistake I have no patience for. A CO detector is a $25 investment. The risk is not theoretical.
+**Skipping the CO detector.** This is the mistake I have no patience for. A CO detector is a investment. The risk is not theoretical.
 
 **Placing the heater on the floor of a plastic-covered greenhouse without ventilation.** I've seen this produce condensation problems and CO accumulation within an hour on still nights. Elevation and airflow both matter.
 
@@ -134,7 +130,6 @@ For more information on greenhouse structures, storage buildings, and covered ga
 Yes, but only with adequate ventilation and a carbon monoxide detector. Propane combustion produces CO and water vapor. In a sealed space, CO accumulates to dangerous levels. Crack a vent and a lower opening to allow air exchange, even in cold weather. Both the Mr. Heater Portable Buddy and the 18,000 BTU generic unit require ventilation. This is not optional.
 
 ![Propane Greenhouse Heater](/images/articles/structures-2.jpg)
-
 
 ### How many BTUs do I need for my greenhouse?
 
@@ -200,4 +195,3 @@ The Portable Buddy (MH9BX) runs up to 9,000 BTU and covers spaces up to 225 squa
   ]
 }
 </script>
-

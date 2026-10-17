@@ -14,14 +14,14 @@ products:
   - id: "droll-yankees-yankee-flipper"
     role: "best_overall"
     article_specific_pros:
-      - "Weight-activated motor spins the perch when a squirrel lands , reliably deters them"
+      - "Weight-activated motor spins the perch when a squirrel lands, reliably deters them"
       - "5 lb seed capacity; wide seed tube fits sunflower and mixed seed"
     article_specific_cons:
-      - "Requires charging , dead battery means squirrels have free access"
+      - "Requires charging, dead battery means squirrels have free access"
   - id: "squirrel-buster-plus-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Passive weight-activated cage closes seed ports when squirrels grab on , no batteries needed"
+      - "Passive weight-activated cage closes seed ports when squirrels grab on, no batteries needed"
       - "5.1 lb capacity with 6 feeding ports; cardinal ring accommodates larger birds"
     article_specific_cons:
       - "More involved cleaning than simple tray feeders"
@@ -31,7 +31,7 @@ products:
       - "Ring Pull Advantage lid removes with one hand for fast, mess-free refilling"
       - "Six feeding stations accommodate multiple bird species simultaneously"
     article_specific_cons:
-      - "No squirrel deterrent , needs a baffle pole or dome purchased separately"
+      - "No squirrel deterrent, needs a baffle pole or dome purchased separately"
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
@@ -48,9 +48,9 @@ faq:
     answer: "During bluebird nesting season (spring through early summer), a pair actively feeding nestlings can empty a dish of 50–100 dried mealworms in a single morning. Daily refilling is common during peak demand. Outside of nesting season, refill as needed when the dish is empty — mealworms don't spoil quickly in dry weather but should be replaced if they get wet and clump."
 ---
 
-Mealworms are one of those additions to a feeding station that will immediately expand the variety of birds coming to your yard. Bluebirds, robins, Carolina wrens, even the occasional mockingbird , birds that ignore a standard seed tube entirely will show up reliably for live or dried mealworms. The challenge is that most people searching for a "bird feeder for mealworms" end up staring at a product page for a standard tube feeder, which is precisely the wrong format. Mealworms need a tray or dish, not a port. They also need to stay dry, stay accessible to the right birds, and ideally not become a free buffet for every squirrel within a quarter mile.
+Mealworms are one of those additions to a feeding station that will immediately expand the variety of birds coming to your yard. Bluebirds, robins, Carolina wrens, even the occasional mockingbird, birds that ignore a standard seed tube entirely will show up reliably for live or dried mealworms. The challenge is that most people searching for a "bird feeder for mealworms" end up staring at a product page for a standard tube feeder, which is precisely the wrong format. Mealworms need a tray or dish, not a port. They also need to stay dry, stay accessible to the right birds, and ideally not become a free buffet for every squirrel within a quarter mile.
 
-I've been running feeding stations on my property for years, and the products below are the ones I've actually tested or run long enough to have a real opinion on. If you're building out a broader setup, the [Bird Feeders & Baths](/birds-wildlife/) section of this site covers the full range , poles, baths, platform feeders, the works. For this roundup, I'm focused on three feeders worth your time and money, with a buying guide below to help you figure out which one fits your situation.
+I've been running feeding stations on my property for years, and the products below are the ones I've actually tested or run long enough to have a real opinion on. If you're building out a broader setup, the [Bird Feeders & Baths](/birds-wildlife/) section of this site covers the full range, poles, baths, platform feeders, the works. For this roundup, I'm focused on three feeders worth your time and money, with a buying guide below to help you figure out which one fits your situation.
 
 One note before we get into specifics: the products here aren't all dedicated mealworm feeders. Two of them are high-quality seed feeders that work as part of a mealworm-friendly station setup, and one is a squirrel-proof system that pairs exceptionally well with a dish feeder placed nearby. I'll explain the reasoning in each section.
 
@@ -58,12 +58,11 @@ One note before we get into specifics: the products here aren't all dedicated me
 
 ### [Droll Yankees Yankee Flipper Squirrel-Proof Bird Feeder](product:droll-yankees-yankee-flipper)
 
-The Yankee Flipper is the one people buy after losing three other feeders to squirrels. The mechanism is simple: a weight-activated motor spins the perch ring when anything heavy enough to be a squirrel grabs on. The squirrel goes for a short ride and drops off. The birds , which aren't heavy enough to trigger it , feed undisturbed.
+The Yankee Flipper is the one people buy after losing three other feeders to squirrels. The mechanism is simple: a weight-activated motor spins the perch ring when anything heavy enough to be a squirrel grabs on. The squirrel goes for a short ride and drops off. The birds, which aren't heavy enough to trigger it, feed undisturbed.
 
-It holds 5 lbs of seed, takes sunflower or mixed seed without issues, and charges via USB-C. Battery life is genuinely long; I went most of a spring without needing to recharge. Currently around $150 on Amazon, though pricing fluctuates. (I'd check it before assuming that number is current.)
+It holds 5 lbs of seed, takes sunflower or mixed seed without issues, and charges via USB-C. Battery life is genuinely long; I went most of a spring without needing to recharge. (I'd check it before assuming that number is current.)
 
 ![Bird Feeder For Mealworms](/images/articles/birds-wildlife-2.jpg)
-
 
 **Why it matters for a mealworm setup.** The Flipper is a seed feeder, not a mealworm dish. But if squirrels are raiding everything within reach, adding a simple open mealworm tray nearby just hands them another food source. The Flipper handles seed squirrel-proof, which frees you to put an open mealworm dish on the same pole without the whole station becoming a squirrel concern. That's how I run it.
 
@@ -86,12 +85,11 @@ Compared to the [Squirrel Buster Plus](product:squirrel-buster-plus-feeder), whi
 
 The Squirrel Buster Plus is my actual recommendation for most people setting up a feeding station. No batteries, no motor, no charging schedule. A squirrel grabs the outer cage, the cage drops under its weight, and the seed ports close. The bird lands, weighs almost nothing, and feeds normally. The system works without any power source, which means it works every single day without any action on your part.
 
-Brome makes good hardware. The cardinal ring at the bottom is a practical addition , cardinals prefer to perch below the feeder and feed upward, and without that ring, they often skip tube feeders entirely. Six feeding ports means you can have several birds on it simultaneously without the usual jostling. Currently around $65 to $75 on Amazon, which is reasonable for what it does.
+Brome makes good hardware. The cardinal ring at the bottom is a practical addition, cardinals prefer to perch below the feeder and feed upward, and without that ring, they often skip tube feeders entirely. Six feeding ports means you can have several birds on it simultaneously without the usual jostling. 
 
 ![Bird Feeder For Mealworms](/images/articles/birds-wildlife-3.jpg)
 
-
-The adjustable weight sensitivity is the feature that distinguishes this from most squirrel-proof feeders. You can dial in the exclusion threshold to block not just squirrels but large nuisance birds , grackles, starlings, European sparrows , if that's a problem at your station. The tradeoff is that getting the setting right takes some trial and error, and if you set it too sensitive, you'll accidentally exclude mourning doves or other mid-sized birds you actually want.
+The adjustable weight sensitivity is the feature that distinguishes this from most squirrel-proof feeders. You can dial in the exclusion threshold to block not just squirrels but large nuisance birds, grackles, starlings, European sparrows, if that's a problem at your station. The tradeoff is that getting the setting right takes some trial and error, and if you set it too sensitive, you'll accidentally exclude mourning doves or other mid-sized birds you actually want.
 
 **Pros:**
 - Passive operation. No batteries to die, no motor to fail.
@@ -109,14 +107,13 @@ If you've been running something like a Perky-Pet tube feeder with a baffle and 
 
 ### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder)
 
-This is the feeder for someone who wants a straightforward, well-made tube feeder without paying for features they don't need. Droll Yankees has been making feeders in the US since 1969, and the Classic shows that pedigree. UV-stabilized polycarbonate tube, six feeding ports, and the Ring Pull lid that comes off with one hand for refilling. That last detail is more useful than it sounds , if you're refilling feeders in freezing rain in February, a lid that requires two hands and coordination is a minor but recurring irritation.
+This is the feeder for someone who wants a straightforward, well-made tube feeder without paying for features they don't need. Droll Yankees has been making feeders in the US since 1969, and the Classic shows that pedigree. UV-stabilized polycarbonate tube, six feeding ports, and the Ring Pull lid that comes off with one hand for refilling. That last detail is more useful than it sounds, if you're refilling feeders in freezing rain in February, a lid that requires two hands and coordination is a minor but recurring irritation.
 
-Currently around $25 to $30 on Amazon. It comes with a lifetime guarantee, which from a company with Droll Yankees' track record means something.
+It comes with a lifetime guarantee, which from a company with Droll Yankees' track record means something.
 
 The honest limitation: no squirrel deterrent at all. A squirrel will clean this out in a morning if you don't have a baffle pole or dome over it. That's not a flaw in the feeder, it's just how an open tube feeder works. Buy it with a baffle or hang it on a squirrel-proof pole setup. The 1 lb capacity also means you're refilling frequently in peak season (I was hitting it every two to three days during fall migration), which is a mild but real inconvenience if you have a busy week.
 
 ![Bird Feeder For Mealworms](/images/articles/birds-wildlife-4.jpg)
-
 
 For a mealworm station, this works the same way the Flipper does: handle seed here, put your mealworm dish on the same pole or nearby hook, and let each format do its job.
 
@@ -130,13 +127,13 @@ For a mealworm station, this works the same way the Flipper does: handle seed he
 - No squirrel protection whatsoever
 - 1 lb capacity requires frequent refilling in active feeding months
 
-If you're setting up a first feeding station and want to keep the initial investment low, start here and add a [bird feeder for peanuts](/bird-feeder-for-peanuts/) on a separate hook for protein variety. Pair with a simple dome baffle and you have a workable setup for well under $60 total.
+If you're setting up a first feeding station and want to keep the initial investment low, start here and add a [bird feeder for peanuts](/bird-feeder-for-peanuts/) on a separate hook for protein variety. Pair with a simple dome baffle and you have a workable setup for well entry-level total.
 
 ## Buying Guide: What to Actually Look For
 
 ### Mealworm Feeders vs. Seed Feeders in a Station Setup
 
-A dedicated mealworm feeder is usually a small open dish or tray, sometimes with a roof to keep rain off dried mealworms. They're simple, inexpensive, and the birds that eat mealworms , bluebirds especially , will find them quickly. The problem is that open dishes are also accessible to squirrels, larger pest birds, and rain.
+A dedicated mealworm feeder is usually a small open dish or tray, sometimes with a roof to keep rain off dried mealworms. They're simple, inexpensive, and the birds that eat mealworms, bluebirds especially, will find them quickly. The problem is that open dishes are also accessible to squirrels, larger pest birds, and rain.
 
 The smarter approach, which is what I use, is to build a pole station with a squirrel-proof seed feeder at one hook and a covered mealworm dish at another. The squirrel-proof mechanism protects the whole station. The seed feeder attracts the volume birds (chickadees, nuthatches, finches). The mealworm dish targets the species you actually want to bring in.
 
@@ -145,7 +142,6 @@ The smarter approach, which is what I use, is to build a pole station with a squ
 Both methods work. The question is whether you want a system that requires maintenance.
 
 ![Bird Feeder For Mealworms](/images/articles/birds-wildlife-5.jpg)
-
 
 Battery-powered (Yankee Flipper) gives you the spinning mechanism, which is more complete as a deterrent and more entertaining to watch. The failure mode is a dead battery. If you're disciplined about charging, this is a non-issue. If you're the kind of person who will forget for three weeks during a busy stretch, it will matter.
 
@@ -172,7 +168,6 @@ If you're mounting on a deck, a [bird feeder designed for deck use](/bird-feeder
 A shallow open dish or tray, ideally with a roof to keep dried mealworms from getting wet. Tube feeders don't work for mealworms. The birds that eat them, bluebirds and wrens primarily, are looking for something they can see and pick from easily. A simple glazed ceramic dish on a hook does the job. Pair it with a squirrel-proof seed feeder on the same pole to keep squirrels from cleaning out both.
 
 ![Bird Feeder For Mealworms](/images/articles/birds-wildlife-6.jpg)
-
 
 ### Should I use live or dried mealworms?
 
@@ -238,4 +233,3 @@ More often than a seed feeder. Mealworms, especially dried ones that get wet, wi
   ]
 }
 </script>
-

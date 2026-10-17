@@ -14,7 +14,7 @@ products:
   - id: "liquid-fence-deer-rabbit-repellent"
     role: "best_overall"
     article_specific_pros:
-      - "Ready-to-use formula , no mixing; trigger sprayer applies directly to plants"
+      - "Ready-to-use formula, no mixing; trigger sprayer applies directly to plants"
       - "Rain-resistant formula lasts 2-4 weeks outdoors"
     article_specific_cons:
       - "Strong sulfur/egg odor during and shortly after application"
@@ -24,7 +24,7 @@ products:
       - "Deters deer, rabbits, cats, raccoons, and birds without chemicals or harm"
       - "Day-only, night-only, or 24-hour detection modes prevent unwanted activations"
     article_specific_cons:
-      - "Can be triggered by other movement (blowing shrubs, passing people) , positioning matters"
+      - "Can be triggered by other movement (blowing shrubs, passing people), positioning matters"
 tags: ["birds-wildlife", "roundup"]
 disclosure_required: true
 noindex: false
@@ -45,7 +45,7 @@ safety_topics:
 
 Deer don't read signs. They don't respect borders, they don't care about your hostas, and they will absolutely walk through your vegetable garden at 2 a.m. and leave you with stalks. If you've been dealing with this long enough, you've probably already tried a few things that didn't work. This article is about two that do.
 
-I've tested deer control methods on my 12-acre property for years, and my honest conclusion is that a layered approach beats any single solution. A chemical repellent keeps deer off the plants directly. A motion-activated sprinkler defends the zone around them. Together, they create enough reinforcement that deer begin to treat your garden as more trouble than it's worth, and they stay that way for weeks at a time rather than days. For anyone also thinking about how deer and other wildlife interact with your broader yard setup, the [Bird Feeders & Baths](/birds-wildlife/) section covers some of that territory, particularly around protecting feeding stations from larger animals.
+Years of testing deer control methods on this property lead to one honest conclusion: a layered approach beats any single solution. A chemical repellent keeps deer off the plants directly. A motion-activated sprinkler defends the zone around them. Together, they create enough reinforcement that deer begin to treat your garden as more trouble than it's worth, and they stay that way for weeks at a time rather than days. For anyone also thinking about how deer and other wildlife interact with your broader yard setup, the [Bird Feeders & Baths](/birds-wildlife/) section covers some of that territory, particularly around protecting feeding stations from larger animals.
 
 Below are the two best deer repellent devices I'd actually recommend buying.
 
@@ -53,14 +53,11 @@ Below are the two best deer repellent devices I'd actually recommend buying.
 
 ### [Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon](product:liquid-fence-deer-rabbit-repellent)
 
-**Price: currently around $22 on Amazon**
-
 Liquid Fence works on a simple principle. Deer rely heavily on smell, and this formula smells, to them, like predator activity. The active ingredients are putrescent whole egg solids and garlic. On the label, those sound innocuous. In practice, the smell on application day is genuinely unpleasant, and I want to say that plainly rather than bury it in fine print. You will want to apply it on a day when you don't have guests coming over. You'll also want to wash your hands twice. After it dries, which takes a few hours, the odor is largely undetectable to humans but persists for deer.
 
 The ready-to-use 1-gallon jug comes with a trigger sprayer attached. No mixing, no dilution, no measuring. You spray directly onto the foliage and around the perimeter of beds you want to protect. I've used it on hostas, on young arborvitae, and on the vegetable garden, and it holds up reasonably well through moderate rain. After heavy rain, you're reapplying, and that's non-negotiable regardless of what the label claims about rain resistance. In wet springs, I'm on a 10-day cycle. In drier stretches, closer to three weeks.
 
 ![Best Deer Repellent Devices](/images/articles/birds-wildlife-8.jpg)
-
 
 One note on economics: the ready-to-use format at $22 per gallon is fine for a small property or a few beds, but if you're covering a larger area consistently, the [Liquid Fence concentrate version (B014UUZ8AC)](product:liquid-fence-concentrate) works out to significantly less per application. For a large property, buying the concentrate and a dedicated pump sprayer pays for itself within a season.
 
@@ -83,14 +80,11 @@ The product is labeled as safe around children and pets once dry, and I have no 
 
 ### [Orbit 62100 Yard Enforcer Motion-Activated Sprinkler](product:orbit-yard-enforcer-sprinkler)
 
-**Price: currently around $35-$40 on Amazon**
-
 The Orbit 62100 is a motion-activated sprinkler that connects to a standard garden hose and fires a burst of water when its infrared sensor detects movement. It covers a 120-degree arc up to 40 feet, which is enough to protect a full garden bed or a section of border planting without repositioning.
 
 What makes this more useful than a basic timer sprinkler is the detection mode options. You can set it to day-only, night-only, or 24-hour detection. This matters practically. Deer move most actively at dawn and dusk into darkness, but you don't want the thing soaking your neighbor's dog at noon because a shrub moved in the wind. Night-only mode addresses most deer traffic without generating a dozen false triggers per day. I run mine in 24-hour mode during peak browse pressure in early spring and late fall, then switch to night-only through summer. (I adjust it more than most people probably bother to, which I realize is a specific complaint about me rather than the product.)
 
 ![Best Deer Repellent Devices](/images/articles/birds-wildlife-1.jpg)
-
 
 The training effect is real and worth mentioning. After two to three weeks of consistent activation, deer typically begin to avoid the zone entirely, even when the sprinkler isn't running. They associate the area with an unpleasant surprise and reroute. This is different from a chemical deterrent, which is purely scent-based. The combination of sensory types reinforces both.
 
@@ -140,7 +134,6 @@ If you travel frequently or can't commit to regular reapplication after rain, a 
 
 ![Best Deer Repellent Devices](/images/articles/birds-wildlife-3.jpg)
 
-
 If you're also setting up bird feeders or a bird bath in deer-trafficked areas of your yard, you may want to think about placement holistically. A [bird bath pedestal](/bird-bath-pedestal/) or a [bird feeder pole with squirrel baffle](/bird-feeder-pole-with-squirrel-baffle/) positioned near the garden can actually give you a reason to visit that area regularly, which helps you notice when the repellent needs refreshing.
 
 ### Pet and Child Safety
@@ -149,7 +142,7 @@ Liquid Fence is safe once dry. The Orbit sprinkler is physically harmless, thoug
 
 ### Budget
 
-For under $60, you can have both products running simultaneously, which is the setup I'd recommend to anyone asking me what to actually buy. That's around $22 for the Liquid Fence gallon and $35-$40 for the Orbit sprinkler. If you have a large property, add the [Liquid Fence concentrate](product:liquid-fence-concentrate) and a pump sprayer to that equation, but the core investment is still modest for what you get.
+For entry-level, you can have both products running simultaneously, which is the setup I'd recommend to anyone asking me what to actually buy. Both are modestly priced, and together the setup covers both chemical deterrence and motion response. If you have a large property, add the [Liquid Fence concentrate](product:liquid-fence-concentrate) and a pump sprayer to that equation, but the core investment is still modest for what you get.
 
 ### Seasonal Timing and Deer Behavior
 
@@ -168,5 +161,3 @@ Understanding this seasonal rhythm is genuinely useful for budgeting, too. Buy y
 Deer pressure varies dramatically by season and local population. In areas with very high deer density, no repellent device completely prevents damage. During late fall and winter, when natural forage is scarce, deer will push through deterrents they'd normally avoid. In those conditions, physical fencing is the only reliable answer, and that's a different article. The devices here are effective for moderate pressure and for protecting high-value plants from opportunistic browse, which covers most home gardening situations.
 
 For more on managing wildlife around your yard and garden, including how to keep feeding stations functional without attracting unwanted visitors, the [Bird Feeders & Baths](/birds-wildlife/) section has relevant coverage.
-
-

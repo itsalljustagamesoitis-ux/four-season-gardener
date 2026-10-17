@@ -36,7 +36,7 @@ faq:
 
 Squirrels are not subtle. They will knock a feeder off a pole, chew through plastic, and return the next morning with what I can only describe as institutional optimism. A squirrel dome for bird feeder setups is one of the more reliable solutions to this problem, and unlike motion-activated sprinklers or cayenne-dusted seed (which works until it rains), a well-placed dome baffle is a passive, permanent fix.
 
-I've been running bird feeders on this property for over a decade. At various points I've tried spinners, weight-sensitive perches, and pole-mounted cages. Most of them work adequately. The dome baffle, when properly sized and correctly positioned, tends to work better than most, because it removes the problem physically rather than conditionally. The squirrel either can't reach the feeder or can't grip the dome surface, and it gives up. That's the theory. In practice, execution matters quite a bit, and not every dome on the market is built to last a full season outside, let alone several years.
+Bird feeders have been in use on various properties for over a decade. According to owner reviews and product specifications, spinners, weight-sensitive perches, and pole-mounted cages work adequately for deterring squirrels. The dome baffle, when properly sized and correctly positioned, tends to work better than most alternatives, because it removes the problem physically rather than conditionally. The squirrel either can't reach the feeder or can't grip the dome surface. However, execution matters significantly, and not every dome on the market is built to withstand a full season outside, let alone several years, according to owner reports.
 
 If you're building out a full feeding station and want to think through the pole and mounting options too, the guides in our [Bird Feeders & Baths](/birds-wildlife/) section cover a lot of that ground.
 
@@ -45,32 +45,15 @@ If you're building out a full feeding station and want to think through the pole
 For most setups, the [Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle) is the pick I'd recommend without much hesitation. It's not perfect, but it addresses the actual problem at a price that doesn't require justification.
 
 **Best Overall: Perky-Pet 16 Inch Transparent Squirrel Baffler**
-Currently around $14,$18 on Amazon at the time of writing. Clear dome, hang-above or pole-mount compatible, does what it says.
+Clear dome, hang-above or pole-mount compatible, does what it says.
 
 For readers running a dedicated pole setup, also consider pairing this dome with a purpose-built squirrel baffle pole, which I cover in more detail in the Full Reviews section below.
-
-## How We Tested
-
-Testing squirrel baffles is not especially scientific, which I realize is a specific complaint to have about a bird feeder accessory. But there's no controlled lab environment here. What I did: mounted each dome on a pole-hung feeder in a high-traffic area of the property, one that gray squirrels visit consistently throughout the day between September and March. I ran each configuration for at least four weeks, noted how many times squirrels bypassed the barrier versus abandoned the attempt, checked for physical degradation after freeze-thaw cycles, and assessed ease of installation and adjustment.
-
-![Squirrel Dome For Bird Feeder](/images/articles/birds-wildlife-6.jpg)
-
-
-I also looked at whether the dome interfered with bird access. A baffle that keeps squirrels out by also blocking birds has solved the wrong problem.
-
-Evaluation criteria, in order of priority.
-
-1. Deterrence effectiveness under real squirrel pressure
-2. Physical durability after weather exposure
-3. Bird access and sightline clarity
-4. Ease of installation and height adjustment
-5. Price relative to build quality
 
 ## Full Reviews
 
 ### Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders
 
-[Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle) runs about $15,$18 and is the most widely distributed dome baffle in this category. The clear polycarbonate construction is a genuine functional advantage, not just aesthetics. You can watch the birds feeding without the dome visually dominating the setup, and light passes through rather than casting a shadow on the feeder below, which matters if you care about photographs or simply prefer not to have a large opaque dish sitting above your yard.
+[Perky-Pet 16 Inch Transparent Squirrel Baffler for Bird Feeders](product:perky-pet-squirrel-dome-baffle)is the most widely distributed dome baffle in this category. The clear polycarbonate construction is a genuine functional advantage, not just aesthetics. You can watch the birds feeding without the dome visually dominating the setup, and light passes through rather than casting a shadow on the feeder below, which matters if you care about photographs or simply prefer not to have a large opaque dish sitting above your yard.
 
 The dome measures 16 inches across. That's adequate for the majority of squirrel deterrence situations, but I'll say plainly that a large fox squirrel or a particularly determined gray squirrel can, in some cases, get purchase on the edge of the dome if the mounting height isn't right. The baffle does its job through a combination of slippery surface and convex geometry, but if the feeder is hung too close to a branch above or a surface below, the dome is working against physics rather than with it.
 
@@ -80,12 +63,11 @@ Installation is straightforward. The dome hangs above the feeder via a standard 
 
 ![Squirrel Dome For Bird Feeder](/images/articles/birds-wildlife-7.jpg)
 
-
 **Durability.** This is where I have mixed feelings. The plastic holds up well through wet springs and hard winters. After roughly two seasons, however, the clear material develops a mild yellow tint and some surface hazing. It doesn't compromise function, but if visual clarity matters to you, be aware it won't stay optically clear indefinitely. I'm on my second unit in six years, which at this price point is not a crisis, though I'd prefer not to be replacing hardware at all.
 
 **Bird access.** No issues. The dome sits above the feeder with enough clearance that small birds approach freely from below and around the sides. Woodpeckers and larger birds haven't shown any reluctance with this configuration. (I timed how long it took birds to return to the feeder after installation. Under ten minutes for chickadees.)
 
-**Verdict.** At $15,$18, this is an easy recommendation for anyone running a hanging feeder who needs a first line of defense against squirrels. If you're looking at more comprehensive protection across multiple feeders or a pole-based feeding station, read the "What to Look For" section below before deciding whether one dome will cover your situation.
+**Verdict.** At this is an easy recommendation for anyone running a hanging feeder who needs a first line of defense against squirrels. If you're looking at more comprehensive protection across multiple feeders or a pole-based feeding station, read the "What to Look For" section below before deciding whether one dome will cover your situation.
 
 ## What to Look For
 
@@ -97,12 +79,11 @@ A few things worth measuring before you buy. The distance from the feeder to any
 
 ![Squirrel Dome For Bird Feeder](/images/articles/birds-wildlife-8.jpg)
 
-
 ### Material and UV Resistance
 
 Clear polycarbonate is the most common material for dome baffles. It's impact-resistant, holds its shape through temperature swings, and doesn't warp the way thinner plastics do after a few winters. The yellowing issue I mentioned with the Perky-Pet unit is a genuine tradeoff, not a defect exactly. UV exposure degrades most clear plastics over time.
 
-If longevity matters more to you than price, look for units marketed as UV-stabilized or made from thicker-gauge polycarbonate. They'll typically run $25,$40 rather than $15,$18. Whether that premium is worth it depends on how many seasons you're planning on getting out of the same unit.
+If longevity matters more to you than price, look for units marketed as UV-stabilized or made from thicker-gauge polycarbonate. They'll typicallythan Whether that premium is worth it depends on how many seasons you're planning on getting out of the same unit.
 
 ### Mounting Compatibility
 
@@ -118,12 +99,11 @@ The dome is a physical obstacle, not a deterrent in the behavioral sense. It doe
 
 ### Price Expectations
 
-The Perky-Pet dome at $15,$18 represents the lower end of the market. Midrange domes (Woodlink, Aspects, and similar brands) run $25,$35 and typically offer thicker materials and better hardware. At the upper end, you'll find cage-and-dome combinations and specialty systems that run $50,$80, which only makes sense if you're protecting a high-value feeder or dealing with exceptional squirrel pressure.
+The Perky-Pet dome at represents the lower end of the market. Midrange domes (Woodlink, Aspects, and similar brands)typically offer thicker materials and better hardware. At the upper end, you'll find cage-and-dome combinations and specialty systems that, which only makes sense if you're protecting a high-value feeder or dealing with exceptional squirrel pressure.
 
 ![Squirrel Dome For Bird Feeder](/images/articles/birds-wildlife-1.jpg)
 
-
-For most readers running standard tube or hopper feeders, the budget-to-midrange category is where the value is. Paying $65 for a squirrel dome when a $17 one correctly positioned does the same job is not a trade-off I'd make, though I appreciate that's not everyone's calculus.
+For most readers running standard tube or hopper feeders, the budget-to-midrange category is where the value is. For a squirrel dome when a one correctly positioned does the same job is not a trade-off I'd make, though I appreciate that's not everyone's calculus.
 
 ## Placement Rules That Matter More Than the Product
 
@@ -138,4 +118,3 @@ If you're using a pole setup, the dome should be mounted on the pole below the f
 These are not new recommendations. But they're the ones most often skipped when a frustrated buyer writes a negative review about a dome "not working." In nearly every case I've investigated, the dome was fine. The positioning wasn't.
 
 For readers putting together a full station with multiple feeders, the resources in our [Bird Feeders & Baths](/birds-wildlife/) section include setup guides that address siting and spacing in more detail.
-

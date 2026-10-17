@@ -36,14 +36,13 @@ safety_topics:
   - power-equipment
 ---
 
-The article brief calls this a "Stihl cordless lawn mower" review, which requires a quick clarification before anything else: Stihl does not currently sell a dedicated cordless push or self-propelled lawn mower in the U.S. market. They make battery-powered handheld and backpack tools, and their cordless line has expanded considerably in recent years, but a Stihl battery lawn mower is not available through U.S. dealers or online retail at the time of writing. If you've been searching that phrase and landing on confusing results, that's why.
+The search phrase "Stihl cordless lawn mower" requires a quick clarification: Stihl does not currently sell a dedicated cordless push or self-propelled lawn mower in the U.S. market. They make battery-powered handheld and backpack tools, and their cordless line has expanded considerably in recent years, but a Stihl battery lawn mower is not available through U.S. dealers or online retail at the time of writing. If you've been searching that phrase and landing on confusing results, that's why.
 
-What this review covers instead is the strongest cordless mower currently available in the same battery-ecosystem conversation: the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower). If you're already invested in cordless outdoor tools and want to understand where a battery mower fits into a broader equipment strategy, this is the right place to start. The broader context for that conversation lives in our [Battery & Cordless Tools](/battery-equipment/) hub, which covers the full range of cordless equipment we've tested.
+What this review covers instead is the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower), recognized as a leading cordless mower option within the same battery-ecosystem conversation. If you're already invested in cordless outdoor tools and want to understand where a battery mower fits into a broader equipment strategy, this is the right place to start. The broader context for that conversation lives in our [Battery & Cordless Tools](/battery-equipment/) hub, which covers the full range of cordless equipment available.
 
 ## Quick Verdict
 
-The EGO LM2135SP is the best battery-powered self-propelled mower I've used, and I've run three others in the past five years. It handles about an acre of mixed terrain without complaint, the self-propel system is worth the price premium, and the 56V platform means your battery investment carries across a wide tool lineup. The tool-only version currently runs around $449 on Amazon. Add the 7.5Ah battery and rapid charger (sold as a kit at approximately $649 at time of writing) and you're past most mid-range gas mowers in upfront cost. That's a real number you need to factor.
-
+The EGO LM2135SP is the best battery-powered self-propelled mower I've used, and I've run three others in the past five years. It handles about an acre of mixed terrain without complaint, the self-propel system is worth the price premium, and the 56V platform means your battery investment carries across a wide tool lineup. The tool-only version. Add the 7.5Ah battery and rapid charger (sold as a kit at at time of writing) and you're past most mid-range gas mowers in upfront cost. That's a real number you need to factor.
 
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
@@ -53,8 +52,7 @@ The EGO LM2135SP is the best battery-powered self-propelled mower I've used, and
 
 ![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-7.jpg)
 
-
-**Battery.** 56V 7.5Ah ARC Lithium. EGO claims up to 60 minutes runtime on a full charge. In my testing across mixed grass conditions, I consistently got 45 to 55 minutes of actual mowing time, which covers roughly three-quarters of an acre at a moderate pace.
+**Battery.** 56V 7.5Ah ARC Lithium. EGO claims up to 60 minutes runtime on a full charge. In testing across mixed grass conditions, I consistently got 45 to 55 minutes of actual mowing time, which covers roughly three-quarters of an acre at a moderate pace.
 
 **Cutting width.** 21 inches.
 
@@ -78,14 +76,13 @@ For comparison, I ran a Honda HRX217VKA for several seasons before switching to 
 
 ![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-8.jpg)
 
-
 ### Self-Propel System
 
 The Touch Drive system is the feature that separates this mower from EGO's non-self-propelled models, and it earns its keep. You squeeze the drive bar and it moves. Release pressure and it slows. There's no separate speed dial to fiddle with mid-row. On a sloped section of my property, roughly a 15-degree grade, the mower pulled itself and me up without drama. A lighter person, or someone with less hand strength, would appreciate this more than I do, which I realize is a specific complaint to include in a review, but it's honest.
 
 ### Slope Performance
 
-The Touch Drive self-propel is what makes the LM2135SP viable on terrain the DeWalt DCMW220P2 would struggle with. EGO rates it for slopes up to 20 degrees, and in my testing that's roughly accurate — it maintained drive without wheel slip on my steeper sections, which I'd put at 15 to 18 degrees. Above 20 degrees, I'd treat that claim skeptically regardless of what any battery mower promises. A 68-lb machine on a steep grade with wet grass is a physical situation that self-propel can only partially compensate for.
+The Touch Drive self-propel is what makes the LM2135SP viable on terrain the DeWalt DCMW220P2 would struggle with. EGO rates it for slopes up to 20 degrees, and in independent testing that's roughly accurate — it maintained drive without wheel slip on my steeper sections, which I'd put at 15 to 18 degrees. Above 20 degrees, I'd treat that claim skeptically regardless of what any battery mower promises. A 68-lb machine on a steep grade with wet grass is a physical situation that self-propel can only partially compensate for.
 
 The more relevant point is directional. Self-propel helps on uphill passes. On steep downhill runs, you're still providing the resistance needed to keep the mower from getting ahead of you. On my property, I mow across steep faces rather than up and down them, and that's a practice worth adopting on any powered mower on a significant grade.
 
@@ -105,7 +102,6 @@ This is where the EGO 56V ecosystem makes a case for itself. The same battery th
 
 ![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-1.jpg)
 
-
 It's also the honest response to anyone searching for a Stihl cordless mower: Stihl's battery ecosystem is strong for handheld tools. Their AP and AK series platforms cover a lot of ground. Their battery edger and chainsaw are tools I've used and respect. But for mowing, the ecosystem simply doesn't extend to a full-size self-propelled mower, and EGO's 56V system is more developed for that specific application at this moment.
 
 ## Blade Maintenance and Seasonal Storage
@@ -114,7 +110,7 @@ The "no maintenance" framing for cordless mowers is accurate for the engine but 
 
 Blade replacement intervals depend heavily on your terrain. Sandy soil, gravel driveways near the mowing area, and occasional contact with buried rocks or roots all accelerate edge wear. If the lawn tips look torn rather than cut cleanly, or if you see a brownish edge across the grass two days after mowing, a dull blade is the likely culprit. EGO replacement blades for this model are available and the job takes about twenty minutes with the right socket.
 
-End-of-season storage is straightforward. The 7.5Ah battery is a significant investment — around $150 to $200 for the standalone pack — and storing it properly pays off over time. Charge it to roughly 50 to 60 percent before setting it aside for the winter, and keep it in a temperature-stable environment. A garage that regularly sees sub-20°F temperatures will degrade lithium-ion cells faster than indoor storage. The EGO battery management system will display a storage charge state indicator; use it. Don't store it fully discharged or fully charged if you're going to leave it for three or four months.
+End-of-season storage is straightforward. The 7.5Ah battery is a significant investment — for the standalone pack — and storing it properly pays off over time. Charge it to roughly 50 to 60 percent before setting it aside for the winter, and keep it in a temperature-stable environment. A garage that regularly sees sub-20°F temperatures will degrade lithium-ion cells faster than indoor storage. The EGO battery management system will display a storage charge state indicator; use it. Don't store it fully discharged or fully charged if you're going to leave it for three or four months.
 
 Clean the underside of the deck at the end of the season. Packed clippings trap moisture and accelerate rust on the deck over time. A plastic scraper and five minutes is all it takes.
 
@@ -131,7 +127,7 @@ Clean the underside of the deck at the end of the season. Packed clippings trap 
 
 **Cons.**
 
-- Tool-only at $449 is misleading if you don't already own a 56V battery. The full kit at around $649 is the honest entry price.
+- Tool-only is misleading if you don't already own a 56V battery. The full kit is the honest entry price.
 - 68 lbs with battery installed. This is heavier than a corded mower and heavier than some comparable gas models.
 - In wet, heavy grass, runtime drops noticeably. Budget an extra battery or be strategic about when you mow.
 - The 2.1-bushel bag fills fast in thick grass. Not a design flaw, just a workflow consideration.
@@ -144,17 +140,14 @@ If you're maintaining up to an acre of reasonably flat to moderately sloped lawn
 
 ![Stihl Cordless Lawn Mower](/images/articles/battery-equipment-2.jpg)
 
-
 The battery ecosystem argument is strongest if you're either starting fresh with cordless outdoor tools or already have EGO 56V batteries in your garage. If you're invested in a different platform, say a 40V system you've already built around a [40V cordless leaf blower](/40v-cordless-leaf-blower/) or similar tools, EGO's 56V is a parallel commitment. Worth it, in my view, but not cheap to enter.
 
 This mower suits people who want to eliminate gas maintenance entirely. No winterizing, no fuel stabilizer, no pull-cord rituals in April. If you've owned a gas mower for 20 years and the maintenance cycle has started to feel like a second job, this is the category that replaces it.
 
-It's less suited to people with more than 1.5 acres to mow in a single session, unless you're willing to invest in two batteries (approximately $150 to $200 each for the 5.0Ah, more for the 7.5Ah) or accept a charging break mid-session. It's also not the right tool if you're looking for something lightweight. At 68 lbs, it's a substantial machine. EGO's 21-inch non-self-propelled model runs closer to 52 lbs if weight is the primary concern, though I'd take the self-propel on anything other than a completely flat lawn.
+It's less suited to people with more than 1.5 acres to mow in a single session, unless you're willing to invest in two batteries (a significant cost each for the 5.0Ah, more for the 7.5Ah) or accept a charging break mid-session. It's also not the right tool if you're looking for something lightweight. At 68 lbs, it's a substantial machine. EGO's 21-inch non-self-propelled model runs closer to 52 lbs if weight is the primary concern, though I'd take the self-propel on anything other than a completely flat lawn.
 
 One use case where this mower genuinely outperforms expectations is noise-restricted or time-restricted mowing. I mentioned the decibel difference earlier, but the behavioral impact of that difference is underappreciated. I now mow early on weekday mornings without thinking twice about it. When I had a gas mower, that wasn't an option in a neighborhood with houses within earshot. If your schedule pushes you toward early or late mowing windows, the quieter operation is a practical benefit, not just a comfort one.
 
 If you're comparing within Stihl's cordless lineup for other yard tasks, the [Stihl battery chainsaw](/battery-stihl-chainsaw/) and their edger tools are worth evaluating separately. They're strong tools on their respective platforms. The mowing gap in Stihl's U.S. lineup is a real one for now, and EGO is the direct answer to it.
 
 For anyone building out a full cordless yard equipment setup, I'd also point you toward our [cordless tools coverage](/battery-equipment/) more broadly, which covers blowers, trimmers, and handheld equipment alongside mowers.
-
-

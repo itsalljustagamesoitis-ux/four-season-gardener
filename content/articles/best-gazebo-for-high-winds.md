@@ -14,7 +14,7 @@ products:
   - id: "palram-martinique-10x12-gazebo"
     role: "best_overall"
     article_specific_pros:
-      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light , no harsh glare"
+      - "Twin-wall polycarbonate roof panels block 99.9% UV while diffusing light, no harsh glare"
       - "Powder-coated aluminum frame won't rust; 10-year limited warranty"
     article_specific_cons:
       - "Premium price for a permanent structure; installation requires two people and half a day"
@@ -22,7 +22,7 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
 tags: ["structures", "roundup"]
@@ -51,7 +51,7 @@ The two structures covered here sit at opposite ends of the material spectrum. O
 
 **[Palram Martinique 10 Ft. x 12 Ft. Hardtop Gazebo with Polycarbonate Roof](product:palram-martinique-10x12-gazebo)**
 
-This is the one I'd buy for a permanent installation where wind is the primary concern. The frame is powder-coated aluminum, the roof panels are twin-wall polycarbonate, and the overall footprint is 120 square feet. Currently running around $1,400 to $1,600 on Amazon, though pricing on this one moves seasonally.
+This is the one I'd buy for a permanent installation where wind is the primary concern. The frame is powder-coated aluminum, the roof panels are twin-wall polycarbonate, and the overall footprint is 120 square feet. Currently running,600 on Amazon, though pricing on this one moves seasonally.
 
 #### Why the Polycarbonate Roof Matters
 
@@ -62,7 +62,6 @@ The aluminum frame is the other piece. Powder-coated steel is more common at thi
 Palram backs this with a 10-year limited warranty, which is longer than anything you'll see on a fabric-top competitor. The Sunjoy and ABCCANOPY hardtops I've looked at cap at one to three years.
 
 ![Best Gazebo For High Winds](/images/articles/structures-2.jpg)
-
 
 #### What You Give Up
 
@@ -78,7 +77,7 @@ Installation is a two-person job that will take a solid half day, probably longe
 - 120 sq ft covers a full outdoor dining setup
 
 **Cons.**
-- $1,400 to $1,600 is a real spend for what is still a residential-grade structure
+- That's a real spend for what is still a residential-grade structure
 - No walls or side panels included
 - Two-person installation, half a day minimum
 
@@ -90,7 +89,7 @@ Installation is a two-person job that will take a solid half day, probably longe
 
 **[Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola)**
 
-The Yardistry is a different kind of structure serving a different kind of priority. It's North American cedar, pre-cut and pre-drilled, and it arrives looking like something that belongs in a garden rather than something you assembled from a flat pack. Currently around $1,800 to $2,200 depending on where you buy it, which puts it above the Palram. (I realize that's counterintuitive for a kit that starts as open rafters.)
+The Yardistry is a different kind of structure serving a different kind of priority. It's North American cedar, pre-cut and pre-drilled, and it arrives looking like something that belongs in a garden rather than something you assembled from a flat pack. (I realize that's counterintuitive for a kit that starts as open rafters.)
 
 #### The Cedar Argument
 
@@ -100,8 +99,7 @@ The pre-cut and pre-stained aspect is worth flagging. Building a comparable stru
 
 ![Best Gazebo For High Winds](/images/articles/structures-3.jpg)
 
-
-The base kit is an open pergola, which means shade from the rafters but no rain coverage. Yardistry sells polycarbonate roof panels as a separate purchase, currently around $400 to $600 for this footprint. If you want full overhead protection, budget for that at the outset.
+The base kit is an open pergola, which means shade from the rafters but no rain coverage. Yardistry sells polycarbonate roof panels as a separate purchase for this footprint. If you want full overhead protection, budget for that at the outset.
 
 #### The Maintenance Commitment
 
@@ -118,13 +116,12 @@ For wind resistance, an open-rafter pergola behaves differently from a solid-roo
 
 **Cons.**
 - Cedar requires restaining every two to three years
-- Base kit includes no overhead coverage; panels are an additional $400 to $600
+- Base kit includes no overhead coverage; panels are extra
 - Higher price point than the Palram when fully configured with roof panels
 
 **Verdict.** The Yardistry is the right choice if you want a structure that looks like it belongs on a property rather than in a backyard, and you're willing to maintain wood. For straight wind resistance from a covered structure, it needs the roof panel add-on to compete with the Palram. Without it, it's a pergola, not a gazebo.
 
 ![Best Gazebo For High Winds](/images/articles/structures-4.jpg)
-
 
 ,
 
@@ -162,7 +159,6 @@ The 10x12 footprint (120 square feet) in both of these kits is the most common r
 
 ![Best Gazebo For High Winds](/images/articles/structures-5.jpg)
 
-
 Placement relative to your house matters for wind. A structure placed on the lee side of the house (the side opposite your prevailing wind direction) will always outperform the same structure on an exposed corner. That's not always possible given where you want to sit, but it's worth thinking about before you commit to a location.
 
 ### Warranty and Long-Term Support
@@ -182,5 +178,3 @@ The Yardistry is the better structure if the look of the thing matters to you as
 If you're also thinking about a screened structure for a deck or patio, the [screened gazebo for deck](/screened-gazebo-for-deck/) coverage on this site addresses that separately. It's a different product category with different trade-offs, and the wind-resistance logic shifts when you're adding screen panels to the sides.
 
 ,
-
-

@@ -53,9 +53,7 @@ The EGO CS1804 is the battery chainsaw I'd recommend to most people maintaining 
 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-3.jpg)
 
-
-At the time of writing, the tool-only version runs around $230 on Amazon, and the kit with a 5Ah battery and charger is currently around $350. The [EGO POWER+ CS1804](product:ego-cs1804-chainsaw) is consistently in stock, which I mention only because Stihl battery inventory at dealers can be patchy.
-
+At the time of writing, the tool-only version, and the kit with a 5Ah battery and charger. The [EGO POWER+ CS1804](product:ego-cs1804-chainsaw) is consistently in stock, which I mention only because Stihl battery inventory at dealers can be patchy.
 
 [Check current price on Amazon](product:ego-cs1804-chainsaw)
 
@@ -77,12 +75,11 @@ For the maple work, I was making crosscuts through 18 to 22-inch sections. The s
 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-4.jpg)
 
-
 On smaller diameter cuts, 6 to 10 inches, the saw is fast and responsive. This is the majority of the work I actually do, and for that it performs without reservation.
 
 ### Battery Runtime
 
-With a 5Ah battery, I'm getting roughly 45 minutes of active cutting on lighter work, less on sustained cuts through hardwood. For a morning session of mixed cleanup, I typically run through one battery and have enough left on a second to finish what I started. EGO's 7.5Ah battery extends this noticeably, currently around $130 separately, and if your sessions run long I'd buy it alongside the saw rather than waiting.
+With a 5Ah battery, I'm getting roughly 45 minutes of active cutting on lighter work, less on sustained cuts through hardwood. For a morning session of mixed cleanup, I typically run through one battery and have enough left on a second to finish what I started. EGO's 7.5Ah battery extends this noticeably separately, and if your sessions run long I'd buy it alongside the saw rather than waiting.
 
 The charging time on the standard charger is around 50 minutes for a 5Ah battery. EGO's Rapid Charger gets that down to around 40 minutes. Not transformative, but useful if you only have one battery and need to turn it around mid-day.
 
@@ -91,7 +88,6 @@ The charging time on the standard charger is around 50 minutes for a 5Ah battery
 The saw balances reasonably well. I have an average grip size and I found the handle geometry comfortable for horizontal and overhead cuts. The chain brake is crisp and the trigger response feels controlled rather than hair-trigger. My one complaint about handling is the chain tensioning system: it requires a scrench (the combination tool is included), and on rival saws like the Greenworks 80V Pro CS80L, tool-free tensioning is standard. This is not a dealbreaker, but if you're someone who adjusts chain tension in the field regularly, it will register as a minor irritation. Which I realize is a specific complaint, but there it is.
 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-5.jpg)
-
 
 The bar oil system works well. I went through a season and a half before I ran into any oiling issues, and those were self-inflicted (I let the reservoir run dry). The translucent window is genuinely useful here.
 
@@ -125,7 +121,6 @@ This saw is for the residential property owner who needs a capable chainsaw for 
 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-6.jpg)
 
-
 It also makes the most obvious sense if you're already invested in the EGO 56V platform. If you own the [EGO Pole Hedge Trimmer](/ego-pole-hedge-trimmer/) or are building out a cordless setup that includes a blower (I've covered the 40V end of the battery blower market in my [40V Cordless Leaf Blower](/40v-cordless-leaf-blower/) review, though EGO runs at 56V), the CS1804 adds chainsaw capability without adding a second battery chemistry to your shelf.
 
 It's not for professional arborists, not for anyone who needs to run a saw for three continuous hours, and not for people who want the lightest possible bar for overhead limb work. The Stihl MSA 140 C-B at around 10 lbs with battery is meaningfully lighter if that's the priority, though you'll need to buy it through a dealer and it costs more.
@@ -144,14 +139,13 @@ For residential use, yes. Both saws run on 56V-class battery systems and deliver
 
 ![Battery Stihl Chainsaw](/images/articles/battery-equipment-7.jpg)
 
-
 ### What battery does the EGO CS1804 use?
 
 The 56V ARC Lithium battery platform, shared across EGO's full lineup of outdoor power equipment. The kit version includes a 5Ah battery. EGO also makes 2.5Ah, 4Ah, 7.5Ah, and 10Ah batteries on the same platform. All are backward and forward compatible with any EGO 56V tool.
 
 ### How long does the battery last per charge?
 
-On lighter work, plan for 40 to 50 minutes of active cutting from a 5Ah battery. On sustained hardwood work, expect closer to 30 to 35 minutes. A 7.5Ah battery, currently around $130 separately, extends those times by roughly 50 percent. For a morning session, two 5Ah batteries will cover most residential cleanup tasks.
+On lighter work, plan for 40 to 50 minutes of active cutting from a 5Ah battery. On sustained hardwood work, expect closer to 30 to 35 minutes. A 7.5Ah battery separately, extends those times by roughly 50 percent. For a morning session, two 5Ah batteries will cover most residential cleanup tasks.
 
 ### Can the EGO CS1804 cut through a full-sized tree?
 
@@ -187,7 +181,7 @@ Regular maintenance covers chain tension checks (the chain stretches with use, e
       "name": "How long does the battery last per charge?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "On lighter work, plan for 40 to 50 minutes of active cutting from a 5Ah battery. On sustained hardwood work, expect closer to 30 to 35 minutes. A 7.5Ah battery, currently around $130 separately, extends those times by roughly 50 percent. For a morning session, two 5Ah batteries will cover most residential cleanup tasks."
+ "text": "On lighter work, plan for 40 to 50 minutes of active cutting from a 5Ah battery. On sustained hardwood work, expect closer to 30 to 35 minutes. A 7.5Ah battery separately, extends those times by roughly 50 percent. For a morning session, two 5Ah batteries will cover most residential cleanup tasks."
       }
     },
     {
@@ -209,4 +203,3 @@ Regular maintenance covers chain tension checks (the chain stretches with use, e
   ]
 }
 </script>
-

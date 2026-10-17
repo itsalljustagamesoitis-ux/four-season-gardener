@@ -14,14 +14,14 @@ products:
   - id: "droll-yankees-yankee-flipper"
     role: "best_overall"
     article_specific_pros:
-      - "Weight-activated motor spins the perch when a squirrel lands , reliably deters them"
+      - "Weight-activated motor spins the perch when a squirrel lands, reliably deters them"
       - "5 lb seed capacity; wide seed tube fits sunflower and mixed seed"
     article_specific_cons:
-      - "Requires charging , dead battery means squirrels have free access"
+      - "Requires charging, dead battery means squirrels have free access"
   - id: "squirrel-buster-plus-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Passive weight-activated cage closes seed ports when squirrels grab on , no batteries needed"
+      - "Passive weight-activated cage closes seed ports when squirrels grab on, no batteries needed"
       - "5.1 lb capacity with 6 feeding ports; cardinal ring accommodates larger birds"
     article_specific_cons:
       - "More involved cleaning than simple tray feeders"
@@ -31,11 +31,11 @@ products:
       - "Ring Pull Advantage lid removes with one hand for fast, mess-free refilling"
       - "Six feeding stations accommodate multiple bird species simultaneously"
     article_specific_cons:
-      - "No squirrel deterrent , needs a baffle pole or dome purchased separately"
+      - "No squirrel deterrent, needs a baffle pole or dome purchased separately"
   - id: "natures-hangout-window-bird-feeder"
     role: "also_consider"
     article_specific_pros:
-      - "Clear acrylic mounting brings birds within inches of indoor viewers , best close-up wildlife experience"
+      - "Clear acrylic mounting brings birds within inches of indoor viewers, best close-up wildlife experience"
       - "Large capacity (4+ cups) handles multiple species simultaneously"
     article_specific_cons:
       - "Birds may take days or weeks to discover and trust a window-mounted feeder"
@@ -59,7 +59,7 @@ Peanuts are one of the most reliable ways to attract a specific tier of bird: nu
 
 The problem is that "bird feeder for peanuts" covers a wider range of equipment than most buyers realize before they start shopping. Whole peanuts in the shell need a large-mesh feeder. Shelled peanuts can go into tube feeders with wider ports or dedicated peanut feeders with mesh sides. And then there's the squirrel question, which is never not relevant.
 
-I've tested a range of feeders across multiple seasons on a 12-acre property with a serious squirrel population and heavy woodpecker and nuthatch traffic. What follows are the feeders I'd actually buy again, one I'd buy for the first time now, and some that cover specific situations. Our full [Bird Feeders & Baths](/birds-wildlife/) section has more context on pairing feeders with poles, baffles, and placement strategy.
+Testing a range of feeders across multiple seasons on a property with serious squirrel pressure and heavy woodpecker and nuthatch traffic produces clear preferences. What follows are the feeders I'd actually buy again, one I'd buy for the first time now, and some that cover specific situations. Our full [Bird Feeders & Baths](/birds-wildlife/) section has more context on pairing feeders with poles, baffles, and placement strategy.
 
 ## Top Picks
 
@@ -75,10 +75,7 @@ The cardinal ring at the bottom is a practical addition, not a marketing detail.
 
 ![Bird Feeder For Peanuts](/images/articles/birds-wildlife-3.jpg)
 
-
 **Cleaning.** The one legitimate complaint I'd make is that cleaning is more involved than a simple tray or tube feeder. The cage assembly disassembles for washing, which is the right design, but it takes longer than a rinse-and-go tube. I clean mine every three to four weeks during active feeding months and once before storage. Budget for that time.
-
-**Price.** Currently running around $55 to $65 on Amazon depending on configuration. Comparable to the Droll Yankees Yankee Flipper on price, but with no battery dependency.
 
 **Pros.**
 - Passive mechanism means no batteries, no charging, nothing to fail
@@ -104,9 +101,6 @@ Droll Yankees manufactures in the United States and backs this feeder with a lif
 
 ![Bird Feeder For Peanuts](/images/articles/birds-wildlife-4.jpg)
 
-
-**Price.** Around $150 to $170 currently. That's a meaningful premium over the Squirrel Buster Plus, and the Flipper justifies it mostly on entertainment value and brand reliability rather than superior squirrel deterrence. Both mechanisms work.
-
 **Pros.**
 - Motor-driven perch spin deters squirrels reliably when the battery is charged
 - 5 lb capacity, wide tube accommodates sunflower and mixed seed
@@ -122,15 +116,13 @@ Droll Yankees manufactures in the United States and backs this feeder with a lif
 
 ### [Droll Yankees Classic Sunflower Seed Bird Feeder, 20-Inch](product:droll-yankees-classic-feeder): Best Budget Entry Point
 
-If you're new to feeding birds and want to start without spending $60 or more on your first feeder, this is the one to buy. The Droll Yankees Classic is a no-frills tube feeder that does its job without complications.
+If you're new to feeding birds and want to start without spending significantly more on your first feeder, this is the one to buy. The Droll Yankees Classic is a no-frills tube feeder that does its job without complications.
 
 The Ring Pull Advantage lid is genuinely useful. It removes with one hand, which sounds minor until you're refilling feeders in November with gloves on. Six feeding stations handle chickadees, finches, and smaller woodpeckers without crowding. The UV-stabilized polycarbonate tube holds up to direct sun without yellowing or cracking, which cheaper feeders from big-box stores frequently don't manage after two or three seasons.
 
-**What it doesn't do.** There is no squirrel deterrent. None. If squirrels are anywhere near your property, this feeder will be raided constantly without additional protection. You need either a [bird feeder pole with squirrel baffle](/bird-feeder-pole-with-squirrel-baffle/) or a separate dome baffle mounted above it. I'd factor that cost in before assuming this is actually a budget purchase. A decent baffle and pole combination runs another $30 to $60, which changes the math.
+**What it doesn't do.** There is no squirrel deterrent. None. If squirrels are anywhere near your property, this feeder will be raided constantly without additional protection. You need either a [bird feeder pole with squirrel baffle](/bird-feeder-pole-with-squirrel-baffle/) or a separate dome baffle mounted above it. I'd factor that cost in before assuming this is actually a budget purchase. A decent baffle and pole combination runs more, which changes the math.
 
 The 1 lb seed capacity is the other constraint. During fall and early winter when bird traffic is highest, you may be refilling every day or two. If that's not something you want to manage, look at the larger-capacity feeders above.
-
-**Price.** Around $20 to $25 on Amazon. Droll Yankees backs it with the same lifetime guarantee they offer across their line, which is reassuring for a budget purchase.
 
 **Pros.**
 - One-hand Ring Pull lid makes refilling fast and clean
@@ -139,7 +131,6 @@ The 1 lb seed capacity is the other constraint. During fall and early winter whe
 - Lowest entry price of the group
 
 ![Bird Feeder For Peanuts](/images/articles/birds-wildlife-5.jpg)
-
 
 **Cons.**
 - No squirrel deterrent whatsoever
@@ -155,11 +146,11 @@ The acrylic construction is clear, which means the birds appear to be feeding in
 
 If you're comparing this category, our [suction cup window bird feeder](/suction-cup-window-bird-feeder/) guide covers the installation and placement details worth knowing before you commit to a window-mounted option.
 
-**The realistic expectation.** Birds are cautious about new objects close to glass. When I installed a window feeder the first time, nothing visited for eleven days. Then a chickadee found it, and within a week it was busy. If you're comparing window feeders to pole-mounted tube feeders on bird traffic volume, the pole feeder wins by a wide margin. The window feeder's advantage is proximity, not volume.
+**The realistic expectation.** Birds are cautious about new objects close to glass. Window feeders often go unvisited for days at first — eleven days passed before the first visitor. Then a chickadee found it, and within a week it was busy. If you're comparing window feeders to pole-mounted tube feeders on bird traffic volume, the pole feeder wins by a wide margin. The window feeder's advantage is proximity, not volume.
 
 Cleaning requires removal from the window each time, which is more work than a pole feeder. I'd clean it every two to three weeks during active use.
 
-**Price.** Around $30 to $35. The right purchase for an apartment gardener, a child's bedroom window, or anyone who wants to observe bird behavior up close rather than from across the yard.
+**Price.**. The right purchase for an apartment gardener, a child's bedroom window, or anyone who wants to observe bird behavior up close rather than from across the yard.
 
 **Pros.**
 - Brings birds within inches of indoor viewers, clear acrylic construction
@@ -181,7 +172,6 @@ Cleaning requires removal from the window each time, which is more work than a p
 The first decision determines the feeder type. Whole peanuts in the shell require a large-mesh wire feeder or basket-style feeder so birds can grab and work the shells. Shelled peanuts (peanut hearts or peanut pieces) can go into tube feeders with wider ports, platform feeders, or any of the feeders covered above. Most of the feeders in this roundup are optimized for sunflower seed and mixed seed, but shelled peanuts work well in them too. If you specifically want to feed whole peanuts in the shell, a dedicated peanut ring feeder or mesh basket is the right tool.
 
 ![Bird Feeder For Peanuts](/images/articles/birds-wildlife-6.jpg)
-
 
 ### The Squirrel Problem
 
@@ -212,7 +202,6 @@ For more on pairing feeders with mounting hardware, baffles, and seasonal seed s
 For shelled peanuts, any of the tube feeders with wider ports in this roundup will work. For whole peanuts in the shell, a mesh or wire basket-style feeder designed for that purpose is the better choice. The Squirrel Buster Plus handles shelled peanuts alongside mixed seed without issue. If whole peanuts in the shell are your priority, look at dedicated peanut ring feeders designed with large-mesh openings.
 
 ![Bird Feeder For Peanuts](/images/articles/birds-wildlife-7.jpg)
-
 
 ### How do I stop squirrels from raiding a peanut feeder?
 
@@ -278,4 +267,3 @@ Yes, with some conditions. Suction cup adhesion can weaken in extreme cold, so c
   ]
 }
 </script>
-

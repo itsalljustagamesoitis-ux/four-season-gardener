@@ -56,8 +56,7 @@ The LM2135SP runs on EGO's 56V ARC Lithium platform. The 7.5Ah battery that come
 
 ![Ego Robot Mower](/images/articles/battery-equipment-2.jpg)
 
-
-The kit version (mower, battery, and rapid charger) currently runs around $649 on Amazon. The tool-only version is around $449. The 7.5Ah battery alone is approximately $199 if purchased separately, and the rapid charger adds another $80 or so at the time of writing. Do that math before you buy the tool-only version thinking you're saving money.
+The kit version (mower, battery, and rapid charger). The tool-only version is. The 7.5Ah battery alone is if purchased separately, and the rapid charger adds more or so at the time of writing. Do that math before you buy the tool-only version thinking you're saving money.
 
 The 56V platform is cross-compatible with the full EGO lineup. If you already own EGO batteries from a string trimmer or, say, an [EGO pole hedge trimmer](/ego-pole-hedge-trimmer/), that changes the value calculation significantly.
 
@@ -77,7 +76,6 @@ The Select Cut multi-blade system is the feature that separates this mower from 
 
 ![Ego Robot Mower](/images/articles/battery-equipment-3.jpg)
 
-
 Comparing directly to the Husqvarna HU700F I replaced: cut quality is comparable on dry grass. On wet or heavy grass, the gas mower had more consistent torque. The EGO slows noticeably when you push it into a thick patch. It doesn't stall, but you feel the resistance in a way you don't with a gas engine.
 
 ### Self-Propel System
@@ -95,7 +93,6 @@ The turning radius is reasonable for a 21-inch deck. Maneuvering around establis
 Quiet enough that I mow at 7am without any complaints from neighbors who are closer than I'd prefer. Decibel ratings are marketing, but subjectively it's roughly half the noise of the Honda-engined Husqvarna. No gas storage, no oil changes, no carburetor gumming up over winter if you forget to run the tank dry. Blade removal and sharpening is the same procedure as any walk-behind. The deck washes out easily through the side port. Those are not small things over a decade of mowings.
 
 ![Ego Robot Mower](/images/articles/battery-equipment-4.jpg)
-
 
 ## Pros and Cons
 
@@ -124,19 +121,16 @@ The LM2135SP makes the most sense if your mowing area is under two acres, your t
 
 ![Ego Robot Mower](/images/articles/battery-equipment-5.jpg)
 
-
 It's also a reasonable choice if you've reached the point where gas equipment maintenance has become more of a chore than the mowing itself, which I'd call a reasonable place to be after enough seasons.
 
 [Check current price on Amazon](product:ego-lm2135sp-self-propelled-mower)
 
 It's not the right choice if you have significant slopes, if your lawn consistently runs long and wet before you can mow it, or if you're cutting more than two acres and don't want to deal with battery swaps.
 
-The competition worth naming: the Greenworks Commercial 82V 25-inch self-propelled mower is a serious alternative at around $599 for the tool-only version and handles a larger cut width. The Ryobi 40V 21-inch self-propelled (around $449 with battery) is the budget comparison point, and it's a reasonable mower, but the Touch Drive system and Select Cut deck are noticeable steps up. For anyone who has been running a Husqvarna HU800AWD or similar premium gas mower and finds the switch to battery daunting, the EGO is the closest experience to gas I've found in a cordless walk-behind.
+The competition worth naming: the Greenworks Commercial 82V 25-inch self-propelled mower is a serious alternative at for the tool-only version and handles a larger cut width. The Ryobi 40V 21-inch self-propelled is the budget comparison point, and it's a reasonable mower, but the Touch Drive system and Select Cut deck are noticeable steps up. For anyone who has been running a Husqvarna HU800AWD or similar premium gas mower and finds the switch to battery daunting, the EGO is the closest experience to gas I've found in a cordless walk-behind.
 
 If you're building out a full cordless tool kit, it's worth spending some time on our [Battery & Cordless Tools](/battery-equipment/) hub before you buy, particularly to think through battery compatibility across brands before you commit to a platform.
 
 For trimming and edging to pair with this mower, the [Stihl battery edger](/stihl-battery-edger/) and the [EGO hedge trimmer attachment](/ego-hedge-trimmer-attachment/) are both worth reading alongside this review, since yard equipment tends to get bought in clusters rather than in isolation.
 
 [See EGO POWER+ LM2135SP Self-Propelled Mower on Amazon →](product:ego-lm2135sp-self-propelled-mower)
-
-

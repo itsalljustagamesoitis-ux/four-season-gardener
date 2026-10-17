@@ -17,7 +17,7 @@ products:
       - "Weather Intelligence automatically skips scheduled watering when rain is forecast"
       - "App controls watering from anywhere; Alexa and Google Home compatible"
     article_specific_cons:
-      - "Requires Wi-Fi near the controller , common garage locations may need an extender"
+      - "Requires Wi-Fi near the controller, common garage locations may need an extender"
 tags: ["irrigation", "review"]
 disclosure_required: true
 noindex: false
@@ -36,14 +36,13 @@ safety_topics:
   - electrical
 ---
 
-If you've been searching for a Moen smart sprinkler controller and keep landing on the Rachio 3 instead, there's a reason for that. Moen made a brief push into smart irrigation with their Flo system, but their sprinkler controller line never gained the traction or the support ecosystem that serious irrigation users need. The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller) is, at this point, the product that occupies the space Moen was aiming for. If your goal is hands-off scheduling, genuine water savings, and a controller that actually integrates with the rest of your smart home, the Rachio 3 is where the conversation starts. My coverage of sprinkler controllers, timers, and irrigation upgrades lives over at [Irrigation](/irrigation/) , if you're still sorting out what type of watering system you have or need, that's worth reading first.
+If you've been searching for a Moen smart sprinkler controller and keep landing on the Rachio 3 instead, there's a reason for that. Moen made a brief push into smart irrigation with their Flo system, but their sprinkler controller line never gained the traction or the support ecosystem that serious irrigation users need. The [Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone](product:rachio-3-8zone-controller) is, at this point, the product that occupies the space Moen was aiming for. If your goal is hands-off scheduling, genuine water savings, and a controller that actually integrates with the rest of your smart home, the Rachio 3 is where the conversation starts. My coverage of sprinkler controllers, timers, and irrigation upgrades lives over at [Irrigation](/irrigation/), if you're still sorting out what type of watering system you have or need, that's worth reading first.
 
 ## Quick Verdict
 
-The [Rachio 3](product:rachio-3-8zone-controller) is the best smart sprinkler controller available for homeowners with existing inground systems, and it isn't particularly close. The Weather Intelligence feature alone justifies the purchase price for anyone running a multi-zone system in a region with variable rainfall. At around $170 on Amazon at the time of writing, it's mid-range by smart home standards and significantly cheaper than a season of overwatering or a landscaping bill caused by poorly timed irrigation.
+The [Rachio 3](product:rachio-3-8zone-controller) is the best smart sprinkler controller available for homeowners with existing inground systems, and it isn't particularly close. The Weather Intelligence feature alone justifies the purchase price for anyone running a multi-zone system in a region with variable rainfall. it's mid-range by smart home standards and significantly cheaper than a season of overwatering or a landscaping bill caused by poorly timed irrigation.
 
 The caveats are real but narrow. This controller requires a Wi-Fi connection at the installation point, which is often a garage or utility area with marginal signal. And it is strictly for inground sprinkler systems. If your setup is drip line or soaker hose, this is not your product.
-
 
 [Check current price on Amazon](product:rachio-3-8zone-controller)
 
@@ -58,7 +57,7 @@ The caveats are real but narrow. This controller requires a Wi-Fi connection at 
 
 ![Moen Smart Sprinkler Controller](/images/articles/irrigation-5.jpg)
 
-- Current price. Around $170 on Amazon
+- Current price.
 
 The hardware itself is straightforward. A wall-mounted unit, clean enough that it doesn't look out of place inside a finished space, though most people will put it in a garage or basement regardless. The included transformer handles the wiring. Setup requires your existing sprinkler wiring plus a working Wi-Fi signal within range.
 
@@ -78,7 +77,6 @@ I tracked skipped cycles over one full growing season. The system skipped or red
 
 ![Moen Smart Sprinkler Controller](/images/articles/irrigation-6.jpg)
 
-
 If you've been running a [mechanical sprinkler timer](/mechanical-sprinkler-timer/) on a fixed weekly schedule and wondering why your lawn looks stressed in August despite regular watering, Weather Intelligence is likely the answer to a question you haven't been able to articulate yet.
 
 ### App and Remote Control
@@ -91,16 +89,15 @@ The app sends push notifications for skipped cycles, completed schedules, and an
 
 ### The Wi-Fi Issue
 
-On that note: if your controller location has weak Wi-Fi signal, plan for this before you install. The Rachio 3 communicates on 2.4GHz only, which travels better through walls than 5GHz but still has limits. A basic range extender (I used a TP-Link RE315, around $30 at the time) solved the problem completely. This is a common enough install situation that I'd almost recommend budgeting for the extender by default.
+On that note: if your controller location has weak Wi-Fi signal, plan for this before you install. The Rachio 3 communicates on 2.4GHz only, which travels better through walls than 5GHz but still has limits. A basic range extender (I used a TP-Link RE315 at the time) solved the problem completely. This is a common enough install situation that I'd almost recommend budgeting for the extender by default.
 
 ![Moen Smart Sprinkler Controller](/images/articles/irrigation-7.jpg)
-
 
 ### What It Won't Do
 
 The Rachio 3 does not support drip irrigation or soaker hose systems directly. If your property has a mix of inground zones and surface drip runs, you can wire the inground zones to the Rachio and manage the drip lines separately. For drip-only setups, look elsewhere. My coverage of [drip irrigation conversion options](/drip-irrigation-conversion-kit/) covers some alternatives if that's your situation.
 
-It also does not have a built-in backflow preventer or flow sensor. You can add a compatible flow meter as an accessory (the Rachio Wireless Flow Meter runs around $90 separately), but that's an additional purchase if leak detection matters to you.
+It also does not have a built-in backflow preventer or flow sensor. You can add a compatible flow meter as an accessory (the Rachio Wireless Flow Meter is sold separately), but that's an additional purchase if leak detection matters to you.
 
 ## Pros and Cons
 
@@ -115,7 +112,7 @@ It also does not have a built-in backflow preventer or flow sensor. You can add 
 **Cons.**
 - Requires reliable Wi-Fi at the install location. Garage and utility room installs frequently need an extender
 - Inground systems only. Not compatible with drip or soaker hose setups without workarounds
-- No flow sensor included. The Rachio Wireless Flow Meter is a separate $90 purchase
+- No flow sensor included. The Rachio Wireless Flow Meter is a separate purchase
 - Cloud-dependent. If Rachio's servers go down, scheduled watering continues on last known schedule, but remote control and Weather Intelligence pause. This has happened, though rarely
 
 [See Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone on Amazon →](product:rachio-3-8zone-controller)
@@ -126,12 +123,11 @@ The Rachio 3 is the right call for homeowners with an existing inground sprinkle
 
 ![Moen Smart Sprinkler Controller](/images/articles/irrigation-8.jpg)
 
-
-It's also worth considering if water costs in your area have increased significantly. At roughly $170 for the 8-zone unit, the math on payback period isn't complicated. If Weather Intelligence saves you 30 percent of your water use across a full season, the controller pays for itself relatively quickly in most markets with tiered water pricing.
+It's also worth considering if water costs in your area have increased significantly. At for the 8-zone unit, the math on payback period isn't complicated. If Weather Intelligence saves you 30 percent of your water use across a full season, the controller pays for itself relatively quickly in most markets with tiered water pricing.
 
 Where I'd steer you away: if you're running drip lines to garden beds or containers, this isn't your controller. A smart timer designed for drip systems, or a simpler battery-powered option, makes more sense for those setups. My coverage of [garden bed drip irrigation](/garden-bed-drip-irrigation-kit/) touches on some of those options if that's closer to your situation.
 
-The comparison I'd keep in mind is the RainBird ST8I-WiFi, which runs around $150 and is the closest competitor in this price range. The RainBird app is functional but noticeably less polished, and its weather adjustment logic is less sophisticated than Rachio's Weather Intelligence. The Rachio 3 is worth the extra $20 for anyone who will actually use the scheduling features. If you want the simplest possible upgrade and will primarily use manual scheduling anyway, the RainBird is a reasonable alternative.
+The comparison I'd keep in mind is the RainBird ST8I-WiFi, which and is the closest competitor in this price range. The RainBird app is functional but noticeably less polished, and its weather adjustment logic is less sophisticated than Rachio's Weather Intelligence. The Rachio 3 is worth the upgrade for anyone who will actually use the scheduling features. If you want the simplest possible upgrade and will primarily use manual scheduling anyway, the RainBird is a reasonable alternative.
 
 For anyone comparing against older Moen irrigation products or waiting for Moen to re-enter this market more seriously: there's no compelling reason to wait. The Rachio 3 has been on the market long enough to have gone through multiple firmware iterations, and the ecosystem support (Alexa, Google, IFTTT) is mature. More of the site's irrigation coverage is at [smart irrigation and sprinkler systems](/irrigation/) if you want broader context before buying.
 
@@ -145,7 +141,6 @@ Rachio 3 integrates with Amazon Alexa, Google Home, Apple HomeKit, and IFTTT. It
 
 ![Moen Smart Sprinkler Controller](/images/articles/irrigation-1.jpg)
 
-
 ### Can I use the Rachio 3 without a Wi-Fi connection?
 
 The controller will run its last programmed schedule without a Wi-Fi connection, but Weather Intelligence, remote control through the app, and schedule changes all require an active internet connection. For a location with unreliable Wi-Fi, plan for a range extender. The controller does not function as a standalone offline device in any meaningful way.
@@ -156,7 +151,7 @@ Yes, with no modifications required on the controller side. The Rachio 3 operate
 
 ### How many zones do I need?
 
-The 8-zone model handles most residential inground systems. Count your existing zones before purchasing. If you have 9 or more zones, the 16-zone Rachio 3 is available at around $230. Buying the 8-zone unit and expanding later is not an option. You'd need to replace the entire controller, so size up if you're anywhere close to the limit.
+The 8-zone model handles most residential inground systems. Count your existing zones before purchasing. If you have 9 or more zones, the 16-zone Rachio 3 is available at. Buying the 8-zone unit and expanding later is not an option. You'd need to replace the entire controller, so size up if you're anywhere close to the limit.
 
 ### What happens to my watering schedule if Rachio's servers go offline?
 
@@ -196,7 +191,7 @@ The controller will continue running whatever schedule was last synced to the de
       "name": "How many zones do I need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The 8-zone model handles most residential inground systems. Count your existing zones before purchasing. If you have 9 or more zones, the 16-zone Rachio 3 is available at around $230. Buying the 8-zone unit and expanding later is not an option. You'd need to replace the entire controller, so size up if you're anywhere close to the limit."
+ "text": "The 8-zone model handles most residential inground systems. Count your existing zones before purchasing. If you have 9 or more zones, the 16-zone Rachio 3 is available at. Buying the 8-zone unit and expanding later is not an option. You'd need to replace the entire controller, so size up if you're anywhere close to the limit."
       }
     },
     {
@@ -210,4 +205,3 @@ The controller will continue running whatever schedule was last synced to the de
   ]
 }
 </script>
-

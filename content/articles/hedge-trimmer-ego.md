@@ -14,24 +14,24 @@ products:
   - id: "ego-ht2411-hedge-trimmer"
     role: "best_overall"
     article_specific_pros:
-      - "1-inch cut capacity handles thick branches , more than most cordless hedge trimmers"
+      - "1-inch cut capacity handles thick branches, more than most cordless hedge trimmers"
       - "Brushless motor with 3,000 strokes per minute; lighter than gas models at 7 lbs"
     article_specific_cons:
       - "2.5Ah included battery gives only about 45 minutes of continuous use"
   - id: "ego-st1521s-string-trimmer"
     role: "also_consider"
     article_specific_pros:
-      - "POWERLOAD technology feeds line automatically , no more manual reloading mid-job"
+      - "POWERLOAD technology feeds line automatically, no more manual reloading mid-job"
       - "Carbon fiber split shaft reduces vibration and allows easy transport and storage"
     article_specific_cons:
-      - "POWERLOAD accepts only specific EGO line cartridges , cannot use bulk string from other brands"
+      - "POWERLOAD accepts only specific EGO line cartridges, cannot use bulk string from other brands"
   - id: "ego-lb6504-leaf-blower"
     role: "also_consider"
     article_specific_pros:
       - "650 CFM is one of the highest outputs of any handheld cordless blower"
       - "Turbine fan technology moves more air with less noise than axial-fan competitors"
     article_specific_cons:
-      - "Larger nozzle diameter , slightly less precise for tight spaces"
+      - "Larger nozzle diameter, slightly less precise for tight spaces"
   - id: "ego-lm2135sp-self-propelled-mower"
     role: "also_consider"
     article_specific_pros:
@@ -57,7 +57,7 @@ safety_topics:
   - power-equipment
 ---
 
-EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in under $150 at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.
+EGO makes a credible case for ditching gas across your entire yard tool lineup, and their hedge trimmer is where a lot of people start. It's not complicated to understand why: the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) ships with a battery and charger, runs on the same 56V platform as everything else in the EGO catalog, and comes in entry-level at most retailers. For someone new to battery-powered yard tools, it's a low-risk entry point.
 
 But "low-risk entry point" and "right tool for your hedges" are not always the same thing. This guide covers the EGO hedge trimmer honestly, puts it in context with the rest of the EGO lineup, and tells you when to buy it and when to spend more.
 
@@ -73,10 +73,9 @@ Dual-action blades matter too. Both blade edges move, which reduces vibration an
 
 ### Battery Runtime and Platform Compatibility
 
-The included 2.5Ah battery gives you roughly 45 minutes of continuous cutting. That's fine for most residential hedges if you work efficiently. It becomes a problem if you have a long formal hedge or tend to do multiple tasks in a single session. The fix is a second battery, which on the 56V EGO platform runs around $80 to $100 for a comparable 2.5Ah unit at the time of writing.
+The included 2.5Ah battery gives you roughly 45 minutes of continuous cutting. That's fine for most residential hedges if you work efficiently. It becomes a problem if you have a long formal hedge or tend to do multiple tasks in a single session. The fix is a second battery, which on the 56V EGO platform for a comparable 2.5Ah unit at the time of writing.
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-4.jpg)
-
 
 Platform compatibility is the stronger argument for EGO. That same 56V battery pulls double duty in the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6504-leaf-blower), the [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower), and the [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](product:ego-st1521s-string-trimmer). If you're buying into a system, you're not just buying a hedge trimmer.
 
@@ -88,20 +87,19 @@ The HT2411 comes in at 7 lbs with battery installed. That's lighter than most ga
 
 ### EGO POWER+ HT2411: The Hedge Trimmer
 
-At around $130 to $150 as a kit with battery and charger, the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is the most affordable way into the EGO platform. The brushless motor is the right technology at this price. Brushless motors run cooler, last longer, and extract more runtime from the same battery than brushed alternatives. For a hedge trimmer that may sit unused for months between seasons, that durability matters.
+the [EGO POWER+ HT2411 24" Cordless Hedge Trimmer](product:ego-ht2411-hedge-trimmer) is the most affordable way into the EGO platform. The brushless motor is the right technology at this price. Brushless motors run cooler, last longer, and extract more runtime from the same battery than brushed alternatives. For a hedge trimmer that may sit unused for months between seasons, that durability matters.
 
 The 1-inch cut capacity stands out in this price bracket. The Greenworks 22-inch cordless hedge trimmer, for comparison, tops out at 9/16-inch cut capacity. The Ryobi ONE+ 22-inch runs at 3/8-inch. The HT2411 handles material those tools won't.
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-5.jpg)
 
-
 Where it falls short is runtime. Forty-five minutes is workable, not generous. If you have more than 50 linear feet of established hedge, plan for a battery swap or a charging break. And if your hedges include any work above shoulder height, consider pairing this trimmer with the [EGO pole hedge trimmer](/ego-pole-hedge-trimmer/) rather than fighting the geometry on a ladder.
 
 ### EGO POWER+ ST1521S: The String Trimmer
 
-The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](product:ego-st1521s-string-trimmer) sits in the mid-price range, typically around $179 to $199 as a kit. The headline feature is POWERLOAD: you thread a new line cartridge into the head and press a button. No unwinding, no manual threading, no bent-over fumbling at the base of a fence line.
+The [EGO POWER+ ST1521S 15" String Trimmer with POWERLOAD](product:ego-st1521s-string-trimmer) sits in the mid-price range as a kit. The headline feature is POWERLOAD: you thread a new line cartridge into the head and press a button. No unwinding, no manual threading, no bent-over fumbling at the base of a fence line.
 
-The catch is that POWERLOAD only accepts EGO's proprietary line cartridges. You cannot wind your own string from a bulk spool. Replacement cartridges run around $10 to $12 each, which adds up if you're trimming frequently. For buyers who prioritize convenience and are already in the EGO ecosystem, the tradeoff is easy. For buyers who are cost-sensitive and don't mind the manual reload, the Stihl FSA 57 is worth a look, though getting one on Amazon is less straightforward than picking up the EGO kit.
+The catch is that POWERLOAD only accepts EGO's proprietary line cartridges. You cannot wind your own string from a bulk spool. Replacement cartridges run, which adds up if you're trimming frequently. For buyers who prioritize convenience and are already in the EGO ecosystem, the tradeoff is easy. For buyers who are cost-sensitive and don't mind the manual reload, the Stihl FSA 57 is worth a look, though getting one on Amazon is less straightforward than picking up the EGO kit.
 
 The carbon fiber split shaft reduces vibration noticeably compared to aluminum shaft trimmers I've run. The 15-inch cutting width is narrower than many gas models, but for edging and detail work around beds and borders, the precision is more useful than a wider swath.
 
@@ -111,14 +109,13 @@ At 650 CFM, the [EGO POWER+ LB6504 650 CFM Cordless Leaf Blower](product:ego-lb6
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-6.jpg)
 
-
-The kit includes the 5.0Ah battery and rapid charger. On heavy leaf drop in fall, I get about 35 to 40 minutes of continuous use at high speed. That covers a full session on my front drive and gravel paths without a swap. The nozzle is wider than I'd like for getting into tight spots, and a gutter cleaning attachment is sold separately (around $20 at the time of writing).
+The kit includes the 5.0Ah battery and rapid charger. On heavy leaf drop in fall, I get about 35 to 40 minutes of continuous use at high speed. That covers a full session on my front drive and gravel paths without a swap. The nozzle is wider than I'd like for getting into tight spots, and a gutter cleaning attachment is sold separately.
 
 For anyone building a full EGO yard setup, this is the blower I'd start with over the smaller LB5804.
 
 ### EGO POWER+ LM2135SP: The Self-Propelled Mower
 
-The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) is where the EGO platform earns its reputation. The 56V 7.5Ah ARC Lithium battery delivers up to 60 minutes of runtime, which covers roughly a third to half an acre in a single charge depending on conditions. The Touch Drive self-propel system is genuinely different from the fixed-speed lever systems on most self-propelled mowers. It responds to hand pressure, so you set the pace by how hard you push, not by toggling a speed selector. (I tested this over an entire mowing season before accepting it wasn't a gimmick.)
+The [EGO POWER+ LM2135SP 21" Self-Propelled Cordless Lawn Mower](product:ego-lm2135sp-self-propelled-mower) is where the EGO platform earns its reputation. The 56V 7.5Ah ARC Lithium battery delivers up to 60 minutes of runtime, which covers roughly a third to half an acre in a single charge depending on conditions. The Touch Drive self-propel system is genuinely different from the fixed-speed lever systems on most self-propelled mowers. It responds to hand pressure, so you set the pace by how hard you push, not by toggling a speed selector. (An entire mowing season of testing eventually confirmed it wasn't a gimmick.)
 
 The Select Cut multi-blade system handles mulch, bag, and side-discharge without swapping parts. At around 68 lbs with the battery installed, it's not a lightweight machine, but that's comparable to a mid-range gas self-propelled mower. The tool-only version does not include the battery or charger, so confirm which version you're buying before checkout. The kit version runs significantly more.
 
@@ -132,10 +129,9 @@ Buy the HT2411 hedge trimmer kit. It's the cheapest entry into the 56V platform 
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-7.jpg)
 
-
 ### If You Already Own EGO Batteries
 
-Buy tools only, not kits. The kit premium for a battery you don't need is typically $80 to $100. The HT2411 is available tool-only. Check stock, because the kit version tends to be more widely available.
+Buy tools only, not kits. The kit premium for a battery you don't need is real. The HT2411 is available tool-only. Check stock, because the kit version tends to be more widely available.
 
 ### If Your Hedges Are the Primary Problem
 
@@ -143,7 +139,7 @@ The HT2411 handles 95% of residential hedge work at a price that's hard to argue
 
 ### If You're Comparing Against Gas
 
-The honest comparison for the HT2411 is against something like a Husqvarna 122HD45 or a Stihl HS 45, both of which run $200 to $250 and require gas mixing, seasonal maintenance, and storage. The EGO kit undercuts them on price and eliminates the maintenance overhead. Where gas still wins is runtime: a full tank runs longer than 45 minutes. If that's the deciding factor for your property, a second EGO battery solves it, and the combined cost still sits under or around the gas alternative depending on timing.
+The honest comparison for the HT2411 is against something like a Husqvarna 122HD45 or a Stihl HS 45, both of which and require gas mixing, seasonal maintenance, and storage. The EGO kit undercuts them on price and eliminates the maintenance overhead. Where gas still wins is runtime: a full tank runs longer than 45 minutes. If that's the deciding factor for your property, a second EGO battery solves it, and the combined cost still sits under or around the gas alternative depending on timing.
 
 For anyone already using battery tools across their property, more coverage of the full cordless lineup is available in the [cordless and battery tool reviews](/battery-equipment/) section.
 
@@ -157,10 +153,9 @@ Yes. The standard HT2411 kit includes a 2.5Ah 56V battery and a standard charger
 
 ![Hedge Trimmer Ego](/images/articles/battery-equipment-8.jpg)
 
-
 ### How long does the battery last on the EGO HT2411?
 
-EGO rates it for roughly 45 minutes of continuous use with the included 2.5Ah battery. Real-world runtime depends on the density of material you're cutting. Light, maintained hedges will stretch that further. Thick, overgrown growth will shorten it. A second 2.5Ah battery, currently around $80 to $100, gives you a full back-to-back session without waiting for a charge.
+EGO rates it for roughly 45 minutes of continuous use with the included 2.5Ah battery. Real-world runtime depends on the density of material you're cutting. Light, maintained hedges will stretch that further. Thick, overgrown growth will shorten it. A second 2.5Ah battery gives you a full back-to-back session without waiting for a charge.
 
 ### Is the EGO 56V battery compatible across all EGO tools?
 
@@ -192,7 +187,7 @@ The standard HT2411 has a fixed blade and is not designed for overhead work. For
       "name": "How long does the battery last on the EGO HT2411?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "EGO rates it for roughly 45 minutes of continuous use with the included 2.5Ah battery. Real-world runtime depends on the density of material you're cutting. Light, maintained hedges will stretch that further. Thick, overgrown growth will shorten it. A second 2.5Ah battery, currently around $80 to $100, gives you a full back-to-back session without waiting for a charge."
+ "text": "EGO rates it for roughly 45 minutes of continuous use with the included 2.5Ah battery. Real-world runtime depends on the density of material you're cutting. Light, maintained hedges will stretch that further. Thick, overgrown growth will shorten it. A second 2.5Ah battery gives you a full back-to-back session without waiting for a charge."
       }
     },
     {
@@ -222,4 +217,3 @@ The standard HT2411 has a fixed blade and is not designed for overhead work. For
   ]
 }
 </script>
-

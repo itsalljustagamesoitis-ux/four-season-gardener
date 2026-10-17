@@ -14,10 +14,10 @@ products:
   - id: "solar-coop-heater-b0g1"
     role: "also_consider"
     article_specific_pros:
-      - "Truly solar-powered , no wiring or electricity bills"
+      - "Truly solar-powered, no wiring or electricity bills"
       - "Overheating protection for safe unattended use"
     article_specific_cons:
-      - "Low wattage , only effective for very small enclosures"
+      - "Low wattage, only effective for very small enclosures"
 tags: ["structures", "informational"]
 disclosure_required: true
 noindex: false
@@ -51,19 +51,17 @@ The two products I've been looking at sit at opposite ends of the budget tier. T
 
 ![Greenhouse Heater Solar](/images/articles/structures-2.jpg)
 
-
 ## Why This Matters for Small Structure Heating
 
 The economics of heating a small outbuilding are genuinely odd. Running a 1,500-watt space heater in a 10x10 potting shed for a Connecticut winter is expensive and often wasteful. For something like a 4x6 cold frame with a polycarbonate lid, that same heater is grotesque overkill. The gap between "too big to bother" and "too small to wire up" is exactly where solar heaters find their purpose.
 
 If you're already thinking about structure insulation, there's useful overlap with the decisions involved in building or buying an [insulated garden shed](/insulated-garden-shed/). The principle is the same: the tighter the envelope, the less heat you need to generate. A solar heater paired with a well-sealed small structure outperforms the same heater in a drafty one by a significant margin.
 
-The overheating protection on the generic coop unit is worth mentioning specifically. In an unattended small enclosure, a thermostatically controlled element matters. Without it, you're either setting a timer manually or accepting the risk of a heat spike that damages seedlings or, worse, creates a fire hazard in a wooden structure. The fact that this unit has that protection at its price point (currently around $35 to $45 on Amazon at the time of writing) is a genuine mark in its favor.
+The overheating protection on the generic coop unit is worth mentioning specifically. In an unattended small enclosure, a thermostatically controlled element matters. Without it, you're either setting a timer manually or accepting the risk of a heat spike that damages seedlings or, worse, creates a fire hazard in a wooden structure. The fact that this unit has that protection at its price point is a genuine mark in its favor.
 
-The Pomya 30W unit runs around $55 to $70 currently. The monocrystalline panel distinction matters: monocrystalline panels are meaningfully more efficient per square inch than polycrystalline alternatives, which means you're losing less output on partly cloudy days. Not immunity from the problem, just better performance under imperfect conditions.
+The Pomya 30W unit. The monocrystalline panel distinction matters: monocrystalline panels are meaningfully more efficient per square inch than polycrystalline alternatives, which means you're losing less output on partly cloudy days. Not immunity from the problem, just better performance under imperfect conditions.
 
 ![Greenhouse Heater Solar](/images/articles/structures-3.jpg)
-
 
 ## Setting One Up: What to Actually Do
 
@@ -81,10 +79,9 @@ Clear the panel face of snow promptly. (I timed this: an inch of snow on a panel
 
 ### Seal the Enclosure First
 
-Before you turn anything on, check for drafts. A cold frame with a warped lid is losing more heat through gaps than this heater can replace. Foam weatherstripping tape runs about $8 for a roll sufficient to do a standard cold frame. Do that first.
+Before you turn anything on, check for drafts. A cold frame with a warped lid is losing more heat through gaps than this heater can replace. Foam weatherstripping tape for a roll sufficient to do a standard cold frame. Do that first.
 
 ![Greenhouse Heater Solar](/images/articles/structures-4.jpg)
-
 
 ### Set the Thermostat or Temperature Cutoff
 
@@ -92,7 +89,7 @@ If your unit has overheating protection, check what temperature it's set to cut 
 
 ### Supplement with Passive Techniques
 
-Thermal mass works. A few dark-painted gallon jugs of water placed inside the cold frame absorb heat during the day and release it slowly overnight. This costs nothing and genuinely extends the useful temperature window. Bubble wrap insulation on the interior walls of a polycarbonate cold frame adds meaningful R-value for under $15.
+Thermal mass works. A few dark-painted gallon jugs of water placed inside the cold frame absorb heat during the day and release it slowly overnight. This costs nothing and genuinely extends the useful temperature window. Bubble wrap insulation on the interior walls of a polycarbonate cold frame adds meaningful R-value for entry-level
 
 ## Common Mistakes
 
@@ -108,7 +105,6 @@ Thermal mass works. A few dark-painted gallon jugs of water placed inside the co
 
 ![Greenhouse Heater Solar](/images/articles/structures-5.jpg)
 
-
 For context on what real structure heating involves at a larger scale, the considerations discussed around [flat roof garden shed](/flat-roof-garden-shed/) structures are relevant if you're thinking about how roofline and insulation interact with heat retention.
 
 ,
@@ -117,7 +113,7 @@ For context on what real structure heating involves at a larger scale, the consi
 
 If you have a cold frame or small coop and you want a low-intervention way to add daytime heat without running an extension cord, the [Solar Power Heater for Greenhouse, Chicken Coop & Dog House with Overheating Protection](product:solar-coop-heater-b0g1) does what it says at a price that's easy to justify. The overheating protection makes it safe for unattended use, which is not nothing.
 
-If you want meaningfully better panel performance and slightly more output headroom, spend the extra $20 to $30 and get the [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](product:pomya-30w-solar-heater-b0gq). The monocrystalline panel earns that price difference on days that aren't perfectly sunny, which is most days from November through March.
+If you want meaningfully better panel performance and slightly more output headroom, spend a bit more and get the [Pomya 30W Solar Heater for Greenhouse, Monocrystalline Panel, Portable](product:pomya-30w-solar-heater-b0gq). The monocrystalline panel earns that price difference on days that aren't perfectly sunny, which is most days from November through March.
 
 Neither product is the answer if you're protecting a full-sized growing space through a hard winter. For that, you need grid power, propane, or a battery system at a price point roughly ten times what either of these costs. The budget solar heater market is not hiding a secret solution to that problem. What it is hiding is a genuinely useful tool for a specific and smaller application, and if that's your situation, these are the best options at this price level.
 
@@ -133,7 +129,6 @@ Not with any unit in this price category. Budget solar heaters have no battery s
 
 ![Greenhouse Heater Solar](/images/articles/structures-6.jpg)
 
-
 ### What size greenhouse will a 30W solar heater actually heat?
 
 Under good sun conditions, a 30W unit can maintain a temperature differential of roughly 10-15°F above ambient in an enclosure of about 80-100 cubic feet. That's a well-sealed cold frame or small animal shelter, not a hobby greenhouse. A standard 6x8 greenhouse is approximately 10 to 15 times that volume.
@@ -148,7 +143,7 @@ Yes, but with significantly reduced output. A monocrystalline panel like the one
 
 ### Are these units worth buying compared to just running an extension cord and a small space heater?
 
-For remote structures where running power isn't practical, yes. For structures within easy reach of a GFCI outlet, a small 200-watt space heater on a thermostat (around $25 to $35) will outperform either solar unit in cold or cloudy conditions and cost less upfront. The solar units earn their keep specifically where wiring is the barrier, not where it's merely inconvenient.
+For remote structures where running power isn't practical, yes. For structures within easy reach of a GFCI outlet, a small 200-watt space heater on a thermostat will outperform either solar unit in cold or cloudy conditions and cost less upfront. The solar units earn their keep specifically where wiring is the barrier, not where it's merely inconvenient.
 
 <script type="application/ld+json">
 {
@@ -192,10 +187,9 @@ For remote structures where running power isn't practical, yes. For structures w
       "name": "Are these units worth buying compared to just running an extension cord and a small space heater?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For remote structures where running power isn't practical, yes. For structures within easy reach of a GFCI outlet, a small 200-watt space heater on a thermostat (around $25 to $35) will outperform either solar unit in cold or cloudy conditions and cost less upfront. The solar units earn their keep specifically where wiring is the barrier, not where it's merely inconvenient."
+ "text": "For remote structures where running power isn't practical, yes. For structures within easy reach of a GFCI outlet, a small 200-watt space heater on a thermostat will outperform either solar unit in cold or cloudy conditions and cost less upfront. The solar units earn their keep specifically where wiring is the barrier, not where it's merely inconvenient."
       }
     }
   ]
 }
 </script>
-

@@ -60,7 +60,6 @@ For broader context on the category, including complete fire pit tables and free
 | Material | Stainless steel | Stainless steel |
 | Fuel | Propane or natural gas | Propane or natural gas |
 | Install type | Drop-in | Drop-in |
-| Price (approx.) | Around $80-$100 | Around $100-$130 |
 | Best for | Circular or bowl-style fire pit builds | Long rectangular fire pit tables |
 
 Prices are current at the time of writing and fluctuate on Amazon.
@@ -74,7 +73,6 @@ The Stanbroil is built for the circular fire pit format, and if that's the shape
 The pan and burner ring are stainless steel, which matters for longevity when you're dealing with outdoor use, thermal cycling, and the occasional damp winter. It won't rust out in two seasons the way a cheaper steel component would. The burner itself is a round ring style, which distributes flame evenly around the perimeter when the gas rate is set correctly.
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-3.jpg)
-
 
 ### Fit and Compatibility
 
@@ -94,7 +92,6 @@ Nineteen inches is the product's ceiling, not just its size. If you want a longe
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-4.jpg)
 
-
 ## Why Choose the VEVOR 36 x 12 Inch Rectangular Burner
 
 The [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner) is built for a fundamentally different project shape. At 36 inches long and 12 inches wide, it produces a linear flame that reads as architectural rather than campfire-style. This is the burner category that most upscale outdoor furniture manufacturers use in their linear fire tables, and the VEVOR makes that format accessible for custom builds.
@@ -113,7 +110,6 @@ Same professional gas line requirement as the Stanbroil. No difference there. Th
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-5.jpg)
 
-
 ### What It's Good For
 
 Architecturally, the linear flame is just more versatile in a modern outdoor space. It reads as a design feature rather than a utility item. If you're building a fire pit coffee table format (the kind covered in [fire pit with coffee table](/fire-pit-with-coffee-table/) designs) and the table has an elongated opening, the VEVOR is going to look right in a way the Stanbroil simply won't.
@@ -122,7 +118,7 @@ The 36-inch length also produces a more substantial flame spread, which matters 
 
 ### Where It Falls Short
 
-The VEVOR is the pricier option, currently around $100-$130 depending on configuration, versus the Stanbroil's $80-$100 range. For a single-component purchase in a larger build, that difference isn't dramatic. But it's worth noting if you're already stretching a project budget on materials.
+The VEVOR is the pricier option depending on configuration, versus the Stanbroil's budget range. For a single-component purchase in a larger build, that difference isn't dramatic. But it's worth noting if you're already stretching a project budget on materials.
 
 Rectangular fire pit builds also tend to be more complex structurally. You need a longer, more precisely framed opening, and the installation is less forgiving of small errors than a round drop-in. If you're newer to DIY fire pit construction, the round format is probably the simpler starting point.
 
@@ -133,7 +129,6 @@ These two products don't actually compete with each other in any meaningful way.
 Build a round fire pit. Use the [Stanbroil 19-Inch Round Fire Pit Burner Pan](product:stanbroil-19in-round-burner-pan). It's priced fairly, it's a proven component, and the 19-inch ring burner is the right specification for that format.
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-6.jpg)
-
 
 Build a rectangular fire pit table or linear installation. Use the [VEVOR 36 x 12 inch Drop-in Fire Pit Pan](product:vevor-36x12-rectangular-burner). The linear flame is architecturally appropriate, the 36-inch length produces meaningful heat across a longer seating arrangement, and there's no round equivalent that produces the same effect.
 
@@ -152,7 +147,6 @@ Yes, both the Stanbroil and the VEVOR are rated for natural gas or propane. If y
 Neither the Stanbroil nor the VEVOR includes an ignition system or regulator as part of the core burner pan product. You'll need to source those components separately or specify them through your installer. Regulators, valves, and ignition kits are sold separately and vary depending on your fuel type and installation configuration. Budget for those costs when pricing the project.
 
 ![Propane Fire Pit Burner](/images/articles/fire-and-heat-7.jpg)
-
 
 ### What size fire pit opening do I need for each burner?
 
@@ -214,4 +208,3 @@ A drop-in burner gives you control over the surround material, dimensions, and o
   ]
 }
 </script>
-

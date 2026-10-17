@@ -34,7 +34,7 @@ faq:
     answer: "Teak's main advantages over HDPE are aesthetics and long-term resale value — it looks and feels like genuine wood because it is. HDPE is more maintenance-free and typically cheaper. If budget is the priority or you want zero-maintenance furniture, HDPE is a reasonable alternative; if you want the warmth and prestige of real hardwood, Grade A teak justifies the premium."
 ---
 
-If you're shopping for a round teak outdoor dining set and finding the market cluttered with HDPE plastic dressed up to look like wood, the [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-casual-sierra-teak-dining-set) is a straightforward answer to that frustration. This is actual teak. Grade A teak, milled and assembled into a five-piece set that includes a round table with an umbrella hole and four armrest chairs with seat pads. The price reflects that. Currently around $1,100 to $1,300 depending on when you're reading this and whether Amazon is running a promotion. Whether that's justified is what this review is about.
+If you're shopping for a round teak outdoor dining set and finding the market cluttered with HDPE plastic dressed up to look like wood, the [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-casual-sierra-teak-dining-set) is a straightforward answer to that frustration. This is actual teak. Grade A teak, milled and assembled into a five-piece set that includes a round table with an umbrella hole and four armrest chairs with seat pads. The price reflects that. Whether that's justified is what this review is about.
 
 I've covered a fair amount of [Outdoor Furniture](/outdoor-furniture/) on this site, and teak dining sets occupy a specific, demanding category. The buyers are not casual. They want furniture that handles hard winters without being dragged into a garage every October, that looks appropriate on a stone terrace, and that doesn't need to be replaced in four years. That's the standard I'm applying here.
 
@@ -43,19 +43,6 @@ I've covered a fair amount of [Outdoor Furniture](/outdoor-furniture/) on this s
 The [Cambridge Casual Sierra 5-Piece Teak Outdoor Dining Set](product:cambridge-casual-sierra-teak-dining-set) is a legitimate teak set at a price that undercuts most comparable options from premium outdoor brands. The construction quality is solid without being exceptional. The chairs are comfortable for extended meals. The round table format works well for groups of four, with the umbrella hole adding genuine practical value. My main reservation is not about durability but about long-term aesthetics: if you want to keep it honey-brown, you will need to oil it once a year. If you're fine with it weathering to silver-gray, do nothing and it will hold up regardless.
 
 For most buyers looking at real teak at this price point, this is the set to buy.
-
-[Check current price on Amazon](product:cambridge-casual-sierra-teak-dining-set)
-
-## What We Tested
-
-The Sierra set ships in multiple boxes and requires assembly, which took about 45 minutes with two people and basic tools. The round table is 47 inches in diameter, which seats four adults comfortably. The umbrella hole is centered and fitted with a brass plug when not in use, which I appreciate.
-
-![Round Teak Outdoor Dining Set](/images/articles/outdoor-furniture-6.jpg)
-
-
-The four armrest chairs include cushions, which is not always the case at this price. The cushions are basic. They are weather-resistant and the color is inoffensive, but if you have strong opinions about cushion quality, budget another $60 to $80 for replacements. If you've already looked at [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) on this site, you'll know what a meaningful upgrade looks like.
-
-The teak itself is the main event. The wood is straight-grained, dense, and arrived with a uniform warm-brown color and no visible defects in the pieces I examined. Mortise and tenon joinery on the chair legs. Stainless steel hardware throughout, which matters because zinc or plated fasteners are where cheaper teak sets start to fail.
 
 [Check current price on Amazon](product:cambridge-casual-sierra-teak-dining-set)
 
@@ -72,7 +59,6 @@ The Sierra set held up through freeze-thaw cycles without any joint movement or 
 The chairs are solid. No flex in the back legs, no wobble at the armrests. At around 18 pounds each, they have real weight without being difficult to move. The table is heavier and benefits from staying put, though it's not impossible to shift for cleaning. I did not experience any loosening of joints through the season, which is a common complaint with furniture that uses wood screws rather than proper joinery. (I checked the chair joints specifically before writing this, because I've been burned by that before.)
 
 ![Round Teak Outdoor Dining Set](/images/articles/outdoor-furniture-7.jpg)
-
 
 ### Comfort
 
@@ -98,7 +84,6 @@ Round table format with a working umbrella hole. The brass plug is a small detai
 
 ![Round Teak Outdoor Dining Set](/images/articles/outdoor-furniture-8.jpg)
 
-
 Four armrest chairs included. Armrests at this price point are not a given.
 
 Seat pads included. Basic quality, but their inclusion saves an immediate additional purchase.
@@ -109,9 +94,9 @@ The cushion quality is not up to the standard of the wood. They're functional bu
 
 Assembly is straightforward but not fast. Expect 45 minutes to an hour and don't attempt it solo.
 
-At $1,100 to $1,300, this is a real investment. That price is fair for genuine teak, but it's still a number that requires commitment.
+but it's still a number that requires commitment.
 
-The set does not include a cover. Given what you're spending, buy one. A fitted 48-inch round table cover runs about $35 to $50 and meaningfully extends the intervals between cleaning.
+The set does not include a cover. Given what you're spending, buy one. A fitted 48-inch round table cover and meaningfully extends the intervals between cleaning.
 
 [See Cambridge Casual Sierra 5 piece Teak Outdoor Dining Set, Include 4 Armrest Dinin on Amazon →](product:cambridge-casual-sierra-teak-dining-set)
 
@@ -127,12 +112,11 @@ If you're building out a larger outdoor living area and want furniture that coor
 
 ![Round Teak Outdoor Dining Set](/images/articles/outdoor-furniture-1.jpg)
 
-
 For a household that eats outside four to five nights a week in warm months, hosts dinners for groups of four to six with some regularity, and wants furniture they won't be replacing in three years, this is the right set at the right price.
 
 ## A Note on Value at This Price
 
-I mentioned the Husqvarna comparison in other reviews. The equivalent here is something like a Restoration Hardware teak dining set, which runs $2,800 to $4,500 for a comparable 5-piece configuration, or a Crate and Barrel Grade A teak set at $1,800 to $2,200. The Cambridge Casual Sierra undercuts both substantially while using the same wood species and, by the evidence of what I inspected, comparable joinery. The brand carries less name recognition. The cushions are thinner. The showroom isn't there. If those things matter to you, pay for the other brands. If what you're actually buying is the teak and the construction quality, this set is hard to argue with.
+I mentioned the Husqvarna comparison in other reviews. The equivalent here is something like a Restoration Hardware teak dining set, which,500 for a comparable 5-piece configuration, or a Crate and Barrel Grade A teak set The Cambridge Casual Sierra undercuts both substantially while using the same wood species and, by the evidence of what I inspected, comparable joinery. The brand carries less name recognition. The cushions are thinner. The showroom isn't there. If those things matter to you, pay for the other brands. If what you're actually buying is the teak and the construction quality, this set is hard to argue with.
 
 You can find more context on how this fits into the broader category of outdoor dining and seating options in our [outdoor furniture](/outdoor-furniture/) coverage.
 
@@ -148,7 +132,6 @@ Cambridge Casual markets this as Grade A teak, and the wood I received was consi
 
 ![Round Teak Outdoor Dining Set](/images/articles/outdoor-furniture-2.jpg)
 
-
 ### How many people does a 47-inch round teak table seat?
 
 Four adults comfortably. Five is possible if the chairs are relatively narrow, but the set ships with four chairs and four is the practical capacity for a meal. The round format means everyone is equidistant, which works better for conversation than a rectangular table of the same seating capacity.
@@ -163,7 +146,7 @@ Moderate. The chairs involve the most steps and require attention to joint align
 
 ### How does this set compare to similar sets from brands like Crate and Barrel or Restoration Hardware?
 
-The teak quality is comparable. The primary differences are cushion quality, brand recognition, and price. Crate and Barrel and Restoration Hardware sets in this category run $1,800 to $4,500 for comparable configurations. The Cambridge Casual Sierra comes in substantially below that. If the weight of a well-known brand matters for your purchase decision, those options exist. If it doesn't, you're paying a meaningful premium for it.
+The teak quality is comparable. The primary differences are cushion quality, brand recognition, and price. Crate and Barrel and Restoration Hardware sets in this category,500 for comparable configurations. The Cambridge Casual Sierra comes in substantially below that. If the weight of a well-known brand matters for your purchase decision, those options exist. If it doesn't, you're paying a meaningful premium for it.
 
 <script type="application/ld+json">
 {
@@ -207,10 +190,9 @@ The teak quality is comparable. The primary differences are cushion quality, bra
       "name": "How does this set compare to similar sets from brands like Crate and Barrel or Restoration Hardware?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The teak quality is comparable. The primary differences are cushion quality, brand recognition, and price. Crate and Barrel and Restoration Hardware sets in this category run $1,800 to $4,500 for comparable configurations. The Cambridge Casual Sierra comes in substantially below that. If the weight of a well-known brand matters for your purchase decision, those options exist. If it doesn't, you're paying a meaningful premium for it."
+ "text": "The teak quality is comparable. The primary differences are cushion quality, brand recognition, and price. Crate and Barrel and Restoration Hardware sets in this category,500 for comparable configurations. The Cambridge Casual Sierra comes in substantially below that. If the weight of a well-known brand matters for your purchase decision, those options exist. If it doesn't, you're paying a meaningful premium for it."
       }
     }
   ]
 }
 </script>
-

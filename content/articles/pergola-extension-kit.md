@@ -15,7 +15,7 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "North American cedar is naturally rot-resistant without chemical treatment"
-      - "Pre-cut, pre-drilled, and pre-stained , significantly faster assembly than raw lumber"
+      - "Pre-cut, pre-drilled, and pre-stained, significantly faster assembly than raw lumber"
     article_specific_cons:
       - "Cedar requires restaining every 2-3 years"
 tags: ["structures", "informational"]
@@ -52,14 +52,13 @@ The functional case is straightforward. If your covered area is undersized for h
 
 ![Pergola Extension Kit](/images/articles/structures-5.jpg)
 
-
 There's also a structural case for going modular rather than custom-built. A kit that's designed to expand uses the same post dimensions, the same connection hardware, and the same material treatment as your base unit. You're not splicing incompatible lumber species or trying to match a stain on pressure-treated pine that's two years older than what you're adding. If that kind of mismatch has ever cost you an afternoon, you'll understand why it matters.
 
-The cost gap between a good kit and custom carpentry has also widened. Custom pergola additions in my area are running $150 to $250 per square foot for labor and materials when you go through a contractor. A 10 x 12 kit in the $700 to $1,000 range, which you assemble yourself, represents a meaningful difference even after you factor in two or three weekends of your own time.
+The cost gap between a good kit and custom carpentry has also widened. Custom pergola additions in my area are running $150 to $250 per square foot for labor and materials when you go through a contractor. A 10 x 12 kit at a fraction of contractor cost, which you assemble yourself, represents a meaningful difference even after you factor in two or three weekends of your own time.
 
 ## The Product Worth Buying: Yardistry 10' x 12' Cedar Wood Pergola Kit
 
-I'll be direct. If you're in the market for a wood pergola kit and you're not trying to match an existing vinyl structure, the [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the one I'd buy. Currently around $850 to $950 on Amazon at the time of writing, with occasional pricing closer to $800 during off-season sales.
+I'll be direct. If you're in the market for a wood pergola kit and you're not trying to match an existing vinyl structure, the [Yardistry 10' x 12' Cedar Wood Pergola Kit](product:yardistry-10x12-cedar-pergola) is the one I'd buy. 
 
 ### Why Cedar, and Why This Cedar
 
@@ -69,7 +68,6 @@ The kit arrives pre-cut, pre-drilled, and pre-stained. That last item is the one
 
 ![Pergola Extension Kit](/images/articles/structures-6.jpg)
 
-
 ### Assembly Realities
 
 Yardistry rates this as a two-person job, which is accurate. You're not lifting anything that requires three people, but you do need a second set of hands for post plumbing and beam placement. Count on six to eight hours for a reasonably experienced pair. If you've never assembled a kit structure before, budget for a full day.
@@ -78,7 +76,7 @@ The instructions are better than average but not exceptional. The hardware is or
 
 ### The Roof Panel Question
 
-The base kit provides shade from the horizontal overhead boards but does not shed rain. If you want weather coverage, Yardistry sells polycarbonate roof panels separately. They're currently around $200 to $280 depending on the panel count required for your span, and they clip into the existing rafter channels without additional drilling. For a sitting area where you want year-round use through shoulder season, the panels are worth adding. For a garden pergola where shade is the point and rain is fine, the base kit stands alone.
+The base kit provides shade from the horizontal overhead boards but does not shed rain. If you want weather coverage, Yardistry sells polycarbonate roof panels separately. They're currently depending on the panel count required for your span, and they clip into the existing rafter channels without additional drilling. For a sitting area where you want year-round use through shoulder season, the panels are worth adding. For a garden pergola where shade is the point and rain is fine, the base kit stands alone.
 
 One honest note: the polycarbonate panels are not sold as an "extension kit" accessory in all retail listings, so search specifically for Yardistry polycarbonate roof panels and confirm compatibility with the 10 x 12 frame before ordering.
 
@@ -87,7 +85,6 @@ One honest note: the polycarbonate panels are not sold as an "extension kit" acc
 Cedar requires restaining every two to three years depending on sun exposure and your winters. In a hard-freeze climate with genuine wet springs, the weathering cycle is real. This is not a set-it-and-forget-it material. If you want something you genuinely never touch after installation, look at aluminum. If you want something that looks like a real wood structure and ages with some character, cedar is the correct choice and the restaining is just maintenance, the same as resealing a deck.
 
 ![Pergola Extension Kit](/images/articles/structures-7.jpg)
-
 
 ## How to Install a Pergola Extension Kit
 
@@ -109,7 +106,6 @@ The sequence below applies specifically to the Yardistry 10 x 12, though the gen
 
 ![Pergola Extension Kit](/images/articles/structures-8.jpg)
 
-
 **Buying for the footprint, not the use.** A 10 x 12 sounds like a generous space until you put a table and four chairs under it and realize the overhang is minimal. Think about furniture placement before you decide on dimensions.
 
 **Assuming the base kit includes weather coverage.** Read the product listing carefully. The Yardistry base kit provides shade, not rain protection. If you want rain protection, budget for the polycarbonate panels and order them at the same time.
@@ -130,7 +126,6 @@ Sometimes, but it requires work. Kit extensions are designed to connect to speci
 
 ![Pergola Extension Kit](/images/articles/structures-1.jpg)
 
-
 ### How long does a cedar pergola kit last without replacement?
 
 Cedar that's maintained on a regular restaining schedule, roughly every two to three years, can last 20 years or more in a hard-weather climate. Cedar that's neglected starts showing surface checking and grain cracking within five to seven years and becomes a structural question in ten to fifteen. The material is durable. The maintenance requirement is real.
@@ -141,11 +136,11 @@ Not necessarily. The included post base hardware is designed for concrete anchor
 
 ### Are the polycarbonate roof panels worth the additional cost?
 
-For a sitting area you want to use through rain or light snow load, yes. The panels add approximately $200 to $280 to the total and convert a shade structure into a weather-protected one. For a pergola over a garden bed or a structure where the open-rafter aesthetic is the point, no. It depends entirely on how you'll use the space.
+For a sitting area you want to use through rain or light snow load, yes. The panels are an additional purchase that converts a shade structure into a weather-protected one. For a pergola over a garden bed or a structure where the open-rafter aesthetic is the point, no. It depends entirely on how you'll use the space.
 
 ### How does the Yardistry cedar kit compare to aluminum pergola kits in the same price range?
 
-Aluminum kits in the $800 to $1,000 range will be lighter, require no staining, and won't crack or check. The trade-off is visual. Aluminum at this price point reads as a kit product. Cedar reads as a wood structure. If longevity with zero maintenance is the priority, aluminum wins. If you want a structure that looks like it belongs on a property with a house built before 1990, cedar wins. The [aluminum greenhouse frame kit](/aluminum-greenhouse-frame-kit/) article covers aluminum construction in more detail if you want a closer look at the material properties.
+Aluminum kits in the range will be lighter, require no staining, and won't crack or check. The trade-off is visual. Aluminum at this price point reads as a kit product. Cedar reads as a wood structure. If longevity with zero maintenance is the priority, aluminum wins. If you want a structure that looks like it belongs on a property with a house built before 1990, cedar wins. The [aluminum greenhouse frame kit](/aluminum-greenhouse-frame-kit/) article covers aluminum construction in more detail if you want a closer look at the material properties.
 
 <script type="application/ld+json">
 {
@@ -181,7 +176,7 @@ Aluminum kits in the $800 to $1,000 range will be lighter, require no staining, 
       "name": "Are the polycarbonate roof panels worth the additional cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a sitting area you want to use through rain or light snow load, yes. The panels add approximately $200 to $280 to the total and convert a shade structure into a weather-protected one. For a pergola over a garden bed or a structure where the open-rafter aesthetic is the point, no. It depends entirely on how you'll use the space."
+        "text": "For a sitting area you want to use through rain or light snow load, yes. The panels are an additional purchase that converts a shade structure into a weather-protected one. For a pergola over a garden bed or a structure where the open-rafter aesthetic is the point, no. It depends entirely on how you'll use the space."
       }
     },
     {
@@ -189,10 +184,9 @@ Aluminum kits in the $800 to $1,000 range will be lighter, require no staining, 
       "name": "How does the Yardistry cedar kit compare to aluminum pergola kits in the same price range?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aluminum kits in the $800 to $1,000 range will be lighter, require no staining, and won't crack or check. The trade-off is visual. Aluminum at this price point reads as a kit product. Cedar reads as a wood structure. If longevity with zero maintenance is the priority, aluminum wins. If you want a structure that looks like it belongs on a property with a house built before 1990, cedar wins. The [aluminum greenhouse frame kit](/aluminum-greenhouse-frame-kit/) article covers aluminum construction in more detail if you want a closer look at the material properties."
+ "text": "Aluminum kits in the range will be lighter, require no staining, and won't crack or check. The trade-off is visual. Aluminum at this price point reads as a kit product. Cedar reads as a wood structure. If longevity with zero maintenance is the priority, aluminum wins. If you want a structure that looks like it belongs on a property with a house built before 1990, cedar wins. The [aluminum greenhouse frame kit](/aluminum-greenhouse-frame-kit/) article covers aluminum construction in more detail if you want a closer look at the material properties."
       }
     }
   ]
 }
 </script>
-

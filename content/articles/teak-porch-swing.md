@@ -42,11 +42,9 @@ If you're building out a porch or pergola space and want to see how this swing f
 
 The All Things Cedar TS50 is a well-built, no-frills teak swing that does exactly what it promises. Grade A teak, solid brass hardware, 500-pound capacity, and a 54-inch seat width that actually fits two adults without negotiation. It ships with hanging ropes, which is a nice detail, but you will need to source your own S-hooks and chain if you're mounting to a ceiling or beam. That part they leave off the listing, which I consider mildly irritating.
 
-At the premium price point (currently around $380 to $420 depending on when you're looking), this is a real investment in a piece of outdoor furniture. It's not priced like cedar painted to look nice for two summers. It's priced like something that will outlast your current porch railings if you treat it reasonably. Whether that trade-off makes sense depends on what you're replacing and how long you intend to stay put.
+At the premium price point, this is a real investment in a piece of outdoor furniture. It's not priced like cedar painted to look nice for two summers. It's priced like something that will outlast your current porch railings if you treat it reasonably. Whether that trade-off makes sense depends on what you're replacing and how long you intend to stay put.
 
 ![Teak Porch Swing](/images/articles/outdoor-furniture-2.jpg)
-
-
 
 [Check current price on Amazon](product:all-things-cedar-ts50-teak-porch-swing)
 
@@ -58,7 +56,7 @@ The TS50 comes in at 54 inches wide, which is where the "5-foot" in the name com
 
 Construction is Grade A teak throughout, which matters. Grade A is harvested from the heartwood of mature trees and contains the highest concentration of natural teak oils. Those oils are what give teak its weather resistance, not a surface treatment that will peel. Hardware is solid brass, not plated steel, which means it won't rust and won't leave those orange streaks down the slats that plague cheaper swings.
 
-The swing ships with hanging ropes. Hanging chain and S-hooks for ceiling mounting are not included and need to be purchased separately. For most porch beam installations, you're looking at another $20 to $40 for adequate hardware, depending on your ceiling height and preferred drop.
+The swing ships with hanging ropes. Hanging chain and S-hooks for ceiling mounting are not included and need to be purchased separately. For most porch beam installations, you're looking at more for adequate hardware, depending on your ceiling height and preferred drop.
 
 ## Performance and Testing
 
@@ -70,10 +68,9 @@ The ropes that come with the swing are serviceable for initial hanging, but I'd 
 
 ### Seating Comfort and Use
 
-The 54-inch width is the right call for a two-person swing. A 48-inch swing seats two people in the sense that two people can technically occupy it simultaneously. The TS50 actually gives you room to sit without your shoulders touching. (I tested this with my husband, who is not a small person, and neither of us felt we were being diplomatic about personal space.) The seat slats are flat rather than contoured, which is typical for teak furniture at this price. If you want cushioning, plan for it. Sunbrella fabric is worth the extra spend for outdoor cushions specifically; if you're looking at options, we've covered [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) in detail, and the same logic about fabric durability applies here.
+The 54-inch width is the right call for a two-person swing. A 48-inch swing seats two people in the sense that two people can technically occupy it simultaneously. The TS50 actually gives you room to sit without your shoulders touching. (In actual use with two adults — one not a small person — neither felt the need to be diplomatic about personal space.) The seat slats are flat rather than contoured, which is typical for teak furniture at this price. If you want cushioning, plan for it. Sunbrella fabric is worth the extra spend for outdoor cushions specifically; if you're looking at options, we've covered [Sunbrella Adirondack chair cushions](/sunbrella-adirondack-chair-cushions/) in detail, and the same logic about fabric durability applies here.
 
 ![Teak Porch Swing](/images/articles/outdoor-furniture-3.jpg)
-
 
 The swing has a solid, settled feel when occupied. No flex, no creak at the joints after loading. It moves smoothly on the ropes without that pendulum jerk you get from cheaper swings with uneven weight distribution.
 
@@ -86,7 +83,6 @@ Teak left untreated will weather to silver-gray. This happens within one to two 
 If you want to maintain the warm honey-brown color that teak has when new, you need to oil it. Golden teak oil, applied after a light sanding and cleaning, once or twice a year depending on your exposure. That's a genuine time commitment on a piece this size, and it's not optional if the color matters to you. I'd rather you know that now than be surprised when you look out your window in October.
 
 ![Teak Porch Swing](/images/articles/outdoor-furniture-4.jpg)
-
 
 ### Durability Signals
 
@@ -104,7 +100,7 @@ Grade A teak with genuine heartwood density. The hardware is solid brass through
 
 **Cons.**
 
-The mounting hardware (chain, S-hooks) isn't included, and the listing doesn't make this obvious. For ceiling or beam mounting, budget an extra $20 to $40 and sort that out before the swing arrives. The price point is high, though it reflects real material costs rather than margin padding. Thin review count on Amazon at the time of writing means you're relying more on brand reputation than crowd-sourced feedback. And the weathering to silver-gray is not a flaw exactly, but it's a commitment to maintenance if you want to prevent it, which I think deserves plain acknowledgment.
+The mounting hardware (chain, S-hooks) isn't included, and the listing doesn't make this obvious. For ceiling or beam mounting, budget for heavy-duty mounting hardware and sort that out before the swing arrives. The price point is high, though it reflects real material costs rather than margin padding. Thin review count on Amazon at the time of writing means you're relying more on brand reputation than crowd-sourced feedback. And the weathering to silver-gray is not a flaw exactly, but it's a commitment to maintenance if you want to prevent it, which I think deserves plain acknowledgment.
 
 [See All Things Cedar TS50 5-Foot 2-Seat Teak Porch Swing on Amazon →](product:all-things-cedar-ts50-teak-porch-swing)
 
@@ -114,8 +110,7 @@ If you have a covered porch or pergola with structural beams rated for the load,
 
 ![Teak Porch Swing](/images/articles/outdoor-furniture-5.jpg)
 
-
-If you're renting, or if you're not sure whether you'll be in the same house in five years, the math on a $400 swing gets harder. In that situation, a less expensive painted hardwood swing might be the more sensible call. This swing rewards a longer ownership horizon.
+If you're renting, or if you're not sure whether you'll be in the same house in five years, the math on a swing gets harder. In that situation, a less expensive painted hardwood swing might be the more sensible call. This swing rewards a longer ownership horizon.
 
 If you already have teak elsewhere on the porch, it integrates well. We've covered [teak outdoor bar stools](/teak-outdoor-bar-stools/) that would sit in the same aesthetic, and the weathering behavior will be consistent across pieces if you're treating them the same way.
 
@@ -131,14 +126,13 @@ The TS50 is not the swing for someone who wants minimal maintenance and zero com
 
 ### How much does the All Things Cedar TS50 teak porch swing cost?
 
-At the time of writing, the TS50 runs between $380 and $420 on Amazon depending on availability and any active promotions. Prices on teak furniture can shift based on supply, so check the current listing for the most accurate figure. Budget an additional $20 to $40 for mounting hardware if you're hanging from a ceiling or exposed beam.
+At the time of writing, the TS50. Prices on teak furniture can shift based on supply, so check the current listing for the most accurate figure. Budget extra for mounting hardware if you're hanging from a ceiling or exposed beam.
 
 ![Teak Porch Swing](/images/articles/outdoor-furniture-6.jpg)
 
-
 ### Does the swing come with everything needed for installation?
 
-It ships with hanging ropes, which is enough to get it suspended from a beam with appropriately sized eye bolts. It does not include chain, S-hooks, or eye bolts. For a standard porch beam installation, you'll need to source those separately. Most hardware stores carry everything you need for under $40.
+It ships with hanging ropes, which is enough to get it suspended from a beam with appropriately sized eye bolts. It does not include chain, S-hooks, or eye bolts. For a standard porch beam installation, you'll need to source those separately. Most hardware stores carry everything you need for entry-level
 
 ### Will the teak stay brown, or will it turn gray?
 
@@ -162,7 +156,7 @@ For outdoor furniture that will see year-round exposure, yes. Grade A teak comes
       "name": "How much does the All Things Cedar TS50 teak porch swing cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "At the time of writing, the TS50 runs between $380 and $420 on Amazon depending on availability and any active promotions. Prices on teak furniture can shift based on supply, so check the current listing for the most accurate figure. Budget an additional $20 to $40 for mounting hardware if you're hanging from a ceiling or exposed beam."
+ "text": "At the time of writing, the TS50. Prices on teak furniture can shift based on supply, so check the current listing for the most accurate figure. Budget extra for mounting hardware if you're hanging from a ceiling or exposed beam."
       }
     },
     {
@@ -170,7 +164,7 @@ For outdoor furniture that will see year-round exposure, yes. Grade A teak comes
       "name": "Does the swing come with everything needed for installation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It ships with hanging ropes, which is enough to get it suspended from a beam with appropriately sized eye bolts. It does not include chain, S-hooks, or eye bolts. For a standard porch beam installation, you'll need to source those separately. Most hardware stores carry everything you need for under $40."
+ "text": "It ships with hanging ropes, which is enough to get it suspended from a beam with appropriately sized eye bolts. It does not include chain, S-hooks, or eye bolts. For a standard porch beam installation, you'll need to source those separately. Most hardware stores carry everything you need for entry-level."
       }
     },
     {
@@ -200,4 +194,3 @@ For outdoor furniture that will see year-round exposure, yes. Grade A teak comes
   ]
 }
 </script>
-

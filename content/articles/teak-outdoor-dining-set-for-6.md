@@ -14,7 +14,7 @@ products:
   - id: "polywood-nautical-dining-set"
     role: "primary"
     article_specific_pros:
-      - "All-weather HDPE , won't rot, splinter, or require seasonal storage"
+      - "All-weather HDPE, won't rot, splinter, or require seasonal storage"
       - "Seats 6; 73-inch table works for large family gatherings"
     article_specific_cons:
       - "Very heavy set; not designed to move frequently"
@@ -40,10 +40,9 @@ Before we get into specifics, if you're still early in your research on patio fu
 
 ## Quick Verdict
 
-The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is currently around $1,800 to $2,100 on Amazon, depending on when you're looking. That is not a small number. But the comparison isn't to a $400 aluminum set. The honest comparison is to a real teak dining set for six, which runs $3,000 to $8,000 new and requires annual oiling, periodic sanding, and the kind of seasonal attention that most people don't actually follow through on. The POLYWOOD requires none of that. Leave it out year-round. Hose it off. Done.
+The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set), depending on when you're looking. That is not a small number. But the comparison isn't to a aluminum set. The honest comparison is to a real teak dining set for six, which,000 new and requires annual oiling, periodic sanding, and the kind of seasonal attention that most people don't actually follow through on. The POLYWOOD requires none of that. Leave it out year-round. Hose it off. Done.
 
 If you want the look of teak without teak's upkeep, and you're planning to stay in your house long enough to amortize the cost, this is the one I'd buy.
-
 
 [Check current price on Amazon](product:polywood-nautical-dining-set)
 
@@ -54,7 +53,6 @@ The set includes a 73-inch trestle-base dining table and six chairs. The 73-inch
 The material is POLYWOOD's HDPE lumber, made from recycled plastic. The teak colorway is a warm honey-brown that reads convincingly as wood at normal viewing distances. Up close, there's a slight surface texture that doesn't perfectly replicate wood grain, but it's not trying to fool anyone on a furniture inspection. It holds color well under UV exposure, which is the more practical concern.
 
 ![Teak Outdoor Dining Set For 6](/images/articles/outdoor-furniture-2.jpg)
-
 
 Frame hardware is stainless steel. The chairs are the Nautical style with slatted backs and a slight contour. No cushions are included, which I'll address below.
 
@@ -70,25 +68,23 @@ Real teak in the same conditions would need oiling every twelve to eighteen mont
 
 ### Comfort and Usability
 
-The chairs have no cushions, and at a $2,000 price point that's a reasonable frustration. The slatted seat is fine for a dinner-length sitting, roughly ninety minutes. For longer outdoor meals or events where people settle in, you will want cushions. I use Sunbrella-fabric cushions with ties, and the chair dimensions accommodate standard 17-inch seat pads without modification. If you're outfitting the whole setup, budget another $200 to $400 for cushions. Looking at options? The [Sunbrella Adirondack Chair Cushions](/sunbrella-adirondack-chair-cushions/) review on this site covers fabric and fill options worth applying to dining chairs as well.
+The chairs have no cushions, and at a price point that's a reasonable frustration. The slatted seat is fine for a dinner-length sitting, roughly ninety minutes. For longer outdoor meals or events where people settle in, you will want cushions. I use Sunbrella-fabric cushions with ties, and the chair dimensions accommodate standard 17-inch seat pads without modification. If you're outfitting the whole setup, budget more for cushions. Looking at options? The [Sunbrella Adirondack Chair Cushions](/sunbrella-adirondack-chair-cushions/) review on this site covers fabric and fill options worth applying to dining chairs as well.
 
 ![Teak Outdoor Dining Set For 6](/images/articles/outdoor-furniture-3.jpg)
-
 
 The trestle base is visually clean and structurally stable under uneven load, which a pedestal base is not. I've had people leaning heavily on one corner with no rocking. The table surface is wide enough for a proper dinner service without feeling cramped.
 
 ### Assembly
 
-Assembly takes about two hours with two people and the included hardware. The instructions are functional. Nothing required improvisation. The table legs and trestle assemble with a hex key (included) and bolt through cleanly. The chairs arrive mostly assembled. I'd recommend having a second set of hands for the table specifically, because holding a 95-pound tabletop level while tightening bolts is not a one-person task. (I tried. I would not recommend it.)
+Assembly takes about two hours with two people and the included hardware. The instructions are functional. The table legs and trestle assemble with a hex key (included) and bolt through cleanly. The chairs arrive mostly assembled. Two people are recommended for the table assembly, as holding a 95-pound tabletop level while tightening bolts requires assistance.
 
 ### Long-Term Value Argument
 
-This is where the math matters. A comparable six-person teak set from a brand like Goldenteak or Royal Teak runs $3,500 to $6,000 for a basic set, more for premium grades. Add teak oil at around $25 per quart and two to three hours of labor per year, and the real teak set costs meaningfully more over a ten-year period. The POLYWOOD set, by contrast, has no annual maintenance cost. If you're here for a decade or more, the arithmetic is not subtle.
+This is where the math matters. A comparable six-person teak set from a brand like Goldenteak or Royal Teak,000 for a basic set, more for premium grades. Add teak oil and two to three hours of labor per year, and the real teak set costs meaningfully more over a ten-year period. The POLYWOOD set, by contrast, has no annual maintenance cost. If you're here for a decade or more, the arithmetic is not subtle.
 
 There is a legitimate counter-argument, which is that a well-maintained teak set will outlast any synthetic alternative and holds resale value better. If you're a furniture person who oils on schedule and thinks of outdoor pieces as heirlooms, real teak is worth the price. POLYWOOD is for people who are honest about their actual maintenance habits.
 
 ![Teak Outdoor Dining Set For 6](/images/articles/outdoor-furniture-4.jpg)
-
 
 ## Pros and Cons
 
@@ -105,7 +101,7 @@ There is a legitimate counter-argument, which is that a well-maintained teak set
 - Heavy. The table is not moving without help. If you reconfigure your outdoor space regularly, this will frustrate you.
 - No cushions included at a price point where they should be.
 - The teak color finish, while good, doesn't replicate wood grain texture on close inspection. Not a problem for most settings.
-- At $1,800 to $2,100, this is a committed purchase. It's not a set you buy to see if you like outdoor dining.
+-, this is a committed purchase. It's not a set you buy to see if you like outdoor dining.
 
 [See POLYWOOD Nautical Trestle 7-Piece Dining Set, Teak on Amazon →](product:polywood-nautical-dining-set)
 
@@ -116,7 +112,6 @@ If you've ever stood in front of a real teak set at a garden center, loved it, a
 It works particularly well for properties where the furniture stays out year-round with no covered storage. If you have a year-round patio or deck, and the set will live outside in rain, snow, and sun without being moved, the POLYWOOD's durability advantage over wood compounds every season.
 
 ![Teak Outdoor Dining Set For 6](/images/articles/outdoor-furniture-5.jpg)
-
 
 It's not the right choice if you're frequently reconfiguring your outdoor space, since the weight makes that impractical. It's also not for someone who places high value on natural material and is prepared to do the annual maintenance to support it. Those people should look at a genuine Grade A teak set and budget accordingly. Grade A teak, properly maintained, is one of the best outdoor furniture materials available. I'm not dismissing it.
 
@@ -140,18 +135,17 @@ No. This is one of the core selling points. HDPE lumber is unaffected by moistur
 
 ![Teak Outdoor Dining Set For 6](/images/articles/outdoor-furniture-6.jpg)
 
-
 ### Is the 73-inch table actually large enough for 6 people?
 
 Comfortably, yes. The standard recommendation for dining table length per person is around 24 inches of linear space. Six people at 73 inches works out to just over 12 inches per person on each side, which feels right with the included chairs at their spacing. I've seated eight people at it for casual outdoor meals with no real crowding. For formal service with full place settings and serving dishes down the center, six is the appropriate number.
 
 ### How does the price compare to other teak outdoor dining sets for 6?
 
-The POLYWOOD set currently runs around $1,800 to $2,100. Entry-level teak sets (often lower-grade wood, shorter warranties) start around $1,200 to $1,800. Mid-range Grade A teak sets for six run $3,000 to $5,000. Premium or custom teak can go considerably higher. The POLYWOOD sits in an interesting middle position where it costs more than cheap teak alternatives but significantly less than quality natural teak, with the added advantage of zero maintenance cost over time.
+The POLYWOOD set. Entry-level teak sets (often lower-grade wood, shorter warranties) start. Mid-range Grade A teak sets for six. Premium or custom teak can go considerably higher. The POLYWOOD sits in an interesting middle position where it costs more than cheap teak alternatives but significantly less than quality natural teak, with the added advantage of zero maintenance cost over time.
 
 ### Can I add cushions to the Nautical chairs, and what size do I need?
 
-Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair cushions with ties are more practical than slip-on styles because the slatted seat surface doesn't grip fabric on its own. I use Sunbrella-fabric pads in a neutral color, which have held up well under outdoor conditions. Budget $30 to $70 per chair for decent cushions, which adds $180 to $420 to the total cost of the set. Factor that in when comparing prices.
+Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair cushions with ties are more practical than slip-on styles because the slatted seat surface doesn't grip fabric on its own. I use Sunbrella-fabric pads in a neutral color, which have held up well under outdoor conditions. Budget accordingly, which adds to the total cost. Factor that in when comparing prices.
 
 <script type="application/ld+json">
 {
@@ -187,7 +181,7 @@ Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair c
       "name": "How does the price compare to other teak outdoor dining sets for 6?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The POLYWOOD set currently runs around $1,800 to $2,100. Entry-level teak sets (often lower-grade wood, shorter warranties) start around $1,200 to $1,800. Mid-range Grade A teak sets for six run $3,000 to $5,000. Premium or custom teak can go considerably higher. The POLYWOOD sits in an interesting middle position where it costs more than cheap teak alternatives but significantly less than quality natural teak, with the added advantage of zero maintenance cost over time."
+ "text": "The POLYWOOD set. Entry-level teak sets (often lower-grade wood, shorter warranties) start. Mid-range Grade A teak sets for six. Premium or custom teak can go considerably higher. The POLYWOOD sits in an interesting middle position where it costs more than cheap teak alternatives but significantly less than quality natural teak, with the added advantage of zero maintenance cost over time."
       }
     },
     {
@@ -195,10 +189,9 @@ Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair c
       "name": "Can I add cushions to the Nautical chairs, and what size do I need?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair cushions with ties are more practical than slip-on styles because the slatted seat surface doesn't grip fabric on its own. I use Sunbrella-fabric pads in a neutral color, which have held up well under outdoor conditions. Budget $30 to $70 per chair for decent cushions, which adds $180 to $420 to the total cost of the set. Factor that in when comparing prices."
+ "text": "Yes. The chairs take a standard seat pad, approximately 17 by 17 inches. Chair cushions with ties are more practical than slip-on styles because the slatted seat surface doesn't grip fabric on its own. I use Sunbrella-fabric pads in a neutral color, which have held up well under outdoor conditions. Budget accordingly, which adds to the total cost. Factor that in when comparing prices."
       }
     }
   ]
 }
 </script>
-

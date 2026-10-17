@@ -14,7 +14,7 @@ products:
   - id: "polywood-nautical-dining-set"
     role: "primary"
     article_specific_pros:
-      - "All-weather HDPE , won't rot, splinter, or require seasonal storage"
+      - "All-weather HDPE, won't rot, splinter, or require seasonal storage"
       - "Seats 6; 73-inch table works for large family gatherings"
     article_specific_cons:
       - "Very heavy set; not designed to move frequently"
@@ -34,11 +34,11 @@ faq:
     answer: "The table weighs approximately 85 pounds, which makes it a two-person job to move. The chairs are around 18 pounds each and move easily. If you rearrange your outdoor space seasonally or need to shift furniture for large events, the table weight is a genuine limitation. Two years in, the table has moved twice, and both times it required planning and a second person. Treat it as a permanent installation and the weight stops being a problem."
 ---
 
-If you've spent any time researching outdoor dining furniture, you already know the basic problem: real teak is beautiful and lasts decades, but a quality teak outdoor dining set for six will run you $3,000 on the low end and closer to $8,000 for anything from a reputable maker. You can find cheaper options in the [Outdoor Furniture](/outdoor-furniture/) category, but most of them are aluminum sets dressed up with wood accents, or entry-level teak that's thin, dry, and will need replacing in five years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) is neither of those things. It's a serious piece of outdoor furniture that makes a specific argument: pay once, maintain nothing, regret nothing. Whether that argument holds up is what this review is about.
+If you've spent any time researching outdoor dining furniture, you already know the basic problem: real teak is beautiful and lasts decades, but a quality teak outdoor dining set for six will run you a significant premium from any reputable maker. You can find cheaper options in the [Outdoor Furniture](/outdoor-furniture/) category, but most of them are aluminum sets dressed up with wood accents, or entry-level teak that's thin, dry, and will need replacing in five years. The [POLYWOOD Nautical Trestle 7-Piece Dining Set in Teak](product:polywood-nautical-dining-set) is neither of those things. It's a serious piece of outdoor furniture that makes a specific argument: pay once, maintain nothing, regret nothing. Whether that argument holds up is what this review is about.
 
 ## Quick Verdict
 
-The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is my pick for anyone who wants the look of a teak dining set without the annual oiling, seasonal storage, and five-year wood assessment that comes with real teak. It's not cheap. At the time of writing, this set runs around $2,800 to $3,200 depending on the retailer and whether it's on promotion. That price will make some people close the tab. But if your comparison point is a real teak set from a brand like Kingsley Bate or Smith & Hawken, you're already saving money, and you're buying something that genuinely requires less work over time. If your comparison point is a $600 aluminum set from Wayfair, this isn't the right conversation.
+The [POLYWOOD Nautical Trestle 7-Piece Dining Set](product:polywood-nautical-dining-set) is my pick for anyone who wants the look of a teak dining set without the annual oiling, seasonal storage, and five-year wood assessment that comes with real teak. It's not cheap. At the time of writing, this set. That price will make some people close the tab. But if your comparison point is a real teak set from a brand like Kingsley Bate or Smith & Hawken, you're already saving money, and you're buying something that genuinely requires less work over time. If your comparison point is a aluminum set from Wayfair, this isn't the right conversation.
 
 It stays outside year-round. It doesn't need covering, treating, or babying. For a property where the furniture is furniture and not a project, that's the whole case.
 
@@ -47,7 +47,6 @@ It stays outside year-round. It doesn't need covering, treating, or babying. For
 The set includes the 73-inch trestle dining table and six side chairs. The 73-inch table length is worth noting specifically. Most 7-piece outdoor sets ship with a 60-inch table, which seats six adults technically, but tightly. At 73 inches, there's actual room between place settings.
 
 ![Teak Outdoor Dining Set](/images/articles/outdoor-furniture-3.jpg)
-
 
 All materials are POLYWOOD's HDPE lumber, made from recycled plastics. The teak color option is a warm medium brown. It reads as wood at normal viewing distances. It does not read as wood if you're crouching next to it examining the grain, which you won't be doing once it's set up.
 
@@ -69,7 +68,6 @@ The chairs are more comfortable than they look. Outdoor dining chairs in this ca
 
 ![Teak Outdoor Dining Set](/images/articles/outdoor-furniture-4.jpg)
 
-
 ### Stability
 
 The trestle base on the table is solid. No wobble, even on my flagstone patio where the surface isn't perfectly level. The chairs have four-leg construction with no flex in the joints. After two seasons, none of the stainless hardware has shown rust or loosening.
@@ -88,7 +86,6 @@ The 20-year warranty on a piece of outdoor furniture is exceptional. Most compet
 
 ![Teak Outdoor Dining Set](/images/articles/outdoor-furniture-5.jpg)
 
-
 The 73-inch table is the right size for six adults. Genuinely, this is underappreciated in the product specs.
 
 Zero seasonal maintenance. If your fall outdoor routine is already time-consuming, removing one item from the list has real value.
@@ -99,7 +96,7 @@ The teak color aesthetic holds. From 6 feet away, this reads as a wood dining se
 
 The table weight is a legitimate limitation. If you have any mobility considerations, or if you manage your outdoor space mostly solo, moving this table is a two-person job, full stop.
 
-The price is high relative to non-HDPE alternatives. A comparable-looking aluminum-and-wood composite set from Christopher Knight or Hanover runs $700 to $1,200. Those sets won't last 20 years, but if your horizon is 5 years or you rent your property, the premium here doesn't pay off.
+The price is high relative to non-HDPE alternatives. A comparable-looking aluminum-and-wood composite set from Christopher Knight or Hanover. Those sets won't last 20 years, but if your horizon is 5 years or you rent your property, the premium here doesn't pay off.
 
 HDPE has a different hand feel than wood. Sit at this table and touch the surface, and you know it's not teak. For some people that matters. For most outdoor dining situations, it doesn't come up because you're not there to touch the furniture.
 
@@ -111,13 +108,10 @@ This set is the right buy for a homeowner with a permanent outdoor dining space 
 
 ![Teak Outdoor Dining Set](/images/articles/outdoor-furniture-6.jpg)
 
-
 It's a strong fit if you've already invested in other quality outdoor pieces, whether that's a [teak outdoor rocking chair](/teak-outdoor-rocking-chair/) nearby, a [teak porch swing](/teak-porch-swing/) off the side of the deck, or any other furniture where longevity was the deciding factor. Mixing HDPE and real teak isn't the problem some people think it is because the color matches closely enough that casual observers won't notice, and the maintenance profiles are different enough that it actually makes the teak pieces easier to justify.
 
-It's the wrong buy if you move furniture frequently, if you rent and won't be here in five years, or if you're committed to natural materials on principle. The POLYWOOD case is entirely about performance and economics, not material purity. If real teak is what you want, look at Kingsley Bate's Stresa collection, which starts around $4,200 for a six-person set and is better crafted than most residential teak you'll find online.
+It's the wrong buy if you move furniture frequently, if you rent and won't be here in five years, or if you're committed to natural materials on principle. The POLYWOOD case is entirely about performance and economics, not material purity. If real teak is what you want, look at Kingsley Bate's Stresa collection, which starts,200 for a six-person set and is better crafted than most residential teak you'll find online.
 
 The set is also worth considering if you've been looking at supplemental seating. Depending on your layout, you might find that [teak outdoor bar stools](/teak-outdoor-bar-stools/) at a nearby counter bar create a natural secondary seating zone, and the POLYWOOD teak color coordinates well enough to make that work without a complete set replacement.
 
 For anyone building out a longer-term outdoor living space, the full picture on furniture categories and materials is covered in the site's [Outdoor Furniture](/outdoor-furniture/) section, which is a useful starting point if this is one of several decisions you're working through.
-
-

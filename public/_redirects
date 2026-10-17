@@ -2,3 +2,17 @@
 /dr-leaf-and-lawn-vacuum/ /walk-behind-lawn-vacuum/ 301
 /dr-lawn-vacuum/ /walk-behind-lawn-vacuum/ 301
 /bromic-patio-heater/ /hiland-pyramid-patio-heater/ 301
+
+# Slug dedup redirects (Phase C - 2026-05-24)
+/outdoor-teak-rocking-chair/ /teak-outdoor-rocking-chair/ 301
+/adirondack-sunbrella-chair-cushions/ /sunbrella-adirondack-chair-cushions/ 301
+/outdoor-counter-height-bar-stools/ /counter-height-outdoor-bar-stools/ 301
+/round-fire-pits-propane/ /propane-fire-pits-round/ 301
+/outdoor-swivel-bar-stools/ /outdoor-bar-stools-swivel/ 301
+/sprinkler-timer-battery-operated/ /battery-operated-sprinkler-timer/ 301
+
+/how-we-test/ /how-we-research/ 301
+
+# V1 dedup batch 2026-05-26 — 2 HIGH-confidence pairs
+/gazebo-for-hot-tub/ /gazebos-for-hot-tubs/ 301
+/metal-garden-beds-raised/ /raised-garden-bed-metal/ 301

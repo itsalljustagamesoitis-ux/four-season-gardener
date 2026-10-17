@@ -248,7 +248,7 @@ palram-lean-to-greenhouse:
     gardening content.
   last_verified: 2026-04-30
 yardistry-10x12-cedar-pergola:
-  name: Yardistry 10' x 12' Cedar Wood Pergola Kit
+  name: Yardistry 10' x 12' Cedar Wood Pergola Gazebo Kit
   brand: Yardistry
   amazon_asin: B08Q8QVFCC
   awin_advertiser_id: null
@@ -348,7 +348,7 @@ smart-solar-aquanura-birdbath:
     bath.'
   last_verified: 2026-04-30
 liquid-fence-deer-rabbit-repellent:
-  name: Liquid Fence Deer and Rabbit Repellent Ready-To-Use, 1 Gallon
+  name: Liquid Fence Deer and Rabbit Yard Repellent Ready-To-Use, 1 Gallon
   brand: Liquid Fence
   amazon_asin: B00TS4WBUQ
   awin_advertiser_id: null
@@ -491,9 +491,9 @@ napoleon-st-tropez-fire-table:
     vs propane.
   last_verified: 2026-04-30
 rachio-3-8zone-controller:
-  name: Rachio 3 WiFi Smart Sprinkler Controller, 8-Zone
+  name: Rachio 3 Smart Sprinkler In-Ground WiFi Irrigation Controller, 8-Zone
   brand: Rachio
-  amazon_asin: B087CSZNR5
+  amazon_asin: B07CZ864Y9
   awin_advertiser_id: null
   awin_product_url: null
   default_image: /images/brand/placeholder-product.svg
@@ -511,7 +511,7 @@ rachio-3-8zone-controller:
     systems. Lead with water savings data.
   last_verified: 2026-04-30
 orbit-bhyve-xd-2port-timer:
-  name: Orbit B-hyve XD 2-Port Smart Hose Watering Timer with Wi-Fi Hub
+  name: Orbit B-hyve XD 2-Port Smart Irrigation Hose Watering Timer with Wi-Fi Hub
   brand: Orbit
   amazon_asin: B09KK433KF
   awin_advertiser_id: null
@@ -727,7 +727,7 @@ toro-51621-ultraplus-blower-vac:
     without battery management. Metal impeller and 10:1 mulch ratio are genuine differentiators.
   last_verified: 2026-04-30
 ego-lb6004-backpack-blower:
-  name: EGO Power+ LB6004 600 CFM Cordless Backpack Leaf Blower
+  name: EGO Power+ LB6004 600 CFM Cordless Backpack Lawn Leaf Blower
   brand: EGO Power+
   amazon_asin: B07KB4QT6G
   awin_advertiser_id: null
@@ -1283,7 +1283,7 @@ titan-grade-a-teak-adirondack-chair:
     teak needs oil, POLYWOOD needs nothing.'
   last_verified: 2026-04-30
 rsh-decor-sunbrella-deep-seat-cushion:
-  name: RSH Decor Sunbrella Deep Seating Replacement Cushion with Back, 25"x25"
+  name: RSH Decor Sunbrella Outdoor Deep Seating Replacement Cushion with Back, 25"x25"
   brand: RSH Decor
   amazon_asin: B08JCJKMT9
   awin_advertiser_id: null
@@ -1329,7 +1329,7 @@ all-things-cedar-ts50-teak-porch-swing:
     pergola/porch structure content.'
   last_verified: 2026-04-30
 anderson-teak-gl101-glider-bench:
-  name: Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Glider Bench
+  name: Anderson Teak GL-101 Balboa 2-Seat Teak Outdoor Porch Glider Bench
   brand: Anderson Teak
   amazon_asin: B00EW05EW8
   awin_advertiser_id: null
@@ -1403,7 +1403,7 @@ palram-hybrid-6x8-greenhouse:
     and consider the 6x12 Snap & Grow as a fallback.'
   last_verified: 2026-04-30
 agri-fab-45-0492-tow-behind-sweeper:
-  name: Agri-Fab 45-0492 44" Tow-Behind Lawn Sweeper, 28 cu.ft. Hopper
+  name: Agri-Fab 45-0492 44" Tow-Behind Lawn Leaf Sweeper, 28 cu.ft. Hopper
   brand: Agri-Fab
   amazon_asin: B00B7E75VU
   awin_advertiser_id: null
@@ -1488,7 +1488,7 @@ christopher-knight-acacia-dining-table:
     dining set for budget vs premium wood vs synthetic roundups.'
   last_verified: 2026-04-30
 keter-corfu-2seat-loveseat:
-  name: Keter Corfu 2-Seat Outdoor Loveseat Sofa, All-Weather Resin, Grey
+  name: Keter Corfu 2-Seat Outdoor Porch Loveseat Sofa, All-Weather Resin, Grey
   brand: Keter
   amazon_asin: B00C5C7OMI
   awin_advertiser_id: null
@@ -1597,7 +1597,7 @@ ego-cta9500-cultivator-attachment:
     for EGO users. Note PH1400E power head requirement clearly.
   last_verified: 2026-04-30
 suncast-sutton-7x7-shed:
-  name: Suncast 7x7 Heavy-Duty Sutton Resin Storage Shed
+  name: Suncast 7x7 Heavy-Duty Sutton Resin Outdoor Storage Structure Shed
   brand: Suncast
   amazon_asin: B00NP34O56
   awin_advertiser_id: null
@@ -1640,7 +1640,7 @@ palram-martinique-10x12-gazebo:
     torn canopy after 3 years. Pair with outdoor furniture roundup content.
   last_verified: 2026-04-30
 all-things-cedar-ga87-garden-arbor:
-  name: All Things Cedar GA87 60" Wide Cedar Garden Arbor with Trellis Panels
+  name: All Things Cedar GA87 60" Wide Cedar Garden Pergola Arbor with Trellis Panels
   brand: All Things Cedar
   amazon_asin: B00YYEW556
   awin_advertiser_id: null
@@ -1728,7 +1728,7 @@ natures-hangout-window-bird-feeder:
     feeders. Pair with bird identification content.
   last_verified: 2026-04-30
 orbit-62100-yard-enforcer-sprinkler:
-  name: Orbit 62000 Yard Enforcer Motion-Activated Sprinkler, 2-Pack
+  name: Orbit 62000 Yard Enforcer Motion-Activated Deer Repellent Sprinkler, 2-Pack
   brand: Orbit
   amazon_asin: B0G1FPDBK2
   awin_advertiser_id: null
@@ -1838,7 +1838,7 @@ bond-lara-tabletop-fire-bowl:
     standard patio sets.
   last_verified: 2026-04-30
 flexzilla-garden-hose-50ft:
-  name: Flexzilla Garden Hose with SwivelGrip, 5/8" x 50 ft.
+  name: Flexzilla Garden Irrigation Hose with SwivelGrip, 5/8" x 50 ft.
   brand: Flexzilla
   amazon_asin: B00OHRTKLM
   awin_advertiser_id: null
@@ -1860,7 +1860,7 @@ flexzilla-garden-hose-50ft:
     hoses are lighter but less durable. Pair with irrigation timer content.
   last_verified: 2026-04-30
 gilmour-flat-soaker-hose-50ft:
-  name: Gilmour Flat Weeper Soaker Hose, 50 Ft.
+  name: Gilmour Flat Weeper Soaker Drip Hose, 50 Ft.
   brand: Gilmour
   amazon_asin: B001IKVWVW
   awin_advertiser_id: null
@@ -1881,7 +1881,7 @@ gilmour-flat-soaker-hose-50ft:
     emitter distinction is worth covering — soaker is simpler but less precise.
   last_verified: 2026-04-30
 orbit-62034-single-dial-hose-timer:
-  name: Orbit 62034 Single-Dial Mechanical Hose Watering Timer
+  name: Orbit 62034 Single-Dial Mechanical Irrigation Hose Watering Timer
   brand: Orbit
   amazon_asin: B006FLGHGE
   awin_advertiser_id: null
@@ -1902,7 +1902,7 @@ orbit-62034-single-dial-hose-timer:
     to stop forgetting to water.'
   last_verified: 2026-04-30
 rts-50gal-rain-barrel:
-  name: RTS Home Accents 50-Gallon Rain Collection Barrel, Walnut
+  name: RTS Home Accents 50-Gallon Rain Collection Drip Irrigation Barrel, Walnut
   brand: RTS Home Accents
   amazon_asin: B003H9WJMI
   awin_advertiser_id: null
@@ -2145,7 +2145,7 @@ keter-pacific-cool-bar:
     fire pit and string lights content for ''backyard party setup'' articles.'
   last_verified: 2026-04-30
 muchenghy-folding-adirondack-chair:
-  name: MUCHENGHY Folding Adirondack Chair, All-Weather HDPE, Black
+  name: MUCHENGHY Outdoor Folding Adirondack Chair, All-Weather HDPE, Black
   brand: MUCHENGHY
   amazon_asin: B09Q61GK6G
   awin_advertiser_id: null
@@ -3087,7 +3087,7 @@ pomya-30w-solar-heater-b0gq:
   notes_for_writers: Pomya brand absent from Amazon — low-quality SKU-churn category. Strip links to this product; do not recommend.
   last_verified: 2026-05-04
 jocisland-cedar-greenhouse-6x8-b0f9:
-  name: Jocisland 6x8 Ft Wooden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in
+  name: Jocisland 6x8 Ft Wooden Garden Greenhouse, Pre-Assembled Solid Cedar Frame, Walk-in
   brand: Jocisland
   amazon_asin: B0F9DK5Y79
   awin_advertiser_id: null
@@ -3105,7 +3105,7 @@ jocisland-cedar-greenhouse-6x8-b0f9:
   notes_for_writers: Best entry-level cedar greenhouse. Pre-assembled frame is the key selling point — lead with that.
   last_verified: 2026-05-01
 backyard-discovery-willow-greenhouse-b0cr:
-  name: Backyard Discovery Willow 9x6 Cedar Wood Walk-in Greenhouse with Exhaust Fan & PowerPort
+  name: Backyard Discovery Willow 9x6 Cedar Wood Walk-in Garden Greenhouse with Exhaust Fan & PowerPort
   brand: Backyard Discovery
   amazon_asin: B0CRSKH1T6
   awin_advertiser_id: null

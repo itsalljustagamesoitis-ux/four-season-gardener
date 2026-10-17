@@ -17,7 +17,7 @@ products:
       - "17-inch depth deep enough for tomatoes, carrots, and squash without restriction"
       - "Aluzinc-coated steel resists corrosion 3-5x longer than standard galvanized"
     article_specific_cons:
-      - "Metal panels get hot in direct sun , can affect soil temperature in hot climates"
+      - "Metal panels get hot in direct sun, can affect soil temperature in hot climates"
 tags: ["raised-beds", "informational"]
 disclosure_required: true
 noindex: false
@@ -48,7 +48,6 @@ Most metal elevated beds fall into one of two configurations. Some are fixed-sha
 
 ![Metal Raised Garden Beds With Legs](/images/articles/raised-beds-3.jpg)
 
-
 ## Why Material and Depth Matter More Than Price
 
 ### The Rust Problem With Cheap Galvanized Steel
@@ -57,7 +56,7 @@ Standard galvanized steel is zinc-coated and resists corrosion reasonably well i
 
 The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) uses Aluzinc-coated steel, which is a zinc-aluminum alloy coating rather than plain zinc. Aluzinc resists corrosion three to five times longer than standard galvanized steel, according to Vego's materials data, and my observation over two growing seasons tracks with that claim. The panels have shown no oxidation on the exterior, including over winter under a wet layer of mulch.
 
-This matters if you're considering a $90 galvanized bed versus a $280 modular kit and wondering what you're actually paying for. A significant part of it is the coating.
+This matters if you're considering a galvanized bed versus a modular kit and wondering what you're actually paying for. A significant part of it is the coating.
 
 ### Depth and Root Space
 
@@ -71,8 +70,7 @@ The 6-in-1 design connects six panels into six distinct shapes: a straight line,
 
 ![Metal Raised Garden Beds With Legs](/images/articles/raised-beds-4.jpg)
 
-
-For context, comparable fixed-dimension metal elevated beds include products like the Birdies 32" Tall Raised Garden Bed, which runs around $350 and comes in preset sizes without the modular option. Vego's kit is currently around $280 on Amazon, which positions it as less expensive than Birdies at comparable depth, with the added panel flexibility.
+For context, comparable fixed-dimension metal elevated beds include products like the Birdies 32" Tall Raised Garden Bed, which and comes in preset sizes without the modular option. Vego's kit, which positions it as less expensive than Birdies at comparable depth, with the added panel flexibility.
 
 ## Setting Up a Metal Raised Bed With Legs
 
@@ -90,7 +88,6 @@ A bed this size at 17 inches depth needs significant fill volume. For a 3x6 conf
 
 ![Metal Raised Garden Beds With Legs](/images/articles/raised-beds-5.jpg)
 
-
 The open base design (no solid floor) means the bed drains freely and connects to the ground below. Earthworms can migrate in over time, which is worth knowing if you're placing it on a surface where that matters.
 
 ### Positioning
@@ -103,7 +100,7 @@ If you're interested in beds that actively manage moisture, there's a separate l
 
 ### Buying on Price Without Checking Depth
 
-I've seen people spend $120 on a metal elevated bed with legs and then wonder why their tomatoes are running out of steam by July. The bed was 8 inches deep. The tomatoes ran out of root space. Spend the money on depth before you spend it on size.
+I've seen people spending that much on a metal elevated bed with legs and then wonder why their tomatoes are running out of steam by July. The bed was 8 inches deep. The tomatoes ran out of root space. Spend the money on depth before you spend it on size.
 
 ### Skipping Liner Options in Hot Climates
 
@@ -111,24 +108,23 @@ In climates with sustained summer heat, a coco coir liner against the inner pane
 
 ### Assuming Metal Means Maintenance-Free
 
-Aluzinc steel is durable but not indestructible. Scratches through the coating to bare metal are corrosion start points. I apply a thin coat of food-safe wax to any scratched panel edges at the end of each season. It takes five minutes and extends the coating's protection. The cheaper galvanized alternatives I've owned have not held up the same way, which brings me back to the coating quality argument.
+Aluzinc steel is durable but not indestructible. Scratches through the coating to bare metal are corrosion start points. I apply a thin coat of food-safe wax to any scratched panel edges at the end of each season. It takes five minutes and extends the coating's protection. The cheaper galvanized alternatives have not held up the same way, which brings me back to the coating quality argument.
 
 ![Metal Raised Garden Beds With Legs](/images/articles/raised-beds-6.jpg)
-
 
 ### Ignoring Weight on Decks
 
 A filled metal bed at this depth can weigh 800 to 1,000 pounds. If you're placing it on a wood deck, know your deck's load rating. Most residential decks handle 40 to 60 pounds per square foot, which is usually sufficient for a distributed-weight bed, but it's worth checking before you fill it.
 
-For a side-by-side look at how metal elevated beds compare to wooden options on longevity and maintenance, the [metal garden beds raised](/metal-garden-beds-raised/) article covers that comparison in detail. And if you're still deciding between materials, the [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) overview is a fair counterargument for wood.
+For a side-by-side look at how metal elevated beds compare to wooden options on longevity and maintenance, the [metal garden beds raised](/raised-garden-bed-metal/) article covers that comparison in detail. And if you're still deciding between materials, the [wooden raised beds garden kits](/wooden-raised-beds-garden-kits/) overview is a fair counterargument for wood.
 
 The [Raised Beds](/raised-beds/) section also has a full range of comparisons if you want to check other configurations before committing to this format.
 
 ## My Recommendation
 
-The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is the one I'd buy again, and did. The depth is the thing. At $280, it's not the cheapest option in this category, but it's the only elevated metal bed I've used at this price point that can actually grow tomatoes and root vegetables without compromise. The Aluzinc coating has held through two hard winters with no signs of failure. The modular configuration is legitimately useful if your space isn't a clean rectangle.
+The [Vego Garden 17" Tall 6-in-1 Modular Metal Raised Bed](product:vego-garden-6in1-17inch) is the one I'd buy again, and did. The depth is the thing. but it's the only elevated metal bed I've used at this price point that can actually grow tomatoes and root vegetables without compromise. The Aluzinc coating has held through two hard winters with no signs of failure. The modular configuration is legitimately useful if your space isn't a clean rectangle.
 
-If budget is the priority and you're growing mainly herbs and greens, a shallower bed at a lower price is defensible, though I'd still avoid anything under $150 if longevity matters to you. For full vegetable production in an elevated format, the Vego 17-inch is where I'd start.
+If budget is the priority and you're growing mainly herbs and greens, a shallower bed at a lower price is defensible, though I'd still avoid anything entry-level if longevity matters to you. For full vegetable production in an elevated format, the Vego 17-inch is where I'd start.
 
 ## Frequently Asked Questions
 
@@ -137,7 +133,6 @@ If budget is the priority and you're growing mainly herbs and greens, a shallowe
 For most vegetable crops, at least 12 inches of soil depth is the minimum. Tomatoes, carrots, and squash all benefit from 15 to 18 inches. A 17-inch bed like the Vego handles the full range without restriction, including deep-rooted crops that struggle in shallower containers.
 
 ![Metal Raised Garden Beds With Legs](/images/articles/raised-beds-7.jpg)
-
 
 ### Will metal raised garden beds heat up too much in summer?
 
@@ -149,7 +144,7 @@ Aluzinc and quality galvanized steel don't leach materials into soil at levels t
 
 ### How much does it cost to fill a 17-inch deep metal raised bed?
 
-Filling a 3x6 elevated bed at 17 inches depth requires roughly 18 to 20 cubic feet of growing medium. At current bulk prices in the Northeast, a quality compost-topsoil-perlite blend runs around $80 to $120 depending on source and delivery. Bagged mixes from a garden center for the same volume would run $150 to $200. The soil cost is a real budget item and worth factoring in alongside the bed price.
+Filling a 3x6 elevated bed at 17 inches depth requires roughly 18 to 20 cubic feet of growing medium. At current bulk prices in the Northeast, a quality compost-topsoil-perlite blend. Bagged mixes from a garden center for the same volume would. The soil cost is a real budget item and worth factoring in alongside the bed price.
 
 ### Do metal raised beds with legs need to be anchored to the ground?
 
@@ -189,7 +184,7 @@ No anchoring is needed for most freestanding metal elevated beds on a flat surfa
       "name": "How much does it cost to fill a 17-inch deep metal raised bed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Filling a 3x6 elevated bed at 17 inches depth requires roughly 18 to 20 cubic feet of growing medium. At current bulk prices in the Northeast, a quality compost-topsoil-perlite blend runs around $80 to $120 depending on source and delivery. Bagged mixes from a garden center for the same volume would run $150 to $200. The soil cost is a real budget item and worth factoring in alongside the bed price."
+ "text": "Filling a 3x6 elevated bed at 17 inches depth requires roughly 18 to 20 cubic feet of growing medium. At current bulk prices in the Northeast, a quality compost-topsoil-perlite blend. Bagged mixes from a garden center for the same volume would. The soil cost is a real budget item and worth factoring in alongside the bed price."
       }
     },
     {
@@ -203,4 +198,3 @@ No anchoring is needed for most freestanding metal elevated beds on a flat surfa
   ]
 }
 </script>
-
